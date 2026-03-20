@@ -1,0 +1,23 @@
+baseURL = "https://china-ev.de/"
+languageCode = "de-de"
+title = "China EV News"
+metaKeywords = "China E-Auto, Elektroautos, BYD, NIO, Xpeng, Li Auto, chinesische Elektroautos"
+description = "Die neuesten Nachrichten über Elektroautos aus China - Modelle, Technik, Innovationen"
+theme = "china-ev-blog"
+
+[params]
+author = "China EV News Team"
+github_repo = "Larsbyron/china_ev"
+giscus_repo = ""
+giscus_repo_id = ""
+giscus_category = ""
+giscus_category_id = ""
+
+[outputs]
+home = ["HTML"]
+page = ["HTML"]
+
+[markup]
+[markup.highlight]
+codeFences = true
+lineNos = false

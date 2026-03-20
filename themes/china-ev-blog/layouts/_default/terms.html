@@ -1,0 +1,14 @@
+{{ define "main" }}
+<main class="main">
+  <div class="container">
+    <div class="section-header">
+      <h1 class="section-title">{{ .Title }}</h1>
+    </div>
+    <div class="tags" style="margin-top: 2rem;">
+      {{ range .Data.Terms }}
+      <a href="{{ .Page.RelPermalink }}" class="tag" style="font-size: 1rem; padding: 0.5rem 1rem;">{{ .Page.Title }} ({{ .Count }})</a>
+      {{ end }}
+    </div>
+  </div>
+</main>
+{{ end }}

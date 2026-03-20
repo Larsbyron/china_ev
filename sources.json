@@ -1,0 +1,78 @@
+{
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "source_key": "techcrunch",
+      "category": "tech",
+      "filter_keywords": ["China", "Chinese", "electric", "EV", "Tesla", "BYD", "NIO", "XPeng", "Li Auto", "automotive", "car"],
+      "max_articles": 3
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "source_key": "verge",
+      "category": "tech",
+      "filter_keywords": ["China", "electric", "car", "EV", "Tesla", "automotive"],
+      "max_articles": 2
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "source_key": "arstechnica",
+      "category": "tech",
+      "filter_keywords": ["electric", "car", "EV", "China", "Tesla", "automotive", "vehicle"],
+      "max_articles": 2
+    },
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com/rss.xml",
+      "source_key": "engadget",
+      "category": "tech",
+      "filter_keywords": ["electric", "car", "EV", "China", "Tesla", "automotive"],
+      "max_articles": 2
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/feed/rss",
+      "source_key": "wired",
+      "category": "tech",
+      "filter_keywords": ["electric", "car", "EV", "China", "Tesla", "automotive"],
+      "max_articles": 2
+    }
+  ],
+  "chinese_sources": [
+    {
+      "name": "Sina Auto",
+      "url": "https://auto.sina.com.cn/rss/news.html",
+      "source_key": "sina",
+      "category": "news",
+      "max_articles": 3
+    },
+    {
+      "name": "太平洋汽车",
+      "url": "https://www.pcauto.com.cn/rss/",
+      "source_key": "pconline",
+      "category": "news",
+      "max_articles": 3
+    },
+    {
+      "name": "网易汽车",
+      "url": "https://auto.163.com/rss/",
+      "source_key": "163",
+      "category": "news",
+      "max_articles": 3
+    }
+  ],
+  "translation": {
+    "model": "qwen-plus",
+    "region": "eu-central-1",
+    "max_articles_per_source": 5,
+    "target_lang": "Deutsch"
+  },
+  "filtering": {
+    "min_article_age_hours": 0,
+    "max_article_age_hours": 72,
+    "keywords_excluded": ["used car", "accident", "二手车"]
+  }
+}

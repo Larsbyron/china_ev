@@ -1,0 +1,16 @@
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store

@@ -1,0 +1,64 @@
+{{ define "main" }}
+{{ $pages := where site.RegularPages "Type" "in" (slice "posts") }}
+{{ $featured := first 1 $pages }}
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-badge">
+      <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><circle cx="6" cy="6" r="6"/></svg>
+      Live aktualisiert
+    </div>
+    {{ range $featured }}
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+    {{ else }}
+    <h1>China EV News</h1>
+    <p>Die neuesten Nachrichten über Elektroautos aus China — täglich automatisch übersetzt und aktualisiert.</p>
+    {{ end }}
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-value">{{ len $pages }}</span><span class="stat-label">Artikel</span></div>
+      <div class="stat"><span class="stat-value">5</span><span class="stat-label">Quellen</span></div>
+      <div class="stat"><span class="stat-value">Täglich</span><span class="stat-label">Aktualisiert</span></div>
+    </div>
+  </div>
+</section>
+
+<main class="main">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">Neueste Artikel</h2>
+      <a href="/posts/" style="color: var(--primary); text-decoration: none; font-weight: 600;">Alle anzeigen →</a>
+    </div>
+
+    {{ if $pages }}
+    <div class="article-grid">
+      {{ range first 12 $pages }}
+      <article class="article-card">
+        <div class="article-image">
+          <svg viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+        </div>
+        <div class="article-content">
+          <div class="article-meta">
+            {{ with .Params.source }}<span class="article-source">{{ . }}</span>{{ end }}
+            {{ with .Params.tag }}<span class="article-tag">{{ . }}</span>{{ end }}
+          </div>
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <p class="article-excerpt">{{ .Description }}</p>
+          <div class="article-footer">
+            <span class="article-date">{{ .Date.Format "02.01.2006" }}</span>
+            <a href="{{ .Permalink }}" class="read-more">Weiterlesen →</a>
+          </div>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    {{ else }}
+    <div class="empty-state">
+      <svg viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+      <h3>Keine Artikel vorhanden</h3>
+      <p>Die automatische Pipeline wird in Kürze neue Artikel laden.</p>
+    </div>
+    {{ end }}
+  </div>
+</main>
+{{ end }}
