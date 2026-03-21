@@ -112,7 +112,7 @@ Deutsche Übersetzung:"""
     }
 
     payload = {
-        "model": "qwen-plus",
+        "model": "qwen3.5-plus",
         "messages": [{"role": "user", "content": prompt}],
         "max_tokens": 2500,
         "temperature": 0.3
@@ -140,7 +140,7 @@ def generate_slug(title, source_key):
 
 def save_markdown(article, translated_title, translated_content, source_name, original_url=""):
     """Save article as Markdown file"""
-    slug = generate_slug(article.get('title', translated_title), source_key.lower().replace(' ', ''))
+    slug = generate_slug(article.get('title', translated_title), source_name.lower().replace(' ', ''))
     date = datetime.now().strftime("%Y-%m-%d")
     filename = CONTENT_DIR / f"{date}-{slug}.md"
 
