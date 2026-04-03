@@ -33,6 +33,18 @@
       <h3>Keine Artikel vorhanden</h3>
     </div>
     {{ end }}
+
+    {{ if gt .TotalPages 1 }}
+    <nav class="pagination" aria-label="Seitennavigation">
+      {{ if .Paginator.HasPrev }}
+      <a class="pagination-prev" href="{{ .Paginator.Prev.URL }}">← Zurück</a>
+      {{ end }}
+      <span class="pagination-info">Seite {{ .Paginator.PageNumber }} von {{ .TotalPages }}</span>
+      {{ if .Paginator.HasNext }}
+      <a class="pagination-next" href="{{ .Paginator.Next.URL }}">Weiter →</a>
+      {{ end }}
+    </nav>
+    {{ end }}
   </div>
 </main>
 {{ end }}

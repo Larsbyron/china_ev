@@ -1,19 +1,40 @@
 {
   "sources": [
     {
+      "name": "Sina Auto",
+      "url": "https://auto.sina.com.cn/rss/news.html",
+      "source_key": "sina",
+      "category": "news",
+      "max_articles": 5
+    },
+    {
+      "name": "太平洋汽车",
+      "url": "https://www.pcauto.com.cn/rss/",
+      "source_key": "pconline",
+      "category": "news",
+      "max_articles": 5
+    },
+    {
+      "name": "网易汽车",
+      "url": "https://auto.163.com/rss/",
+      "source_key": "163",
+      "category": "news",
+      "max_articles": 5
+    },
+    {
       "name": "TechCrunch",
       "url": "https://techcrunch.com/feed/",
       "source_key": "techcrunch",
       "category": "tech",
-      "filter_keywords": ["China", "Chinese", "electric", "EV", "Tesla", "BYD", "NIO", "XPeng", "Li Auto", "automotive", "car"],
-      "max_articles": 3
+      "filter_keywords": ["China", "Chinese", "BYD", "NIO", "XPeng", "Li Auto", "Xiaomi Auto", "electric", "EV"],
+      "max_articles": 2
     },
     {
       "name": "The Verge",
       "url": "https://www.theverge.com/rss/index.xml",
       "source_key": "verge",
       "category": "tech",
-      "filter_keywords": ["China", "electric", "car", "EV", "Tesla", "automotive"],
+      "filter_keywords": ["China", "BYD", "NIO", "XPeng", "Li Auto", "electric car", "EV"],
       "max_articles": 2
     },
     {
@@ -21,7 +42,7 @@
       "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
       "source_key": "arstechnica",
       "category": "tech",
-      "filter_keywords": ["electric", "car", "EV", "China", "Tesla", "automotive", "vehicle"],
+      "filter_keywords": ["China", "BYD", "NIO", "electric car", "EV"],
       "max_articles": 2
     },
     {
@@ -29,7 +50,7 @@
       "url": "https://www.engadget.com/rss.xml",
       "source_key": "engadget",
       "category": "tech",
-      "filter_keywords": ["electric", "car", "EV", "China", "Tesla", "automotive"],
+      "filter_keywords": ["China", "BYD", "NIO", "electric car", "EV"],
       "max_articles": 2
     },
     {
@@ -37,35 +58,12 @@
       "url": "https://www.wired.com/feed/rss",
       "source_key": "wired",
       "category": "tech",
-      "filter_keywords": ["electric", "car", "EV", "China", "Tesla", "automotive"],
+      "filter_keywords": ["China", "BYD", "NIO", "electric car", "EV"],
       "max_articles": 2
     }
   ],
-  "chinese_sources": [
-    {
-      "name": "Sina Auto",
-      "url": "https://auto.sina.com.cn/rss/news.html",
-      "source_key": "sina",
-      "category": "news",
-      "max_articles": 3
-    },
-    {
-      "name": "太平洋汽车",
-      "url": "https://www.pcauto.com.cn/rss/",
-      "source_key": "pconline",
-      "category": "news",
-      "max_articles": 3
-    },
-    {
-      "name": "网易汽车",
-      "url": "https://auto.163.com/rss/",
-      "source_key": "163",
-      "category": "news",
-      "max_articles": 3
-    }
-  ],
   "translation": {
-    "model": "qwen-plus",
+    "model": "qwen3.5-plus",
     "region": "eu-central-1",
     "max_articles_per_source": 5,
     "target_lang": "Deutsch"

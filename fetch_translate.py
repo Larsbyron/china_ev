@@ -241,20 +241,16 @@ def main():
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     config = load_sources()
     sources = config.get('sources', [])
-    chinese_sources = config.get('chinese_sources', [])
 
-    print(f"\n📡 Loaded {len(sources)} international + {len(chinese_sources)} Chinese sources")
+    # Chinese and Western sources are now co-primary (no fallback-only logic)
+    chinese_sources = [s for s in sources if s.get('category') == 'news' and s.get('source_key') in ('sina', 'pconline', '163')]
+    western_sources = [s for s in sources if s not in chinese_sources]
+
+    print(f"\n📡 Loaded {len(chinese_sources)} Chinese + {len(western_sources)} Western sources")
 
     total = 0
     for source in sources:
         total += process_source(source)
-
-    if total < 3 and chinese_sources:
-        print("\n--- Trying Chinese sources ---")
-        for source in chinese_sources:
-            total += process_source(source)
-            if total >= 5:
-                break
 
     print("\n" + "=" * 60)
     print(f"✅ Complete! {total} articles")
