@@ -21,14 +21,10 @@ import html
 load_dotenv()
 
 # Configuration
-ALIYUN_API_KEY = os.getenv("ALIYUN_API_KEY")
-ALIYUN_REGION = os.getenv("ALIYUN_REGION", "eu-central-1")
-QWEN_BASE_URL = os.getenv("QWEN_BASE_URL", "https://coding-intl.dashscope.aliyuncs.com/v1")
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY") or os.getenv("ALIYUN_API_KEY")
+ANTHROPIC_BASE_URL = "https://api.minimax.io/anthropic/v1"
 CONTENT_DIR = Path("content/posts")
 SOURCES_FILE = Path("sources.json")
-
-# Qwen API endpoint
-QWEN_API_URL = f"{QWEN_BASE_URL}/chat/completions"
 
 
 def load_sources():
@@ -92,12 +88,12 @@ def extract_article_content(entry):
 
 
 def translate_with_qwen(text, target_lang="Deutsch"):
-    """Translate text using Qwen API"""
-    if not ALIYUN_API_KEY:
-        print("  [ERROR] ALIYUN_API_KEY not set")
+    """Translate text using MiniMax Claude proxy"""
+    if not ANTHROPIC_API_KEY:
+        print("  [ERROR] ANTHROPIC_API_KEY not set")
         return None
 
-    prompt = f"""Übersetze den folgenden Text ins Deutsche准确翻译成德语。
+    prompt = f"""Übersetze den folgenden Text准确翻译成德语 ins Deutsche.
 Erhalte die Struktur und Formatierung wenn möglich.
 Gebe nur die Übersetzung aus, ohne Erklärungen.
 
@@ -107,23 +103,29 @@ Text:
 Deutsche Übersetzung:"""
 
     headers = {
-        "Authorization": f"Bearer {ALIYUN_API_KEY}",
-        "Content-Type": "application/json"
+        "Authorization": f"Bearer {ANTHROPIC_API_KEY}",
+        "Content-Type": "application/json",
+        "anthropic-version": "2023-06-01"
     }
 
     payload = {
-        "model": "qwen3.5-plus",
-        "messages": [{"role": "user", "content": prompt}],
+        "model": "MiniMax-M2.7",
         "max_tokens": 2500,
-        "temperature": 0.3
+        "temperature": 0.3,
+        "messages": [{"role": "user", "content": prompt}]
     }
 
     try:
-        response = requests.post(QWEN_API_URL, headers=headers, json=payload, timeout=60)
+        response = requests.post(f"{ANTHROPIC_BASE_URL}/messages", headers=headers, json=payload, timeout=60)
         response.raise_for_status()
         result = response.json()
-        if "choices" in result and len(result["choices"]) > 0:
-            return result["choices"][0]["message"]["content"].strip()
+        if "content" in result and len(result["content"]) > 0:
+            # Handle both text and thinking block responses
+            for block in result["content"]:
+                if block.get("type") == "text":
+                    return block["text"].strip()
+            # If only thinking blocks, return empty
+            return None
         return None
     except Exception as e:
         print(f"  [ERROR] Translation failed: {e}")
@@ -233,9 +235,9 @@ def main():
     print("🇨🇳 China EV News Pipeline — DE Edition v2")
     print("=" * 60)
 
-    if not ALIYUN_API_KEY:
-        print("\n❌ ERROR: ALIYUN_API_KEY not set!")
-        print("   Get your API key from: https://dashscope.console.aliyun.com/")
+    if not ANTHROPIC_API_KEY:
+        print("\n❌ ERROR: ANTHROPIC_API_KEY not set!")
+        print("   Set ANTHROPIC_API_KEY in .env or GitHub Secrets")
         sys.exit(1)
 
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)

@@ -22,7 +22,7 @@ jobs:
 
       - name: Fetch and translate articles
         env:
-          ALIYUN_API_KEY: ${{ secrets.ALIYUN_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_translate.py
 
       - name: Build Hugo
