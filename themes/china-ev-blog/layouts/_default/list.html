@@ -34,12 +34,12 @@
     </div>
     {{ end }}
 
-    {{ if gt .TotalPages 1 }}
+    {{ if gt (len .Paginator.Pages) 1 }}
     <nav class="pagination" aria-label="Seitennavigation">
       {{ if .Paginator.HasPrev }}
       <a class="pagination-prev" href="{{ .Paginator.Prev.URL }}">← Zurück</a>
       {{ end }}
-      <span class="pagination-info">Seite {{ .Paginator.PageNumber }} von {{ .TotalPages }}</span>
+      <span class="pagination-info">Seite {{ .Paginator.PageNumber }} von {{ len (where ($.Paginator.Pages) "Section" "posts") }}</span>
       {{ if .Paginator.HasNext }}
       <a class="pagination-next" href="{{ .Paginator.Next.URL }}">Weiter →</a>
       {{ end }}
