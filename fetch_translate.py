@@ -152,14 +152,19 @@ def save_markdown(article, translated_title, translated_content, source_name, or
             if hasattr(tag, 'term'):
                 tags.append(tag.term)
 
+    # Strip double quotes from description to prevent YAML frontmatter breakage
+    safe_title = translated_title.replace('"', "'")
+    safe_source = source_name.replace('"', "'")
+    safe_content_preview = translated_content[:200].replace('"', "'").replace('\n', ' ')
+
     frontmatter = f'''---
-title: "{translated_title}"
+title: "{safe_title}"
 date: {datetime.now().isoformat()}
-description: "{translated_content[:200]}..."
-source: "{source_name}"
+description: "{safe_content_preview}..."
+source: "{safe_source}"
 category: "news"
 tag: "E-Auto"
-tags: [{', '.join(f'"{t}"' for t in tags[:5])}]
+tags: [{', '.join(f'"{t.replace('"', "'")}"' for t in tags[:5])}]
 draft: false
 original_url: "{original_url}"
 ---
