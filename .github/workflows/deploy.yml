@@ -33,10 +33,11 @@ jobs:
       - name: Build site
         run: hugo
 
-      - name: Deploy to Strato
-        uses: SamKirkland/FTP-Deploy-Action@3.0.0
+      - name: Deploy to Vercel
+        uses: amondnet/vercel-action@v25
         with:
-          ftp-server: ${{ secrets.FTP_SERVER }}
-          ftp-username: ${{ secrets.FTP_USERNAME }}
-          ftp-password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./public
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          vercel-args: '--prod'
+          working-directory: ./public
