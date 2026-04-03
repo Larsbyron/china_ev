@@ -156,6 +156,8 @@ def save_markdown(article, translated_title, translated_content, source_name, or
     safe_title = translated_title.replace('"', "'")
     safe_source = source_name.replace('"', "'")
     safe_content_preview = translated_content[:200].replace('"', "'").replace('\n', ' ')
+    safe_tags = [t.replace('"', "'") for t in tags[:5]]
+    tags_line = ', '.join(f'"{t}"' for t in safe_tags)
 
     frontmatter = f'''---
 title: "{safe_title}"
@@ -164,7 +166,7 @@ description: "{safe_content_preview}..."
 source: "{safe_source}"
 category: "news"
 tag: "E-Auto"
-tags: [{', '.join(f'"{t.replace('"', "'")}"' for t in tags[:5])}]
+tags: [{tags_line}]
 draft: false
 original_url: "{original_url}"
 ---
