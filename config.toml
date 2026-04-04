@@ -8,13 +8,6 @@ theme = "china-ev-blog"
 [params]
 author = "China EV News Team"
 github_repo = "Larsbyron/china_ev"
-# Giscus Comments: visit https://giscus.app with your GitHub repo,
-# copy the generated values here. Repo must be public with Discussions enabled.
-giscus_repo = ""
-giscus_repo_id = ""
-giscus_category = ""
-giscus_category_id = ""
-
 # Social links (leave empty to hide)
 twitter_url = ""
 linkedin_url = ""
