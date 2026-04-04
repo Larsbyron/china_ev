@@ -20,50 +20,10 @@
       "source_key": "163",
       "category": "news",
       "max_articles": 5
-    },
-    {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/feed/",
-      "source_key": "techcrunch",
-      "category": "tech",
-      "filter_keywords": ["China", "Chinese", "BYD", "NIO", "XPeng", "Li Auto", "Xiaomi Auto", "electric", "EV"],
-      "max_articles": 2
-    },
-    {
-      "name": "The Verge",
-      "url": "https://www.theverge.com/rss/index.xml",
-      "source_key": "verge",
-      "category": "tech",
-      "filter_keywords": ["China", "BYD", "NIO", "XPeng", "Li Auto", "electric car", "EV"],
-      "max_articles": 2
-    },
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "source_key": "arstechnica",
-      "category": "tech",
-      "filter_keywords": ["China", "BYD", "NIO", "electric car", "EV"],
-      "max_articles": 2
-    },
-    {
-      "name": "Engadget",
-      "url": "https://www.engadget.com/rss.xml",
-      "source_key": "engadget",
-      "category": "tech",
-      "filter_keywords": ["China", "BYD", "NIO", "electric car", "EV"],
-      "max_articles": 2
-    },
-    {
-      "name": "Wired",
-      "url": "https://www.wired.com/feed/rss",
-      "source_key": "wired",
-      "category": "tech",
-      "filter_keywords": ["China", "BYD", "NIO", "electric car", "EV"],
-      "max_articles": 2
     }
   ],
   "translation": {
-    "model": "qwen3.5-plus",
+    "model": "MiniMax-M2.7",
     "region": "eu-central-1",
     "max_articles_per_source": 5,
     "target_lang": "Deutsch"

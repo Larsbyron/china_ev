@@ -1,33 +1,31 @@
 # China EV News
 
-Ein automatisiertes Nachrichtenportal für deutsche Auto-Enthusiasten mit den neuesten Nachrichten über chinesische Elektroautos.
+[![Deploy](https://github.com/Larsbyron/china_ev/actions/workflows/deploy.yml/badge.svg)](https://github.com/Larsbyron/china_ev/actions/workflows/deploy.yml)
+
+Ein automatisiertes Nachrichtenportal für deutsche Auto-Enthusiasten mit den neuesten Nachrichten über chinesische Elektroautos — direkt aus chinesischen Quellen übersetzt.
 
 ## Features
 
-- **Automatische Content-Sammlung** — RSS-Feeds von TechCrunch, The Verge, Ars Technica
-- **KI-Übersetzung** — Qwen API (Aliyun) übersetzt Artikel ins Deutsche
+- **Chinesische Primärquellen** — Sina Auto, 太平洋汽车, 网易汽车
+- **KI-Übersetzung** — MiniMax Claude API übersetzt Artikel ins Deutsche
 - **Modernes Design** — Hugo Static Site mit responsivem Layout
-- **Dark Mode** — Automatische dunkler Modus Unterstützung
-- **Social Sharing** — Twitter, LinkedIn, Native Share
+- **Deduplizierung** — SHA-256 Fingerprinting verhindert doppelte Artikel
+- **Wöchentliche Kuratierung** — Top 5 chinesische E-Autos jede Woche
 
 ## Quick Start
 
 ```bash
-# 1. API Key konfigurieren
-cp .env.example .env
-# .env bearbeiten
-
-# 2. Dependencies installieren
+# 1. Dependencies installieren
 pip install -r requirements.txt
 
-# 3. Artikel holen und übersetzen
+# 2. Artikel holen und übersetzen
 python fetch_translate.py
 
-# 4. Seite bauen
+# 3. Seite bauen
 hugo
 
-# 5. Lokal ansehen
-hugo server -D
+# 4. Lokal ansehen
+hugo server
 ```
 
 ## GitHub Actions
@@ -38,23 +36,25 @@ In https://github.com/Larsbyron/china_ev/settings/secrets → Actions:
 
 | Secret | Beschreibung |
 |---------|--------------|
-| `ALIYUN_API_KEY` | Aliyun Qwen API Key |
-| `FTP_SERVER` | ftp.your-domain.de |
-| `FTP_USERNAME` | Strato Username |
-| `FTP_PASSWORD` | Strato Passwort |
+| `ANTHROPIC_API_KEY` | MiniMax Anthropic API Key |
+| `VERCEL_TOKEN` | Vercel Deploy Token |
+| `VERCEL_ORG_ID` | Vercel Organisation ID |
+| `VERCEL_PROJECT_ID` | Vercel Projekt ID |
 
-### Workflow aktivieren
+### Workflow
 
-1. https://github.com/Larsbyron/china_ev/actions
-2. "deploy.yml" → "Run workflow"
+Läuft automatisch:
+- Täglich um 8:00 UTC — tägliche Artikel
+- Freitags um 8:00 UTC — wöchentliche Top 5 Kuratierung
 
-Läuft automatisch täglich um 8:00 UTC.
-
-## Strato Deployment
+## Lokale Commands
 
 ```bash
-# deploy.sh bearbeiten mit echten Daten
-./deploy.sh
+# Wöchentliche Top 5 neu erstellen
+python fetch_translate.py --weekly
+
+# Fingerprints neu aufbauen
+python fetch_translate.py --rebuild-fingerprints
 ```
 
 ## Lizenz

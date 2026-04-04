@@ -3,6 +3,7 @@ name: Daily Build and Deploy
 on:
   schedule:
     - cron: '0 8 * * *'  # Daily at 8 AM UTC
+    - cron: '0 8 * * 5'  # Friday at 8 AM UTC — Weekly Top 5
   workflow_dispatch:  # Manual trigger
 
 jobs:
@@ -13,6 +14,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -43,3 +46,45 @@ jobs:
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           vercel-args: '--prod'
           working-directory: ./public
+
+      - name: Commit fingerprints and runlog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add processed_articles.json .runlog.jsonl content/posts/ 2>/dev/null || true
+          git diff --quiet --cached || git commit -m "ci: commit fingerprints and runlog [skip ci]
+Co-Authored-By: github-actions[bot] <github-actions[bot]@users.noreply.github.com>" || true
+          git push
+
+  weekly-top5:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' && github.event.schedule == '0 8 * * 5'
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build weekly Top 5
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python fetch_translate.py --weekly
+
+      - name: Commit weekly post
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/posts/weekly-top5-*.md .runlog.jsonl 2>/dev/null || true
+          git diff --quiet --cached || git commit -m "ci: commit weekly Top 5 [skip ci]
+Co-Authored-By: github-actions[bot] <github-actions[bot]@users.noreply.github.com>" || true
+          git push
