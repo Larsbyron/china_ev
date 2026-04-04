@@ -1,4 +1,4 @@
-baseURL = "https://www.china-ev.de/"
+baseURL = "https://china-evnews.vercel.app/"
 languageCode = "de-de"
 title = "China EV News"
 metaKeywords = "China E-Auto, Elektroautos, BYD, NIO, Xpeng, Li Auto, chinesische Elektroautos"
