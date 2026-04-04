@@ -44,7 +44,7 @@ jobs:
       - name: Deploy to Vercel
         run: |
           cd public
-          npx vercel --prod --token=${{ secrets.VERCEL_TOKEN }}
+          npx vercel --prod --yes --token=${{ secrets.VERCEL_TOKEN }}
 
       - name: Commit fingerprints and runlog
         run: |
