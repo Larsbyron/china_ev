@@ -51,7 +51,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add processed_articles.json .runlog.jsonl content/posts/
-          git diff --quiet --cached
+          git diff --quiet --cached || true
           git commit -m "ci: commit fingerprints and runlog [skip ci]" || true
           git push || true
 
