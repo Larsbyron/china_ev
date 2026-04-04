@@ -1,25 +1,20 @@
 {
   "sources": [
     {
-      "name": "Sina Auto",
-      "url": "https://auto.sina.com.cn/rss/news.html",
-      "source_key": "sina",
+      "name": "CnEVPost",
+      "url": "https://cnevpost.com/feed/",
+      "source_key": "cnevpost",
       "category": "news",
-      "max_articles": 5
+      "max_articles": 5,
+      "filter_keywords": ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Xiaomi SU", "Onvo", "Li L", "Mona", "Geely", "Zeekr", "Leapmotor", "Aion", "Hyptec", "China EV", "Chinese electric", "EU import", "tariff"]
     },
     {
-      "name": "太平洋汽车",
-      "url": "https://www.pcauto.com.cn/rss/",
-      "source_key": "pconline",
+      "name": "Electrek",
+      "url": "https://electrek.co/feed/",
+      "source_key": "electrek",
       "category": "news",
-      "max_articles": 5
-    },
-    {
-      "name": "网易汽车",
-      "url": "https://auto.163.com/rss/",
-      "source_key": "163",
-      "category": "news",
-      "max_articles": 5
+      "max_articles": 3,
+      "filter_keywords": ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Xiaomi SU", "Onvo", "Geely", "Zeekr", "China EV", "Chinese EV", "Chinese electric", "EU tariff", "import duty"]
     }
   ],
   "translation": {
@@ -27,10 +22,5 @@
     "region": "eu-central-1",
     "max_articles_per_source": 5,
     "target_lang": "Deutsch"
-  },
-  "filtering": {
-    "min_article_age_hours": 0,
-    "max_article_age_hours": 72,
-    "keywords_excluded": ["used car", "accident", "二手车"]
   }
 }

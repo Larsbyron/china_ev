@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.china-ev.de/$1",
+      "permanent": true,
+      "statusCode": 301
+    }
+  ]
+}

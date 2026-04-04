@@ -1,4 +1,4 @@
-baseURL = "https://china-ev.de/"
+baseURL = "https://www.china-ev.de/"
 languageCode = "de-de"
 title = "China EV News"
 metaKeywords = "China E-Auto, Elektroautos, BYD, NIO, Xpeng, Li Auto, chinesische Elektroautos"
@@ -14,6 +14,10 @@ giscus_repo = ""
 giscus_repo_id = ""
 giscus_category = ""
 giscus_category_id = ""
+
+# Social links (leave empty to hide)
+twitter_url = ""
+linkedin_url = ""
 
 [outputs]
 home = ["HTML"]

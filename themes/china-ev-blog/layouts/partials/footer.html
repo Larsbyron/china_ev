@@ -8,9 +8,8 @@
     </div>
     <div class="footer-section">
       <h4>Quellen</h4>
-      <a href="https://techcrunch.com" target="_blank" rel="noopener">TechCrunch</a>
-      <a href="https://www.theverge.com" target="_blank" rel="noopener">The Verge</a>
-      <a href="https://arstechnica.com" target="_blank" rel="noopener">Ars Technica</a>
+      <a href="https://cnevpost.com" target="_blank" rel="noopener">CnEVPost</a>
+      <a href="https://electrek.co" target="_blank" rel="noopener">Electrek</a>
     </div>
     <div class="footer-section">
       <h4>Rechtliches</h4>
@@ -19,8 +18,8 @@
     </div>
     <div class="footer-section">
       <h4>Folgen Sie uns</h4>
-      <a href="https://twitter.com" target="_blank" rel="noopener">Twitter / X</a>
-      <a href="https://linkedin.com" target="_blank" rel="noopener">LinkedIn</a>
+      {{ with site.Params.twitter_url }}<a href="{{ . }}" target="_blank" rel="noopener">Twitter / X</a>{{ end }}
+      {{ with site.Params.linkedin_url }}<a href="{{ . }}" target="_blank" rel="noopener">LinkedIn</a>{{ end }}
     </div>
   </div>
   <div class="footer-bottom">
