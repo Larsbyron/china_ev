@@ -147,6 +147,23 @@ def extract_article_content(entry):
     return content[:4000]
 
 
+def extract_article_image(entry):
+    """Extract the first image URL from RSS entry HTML"""
+    html_content = ""
+    if hasattr(entry, 'content') and entry.content:
+        html_content = entry.content[0].value if hasattr(entry.content[0], 'value') else str(entry.content[0])
+    elif hasattr(entry, 'summary'):
+        html_content = entry.summary
+    elif hasattr(entry, 'description'):
+        html_content = entry.description
+
+    # Look for <img src="..."> pattern
+    img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', html_content, re.IGNORECASE)
+    if img_match:
+        return img_match.group(1)
+    return ""
+
+
 def translate_with_qwen(text, target_lang="Deutsch"):
     """Translate text using MiniMax Claude proxy with retry and backoff"""
     if not ANTHROPIC_API_KEY:
@@ -223,7 +240,7 @@ def generate_slug(title, source_key):
     return f"{slug[:50]}-{source_key}-{hash_suffix}"
 
 
-def save_markdown(article, translated_title, translated_content, source_name, original_url="", draft=False):
+def save_markdown(article, translated_title, translated_content, source_name, original_url="", draft=False, image_url=""):
     """Save article as Markdown file"""
     slug = generate_slug(article.get('title', translated_title), source_name.lower().replace(' ', ''))
     date = datetime.now().strftime("%Y-%m-%d")
@@ -244,12 +261,13 @@ def save_markdown(article, translated_title, translated_content, source_name, or
     safe_content_preview = (translated_content[:200].replace('"', "'").replace('\n', ' ') if translated_content else "").replace('"', "'")
     safe_tags = [t.replace('"', "'") for t in tags[:5]]
     tags_line = ', '.join(f'"{t}"' for t in safe_tags)
+    image_line = f'\nimage: "{image_url}"' if image_url else ''
 
     frontmatter = f'''---
 title: "{safe_title}"
 date: {datetime.now().isoformat()}
 description: "{safe_content_preview}..."
-source: "{safe_source}"
+source: "{safe_source}"{image_line}
 category: "news"
 tag: "E-Auto"
 tags: [{tags_line}]
@@ -295,6 +313,7 @@ def process_source(source, fingerprints):
             title = entry.get('title', 'Ohne Titel')
             raw_content = extract_article_content(entry)
             link = entry.get('link', '')
+            image_url = extract_article_image(entry)
 
             if not raw_content or len(raw_content) < 50:
                 log_run({"source_key": source['source_key'], "title": title}, "skipped_short", translation_ok=None)
@@ -329,7 +348,7 @@ def process_source(source, fingerprints):
 
             # Save as draft if translation failed
             is_draft = not translation_ok
-            save_markdown(entry, translated_title, translated_content, source['name'], link, draft=is_draft)
+            save_markdown(entry, translated_title, translated_content, source['name'], link, draft=is_draft, image_url=image_url)
 
             # Record fingerprint even for drafts (don't retry failed articles)
             fingerprints[fingerprint] = {

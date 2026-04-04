@@ -125,13 +125,12 @@ body {
 .article-image {
   width: 100%;
   height: 200px;
-  object-fit: cover;
   background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  overflow: hidden;
+  display: block;
 }
-.article-image svg { width: 48px; height: 48px; fill: white; opacity: 0.5; }
+.article-image img { width: 100%; height: 200px; object-fit: cover; display: block; }
+.article-image svg { width: 48px; height: 48px; fill: white; opacity: 0.5; display: block; margin: auto; position: relative; top: 50%; transform: translateY(-50%); }
 .article-content { padding: 1.25rem; }
 .article-meta { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem; font-size: 0.75rem; color: var(--text-light); }
 .article-source { background: var(--bg-alt); padding: 0.2rem 0.5rem; border-radius: 4px; font-weight: 500; }
