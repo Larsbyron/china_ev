@@ -19,6 +19,7 @@ import unicodedata
 from datetime import datetime, timedelta
 from pathlib import Path
 from dotenv import load_dotenv
+from bs4 import BeautifulSoup
 
 # Load environment variables
 load_dotenv()
@@ -145,6 +146,63 @@ def extract_article_content(entry):
     content = html.unescape(content)
     content = content.strip()
     return content[:12000]
+
+
+def fetch_full_article(url):
+    """Fetch full article HTML from URL and extract main content"""
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        }
+        response = requests.get(url, headers=headers, timeout=30)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, 'html.parser')
+
+        # Remove script, style, nav, header, footer elements
+        for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'button']):
+            tag.decompose()
+
+        # Try common article content selectors
+        article = None
+        selectors = [
+            'article[itemprop="articleBody"]',
+            '.article-content',
+            '.post-content',
+            '.entry-content',
+            '.content-body',
+            'article',
+            'main',
+            '[role="main"]'
+        ]
+        for selector in selectors:
+            article = soup.select_one(selector)
+            if article and len(article.get_text(strip=True)) > 200:
+                break
+
+        if not article:
+            # Fallback: find the largest text block
+            candidates = soup.find_all(['div', 'section'])
+            best = None
+            for c in candidates:
+                text = c.get_text(strip=True)
+                if len(text) > 500 and (not best or len(text) > len(best.get_text(strip=True))):
+                    best = c
+            article = best
+
+        if not article:
+            return ""
+
+        # Extract text while preserving paragraphs
+        paragraphs = article.find_all('p')
+        if paragraphs:
+            text = '\n\n'.join(p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 20)
+        else:
+            text = article.get_text(separator='\n\n', strip=True)
+
+        return text[:15000]
+    except Exception as e:
+        print(f"  [WARN] Failed to fetch full article from {url}: {e}")
+        return ""
 
 
 def extract_article_image(entry):
@@ -311,9 +369,24 @@ def process_source(source, fingerprints):
     for i, entry in enumerate(entries[:source.get('max_articles', 5)]):
         try:
             title = entry.get('title', 'Ohne Titel')
-            raw_content = extract_article_content(entry)
             link = entry.get('link', '')
             image_url = extract_article_image(entry)
+
+            # Try to fetch full article from URL first
+            full_content = ""
+            if link:
+                print(f"  Fetching full article from: {link[:60]}...")
+                full_content = fetch_full_article(link)
+
+            # Use RSS content as fallback if full fetch failed or returned little content
+            rss_content = extract_article_content(entry)
+            if len(full_content) < 300 and len(rss_content) > 100:
+                print(f"  Using RSS content (full fetch returned {len(full_content)} chars)")
+                raw_content = rss_content
+            elif full_content:
+                raw_content = full_content
+            else:
+                raw_content = rss_content if rss_content else ""
 
             if not raw_content or len(raw_content) < 50:
                 log_run({"source_key": source['source_key'], "title": title}, "skipped_short", translation_ok=None)
