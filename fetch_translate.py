@@ -144,7 +144,7 @@ def extract_article_content(entry):
     content = re.sub(r'\s+', ' ', content)
     content = html.unescape(content)
     content = content.strip()
-    return content[:4000]
+    return content[:12000]
 
 
 def extract_article_image(entry):
@@ -187,7 +187,7 @@ Deutsche Übersetzung:"""
 
     payload = {
         "model": "MiniMax-M2.7",
-        "max_tokens": 2500,
+        "max_tokens": 8000,
         "temperature": 0.3,
         "messages": [{"role": "user", "content": prompt}]
     }
