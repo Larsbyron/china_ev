@@ -46,10 +46,11 @@ export default function RootLayout({
               (function() {
                 try {
                   var theme = localStorage.getItem('theme');
-                  if (theme === 'light' || theme === 'dark') {
-                    document.documentElement.setAttribute('data-theme', theme);
-                  } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+                  if (theme === 'system' || (!theme && window.matchMedia('(prefers-color-scheme: light)').matches)) {
+                    // System preference or no stored preference — resolve to actual theme
                     document.documentElement.setAttribute('data-theme', 'light');
+                  } else if (theme === 'light' || theme === 'dark') {
+                    document.documentElement.setAttribute('data-theme', theme);
                   } else {
                     document.documentElement.setAttribute('data-theme', 'dark');
                   }

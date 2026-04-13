@@ -9,6 +9,7 @@ import { scrapeAutohome } from './sources/autohome'
 import { scrapeIfeng } from './sources/ifeng'
 import { scrapeSina } from './sources/sina'
 import { scrapePCauto } from './sources/pcauto'
+import { translateArticle } from '../translator'
 
 const RUNLOG_FILE = resolve(process.cwd(), '.runlog.jsonl')
 const CONTENT_DIR = resolve(process.cwd(), 'content/posts')
@@ -177,20 +178,62 @@ async function processSource(
         continue
       }
 
-      // Save article
-      try {
-        const filename = saveArticle(article, false)
-        result.articles.push(article)
+      // Translate to German
+      console.log(`[${sourceName}] Translating: ${article.title.slice(0, 40)}...`)
+      let translatedArticle = article
 
-        // Record fingerprint
-        fingerprints[fingerprint] = {
-          title: article.title,
+      try {
+        const translation = await translateArticle(article.title, article.content)
+
+        if (!translation.ok) {
+          console.log(`[${sourceName}] Translation failed: ${translation.error} — saving to drafts`)
+          logRun(sourceName, article.title, 'draft_translate_fail')
+          // Save to drafts folder
+          try {
+            saveArticle({ ...article, title: `[TRANSLATION FAILED] ${article.title}`, content: `Translation error: ${translation.error}\n\nOriginal content:\n\n${article.content}` }, true)
+          } catch (draftError) {
+            const draftErrorMsg = draftError instanceof Error ? draftError.message : String(draftError)
+            result.errors.push(`Failed to save draft ${article.title}: ${draftErrorMsg}`)
+          }
+          continue
+        }
+
+        // Update article with translated content
+        translatedArticle = {
+          ...article,
+          title: translation.title,
+          content: translation.content
+        }
+
+        console.log(`[${sourceName}] Translated OK (${translation.content.length} chars)`)
+      } catch (translateErr) {
+        const translateErrMsg = translateErr instanceof Error ? translateErr.message : String(translateErr)
+        console.log(`[${sourceName}] Translation error: ${translateErrMsg} — saving to drafts`)
+        logRun(sourceName, article.title, 'draft_translate_fail')
+        try {
+          saveArticle({ ...article, title: `[TRANSLATION ERROR] ${article.title}`, content: `Translation error: ${translateErrMsg}\n\nOriginal content:\n\n${article.content}` }, true)
+        } catch (draftError) {
+          const draftErrorMsg = draftError instanceof Error ? draftError.message : String(draftError)
+          result.errors.push(`Failed to save draft ${article.title}: ${draftErrorMsg}`)
+        }
+        continue
+      }
+
+      // Save translated article
+      try {
+        const filename = saveArticle(translatedArticle, false)
+        result.articles.push(translatedArticle)
+
+        // Record fingerprint (use translated content for uniqueness)
+        const translatedFingerprint = computeFingerprint(translatedArticle.content)
+        fingerprints[translatedFingerprint] = {
+          title: translatedArticle.title,
           source: sourceName,
           date: new Date().toISOString()
         }
 
         console.log(`[${sourceName}] Saved: ${filename.split('/').pop()}`)
-        logRun(sourceName, article.title, 'published')
+        logRun(sourceName, translatedArticle.title, 'published')
       } catch (error) {
         const errorMsg = error instanceof Error ? error.message : String(error)
         result.errors.push(`Failed to save ${article.title}: ${errorMsg}`)
