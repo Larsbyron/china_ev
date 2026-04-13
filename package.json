@@ -1,0 +1,31 @@
+{
+  "name": "e-autos-china",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "fetch": "npx tsx scripts/fetch-translate.ts",
+    "fetch:weekly": "npx tsx scripts/fetch-translate.ts --weekly"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "cheerio": "^1.2.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

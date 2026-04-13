@@ -1,12 +1,22 @@
-# Hugo
+# Hugo (legacy)
 public/
 resources/
-.hugo_build.lock
+.hugo_build.lock/
 
-# Python
-__pycache__/
-*.py[cod]
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Environment
 .env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
 
 # IDE
 .vscode/
@@ -15,3 +25,13 @@ __pycache__/
 # macOS
 .DS_Store
 .gstack/
+
+# Processed data (committed but not built)
+content/posts/*.md
+!content/posts/.gitkeep
+processed_articles.json
+.runlog.jsonl
+
+# Python (legacy)
+__pycache__/
+*.py[cod]

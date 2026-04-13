@@ -1,0 +1,47 @@
+name: Weekly Top 5
+
+on:
+  schedule:
+    - cron: '0 8 * * 5'  # Friday at 08:00 UTC
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  weekly-top5:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run weekly scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npx tsx scripts/fetch-translate.ts --weekly
+
+      - name: Build Next.js
+        run: npm run build
+
+      - name: Deploy to Vercel
+        run: npx vercel --prod --yes --token=${{ secrets.VERCEL_TOKEN }}
+
+      - name: Commit weekly Top 5
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/posts/ processed_articles.json .runlog.jsonl
+          git diff --quiet --cached || exit 0
+          git commit -m "ci: weekly Top 5 [skip ci]"
+          git push

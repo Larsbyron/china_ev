@@ -1,0 +1,104 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: transparent;
+  transition: background-color var(--duration-normal) var(--ease-out),
+              backdrop-filter var(--duration-normal) var(--ease-out);
+}
+
+.header.scrolled {
+  background: rgba(12, 12, 14, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--color-border);
+}
+
+[data-theme='light'] .header.scrolled {
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.inner {
+  max-width: var(--max-width-listing);
+  margin: 0 auto;
+  padding: 0 var(--space-6);
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: var(--text-xl);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--color-text-primary);
+  text-decoration: none;
+  transition: opacity var(--duration-fast);
+}
+
+.logo:hover {
+  opacity: 0.8;
+}
+
+.nav {
+  display: flex;
+  gap: var(--space-8);
+}
+
+.navLink {
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  transition: color var(--duration-fast);
+  letter-spacing: 0.02em;
+}
+
+.navLink:hover {
+  color: var(--color-text-primary);
+}
+
+.themeToggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: var(--color-bg-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  cursor: pointer;
+  color: var(--color-text-primary);
+  transition: background-color var(--duration-fast),
+              border-color var(--duration-fast),
+              transform var(--duration-fast);
+}
+
+.themeToggle:hover {
+  background: var(--color-bg-tertiary);
+  border-color: var(--color-text-secondary);
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .nav {
+    gap: var(--space-4);
+  }
+
+  .navLink {
+    font-size: var(--text-xs);
+  }
+}
+
+@media (max-width: 480px) {
+  .inner {
+    height: 56px;
+  }
+
+  .logo {
+    font-size: var(--text-lg);
+  }
+}

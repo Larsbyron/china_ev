@@ -68,3 +68,11 @@ Edit `sources.json` to add/remove feeds. Currently: Chinese sources only (Sina, 
 Configured via GitHub Actions. Secrets needed:
 - `ANTHROPIC_API_KEY`
 - `VERCEL_TOKEN`, `VERCEL_ORG_ID`, `VERCEL_PROJECT_ID`
+
+## Future Considerations
+
+### Data Visualization
+如果需要展示 EV 销量图表、趋势对比等数据可视化：
+- **Recharts** — React 图表库，`npm install recharts`
+  - GitHub: github.com/recharts/recharts
+  - 支持折线图、柱状图、饼图、雷达图等 20+ 类型

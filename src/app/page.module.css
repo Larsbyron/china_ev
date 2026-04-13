@@ -1,0 +1,127 @@
+.main {
+  min-height: 100vh;
+  padding-top: 64px;
+}
+
+.container {
+  max-width: var(--max-width-listing);
+  margin: 0 auto;
+  padding: 0 var(--space-6);
+}
+
+.section {
+  padding: var(--space-20) 0;
+}
+
+.sectionTitle {
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  margin-bottom: var(--space-8);
+  color: var(--color-text-primary);
+}
+
+.articleGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-6);
+}
+
+@media (max-width: 1024px) {
+  .articleGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .articleGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.viewAll {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--space-12);
+}
+
+.viewAllLink {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-6);
+  background: var(--color-bg-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--color-text-primary);
+  text-decoration: none;
+  transition: background-color var(--duration-fast),
+              border-color var(--duration-fast);
+}
+
+.viewAllLink:hover {
+  background: var(--color-bg-tertiary);
+  border-color: var(--color-text-secondary);
+}
+
+/* Brand Section */
+.brandSection {
+  padding: var(--space-16) 0;
+  background: var(--color-bg-secondary);
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.brandGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+  justify-content: center;
+}
+
+.brandLink {
+  padding: var(--space-3) var(--space-6);
+  background: var(--color-bg-tertiary);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--color-text-primary);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: background-color var(--duration-fast),
+              border-color var(--duration-fast),
+              color var(--duration-fast);
+}
+
+.brandLink:hover {
+  background: var(--color-accent-green);
+  border-color: var(--color-accent-green);
+  color: var(--color-bg-primary);
+}
+
+/* Newsletter Section */
+.newsletterSection {
+  padding: var(--space-20) var(--space-6);
+}
+
+.newsletterInner {
+  max-width: 480px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.newsletterTitle {
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  margin-bottom: var(--space-4);
+}
+
+.newsletterText {
+  font-size: var(--text-base);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-8);
+}

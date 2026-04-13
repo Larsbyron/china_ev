@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-14",
+  "score": 10,
+  "categories": {
+    "typescript": {
+      "status": "pass",
+      "errors": 0,
+      "score": 10,
+      "note": "tsc --noEmit passed with no errors"
+    },
+    "lint": {
+      "status": "skip",
+      "score": null,
+      "note": "no eslint/biome config found"
+    },
+    "test": {
+      "status": "skip",
+      "score": null,
+      "note": "no test runner in package.json"
+    },
+    "deadcode": {
+      "status": "skip",
+      "score": null,
+      "note": "knip not available"
+    },
+    "shell": {
+      "status": "skip",
+      "score": null,
+      "note": "shellcheck not available"
+    }
+  }
+}
