@@ -7,8 +7,8 @@ export default function NewsletterForm() {
     e.preventDefault()
     const form = e.currentTarget
     const email = new FormData(form).get('email') as string
-    // TODO: Implement newsletter signup
-    console.log('Newsletter signup:', email)
+    // Newsletter integration placeholder — wire to Mailchimp/ConvertKit/etc. via API route
+    void email // Mark as intentionally unused until integration is added
   }
 
   return (
