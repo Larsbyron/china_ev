@@ -3,6 +3,10 @@ name: Manual Pipeline Dispatch
 on:
   workflow_dispatch:  # Manual trigger for testing
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   manual-pipeline:
     runs-on: ubuntu-latest
@@ -21,19 +25,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Install gray-matter
-        run: npm install gray-matter
-
       - name: Run scraper
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npx tsx scripts/fetch-translate.ts
-
-      - name: Build Next.js
-        run: npm run build
-
-      - name: Deploy to Vercel
-        run: npx vercel --prod --yes --token=${{ secrets.VERCEL_TOKEN }}
 
       - name: Commit fingerprints and new articles
         run: |
@@ -43,3 +38,14 @@ jobs:
           git diff --quiet --cached || exit 0
           git commit -m "ci: manual pipeline run [skip ci]"
           git push
+
+      - name: Build Next.js
+        run: npm run build
+
+      - name: Deploy to Vercel
+        uses: amondnet/vercel-action@v25
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          vercel-args: '--prod'

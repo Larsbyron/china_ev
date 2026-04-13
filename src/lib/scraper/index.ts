@@ -1,7 +1,7 @@
 // Scraper orchestrator - runs all sources in parallel, handles deduplication and logging
 
-import { writeFileSync, appendFileSync, existsSync, mkdirSync } from 'fs'
-import { resolve } from 'path'
+import { writeFileSync, appendFileSync, existsSync, mkdirSync, readdirSync, readFileSync } from 'fs'
+import { resolve, join } from 'path'
 import type { Article, ScraperOptions, ScraperResult, ProcessedArticles, SourceName } from '../article'
 import { generateSlug, estimateReadTime, formatDate } from '../article'
 import { loadFingerprints, saveFingerprints, computeFingerprint, rebuildFingerprintsFromDisk } from './dedup'
@@ -245,6 +245,11 @@ export async function scrapeAll(options: ScraperOptions = {}): Promise<void> {
   // Save fingerprints
   saveFingerprints(fingerprints)
 
+  // Build weekly Top 5 if requested
+  if (options.weekly) {
+    await buildWeeklyTop5()
+  }
+
   // Summary
   console.log('\n' + '='.repeat(60))
   console.log('Scraper Results:')
@@ -274,9 +279,6 @@ export async function buildWeeklyTop5(): Promise<void> {
   console.log('\nBuilding Weekly Top 5...')
 
   // Load articles from content/posts
-  const { readdirSync, readFileSync, existsSync } = require('fs')
-  const path = require('path')
-
   if (!existsSync(CONTENT_DIR)) {
     console.log('No content directory found')
     return
@@ -286,7 +288,7 @@ export async function buildWeeklyTop5(): Promise<void> {
   const articles: { title: string; source: string; date: string; url: string }[] = []
 
   for (const file of files) {
-    const content = readFileSync(path.join(CONTENT_DIR, file), 'utf-8')
+    const content = readFileSync(join(CONTENT_DIR, file), 'utf-8')
     if (!content.startsWith('---')) continue
 
     const parts = content.split('---', 3)

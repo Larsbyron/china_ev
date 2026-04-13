@@ -178,6 +178,7 @@
   border-radius: 8px;
   overflow: hidden;
   border: 1px solid var(--color-border);
+  aspect-ratio: 16 / 9;
 }
 
 .image {
