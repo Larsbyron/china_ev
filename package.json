@@ -11,8 +11,10 @@
     "fetch:weekly": "npx tsx scripts/fetch-translate.ts --weekly"
   },
   "dependencies": {
+    "dotenv": "^17.4.2",
     "gray-matter": "^4.0.3",
     "next": "^15.0.0",
+    "playwright": "^1.59.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
