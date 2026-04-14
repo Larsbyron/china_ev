@@ -26,9 +26,7 @@ npm-debug.log*
 .DS_Store
 .gstack/
 
-# Processed data (committed but not built)
-content/posts/*.md
-!content/posts/.gitkeep
+# Processed data
 processed_articles.json
 .runlog.jsonl
 

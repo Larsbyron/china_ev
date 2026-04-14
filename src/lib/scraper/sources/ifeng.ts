@@ -83,15 +83,46 @@ function parseArticleList(html: string): IfengArticle[] {
   })
 }
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function cleanContentText($: any, selector: string): string {
+  const $el = selector ? $(selector) : $
+  if (!$el.length) return ''
+
+  // Remove all interactive/interface elements
+  $el.find('script, style, nav, header, footer, aside, iframe, .ad, .advertisement, .comment, .share, .related, .sidebar, .toolbar, .nav-bar, .menu, .btn, .button, .icon, .logo, .hotword, .search-box, .login, .user-info').remove()
+
+  // Remove elements with known interface text patterns
+  $el.find('[class*="tag"], [class*="breadcrumb"], [class*="pagination"], [class*="page-"]').remove()
+
+  // Remove any remaining elements that look like navigation
+  $el.find('a[href*="javascript"], a[href*="/#"], [class*="city"], [class*="switch"]').remove()
+
+  let text = $el.text().trim()
+
+  // Post-process: remove interface artifacts
+  text = text
+    // Remove remaining bracket patterns like [切换城市] [综合找]
+    .replace(/【.*?】/g, '')
+    .replace(/\[.*?\]/g, '')
+    .replace(/\(.*?\)/g, '')
+    // Remove app download artifacts
+    .replace(/App herunterladen.*$/gm, '')
+    .replace(/QR-Code.*$/gm, '')
+    // Remove navigation text
+    .replace(/汽车之家.*$/gm, '')
+    .replace(/登录.*发布作品.*$/gm, '')
+    // Clean up whitespace
+    .replace(/\s+/g, ' ')
+    .trim()
+
+  return text
+}
+
 function extractArticleContent(html: string): { text: string; image?: string; date?: string; author?: string } {
   const $ = load(html)
-  const content: { text: string; image?: string; date?: string; author?: string } = {
-    text: '',
-    image: undefined
-  }
 
-  // Remove non-content elements
-  $('script, style, nav, header, footer, aside, .ad, .advertisement, .comment, .share, .related, .sidebar, .tag, .source').remove()
+  // Remove non-content elements first
+  $('script, style, nav, header, footer, aside, iframe, .ad, .advertisement, .comment, .share, .related, .sidebar, .toolbar, .nav-bar, .menu, .btn, .button, .icon, .logo, .hotword, .search-box, .login, .user-info, .tag, .source').remove()
 
   // Try common article selectors
   const articleSelectors = [
@@ -101,67 +132,59 @@ function extractArticleContent(html: string): { text: string; image?: string; da
     '.article_text',
     '.main-text',
     'article',
-    '.content'
+    '[itemprop="articleBody"]'
   ]
 
-  let articleEl: ReturnType<typeof $> | null = null
+  let bestText = ''
+  let bestLength = 0
+
   for (const selector of articleSelectors) {
-    articleEl = $(selector)
-    if (articleEl.length && articleEl.text().trim().length > 200) {
-      break
+    const text = cleanContentText($, selector)
+    if (text.length > bestLength) {
+      bestLength = text.length
+      bestText = text
     }
   }
 
-  if (!articleEl || articleEl.text().trim().length < 200) {
-    let bestEl: ReturnType<typeof $> | undefined = undefined
-    let bestLength = 0
-
-    $('div, section').each((_, el) => {
-      const $el = $(el)
-      const text = $el.text().trim()
-      if (text.length > 500 && text.length > bestLength) {
+  // Only use if we got meaningful content (>500 chars after cleaning)
+  if (bestLength < 500) {
+    const $article = $('article, .article, .news-article, .post')
+    if ($article.length) {
+      const text = cleanContentText($article, '')
+      if (text.length > bestLength) {
+        bestText = text
         bestLength = text.length
-        bestEl = $el
       }
-    })
-
-    if (bestEl !== undefined) {
-      articleEl = bestEl
     }
-  }
-
-  if (articleEl && articleEl.length) {
-    content.text = articleEl.text().trim().replace(/\s+/g, ' ')
   }
 
   // Extract image
+  let image: string | undefined
   $('img').each((_, el) => {
-    if (content.image) return
-    const src = $(el).attr('src')
-    const dataSrc = $(el).attr('data-src')
-    if (src && !src.includes('avatar') && !src.includes('logo')) {
-      content.image = src.startsWith('http') ? src : BASE_URL + src
-    } else if (dataSrc) {
-      content.image = dataSrc.startsWith('http') ? dataSrc : BASE_URL + dataSrc
+    if (image) return
+    const src = $(el).attr('src') || $(el).attr('data-src')
+    if (src && !src.includes('avatar') && !src.includes('logo') && !src.includes('icon')) {
+      image = src.startsWith('http') ? src : BASE_URL + src
     }
   })
 
   // Extract date
-  $('time, .date, .time, [itemprop="datePublished"]').each((_, el) => {
-    if (content.date) return
-    const dateText = $(el).text().trim() || $(el).attr('datetime')
-    if (dateText) {
-      content.date = dateText
-    }
+  let date: string | undefined
+  $('time, [itemprop="datePublished"], .article-time, .news-time, .date, .time').each((_, el) => {
+    if (date) return
+    const text = $(el).text().trim() || $(el).attr('datetime')
+    if (text) date = text
   })
 
   // Extract author
+  let author: string | undefined
   $('[itemprop="author"], .author, .source-name').each((_, el) => {
-    if (content.author) return
-    content.author = $(el).text().trim()
+    if (author) return
+    const text = $(el).text().trim()
+    if (text && text.length < 50) author = text
   })
 
-  return content
+  return { text: bestText, image, date, author }
 }
 
 export async function scrapeIfeng(maxArticles = 5): Promise<Article[]> {
@@ -187,7 +210,7 @@ export async function scrapeIfeng(maxArticles = 5): Promise<Article[]> {
       const articleHtml = await fetchPage(link.url)
       const extracted = extractArticleContent(articleHtml)
 
-      if (!extracted.text || extracted.text.length < 100) {
+      if (!extracted.text || extracted.text.length < 500) {
         console.log(`[${SOURCE_NAME}] Skipping (insufficient content: ${extracted.text?.length || 0} chars)`)
         continue
       }

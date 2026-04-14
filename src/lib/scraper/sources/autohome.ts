@@ -1,7 +1,6 @@
 // Autohome spider - https://www.autohome.com.cn/news/
 // China's biggest auto portal
 
-import * as cheerio from 'cheerio'
 import { load } from 'cheerio'
 import type { Article, SourceName } from '../../article'
 import { formatDate } from '../../article'
@@ -15,20 +14,11 @@ const NEWS_URL = 'https://www.autohome.com.cn/news/'
 // Rate limit: 1 request per second
 const DELAY_MS = 1000
 
-interface AutohomeArticle {
-  title: string
-  url: string
-  date?: string
-  author?: string
-  image?: string
-}
-
 async function delay(ms: number): Promise<void> {
   return new Promise(resolve => setTimeout(resolve, ms))
 }
 
 async function fetchPage(url: string): Promise<string> {
-  // Validate URL to prevent SSRF
   sanitizeUrl(url)
 
   const response = await fetch(url, {
@@ -43,55 +33,99 @@ async function fetchPage(url: string): Promise<string> {
     throw new Error(`HTTP ${response.status}`)
   }
 
-  return response.text()
+  const arrayBuffer = await response.arrayBuffer()
+  const buffer = Buffer.from(arrayBuffer)
+
+  // Autohome uses GB2312 encoding
+  const chardet = detectEncoding(buffer)
+  if (chardet === 'gb2312' || chardet === 'gbk') {
+    return buffer.toString('latin1')
+  }
+
+  // Fallback to UTF-8
+  return buffer.toString('utf8')
+}
+
+function detectEncoding(buffer: Buffer): string {
+  // Check for BOM
+  if (buffer[0] === 0xef && buffer[1] === 0xbb && buffer[2] === 0xbf) return 'utf8'
+  if (buffer[0] === 0xff && buffer[1] === 0xfe) return 'utf16le'
+  if (buffer[0] === 0xfe && buffer[1] === 0xff) return 'utf16be'
+
+  // Simple GB2312/GBK detection: look for high byte sequences
+  // GB2312 ranges: 0xA1-0xF7 (first byte), 0xA1-0xFE (second byte)
+  let gbScore = 0
+  for (let i = 0; i < Math.min(buffer.length, 1000); i++) {
+    const b = buffer[i]
+    if (b >= 0xa1 && b <= 0xf7) {
+      if (i + 1 < buffer.length) {
+        const b2 = buffer[i + 1]
+        if (b2 >= 0xa1 && b2 <= 0xfe) {
+          gbScore++
+          i++ // skip next byte
+        }
+      }
+    }
+  }
+
+  return gbScore > 10 ? 'gb2312' : 'utf8'
+}
+
+interface AutohomeArticle {
+  title: string
+  url: string
+  date?: string
+  author?: string
+  image?: string
 }
 
 function parseArticleList(html: string): AutohomeArticle[] {
   const $ = load(html)
   const articles: AutohomeArticle[] = []
 
-  // Autohome article list patterns
-  // Look for article links in the news listing page
-  $('a[href*="/news/"]').each((_, el) => {
-    const $el = $(el)
-    const href = $el.attr('href')
-    const title = $el.text().trim()
+  // Only look for articles in the main listing container
+  // Autohome uses specific article list structure
+  const $listing = $('#news-list, .article-list, .news-article-list, .list-block')
 
-    if (href && title && title.length > 5) {
-      const fullUrl = href.startsWith('http')
-        ? href
-        : href.startsWith('//')
-          ? 'https:' + href
-          : BASE_URL + href
-      articles.push({
-        title: title.slice(0, 200),
-        url: fullUrl
-      })
-    }
-  })
+  if ($listing.length) {
+    $listing.find('a[href*="/news/"]').each((_, el) => {
+      const $el = $(el)
+      const href = $el.attr('href')
+      const title = $el.text().trim()
 
-  // Also check for specific article article patterns
-  $('.article-title, .news-title, .article-title a, .news-list-title').each((_, el) => {
-    const $el = $(el)
-    const title = $el.text().trim()
-    const href = $el.attr('href')
-
-    if (title && title.length > 5) {
-      const url = href
-        ? href.startsWith('http')
+      if (href && title && title.length > 10 && title.length < 200) {
+        const fullUrl = href.startsWith('http')
           ? href
           : href.startsWith('//')
             ? 'https:' + href
             : BASE_URL + href
-        : ''
-
-      if (url) {
-        articles.push({ title: title.slice(0, 200), url })
+        articles.push({
+          title: title.replace(/\[.*?\]/g, '').trim(), // remove [tags]
+          url: fullUrl
+        })
       }
-    }
-  })
+    })
+  }
 
-  // Remove duplicates based on URL
+  // Fallback: look for article titles in dd/li elements within known containers
+  if (articles.length === 0) {
+    $('dl.article-list dd a, dl.news-list dd a, .article-item a, .news-item a').each((_, el) => {
+      const $el = $(el)
+      const href = $el.attr('href')
+      const title = $el.text().trim()
+
+      if (href && title && title.length > 10 && !title.includes('[') && !title.includes(']')) {
+        const fullUrl = href.startsWith('http')
+          ? href
+          : href.startsWith('//')
+            ? 'https:' + href
+            : BASE_URL + href
+        articles.push({ title, url: fullUrl })
+      }
+    })
+  }
+
+  // Remove duplicates
   const seen = new Set<string>()
   return articles.filter(article => {
     if (seen.has(article.url)) return false
@@ -100,108 +134,110 @@ function parseArticleList(html: string): AutohomeArticle[] {
   })
 }
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function cleanContentText($: any, selector: string): string {
+  const $el = selector ? $(selector) : $('body')
+  if (!$el.length) return ''
+
+  // Remove all interactive/interface elements
+  $el.find('script, style, nav, header, footer, aside, iframe, .ad, .advertisement, .comment, .share, .related, .sidebar, .toolbar, .nav-bar, .menu, .btn, .button, .icon, .logo, .hotword, .search-box, .login, .user-info').remove()
+
+  // Remove elements with known interface text patterns
+  $el.find('[class*="tag"], [class*="breadcrumb"], [class*="pagination"], [class*="page-"]').remove()
+
+  // Remove any remaining elements that look like navigation
+  $el.find('a[href*="javascript"], a[href*="/#"], [class*="city"], [class*="switch"]').remove()
+
+  let text = $el.text().trim()
+
+  // Post-process: remove interface artifacts
+  text = text
+    // Remove remaining bracket patterns like [切换城市] [综合找]
+    .replace(/【.*?】/g, '')
+    .replace(/\[.*?\]/g, '')
+    .replace(/\(.*?\)/g, '')
+    // Remove app download artifacts
+    .replace(/App herunterladen.*$/gm, '')
+    .replace(/QR-Code.*$/gm, '')
+    // Remove navigation text
+    .replace(/汽车之家.*$/gm, '')
+    .replace(/登录.*发布作品.*$/gm, '')
+    // Clean up whitespace
+    .replace(/\s+/g, ' ')
+    .trim()
+
+  return text
+}
+
 function extractArticleContent(html: string, url: string): { text: string; image?: string; date?: string; author?: string } {
   const $ = load(html)
-  const content: { text: string; image?: string; date?: string; author?: string } = {
-    text: '',
-    image: undefined
-  }
 
-  // Remove non-content elements
-  $('script, style, nav, header, footer, aside, .ad, .advertisement, .comment, .share, .related, .sidebar').remove()
-
-  // Try common article selectors
+  // Try specific article content selectors
   const articleSelectors = [
     '#article-content',
     '.article-content',
     '.news-content',
+    '.article-text',
     '.article-body',
-    '.post-content',
-    'article',
+    '.main-text',
     '[itemprop="articleBody"]',
-    '.content-body'
+    '.txt'
   ]
 
-  let articleEl: ReturnType<typeof $> | null = null
+  let bestText = ''
+  let bestLength = 0
+
   for (const selector of articleSelectors) {
-    articleEl = $(selector)
-    if (articleEl.length && articleEl.text().trim().length > 200) {
-      break
+    const text = cleanContentText($, selector)
+    if (text.length > bestLength) {
+      bestLength = text.length
+      bestText = text
     }
   }
 
-  // Fallback: find largest text block
-  if (!articleEl || articleEl.text().trim().length < 200) {
-    let bestEl: ReturnType<typeof $> | undefined = undefined
-    let bestLength = 0
-
-    $('div, section').each((_, el) => {
-      const $el = $(el)
-      const text = $el.text().trim()
-      if (text.length > 500 && text.length > bestLength) {
+  // Only use if we got meaningful content (>500 chars after cleaning)
+  if (bestLength < 500) {
+    // Try to find the main article container by structure
+    const $article = $('article, .article, .news-article, .post')
+    if ($article.length) {
+      const text = cleanContentText($article, '')
+      if (text.length > bestLength) {
+        bestText = text
         bestLength = text.length
-        bestEl = $el
       }
-    })
-
-    if (bestEl !== undefined) {
-      articleEl = bestEl
     }
   }
 
-  if (articleEl && articleEl.length) {
-    content.text = articleEl.text().trim().replace(/\s+/g, ' ')
-  }
-
-  // Extract image
+  // Extract image - look in article area first
+  let image: string | undefined
+  const articleArea = bestLength > 0 ? bestText.substring(0, 1000) : ''
   $('img').each((_, el) => {
-    if (content.image) return
-    const src = $(el).attr('src')
-    const dataSrc = $(el).attr('data-src')
-    if (src && !src.includes('avatar') && !src.includes('logo')) {
-      content.image = src.startsWith('http') ? src : BASE_URL + src
-    } else if (dataSrc && !dataSrc.includes('avatar')) {
-      content.image = dataSrc.startsWith('http') ? dataSrc : BASE_URL + dataSrc
+    if (image) return
+    const $el = $(el)
+    const src = $el.attr('src') || $el.attr('data-src')
+    if (src && !src.includes('avatar') && !src.includes('logo') && !src.includes('icon')) {
+      // Prefer images from article content area
+      image = src.startsWith('http') ? src : BASE_URL + src
     }
   })
 
-  // Extract date from meta or text
-  const dateSelectors = [
-    'time',
-    '[itemprop="datePublished"]',
-    '.article-time',
-    '.news-time',
-    '.date'
-  ]
-
-  for (const selector of dateSelectors) {
-    const el = $(selector)
-    if (el.length) {
-      const dateText = el.text().trim() || el.attr('datetime')
-      if (dateText) {
-        content.date = dateText
-        break
-      }
-    }
-  }
+  // Extract date
+  let date: string | undefined
+  $('time, [itemprop="datePublished"], .article-time, .news-time, .date, .time').each((_, el) => {
+    if (date) return
+    const text = $(el).text().trim() || $(el).attr('datetime')
+    if (text) date = text
+  })
 
   // Extract author
-  const authorSelectors = [
-    '[itemprop="author"]',
-    '.article-author',
-    '.news-author',
-    '.author'
-  ]
+  let author: string | undefined
+  $('[itemprop="author"], .article-author, .news-author, .editor, .name').each((_, el) => {
+    if (author) return
+    const text = $(el).text().trim()
+    if (text && text.length < 50) author = text
+  })
 
-  for (const selector of authorSelectors) {
-    const el = $(selector)
-    if (el.length) {
-      content.author = el.text().trim()
-      break
-    }
-  }
-
-  return content
+  return { text: bestText, image, date, author }
 }
 
 export async function scrapeAutohome(maxArticles = 5): Promise<Article[]> {
@@ -210,7 +246,7 @@ export async function scrapeAutohome(maxArticles = 5): Promise<Article[]> {
   const html = await fetchPage(NEWS_URL)
   const articleLinks = parseArticleList(html)
 
-  console.log(`[${SOURCE_NAME}] Found ${articleLinks.length} article links`)
+  console.log(`[${SOURCE_NAME}] Found ${articleLinks.length} article links (filtered)`)
 
   const articles: Article[] = []
   const processedUrls = new Set<string>()
@@ -227,7 +263,7 @@ export async function scrapeAutohome(maxArticles = 5): Promise<Article[]> {
       const articleHtml = await fetchPage(link.url)
       const extracted = extractArticleContent(articleHtml, link.url)
 
-      if (!extracted.text || extracted.text.length < 100) {
+      if (!extracted.text || extracted.text.length < 500) {
         console.log(`[${SOURCE_NAME}] Skipping (insufficient content: ${extracted.text?.length || 0} chars)`)
         continue
       }
@@ -253,4 +289,4 @@ export async function scrapeAutohome(maxArticles = 5): Promise<Article[]> {
   return articles
 }
 
-export { SOURCE_NAME, SOURCE_NAME as sourceName }
+export { SOURCE_NAME }
