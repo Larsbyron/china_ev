@@ -47,10 +47,35 @@ function isHostnameBlocked(hostname: string): boolean {
   if (BLOCKED_HOSTNAMES.includes(lower)) {
     return true
   }
-  // Check for IP addresses
+
+  // Check for IPv4 addresses
   if (/^\d+\.\d+\.\d+\.\d+$/.test(hostname)) {
     return isPrivateIP(hostname)
   }
+
+  // Check for IPv6 addresses (may be wrapped in brackets like [::1])
+  const ipv6 = hostname.replace(/^\[|\]$/g, '')
+  if (ipv6.includes(':') && /^[0-9a-f:]+$/i.test(ipv6)) {
+    return isIPv6Blocked(ipv6)
+  }
+
+  return false
+}
+
+/**
+ * Check if an IPv6 address is blocked
+ */
+function isIPv6Blocked(ipv6: string): boolean {
+  // Check against IPv6 blocked patterns
+  const lower = ipv6.toLowerCase()
+  for (const pattern of PRIVATE_IP_PATTERNS) {
+    if (pattern.test(lower) || pattern.test(ipv6)) {
+      return true
+    }
+  }
+  // Check for loopback, unspecified, etc.
+  if (ipv6 === '::1') return true
+  if (ipv6 === '::') return true
   return false
 }
 

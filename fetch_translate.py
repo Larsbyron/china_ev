@@ -228,7 +228,7 @@ def translate_with_qwen(text, target_lang="Deutsch"):
         print("  [ERROR] ANTHROPIC_API_KEY not set")
         return None
 
-    prompt = f"""Übersetze den folgenden Text准确翻译成德语 ins Deutsche.
+    prompt = f"""Übersetze den folgenden Text ins Deutsche.
 Erhalte die Struktur und Formatierung wenn möglich.
 Gebe nur die Übersetzung aus, ohne Erklärungen.
 
@@ -245,23 +245,25 @@ Deutsche Übersetzung:"""
 
     payload = {
         "model": "MiniMax-M2.7",
-        "max_tokens": 8000,
+        "max_tokens": 15000,
         "temperature": 0.3,
         "messages": [{"role": "user", "content": prompt}]
     }
 
-    for attempt in range(2):
+    for attempt in range(3):
         try:
             response = requests.post(f"{ANTHROPIC_BASE_URL}/messages", headers=headers, json=payload, timeout=60)
 
-            # Explicit 429 handling with backoff
+            # Exponential backoff for 429 rate limiting
             if response.status_code == 429:
-                if attempt == 0:
-                    print(f"  [WARN] Rate limited, retrying in 5s...")
-                    time.sleep(5)
+                backoff_delays = [2, 5, 10]  # seconds
+                if attempt < len(backoff_delays):
+                    delay = backoff_delays[attempt]
+                    print(f"  [WARN] Rate limited, retrying in {delay}s...")
+                    time.sleep(delay)
                     continue
                 else:
-                    print(f"  [ERROR] Rate limited after retry")
+                    print(f"  [ERROR] Rate limited after all retries")
                     return None
 
             response.raise_for_status()
@@ -279,8 +281,10 @@ Deutsche Übersetzung:"""
             print(f"  [WARN] Empty content in response")
             return None
         except requests.exceptions.HTTPError as e:
-            if attempt == 0:
-                time.sleep(2)
+            backoff_delays = [2, 5]
+            if attempt < len(backoff_delays):
+                delay = backoff_delays[attempt]
+                time.sleep(delay)
                 continue
             print(f"  [ERROR] HTTP error after retry: {e}")
             return None

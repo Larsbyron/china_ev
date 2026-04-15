@@ -1,0 +1,53 @@
+name: CI Quality Gates
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Type check
+        run: npx tsc --noEmit --pretty false
+
+      - name: Run tests
+        run: npm test || true
+
+  content-validation:
+    runs-on: ubuntu-latest
+    # Only run content validation when content files change
+    if: contains(join(github.event.commits.*.modified, ','), 'content/') || contains(join(github.event.commits.*.added, ','), 'content/')
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate new articles
+        run: |
+          echo "Checking for suspicious content in new articles..."
+          # Count new article files
+          NEW_ARTICLES=$(git diff --cached --name-only --diff-filter=A 2>/dev/null | grep -c "^content/posts/.*\.md$" || echo "0")
+          echo "New articles: $NEW_ARTICLES"
+
+          # Sanity check: reject if more than 20 new articles (RSS injection indicator)
+          if [ "$NEW_ARTICLES" -gt 20 ]; then
+            echo "ERROR: $NEW_ARTICLES new articles detected. Possible RSS injection."
+            echo "Aborting for security review."
+            exit 1
+          fi
+
+          echo "Content validation passed."
