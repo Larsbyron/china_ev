@@ -10,7 +10,7 @@ export interface Article {
   date: string
   description: string
   source: string
-  image?: string
+  image?: string | null
   category: string
   brand?: string
   tags: string[]
@@ -27,7 +27,7 @@ export interface ArticleMeta {
   date: string
   description: string
   source: string
-  image?: string
+  image?: string | null
   category: string
   brand?: string
   tags: string[]
