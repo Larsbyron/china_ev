@@ -1,8 +1,22 @@
 import type { Metadata } from 'next'
+import { Inter, JetBrains_Mono } from 'next/font/google'
 import './global.css'
 import ThemeProvider from '@/components/ThemeProvider'
 
+const inter = Inter({
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-sans',
+})
+
+const jetbrainsMono = JetBrains_Mono({
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-mono',
+})
+
 export const metadata: Metadata = {
+  metadataBase: new URL('https://china-evnews.vercel.app'),
   title: {
     default: 'E-AUTOS | China EV News auf Deutsch',
     template: '%s | E-AUTOS',
@@ -30,16 +44,10 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="de" suppressHydrationWarning>
+    <html lang="de" suppressHydrationWarning className={`${inter.variable} ${jetbrainsMono.variable}`}>
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          rel="stylesheet"
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=JetBrains+Mono:wght@400&display=swap"
-        />
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -47,7 +55,6 @@ export default function RootLayout({
                 try {
                   var theme = localStorage.getItem('theme');
                   if (theme === 'system' || (!theme && window.matchMedia('(prefers-color-scheme: light)').matches)) {
-                    // System preference or no stored preference — resolve to actual theme
                     document.documentElement.setAttribute('data-theme', 'light');
                   } else if (theme === 'light' || theme === 'dark') {
                     document.documentElement.setAttribute('data-theme', theme);

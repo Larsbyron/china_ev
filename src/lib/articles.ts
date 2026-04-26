@@ -1,6 +1,8 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import { articleFrontmatterSchema } from '@/lib/schemas'
+import { markdownToHtml } from '@/lib/markdown'
 
 export interface Article {
   slug: string
@@ -57,23 +59,29 @@ function parseMarkdownFile(filePath: string): Article | null {
     const { data: frontmatter, content: bodyContent } = matter(rawContent)
     const content = bodyContent.trim()
 
+    // Validate frontmatter with Zod
+    const parsed = articleFrontmatterSchema.safeParse(frontmatter)
+    if (!parsed.success) {
+      console.warn(`Invalid frontmatter in ${filePath}:`, parsed.error.format())
+      return null
+    }
+
+    const validated = parsed.data
     const slug = fileName
 
     return {
       slug,
-      title: frontmatter.title || '',
-      date: frontmatter.date || new Date().toISOString(),
-      description: frontmatter.description || '',
-      source: frontmatter.source || '',
-      image: frontmatter.image || undefined,
-      category: frontmatter.category || 'news',
-      brand: frontmatter.brand || undefined,
-      tags: Array.isArray(frontmatter.tags) ? frontmatter.tags : [],
-      draft: frontmatter.draft === true,
-      original_url: frontmatter.original_url || '',
-      read_time_minutes: frontmatter.read_time_minutes
-        ? parseInt(String(frontmatter.read_time_minutes), 10)
-        : calculateReadTime(content),
+      title: validated.title,
+      date: validated.date,
+      description: validated.description,
+      source: validated.source,
+      image: validated.image,
+      category: validated.category,
+      brand: validated.brand,
+      tags: validated.tags,
+      draft: validated.draft,
+      original_url: validated.original_url,
+      read_time_minutes: validated.read_time_minutes ?? calculateReadTime(content),
       content,
     }
   } catch {
@@ -103,10 +111,15 @@ export function getAllArticles(): ArticleMeta[] {
   return articles
 }
 
-export function getArticleBySlug(slug: string): Article | null {
+export async function getArticleBySlug(slug: string): Promise<Article | null> {
   const filePath = path.join(POSTS_DIR, `${slug}.md`)
   if (!fs.existsSync(filePath)) return null
-  return parseMarkdownFile(filePath)
+  const article = parseMarkdownFile(filePath)
+  if (!article) return null
+
+  // Convert markdown content to HTML via remark/rehype pipeline
+  const htmlContent = await markdownToHtml(article.content)
+  return { ...article, content: htmlContent }
 }
 
 export function getArticlesByBrand(brand: string): ArticleMeta[] {

@@ -15,10 +15,10 @@ export default function GiscusComments({ title }: GiscusCommentsProps) {
 
     const script = document.createElement('script')
     script.src = 'https://giscus.app/client.js'
-    script.setAttribute('data-repo', 'your-repo')
-    script.setAttribute('data-repo-id', 'your-repo-id')
+    script.setAttribute('data-repo', 'Larsbyron/china_ev')
+    script.setAttribute('data-repo-id', 'R_kgDORsjITg')
     script.setAttribute('data-category', 'General')
-    script.setAttribute('data-category-id', 'DIC_kwDOGN')
+    script.setAttribute('data-category-id', 'DIC_kwDORsjITs4C7vYw')
     script.setAttribute('data-mapping', 'pathname')
     script.setAttribute('data-strict', '0')
     script.setAttribute('data-reactions-enabled', '1')

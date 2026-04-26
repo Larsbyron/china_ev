@@ -25,7 +25,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
   const { slug } = await params
-  const article = getArticleBySlug(slug)
+  const article = await getArticleBySlug(slug)
 
   if (!article) {
     return {
@@ -55,7 +55,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const { slug } = await params
-  const article = getArticleBySlug(slug)
+  const article = await getArticleBySlug(slug)
 
   if (!article) {
     notFound()
@@ -109,6 +109,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               <img
                 src={article.image}
                 alt={article.title}
+                width={1200}
+                height={630}
                 loading="eager"
                 fetchPriority="high"
               />
@@ -120,7 +122,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             <div className={styles.content}>
               <div
                 className="article-content"
-                dangerouslySetInnerHTML={{ __html: formatContent(article.content) }}
+                dangerouslySetInnerHTML={{ __html: article.content }}
               />
 
               {/* Tags */}
@@ -192,39 +194,4 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       <SiteFooter />
     </>
   )
-}
-
-function formatContent(content: string): string {
-  // Convert markdown-style content to HTML
-  // Handle headers
-  let html = content
-    .replace(/^# (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^## (.+)$/gm, '<h3>$1</h3>')
-    .replace(/^### (.+)$/gm, '<h4>$1</h4>')
-
-  // Handle paragraphs (double newlines)
-  html = html
-    .split('\n\n')
-    .map((para) => {
-      para = para.trim()
-      if (!para) return ''
-      if (para.startsWith('<h')) return para
-      // Handle single newlines within paragraphs as line breaks
-      if (para.includes('\n') && !para.startsWith('<')) {
-        return `<p>${para.replace(/\n/g, '<br />')}</p>`
-      }
-      return `<p>${para}</p>`
-    })
-    .join('\n')
-
-  // Handle horizontal rules
-  html = html.replace(/^---$/gm, '<hr />')
-
-  // Handle bold
-  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-
-  // Handle links
-  html = html.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>')
-
-  return html
 }

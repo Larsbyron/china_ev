@@ -83,10 +83,7 @@ export function estimateReadTime(content: string): number {
   return Math.max(1, Math.ceil(totalUnits / wordsPerMinute))
 }
 
-/**
- * Format date to ISO8601
- */
-export function formatDate(date: Date): string {
+export function toISODateString(date: Date): string {
   return date.toISOString()
 }
 

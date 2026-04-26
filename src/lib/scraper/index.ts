@@ -3,7 +3,7 @@
 import { writeFileSync, appendFileSync, existsSync, mkdirSync, readdirSync, readFileSync } from 'fs'
 import { resolve, join } from 'path'
 import type { Article, ScraperOptions, ScraperResult, ProcessedArticles, SourceName } from '../article'
-import { generateSlug, estimateReadTime, formatDate } from '../article'
+import { generateSlug, estimateReadTime, toISODateString } from '../article'
 import { loadFingerprints, saveFingerprints, computeFingerprint, rebuildFingerprintsFromDisk } from './dedup'
 import { scrapeAutohome } from './sources/autohome'
 import { scrapeIfeng } from './sources/ifeng'
@@ -68,7 +68,7 @@ function saveArticle(article: Article, draft = false): string {
   ensureDirs()
 
   const slug = generateSlug(article.title, article.source.toLowerCase())
-  const date = formatDate(new Date())
+  const date = toISODateString(new Date())
   const readTime = estimateReadTime(article.content)
 
   // Generate description from content

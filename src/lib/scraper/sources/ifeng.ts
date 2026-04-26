@@ -3,7 +3,7 @@
 
 import { load } from 'cheerio'
 import type { Article, SourceName } from '../../article'
-import { formatDate } from '../../article'
+import { toISODateString } from '../../article'
 import { sanitizeUrl } from '../ssrf'
 import { extractBrand } from '../brands'
 
@@ -218,7 +218,7 @@ export async function scrapeIfeng(maxArticles = 5): Promise<Article[]> {
       const article: Article = {
         title: link.title,
         content: extracted.text,
-        date: extracted.date || formatDate(new Date()),
+        date: extracted.date || toISODateString(new Date()),
         author: extracted.author,
         image: extracted.image,
         source: SOURCE_NAME,

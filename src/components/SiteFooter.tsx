@@ -4,7 +4,7 @@ import styles from './SiteFooter.module.css'
 const links = [
   { href: '/impressum', label: 'Impressum' },
   { href: '/datenschutz', label: 'Datenschutz' },
-  { href: 'https://github.com', label: 'GitHub', external: true },
+  { href: 'https://github.com/Larsbyron/china_ev', label: 'GitHub', external: true },
 ]
 
 export default function SiteFooter() {
