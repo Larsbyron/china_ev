@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import { ArticleMeta } from '@/lib/articles'
-import { formatDateShort } from '@/lib/articles'
+import type { ArticleMeta } from '@/lib/articles'
+import { formatDateShort } from '@/lib/date-utils'
 import styles from './ArticleCard.module.css'
 
 interface ArticleCardProps {

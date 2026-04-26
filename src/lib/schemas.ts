@@ -1,6 +1,6 @@
 import { z } from 'zod'
 
-const SOURCE_NAMES = ['Autohome', 'Ifeng', 'Sina', 'PCauto'] as const
+const SOURCE_NAMES = ['Autohome', 'Ifeng', 'Sina', 'PCauto', 'CnEVPost', 'Electrek'] as const
 
 export const articleFrontmatterSchema = z.object({
   title: z.string().min(1, 'title is required'),
@@ -16,6 +16,7 @@ export const articleFrontmatterSchema = z.object({
   draft: z.boolean().default(false),
   original_url: z.string().url({ message: 'original_url must be a valid URL' }),
   read_time_minutes: z.number().int().min(1).optional(),
+  ev_model: z.string().optional(),
 })
 
 export type ValidatedFrontmatter = z.infer<typeof articleFrontmatterSchema>

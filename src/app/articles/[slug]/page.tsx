@@ -4,6 +4,8 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import GiscusComments from '@/components/GiscusComments'
+import QuickFacts from '@/components/QuickFacts'
+import ShareButtons from '@/components/ShareButtons'
 import {
   getAllArticles,
   getArticleBySlug,
@@ -69,7 +71,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     <>
       <SiteHeader />
 
-      <main className={styles.main}>
+      <main className={styles.main} aria-label="Hauptinhalt">
         <article className={styles.article}>
           {/* Article Header */}
           <header className={styles.header}>
@@ -117,39 +119,52 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             </div>
           )}
 
-          {/* Article Body */}
+          {/* Article Body + Sidebar */}
           <div className={styles.body}>
-            <div className={styles.content}>
-              <div
-                className="article-content"
-                dangerouslySetInnerHTML={{ __html: article.content }}
-              />
+            <div className={styles.bodyLayout}>
+              <div className={styles.content}>
+                <div
+                  className="article-content"
+                  dangerouslySetInnerHTML={{ __html: article.content }}
+                />
 
-              {/* Tags */}
-              {article.tags.length > 0 && (
-                <div className={styles.tags}>
-                  {article.tags.map((tag) => (
-                    <span key={tag} className={styles.tag}>{tag}</span>
-                  ))}
-                </div>
-              )}
+                {/* Tags */}
+                {article.tags.length > 0 && (
+                  <div className={styles.tags}>
+                    {article.tags.map((tag) => (
+                      <span key={tag} className={styles.tag}>{tag}</span>
+                    ))}
+                  </div>
+                )}
 
-              {/* Source Link */}
-              {article.original_url && (
-                <div className={styles.sourceLink}>
-                  <a
-                    href={article.original_url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
-                      <polyline points="15 3 21 3 21 9" />
-                      <line x1="10" y1="14" x2="21" y2="3" />
-                    </svg>
-                    Quelle: {article.source}
-                  </a>
-                </div>
+                {/* Share */}
+                <ShareButtons
+                  title={article.title}
+                  url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'}/articles/${article.slug}/`}
+                />
+
+                {/* Source Link */}
+                {article.original_url && (
+                  <div className={styles.sourceLink}>
+                    <a
+                      href={article.original_url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+                        <polyline points="15 3 21 3 21 9" />
+                        <line x1="10" y1="14" x2="21" y2="3" />
+                      </svg>
+                      Quelle: {article.source}
+                    </a>
+                  </div>
+                )}
+              </div>
+
+              {/* Quick Facts Sidebar */}
+              {article.ev_model && (
+                <QuickFacts evModel={article.ev_model} />
               )}
             </div>
           </div>

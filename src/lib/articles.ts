@@ -17,6 +17,7 @@ export interface Article {
   draft: boolean
   original_url: string
   read_time_minutes: number
+  ev_model?: string
   content: string
 }
 
@@ -33,6 +34,7 @@ export interface ArticleMeta {
   draft: boolean
   original_url: string
   read_time_minutes: number
+  ev_model?: string
 }
 
 export type Brand = {
@@ -82,6 +84,7 @@ function parseMarkdownFile(filePath: string): Article | null {
       draft: validated.draft,
       original_url: validated.original_url,
       read_time_minutes: validated.read_time_minutes ?? calculateReadTime(content),
+      ev_model: validated.ev_model,
       content,
     }
   } catch {
@@ -163,20 +166,4 @@ export function getLatestArticles(count: number = 6): ArticleMeta[] {
   return getAllArticles().slice(0, count)
 }
 
-export function formatDate(dateString: string): string {
-  const date = new Date(dateString)
-  return date.toLocaleDateString('de-DE', {
-    day: 'numeric',
-    month: 'long',
-    year: 'numeric',
-  })
-}
-
-export function formatDateShort(dateString: string): string {
-  const date = new Date(dateString)
-  return date.toLocaleDateString('de-DE', {
-    day: 'numeric',
-    month: 'short',
-    year: 'numeric',
-  })
-}
+export { formatDate, formatDateShort } from '@/lib/date-utils'

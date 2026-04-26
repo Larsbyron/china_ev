@@ -35,7 +35,7 @@ export default function HomePage() {
     <>
       <SiteHeader />
 
-      <main className={styles.main}>
+      <main className={styles.main} aria-label="Hauptinhalt">
         {/* Hero Section */}
         {featured && <Hero article={featured} />}
 

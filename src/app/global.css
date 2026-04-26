@@ -45,6 +45,7 @@
   /* Layout */
   --max-width-content: 720px;
   --max-width-listing: 1200px;
+  --max-width-sidebar: 320px;
 
   /* Transitions */
   --duration-fast: 150ms;

@@ -11,7 +11,7 @@ export default function SiteFooter() {
   const year = new Date().getFullYear()
 
   return (
-    <footer className={styles.footer}>
+    <footer className={styles.footer} aria-label="Seitenfuss">
       <div className={styles.inner}>
         <div className={styles.brand}>
           <span className={styles.logo}>E-AUTOS</span>

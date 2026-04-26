@@ -93,10 +93,25 @@
   padding: var(--space-8) 0 var(--space-16);
 }
 
-.content {
-  max-width: var(--max-width-content);
+.bodyLayout {
+  max-width: calc(var(--max-width-content) + var(--max-width-sidebar) + var(--space-10));
   margin: 0 auto;
   padding: 0 var(--space-6);
+  display: flex;
+  gap: var(--space-10);
+  align-items: flex-start;
+}
+
+.content {
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 1024px) {
+  .bodyLayout {
+    flex-direction: column;
+    max-width: var(--max-width-content);
+  }
 }
 
 /* Tags */
