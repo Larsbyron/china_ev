@@ -1,61 +1,86 @@
 # China EV News
 
-[![Deploy](https://github.com/Larsbyron/china_ev/actions/workflows/deploy.yml/badge.svg)](https://github.com/Larsbyron/china_ev/actions/workflows/deploy.yml)
+[![CI](https://github.com/Larsbyron/china_ev/actions/workflows/ci.yml/badge.svg)](https://github.com/Larsbyron/china_ev/actions/workflows/ci.yml)
 
 Ein automatisiertes Nachrichtenportal für deutsche Auto-Enthusiasten mit den neuesten Nachrichten über chinesische Elektroautos — direkt aus chinesischen Quellen übersetzt.
 
+**Live:** [chinaev.vercel.app](https://chinaev.vercel.app)
+
 ## Features
 
-- **Chinesische Primärquellen** — Sina Auto, 太平洋汽车, 网易汽车
+- **Chinesische Primärquellen** — Electrek, CnEVPost und weitere
 - **KI-Übersetzung** — MiniMax Claude API übersetzt Artikel ins Deutsche
-- **Modernes Design** — Hugo Static Site mit responsivem Layout
-- **Deduplizierung** — SHA-256 Fingerprinting verhindert doppelte Artikel
+- **Modernes Design** — Next.js 15 Static Export mit Dark-First Theme
+- **Volltextsuche** — Pagefind für client-side Suche
+- **EV-Daten** — Recharts Diagramme für Reichweite, Preise, Batterie
+- **Vergleichstool** — Chinesische EVs side-by-side vergleichen
 - **Wöchentliche Kuratierung** — Top 5 chinesische E-Autos jede Woche
+- **Quick Facts** — EV-Spezifikationen auf Artikelseiten
+- **Share Buttons** — X, Facebook, LinkedIn, Link kopieren
+- **RSS Feed** — `/feed.xml` für alle Artikel
+- **SEO** — Sitemap, robots.txt, strukturierte Daten (JSON-LD)
+
+## Tech Stack
+
+- **Framework:** Next.js 15 (Static Export)
+- **Styling:** CSS Modules + CSS Custom Properties
+- **Charts:** Recharts
+- **Search:** Pagefind
+- **Comments:** Giscus (GitHub Discussions)
+- **Hosting:** Vercel
+- **CI:** GitHub Actions
 
 ## Quick Start
 
 ```bash
 # 1. Dependencies installieren
-pip install -r requirements.txt
+npm install
 
-# 2. Artikel holen und übersetzen
-python fetch_translate.py
+# 2. Dev-Server starten
+npm run dev
 
-# 3. Seite bauen
-hugo
+# 3. Bauen
+npm run build
 
-# 4. Lokal ansehen
-hugo server
+# 4. Tests laufen lassen
+npm test
 ```
 
-## GitHub Actions
+## Projektstruktur
 
-### Secrets konfigurieren
-
-In https://github.com/Larsbyron/china_ev/settings/secrets → Actions:
-
-| Secret | Beschreibung |
-|---------|--------------|
-| `ANTHROPIC_API_KEY` | MiniMax Anthropic API Key |
-| `VERCEL_TOKEN` | Vercel Deploy Token |
-| `VERCEL_ORG_ID` | Vercel Organisation ID |
-| `VERCEL_PROJECT_ID` | Vercel Projekt ID |
-
-### Workflow
-
-Läuft automatisch:
-- Täglich um 8:00 UTC — tägliche Artikel
-- Freitags um 8:00 UTC — wöchentliche Top 5 Kuratierung
-
-## Lokale Commands
-
-```bash
-# Wöchentliche Top 5 neu erstellen
-python fetch_translate.py --weekly
-
-# Fingerprints neu aufbauen
-python fetch_translate.py --rebuild-fingerprints
 ```
+src/
+├── app/                    # Next.js App Router Seiten
+│   ├── page.tsx            # Homepage
+│   ├── articles/           # Artikel-Listing + Detailseiten
+│   ├── brands/             # Marken-Übersicht
+│   ├── daten/              # EV-Daten mit Charts
+│   ├── suche/              # Volltextsuche
+│   ├── vergleich/          # Vergleichstool
+│   ├── weekly/             # Wöchentliche Top 5
+│   ├── about/              # Über uns
+│   ├── impressum/          # Impressum (TMG)
+│   └── datenschutz/        # Datenschutz (GDPR)
+├── components/             # React-Komponenten
+├── lib/                    # Utilities, Scraper, Markdown
+└── data/                   # EV-Spezifikationen (JSON)
+```
+
+## Konfiguration
+
+### Umgebungsvariablen (.env)
+- `ANTHROPIC_API_KEY` — MiniMax Anthropic API Key
+- `ANTHROPIC_BASE_URL` — API Base URL
+
+### Giscus Kommentare
+1. GitHub Discussions im Repo aktivieren
+2. httpsg://giscus.app besuchen für Repo-Details
+3. Giscus-Komponente konfigurieren
+
+### Vercel Deployment
+Automatisch via GitHub Push. Benötigt:
+- Vercel Projekt mit `outputDirectory: "out"`
+- Deployment Protection deaktiviert
 
 ## Lizenz
 

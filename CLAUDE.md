@@ -2,80 +2,67 @@
 
 Automated blog for German car enthusiasts featuring the latest Chinese EV news, translated via MiniMax Claude API.
 
+**Live:** [chinaev.vercel.app](https://chinaev.vercel.app)
+
+## Tech Stack
+
+- **Framework:** Next.js 15 (Static Export, `output: 'export'`)
+- **Styling:** CSS Modules + CSS Custom Properties, dark-first theme
+- **Charts:** Recharts (client-side only)
+- **Search:** Pagefind (post-build indexing)
+- **Comments:** Giscus (GitHub Discussions)
+- **Hosting:** Vercel (auto-deploy from main)
+- **Tests:** Vitest (100 tests)
+
 ## Project Structure
 
 ```
-china-ev-news/
-├── config.toml              # Hugo configuration
-├── content/
-│   ├── posts/               # Markdown articles (auto-generated)
-│   │   └── drafts/          # Failed translations saved here
-│   ├── about.md
-│   ├── impressum.md
-│   └── datenschutz.md
-├── themes/
-│   └── china-ev-blog/       # Custom Hugo theme
-├── fetch_translate.py       # Python pipeline (v3)
-├── sources.json             # RSS feed configurations
-├── requirements.txt         # Python dependencies
-├── processed_articles.json  # SHA-256 fingerprints (committed)
-├── .runlog.jsonl            # Structured run log (committed)
-├── scripts/
-│   └── archive/
-│       └── deploy-strato.sh  # Archived Strato deploy script
-└── .env                     # API keys (not committed)
+src/
+├── app/                    # Next.js App Router
+│   ├── page.tsx            # Homepage
+│   ├── articles/           # Article listing + [slug] detail pages
+│   ├── brands/             # Brand overview
+│   ├── daten/              # EV data with Recharts
+│   ├── suche/              # Pagefind search
+│   ├── vergleich/          # EV comparison tool
+│   ├── weekly/             # Weekly top 5
+│   ├── about/              # About page
+│   ├── impressum/          # Legal (TMG)
+│   └── datenschutz/        # Privacy (GDPR)
+├── components/             # React components
+│   ├── charts/             # Recharts visualizations
+│   └── comparison/         # Comparison tool
+├── lib/                    # Utilities, scraper, markdown
+└── data/                   # ev-specs.json
+scripts/
+├── generate-rss.ts         # RSS feed generation
+└── translate-existing.ts   # Batch translation
 ```
 
-## Daily Workflow
+## Commands
 
 ```bash
-# 1. Install dependencies (first time)
-pip install -r requirements.txt
-
-# 2. Fetch and translate articles
-python fetch_translate.py
-
-# 3. Build site
-hugo
-
-# 4. Deploy to Vercel (via GitHub Actions)
-#    Or locally: vercel --prod
-```
-
-## Pipeline Commands
-
-```bash
-python fetch_translate.py                  # Daily run
-python fetch_translate.py --weekly        # Build weekly Top 5
-python fetch_translate.py --rebuild-fingerprints  # Rebuild fingerprints from disk
+npm run dev          # Dev server
+npm run build        # Production build (+ Pagefind + RSS)
+npm test             # Run 100 tests
+npm run lint         # ESLint
 ```
 
 ## Configuration
 
-### Environment Variables (.env)
+### Environment Variables
 - `ANTHROPIC_API_KEY` — MiniMax Anthropic API key
-- `ANTHROPIC_BASE_URL` — API base URL (default: https://api.minimax.io/anthropic/v1)
-
-### RSS Sources
-Edit `sources.json` to add/remove feeds. Currently: Chinese sources only (Sina, 太平洋汽车, 网易汽车).
+- `ANTHROPIC_BASE_URL` — API base URL
 
 ### Giscus Comments
 1. Enable GitHub Discussions in repo settings
 2. Visit https://giscus.app to get repo details
-3. Update `config.toml` with Giscus values
+3. Configure GiscusComments.tsx
 
-### Vercel Deployment
-Configured via GitHub Actions. Secrets needed:
-- `ANTHROPIC_API_KEY`
-- `VERCEL_TOKEN`, `VERCEL_ORG_ID`, `VERCEL_PROJECT_ID`
-
-## Future Considerations
-
-### Data Visualization
-如果需要展示 EV 销量图表、趋势对比等数据可视化：
-- **Recharts** — React 图表库，`npm install recharts`
-  - GitHub: github.com/recharts/recharts
-  - 支持折线图、柱状图、饼图、雷达图等 20+ 类型
+### Vercel
+- Auto-deploys from `main` on push
+- `outputDirectory: "out"` in vercel.json
+- Deployment Protection must be disabled for public access
 
 ## Skill routing
 
