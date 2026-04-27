@@ -120,6 +120,7 @@ export default function SearchPage() {
               value={query}
               onChange={(e) => setQuery(e.target.value)}
               aria-label="Suchbegriff eingeben"
+              suppressHydrationWarning
             />
           </div>
         </form>
