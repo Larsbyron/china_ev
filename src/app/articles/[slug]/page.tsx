@@ -182,7 +182,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       className={styles.relatedCard}
                     >
                       {related.image && (
-                        <img src={related.image} alt="" className={styles.relatedImage} />
+                        <img src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} />
                       )}
                       <div className={styles.relatedContent}>
                         <h3 className={styles.relatedCardTitle}>{related.title}</h3>

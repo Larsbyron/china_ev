@@ -82,7 +82,10 @@ export default function WeeklyPage() {
                     <img
                       src={article.image}
                       alt=""
+                      width={480}
+                      height={270}
                       loading="lazy"
+                      decoding="async"
                       className={styles.image}
                     />
                   </div>

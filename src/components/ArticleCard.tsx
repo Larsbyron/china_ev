@@ -20,7 +20,10 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             src={article.image}
             alt={article.title}
             className={styles.image}
+            width={480}
+            height={270}
             loading={featured ? 'eager' : 'lazy'}
+            decoding="async"
           />
         </div>
       )}
