@@ -33,7 +33,7 @@ export type EVSpec = z.infer<typeof evSpecSchema>
 
 const parsed = evSpecsSchema.safeParse(evSpecsData)
 if (!parsed.success) {
-  console.error('Invalid ev-specs.json:', parsed.error.format())
+  console.error('Invalid ev-specs.json:', parsed.error.issues)
 }
 
 export const EV_SPECS: EVSpec[] = parsed.success ? parsed.data : []

@@ -28,7 +28,10 @@ const BRAND_COLORS: Record<string, string> = {
 export default function PriceRangeChart() {
   const [mounted, setMounted] = useState(false)
 
-  useEffect(() => setMounted(true), [])
+  useEffect(() => {
+    const id = requestAnimationFrame(() => setMounted(true))
+    return () => cancelAnimationFrame(id)
+  }, [])
 
   if (!mounted) {
     return <div className={styles.skeleton} />
