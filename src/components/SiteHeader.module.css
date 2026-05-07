@@ -49,6 +49,9 @@
 }
 
 .navLink {
+  display: flex;
+  align-items: center;
+  min-height: 44px;
   font-size: var(--text-sm);
   font-weight: 500;
   color: var(--color-text-secondary);
@@ -61,6 +64,14 @@
   color: var(--color-text-primary);
 }
 
+.navLinkActive {
+  color: var(--color-accent-green);
+}
+
+.navLinkActive:hover {
+  color: var(--color-accent-green);
+}
+
 .actions {
   display: flex;
   align-items: center;
@@ -71,8 +82,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
+  width: 44px;
+  height: 44px;
   color: var(--color-text-secondary);
   border-radius: 8px;
   transition: color var(--duration-fast), background var(--duration-fast);

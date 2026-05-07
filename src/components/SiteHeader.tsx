@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import ThemeToggle from './ThemeToggle'
 import styles from './SiteHeader.module.css'
 
@@ -16,6 +17,7 @@ const navItems = [
 
 export default function SiteHeader() {
   const [scrolled, setScrolled] = useState(false)
+  const pathname = usePathname()
 
   useEffect(() => {
     const handleScroll = () => {
@@ -24,6 +26,11 @@ export default function SiteHeader() {
     window.addEventListener('scroll', handleScroll, { passive: true })
     return () => window.removeEventListener('scroll', handleScroll)
   }, [])
+
+  const isActive = (href: string) => {
+    if (href === '/') return pathname === '/'
+    return pathname.startsWith(href)
+  }
 
   return (
     <header className={`${styles.header} ${scrolled ? styles.scrolled : ''}`} aria-label="Seitenkopf">
@@ -34,7 +41,12 @@ export default function SiteHeader() {
 
         <nav className={styles.nav} aria-label="Hauptnavigation">
           {navItems.map((item) => (
-            <Link key={item.href} href={item.href} className={styles.navLink}>
+            <Link
+              key={item.href}
+              href={item.href}
+              className={`${styles.navLink} ${isActive(item.href) ? styles.navLinkActive : ''}`}
+              aria-current={isActive(item.href) ? 'page' : undefined}
+            >
               {item.label}
             </Link>
           ))}
