@@ -18,12 +18,12 @@ export const metadata: Metadata = {
 }
 
 const brands = [
-  { name: 'BYD', slug: 'byd' },
-  { name: 'NIO', slug: 'nio' },
-  { name: 'XPeng', slug: 'xpeng' },
-  { name: 'Li Auto', slug: 'li-auto' },
-  { name: 'MG', slug: 'mg' },
-  { name: 'Geely', slug: 'geely' },
+  { name: 'BYD', slug: 'byd', initial: 'B' },
+  { name: 'NIO', slug: 'nio', initial: 'N' },
+  { name: 'XPeng', slug: 'xpeng', initial: 'X' },
+  { name: 'Li Auto', slug: 'li-auto', initial: 'L' },
+  { name: 'MG', slug: 'mg', initial: 'M' },
+  { name: 'Geely', slug: 'geely', initial: 'G' },
 ]
 
 export default function HomePage() {
@@ -36,17 +36,23 @@ export default function HomePage() {
       <SiteHeader />
 
       <main className={styles.main} aria-label="Hauptinhalt">
-        {/* Hero Section */}
         {featured && <Hero article={featured} />}
 
-        {/* Latest Articles Grid */}
+        {/* Latest Articles — editorial grid */}
         <section className={styles.section}>
           <div className={styles.container}>
-            <h2 className={styles.sectionTitle}>Neueste Artikel</h2>
+            <div className={styles.sectionHeader}>
+              <div className={styles.sectionLine} aria-hidden="true" />
+              <h2 className={styles.sectionTitle}>Neueste Artikel</h2>
+            </div>
 
             <div className={styles.articleGrid}>
-              {latestArticles.map((article) => (
-                <ArticleCard key={article.slug} article={article} />
+              {latestArticles.map((article, i) => (
+                <ArticleCard
+                  key={article.slug}
+                  article={article}
+                  featured={i === 0}
+                />
               ))}
             </div>
 
@@ -54,7 +60,7 @@ export default function HomePage() {
               <div className={styles.viewAll}>
                 <Link href="/articles" className={styles.viewAllLink}>
                   Alle Artikel ansehen
-                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <line x1="5" y1="12" x2="19" y2="12" />
                     <polyline points="12 5 19 12 12 19" />
                   </svg>
@@ -64,18 +70,22 @@ export default function HomePage() {
           </div>
         </section>
 
-        {/* Brand Quick Links */}
+        {/* Brand Showcase */}
         <section className={styles.brandSection}>
           <div className={styles.container}>
-            <h2 className={styles.sectionTitle}>Marken</h2>
+            <div className={styles.sectionHeader}>
+              <div className={styles.sectionLine} aria-hidden="true" />
+              <h2 className={styles.sectionTitle}>Marken</h2>
+            </div>
             <div className={styles.brandGrid}>
               {brands.map((brand) => (
                 <Link
                   key={brand.slug}
                   href={`/brands#${brand.slug}`}
-                  className={styles.brandLink}
+                  className={styles.brandCard}
                 >
-                  {brand.name}
+                  <span className={styles.brandInitial}>{brand.initial}</span>
+                  <span className={styles.brandName}>{brand.name}</span>
                 </Link>
               ))}
             </div>
