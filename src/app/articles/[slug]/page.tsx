@@ -72,6 +72,25 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       <SiteHeader />
 
       <main className={styles.main} aria-label="Hauptinhalt">
+        {/* JSON-LD Article Schema */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'NewsArticle',
+              headline: article.title,
+              description: article.description,
+              datePublished: article.date,
+              dateModified: article.date,
+              author: { '@type': 'Organization', name: 'E-AUTOS' },
+              publisher: { '@type': 'Organization', name: 'E-AUTOS' },
+              image: article.image || undefined,
+              inLanguage: 'de',
+              isAccessibleForFree: true,
+            }),
+          }}
+        />
         <article className={styles.article}>
           {/* Article Header */}
           <header className={styles.header}>
