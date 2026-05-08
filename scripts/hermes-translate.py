@@ -8,7 +8,7 @@ This script is the data-collection half. It:
 3. Outputs JSON to stdout for Hermes to translate
 
 Usage:
-    python3 scripts/hermes-translate.py fetch [--source sina|autohome|ifeng|pcauto] [--max 5]
+    python3 scripts/hermes-translate.py fetch [--source sina|autohome|autohome_newenergy|autohome_all|pcauto|chooseauto|nev_ofweek] [--max 5]
 
 Output: JSON array of articles with Chinese content, ready for translation.
 
@@ -41,26 +41,51 @@ SOURCES = {
         "name": "Sina",
         "list_url": "https://auto.sina.com.cn/news/",
         "base_url": "https://auto.sina.com.cn",
+        "article_patterns": ["/detail-", "/article/", "/content-", "/doc-"],
     },
     "autohome": {
         "name": "Autohome",
         "list_url": "https://www.autohome.com.cn/news/",
         "base_url": "https://www.autohome.com.cn",
-    },
-    "ifeng": {
-        "name": "Ifeng",
-        "list_url": "https://auto.ifeng.com/xinchezixun/",
-        "base_url": "https://auto.ifeng.com",
+        "article_patterns": ["/news/2"],  # matches /news/YYYYMM/ (2026, 2025, etc.)
     },
     "pcauto": {
         "name": "PCauto",
         "list_url": "https://www.pcauto.com.cn/nation/",
         "base_url": "https://www.pcauto.com.cn",
+        "article_patterns": ["/nation/"],
+        "encoding": "gb2312",
+    },
+    "autohome_newenergy": {
+        "name": "Autohome NewEnergy",
+        "list_url": "https://www.autohome.com.cn/newenergy/",
+        "base_url": "https://www.autohome.com.cn",
+        "article_patterns": ["/news/2"],  # matches /news/YYYYMM/ (2026, 2025, etc.)
+    },
+    "chooseauto": {
+        "name": "ChooseAuto",
+        "list_url": "https://www.chooseauto.com.cn/list/channel_1.shtml",
+        "base_url": "https://www.chooseauto.com.cn",
+        "article_patterns": ["/news/"],  # /news/897997.shtml
+    },
+    "nev_ofweek": {
+        "name": "OFweek NEV",
+        "list_url": "https://nev.ofweek.com/CATList-71000-8200-nev.html",
+        "base_url": "https://nev.ofweek.com",
+        "article_patterns": ["/ART-"],  # /2026-04/ART-71008-8220-30686126.html
+    },
+    "autohome_all": {
+        "name": "Autohome All",
+        "list_url": "https://www.autohome.com.cn/all/",
+        "base_url": "https://www.autohome.com.cn",
+        "article_patterns": ["/news/2"],  # matches /news/YYYYMM/ (2026, 2025, etc.)
+        "encoding": "gb2312",
+        "ev_filter": True,  # filter ICE vehicles, only keep EV content
     },
 }
 
 BRAND_PATTERNS = {
-    "BYD": [r"BYD", "比亚迪", "腾势"],
+    "BYD": [r"BYD", "比亚迪", "腾势", "方程豹"],
     "NIO": [r"NIO", "蔚来"],
     "XPeng": [r"XPeng", r"Xpeng", "小鹏"],
     "Li Auto": [r"Li\s*Auto", "理想"],
@@ -81,7 +106,25 @@ BRAND_PATTERNS = {
     "Hongqi": [r"Hongqi", "红旗"],
     "Deepal": [r"Deepal", "深蓝"],
     "Denza": [r"Denza", "腾势"],
+    "Hyper": [r"Hyper", "昊铂"],
+    "Arcfox": [r"Arcfox", "极狐"],
 }
+
+# EV keywords for filtering ICE content (used by autohome_all ev_filter)
+EV_KEYWORDS = [
+    r"电动", r"纯电", r"插混", r"增程", r"混动", r"新能源", r"电池",
+    r"充电", r"续航", r"NIO", r"蔚来", r"BYD", r"比亚迪", r"XPeng", r"小鹏",
+    r"理想", r"Zeekr", r"极氪", r"小米", r"SU7", r"特斯拉", r"Tesla",
+    r"埃安", r"零跑", r"大众ID", r"ID\.", r"EQ", r"iX", r"e-tron",
+    r"EQS", r"EQB", r"EQC", r"EQE", r"EQA",
+    r"凯迪拉克.*纯电", r"路特斯", r"Polestar", r"极星",
+    r"新势力", r"Robotaxi",
+    # Specific EV/PHEV models that may not mention "纯电" in title
+    r"华境S?", r"铂智", r"阿维塔", r"奥迪E\d", r"AUDI\s*E\d",
+    r"深蓝", r"长安启源", r"岚图", r"仰望", r"方程豹",
+    r"问界", r"享界", r"智界", r"尚界", r"尊界",
+    r"昊铂", r"星途", r"猛士", r"坦克.*hi4", r"哈弗.*Hi4",
+]
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -96,13 +139,16 @@ DELAY_MS = 1000  # 1 request per second
 # HTTP
 # ============================================================================
 
-def fetch_page(url: str) -> str:
+def fetch_page(url: str, encoding: str = None) -> str:
     """Fetch a page with retry logic."""
     for attempt in range(3):
         try:
             resp = requests.get(url, headers=HEADERS, timeout=15)
             resp.raise_for_status()
-            resp.encoding = resp.apparent_encoding or 'utf-8'
+            if encoding:
+                resp.encoding = encoding
+            else:
+                resp.encoding = resp.apparent_encoding or 'utf-8'
             return resp.text
         except requests.RequestException as e:
             if attempt == 2:
@@ -125,7 +171,7 @@ REMOVE_CLASSES = {"ad", "advertisement", "comment", "share", "related",
                   "breadcrumb", "pagination", "city", "switch"}
 
 
-def extract_text(html: str) -> str:
+def extract_text(html: str, source_key: str = "") -> str:
     """Extract readable text from HTML using BeautifulSoup."""
     soup = BeautifulSoup(html, "html.parser")
 
@@ -138,14 +184,61 @@ def extract_text(html: str) -> str:
         for tag in soup.find_all(class_=re.compile(cls, re.I)):
             tag.decompose()
 
-    # Try common article selectors first
-    selectors = [
+    # Try source-specific selectors first, then generic ones
+    selectors = []
+
+    # Autohome / Autohome NewEnergy / Autohome All: Tailwind CSS Modules
+    if source_key in ("autohome", "autohome_newenergy", "autohome_all"):
+        # Content body: class contains "Article_Wrap_Box"
+        aw = soup.find(class_=re.compile(r"Article_Wrap_Box"))
+        if aw:
+            selectors.append(aw)
+        # Title: div with tw-text-[32px]
+        title_el = soup.find(class_=re.compile(r"tw-text-\[32px\]"))
+        if title_el:
+            selectors.append(title_el)
+
+    # PCauto: traditional class names
+    if source_key == "pcauto":
+        art = soup.find(class_="artText")
+        if art:
+            selectors.append(art)
+        title_el = soup.find("h1", class_="tit")
+        if title_el:
+            selectors.append(title_el)
+
+    # ChooseAuto: article body is after the title/author/date line, before "标签:"
+    if source_key == "chooseauto":
+        # Find all text blocks, exclude navigation and footer
+        body = soup.find("body")
+        if body:
+            # Remove known boilerplate sections
+            for cls_pattern in ["header", "nav", "footer", "hot-video", "hot-", "focus",
+                                "related", "link", "breadcrumb"]:
+                for tag in body.find_all(class_=re.compile(cls_pattern, re.I)):
+                    tag.decompose()
+            selectors.append(body)
+
+    # OFweek NEV: article body starts after the title, ends before related articles
+    if source_key == "nev_ofweek":
+        # Content is in the body between the title line and "相关阅读"
+        body = soup.find("body")
+        if body:
+            # Remove massive navigation/boilerplate
+            for tag in body.find_all(class_=re.compile(r"header|nav|footer|side|hot|related|recommend|activity|pic-news", re.I)):
+                tag.decompose()
+            for tag in body.find_all(id=re.compile(r"header|nav|footer|side|hot|related|recommend")):
+                tag.decompose()
+            selectors.append(body)
+
+    # Generic selectors (fallback and for sina)
+    selectors.extend([
         soup.find(id="articleContent"),
         soup.find(class_="article-content"),
         soup.find(class_="news-content"),
         soup.find("article"),
         soup.find(class_="art_content"),
-    ]
+    ])
 
     best_text = ""
     for el in selectors:
@@ -166,14 +259,67 @@ def extract_text(html: str) -> str:
     return best_text.strip()
 
 
-def extract_image_urls(html: str) -> list:
+def extract_image_urls(html: str, source_key: str = "") -> list:
     """Extract image URLs from HTML."""
     soup = BeautifulSoup(html, "html.parser")
     imgs = []
+
+    # Source-specific image selectors
+    if source_key == "pcauto":
+        for img in soup.select(".artText img"):
+            src = img.get("src") or img.get("data-src") or ""
+            if src:
+                if src.startswith("//"):
+                    src = "https:" + src
+                imgs.append(src)
+        return imgs
+
+    if source_key == "autohome" or source_key == "autohome_newenergy" or source_key == "autohome_all":
+        for img in soup.select("[class*='Article_Wrap_Box'] img, .editor-image img"):
+            src = img.get("src") or img.get("data-src") or ""
+            if src and "lazy" not in src.lower():
+                imgs.append(src)
+        return imgs
+
+    if source_key == "chooseauto":
+        for img in soup.find_all("img"):
+            src = img.get("src") or ""
+            if src and not any(x in src.lower() for x in ["avatar", "logo", "icon", "gif", "pixel", "1x1", "/ad/", "gaicon"]):
+                if src.startswith("//"):
+                    src = "https:" + src
+                imgs.append(src)
+        return imgs
+
+    if source_key == "nev_ofweek":
+        for img in soup.find_all("img"):
+            src = img.get("src") or ""
+            if src and not any(x in src.lower() for x in [
+                "avatar", "logo", "icon", "gif", "pixel", "1x1",
+                "images.ofweek.com/article/images/bar/",  # toolbar icons
+                "images.ofweek.com/images/logo/",          # site logos
+                "images.ofweek.com/newOFweekIndex/",       # footer icons
+                "images.ofweek.com/ofweek/images/",        # HR/recruitment logos
+                "beian.png", "qrcode", "weixin", "wechat",
+                "online2.gif", "loading.png",
+            ]):
+                if src.startswith("//"):
+                    src = "https:" + src
+                imgs.append(src)
+        return imgs
+
+    # Generic fallback
     for img in soup.find_all("img"):
         src = img.get("src") or img.get("data-src") or ""
-        if src and not any(x in src for x in ["avatar", "logo", "icon", "gif", "pixel", "1x1"]):
+        if src and not any(x in src for x in ["avatar", "logo", "icon", "gif", "pixel", "1x1",
+                                               "default_big.png", "default", "placeholder",
+                                               "empty", "blank"]):
             imgs.append(src)
+    # For autohome: if we got nothing good, try broader content area
+    if not imgs and source_key in ("autohome", "autohome_newenergy", "autohome_all"):
+        for img in soup.select("div[class*='article'] img, div[class*='content'] img"):
+            src = img.get("src") or ""
+            if src and "autoimg" in src:
+                imgs.append(src)
     return imgs
 
 
@@ -186,6 +332,10 @@ def parse_article_links(html: str, base_url: str, source_key: str) -> list:
     soup = BeautifulSoup(html, "html.parser")
     links = []
     seen = set()
+
+    # Get source-specific patterns
+    source_cfg = SOURCES.get(source_key, {})
+    article_patterns = source_cfg.get("article_patterns", ['/detail-', '/article/', '/content-', '/doc-'])
 
     # Find all links
     for a in soup.find_all("a", href=True):
@@ -206,9 +356,15 @@ def parse_article_links(html: str, base_url: str, source_key: str) -> list:
         # De-duplicate domain prefix (e.g. sina links sometimes have //auto.sina.com.cn//auto.sina.com.cn/...)
         url = re.sub(r'(https?://[^/]+)//\1', r'\1', url)
 
-        # Filter for article detail URLs (must have a unique article identifier)
-        article_patterns = ['/detail-', '/article/', '/content-', '/doc-']
+        # Filter for article detail URLs using source-specific patterns
         if not any(p in url for p in article_patterns):
+            continue
+
+        # For autohome, skip non-article pages (e.g. list pages like /news/202605/)
+        if source_key in ("autohome", "autohome_all") and not re.search(r'/news/\d{6}/\d+\.html', url):
+            continue
+        # For pcauto, must end with numeric .html
+        if source_key == "pcauto" and not re.search(r'/nation/\d+/\d+\.html', url):
             continue
 
         # Skip duplicates
@@ -266,9 +422,10 @@ def fetch_articles(source_key: str, max_articles: int = 5) -> list:
     source_name = source["name"]
     base_url = source["base_url"]
     list_url = source["list_url"]
+    encoding = source.get("encoding")
 
     print(f"[{source_name}] Fetching article list from {list_url}...", file=sys.stderr)
-    html = fetch_page(list_url)
+    html = fetch_page(list_url, encoding)
 
     links = parse_article_links(html, base_url, source_key)
 
@@ -287,12 +444,19 @@ def fetch_articles(source_key: str, max_articles: int = 5) -> list:
         try:
             time.sleep(DELAY_MS / 1000)
             print(f"[{source_name}] Scraping: {title[:50]}...", file=sys.stderr)
-            article_html = fetch_page(url)
-            text = extract_text(article_html)
+            article_html = fetch_page(url, encoding)
+            text = extract_text(article_html, source_key)
 
             if len(text) < 300:
                 print(f"[{source_name}] Skipping (too short: {len(text)} chars)", file=sys.stderr)
                 continue
+
+            # EV filter for autohome_all — skip ICE-only articles
+            if source.get("ev_filter"):
+                combined = f"{title} {text[:1000]}"
+                if not any(re.search(kw, combined, re.I) for kw in EV_KEYWORDS):
+                    print(f"[{source_name}] Skipping (not EV-related): {title[:50]}...", file=sys.stderr)
+                    continue
 
             # Check duplicate
             fp = compute_fingerprint(text)
@@ -301,7 +465,7 @@ def fetch_articles(source_key: str, max_articles: int = 5) -> list:
                 continue
 
             # Extract image
-            images = extract_image_urls(article_html)
+            images = extract_image_urls(article_html, source_key)
             image = images[0] if images else ""
 
             # Extract brand
@@ -330,7 +494,7 @@ def fetch_articles(source_key: str, max_articles: int = 5) -> list:
 def main():
     parser = argparse.ArgumentParser(description="Hermes Translate Pipeline")
     parser.add_argument("command", choices=["fetch"], help="Command to run")
-    parser.add_argument("--source", default="sina", help="News source (sina, autohome, ifeng, pcauto)")
+    parser.add_argument("--source", default="sina", help="News source (sina, autohome, autohome_newenergy, autohome_all, pcauto, chooseauto, nev_ofweek, all)")
     parser.add_argument("--max", type=int, default=3, help="Max articles to fetch")
     args = parser.parse_args()
 
