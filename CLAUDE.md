@@ -64,6 +64,60 @@ npm run lint         # ESLint
 - `outputDirectory: "out"` in vercel.json
 - Deployment Protection must be disabled for public access
 
+## Web Scraping Routing (via Scrapling MCP)
+
+When any scraping, data extraction, or content fetching task is requested, prefer
+Scrapling MCP tools (`mcp__scrapling__*`) over raw `requests`/`curl`. The MCP
+server provides TLS fingerprinting, anti-bot bypass (Cloudflare Turnstile), and
+CSS-selector-based content narrowing that saves tokens.
+
+### Route by task type
+
+| Task | Tool | Key Options |
+|------|------|-------------|
+| Static page, fast fetch | `mcp__scrapling__get` | `main_content_only=true`, `extraction_type="markdown"` |
+| Multiple static URLs | `mcp__scrapling__bulk_get` | Same as above, concurrent |
+| JS-rendered / SPA | `mcp__scrapling__fetch` | `network_idle=true`, `wait_selector="..."` |
+| Multiple dynamic URLs | `mcp__scrapling__bulk_fetch` | Concurrent tabs |
+| Cloudflare / anti-bot | `mcp__scrapling__stealthy_fetch` | `headless=false` for visible browser |
+| Multiple protected URLs | `mcp__scrapling__bulk_stealthy_fetch` | Concurrent stealth tabs |
+| Multi-step workflow | `open_session` → `fetch`/`stealthy_fetch` → `close_session` | Reuse browser across requests |
+| Screenshot | `open_session` → `mcp__scrapling__screenshot` | `full_page=true`, `image_type="jpeg"` |
+
+### Source-specific patterns
+
+- **CnEVPost** — static, `get` is sufficient, use `main_content_only=true`
+- **Electrek** — static, `get` with selector `.post-content`
+- **Sina Auto** — Chinese encoding, use `get` with selector `#artibody`
+- **PCauto / Autohome** — may need JS rendering, try `get` first, escalate to `fetch` if empty
+
+### CSS selectors for targeted extraction (saves tokens)
+
+```
+# CnEVPost article body
+get https://cnevpost.com/2026/... → main_content_only=true
+
+# Electrek article body  
+get https://electrek.co/2026/... → main_content_only=true
+
+# Sina article body
+get https://auto.sina.com.cn/... → main_content_only=true
+```
+
+### Integration with fetch_translate.py
+
+The `fetch_full_article()` function in `fetch_translate.py` can be called via Scrapling MCP
+when doing ad-hoc extraction, but the Python script remains authoritative for the automated
+CI pipeline (GitHub Actions can't use MCP). For one-off scraping and debugging, prefer the
+MCP tools — they handle anti-bot escalation automatically.
+
+### Fallback
+
+If Scrapling MCP fails (rate limiting, connection issues), fall back to:
+1. `WebFetch` for simple content extraction
+2. `python3 fetch_full_scrapling.py <url>` for local Scrapling Selector usage
+3. Raw `curl` / `requests` (last resort)
+
 ## Skill routing
 
 When the user's request matches an available skill, invoke it via the Skill tool. The

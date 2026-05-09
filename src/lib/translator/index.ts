@@ -1,8 +1,8 @@
 /**
- * MiniMax Translation Module
+ * DeepSeek Translation Module
  *
- * Translates Chinese articles to German using MiniMax API.
- * Pure functions, no side effects except API calls.
+ * Translates Chinese articles to German using DeepSeek API (OpenAI-compatible).
+ * Model: deepseek-v4-flash
  */
 
 import {
@@ -31,45 +31,23 @@ export interface TranslateBatchOptions {
   signal?: AbortSignal
 }
 
-interface MiniMaxMessage {
-  role: 'user' | 'assistant' | 'system'
-  content: string
-}
-
-interface MiniMaxRequest {
-  model: string
-  max_tokens: number
-  temperature: number
-  messages: MiniMaxMessage[]
-  stream?: boolean
-}
-
-interface MiniMaxResponse {
-  content: string
-  stop_reason?: string
-  error?: {
-    type: string
-    message: string
-  }
-}
-
 // ============================================================================
 // Configuration
 // ============================================================================
 
-const API_BASE_URL = process.env.ANTHROPIC_BASE_URL || 'https://api.minimax.io/anthropic/v1'
-const API_KEY = process.env.ANTHROPIC_API_KEY
+const DEEPSEEK_BASE_URL = 'https://api.deepseek.com'
+const API_KEY = process.env.DEEPSEEK_API_KEY
 
-const MODEL = 'MiniMax-M2.7'
-const MAX_TOKENS = 15000
+const MODEL = 'deepseek-v4-flash'
+const MAX_TOKENS = 8192
 const TEMPERATURE = 0.3
 
-const RATE_LIMIT_DELAY_MS = 1000 // 1 request per second
-const MAX_CHUNK_CHARS = 10000
+const RATE_LIMIT_DELAY_MS = 500 // DeepSeek 允许更高并发
+const MAX_CHUNK_CHARS = 8000
 const CHUNK_OVERLAP_CHARS = 100
 
 const RETRY_DELAY_MS = 2000
-const BACKOFF_DELAYS = [1000, 2000, 4000] // exponential backoff for 429s
+const BACKOFF_DELAYS = [1000, 2000, 4000]
 
 // ============================================================================
 // Rate Limiter
@@ -80,11 +58,9 @@ let lastRequestTime = 0
 async function rateLimitedRequest(): Promise<void> {
   const now = Date.now()
   const elapsed = now - lastRequestTime
-
   if (elapsed < RATE_LIMIT_DELAY_MS) {
     await sleep(RATE_LIMIT_DELAY_MS - elapsed)
   }
-
   lastRequestTime = Date.now()
 }
 
@@ -96,19 +72,11 @@ function sleep(ms: number): Promise<void> {
 // Word Count Utilities
 // ============================================================================
 
-/**
- * Count words in German text.
- * German has approximately 180 words per minute reading speed.
- */
 export function countGermanWords(text: string): number {
-  // German word count: split by whitespace, filter empty strings
   const words = text.trim().split(/\s+/).filter((w) => w.length > 0)
   return words.length
 }
 
-/**
- * Calculate reading time in minutes for German text.
- */
 export function calculateGermanReadTime(text: string): number {
   const words = countGermanWords(text)
   return Math.ceil(words / 180)
@@ -136,34 +104,25 @@ function splitIntoChunks(text: string): TextChunk[] {
   while (start < text.length) {
     let end = start + MAX_CHUNK_CHARS
 
-    // If not at the end, try to break at a natural boundary (newline or period)
     if (end < text.length) {
-      // Look for paragraph break first, then sentence break, then word break
       const paragraphBreak = text.lastIndexOf('\n\n', end)
       const sentenceBreak = text.lastIndexOf('. ', end)
       const wordBreak = text.lastIndexOf(' ', end)
 
-      // Prefer the closest natural break before the limit
       const breakPoints = [paragraphBreak, sentenceBreak, wordBreak].filter(
         (bp) => bp > start + MAX_CHUNK_CHARS / 2
       )
 
       if (breakPoints.length > 0) {
-        end = breakPoints[0] + 1 // Include the break character
+        end = breakPoints[0] + 1
       }
     }
 
-    chunks.push({
-      content: text.slice(start, end),
-      index: index,
-      total: 0, // Will be set after all chunks are determined
-    })
-
+    chunks.push({ content: text.slice(start, end), index, total: 0 })
     start = end - CHUNK_OVERLAP_CHARS
     index++
   }
 
-  // Set total chunks on each chunk
   const total = chunks.length
   for (const chunk of chunks) {
     chunk.total = total
@@ -173,21 +132,21 @@ function splitIntoChunks(text: string): TextChunk[] {
 }
 
 // ============================================================================
-// MiniMax API
+// DeepSeek API (OpenAI-compatible)
 // ============================================================================
 
-async function callMiniMaxAPI(
+async function callDeepSeekAPI(
   systemPrompt: string,
   userPrompt: string,
   signal?: AbortSignal
-): Promise<MiniMaxResponse> {
+): Promise<string> {
   if (!API_KEY || API_KEY.trim().length === 0) {
-    throw new Error('ANTHROPIC_API_KEY is not configured or is empty')
+    throw new Error('DEEPSEEK_API_KEY is not configured')
   }
 
-  const url = `${API_BASE_URL}/messages`
+  const url = `${DEEPSEEK_BASE_URL}/chat/completions`
 
-  const requestBody: MiniMaxRequest = {
+  const body = JSON.stringify({
     model: MODEL,
     max_tokens: MAX_TOKENS,
     temperature: TEMPERATURE,
@@ -195,92 +154,53 @@ async function callMiniMaxAPI(
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userPrompt },
     ],
+  })
+
+  const headers = {
+    'Content-Type': 'application/json',
+    Authorization: `Bearer ${API_KEY}`,
   }
 
   let response: Response
 
-  try {
-    response = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': API_KEY,
-        'anthropic-version': '2023-06-01',
-        Authorization: `Bearer ${API_KEY}`,
-      },
-      body: JSON.stringify(requestBody),
-      signal,
-    })
-  } catch (networkError) {
-    // Network error - retry once
-    await sleep(RETRY_DELAY_MS)
+  const doFetch = () =>
+    fetch(url, { method: 'POST', headers, body, signal })
 
-    response = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': API_KEY,
-        'anthropic-version': '2023-06-01',
-        Authorization: `Bearer ${API_KEY}`,
-      },
-      body: JSON.stringify(requestBody),
-      signal,
-    })
+  try {
+    response = await doFetch()
+  } catch {
+    await sleep(RETRY_DELAY_MS)
+    response = await doFetch()
   }
 
-  // Handle rate limiting with exponential backoff
+  // Exponential backoff on 429
   if (response.status === 429) {
     for (const delay of BACKOFF_DELAYS) {
       await sleep(delay)
-
-      response = await fetch(url, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'x-api-key': API_KEY,
-          'anthropic-version': '2023-06-01',
-          Authorization: `Bearer ${API_KEY}`,
-        },
-        body: JSON.stringify(requestBody),
-        signal,
-      })
-
-      if (response.status !== 429) {
-        break
-      }
+      response = await doFetch()
+      if (response.status !== 429) break
     }
   }
 
   if (!response.ok) {
     const errorText = await response.text().catch(() => 'Unknown error')
-    throw new Error(`MiniMax API error: ${response.status} - ${errorText}`)
+    throw new Error(`DeepSeek API error: ${response.status} - ${errorText}`)
   }
 
   const data = await response.json()
+  const content = data?.choices?.[0]?.message?.content
 
-  // Parse the response
-  if (!data.content || !Array.isArray(data.content) || data.content.length === 0) {
-    throw new Error('Empty response from MiniMax API')
+  if (!content || content.trim().length === 0) {
+    throw new Error('Empty response from DeepSeek API')
   }
 
-  const textContent = data.content.find((c: { type: string }) => c.type === 'text')
-  if (!textContent) {
-    throw new Error('No text content in MiniMax response')
-  }
-
-  return {
-    content: textContent.text || '',
-    stop_reason: data.stop_reason,
-  }
+  return content.trim()
 }
 
 // ============================================================================
 // Translation Functions
 // ============================================================================
 
-/**
- * Translate a single article (title + content) from Chinese to German.
- */
 export async function translateArticle(
   title: string,
   content: string,
@@ -289,94 +209,55 @@ export async function translateArticle(
   const { signal } = options
 
   if (!API_KEY) {
-    return {
-      title: '',
-      content: '',
-      ok: false,
-      error: 'ANTHROPIC_API_KEY is not configured',
-    }
+    return { title: '', content: '', ok: false, error: 'DEEPSEEK_API_KEY is not configured' }
   }
 
   try {
     await rateLimitedRequest()
 
-    // For long content, split into chunks and translate each
     if (content.length > MAX_CHUNK_CHARS) {
       return translateChunked(content, title, signal)
     }
 
-    // Translate title and content together
     const userPrompt = buildTranslationUserPrompt(title, content)
+    const translated = await callDeepSeekAPI(TRANSLATION_SYSTEM_PROMPT, userPrompt, signal)
 
-    const response = await callMiniMaxAPI(
-      TRANSLATION_SYSTEM_PROMPT,
-      userPrompt,
-      signal
-    )
-
-    if (!response.content || response.content.trim().length === 0) {
-      return {
-        title: '',
-        content: '',
-        ok: false,
-        error: 'Empty translation response',
-      }
+    if (translated.length < 50) {
+      return { title: '', content: '', ok: false, error: 'Translation response too short' }
     }
 
-    // Parse the response - the translation should contain both title and content
-    const translated = response.content.trim()
-
-    // Try to extract title and content from the response
-    // The response might be structured or just the content
-    const titleMatch = translated.match(/^TITEL[:\s]*(.+?)\n/i)
-    const contentStart = translated.indexOf('\n\n', titleMatch ? translated.indexOf(titleMatch[1]) : 0)
+    // Extract TITEL: line if present, otherwise first line is title
+    const titleMatch = translated.match(/^\*{0,2}TITEL\*{0,2}[:\s]+(.+?)(?:\n|$)/im)
+    const contentStart = titleMatch
+      ? translated.indexOf('\n', translated.indexOf(titleMatch[1]))
+      : translated.indexOf('\n\n')
 
     let translatedTitle = title
     let translatedContent = translated
 
-    if (titleMatch && contentStart > -1) {
-      translatedTitle = titleMatch[1].trim()
-      translatedContent = translated.slice(contentStart + 2).trim()
-    } else if (translated.length < 200) {
-      // Short response - might be incomplete translation, mark as failed
-      return {
-        title: '',
-        content: '',
-        ok: false,
-        error: 'Translation response too short, may indicate incomplete translation',
+    if (titleMatch) {
+      translatedTitle = titleMatch[1].replace(/\*+/g, '').trim()
+      translatedContent = translated.slice(translated.indexOf(titleMatch[0]) + titleMatch[0].length).trim()
+      // Remove leading INHALT: marker if present
+      translatedContent = translatedContent.replace(/^\*{0,2}INHALT\*{0,2}[:\s]*/im, '').trim()
+    } else if (contentStart > 0) {
+      const firstLine = translated.slice(0, contentStart).trim()
+      if (firstLine.length > 0 && firstLine.length < 200) {
+        translatedTitle = firstLine
+        translatedContent = translated.slice(contentStart).trim()
       }
     }
 
-    return {
-      title: translatedTitle,
-      content: translatedContent,
-      ok: true,
-    }
+    return { title: translatedTitle, content: translatedContent, ok: true }
   } catch (err) {
-    const errorMessage = err instanceof Error ? err.message : 'Unknown translation error'
-
-    // Handle abort
-    if (errorMessage.includes('aborted') || errorMessage.includes('canceled')) {
-      return {
-        title: '',
-        content: '',
-        ok: false,
-        error: 'Translation aborted',
-      }
+    const msg = err instanceof Error ? err.message : 'Unknown translation error'
+    if (msg.includes('aborted') || msg.includes('canceled')) {
+      return { title: '', content: '', ok: false, error: 'Translation aborted' }
     }
-
-    return {
-      title: '',
-      content: '',
-      ok: false,
-      error: errorMessage,
-    }
+    return { title: '', content: '', ok: false, error: msg }
   }
 }
 
-/**
- * Translate long content by chunking and combining.
- */
 async function translateChunked(
   content: string,
   originalTitle: string,
@@ -392,69 +273,44 @@ async function translateChunked(
   let translatedTitle = originalTitle
 
   for (const chunk of chunks) {
-    const chunkPrompt = buildChunkTranslationPrompt(
-      chunk.content,
-      chunk.index + 1,
-      chunk.total
-    )
-
-    // First chunk also translates the title
-    const isFirstChunk = chunk.index === 0
-    const systemPrompt = isFirstChunk
-      ? TRANSLATION_SYSTEM_PROMPT
-      : `${TRANSLATION_SYSTEM_PROMPT}\n\nDies ist eine Fortsetzung eines Artikels. Übersetze nur den folgenden Inhalt, gib keine Einleitung.`
+    const isFirst = chunk.index === 0
+    const chunkPrompt = isFirst
+      ? buildTranslationUserPrompt(originalTitle, chunk.content)
+      : buildChunkTranslationPrompt(chunk.content, chunk.index + 1, chunk.total)
 
     try {
-      const response = await callMiniMaxAPI(systemPrompt, chunkPrompt, signal)
+      const result = await callDeepSeekAPI(TRANSLATION_SYSTEM_PROMPT, chunkPrompt, signal)
 
-      if (!response.content || response.content.trim().length === 0) {
-        return {
-          title: '',
-          content: '',
-          ok: false,
-          error: `Empty response for chunk ${chunk.index + 1}/${chunk.total}`,
-        }
-      }
-
-      if (isFirstChunk) {
-        // Try to extract title from first chunk response
-        const titleMatch = response.content.match(/^TITEL[:\s]*(.+?)\n/i)
+      if (isFirst) {
+        const titleMatch = result.match(/^\*{0,2}TITEL\*{0,2}[:\s]+(.+?)(?:\n|$)/im)
         if (titleMatch) {
-          translatedTitle = titleMatch[1].trim()
-          translatedChunks.push(response.content.replace(titleMatch[0], '').trim())
+          translatedTitle = titleMatch[1].replace(/\*+/g, '').trim()
+          translatedChunks.push(result.slice(result.indexOf(titleMatch[0]) + titleMatch[0].length).trim())
         } else {
-          // The title might be the first line
-          const lines = response.content.split('\n').filter((l) => l.trim())
-          if (lines.length > 0 && lines[0].length < 150) {
+          const lines = result.split('\n').filter((l) => l.trim())
+          if (lines.length > 0 && lines[0].length < 200) {
             translatedTitle = lines[0].trim()
             translatedChunks.push(lines.slice(1).join('\n').trim())
           } else {
-            translatedChunks.push(response.content)
+            translatedChunks.push(result)
           }
         }
       } else {
-        translatedChunks.push(response.content.trim())
+        translatedChunks.push(result)
       }
     } catch (err) {
       return {
         title: '',
         content: '',
         ok: false,
-        error: `Failed to translate chunk ${chunk.index + 1}/${chunk.total}: ${err instanceof Error ? err.message : 'Unknown error'}`,
+        error: `Chunk ${chunk.index + 1}/${chunk.total} failed: ${err instanceof Error ? err.message : 'unknown'}`,
       }
     }
   }
 
-  return {
-    title: translatedTitle,
-    content: translatedChunks.join('\n\n'),
-    ok: true,
-  }
+  return { title: translatedTitle, content: translatedChunks.join('\n\n'), ok: true }
 }
 
-/**
- * Translate a batch of articles with progress reporting.
- */
 export async function translateBatch(
   articles: Array<{ title: string; content: string }>,
   options: TranslateBatchOptions = {}
@@ -466,30 +322,21 @@ export async function translateBatch(
       title: '',
       content: '',
       ok: false,
-      error: 'ANTHROPIC_API_KEY is not configured',
+      error: 'DEEPSEEK_API_KEY is not configured',
     }))
   }
 
   const results: TranslationResult[] = []
 
   for (let i = 0; i < articles.length; i++) {
-    // Check if already aborted
     if (signal?.aborted) {
-      results.push({
-        title: '',
-        content: '',
-        ok: false,
-        error: 'Batch translation aborted',
-      })
+      results.push({ title: '', content: '', ok: false, error: 'Batch translation aborted' })
       continue
     }
 
-    const article = articles[i]
-    const result = await translateArticle(article.title, article.content, { signal })
-
+    const result = await translateArticle(articles[i].title, articles[i].content, { signal })
     results.push(result)
 
-    // Report progress
     if (onProgress) {
       onProgress(i + 1, articles.length)
     }

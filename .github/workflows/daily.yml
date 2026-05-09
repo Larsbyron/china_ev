@@ -30,6 +30,7 @@ jobs:
 
       - name: Run scraper
         env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npx tsx scripts/fetch-translate.ts
 
