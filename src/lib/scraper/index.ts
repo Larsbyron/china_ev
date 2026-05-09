@@ -80,17 +80,19 @@ function saveArticle(article: Article, draft = false): string {
   const date = toISODateString(new Date())
   const readTime = estimateReadTime(article.content)
 
-  // Generate description from content
-  const description = article.content
-    .replace(/<[^>]+>/g, '')
-    .trim()
-    .slice(0, 200)
-    .replace(/"/g, "'")
+  // Use AI-generated description if available, otherwise derive from content
+  const description = (article.description && article.description.length > 20)
+    ? article.description.replace(/"/g, "'").slice(0, 300)
+    : (article.content
+        .replace(/<[^>]+>/g, '')
+        .trim()
+        .slice(0, 200)
+        .replace(/"/g, "'") + '...')
 
   const frontmatter = {
     title: article.title,
     date,
-    description: description + '...',
+    description,
     source: article.source,
     image: article.image || null,
     category: 'news',
@@ -192,12 +194,13 @@ async function processSource(
       let translatedArticle = article
 
       try {
-        const translation = await translateArticle(article.title, article.content)
+        const translation = await translateArticle(article.title, article.content, {
+          brand: article.brand
+        })
 
         if (!translation.ok) {
           console.log(`[${sourceName}] Translation failed: ${translation.error} — saving to drafts`)
           logRun(sourceName, article.title, 'draft_translate_fail')
-          // Save to drafts folder
           try {
             saveArticle({ ...article, title: `[TRANSLATION FAILED] ${article.title}`, content: `Translation error: ${translation.error}\n\nOriginal content:\n\n${article.content}` }, true)
           } catch (draftError) {
@@ -207,11 +210,22 @@ async function processSource(
           continue
         }
 
+        // Append "In Deutschland" section to content if available
+        const fullContent = translation.inDeutschland
+          ? `${translation.content}\n\n---\n\n${translation.inDeutschland}`
+          : translation.content
+
+        // Use AI-generated description if available, otherwise generate from content
+        const description = translation.description && translation.description.length > 20
+          ? translation.description
+          : undefined
+
         // Update article with translated content
         translatedArticle = {
           ...article,
           title: translation.title,
-          content: translation.content
+          content: fullContent,
+          description
         }
 
         console.log(`[${sourceName}] Translated OK (${translation.content.length} chars)`)
