@@ -9,6 +9,9 @@ import { scrapeAutohome } from './sources/autohome'
 import { scrapeIfeng } from './sources/ifeng'
 import { scrapeSina } from './sources/sina'
 import { scrapePCauto } from './sources/pcauto'
+import { scrapeAutohomeNewEnergy } from './sources/autohome_newenergy'
+import { scrapeOfweekNev } from './sources/ofweek_nev'
+import { scrapeChooseAuto } from './sources/chooseauto'
 import { translateArticle } from '../translator'
 
 const RUNLOG_FILE = resolve(process.cwd(), '.runlog.jsonl')
@@ -21,14 +24,20 @@ const SCRAPERS: Record<string, ScraperFn> = {
   autohome: scrapeAutohome,
   ifeng: scrapeIfeng,
   sina: scrapeSina,
-  pcauto: scrapePCauto
+  pcauto: scrapePCauto,
+  autohome_newenergy: scrapeAutohomeNewEnergy,
+  ofweek_nev: scrapeOfweekNev,
+  chooseauto: scrapeChooseAuto
 }
 
 const SOURCE_NAMES: Record<string, SourceName> = {
   autohome: 'Autohome',
   ifeng: 'Ifeng',
   sina: 'Sina',
-  pcauto: 'PCauto'
+  pcauto: 'PCauto',
+  autohome_newenergy: 'Autohome NewEnergy',
+  ofweek_nev: 'OFweek NEV',
+  chooseauto: 'ChooseAuto'
 }
 
 /**
@@ -420,4 +429,4 @@ function getISOWeek(date: Date): number {
   return Math.ceil((((d.getTime() - yearStart.getTime()) / 86400000) + 1) / 7)
 }
 
-export { scrapeAutohome, scrapeIfeng, scrapeSina, scrapePCauto }
+export { scrapeAutohome, scrapeIfeng, scrapeSina, scrapePCauto, scrapeAutohomeNewEnergy, scrapeOfweekNev, scrapeChooseAuto }

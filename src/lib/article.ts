@@ -12,7 +12,7 @@ export interface Article {
   brand?: string
 }
 
-export type SourceName = 'Autohome' | 'Ifeng' | 'Sina' | 'PCauto'
+export type SourceName = 'Autohome' | 'Ifeng' | 'Sina' | 'PCauto' | 'Autohome NewEnergy' | 'OFweek NEV' | 'ChooseAuto'
 
 export interface ArticleFrontmatter {
   title: string
