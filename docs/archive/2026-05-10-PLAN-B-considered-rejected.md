@@ -1,5 +1,7 @@
 # E-Auto Blog 全自动管线改造方案 (Plan B)
 
+> **状态：未采纳。** 诊断 2026-05-10 发现真痛点是 `daily.yml` commit 逻辑写反（`||` 应为 `&&`），已通过 2 行修复解决，Vercel CLI 安装步骤一并删除。架构反转（Blob + ISR + admin）不需要。参见 `/plan-eng-review` 评审记录。
+
 **目标：** 爬取 → API翻译 → 存Vercel Blob → 前端ISR动态渲染。不再git push发文章。
 
 **当前状态：** chinaev.vercel.app (Vercel Hobby), 源码在 GitHub, 内容在 `content/posts/*.md`

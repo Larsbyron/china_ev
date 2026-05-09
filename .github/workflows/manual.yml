@@ -35,21 +35,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add content/posts/ processed_articles.json .runlog.jsonl
-          git diff --quiet --cached || exit 0
+          if git diff --quiet --cached; then
+            echo "No new articles to commit."
+            exit 0
+          fi
           git commit -m "ci: manual pipeline run [skip ci]"
           git push
 
       - name: Build Next.js
         run: npm run build
-
-      - name: Install Vercel CLI
-        run: npm install --global vercel@14
-
-      - name: Pull Vercel environment
-        run: vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
-
-      - name: Build Vercel output
-        run: vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
-
-      - name: Deploy to Vercel
-        run: vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
