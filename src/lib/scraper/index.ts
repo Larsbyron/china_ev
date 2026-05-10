@@ -13,6 +13,8 @@ import { scrapeAutohomeNewEnergy } from './sources/autohome_newenergy'
 import { scrapeOfweekNev } from './sources/ofweek_nev'
 import { scrapeChooseAuto } from './sources/chooseauto'
 import { translateArticle } from '../translator'
+import { lookupBrand } from '../translator/brand-glossary'
+import { runQualityCheck, formatQualityReport } from '../translator/quality-check'
 
 const RUNLOG_FILE = resolve(process.cwd(), '.runlog.jsonl')
 const CONTENT_DIR = resolve(process.cwd(), 'content/posts')
@@ -229,6 +231,50 @@ async function processSource(
         }
 
         console.log(`[${sourceName}] Translated OK (${translation.content.length} chars)`)
+
+        // === Quality Check ===
+        const brandInfo = lookupBrand(article.brand || '')
+        const qcResult = runQualityCheck({
+          title: translation.title,
+          description: description || '',
+          content: fullContent,
+          originalContent: article.content,
+          brandOfficialName: brandInfo?.officialName,
+        })
+
+        if (!qcResult.passed) {
+          console.log(`[${sourceName}] QA FAILED (${qcResult.errorCount} errors):`)
+          console.log(formatQualityReport(qcResult))
+
+          // 用清洗后的内容存到 drafts
+          translatedArticle = {
+            ...translatedArticle,
+            title: `[QA FAILED] ${qcResult.title}`,
+            content: qcResult.content,
+            description: qcResult.description,
+          }
+          try {
+            saveArticle(translatedArticle, true)
+            logRun(sourceName, translatedArticle.title, 'draft_qa_failed')
+          } catch (draftError) {
+            const draftErrorMsg = draftError instanceof Error ? draftError.message : String(draftError)
+            result.errors.push(`Failed to save QA draft ${article.title}: ${draftErrorMsg}`)
+          }
+          continue
+        }
+
+        if (qcResult.warningCount > 0) {
+          console.log(`[${sourceName}] QA passed with ${qcResult.warningCount} warnings`)
+        }
+
+        // 使用清洗后的内容
+        translatedArticle = {
+          ...translatedArticle,
+          title: qcResult.title,
+          content: qcResult.content,
+          description: qcResult.description,
+        }
+        // ======================
       } catch (translateErr) {
         const translateErrMsg = translateErr instanceof Error ? translateErr.message : String(translateErr)
         console.log(`[${sourceName}] Translation error: ${translateErrMsg} — saving to drafts`)

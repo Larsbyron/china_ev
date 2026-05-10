@@ -28,23 +28,32 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
   const { slug } = await params
   const article = await getArticleBySlug(slug)
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'
 
   if (!article) {
-    return {
-      title: 'Artikel nicht gefunden',
-    }
+    return { title: 'Artikel nicht gefunden' }
   }
+
+  const articleUrl = `${siteUrl}/articles/${slug}/`
 
   return {
     title: article.title,
     description: article.description,
+    alternates: {
+      canonical: articleUrl,
+    },
+    keywords: article.tags?.length ? article.tags.join(', ') : undefined,
     openGraph: {
       title: article.title,
       description: article.description,
       type: 'article',
+      url: articleUrl,
+      siteName: 'E-AUTOS',
+      locale: 'de_DE',
       publishedTime: article.date,
-      authors: [article.source],
-      images: article.image ? [article.image] : [],
+      authors: ['E-AUTOS Redaktion'],
+      section: 'Elektroautos aus China',
+      images: article.image ? [{ url: article.image, width: 1200, height: 630 }] : [],
     },
     twitter: {
       card: 'summary_large_image',
@@ -72,7 +81,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       <SiteHeader />
 
       <main className={styles.main} aria-label="Hauptinhalt">
-        {/* JSON-LD Article Schema */}
+        {/* JSON-LD NewsArticle Schema */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -81,13 +90,31 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               '@type': 'NewsArticle',
               headline: article.title,
               description: article.description,
+              image: article.image ? [article.image] : [],
               datePublished: article.date,
               dateModified: article.date,
-              author: { '@type': 'Organization', name: 'E-AUTOS' },
-              publisher: { '@type': 'Organization', name: 'E-AUTOS' },
-              image: article.image || undefined,
-              inLanguage: 'de',
+              author: { '@type': 'Organization', name: 'E-AUTOS Redaktion' },
+              publisher: {
+                '@type': 'Organization',
+                name: 'E-AUTOS',
+                logo: {
+                  '@type': 'ImageObject',
+                  url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'}/logo.png`,
+                },
+              },
+              mainEntityOfPage: {
+                '@type': 'WebPage',
+                '@id': `${process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'}/articles/${article.slug}/`,
+              },
+              articleSection: 'Elektroautos aus China',
+              inLanguage: 'de-DE',
               isAccessibleForFree: true,
+              ...(article.brand ? {
+                about: {
+                  '@type': 'Vehicle',
+                  manufacturer: article.brand,
+                },
+              } : {}),
             }),
           }}
         />
