@@ -3,7 +3,7 @@ title: "Nio-Chef William Li: Zweites Quartal bleibt anspruchsvoll – ES9 und L8
 date: 2026-04-16T09:00:00.000Z
 description: "Nio-Gründer William Li sieht im zweiten Quartal 2026 erheblichen Gegenwind für die gesamte Branche. Der ES9 und der L80 sollen das Wachstum im Mai und Juni wieder ankurbeln."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026041712021687-480x270.jpg"
+image: "/images/nio-chef-William-li-rechnet-mit-druck-im-quartal-2-cnevpost-a4b237.webp"
 category: "news"
 tags: ["Nio", "William Li", "ES9", "L80", "Quartal 2"]
 draft: false

@@ -3,7 +3,7 @@ title: "Fabio Stoelzel: ID. ERA 9X führt die NEV-Offensive an – SAIC Volkswag
 date: 2026-04-27T12:00:00
 description: "Im exklusiven Interview auf der Beijing Auto Show 2026 spricht Fabio Stoelzel, stellvertretender Generalmanager von SAIC Volkswagen, über den neuen ID. ERA 9X, die ePro-Modellreihe und die Strategie „In China, für China“."
 source: "Sina"
-image: "http://auto3.sinaimg.cn/autoimg/brand/03/31/69cbccde9bf4e3633103_95.png"
+image: "/images/vw-id-era-9x-saic-interview-sina-inhvxatm2483042.webp"
 category: "news"
 brand: "Volkswagen"
 tags: ["Volkswagen", "SAIC Volkswagen", "ID. ERA 9X", "Passat ePro", "Tiguan L ePro", "PHEV", "Beijing Auto Show 2026", "Interview", "NEV"]

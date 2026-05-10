@@ -3,7 +3,7 @@ title: "BYDs neues E‑Auto lockt Käufer mit 5‑minütiger Ladung und Preisen 
 date: 2026-04-05T14:08:12.894140
 description: "BYD hat den Song Ultra EV in China eingeführt, zu einem Startpreis von knapp unter 22.000 Dollar. Das neue Elektrofahrzeug ist eines der ersten, das mit seiner Blade-Batterie und Flash-Charging ausges..."
 source: "Electrek"
-image: "https://electrek.co/wp-content/uploads/sites/3/2026/03/BYD-Song-Ultra-EV-price-3.jpeg?quality=82&#038;strip=all&#038;w=1400"
+image: "/images/byds-new-ev-is-luring-in-buyers-with-5-minute-char-electrek-a4d949.webp"
 category: "news"
 tag: "E-Auto"
 tags: ["News"]

@@ -3,7 +3,7 @@ title: "MG 07 Offizielle Bilder veröffentlicht"
 date: 2026-05-09T23:12:45.500Z
 description: "[Autohome | Offizielle Fahrzeugbilder] Kürzlich wurden offizielle Bilder des MG 07 (Parameter | Preisabfrage) veröffentlicht. Das Modell positioniert sich als New-Energy-Coupé, basiert auf einer völli..."
 source: "Autohome NewEnergy"
-image: "https://img3.autoimg.cn/chejiahaodfs/g34/M00/20/89/autohomecar__ChxpV2n-lwmAW8_VAA1gke-7p2I782.jpg"
+image: "/images/mg-07-offizielle-bilder-verffentlicht-autohome-newenergy-1ce06a.webp"
 category: "news"
 brand: "MG"
 tags: ["MG"]

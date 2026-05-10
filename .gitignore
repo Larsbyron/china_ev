@@ -1,5 +1,15 @@
-# Hugo (legacy)
-public/
+# Hugo (legacy static output — ignore generated dirs, keep public/images/ and favicon)
+public/about/
+public/admin/
+public/categories/
+public/css/
+public/datenschutz/
+public/impressum/
+public/posts/
+public/tags/
+public/index.html
+public/sitemap.xml
+public/vercel.json
 resources/
 .hugo_build.lock/
 

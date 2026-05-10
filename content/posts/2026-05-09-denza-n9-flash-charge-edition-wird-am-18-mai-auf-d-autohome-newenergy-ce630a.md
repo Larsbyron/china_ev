@@ -3,7 +3,7 @@ title: "Denza N9 Flash-Charge Edition wird am 18. Mai auf den Markt kommen – V
 date: 2026-05-09T23:12:13.665Z
 description: "[auto motor und sport / Informationen] Wie wir kürzlich aus relevanten Kreisen erfahren haben, wird die Denza N9 (Parameter | Preis) Flash-Charge Edition am 18. Mai auf den Markt kommen. Das neue Mode..."
 source: "Autohome NewEnergy"
-image: "https://car3.autoimg.cn/cardfs/product/g33/M03/35/83/autohomecar__ChxpVWnqQNSABU2EABaISzlKk18752.jpg"
+image: "/images/denza-n9-flash-charge-edition-wird-am-18-mai-auf-d-autohome-newenergy-ce630a.webp"
 category: "news"
 brand: "BYD"
 tags: ["BYD", "Batterie", "Reichweite", "Zoll", "EV"]

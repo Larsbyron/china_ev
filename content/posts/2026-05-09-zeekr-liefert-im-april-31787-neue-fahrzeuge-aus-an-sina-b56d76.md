@@ -4,7 +4,7 @@ date: 2026-05-09T22:40:53.368Z
 description: "INHALT:
 ZEEKR liefert im April 31.787 neue Fahrzeuge aus, ein Anstieg um 132% im Jahresvergleich. Bis zum 30. April hat ZEEKR weltweit über 750.000 Fahrzeuge ausgeliefert, mit einem durchschnittlichen..."
 source: "Sina"
-image: "https://auto.sina.com.cn//f.sinaimg.cn/auto/500/w1620h2880/20260501/d5ab-410369572678bd7be50426a70697dbb5.png"
+image: "/images/zeekr-liefert-im-april-31787-neue-fahrzeuge-aus-an-sina-b56d76.webp"
 category: "news"
 brand: "Geely"
 tags: ["Geely", "Zeekr", "Reichweite"]

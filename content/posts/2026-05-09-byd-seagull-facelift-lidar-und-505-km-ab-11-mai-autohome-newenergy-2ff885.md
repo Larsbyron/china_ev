@@ -3,7 +3,7 @@ title: "BYD Seagull Facelift: Lidar und 505 km ab 11. Mai"
 date: 2026-05-09T23:49:17.784Z
 description: "Der BYD Seagull erhält ein Facelift mit Lidar und modernisierten Assistenzsystemen. Die Reichweite steigt auf 505 km (CLTC) – etwa 430 km WLTP. Marktstart in China am 11. Mai 2025. Ein Europa-Start ist noch offen."
 source: "Autohome NewEnergy"
-image: "https://www2.autoimg.cn/chejiahaodfs/g33/M09/25/DD/autohomecar__ChxpVWn-rFSACZdmAA1dHNEhXPg774.png"
+image: "/images/byd-seagull-facelift-lidar-und-505-km-ab-11-mai-autohome-newenergy-2ff885.webp"
 category: "news"
 brand: "BYD"
 tags: ["BYD", "Batterie", "Reichweite", "Zoll"]

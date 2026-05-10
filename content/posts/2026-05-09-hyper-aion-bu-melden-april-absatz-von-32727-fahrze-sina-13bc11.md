@@ -3,7 +3,7 @@ title: "Hyper & Aion BU melden April-Absatz von 32.727 Fahrzeugen – ein Plus v
 date: 2026-05-09T22:56:54.289Z
 description: "Mai gab die Hyper & Aion BU den Endkundenabsatz für April mit 32.727 Fahrzeugen bekannt – ein Anstieg von 15,6 % gegenüber dem Vorjahresmonat, womit die positive Entwicklung seit dem ersten Quartal fortgesetzt wird. April eröffneten Beijing Intern..."
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/www/transform/488/w660h1428/20260501/33be-c66140a1cd372f937fced32e3a3c5b86.jpg"
+image: "/images/hyper-aion-bu-melden-april-absatz-von-32727-fahrze-sina-13bc11.webp"
 category: "news"
 brand: "Aion"
 tags: ["Aion"]

@@ -3,7 +3,7 @@ title: "BYD Fang Cheng Bao: Erste Limousine feiert auf der Peking Mobil World De
 date: 2026-04-14T10:30:00.000Z
 description: "BYDs Offroad-Submarke Fang Cheng Bao erweitert sein Portfolio um eine Limousine. Das erste Modell der neuen Mei-Reihe wird auf der Peking Mobil World enthüllt."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026041401584861-480x270.jpg"
+image: "/images/byd-fang-cheng-bao-zeigt-erste-sedan-weltpremiere-in-peking-cnevpost-d3f621.webp"
 category: "news"
 tags: ["BYD", "Fang Cheng Bao", "Sedan", "Mei", "Peking Mobil World"]
 draft: false

@@ -3,7 +3,7 @@ title: "Buick Electra E7: GM-Tochter startet Plug-in-Hybrid-SUV in China"
 date: 2026-04-23T10:30:00.000Z
 description: "Buick hat sein neues Electra E7 Plug-in-Hybrid-SUV in China auf den Markt gebracht. Der Mid-Size-SUV bietet 1.630 km Gesamtreichweite und startet bei 154.900 Yuan nach Subventionen."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026042308100735-480x270.jpg"
+image: "/images/buick-electra-e7-starten-in-china-1630-km-gesamt-cnevpost-c7e521.webp"
 category: "news"
 tags: ["Buick", "GM", "Electra E7", "Plug-in-Hybrid", "China"]
 draft: false

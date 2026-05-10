@@ -3,7 +3,7 @@ title: "BMW iX3 Langversion: Nachhaltiger Luxus auf der Peking Auto Show"
 date: 2026-04-30T07:02:08
 description: "Die neue Generation des BMW iX3 mit verlängertem Radstand feierte auf der Peking Auto Show Premiere — mit Fokus auf Kreislaufwirtschaft und CO₂-Reduktion über den gesamten Lebenszyklus."
 source: "Sina"
-image: "https://n.sinaimg.cn/auto/transform/233/w660h373/20260428/682c-7fea088739cbdb6b65408c75911672b1.jpg"
+image: "/images/bmw-ix3-lwb-nachhaltiger-luxus-auf-der-peking-automesse-sina-inhvzshk.webp"
 category: "news"
 brand: "BMW"
 tags: ["BMW", "iX3", "Peking Auto Show 2026", "Nachhaltigkeit", "Elektroauto", "Langversion"]

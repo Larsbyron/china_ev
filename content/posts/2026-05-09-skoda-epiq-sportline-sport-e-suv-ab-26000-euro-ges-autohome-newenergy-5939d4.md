@@ -3,7 +3,7 @@ title: "Skoda Epiq Sportline: Sport-E-SUV ab 26.000 Euro gesichtet"
 date: 2026-05-09T23:50:36.403Z
 description: "Erlkönigbilder des Skoda Epiq Sportline aus dem Nürburgring zeigen den kleinen Elektro-SUV auf MEB+-Basis. Der Sportling kommt 2027 zu Preisen ab 26.000 Euro."
 source: "Autohome NewEnergy"
-image: "https://www2.autoimg.cn/chejiahaodfs/g33/M00/16/4F/autohomecar__ChxpVmn9WHaAApyHAAyRPlp32pg231.png"
+image: "/images/skoda-epiq-sportline-sport-e-suv-ab-26000-euro-ges-autohome-newenergy-5939d4.webp"
 category: "news"
 
 tags: ["MG", "Batterie", "Reichweite", "Ladestation", "Zoll"]

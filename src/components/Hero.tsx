@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { ArticleMeta, formatDate } from '@/lib/articles'
+import FallbackImage from './FallbackImage'
 import styles from './Hero.module.css'
 
 interface HeroProps {
@@ -57,7 +58,7 @@ export default function Hero({ article }: HeroProps) {
           <div className={styles.imageWrapper}>
             {article.image ? (
               <>
-                <img
+                <FallbackImage
                   src={article.image}
                   alt=""
                   className={styles.image}
@@ -65,6 +66,7 @@ export default function Hero({ article }: HeroProps) {
                   height={900}
                   loading="eager"
                   fetchPriority="high"
+                  fallbackClassName={styles.imageFallback}
                 />
                 <div className={styles.imageOverlay} aria-hidden="true" />
               </>

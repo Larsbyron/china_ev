@@ -3,7 +3,7 @@ title: "Nio auf der Peking Autoshow 2026: Drei Marken, elf Modelle, zwölf Techn
 date: 2026-04-23T14:00:00.000Z
 description: "Nio wird auf der Peking Autoshow (24.–26. April) erstmals seine drei Marken Nio, Onvo und Firefly gemeinsam präsentieren. Im Mittelpunkt steht die öffentliche Enthüllung des neuen Flaggschiff-SUV ES9."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026042303220647-480x270.jpg"
+image: "/images/nio-auf-der-peking-autoshow-2026-drei-marken-gemeinsam-cnevpost-d2a723.webp"
 category: "news"
 tags: ["Nio", "Peking Autoshow", "ES9", "Onvo", "Firefly"]
 draft: false

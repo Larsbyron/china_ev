@@ -3,7 +3,7 @@ title: "Zeekr liefert im April 31.787 Neufahrzeuge aus – ein Plus von 132 % im
 date: 2026-05-09T22:53:47.620Z
 description: "Zeekr lieferte im April 31.787 Neufahrzeuge aus, ein Anstieg von 132 % im Vergleich zum Vorjahreszeitraum. Bis zum 30. April beliefen sich die weltweiten kumulierten Auslieferungen von Zeekr auf über ..."
 source: "Sina"
-image: "https://auto.sina.com.cn//f.sinaimg.cn/auto/500/w1620h2880/20260501/d5ab-410369572678bd7be50426a70697dbb5.png"
+image: "/images/zeekr-liefert-im-april-31787-neufahrzeuge-aus-ein-sina-6e0168.webp"
 category: "news"
 brand: "Geely"
 tags: ["Geely", "Zeekr"]

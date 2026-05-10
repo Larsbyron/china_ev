@@ -3,7 +3,7 @@ title: "Ideal vs. Hongmeng: Die Wette auf die unterschiedlichen Pfade der Agent-
 date: 2026-05-09T22:56:29.625Z
 description: "Die gerade zu Ende gegangene Beijing Auto Show stand noch ganz im Zeichen der KI, doch der Fokus des Wettstreits hat sich leise verschoben. Der Angelpunkt des Wettbewerbs scheint sich weitgehend vom i..."
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/auto/transform/53/w550h303/20260509/5544-9ee623802f0e0459c04afd4645a06f37.png"
+image: "/images/ideal-vs-hongmeng-die-wette-auf-die-unterschiedlic-sina-f2e617.webp"
 category: "news"
 brand: "Li Auto"
 tags: ["Li Auto", "MG", "EV"]

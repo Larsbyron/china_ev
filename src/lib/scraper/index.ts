@@ -15,6 +15,7 @@ import { scrapeChooseAuto } from './sources/chooseauto'
 import { translateArticle } from '../translator'
 import { lookupBrand } from '../translator/brand-glossary'
 import { runQualityCheck, formatQualityReport } from '../translator/quality-check'
+import { downloadAndSaveImage } from '../images'
 
 const RUNLOG_FILE = resolve(process.cwd(), '.runlog.jsonl')
 const CONTENT_DIR = resolve(process.cwd(), 'content/posts')
@@ -75,12 +76,24 @@ function ensureDirs(): void {
 /**
  * Save article as Markdown file with frontmatter
  */
-function saveArticle(article: Article, draft = false): string {
+async function saveArticle(article: Article, draft = false): Promise<string> {
   ensureDirs()
 
   const slug = generateSlug(article.title, article.source.toLowerCase())
   const date = toISODateString(new Date())
   const readTime = estimateReadTime(article.content)
+
+  // Download remote image and store locally; keep null if unavailable
+  let imageValue: string | null = article.image || null
+  if (imageValue && imageValue.startsWith('http')) {
+    const localPath = await downloadAndSaveImage(imageValue, slug)
+    if (localPath) {
+      imageValue = localPath
+    } else {
+      console.log(`[${article.source}] Image download failed for ${slug} — storing without image`)
+      imageValue = null
+    }
+  }
 
   // Sanitize description to remove markdown artifacts and scraping residue
   const cleanDescription = article.description
@@ -92,7 +105,7 @@ function saveArticle(article: Article, draft = false): string {
     date,
     description: cleanDescription,
     source: article.source,
-    image: article.image || null,
+    image: imageValue,
     category: 'news',
     brand: article.brand || null,
     tags: extractTags(article.content, article.brand),
@@ -197,7 +210,7 @@ async function processSource(
           console.log(`[${sourceName}] Translation failed: ${translation.error} — saving to drafts`)
           logRun(sourceName, article.title, 'draft_translate_fail')
           try {
-            saveArticle({ ...article, title: `[TRANSLATION FAILED] ${article.title}`, content: `Translation error: ${translation.error}\n\nOriginal content:\n\n${article.content}` }, true)
+            await saveArticle({ ...article, title: `[TRANSLATION FAILED] ${article.title}`, content: `Translation error: ${translation.error}\n\nOriginal content:\n\n${article.content}` }, true)
           } catch (draftError) {
             const draftErrorMsg = draftError instanceof Error ? draftError.message : String(draftError)
             result.errors.push(`Failed to save draft ${article.title}: ${draftErrorMsg}`)
@@ -247,7 +260,7 @@ async function processSource(
             description: qcResult.description,
           }
           try {
-            saveArticle(translatedArticle, true)
+            await saveArticle(translatedArticle, true)
             logRun(sourceName, translatedArticle.title, 'draft_qa_failed')
           } catch (draftError) {
             const draftErrorMsg = draftError instanceof Error ? draftError.message : String(draftError)
@@ -273,7 +286,7 @@ async function processSource(
         console.log(`[${sourceName}] Translation error: ${translateErrMsg} — saving to drafts`)
         logRun(sourceName, article.title, 'draft_translate_fail')
         try {
-          saveArticle({ ...article, title: `[TRANSLATION ERROR] ${article.title}`, content: `Translation error: ${translateErrMsg}\n\nOriginal content:\n\n${article.content}` }, true)
+          await saveArticle({ ...article, title: `[TRANSLATION ERROR] ${article.title}`, content: `Translation error: ${translateErrMsg}\n\nOriginal content:\n\n${article.content}` }, true)
         } catch (draftError) {
           const draftErrorMsg = draftError instanceof Error ? draftError.message : String(draftError)
           result.errors.push(`Failed to save draft ${article.title}: ${draftErrorMsg}`)
@@ -283,7 +296,7 @@ async function processSource(
 
       // Save translated article
       try {
-        const filename = saveArticle(translatedArticle, false)
+        const filename = await saveArticle(translatedArticle, false)
         result.articles.push(translatedArticle)
 
         // Record fingerprint (use translated content for uniqueness)

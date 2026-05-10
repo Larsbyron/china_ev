@@ -3,7 +3,7 @@ title: "Li Auto vs. HarmonyOS: Die Wette auf die Spaltung der Agent-Route"
 date: 2026-05-09T22:52:50.047Z
 description: "Architektur-Spaltung: 'Kommandozentrale' vs. 'Alleskönner'Pfadabhängigkeit: Im Genom geschriebene EntwicklungsstileEndspiel-Szenario: Zeitfenster und Ökosystem-Lock-in Die Höhe des Einsatzes ist jedoch völlig unterschiedlich"
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/auto/transform/53/w550h303/20260509/5544-9ee623802f0e0459c04afd4645a06f37.png"
+image: "/images/li-auto-vs-harmonyos-die-wette-auf-die-spaltung-de-sina-497442.webp"
 category: "news"
 brand: "Li Auto"
 tags: ["Li Auto", "MG", "EV"]

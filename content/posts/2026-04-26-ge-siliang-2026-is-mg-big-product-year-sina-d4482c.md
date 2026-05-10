@@ -3,7 +3,7 @@ title: "Ge Siliang: 2026 ist ein großes Produktjahr für MG – Die Marke treib
 date: 2026-04-26T22:23:55.746Z
 description: "Ge Siliang: 2026 ist ein großes Produktjahr für MG. Am 24. April wurde die Beijing Auto Show 2026 offiziell eröffnet."
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/auto/transform/300/w660h440/20260426/1666-b0a2ce0d90c3d59a5a1324da865f619a.jpg"
+image: "/images/ge-siliang-2026-is-mg-big-product-year-sina-d4482c.webp"
 category: "news"
 brand: "MG"
 tags: ["MG", "Batterie", "Reichweite"]

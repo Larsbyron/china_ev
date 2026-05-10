@@ -3,7 +3,7 @@ title: "Smart #6 EHD: Mercedes und Geely starten Vorverkauf des größten Modell
 date: 2026-04-24T14:00:00.000Z
 description: "Smart, das Joint Venture von Mercedes-Benz und Geely, hat den Vorverkauf des #6 EHD gestartet. Das größte Modell der Marke bietet 1.810 km Gesamtreichweite und startet bei 189.900 Yuan."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026042413504931-480x270.jpg"
+image: "/images/smart-6-ehd-startuor-zu-189900-yuan-cnevpost-b3e523.webp"
 category: "news"
 tags: ["Smart", "Mercedes-Benz", "Geely", "Plug-in-Hybrid", "EHD"]
 draft: false

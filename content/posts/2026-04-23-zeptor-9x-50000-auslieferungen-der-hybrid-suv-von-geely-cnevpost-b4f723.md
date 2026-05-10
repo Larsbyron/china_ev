@@ -3,7 +3,7 @@ title: "Zeekr 9X: Geelys Hybrid-Flaggschiff überschreitet 50.000er-Marke"
 date: 2026-04-23T09:00:00.000Z
 description: "Zeekr meldet 50.000 kumulierte Auslieferungen des 9X Hybrid-SUV. Das große SUV mit durchschnittlichem Transaktionspreis von 530.000 Yuan ist seit fünf Monaten Spitzenreiter in seiner Klasse."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026042308464376-480x270.jpg"
+image: "/images/zeptor-9x-50000-auslieferungen-der-hybrid-suv-von-geely-cnevpost-b4f723.webp"
 category: "news"
 tags: ["Zeekr", "Geely", "9X", "Hybrid", "Auslieferungen"]
 draft: false

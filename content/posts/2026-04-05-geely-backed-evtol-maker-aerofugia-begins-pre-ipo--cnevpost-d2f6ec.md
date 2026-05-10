@@ -3,7 +3,7 @@ title: "Der von Geely unterstützte eVTOL-Hersteller Aerofugia beginnt mit dem v
 date: 2026-04-05T14:40:59.839102
 description: "Aerofugia Technology, die von Geely unterstützte Einheit für elektrische Senkrechtstart- und -landeflugzeuge (eVTOL), hat mit der Vorbereitung auf den Börsengang eine sogenannte Pre-IPO-Beratung einge..."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026040304354736.jpg"
+image: "/images/geely-backed-evtol-maker-aerofugia-begins-pre-ipo-cnevpost-d2f6ec.webp"
 category: "news"
 tag: "E-Auto"
 tags: ["eVTOL", "Geely", "Aerofugia", "Listing"]

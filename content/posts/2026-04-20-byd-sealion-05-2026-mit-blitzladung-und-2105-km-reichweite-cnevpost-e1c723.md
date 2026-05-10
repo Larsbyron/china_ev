@@ -3,7 +3,7 @@ title: "BYD Sealion 05: Modellpflege mit Blitzladung und über 2.000 km Reichwei
 date: 2026-04-20T10:00:00.000Z
 description: "BYD hat die überarbeitete Sealion-05-Baureihe vorgestellt. Der Plug-in-Hybrid bietet bis zu 2.105 km Gesamtreichweite, die reine Elektroversion kommt mit Blitzladung und 630 km Reichweite."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026042012473136-480x270.jpg"
+image: "/images/byd-sealion-05-2026-mit-blitzladung-und-2105-km-reichweite-cnevpost-e1c723.webp"
 category: "news"
 tags: ["BYD", "Sealion 05", "Plug-in-Hybrid", "Blitzladung", "DM-i"]
 draft: false

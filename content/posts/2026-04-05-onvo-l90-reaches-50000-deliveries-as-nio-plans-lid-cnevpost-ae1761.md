@@ -3,7 +3,7 @@ title: "Onvo L90 erreicht 50.000 Auslieferungen, während Nio ein LiDAR-Upgrade 
 date: 2026-04-05T14:05:31.013798
 description: "Nio verzeichnet ein starkes Verkaufswachstum, wobei seine aktualisierten Modelle ES8 und der kompakte Firefly kürzlich bedeutende Auslieferungsmeilensteine erreicht haben. Für weitere Informationen be..."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026040310443570.jpg"
+image: "/images/onvo-l90-reaches-50000-deliveries-as-nio-plans-lid-cnevpost-ae1761.webp"
 category: "news"
 tag: "E-Auto"
 tags: ["Nio", "Milestones", "Onvo", "Onvo L90"]

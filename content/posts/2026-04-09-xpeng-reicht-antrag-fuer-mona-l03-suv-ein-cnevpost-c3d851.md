@@ -3,7 +3,7 @@ title: "XPeng Mona L03: Neuer SUV unter dem Budget-Label eingereicht"
 date: 2026-04-09T14:20:00.000Z
 description: "XPeng bereitet sein zweites Modell unter dem günstigen Mona-Label vor – ein kompakter Elektro-SUV mit 4,65 Metern Länge und 183 kW Motorleistung, noch 2026 erwartet."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026040910591086-480x270.jpg"
+image: "/images/xpeng-reicht-antrag-fuer-mona-l03-suv-ein-cnevpost-c3d851.webp"
 category: "news"
 tags: ["XPeng", "Mona", "L03", "SUV", "Elektro"]
 draft: false

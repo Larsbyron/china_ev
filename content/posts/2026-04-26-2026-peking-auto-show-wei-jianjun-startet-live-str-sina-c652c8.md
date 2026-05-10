@@ -4,7 +4,7 @@ date: 2026-04-26T22:22:10.982Z
 description: "INHALT:
 Die chinesische Automobilindustrie befindet sich an einem entscheidenden Wendepunkt beim Sprung von „groß' zu „stark'. Inmitten einer komplexen Phase, in der die globale Expansion beschleunigt..."
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/auto/transform/299/w660h439/20260426/3f48-e12cc323540a9f59a101cb217ef118f4.jpg"
+image: "/images/2026-peking-auto-show-wei-jianjun-startet-live-str-sina-c652c8.webp"
 category: "news"
 
 tags: ["MG"]

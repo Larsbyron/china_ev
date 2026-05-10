@@ -3,7 +3,7 @@ title: "Nio ES8: 100.000 Einheiten in Rekordzeit ausgeliefert"
 date: 2026-04-20T08:00:00.000Z
 description: "Nio hat seinen 100.000sten ES8 der dritten Generation ausgeliefert. Das的大型SUV erreichte diesen Meilenstein in nur 215 Tagen – ein Rekord für Premium-Fahrzeuge über 400.000 Yuan."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026042009274617-480x270.jpg"
+image: "/images/nio-100000-es8-ausgeliefert-schnellster-je-cnevpost-d2f823.webp"
 category: "news"
 tags: ["Nio", "ES8", "Auslieferung", "Meilenstein", "Premium"]
 draft: false

@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { ArticleMeta } from '@/lib/articles'
 import { formatDateShort } from '@/lib/date-utils'
+import FallbackImage from './FallbackImage'
 import styles from './ArticleCard.module.css'
 
 interface ArticleCardProps {
@@ -16,7 +17,7 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
     >
       <div className={styles.imageWrapper}>
         {article.image ? (
-          <img
+          <FallbackImage
             src={article.image}
             alt={article.title}
             className={styles.image}
@@ -24,6 +25,7 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             height={270}
             loading={featured ? 'eager' : 'lazy'}
             decoding="async"
+            fallbackClassName={styles.imageFallback}
           />
         ) : (
           <div className={styles.imageFallback}>

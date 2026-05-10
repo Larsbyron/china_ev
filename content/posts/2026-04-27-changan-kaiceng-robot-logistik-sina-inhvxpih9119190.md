@@ -3,7 +3,7 @@ title: "Changan Kaicheng setzt auf digitale Transformation und neue Energien: Ro
 date: 2026-04-27T10:00:00
 description: "Auf der Beijing Auto Show 2026 stellte Changan Kaicheng seinen Robovan vor. Wang Xiaofei und Dong Chenrui erläutern die Strategie für autonome Logistikfahrzeuge und die Vision einer digitalen und elektrifizierten Nutzfahrzeugflotte."
 source: "Sina"
-image: "https://n.sinaimg.cn/www/transform/300/w660h440/20260427/aab8-f5a39b5dfa9b5cf3d281e21ae07c5fe8.jpg"
+image: "/images/changan-kaiceng-robot-logistik-sina-inhvxpih9119190.webp"
 category: "news"
 brand: "Changan"
 tags: ["Changan Kaicheng", "Robovan", "Robotruck", "autonomes Fahren", "Nutzfahrzeuge", "neue Energien", "Logistik", "Beijing Auto Show 2026"]

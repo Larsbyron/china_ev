@@ -3,7 +3,7 @@ title: "AVATR 07L: Längere Version mit 2.990 mm Radstand vorgestellt"
 date: 2026-05-09T23:50:07.399Z
 description: "AVATR (阿维塔) zeigt offizielle Bilder des 07L, einer gestreckten Variante des SUV. Der Radstand wächst auf 2.990 mm, neu sind Halb-Hidden-Türgriffe und ein 896-Linien-Lidar. Ob der Wagen nach Europa kommt, ist offen."
 source: "Autohome NewEnergy"
-image: "https://car2.autoimg.cn/cardfs/product/g34/M06/1D/BA/autohomecar__ChtpWGn-ihSAViV8AB_RGRyIsFQ697.jpg"
+image: "/images/avatr-07l-lngere-version-mit-2990-mm-radstand-vorg-autohome-newenergy-8a7382.webp"
 category: "news"
 
 tags: ["E-Auto", "EV"]

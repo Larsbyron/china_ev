@@ -3,7 +3,7 @@ title: "Luo Chuang: Guiyuan S setzt nicht auf Ausstattungswahn, sondern auf das 
 date: 2026-04-26T22:24:30.183Z
 description: "Luo Chuang: Guiyuan S setzt nicht auf Ausstattungswahn, sondern auf das Wesentliche für Nutzer. Am 24. April wurde die Beijing Auto Show 2026 offiziell eröffnet."
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/auto/transform/715/w606h909/20260426/4ec8-270bf898ce2bdfd08da5aef8eb42a92c.png"
+image: "/images/luo-chuang-guiyuan-s-keeps-it-real-for-users-sina-7b069e.webp"
 category: "news"
 
 tags: ["EV"]

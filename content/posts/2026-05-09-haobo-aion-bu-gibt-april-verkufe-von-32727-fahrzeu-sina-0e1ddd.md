@@ -3,7 +3,7 @@ title: "Haobo Aion BU gibt April-Verkäufe von 32.727 Fahrzeugen bekannt – ein
 date: 2026-05-09T22:53:25.670Z
 description: "Am 1. Mai gab die Geschäftseinheit Haobo Aion die Endverkaufszahlen für April bekannt: 32.727 Fahrzeuge, ein Anstieg von 15,6 % im Vergleich zum Vorjahresmonat, womit sich der positive Trend aus dem e..."
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/www/transform/488/w660h1428/20260501/33be-c66140a1cd372f937fced32e3a3c5b86.jpg"
+image: "/images/haobo-aion-bu-gibt-april-verkufe-von-32727-fahrzeu-sina-0e1ddd.webp"
 category: "news"
 brand: "Aion"
 tags: ["Aion", "EV"]

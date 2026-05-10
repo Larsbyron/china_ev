@@ -3,7 +3,7 @@ title: "Skoda Epiq Sportline Erlkönig-Fotos"
 date: 2026-05-09T23:13:10.707Z
 description: "[Autohome Erlkönig-Fotos] Nur noch 12 Tage bis zur Weltpremiere von Skodas neuem kleinen Elektro-SUV – dem Epiq (Parameter | Preis) – (offizielle Enthüllung am 19. Mai). Nun sind Erlkönig-Fotos eines ..."
 source: "Autohome NewEnergy"
-image: "https://www2.autoimg.cn/chejiahaodfs/g33/M00/16/4F/autohomecar__ChxpVmn9WHaAApyHAAyRPlp32pg231.png"
+image: "/images/skoda-epiq-sportline-erlknig-fotos-autohome-newenergy-4908a3.webp"
 category: "news"
 
 tags: ["Batterie", "Reichweite", "Zoll", "Elektroauto"]

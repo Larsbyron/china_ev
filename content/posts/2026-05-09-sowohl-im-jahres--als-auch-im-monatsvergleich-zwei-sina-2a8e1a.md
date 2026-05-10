@@ -3,7 +3,7 @@ title: "Sowohl im Jahres- als auch im Monatsvergleich zweistelliges Wachstum: Fa
 date: 2026-05-09T22:57:39.256Z
 description: "Mai veröffentlichte Fangchengbao die Verkaufszahlen für April. Die Gesamtverkäufe der Marke beliefen sich auf stabile 29.138 Einheiten, ein Anstieg von 190 % im Jahresvergleich und 12,4 % im Monatsvergleich, was eine starke Wachstumsdynamik zeigt"
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/www/transform/740/w660h880/20260502/00d5-c82cdc6850c7822b4d4a6a2cb5095f26.png"
+image: "/images/sowohl-im-jahres-als-auch-im-monatsvergleich-zwei-sina-2a8e1a.webp"
 category: "news"
 brand: "BYD"
 tags: ["BYD", "Batterie", "EV"]

@@ -3,7 +3,7 @@ title: "Offizielle Bilder des Avita 07L veröffentlicht"
 date: 2026-05-09T23:12:55.326Z
 description: "[Autohome Offizielle Fahrzeugbilder] Kürzlich wurden die offiziellen Bilder des Avita 07 (Parameter | Preis) L veröffentlicht. Das Unternehmen gab keine weiteren Informationen zum neuen Fahrzeug bekan..."
 source: "Autohome NewEnergy"
-image: "https://car2.autoimg.cn/cardfs/product/g34/M06/1D/BA/autohomecar__ChtpWGn-ihSAViV8AB_RGRyIsFQ697.jpg"
+image: "/images/offizielle-bilder-des-avita-07l-verffentlicht-autohome-newenergy-ab233f.webp"
 category: "news"
 
 tags: []

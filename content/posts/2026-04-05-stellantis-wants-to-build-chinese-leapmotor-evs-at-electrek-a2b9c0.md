@@ -3,7 +3,7 @@ title: "Stellantis möchte chinesische Leapmotor-Elektrofahrzeuge in seinem stil
 date: 2026-04-05T14:08:42.114907
 description: "Stellantis führt laut Bloomberg frühe Gespräche über die Montage von Elektrofahrzeugen seines chinesischen Partners Leapmotor im stillgelegten Werk in Brampton, Ontario — eine Fabrik, die mit über 500..."
 source: "Electrek"
-image: "https://electrek.co/wp-content/uploads/sites/3/2026/02/Stellantis-EV-costs-China-2.jpeg?quality=82&#038;strip=all&#038;w=1400"
+image: "/images/stellantis-wants-to-build-chinese-leapmotor-evs-at-electrek-a2b9c0.webp"
 category: "news"
 tag: "E-Auto"
 tags: ["News", "canada", "canada post", "leapmotor", "stellantis"]

@@ -3,7 +3,7 @@ title: "Geely Auto verkauft im April 235.000 Fahrzeuge – Wachstum im Vergleich
 date: 2026-05-09T22:57:52.230Z
 description: "Am 1. Mai veröffentlichte die Geely Automobile Holdings Limited (0175.HK) die neuesten Verkaufsdaten: Im April wurden 235.164 Pkw verkauft, ein Wachstum im Vergleich zum Vormonat und zum Vorjahr. Der ..."
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/auto/608/w1242h1766/20260501/2878-8d73859d018c67aeb24fb810aa564b2c.jpg"
+image: "/images/geely-auto-verkauft-im-april-235000-fahrzeuge-wach-sina-39857b.webp"
 category: "news"
 brand: "Geely"
 tags: ["Geely", "Zeekr"]

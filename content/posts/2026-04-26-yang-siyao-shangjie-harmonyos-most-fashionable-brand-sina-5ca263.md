@@ -3,7 +3,7 @@ title: "Yang Siyao: Shangjie will die modischste Marke im HarmonyOS Intelligent 
 date: 2026-04-26T22:21:46.577Z
 description: "Yang Siyao: Shangjie will die modischste Marke im HarmonyOS Intelligent Driving Portfolio werden. Am 24. April wurde die Beijing Auto Show 2026 offiziell eröffnet."
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/auto/transform/300/w660h440/20260426/2be4-b7ab1efe329e1c7bbe6ed1a2e7c4fbab.jpg"
+image: "/images/yang-siyao-shangjie-harmonyos-most-fashionable-brand-sina-5ca263.webp"
 category: "news"
 tags: ["MG", "Elektroauto", "Shangjie", "Huawei", "SAIC"]
 draft: false

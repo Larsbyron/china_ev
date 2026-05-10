@@ -3,7 +3,7 @@ title: "He Zhaopeng: 212 verschwendet keine Emotionen, sondern bringt Geländewa
 date: 2026-04-26T22:23:03.717Z
 description: "He Zhaopeng: 212 verschwendet keine Emotionen, sondern bringt Geländewagen mit echtem Charakter auf die Welt. Am 24. April wurde die Beijing Auto Show 2026 offiziell eröffnet."
 source: "Sina"
-image: "https://auto.sina.com.cn//n.sinaimg.cn/auto/transform/300/w660h440/20260426/946a-d4bb9e482f05463761533a093476359a.jpg"
+image: "/images/he-zhaopeng-212-offroad-brand-global-expansion-sina-c87fb6.webp"
 category: "news"
 
 tags: ["EV"]

@@ -3,7 +3,7 @@ title: "XPeng kündigt Technik-Event für das Flaggschiff-SUV GX an"
 date: 2026-04-13T09:30:00.000Z
 description: "XPeng richtet am 15. April ein Technik-Event für das neue Flaggschiff-SUV GX aus. Der große Sechssitzer soll in den Premiummarkt ab 400.000 Yuan vorstoßen."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026041303344733-480x270.jpg"
+image: "/images/xpeng-technik-event-fuer-flagschiff-gx-am-15-april-cnevpost-g4h982.webp"
 category: "news"
 tags: ["XPeng", "GX", "SUV", "Technik", "Premium"]
 draft: false

@@ -12,6 +12,8 @@ import {
   getArticlesByBrand,
   formatDate,
 } from '@/lib/articles'
+import FallbackImage from '@/components/FallbackImage'
+import { buildAbsoluteImageUrl } from '@/lib/images'
 import styles from './page.module.css'
 
 interface ArticlePageProps {
@@ -53,13 +55,13 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       publishedTime: article.date,
       authors: ['E-AUTOS Redaktion'],
       section: 'Elektroautos aus China',
-      images: article.image ? [{ url: article.image, width: 1200, height: 630 }] : [],
+      images: article.image ? [{ url: buildAbsoluteImageUrl(article.image, siteUrl), width: 1200, height: 630 }] : [],
     },
     twitter: {
       card: 'summary_large_image',
       title: article.title,
       description: article.description,
-      images: article.image ? [article.image] : [],
+      images: article.image ? [buildAbsoluteImageUrl(article.image, siteUrl)] : [],
     },
   }
 }
@@ -72,6 +74,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     notFound()
   }
 
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'
   const relatedArticles = article.brand
     ? getArticlesByBrand(article.brand).filter((a) => a.slug !== slug).slice(0, 3)
     : []
@@ -90,7 +93,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               '@type': 'NewsArticle',
               headline: article.title,
               description: article.description,
-              image: article.image ? [article.image] : [],
+              image: article.image ? [buildAbsoluteImageUrl(article.image, siteUrl)] : [],
               datePublished: article.date,
               dateModified: article.date,
               author: { '@type': 'Organization', name: 'E-AUTOS Redaktion' },
@@ -154,13 +157,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           {/* Hero Image */}
           {article.image && (
             <div className={styles.heroImage}>
-              <img
+              <FallbackImage
                 src={article.image}
                 alt={article.title}
                 width={1200}
                 height={630}
                 loading="eager"
                 fetchPriority="high"
+                fallbackClassName={styles.heroImage}
               />
             </div>
           )}
@@ -228,7 +232,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       className={styles.relatedCard}
                     >
                       {related.image && (
-                        <img src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} />
+                        <FallbackImage src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} fallbackClassName={styles.relatedImage} />
                       )}
                       <div className={styles.relatedContent}>
                         <h3 className={styles.relatedCardTitle}>{related.title}</h3>

@@ -3,7 +3,7 @@ title: "Tesla bemüht sich um FSD-Einfuhr in China – Fortschritte in den Niede
 date: 2026-04-23T11:00:00.000Z
 description: "Tesla bestätigt, dass es an der Einfuhr seines Full-Self-Driving-Systems nach China arbeitet, nachdem die Technologie in den Niederlanden zugelassen wurde. Ein konkreter Zeitplan wurde nicht genannt."
 source: "CnEVPost"
-image: "https://cnevpost.com/wp-content/uploads/2026/04/2026042304154969-480x270.jpg"
+image: "/images/tesla-arbeitet-an-fsd-einfuhr-nach-china-cnevpost-a9c834.webp"
 category: "news"
 tags: ["Tesla", "FSD", "China", "Autonomes Fahren", "Niederlande"]
 draft: false
