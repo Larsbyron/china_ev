@@ -95,8 +95,9 @@ async function main() {
     const original = readFileSync(filePath, 'utf-8')
 
     let updated: string
-    if (/^image:\s*$/m.test(original) || /^image:\s*""\s*$/m.test(original)) {
-      updated = original.replace(/^image:\s*.*$/m, `image: "${localPath}"`)
+    if (/^image:/m.test(original)) {
+      // Replace whatever image line exists (empty, pexels, etc.)
+      updated = original.replace(/^image:.*$/m, `image: "${localPath}"`)
     } else {
       // No image line at all — insert after source line
       updated = original.replace(/(^source:.*$)/m, `$1\nimage: "${localPath}"`)

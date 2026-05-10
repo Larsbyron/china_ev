@@ -4,7 +4,6 @@ date: 2026-05-10T20:51:05.937Z
 description: "Drei neue Modelle für China: Chery T9L (PHEV-SUV), Buick Electra (BEV-MPV) und Stelato V9 (High-End-EREV) kommen ab Frühjahr 2025. Sie zeigen unterschiedliche Strategien – von familienfreundlich bis futuristisch."
 source: "OFweek NEV"
 image: "/images/ai-chery-t9l-buick-electra-stelato-v9-neue-chinesen-i-ofweek-nev-cf09d8.webp"
-image: "/images/pexels-chery-t9l-buick-electra-stelato-v9-neue-chinesen-i-ofweek-nev-cf09d8.webp"
 
 category: "news"
 

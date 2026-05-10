@@ -4,7 +4,6 @@ date: 2026-05-10T20:43:04.349Z
 description: "Der neue Audi RS 5 setzt auf einen Hybridantrieb: 2,9-Liter-V6-Biturbo plus P2-E-Motor. Das System kombiniert klassische Quattro-Mechanik mit elektrischer Unterstützung und bietet eine beeindruckende Leistungsentfaltung."
 source: "OFweek NEV"
 image: "/images/ai-audi-rs-5-hybrid-v6-biturbo-und-e-motor-mit-ber-50-ofweek-nev-42fe7a.webp"
-image: "/images/pexels-audi-rs-5-hybrid-v6-biturbo-und-e-motor-mit-ber-50-ofweek-nev-42fe7a.webp"
 
 category: "news"
 

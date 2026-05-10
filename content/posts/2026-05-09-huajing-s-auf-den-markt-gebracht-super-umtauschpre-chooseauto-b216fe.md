@@ -4,7 +4,6 @@ date: 2026-05-09T23:21:23.264Z
 description: "HuaJing S auf den Markt gebracht: Super-Umtauschpreis ab 149.800 YuanIntelligentes Zuhause: Die Huawei Qiankun-Komplettausstattung für jedermannSicheres Zuhause: Rundumschutz für das tägliche FamilienglückGeräumiges Zuhause: Echte drei Sit..."
 source: "ChooseAuto"
 image: "/images/ai-huajing-s-auf-den-markt-gebracht-super-umtauschpre-chooseauto-b216fe.webp"
-image: "/images/pexels-huajing-s-auf-den-markt-gebracht-super-umtauschpre-chooseauto-b216fe.webp"
 category: "news"
 
 tags: ["MG", "Batterie", "Reichweite", "Zoll", "EV"]

@@ -4,7 +4,6 @@ date: 2026-05-09T23:18:24.610Z
 description: "Vom “Smart Equality” zur “Value Equality”: Der Bo Yue versteht chinesische Familien seit einem JahrzehntDer “Downdrift-Schlag” für 87.900 CNY: Luxusausstattung zur Standardausstattung für die FamilieWohin führt der Weg für Benziner im New En..."
 source: "ChooseAuto"
 image: "/images/ai-bo-yue-10-jhriges-jubilum-champion-edition-limitie-chooseauto-7ca076.webp"
-image: "/images/pexels-bo-yue-10-jhriges-jubilum-champion-edition-limitie-chooseauto-7ca076.webp"
 category: "news"
 brand: "Geely"
 tags: ["Geely", "MG", "Reichweite", "Zoll", "E-Auto", "EV", "Marktanteil"]

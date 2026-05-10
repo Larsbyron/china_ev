@@ -4,7 +4,6 @@ date: 2026-05-10T20:41:10.761Z
 description: "Audi bringt mit dem E7X einen 900-Volt-Luxus-SUV ab 37.100 € in Stellung. Xiaomi kontert mit dem YU7 ab 32.400 € und setzt auf Technologie. Ein Duell der Tradition gegen die Zukunft."
 source: "OFweek NEV"
 image: "/images/ai-audi-e7x-vs-xiaomi-yu7-zwei-philosophien-im-luxus-ofweek-nev-0d4bbf.webp"
-image: "/images/pexels-audi-e7x-vs-xiaomi-yu7-zwei-philosophien-im-luxus-ofweek-nev-0d4bbf.webp"
 
 category: "news"
 

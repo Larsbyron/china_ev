@@ -4,7 +4,6 @@ date: 2026-05-09T23:19:41.917Z
 description: "Frage:Ivan Espinosa:Frage:Ivan Espinosa:Frage:Ma Zhixin:Frage:Ma Zhixin:Guillaume Cartier:Frage:Ivan Espinosa:Frage:Ivan Espinosa:Frage:Ivan Espinosa:Guillaume Cartier:Ivan Espinosa:Frage:Ma Zhixin:Frage:I..."
 source: "ChooseAuto"
 image: "/images/ai-dialog-mit-nissan-fhrungskrften-von-n7-bis-nx8-hat-chooseauto-9a47f9.webp"
-image: "/images/pexels-dialog-mit-nissan-fhrungskrften-von-n7-bis-nx8-hat-chooseauto-9a47f9.webp"
 category: "news"
 
 tags: ["NIO", "MG", "E-Auto", "EV", "Marktanteil"]

@@ -4,7 +4,6 @@ date: 2026-05-10T20:49:04.070Z
 description: "BYD, AITO, Li Auto, XPeng und weitere Hersteller bringen 2026 insgesamt elf neue „9er“-Flaggschiffe auf den Markt. Die Preise liegen zwischen 30.000 und 50.000 Euro – der Kampf um Chinas Oberklasse eskaliert."
 source: "OFweek NEV"
 image: "/images/ai-11-neue-9er-flaggschiffe-china-startet-2026-die-lu-ofweek-nev-ecc328.webp"
-image: "/images/pexels-11-neue-9er-flaggschiffe-china-startet-2026-die-lu-ofweek-nev-ecc328.webp"
 
 category: "news"
 

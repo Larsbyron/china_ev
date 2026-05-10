@@ -4,7 +4,6 @@ date: 2026-05-10T20:48:46.610Z
 description: "Der chinesische Markt für große SUV erlebt 2026 einen Ansturm neuer Modelle. Über zehn Hersteller bringen Premium-Fahrzeuge, die auch für Europa interessant sein könnten."
 source: "OFweek NEV"
 image: "/images/ai-chinesische-suv-flut-zehn-neue-riesen-modelle-ab-2-ofweek-nev-a469b4.webp"
-image: "/images/pexels-chinesische-suv-flut-zehn-neue-riesen-modelle-ab-2-ofweek-nev-a469b4.webp"
 
 category: "news"
 

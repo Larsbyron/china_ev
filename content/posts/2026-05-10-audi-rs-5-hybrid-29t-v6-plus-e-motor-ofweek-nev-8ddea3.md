@@ -4,7 +4,6 @@ date: 2026-05-10T20:32:45.003Z
 description: "Der Audi RS 5 bekommt einen Plug-in-Hybrid-Antrieb: 2,9-Liter-V6-Biturbo (375 kW) plus P2-E-Motor (130 kW), 8-Gang-Tiptronic und quattro. Eine 22-kWh-Batterie ermöglicht rein elektrisches Fahren. Der Hybrid steigert Dynamik und Effizienz."
 source: "OFweek NEV"
 image: "/images/ai-audi-rs-5-hybrid-29t-v6-plus-e-motor-ofweek-nev-8ddea3.webp"
-image: "/images/pexels-audi-rs-5-hybrid-29t-v6-plus-e-motor-ofweek-nev-8ddea3.webp"
 
 category: "news"
 
