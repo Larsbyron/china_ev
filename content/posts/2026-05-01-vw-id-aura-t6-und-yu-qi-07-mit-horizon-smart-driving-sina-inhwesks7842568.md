@@ -3,7 +3,7 @@ title: "Volkswagen zeigt nächste E-Modell-Generation mit Horizon-Smart-Driving-
 date: 2026-05-01T07:00:55
 description: "Beijing Auto Show 2026: VW präsentiert mit ID. AURA T6, Yu Qi 07 und einem Jetta-Modell drei neue Elektrofahrzeuge mit Horizon Robotics Assistenzsystemen."
 source: "Sina"
-image: ""
+image: null
 category: "news"
 brand: "Volkswagen"
 tags: ["Volkswagen", "Horizon Robotics", "Beijing Auto Show 2026", "ID. AURA T6", "Yu Qi 07", "Jetta", "ADAS", "autonomes Fahren"]
