@@ -1,9 +1,7 @@
 ---
 title: "Audi E7X vs. Xiaomi YU7: Audi geht in die Offensive, Xiaomi kontert"
 date: 2026-05-09T23:14:07.236Z
-description: "**
-
-Der Audi E7X ist offiziell in die Vorbestellungsphase gestartet. Der Vorbestellungspreis liegt bei 289.800 bis 379.800 Yuan. Mit 253.500 bis 329.900 Yuan für den Xiaomi YU7 entsteht eine preislich..."
+description: "Verschiebung der Marktwertschätzung: Von Konkurrenz durch Nachahmung zur offenen Herausforderung2. Der Unterschied in der Produktphilosophie: Mechanisches Erbe vs. technologisches ÖkosystemFahrwerk und Handling:Energie und Reichweite:Intel..."
 source: "OFweek NEV"
 image: "https://mp.ofweek.com/Upload/News/Img/member12575/202605/09113939716932.jpg"
 category: "news"
@@ -69,4 +67,3 @@ Für die Verbraucher gilt: Ein Sieg auf dem Papier ist nur Theorie. Nur wenn man
 **Originaltitel: Audi E7X vs. Xiaomi YU7: Audi geht in die Offensive, Xiaomi kontert**
 
 ---
-*Quelle: OFweek NEV*

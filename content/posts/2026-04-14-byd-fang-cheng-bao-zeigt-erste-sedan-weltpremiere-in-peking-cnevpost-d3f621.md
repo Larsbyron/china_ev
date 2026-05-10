@@ -21,5 +21,3 @@ Unter der Haube erwarten Beobachter ein Tri-Motor-System mit einer Spitzenleistu
 Fang Cheng Bao hat sich in den vergangenen Monaten stark entwickelt. Im März wurden 25.926 Einheiten verkauft – ein Plus von 222 Prozent gegenüber dem Vorjahr und 52,2 Prozent mehr als im Vormonat. Die Submarke gehört zu BYD fünf Submarken: Denza, Yangwang, Dynasty, Ocean und Fang Cheng Bao.
 
 Die Peking Mobil World öffnet am 24. April ihre Tore.
-
-*Quelle: CnEVPost*

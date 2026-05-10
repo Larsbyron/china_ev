@@ -131,6 +131,30 @@
   background: var(--color-bg-tertiary);
 }
 
+.imageFallback {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(
+    135deg,
+    rgba(48, 209, 88, 0.1) 0%,
+    rgba(48, 209, 88, 0.04) 50%,
+    rgba(12, 12, 14, 0.08) 100%
+  );
+}
+
+.fallbackLabel {
+  font-family: var(--font-mono);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-accent-green);
+  opacity: 0.4;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
 .image {
   width: 100%;
   height: 100%;

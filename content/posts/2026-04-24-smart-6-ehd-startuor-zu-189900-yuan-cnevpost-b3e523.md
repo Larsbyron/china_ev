@@ -19,5 +19,3 @@ Das Fahrzeug ist ein Mittelklasse-Limousine mit Plug-in-Hybrid-Antrieb, 4.906 mm
 Der Smart #6 EHD nutzt ein 1,5-Liter-Turbo-Plug-in-Hybridsystem mit einer Spitzenleistung von 320 kW (429 PS) und beschleunigt in 6,7 Sekunden von 0 auf 100 km/h.
 
 Nach CLTC bietet er eine maximale rein elektrische Reichweite von 285 Kilometern. Mit vollem Tank und voller Ladung kommt das Fahrzeug auf 1.810 Kilometer Gesamtreichweite. Serienmäßig ist ein Dach-LiDAR an Bord, der urbane Navigate-on-Autopilot-Funktionen ermöglicht.
-
-*Quelle: CnEVPost*

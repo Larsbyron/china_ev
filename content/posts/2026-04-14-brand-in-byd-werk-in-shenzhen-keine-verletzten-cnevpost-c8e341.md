@@ -19,5 +19,3 @@ Nach Unternehmensangaben handelte es sich bei der Anlage um ein Testzentrum mit 
 Die in Hongkong gehandelten BYD-Aktien gaben im frühen Handel leicht nach und notierten zuletzt bei 109,3 Hongkong-Dollar, ein Minus von 0,91 Prozent.
 
 Der Vorfall ereignete sich in einer Phase, in der BYD mit einem Umsatzrückgang in China zu kämpfen hat. Im März verkaufte BYD zwar 300.222 NEV weltweit, doch es war der siebte Monat in Folge mit einem Rückgang gegenüber dem Vorjahr. Das Unternehmen hat daher seine Exportziele für 2026 auf 1,5 Millionen Fahrzeuge angehoben – zuvor waren 1,3 Millionen angepeilt worden. Das Auslandsgeschäft soll künftig einen größeren Anteil am Gesamtabsatz tragen.
-
-*Quelle: CnEVPost*

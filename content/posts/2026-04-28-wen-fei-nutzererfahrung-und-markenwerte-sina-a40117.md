@@ -80,4 +80,3 @@ Die internationale Markenbekanntheit ist gerade der Kernvorteil von FREELANDER: 
 **Wen Fei:** FREELANDER wird sich wie die anderen Marken der Land Rover-Familie auf SUVs konzentrieren. Alle sechs geplanten Modelle sind SUVs, mit unterschiedlichen Segmenten, Größen und Designstilen — darunter einige Innovationen, die sicher für Überraschungen sorgen werden. Das Produktionsmodell „englische Luxus-DNA + chinesisches Intelligenz-Fundament" ist unser größter Vorteil und wird durchgehend für alle sechs Modelle gelten.
 
 ---
-*Quelle: Sina*

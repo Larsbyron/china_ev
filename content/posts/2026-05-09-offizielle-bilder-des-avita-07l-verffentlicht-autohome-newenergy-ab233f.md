@@ -21,4 +21,3 @@ Ein Blick auf die offiziellen Bilder: Die Frontpartie des neuen Fahrzeugs bleibt
 Als Referenz: Die Länge des Avita 07 beträgt 4825 mm, der Radstand 2940 mm. Es wird erwartet, dass der Avita 07L nach der Verlängerung von Karosserie und Radstand auf 4910 mm bzw. 2990 mm wächst. Die größte Veränderung am Heck ist der Wechsel zu einem durchgehenden Rückleuchten-Design, und es wird erwartet, dass auch die kleine blaue intelligente Fahrleuchte eingeführt wird. Wir werden weiterhin über weitere Informationen zu diesem neuen Fahrzeug berichten. (Text/Autohome, Guo Chen)
 
 ---
-*Quelle: Autohome NewEnergy*

@@ -21,5 +21,3 @@ Während diese Quote zuvor mit einem 100-prozentigen Strafzoll belastet war, sol
 BYD-Vizepräsidentin Stella Li erklärte in einem Interview, dass BYD den kanadischen Markt für eine mögliche Fertigungsstätte prüfe. Das Unternehmen bevorzuge es, eine solche Anlage vollständig in Eigenregie zu betreiben.
 
 Der europäische Autoriese Stellantis erwägt indes, zusammen mit seinem chinesischen Partner Leapmotor Elektrofahrzeuge der Marke Leapmotor in einem seit Jahren stillgelegten Stellantis-Werk in Brampton, Ontario, zu fertigen.
-
-*Quelle: CnEVPost*

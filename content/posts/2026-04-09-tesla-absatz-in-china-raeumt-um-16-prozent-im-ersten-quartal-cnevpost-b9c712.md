@@ -23,5 +23,3 @@ Der Absturz Telsas auf dem wichtigen chinesischen Markt setzt sich damit fort. 2
 Zum Vergleich: BYD verkaufte allein im März 300.222 NEV weltweit, davon rund 194.000 in China – mehr als dreimal so viel wie Tesla im gesamten März. Selbst Xiaomi, erst seit 2024 im E-Auto-Geschäft, lieferte im ersten Quartal rund 80.000 Fahrzeuge aus.
 
 Teslas Marktanteil am reinen Batterieelekktrik-Markt in China fiel im März auf 9,88 Prozent, am gesamten NEV-Markt sogar auf nur 6,62 Prozent.
-
-*Quelle: CnEVPost*

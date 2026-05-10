@@ -21,5 +21,3 @@ Doch Li mahnte zur Vorsicht: Das makroökonomische Umfeld im zweiten Quartal ble
 Um die Herausforderungen zu meistern, will Nio seine ressourcenstärksten Modelle im zweiten Quartal konzentrieren: den Nio ES9 und den Onvo L80. Der ES9 befindet sich seit dem 9. April im Vorverkauf, die offizielle Markteinführung ist für Ende Mai geplant, die ersten Auslieferungen für den 1. Juni.
 
 Li erwartet, dass mit dem Neueffekt这两 Modelle die Auslieferungen ab Mai und Juni wieder ansteigen werden.
-
-*Quelle: CnEVPost*

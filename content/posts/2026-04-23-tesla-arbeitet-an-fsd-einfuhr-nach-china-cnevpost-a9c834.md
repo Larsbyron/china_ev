@@ -21,5 +21,3 @@ In seinem Heimatmarkt Nordamerika hat Tesla im April die neueste Generation FSD 
 Die kumulierte Fahrleistung von Teslas FSD hat mittlerweile 9,38 Milliarden Meilen (15,1 Milliarden Kilometer) überschritten, davon mehr als 3,37 Milliarden Meilen im urbanen Straßenszenario.
 
 Im April erhielt Tesla die Genehmigung für FSD Supervised in den Niederlanden – ein wichtiger Schritt für mögliche Genehmigungen in anderen EU-Märkten.
-
-*Quelle: CnEVPost*

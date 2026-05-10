@@ -1,9 +1,7 @@
 ---
 title: "Neuer RS 5 Plug-in-Hybrid: Kann er die Elektro-Konkurrenz herausfordern?"
 date: 2026-05-09T23:17:32.157Z
-description: "**
-
-Es gibt ein chinesisches Sprichwort: Der Fachmann erkennt die Kniffe, der Laie schaut nur zu. Das gilt besonders in der Automobilbranche: Manche, die sich auskennen, folgen blind dem Trend und ver..."
+description: "' source: 'OFweek NEV' image: 'https://mp.ofweek.com/Upload/News/Img/member11445/202604/wx_article__3c2e4cc1e1e352b659a387c2a5d75ef6.jpg' category: 'news' tags: 'Batterie', 'Elektr..."
 source: "OFweek NEV"
 image: "https://mp.ofweek.com/Upload/News/Img/member11445/202604/wx_article__3c2e4cc1e1e352b659a387c2a5d75ef6.jpg"
 category: "news"
@@ -47,4 +45,3 @@ Im Vergleich zu den bisherigen Audi Sport-Modellen der Vorgängergeneration setz
 *Originaltitel: Der neue RS 5 Plug-in-Hybrid: Kann er die Elektro-Konkurrenz herausfordern?*
 
 ---
-*Quelle: OFweek NEV*

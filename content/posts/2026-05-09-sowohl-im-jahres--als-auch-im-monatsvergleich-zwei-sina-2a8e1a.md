@@ -1,9 +1,7 @@
 ---
 title: "Sowohl im Jahres- als auch im Monatsvergleich zweistelliges Wachstum: Fangchengbao verkauft im April 29.138 Einheiten"
 date: 2026-05-09T22:57:39.256Z
-description: "**
-
-Am 1. Mai veröffentlichte Fangchengbao die Verkaufszahlen für April. Die Gesamtverkäufe der Marke beliefen sich auf stabile 29.138 Einheiten, ein Anstieg von 190 % im Jahresvergleich und 12,4 % im..."
+description: "Mai veröffentlichte Fangchengbao die Verkaufszahlen für April. Die Gesamtverkäufe der Marke beliefen sich auf stabile 29.138 Einheiten, ein Anstieg von 190 % im Jahresvergleich und 12,4 % im Monatsvergleich, was eine starke Wachstumsdynamik zeigt"
 source: "Sina"
 image: "https://auto.sina.com.cn//n.sinaimg.cn/www/transform/740/w660h880/20260502/00d5-c82cdc6850c7822b4d4a6a2cb5095f26.png"
 category: "news"
@@ -64,4 +62,3 @@ Copyright ©1996-2026 SINA Corporation All Rights Reserved
 Sina Corporation Alle Rechte vorbehalten
 
 ---
-*Quelle: Sina*

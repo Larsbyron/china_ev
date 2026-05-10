@@ -1,6 +1,10 @@
 .footer {
   border-top: 1px solid var(--color-border);
-  background: var(--color-bg-secondary);
+  background: linear-gradient(
+    to bottom,
+    var(--color-bg-tertiary),
+    var(--color-bg-secondary) 40%
+  );
   margin-top: var(--space-24);
 }
 

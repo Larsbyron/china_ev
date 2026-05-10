@@ -40,4 +40,3 @@ Aktuelle Modelle in Deutschland: **Atto 2, Atto 3, Dolphin, Seal, Sealion 7, Han
 BYD ist seit 2022 auf dem deutschen Markt aktiv und baut sein Händlernetz kontinuierlich aus. Der BYD Seagull ist in Deutschland derzeit nicht erhältlich – ein Marktstart in Europa wird jedoch für die Zukunft erwartet.
 
 ---
-*Quelle: Autohome NewEnergy*

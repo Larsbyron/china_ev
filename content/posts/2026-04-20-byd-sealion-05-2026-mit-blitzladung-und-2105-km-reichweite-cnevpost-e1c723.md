@@ -21,5 +21,3 @@ Beide Modelle profitieren von einem bedeutenden Technologie-Upgrade. Die reinen 
 Die maximale Reichweite des EV wurde auf 630 Kilometer erweitert, während die Hybridversion mit vollem Tank und voller Ladung auf bis zu 2.105 Kilometer Gesamtreichweite kommt. Der Kraftstoffverbrauch des Hybrids bei niedrigem Ladezustand wurde auf 3,1 Liter pro 100 Kilometer gesenkt – eine Verbesserung von fast 20 Prozent gegenüber dem Vorgängermodell.
 
 In der Spitzenversion ist das Fahrerassistenzsystem „God's Eye C" serienmäßig an Bord.
-
-*Quelle: CnEVPost*

@@ -1,9 +1,7 @@
 ---
 title: "Bo Yue 10-jähriges Jubiläum Champion Edition: Limitierter Preis 8,79 Mio. CNY – Der “letzte Kampf” und die “Wiedergeburt” des chinesischen Benzin-SUVs"
 date: 2026-05-09T23:18:24.610Z
-description: "**
-Bo Yue 10-jähriges Jubiläum Champion Edition: Limitierter Preis 8,79 Mio. CNY – Der “letzte Kampf” und die “Wiedergeburt” des chinesischen Benzin-SUVs
-Original: Car Impression 2026/5/10 5:15:13 0 V..."
+description: "Vom “Smart Equality” zur “Value Equality”: Der Bo Yue versteht chinesische Familien seit einem JahrzehntDer “Downdrift-Schlag” für 87.900 CNY: Luxusausstattung zur Standardausstattung für die FamilieWohin führt der Weg für Benziner im New En..."
 source: "ChooseAuto"
 category: "news"
 brand: "Geely"
@@ -72,4 +70,3 @@ Veröffentlichen
 Mehr anzeigen >
 
 ---
-*Quelle: ChooseAuto*

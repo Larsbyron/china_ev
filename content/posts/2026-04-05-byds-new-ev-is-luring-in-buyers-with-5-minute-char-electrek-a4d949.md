@@ -16,4 +16,3 @@ original_url: "https://electrek.co/2026/04/03/byds-new-ev-lures-buyers-with-5-mi
 BYD hat den Song Ultra EV in China eingeführt, zu einem Startpreis von knapp unter 22.000 Dollar. Das neue Elektrofahrzeug ist eines der ersten, das mit seiner Blade-Batterie und Flash-Charging ausgestattet ist, was Ladezeiten von nur fünf Minuten ermöglicht. In weniger als einem Monat hat das Elektro‑SUV über 37.000 Bestellungen erhalten. mehr…
 
 ---
-*Quelle: Electrek*

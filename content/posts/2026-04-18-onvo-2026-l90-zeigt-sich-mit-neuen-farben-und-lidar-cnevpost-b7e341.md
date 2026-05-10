@@ -21,5 +21,3 @@ Darüber hinaus präsentiert Onvo zwei neue Zweifarb-Karosseriefarben – Violet
 Das Außendesign-Update ist Teil einer umfassenden technologischen Überarbeitung. Der neue L90 wird mit Nios hauseigenem Shenji NX9031-Chip ausgestattet – dem ersten 5-Nanometer-Automotive-KI-Chip der Branche – sowie der neuesten Version des Nio World Model (NWM), Chinas erstem verkörpertem Fahrzeugmodell für autonomes Fahren.
 
 Der Vorverkauf des überarbeiteten L90 startet am 21. April zum Preis ab 265.800 Yuan (inklusive Batterie), die ersten Auslieferungen sind für den 9. Mai geplant.
-
-*Quelle: CnEVPost*

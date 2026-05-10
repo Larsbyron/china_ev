@@ -21,5 +21,3 @@ Die familienorientierte Marke Onvo zeigt unter anderem den aktualisierten Onvo L
 Die auf Personalisierung fokussierte Marke Firefly präsentiert eine überarbeitete Version ihres aktuellen Modells. Das 2026er Firefly EV, das am 7. April auf den Markt kam, bietet verbesserte Spezifikationen zum gleichen Preis, darunter eine erhöhte Motornennleistung auf 120 kW.
 
 Nio hält am 24. April von 10:00 bis 10:40 Uhr Pekinger Zeit einen Pressetermin ab.
-
-*Quelle: CnEVPost*

@@ -31,4 +31,3 @@ Der reguläre AVATR 07 startete in China im September 2024 als BEV- und EREV-Var
 Aktuell ist nicht bekannt, ob der AVATR 07L nach Europa kommt. AVATR (ein Joint Venture von Changan, Huawei und CATL) vertreibt bislang keine Modelle offiziell in Deutschland. Eine Europa-Strategie für die Langversion ist nicht kommuniziert.
 
 ---
-*Quelle: Autohome NewEnergy*

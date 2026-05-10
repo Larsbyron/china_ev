@@ -87,4 +87,3 @@ Die Auto Shanghai 2026 ist nicht nur eine reine Produktpräsentation, sondern ei
 **Hinweis:** Dieser Inhalt enthält möglicherweise nicht vollständig bestätigte Informationen von anderen Medien. Er dient nur zu Informationszwecken und stellt keine Anlageberatung dar.
 
 ---
-*Quelle: OFweek NEV*

@@ -19,5 +19,3 @@ Marktführer CATL konnte seine Position mit 25,71 GWh Installationen und einem M
 Bei den auf Nickel, Kobalt und Mangan basierenden Ternärzellen kommt CATL auf einen Marktanteil von 70,83 Prozent. Bei den Lithium-Eisen-Phosphat-Batterien (LFP), die besonders von BYD vorangetrieben werden, entfallen 39,6 Prozent auf CATL und 22,01 Prozent auf BYD.
 
 Die Zahlen spiegeln den intensiven Wettbewerb im chinesischen Batteriemarkt wider. Insbesondere BYD holt mit der eigenen Batterietechnologie und der Integration in seine Fahrzeugpalette zunehmend auf.
-
-*Quelle: CnEVPost*

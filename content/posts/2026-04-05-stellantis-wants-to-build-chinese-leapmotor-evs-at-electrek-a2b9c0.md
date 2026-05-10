@@ -16,4 +16,3 @@ original_url: "https://electrek.co/2026/04/02/stellantis-leapmotor-chinese-evs-b
 Stellantis führt laut Bloomberg frühe Gespräche über die Montage von Elektrofahrzeugen seines chinesischen Partners Leapmotor im stillgelegten Werk in Brampton, Ontario — eine Fabrik, die mit über 500 Millionen kanadischen Dollar an staatlichen Zuschüssen für die Jeep-Produktion umgerüstet werden sollte. Der Vorschlag hat bereits heftigen Widerstand von Ontarios Premier Doug Ford und der Gewerkschaft Unifor hervorgerufen, die etwa 3.000 entlassene Arbeiter in dem Werk vertritt. mehr…
 
 ---
-*Quelle: Electrek*

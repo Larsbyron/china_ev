@@ -21,5 +21,3 @@ Das Modell dominiert den Markt für große SUV in Peking und ist im ersten Quart
 Der kommerzielle Erfolg des ES8 war ein Schlüsselfaktor für Nios jüngste Finanzwende. Im ersten Quartal trug das Modell 45.184 Einheiten bei, was 54,14 Prozent von Nios Gesamtauslieferungen in diesem Zeitraum entspricht.
 
 Nio erwartet, dass der ES8 auch im laufenden Monat wieder mehr als 10.000 Einheiten pro Monat erreichen wird – den sechsten Monat in Folge. Zusätzlich ist für Juli eine Fünfsitzer-Version des ES8 geplant.
-
-*Quelle: CnEVPost*

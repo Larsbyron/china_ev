@@ -23,4 +23,3 @@ read_time_minutes: 2
 **Antrieb:** Laut vorheriger offizieller Anmeldeinformationen wurde die maximale Leistung des Motors beim neuen Seagull auf 60 kW erhöht, eine deutliche Steigerung gegenüber dem aktuellen Modell. Der aktuelle Seagull bietet zwei CLTC-Reichweitenversionen mit 305 km und 405 km. Ein Händler gab an, dass die Top-Version des neuen Modells eine CLTC-Reichweite von 505 km erreichen soll. Diese Information muss jedoch noch offiziell bestätigt werden. (Text: auto home / Qin Chao)
 
 ---
-*Quelle: Autohome NewEnergy*

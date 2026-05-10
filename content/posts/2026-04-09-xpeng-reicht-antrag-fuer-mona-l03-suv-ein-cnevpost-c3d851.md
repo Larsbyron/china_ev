@@ -21,5 +21,3 @@ Als Antrieb dient ein Elektromotor des Zulieferers Luxshare mit einer Spitzenlei
 Der L03 wird das zweite Modell der Mona-Familie und folgt auf die stark nachgefragte M03-Limousine, die seit August 2024 auf dem Markt ist. Das erste Modell der Marke entwickelte sich schnell zum meistverkauften XPeng. 2025 lieferte XPeng insgesamt 175.689 Einheiten des M03 aus – rund 41 Prozent aller Auslieferungen der Marke.
 
 Analysten sehen im L03 den Versuch von XPeng, die positive Momentum der Marke Mona auf den boomenden SUV-Markt zu übertragen und damit den Absatz insgesamt anzukurbeln.
-
-*Quelle: CnEVPost*

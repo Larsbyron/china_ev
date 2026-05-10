@@ -16,4 +16,3 @@ original_url: "https://cnevpost.com/2026/04/03/onvo-l90-reaches-50000-deliveries
 Nio verzeichnet ein starkes Verkaufswachstum, wobei seine aktualisierten Modelle ES8 und der kompakte Firefly kürzlich bedeutende Auslieferungsmeilensteine erreicht haben. Für weitere Informationen besuchen Sie bitte CnEVPost.
 
 ---
-*Quelle: CnEVPost*

@@ -21,5 +21,3 @@ Im Innenraum bietet der GX großzügigen Platz bis in die dritte Reihe – selte
 Das GX basiert auf XPengs SEPA-3.0-Plattform und ist als erstes „robotaxi-bereites" Serienfahrzeug positioniert. Es läuft auf vier hauseigenen Turing-KI-Chips mit 3.000 TOPS Rechenleistung und unterstützt XPengs zweite Generation VLA (Vision-Language-Action) für autonomes Fahren.
 
 Die BEV-Version bietet 750 km Reichweite mit 5C-Schnellladung auf einer 800-Volt-SiC-Plattform. Die EREV-Variante kommt auf 430 km E-Reichweite und 1.585 km Gesamtreichweite.
-
-*Quelle: Electrek*

@@ -21,5 +21,3 @@ Das Fahrzeug nutzt das Zhenlong-Plug-in-Hybridsystem mit einem 1,5-Liter-Motor u
 Der Electra E7 ist mit 27 Sensoren für das Fahrerassistenzsystem ausgestattet, einschließlich eines Dach-LiDAR. Das System integriert das R6-Großmodell des chinesischen Startups Momenta für automatisiertes Fahren auf Autobahnen und in der Stadt.
 
 Kurze Zeit nach der Markteinführung meldete Buick auf Weibo bereits 10.797 Festbestellungen innerhalb der ersten 90 Minuten – ein deutliches Signal für das Interesse am neuen Modell.
-
-*Quelle: CnEVPost*

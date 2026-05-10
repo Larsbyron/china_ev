@@ -45,4 +45,3 @@ Sina Auto Feedback Board
 Copyright ©1996-2026 SINA Corporation Alle Rechte vorbehalten Sina Company
 
 ---
-*Quelle: Sina*

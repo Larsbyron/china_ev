@@ -15,6 +15,15 @@ function ArticlesListingInner({ articles, tags }: { articles: ArticleMeta[]; tag
   const activeTag = searchParams.get('tag') || null
   const currentPage = Math.max(1, parseInt(searchParams.get('page') || '1', 10))
 
+  // Count tag frequency across all articles for sizing
+  const tagCounts: Record<string, number> = {}
+  for (const article of articles) {
+    for (const tag of article.tags) {
+      tagCounts[tag] = (tagCounts[tag] || 0) + 1
+    }
+  }
+  const maxCount = Math.max(...Object.values(tagCounts), 1)
+
   const filtered = activeTag
     ? articles.filter((a) => a.tags.includes(activeTag))
     : articles
@@ -22,6 +31,13 @@ function ArticlesListingInner({ articles, tags }: { articles: ArticleMeta[]; tag
   const totalPages = Math.ceil(filtered.length / ARTICLES_PER_PAGE)
   const startIndex = (currentPage - 1) * ARTICLES_PER_PAGE
   const pageArticles = filtered.slice(startIndex, startIndex + ARTICLES_PER_PAGE)
+
+  function tagSizeClass(count: number): string {
+    const ratio = count / maxCount
+    if (ratio >= 0.7) return styles.tagLg
+    if (ratio >= 0.4) return styles.tagMd
+    return styles.tagSm
+  }
 
   return (
     <>
@@ -37,7 +53,7 @@ function ArticlesListingInner({ articles, tags }: { articles: ArticleMeta[]; tag
             <Link
               key={tag}
               href={`/articles?tag=${encodeURIComponent(tag)}`}
-              className={`${styles.tagBtn} ${activeTag === tag ? styles.tagBtnActive : ''}`}
+              className={`${styles.tagBtn} ${tagSizeClass(tagCounts[tag] || 1)} ${activeTag === tag ? styles.tagBtnActive : ''}`}
             >
               {tag}
             </Link>

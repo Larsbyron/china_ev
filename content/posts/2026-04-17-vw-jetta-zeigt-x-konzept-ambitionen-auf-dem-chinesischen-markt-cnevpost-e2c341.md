@@ -21,5 +21,3 @@ Bereits im Januar hatte FAW-Volkswagen angekündigt, dass die Marke Jetta ein ne
 Volkswagen als strategischer Hauptpartner wird der neuen Firma sein weltweites Forschungs- und Entwicklungsnetzwerk öffnen und fortschrittliche Elektrifizierungsplattformen bereitstellen. Das Unternehmen plant bis 2028 fünf Neuwagen auf den Markt zu bringen, vier davon als NEV.
 
 Jettas mittelfristiges Ziel liegt bei 400.000 bis 500.000 jährlichen Fahrzeugverkäufen. Das erste NEV-Modell von Jetta soll im dritten Quartal 2026 enthüllt und im vierten Quartal 2026 auf den Markt kommen.
-
-*Quelle: CnEVPost*

@@ -21,5 +21,3 @@ Der Zeekr 9X ist das erste Hybridmodell der Marke und zielt auf den lukrativen L
 In der Oberklasse arbeitet ein Dreimotoren-Megawatt-Antriebssystem mit einer Spitzenleistung von bis zu 1.030 kW (1.381 PS). Damit beschleunigt das große Luxus-SUV in nur 3,1 Sekunden von null auf 100 km/h.
 
 Zeekr treibt die Erweiterung seiner Hybridpalette aggressiv voran und hat kürzlich bereits den zweiten Hybrid-SUV, den Zeekr 8X, auf den Markt gebracht.
-
-*Quelle: CnEVPost*

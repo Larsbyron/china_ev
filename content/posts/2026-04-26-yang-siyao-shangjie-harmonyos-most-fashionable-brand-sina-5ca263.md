@@ -24,5 +24,3 @@ Bei einem exklusiven Interview mit Sina Auto sagte Yang Siyao, Marketing Directo
 Bezüglich der intelligenten Fahrfähigkeiten des neuen Fahrzeugs erklärte Yang, dass das Fahrzeug mit Huaweis neuestem 896-Linien-LiDAR-System ausgestattet wird und bei der Auslieferung auf ADS 5.0 aufgerüstet wird.
 
 Die Marke plant für die Zukunft zahlreiche weitere Modelle mit unterschiedlichen Charakteristika, um die sich entwickelnden Bedürfnisse der Verbraucher zu erfüllen.
-
-*Quelle: Sina*

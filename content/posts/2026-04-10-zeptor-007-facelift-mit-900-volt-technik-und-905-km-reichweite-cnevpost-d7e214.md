@@ -21,5 +21,3 @@ Beide Modelle profitieren von einem bedeutenden Technologie-Upgrade: Die neue 90
 Dank der deutlich gestiegenen Ladeleistung soll der 007 in nur 2,73 Sekunden von null auf 100 km/h beschleunigen. Serienmäßig verfügen beide Modelle über LiDAR-Sensoren und den leistungsfähigeren Nvidia-Drive-Thor-U-Chip für das autonome Fahren.
 
 Zum Jubiläum des 007 präsentiert Zeekr zudem eine auf 365.000 Yuan limitierte 001-Fünfjahresedition, die mit 2,91 Sekunden auf 100 km/h besonders für die Rennstrecke optimiert ist.
-
-*Quelle: CnEVPost*

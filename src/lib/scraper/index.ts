@@ -3,7 +3,7 @@
 import { writeFileSync, appendFileSync, existsSync, mkdirSync, readdirSync, readFileSync } from 'fs'
 import { resolve, join } from 'path'
 import type { Article, ScraperOptions, ScraperResult, ProcessedArticles, SourceName } from '../article'
-import { generateSlug, estimateReadTime, toISODateString } from '../article'
+import { generateSlug, estimateReadTime, toISODateString, sanitizeDescription, truncateText } from '../article'
 import { loadFingerprints, saveFingerprints, computeFingerprint, rebuildFingerprintsFromDisk } from './dedup'
 import { scrapeAutohome } from './sources/autohome'
 import { scrapeIfeng } from './sources/ifeng'
@@ -82,19 +82,15 @@ function saveArticle(article: Article, draft = false): string {
   const date = toISODateString(new Date())
   const readTime = estimateReadTime(article.content)
 
-  // Use AI-generated description if available, otherwise derive from content
-  const description = (article.description && article.description.length > 20)
-    ? article.description.replace(/"/g, "'").slice(0, 300)
-    : (article.content
-        .replace(/<[^>]+>/g, '')
-        .trim()
-        .slice(0, 200)
-        .replace(/"/g, "'") + '...')
+  // Sanitize description to remove markdown artifacts and scraping residue
+  const cleanDescription = article.description
+    ? sanitizeDescription(article.description, article.content)
+    : truncateText(article.content.replace(/<[^>]+>/g, '').replace(/\*{1,3}[^*]+\*{1,3}/g, '').replace(/[#>\[\]`]/g, '').replace(/\s+/g, ' ').trim(), 200)
 
   const frontmatter = {
     title: article.title,
     date,
-    description,
+    description: cleanDescription,
     source: article.source,
     image: article.image || null,
     category: 'news',
@@ -122,9 +118,6 @@ read_time_minutes: ${frontmatter.read_time_minutes}
 # ${frontmatter.title}
 
 ${article.content}
-
----
-*Quelle: ${frontmatter.source}*
 `
 
   const targetDir = draft ? DRAFTS_DIR : CONTENT_DIR

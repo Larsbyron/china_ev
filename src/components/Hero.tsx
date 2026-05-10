@@ -53,22 +53,30 @@ export default function Hero({ article }: HeroProps) {
           </div>
         </div>
 
-        {article.image && (
-          <div className={styles.visual}>
-            <div className={styles.imageWrapper}>
-              <img
-                src={article.image}
-                alt=""
-                className={styles.image}
-                width={1200}
-                height={900}
-                loading="eager"
-                fetchPriority="high"
-              />
-              <div className={styles.imageOverlay} aria-hidden="true" />
-            </div>
+        <div className={styles.visual}>
+          <div className={styles.imageWrapper}>
+            {article.image ? (
+              <>
+                <img
+                  src={article.image}
+                  alt=""
+                  className={styles.image}
+                  width={1200}
+                  height={900}
+                  loading="eager"
+                  fetchPriority="high"
+                />
+                <div className={styles.imageOverlay} aria-hidden="true" />
+              </>
+            ) : (
+              <div className={styles.imageFallback}>
+                <span className={styles.fallbackLabel}>
+                  {article.brand || article.source}
+                </span>
+              </div>
+            )}
           </div>
-        )}
+        </div>
       </div>
     </section>
   )

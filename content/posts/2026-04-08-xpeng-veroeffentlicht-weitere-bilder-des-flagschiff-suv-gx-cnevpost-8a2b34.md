@@ -23,5 +23,3 @@ Mit einer Länge von 5.265 Millimetern und einem Radstand von 3.115 Millimetern 
 Eine Besonderheit: Der GX verzichtet auf LiDAR-Sensoren und setzt stattdessen auf eine reine Visionslösung für das autonome Fahren. Drei hauseigene Turing-KI-Chips mit einer Rechenleistung von 2.250 TOPS sollen das Fahrzeug für hochautomatisches Fahren rüsten.
 
 Marktbeobachter schätzen den Preis des GX auf 400.000 bis 500.000 Yuan (etwa 54.000 bis 68.000 Euro).
-
-*Quelle: CnEVPost*

@@ -36,4 +36,3 @@ Aktuelle Modelle in Deutschland: **MG4, MG5, MG ZS EV, MG HS PHEV, Cyberster**.
 MG (ursprünglich britische Marke, heute Teil von SAIC) ist eine der meistverkauften chinesischen Marken in Deutschland.
 
 ---
-*Quelle: Autohome NewEnergy*

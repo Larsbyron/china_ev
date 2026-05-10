@@ -14,8 +14,8 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
       href={`/articles/${article.slug}`}
       className={`${styles.card} ${featured ? styles.featured : ''}`}
     >
-      {article.image && (
-        <div className={styles.imageWrapper}>
+      <div className={styles.imageWrapper}>
+        {article.image ? (
           <img
             src={article.image}
             alt={article.title}
@@ -25,8 +25,14 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             loading={featured ? 'eager' : 'lazy'}
             decoding="async"
           />
-        </div>
-      )}
+        ) : (
+          <div className={styles.imageFallback}>
+            <span className={styles.fallbackLabel}>
+              {article.brand || article.source}
+            </span>
+          </div>
+        )}
+      </div>
 
       <div className={styles.content}>
         <div className={styles.meta}>

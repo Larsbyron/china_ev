@@ -23,4 +23,3 @@ In diesem Monat verkaufte sich der Ti 3 5.206 Mal – bereits den zweiten Monat 
 Als individualisierte Marke unter BYD legte Fangchengbao im April erneut ein beeindruckendes Ergebnis vor. Die Markenverkäufe stiegen stetig und erzielten sowohl im Jahres- als auch im Monatsvergleich zweistellige Zuwächse – die Marktentwicklung bleibt positiv. Das Flaggschiff-Modell Ti 7 beherrscht weiterhin den Markt für mittelgroße und große SUVs, während der Ti 3 großes Absatzpotenzial zeigt – gemeinsam bilden sie die starke Wachstumsdynamik der Marke. Mit der schrittweisen Vervollständigung der Produktpalette ist die Zukunft von Fangchengbao noch vielversprechender.
 
 ---
-*Quelle: Sina*

@@ -19,5 +19,3 @@ Das Fahrzeug basiert auf der Plattform des BYD Sealion 06 EV und startet bei 95.
 Der Linghui E7 misst 4.780 mm in der Länge, 1.900 mm in der Breite und 1.530 mm in der Höhe bei einem Radstand von 2.820 mm. Eine Besonderheit ist die Auslegung auf intensive Nutzung: Das Fahrzeug ist für eine Betriebsdauer von sechs Jahren oder 600.000 Kilometern ausgelegt und hat 9.600 Runden intensiver Straßentests durchlaufen – doppelt so viel wie ein Familienfahrzeug.
 
 Wie bei BYD üblich, ist auch der E7 mit der neuen Flash-Charging-Technologie und der zweiten Generation der Blade-Batterie ausgestattet. Die Ladung von 10 auf 70 Prozent soll in nur fünf Minuten möglich sein, die Vollladung in neun Minuten.
-
-*Quelle: CnEVPost*

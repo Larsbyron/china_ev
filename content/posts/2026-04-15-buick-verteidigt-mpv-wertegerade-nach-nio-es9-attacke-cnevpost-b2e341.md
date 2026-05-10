@@ -21,5 +21,3 @@ Buick lud William Li persönlich ein, am 28. April zur Vorstellung des neuen Bui
 Mit dem ES9 bietet Nio ein SUV mit massivem Innenraum und Liegekomfort, das in seinen Abmessungen (5.365 mm Länge, 2.029 mm Breite, 1.870 mm Höhe, Radstand 3.250 mm) als größtes SUV Chinas gilt und explizit als Alternative zum klassischen Van positioniert wird.
 
 Buick blickt auf eine 27-jährige Erfahrung in der MPV-Fertigung zurück und will diese Tradition nicht ohne Weiteres aufgeben.
-
-*Quelle: CnEVPost*

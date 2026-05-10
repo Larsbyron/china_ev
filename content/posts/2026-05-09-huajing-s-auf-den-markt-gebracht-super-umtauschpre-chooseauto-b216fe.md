@@ -1,10 +1,7 @@
 ---
 title: "HuaJing S auf den Markt gebracht: Super-Umtauschpreis ab 149.800 Yuan"
 date: 2026-05-09T23:21:23.264Z
-description: "**
-
-**HuaJing S auf den Markt gebracht: Super-Umtauschpreis ab 149.800 Yuan**
-Auto Talk 2026/5/10 0:31:00 0 Aufrufe Am 8. Mai wurde der HuaJing S, das erste Flaggschiff-SUV mit sechs Sitzen, das gemei..."
+description: "HuaJing S auf den Markt gebracht: Super-Umtauschpreis ab 149.800 YuanIntelligentes Zuhause: Die Huawei Qiankun-Komplettausstattung für jedermannSicheres Zuhause: Rundumschutz für das tägliche FamilienglückGeräumiges Zuhause: Echte drei Sit..."
 source: "ChooseAuto"
 category: "news"
 
@@ -50,4 +47,3 @@ Dank der Produktionskapazitäten der weltweit führenden Lieferkette wird die Pr
 **Alle Kommentare .0** Sie sind noch nicht angemeldet. Sie können keine Kommentare abgeben. 0/150 Veröffentlichen. Nach Relevanz. Nach Zeit. Noch keine Kommentare. Seien Sie der Erste, der kommentiert! Veröffentlichen. 0 Werke. 0 Follower. 0 Likes. Seine Werke. Mehr ansehen >
 
 ---
-*Quelle: ChooseAuto*

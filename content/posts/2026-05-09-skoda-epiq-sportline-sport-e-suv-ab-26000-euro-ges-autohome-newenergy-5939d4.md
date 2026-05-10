@@ -38,4 +38,3 @@ Der Skoda Epiq Sportline wird von einem einzelnen Frontmotor angetrieben. Die Le
 Der Skoda Epiq Sportline wird in Europa ab 2027 erhältlich sein. Ein Marktstart in Deutschland ist ebenfalls für 2027 geplant. Die Preise beginnen voraussichtlich bei rund 26.000 Euro.
 
 ---
-*Quelle: Autohome NewEnergy*

@@ -23,5 +23,3 @@ Mit über 1.000 PS beschleunigt der Denza Z in weniger als 2 Sekunden von 0 auf 
 BYD testet das neue Modell bereits auf der legendären Nürburgring-Nordschleife vor dem globalen Launch diesen Sommer beim Goodwood Festival of Speed.
 
 Denza führt ein Gewinnspiel durch, um die drei angeboten Editionen zu benennen: Standard, Cabrio und Track.
-
-*Quelle: Electrek*

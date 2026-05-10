@@ -21,5 +21,3 @@ Zudem kündigte Li Auto Markteintritte in Kambodscha, Laos, Macau und Myanmar an
 Europa bleibt ein Kernmarkt für Li Autos nächste Expansionsphase. Das Unternehmen bestätigte seine Teilnahme an der Paris Motor Show 2026.
 
 Derzeit befindet sich Li Autos Auslandsgeschäft noch in einem frühen Stadium. Wie Präsident Ma Donghui erklärte, liegt der Fokus nicht auf kurzfristigen Verkäufen und Bruttomargen, sondern auf der Entwicklung von Systemen und Strukturen.
-
-*Quelle: CnEVPost*

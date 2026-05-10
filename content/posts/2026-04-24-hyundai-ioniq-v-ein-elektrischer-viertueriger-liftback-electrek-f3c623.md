@@ -19,5 +19,3 @@ Das Fahrzeug führt Hyundais neues „The Origin"-Design für die reine Elektrof
 Mit 4.900 mm Länge und 1.890 mm Breite bietet der IONIQ V einen Radstand von 2.900 mm, der laut Hyundai Klassenbestleistung bei den Beinfreiheiten bietet – 1.078 mm vorne und 1.019 mm hinten. Im Innenraum erstreckt sich ein 27-Zoll-4K-Touchscreen über die rechte Seite des Armaturenbretts, angetrieben von einem Qualcomm Snapdragon 8295-Chipsatz mit einem LLM-basierten KI-Assistenten.
 
 Hyundai und sein lokaler Partner BAIC haben acht Milliarden Yuan (etwa 1,1 Milliarden Dollar) investiert, um bis 2030 über 20 neue Modelle in China auf den Markt zu bringen und 500.000 Jahresverkäufe zu erreichen.
-
-*Quelle: Electrek*

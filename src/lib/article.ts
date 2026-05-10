@@ -112,3 +112,70 @@ export function truncateText(text: string, maxLength: number): string {
   if (text.length <= maxLength) return text
   return text.slice(0, maxLength - 3) + '...'
 }
+
+/**
+ * Strip markdown syntax from text (bold, italic, headings, links, code)
+ */
+export function stripMarkdown(text: string): string {
+  return text
+    .replace(/\*{1,3}([^*]+?)\*{1,3}/g, '$1')  // bold/italic
+    .replace(/_{1,3}([^_]+?)_{1,3}/g, '$1')       // underline bold/italic
+    .replace(/`{1,3}([^`]+?)`{1,3}/g, '$1')       // inline code
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')       // links
+    .replace(/^#{1,6}\s+/gm, '')                    // headings
+    .replace(/^[>\s]*[>-]\s+/gm, '')                // blockquotes / lists
+    .trim()
+}
+
+/**
+ * Remove common scraping artifacts from article descriptions.
+ * Matches patterns from Chinese auto news sources that leak into content.
+ */
+export function stripScrapingArtifacts(text: string): string {
+  return text
+    // Source site metadata lines
+    .replace(/(?:Original|原)?\s*(?:AutoLab|Auto\s*Talk|Car\s*Impression|Aiwangerche|Autonome\s*Fahrtechnologie)[^0-9\n]*/gi, '')
+    // Date/time/view patterns: "2026/5/10 0:31:00 0 Aufrufe", "2026/5/10 0:48:19 0 Ansichten"
+    .replace(/\d{4}\/\d{1,2}\/\d{1,2}\s+\d{1,2}:\d{2}:\d{2}\s+\d+\s*(?:Aufrufe|Ansichten|Views?|Aufrufe?|views?)/gi, '')
+    // "0 Kommentare", "0 Aufrufe" remnants
+    .replace(/\d+\s*(?:Kommentare?|Aufrufe|Ansichten|Views?)/gi, '')
+    // "Schriftgröße Standard Klein Modus Scrollen"
+    .replace(/Schriftgr(?:ö|o)(?:ß|ss)e\s*(?:Standard|Klein|Gro(?:ß|ss)|Mittel)\s*(?:Modus\s*)?(?:Scrollen)?/gi, '')
+    // "Quelle: <source> | VR China |" metadata prefix only — not the whole line
+    .replace(/Quelle:\s*(?:Autonome\s*Fahrtechnologie|Auto\s*Talk|AutoLab|Car\s*Impression|Aiwangerche)\s*(?:\|\s*VR\s*China\s*\|)?\s*/gi, '')
+    // Multiple consecutive spaces
+    .replace(/\s{2,}/g, ' ')
+    // Leading/trailing whitespace and empty lines
+    .replace(/^\s+|\s+$/g, '')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim()
+}
+
+/**
+ * Sanitize article description: strip markdown, remove scraping artifacts,
+ * and derive a clean fallback from content if the result is too short.
+ */
+export function sanitizeDescription(description: string, content: string): string {
+  let cleaned = description
+
+  // Strip markdown syntax
+  cleaned = stripMarkdown(cleaned)
+
+  // Remove scraping artifacts
+  cleaned = stripScrapingArtifacts(cleaned)
+
+  // If the cleaned description is too short or empty, derive from content
+  if (cleaned.length < 30) {
+    cleaned = content
+      .replace(/\*{1,3}[^*]+\*{1,3}/g, '')  // strip bold
+      .replace(/[#>\[\]`]/g, '')              // strip markdown chars
+      .replace(/\s+/g, ' ')
+      .trim()
+      .slice(0, 200)
+    if (cleaned.length > 180) {
+      cleaned = cleaned.slice(0, 180) + '...'
+    }
+  }
+
+  return cleaned.slice(0, 300)
+}

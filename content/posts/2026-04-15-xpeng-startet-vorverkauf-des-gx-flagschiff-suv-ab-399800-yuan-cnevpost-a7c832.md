@@ -21,5 +21,3 @@ Basierend auf XPengs neuer SEPA-3.0-Plattform ist der GX vollständig auf hochau
 Die BEV-Version nutzt eine 800-Volt-SiC-Plattform mit 5C-Schnellladung und eine 110-kWh-Batterie für bis zu 750 Kilometer Reichweite nach CLTC. Die EREV-Variante kommt mit 63,3 kWh auf 430 Kilometer elektrische Reichweite und über 1.585 Kilometer Gesamtreichweite.
 
 Ab dem 18. April sollen die ersten Ausstellungsfahrzeuge in den nationalen Stores eintreffen.
-
-*Quelle: CnEVPost*

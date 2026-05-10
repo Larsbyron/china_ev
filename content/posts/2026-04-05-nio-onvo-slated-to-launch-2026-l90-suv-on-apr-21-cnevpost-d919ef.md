@@ -1,7 +1,7 @@
 ---
 title: "Nio Onvo soll 2026 L90 SUV am 21. April auf den Markt bringen"
 date: 2026-04-05T14:39:31.627360
-description: "Nio Inc's Submarke Onvo wird am 21. April offiziell den 2026 L90 SUV (Sport Utility Vehicle) auf den Markt bringen, mit wesentlichen Upgrades für sein intelligentes Fahrsystem.  Das lokale Automobilme..."
+description: "Nio Inc's Submarke Onvo wird am 21. April offiziell den 2026 L90 SUV (Sport Utility Vehicle) auf den Markt bringen, mit wesentlichen Upgrades für sein intelligentes Fahrsystem. Das lokale Automobilme..."
 source: "CnEVPost"
 image: "https://cnevpost.com/wp-content/uploads/2026/04/2026040309335260.jpg"
 category: "news"
@@ -44,4 +44,3 @@ Onvo bereitet sich auch darauf vor, seine Produktpalette zu erweitern, wobei die
 Darüber hinaus hat Onvo laut Berichten die Entwicklung von zwei neuen Massenmarktmodellen im Preisbereich von 200.000 Yuan wieder aufgenommen, um die Gesamtverkäufe in Zukunft weiter zu stärken.
 
 ---
-*Quelle: CnEVPost*

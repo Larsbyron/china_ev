@@ -1,9 +1,7 @@
 ---
 title: "Der Verteidigungskampf der Joint Ventures: Vorschau auf die neuen Modelle der Shanghai Auto Show 2026"
 date: 2026-05-09T23:15:41.239Z
-description: "**
-
-Die jährliche Auto-Show-Saison ist offiziell eröffnet. Auf der Beijing Auto Show 2024 erstreckte sich die Ausstellungsfläche über 380.000 Quadratmeter, vor Ort wurden 1.451 Fahrzeuge gezeigt, daru..."
+description: "Mercedes-Benz GLC LBMW i7BMW iX3BMW i3 LimousineAudi E7XVW ID. AURA T6Jetta XWeitere Joint-Venture-Modelle und Rückkehrer Auch die französischen Marken Peugeot und Citroën sind auf der Shanghai Auto Show 2026 mit einem vollständi..."
 source: "OFweek NEV"
 image: "https://mp.ofweek.com/Upload/News/Img/member5403/202604/wx_article__5f8e40c441e59dea7212fd72794142c8.jpg"
 category: "news"
@@ -52,4 +50,3 @@ Auch die französischen Marken Peugeot und Citroën sind auf der Shanghai Auto S
 Originaltext: Der Verteidigungskampf der Joint Ventures: Vorschau auf die neuen Modelle der Shanghai Auto Show 2026
 
 ---
-*Quelle: OFweek NEV*

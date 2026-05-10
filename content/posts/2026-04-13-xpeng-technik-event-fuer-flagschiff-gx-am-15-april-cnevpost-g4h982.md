@@ -21,5 +21,3 @@ In der rein elektrischen Variante soll der GX eine Reichweite von bis zu 750 Kil
 Für das autonome Fahren setzt XPeng auf seine hauseigenen Turing-KI-Chips – vier an der Zahl – mit einer effektiven Rechenleistung von 3.000 TOPS. Damit will das Unternehmen das Fahrzeug als „Robotaxi-fähig" positionieren.
 
 Marktexperten schätzen den Preis für den GX auf 400.000 bis 500.000 Yuan (etwa 58.500 bis 73.000 Euro). Der Verkaufsstart ist für das zweite Quartal 2026 geplant.
-
-*Quelle: CnEVPost*

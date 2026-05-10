@@ -16,4 +16,3 @@ original_url: "https://electrek.co/2026/04/02/mercedes-steer-by-wire-yoke-steeri
 Mercedes-Benz hat bestätigt, dass die Steer-by-Wire-Technologie 2026 eingeführt wird und damit der erste deutsche Automobilhersteller ist, der das System in die Serienproduktion bringt. Die überarbeitete Elektro-Limousine EQS wird das erste Modell sein, das es erhält. Zusammen mit dem neuen Lenksystem verzichtet Mercedes auf das traditionelle runde Lenkrad und setzt auf ein flaches Yoke-Design — und das ist ein Look, der die Meinungen spalten wird. mehr…
 
 ---
-*Quelle: Electrek*

@@ -21,4 +21,3 @@ Der Zeekr 8X erreichte innerhalb von 13 Tagen nach Markteinführung fast 3.500 A
 Der erneuerte Zeekr 009 ist bereits im Vorverkauf und wird Mitte Mai offiziell auf den Markt kommen. Das Fahrzeug ist bereits in den landesweiten Filialen zu sehen – willkommen zu Probefahrt und Erlebnis.
 
 ---
-*Quelle: Sina*

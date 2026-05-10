@@ -19,5 +19,3 @@ Laut XPeng ist das M03 besonders bei jungen Käufern beliebt. Das Unternehmen be
 Um die Dynamik aufrechtzuerhalten, hat XPeng bereits eine überarbeitete Version des M03 für 2026 vorgestellt. Das Update behält den ursprünglichen Startpreis von 119.800 Yuan (etwa 17.500 Euro) bei, bringt aber den selbst entwickelten Turing-KI-Chip erstmals in höheren Ausstattungsvarianten ins Fahrzeug. Die maximale Reichweite stieg von 620 auf 640 Kilometer.
 
 Zugleich bereitet XPeng mit dem L03 einen Nachfolger in der SUV-Kategorie vor, wie aus einem aktuellen Antrag beim Industrie- und Informationstechnologieministerium hervorgeht. Analysten sehen darin den Versuch, den Erfolg der Marke Mona auf das boomende SUV-Segment auszuweiten.
-
-*Quelle: CnEVPost*

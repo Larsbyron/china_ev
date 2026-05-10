@@ -21,5 +21,3 @@ Der Auslöser: Dongfeng Nissan hatte wenige Tage zuvor, am 9. April, sein neues 
 Dongfeng Nissans Exekutiv-Vizepräsident Xin Yu hatte in seiner Präsentation mehrfach direkt die Technologie seines Unternehmens mit der von Li Auto verglichen – ein Schachzug, der im chinesischen Markt als Provokation verstanden wurde.
 
 Li Auto kündigte an, alle erforderlichen Beweise gesammelt zu haben und rechtliche Schritte gegen die Verantwortlichen einzuleiten. Die Rechtsabteilung reichte Strafanzeige bei der Polizei ein.
-
-*Quelle: CnEVPost*

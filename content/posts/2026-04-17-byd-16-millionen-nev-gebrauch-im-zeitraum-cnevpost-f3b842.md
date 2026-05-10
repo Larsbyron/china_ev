@@ -21,5 +21,3 @@ Die zweite Generation des Denza D9 hatte am 29. März mit dem Vorverkauf begonne
 Alle Modelle der neuen Generation serienmäßig mit BYDs fortschrittlichstem Fahrerassistenzsystem „God's Eye 5.0" ausgestattet.
 
 BYD produzierte sein erstes NEV-Modell im Dezember 2008. Die eine-Millionen-Marke wurde erst im Mai 2021 erreicht – danach beschleunigte sich das Wachstum jedoch dramatisch.
-
-*Quelle: CnEVPost*

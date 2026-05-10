@@ -1,3 +1,9 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
 .form {
   display: flex;
   gap: var(--space-3);
@@ -39,6 +45,7 @@
 
 .button:hover {
   opacity: 0.9;
+  box-shadow: 0 0 16px rgba(48, 209, 88, 0.25);
 }
 
 .success {

@@ -19,5 +19,3 @@ Der Zeekr 8X begann vergangene Woche mit dem Vorverkauf zu einem Startpreis von 
 Angetrieben wird der 8X von einer 70-kWh-Batterie mit 6C-Schnellladefähigkeit, die eine rein elektrische Reichweite von bis zu 410 Kilometern nach CLTC-Norm ermöglicht. Mit vollem Tank und voller Ladung kommt das Fahrzeug auf eine Gesamtreichweite von 1.416 Kilometern. Dank der 900-Volt-Architektur lässt sich die Batterie bei Raumtemperatur in nur neun Minuten von 20 auf 80 Prozent laden.
 
 Das Modell wird als Mittler bis Großes Plug-in-Hybrid-SUV in Fünf- und Sechssitzer-Konfigurationen angeboten. Zeekr-Vertriebschef Liu Dehao erklärte, man habe sich bewusst für eine sofortige Auslieferung entschieden, um der hohen Kundennachfrage gerecht zu werden.
-
-*Quelle: CnEVPost*

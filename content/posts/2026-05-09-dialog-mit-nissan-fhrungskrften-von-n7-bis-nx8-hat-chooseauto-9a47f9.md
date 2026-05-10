@@ -1,9 +1,7 @@
 ---
 title: "Dialog mit Nissan-Führungskräften: Von N7 bis NX8 – hat Nissan endlich den chinesischen Rhythmus getroffen?"
 date: 2026-05-09T23:19:41.917Z
-description: "**
-
-Dialog mit Nissan-Führungskräften: Von N7 bis NX8 – hat Nissan endlich den chinesischen Rhythmus getroffen? Original AutoLab 2026/5/10 0:54:43 0 Aufrufe Auch Joint-Venture-Autos haben New Energy, ..."
+description: "Frage:Ivan Espinosa:Frage:Ivan Espinosa:Frage:Ma Zhixin:Frage:Ma Zhixin:Guillaume Cartier:Frage:Ivan Espinosa:Frage:Ivan Espinosa:Frage:Ivan Espinosa:Guillaume Cartier:Ivan Espinosa:Frage:Ma Zhixin:Frage:I..."
 source: "ChooseAuto"
 category: "news"
 
@@ -94,4 +92,3 @@ Schließlich haben wir noch "Kooperations- und Synergiemodelle", die wir gemeins
 **Tags:** Teilen: Melden Alle Kommentare.0 Sie sind noch nicht angemeldet, können keinen Kommentar abgeben 0/150 Veröffentlichen Nach Relevanz Nach Zeit Noch keine Kommentare, schnappen Sie sich das Sofa! Veröffentlichen 0 Werke 0 Fans 0 Likes Seine Werke Alle ansehen>
 
 ---
-*Quelle: ChooseAuto*

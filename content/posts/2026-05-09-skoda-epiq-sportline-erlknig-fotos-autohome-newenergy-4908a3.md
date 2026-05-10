@@ -23,4 +23,3 @@ Was den Innenraum betrifft, zeigt das bisherige Teaser-Bild ein 5,3-Zoll-sechsec
 In puncto Antrieb ist das Fahrzeug mit einem einzelnen Frontmotor und einem rein elektrischen Antriebsstrang ausgestattet. Die maximale Leistung beträgt 211 PS, der Akku hat eine Kapazität von 55 kWh. Die Beschleunigung von 0 auf 100 km/h liegt unter 7 Sekunden. Zum Vergleich: Die Basisversion leistet 114 PS, eine andere Version 208 PS. Bei den Batterien stehen zwei Optionen zur Verfügung: 38,5 kWh und 55 kWh, die rein elektrische Reichweite beträgt 315 km bzw. 430 km. (Text/Autohome Yao Yu)
 
 ---
-*Quelle: Autohome NewEnergy*

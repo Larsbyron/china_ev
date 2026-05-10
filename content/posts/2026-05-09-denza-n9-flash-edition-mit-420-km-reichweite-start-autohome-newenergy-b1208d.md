@@ -35,4 +35,3 @@ Mit seiner Größe und Ausstattung tritt der N9 gegen Modelle wie den Mercedes G
 Denza (腾势) ist die Luxusmarke von BYD. Während BYD mit Modellen wie Atto 2, Atto 3, Dolphin, Seal, Sealion 7 und Han bereits auf dem deutschen Markt vertreten ist, hat Denza bislang keinen offiziellen Marktstart in Europa angekündigt. Eine Einführung in Deutschland gilt als unwahrscheinlich, solange kein spezifischer Lokalisierungsplan bekannt gegeben wird.
 
 ---
-*Quelle: Autohome NewEnergy*

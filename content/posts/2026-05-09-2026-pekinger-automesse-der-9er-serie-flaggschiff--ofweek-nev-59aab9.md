@@ -1,9 +1,7 @@
 ---
 title: "2026 Pekinger Automesse: Der „9er-Serie“-Flaggschiff-Kampf der SUV-Giganten"
 date: 2026-05-09T23:14:50.959Z
-description: "**
-
-Die 2026er Peking Auto Show hat ein gutes Dutzend Top-Modelle versammelt, darunter die High-End-Flaggschiff-SUVs Li Auto L9 Livis, NIO ES9, Denza D9, AITO M9, XPeng X9, Wey V9X, VW Anhui ID.ERA 9X..."
+description: "Li Auto L9 LivisNIO ES9AITO M9VW Anhui ID.ERA 9XWey V9XLeapmotor D19Bild"
 source: "OFweek NEV"
 image: "https://mp.ofweek.com/Upload/News/Img/member5403/202605/wx_article__4eedfd2141f5a22fbef29dacf9460f63.jpg"
 category: "news"
@@ -45,4 +43,3 @@ Die „9er-Serie“ hat sich bereits formiert: Li Auto und AITO setzen auf Techn
 *Originaltitel: 2026 Pekinger Automesse: Der „9er-Serie“-Flaggschiff-Kampf der SUV-Giganten*
 
 ---
-*Quelle: OFweek NEV*

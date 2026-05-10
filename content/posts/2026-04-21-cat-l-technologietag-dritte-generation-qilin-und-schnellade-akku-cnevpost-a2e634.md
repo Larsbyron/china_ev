@@ -23,5 +23,3 @@ Ebenfalls neu: die dritte Generation der Shenxing-Schnelladebatterie, die von 10
 Für erweiterte Reichweiten- und Plug-in-Hybridmodelle präsentiert CATL die zweite Generation der Freevoy Super Hybrid Battery mit 500 Kilometern rein elektrischer Reichweite und 10C Laderate. Eine NCM-Version bietet 600 Kilometer E-Reichweite und 2.000 Kilometer Gesamtreichweite.
 
 Zudem kündigte CATL den Bau von 4.000 integrierten Lade- und Tauschstationen bis Ende 2026 an, die fast 190 Städte und ein landesweites Autobahnnetz abdecken sollen.
-
-*Quelle: CnEVPost*

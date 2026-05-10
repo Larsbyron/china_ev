@@ -21,5 +21,3 @@ Das Highlight des Monats war einmal mehr der Mona M03, der mit 9.335 Auslieferun
 Um die Verkäufe wieder anzukurbeln, hat XPeng bereits eine aktualisierte Version des Mona M03 vorgestellt – mit verbesserter Ausstattung zum gleichen Basispreis von 119.800 Yuan (etwa 17.400 Euro).
 
 Für das Gesamtjahr plant XPeng vier neue Modelle mit fortschrittlichen Fahrerassistenzsystemen, darunter das Flaggschiff-SUV GX, das im zweiten Quartal offiziell auf den Markt kommen soll. Zudem expandiert das Unternehmen international: Ende März startete der Markteintritt in Mexiko mit einem Drei-Jahres-Plan für Lateinamerika.
-
-*Quelle: CnEVPost*

@@ -21,5 +21,3 @@ Das Design folgt dem, was BYD als „goldenes Körperverhältnis" bezeichnet –
 Ebenfalls enthüllt: der seriennahe Formula X, der „80 Prozent identisch mit dem Serienfahrzeug" sein soll. Er ist für 2027 geplant.
 
 Die Formula-S-Modelle sollen im dritten Quartal 2026 auf den Markt kommen.
-
-*Quelle: Electrek*

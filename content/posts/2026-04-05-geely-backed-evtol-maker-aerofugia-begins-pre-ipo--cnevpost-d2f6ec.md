@@ -38,4 +38,3 @@ Ende vergangenen Jahres befand sich das Produkt in der letzten und strengsten Ph
 Aerofugia strebt an, die Typenzertifizierung zwischen 2026 und 2027 zu erhalten, und plant danach kleinformatige kommerzielle Testoperationen zu starten, um die Realisierung der urbanen Luftmobilität voranzutreiben.
 
 ---
-*Quelle: CnEVPost*

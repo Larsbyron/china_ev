@@ -46,28 +46,30 @@ export default function NewsletterForm() {
   }
 
   return (
-    <form className={styles.form} onSubmit={handleSubmit}>
-      <input
-        type="email"
-        name="email"
-        placeholder="deine@email.de"
-        className={styles.input}
-        aria-label="E-Mail-Adresse"
-        required
-        disabled={status === 'loading'}
-      />
-      <button
-        type="submit"
-        className={styles.button}
-        disabled={status === 'loading'}
-      >
-        {status === 'loading' ? 'Wird angemeldet...' : 'Abonnieren'}
-      </button>
+    <div className={styles.wrapper}>
+      <form className={styles.form} onSubmit={handleSubmit}>
+        <input
+          type="email"
+          name="email"
+          placeholder="deine@email.de"
+          className={styles.input}
+          aria-label="E-Mail-Adresse"
+          required
+          disabled={status === 'loading'}
+        />
+        <button
+          type="submit"
+          className={styles.button}
+          disabled={status === 'loading'}
+        >
+          {status === 'loading' ? 'Anmelden...' : 'Abonnieren'}
+        </button>
+      </form>
       {status === 'error' && errorMessage && (
         <p className={styles.error} role="alert">
           {errorMessage}
         </p>
       )}
-    </form>
+    </div>
   )
 }

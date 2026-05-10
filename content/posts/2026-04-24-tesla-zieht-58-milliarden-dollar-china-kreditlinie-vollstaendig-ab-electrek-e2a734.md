@@ -21,5 +21,3 @@ Die China Working Capital Facility wurde im April 2024 als unbesicherte Revolvin
 Die geliehenen Mittel werden mit dem Leitzins der People's Bank of China abzüglich 0,89-0,99 Prozent verzinst, was etwa 2,01-2,11 Prozent entspricht.
 
 Jede Auszahlung aus der China Working Capital Facility wird innerhalb von etwa einem Jahr nach Ziehung fällig. Die ausstehenden Beträge haben Fälligkeiten zwischen September 2026 und März 2027 – Tesla muss also die gesamten 5,8 Milliarden Dollar innerhalb der nächsten zwölf Monate zurückzahlen oder refinanzieren.
-
-*Quelle: Electrek*

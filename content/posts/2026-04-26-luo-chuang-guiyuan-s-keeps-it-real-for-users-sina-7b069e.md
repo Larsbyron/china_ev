@@ -93,5 +93,3 @@ Seine Anwendung sorgt dafür, dass die Nutzer unabhängig vom Ladezustand ein ge
 **Sina Auto:** Verstanden. Sie haben die Guiyuan-S-Plattform nochmals angesprochen. Hoffentlich können Sie unseren Lesern mitteilen, welche Kernwerte die Guiyuan-S-Plattform den Nutzern bietet?
 
 **Luo Chuang:** Darüber können wir beim nächsten Mal ausführlich sprechen.
-
-*Quelle: Sina*

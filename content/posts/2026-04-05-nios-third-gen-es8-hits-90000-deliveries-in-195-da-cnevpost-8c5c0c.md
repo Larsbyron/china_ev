@@ -1,7 +1,7 @@
 ---
 title: "Nios dritte Generation ES8 erreicht 90.000 Auslieferungen in 195 Tagen"
 date: 2026-04-05T14:40:12.494186
-description: "Nio Inc. verzeichnete die 90.000ste Auslieferung seines ES8 der dritten Generation und markierte damit einen weiteren Meilenstein für das große Elektro-SUV (Sport Utility Vehicle).  Das Unternehmen vo..."
+description: "Nio Inc. verzeichnete die 90.000ste Auslieferung seines ES8 der dritten Generation und markierte damit einen weiteren Meilenstein für das große Elektro-SUV (Sport Utility Vehicle). Das Unternehmen vo..."
 source: "CnEVPost"
 image: "https://cnevpost.com/wp-content/uploads/2026/04/2026040305575134.jpg"
 category: "news"
@@ -42,4 +42,3 @@ Die Submarke Onvo wird later this month eine aktualisierte Version ihres großen
 Gestern brachte die Nio-Hauptmarke ihre aktualisierte „5566"-Modellreihe auf den Markt – den 2026 ET5, ET5 Touring, ES6 und EC6.
 
 ---
-*Quelle: CnEVPost*

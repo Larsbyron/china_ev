@@ -19,5 +19,3 @@ Das Fahrzeug ist mit zwei neuen Batteriepaketen erhältlich: 57,545 kWh oder 68,
 Der Heckmotor wurde auf 200 kW oder 240 kW (268 bzw. 322 PS) aktualisiert. Das Modell bleibt damit etwas kompakter als der Tesla Model Y.
 
 Laut Daten von Cleantechnica war der BYD Yuan Plus (Atto 3) 2025 das 13.-verkaufte E-Auto weltweit mit 223.906 Einheiten. In China hatte BYD jedoch zuletzt mit sinkenden Verkäufen zu kämpfen, da neue inländische Konkurrenten mit niedrigen Preisen den Markt überschwemmen. BYD setzt nun auf schnellere Ladung, längere Reichweite und fortschrittliche Sicherheitsfunktionen.
-
-*Quelle: Electrek*

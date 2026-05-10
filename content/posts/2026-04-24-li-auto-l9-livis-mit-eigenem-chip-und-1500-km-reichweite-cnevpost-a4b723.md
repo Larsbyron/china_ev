@@ -21,5 +21,3 @@ Das Modell wächst gegenüber dem Vorgänger nochmals: 5.255 mm Länge, 2.000 mm
 Die 72,7-kWh-Batterie ermöglicht 420 km rein elektrische Reichweite nach CLTC mit Unterstützung für 5C-Schnellladung. Mit vollem Tank und voller Ladung übertrifft das Modell 1.500 km Gesamtreichweite.
 
 Eine weitere Premiere: das 800-Volt-Vollluftfedersystem, das jedem Rad eine unabhängige Höhenverstellung ermöglicht. Das Fahrwerk umfasst auch Steer-by-Wire, Allradlenkung und ein elektromechanisches Bremssystem.
-
-*Quelle: CnEVPost*

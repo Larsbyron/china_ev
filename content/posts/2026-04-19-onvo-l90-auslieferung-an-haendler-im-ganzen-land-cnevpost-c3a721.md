@@ -19,5 +19,3 @@ Der 2026er L90 markiert einen Technologiesprung für die Onvo-Marke. Erstmals ko
 Ebenfalls Premiere im L90: die neueste Version des Nio World Model (NWM), Chinas erstes verkörpertes Fahrzeugmodell für das autonome Fahren. Zusätzlich erhält das Fahrzeug einen LiDAR-Sensor im neu entwickelten Wachturm-Design für verbesserte Umgebungserkennung.
 
 Der neue L90 wird mit unverändertem Startpreis von 265.800 Yuan (inklusive Batterie) angeboten. Mit Batterie-as-a-Service (BaaS) sinkt der Fahrzeugpreis auf 179.800 Yuan, bei monatlicher Batterieteilung.
-
-*Quelle: CnEVPost*

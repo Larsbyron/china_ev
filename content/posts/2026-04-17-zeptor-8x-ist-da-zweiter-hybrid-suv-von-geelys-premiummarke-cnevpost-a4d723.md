@@ -19,5 +19,3 @@ Das ist ein ungewöhnlich großer Preissprung und zeigt, wie aggressiv Zeekr den
 Angetrieben wird der 8X von Geelys SEA-S-Architektur mit einem 2,0-Liter-Turbomotor, der speziell für Hybridmodelle entwickelt wurde, und zwei Elektromotoren mit insgesamt 660 kW (884 PS) in der Dualmotor-Version. Die Topvariante Yaoying bietet ein Dreimotorsystem mit 1.030 kW (1.400 PS) und beschleunigt in nur 2,96 Sekunden von null auf 100 km/h.
 
 Das 900-Volt-System ermöglicht eine Ladeleistung von bis zu 6C bei Raumtemperatur – von 20 auf 80 Prozent in nur neun Minuten. Die 70-kWh-Batterie bietet bis zu 410 Kilometer rein elektrische Reichweite, mit vollem Tank und voller Ladung kommt der 8X auf 1.416 Kilometer Gesamtreichweite.
-
-*Quelle: CnEVPost*

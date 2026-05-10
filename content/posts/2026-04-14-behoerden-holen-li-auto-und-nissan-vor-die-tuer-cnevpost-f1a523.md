@@ -21,5 +21,3 @@ Dongfeng Nissan hatte wenige Tage zuvor den NX8 auf den Markt gebracht – mit e
 Nach den Anschuldigungen reichte Li Autos Rechtsabteilung eine Strafanzeige bei der Polizei ein und kündigte zivilrechtliche Schritte an.
 
 Der seltene öffentliche Disput zwischen zwei Automobilherstellern zeigt, wie angespannt der Wettbewerb im chinesischen Automarkt geworden ist. Branchenbeobachter sehen darin einen Ausdruck des zunehmenden Preisdrucks und der Marketing-Auseinandersetzungen in einem Markt, der sich weiter konsolidiert.
-
-*Quelle: CnEVPost*
