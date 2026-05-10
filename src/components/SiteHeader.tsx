@@ -10,7 +10,6 @@ const navItems = [
   { href: '/', label: 'Alle' },
   { href: '/brands', label: 'Marken' },
   { href: '/daten', label: 'Daten' },
-  { href: '/vergleich', label: 'Vergleich' },
   { href: '/weekly', label: 'Weekly' },
   { href: '/about', label: 'Über' },
 ]

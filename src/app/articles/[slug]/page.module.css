@@ -217,11 +217,6 @@
   color: var(--color-text-secondary);
 }
 
-/* Comments */
-.comments {
-  padding: var(--space-16) 0;
-}
-
 @media (max-width: 768px) {
   .relatedGrid {
     grid-template-columns: 1fr;

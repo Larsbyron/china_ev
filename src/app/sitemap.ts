@@ -14,7 +14,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/articles`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
     { url: `${BASE_URL}/brands`, lastModified: now, changeFrequency: 'weekly', priority: 0.7 },
     { url: `${BASE_URL}/daten`, lastModified: now, changeFrequency: 'weekly', priority: 0.7 },
-    { url: `${BASE_URL}/vergleich`, lastModified: now, changeFrequency: 'weekly', priority: 0.7 },
     { url: `${BASE_URL}/suche`, lastModified: now, changeFrequency: 'monthly', priority: 0.3 },
     { url: `${BASE_URL}/weekly`, lastModified: now, changeFrequency: 'weekly', priority: 0.6 },
     { url: `${BASE_URL}/about`, lastModified: now, changeFrequency: 'monthly', priority: 0.4 },

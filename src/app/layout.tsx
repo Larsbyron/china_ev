@@ -55,7 +55,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="alternate" type="application/rss+xml" title="E-AUTOS RSS Feed" href="/feed.xml" />
         {/* Plausible Analytics — privacy-friendly, no cookies */}
-        <script defer data-domain="chinaev.vercel.app" src="https://plausible.io/js/script.js" />
+        <script defer data-domain="china-autonews.de" src="https://plausible.io/js/script.js" />
         {/* JSON-LD WebSite */}
         <script
           type="application/ld+json"
@@ -64,7 +64,7 @@ export default function RootLayout({
               '@context': 'https://schema.org',
               '@type': 'WebSite',
               name: 'E-AUTOS',
-              url: 'https://chinaev.vercel.app',
+              url: process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de',
               description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng und weiteren Marken.',
               inLanguage: 'de',
             }),

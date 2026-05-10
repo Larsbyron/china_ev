@@ -3,7 +3,6 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
-import GiscusComments from '@/components/GiscusComments'
 import QuickFacts from '@/components/QuickFacts'
 import ShareButtons from '@/components/ShareButtons'
 import {
@@ -247,12 +246,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             </section>
           )}
 
-          {/* Comments */}
-          <div className={styles.comments}>
-            <div className={styles.container}>
-              <GiscusComments title={article.title} />
-            </div>
-          </div>
         </article>
       </main>
 
