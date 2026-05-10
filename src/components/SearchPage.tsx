@@ -45,24 +45,14 @@ export default function SearchPage() {
     }
 
     try {
-      const script = document.createElement('script')
-      script.src = '/pagefind/pagefind.js'
-      script.defer = true
-      document.head.appendChild(script)
-
-      await new Promise<void>((resolve, reject) => {
-        script.onload = () => resolve()
-        script.onerror = () => reject(new Error('Failed to load Pagefind'))
-      })
-
-      const pf2 = window.pagefind as PagefindInstance | undefined
-      if (pf2) {
-        await pf2.init()
-        setPagefindLoaded(true)
-        return pf2
-      }
+      // @ts-expect-error - external runtime ES module
+      const pagefind = await import(/* webpackIgnore: true */ '/pagefind/pagefind.js')
+      await pagefind.init()
+      ;(window as any).pagefind = pagefind
+      setPagefindLoaded(true)
+      return pagefind
     } catch {
-      // Pagefind not available (dev mode or build didn't run)
+      console.warn('Pagefind konnte nicht geladen werden (vermutlich dev-Modus)')
     }
     return null
   }, [pagefindLoaded])

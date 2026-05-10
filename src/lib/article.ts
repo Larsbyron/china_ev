@@ -61,7 +61,7 @@ export function generateSlug(title: string, sourceKey: string): string {
 
   const slug = title
     .toLowerCase()
-    .replace(/[^\w\s\u4e00-\u9fff-]/g, '') // Remove invalid chars but keep Chinese chars
+    .replace(/[^\w\s-]/g, '') // Remove non-word chars (non-ASCII, non-alphanumeric)
     .replace(/[\s_]+/g, '-')               // Replace spaces/underscores with hyphens
     .replace(/^-+|-+$/g, '')               // Trim leading/trailing hyphens
     .trim()

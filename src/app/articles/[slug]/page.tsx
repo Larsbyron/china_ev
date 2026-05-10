@@ -120,7 +120,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             }),
           }}
         />
-        <article className={styles.article}>
+        <article className={styles.article} data-pagefind-body>
           {/* Article Header */}
           <header className={styles.header}>
             <div className={styles.container}>

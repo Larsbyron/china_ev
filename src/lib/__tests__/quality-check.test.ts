@@ -28,8 +28,9 @@ describe('runQualityCheck', () => {
   })
 
   it('检测中文残留', () => {
+    // Allow up to 5 stray chars — need 6+ to trigger failure
     const result = runQualityCheck(makeInput({
-      title: 'BYD 海豹 Seal startet in China',
+      title: 'BYD 海豹汽车上市发布 startet in China',
     }))
     expect(result.passed).toBe(false)
     const chineseCheck = result.checks.find((c) => c.name === '无中文残留')

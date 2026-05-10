@@ -14,9 +14,11 @@ describe('article utilities', () => {
       expect(slug).toMatch(/^byd-launches-new-ev-sina-[a-f0-9]{6}$/)
     })
 
-    it('handles Chinese characters', () => {
+    it('strips Chinese characters from slug', () => {
       const slug = generateSlug('比亚迪发布新车型', 'autohome')
-      expect(slug).toMatch(/比亚迪发布新车型-autohome-/)
+      // Chinese characters should be stripped, leaving only the source key and hash
+      expect(slug).toMatch(/autohome-\w{6}$/)
+      expect(slug).not.toMatch(/[一-鿿]/)
     })
 
     it('truncates long titles to 50 chars', () => {
