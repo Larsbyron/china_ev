@@ -234,7 +234,9 @@ export async function translateArticle(
 
     // Build brand context from glossary
     const brandInfo = brand ? lookupBrand(brand) : null
-    const inDeutschlandText = brand ? buildInDeutschlandSection(brand) : undefined
+    const inDeutschlandText = brand
+      ? buildInDeutschlandSection(brand)
+      : '## In Europa\n\nDieses Fahrzeug bzw. Modell ist in Europa aktuell nicht offiziell erhältlich. Eine Markteinführung wurde bislang nicht angekündigt.'
 
     const context = {
       brandOfficialName: brandInfo?.officialName,
@@ -319,7 +321,9 @@ async function translateChunked(
   let inDeutschland = ''
 
   const brandInfo = brand ? lookupBrand(brand) : null
-  const inDeutschlandText = brand ? buildInDeutschlandSection(brand) : undefined
+  const inDeutschlandText = brand
+    ? buildInDeutschlandSection(brand)
+    : '## In Europa\n\nDieses Fahrzeug bzw. Modell ist in Europa aktuell nicht offiziell erhältlich. Eine Markteinführung wurde bislang nicht angekündigt.'
 
   for (const chunk of chunks) {
     const isFirst = chunk.index === 0
