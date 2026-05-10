@@ -114,10 +114,13 @@ async function saveArticle(article: Article, draft = false): Promise<string> {
     read_time_minutes: readTime
   }
 
+  const safeTitle = frontmatter.title.replace(/"/g, "'")
+  const safeDescription = frontmatter.description.replace(/"/g, "'")
+
   const frontmatterStr = `---
-title: "${frontmatter.title.replace(/"/g, "'")}"
+title: "${safeTitle}"
 date: ${frontmatter.date}
-description: "${frontmatter.description}"
+description: "${safeDescription}"
 source: "${frontmatter.source}"
 ${frontmatter.image ? `image: "${frontmatter.image}"` : ''}
 category: "${frontmatter.category}"

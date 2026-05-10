@@ -43,3 +43,4 @@ processed_articles.json
 # Python (legacy)
 __pycache__/
 *.py[cod]
+.vercel
