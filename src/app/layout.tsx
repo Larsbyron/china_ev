@@ -64,7 +64,7 @@ export default function RootLayout({
               '@context': 'https://schema.org',
               '@type': 'WebSite',
               name: 'E-AUTOS',
-              url: process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de',
+              url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim(),
               description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng und weiteren Marken.',
               inLanguage: 'de',
             }),
