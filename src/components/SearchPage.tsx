@@ -66,16 +66,25 @@ export default function SearchPage() {
       setLoading(true)
       setSearched(true)
 
-      const pf = await loadPagefind()
-      if (!pf) {
-        setResults([])
-        setLoading(false)
-        return
-      }
+      try {
+        const pf = await loadPagefind()
+        if (!pf) {
+          setResults([])
+          setLoading(false)
+          return
+        }
 
-      const search = await pf.search(trimmed)
-      setResults(search.results || [])
-      setLoading(false)
+        const search = await pf.search(trimmed)
+        const validResults = (search.results || []).filter(
+          (r: PagefindResult) => typeof r.url === 'string' && r.url.length > 0
+        )
+        setResults(validResults)
+      } catch (err) {
+        console.error('Suche fehlgeschlagen:', err)
+        setResults([])
+      } finally {
+        setLoading(false)
+      }
     },
     [query, loadPagefind]
   )
