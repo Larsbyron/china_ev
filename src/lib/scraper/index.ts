@@ -15,7 +15,7 @@ import { scrapeChooseAuto } from './sources/chooseauto'
 import { translateArticle } from '../translator'
 import { lookupBrand } from '../translator/brand-glossary'
 import { runQualityCheck, formatQualityReport } from '../translator/quality-check'
-import { downloadAndSaveImage, fetchPexelsImage } from '../images'
+import { downloadAndSaveImage, generateArticleImage } from '../images'
 
 const RUNLOG_FILE = resolve(process.cwd(), '.runlog.jsonl')
 const CONTENT_DIR = resolve(process.cwd(), 'content/posts')
@@ -83,25 +83,21 @@ async function saveArticle(article: Article, draft = false): Promise<string> {
   const date = toISODateString(new Date())
   const readTime = estimateReadTime(article.content)
 
-  // Download remote image and store locally; fall back to Pexels if unavailable
+  // Download remote image; fall back to AI generation if unavailable
   let imageValue: string | null = article.image || null
   if (imageValue && imageValue.startsWith('http')) {
     const localPath = await downloadAndSaveImage(imageValue, slug)
     if (localPath) {
       imageValue = localPath
     } else {
-      console.log(`[${article.source}] Image download failed for ${slug} — trying Pexels fallback`)
-      imageValue = await fetchPexelsImage(article.brand, article.title, slug)
-      if (imageValue) {
-        console.log(`[${article.source}] Pexels image saved for ${slug}`)
-      }
+      console.log(`[${article.source}] Image download failed — generating via Replicate`)
+      imageValue = await generateArticleImage(article.brand, article.title, slug)
+      if (imageValue) console.log(`[${article.source}] AI image saved for ${slug}`)
     }
   } else if (!imageValue) {
-    // No image URL at all — search Pexels directly
-    imageValue = await fetchPexelsImage(article.brand, article.title, slug)
-    if (imageValue) {
-      console.log(`[${article.source}] Pexels image saved for ${slug} (no original image)`)
-    }
+    // No image URL at all — generate via AI
+    imageValue = await generateArticleImage(article.brand, article.title, slug)
+    if (imageValue) console.log(`[${article.source}] AI image saved for ${slug} (no original)`)
   }
 
   // Sanitize description to remove markdown artifacts and scraping residue

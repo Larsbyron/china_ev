@@ -3,6 +3,7 @@ title: "XPeng X9 & Co.: Chinas März-Offensive mit 800V und Lidar"
 date: 2026-05-10T20:48:24.140Z
 description: "Im März überschwemmen Dutzende neuer Modelle den chinesischen Markt – von der 33.000-Euro-Audi-Limousine bis zum 800-V-MPV von XPeng. Der Preiskampf erreicht eine neue Stufe."
 source: "OFweek NEV"
+image: "/images/ai-xpeng-x9-co-chinas-mrz-offensive-mit-800v-und-lida-ofweek-nev-c96641.webp"
 image: "/images/pexels-xpeng-x9-co-chinas-mrz-offensive-mit-800v-und-lida-ofweek-nev-c96641.webp"
 
 category: "news"

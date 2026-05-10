@@ -15,7 +15,7 @@ dotenv.config()
 
 import { readdirSync, readFileSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
-import { fetchPexelsImage } from '@/lib/images'
+import { generateArticleImage } from '@/lib/images'
 
 const POSTS_DIR = resolve(process.cwd(), 'content/posts')
 const DRY_RUN = process.argv.includes('--dry-run')
@@ -28,17 +28,22 @@ interface FrontmatterInfo {
   hasImage: boolean
 }
 
-function parseFrontmatter(content: string): FrontmatterInfo['brand'] extends string ? never : { brand: string | null; title: string; hasImage: boolean } {
+function parseFrontmatter(content: string): { brand: string | null; title: string; needsImage: boolean } {
   const brandMatch = content.match(/^brand:\s*"?([^"\n]+)"?/m)
   const titleMatch = content.match(/^title:\s*"([^"]+)"/m)
   const imageMatch = content.match(/^image:\s*(.+)$/m)
 
   const brand = brandMatch ? brandMatch[1].trim() : null
   const title = titleMatch ? titleMatch[1].trim() : ''
-  const imageRaw = imageMatch ? imageMatch[1].trim() : ''
-  const hasImage = imageRaw.length > 0 && imageRaw !== '""' && imageRaw !== "''"
+  const imageRaw = imageMatch ? imageMatch[1].trim().replace(/"/g, '') : ''
 
-  return { brand, title, hasImage }
+  // Needs replacement if: no image, or image is a pexels fallback
+  const needsImage =
+    !imageRaw ||
+    imageRaw === '' ||
+    imageRaw.startsWith('/images/pexels-')
+
+  return { brand, title, needsImage }
 }
 
 function deriveSlug(filename: string): string {
@@ -58,9 +63,9 @@ async function main() {
 
   for (const file of files) {
     const content = readFileSync(resolve(POSTS_DIR, file), 'utf-8')
-    const { brand, title, hasImage } = parseFrontmatter(content)
-    if (!hasImage) {
-      missing.push({ file, slug: deriveSlug(file), brand, title, hasImage })
+    const { brand, title, needsImage } = parseFrontmatter(content)
+    if (needsImage) {
+      missing.push({ file, slug: deriveSlug(file), brand, title, hasImage: !needsImage })
     }
   }
 
@@ -77,7 +82,7 @@ async function main() {
       continue
     }
 
-    const localPath = await fetchPexelsImage(article.brand, article.title, article.slug)
+    const localPath = await generateArticleImage(article.brand, article.title, article.slug)
 
     if (!localPath) {
       console.log('✗ Pexels returned no result')

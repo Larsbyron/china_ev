@@ -3,6 +3,7 @@ title: "Tesla Roadster: 0–100 in 2,1 s – Enthüllung im April"
 date: 2026-05-10T20:47:40.659Z
 description: "Nach jahrelanger Verzögerung kündigt Tesla den zweiten Roadster an. Der Elektro-Supersportwagen bietet über 1000 km Reichweite, 400+ km/h und einen Preis von 200.000 $. Enthüllung Mitte April 2026."
 source: "OFweek NEV"
+image: "/images/ai-tesla-roadster-0100-in-21-s-enthllung-im-april-ofweek-nev-dc2e74.webp"
 image: "/images/pexels-tesla-roadster-0100-in-21-s-enthllung-im-april-ofweek-nev-dc2e74.webp"
 
 category: "news"

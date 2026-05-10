@@ -102,54 +102,128 @@ export async function downloadAndSaveImage(url: string, slug: string): Promise<s
   return saveImage(webp, slug)
 }
 
-// Brand → best Pexels search query (real car photos, not generic EV stock)
-const BRAND_PEXELS_QUERIES: Record<string, string> = {
-  byd: 'BYD electric car',
-  nio: 'NIO electric car',
-  xpeng: 'XPeng electric vehicle',
-  'li auto': 'Li Auto electric SUV',
-  zeekr: 'Zeekr electric car',
-  geely: 'Geely electric vehicle',
-  mg: 'MG electric car',
-  aito: 'Huawei electric car',
-  leapmotor: 'Leapmotor electric vehicle',
-  aion: 'GAC Aion electric car',
-  chery: 'Chery electric vehicle',
-  changan: 'Changan electric car',
-  saic: 'SAIC electric vehicle',
-  deepblue: 'Chinese electric sedan',
-  denza: 'Denza electric car',
-  voyah: 'Voyah electric car',
-  xiaomi: 'Xiaomi SU7 electric car',
+// Brand → descriptive adjective used in image prompt
+const BRAND_DESCRIPTORS: Record<string, string> = {
+  byd:        'BYD',
+  nio:        'NIO',
+  xpeng:      'XPeng',
+  'li auto':  'Li Auto',
+  zeekr:      'Zeekr',
+  geely:      'Geely',
+  mg:         'MG',
+  aito:       'AITO Huawei',
+  leapmotor:  'Leapmotor',
+  aion:       'GAC Aion',
+  chery:      'Chery',
+  changan:    'Changan',
+  saic:       'SAIC',
+  denza:      'Denza',
+  voyah:      'Voyah',
+  xiaomi:     'Xiaomi',
+  deepblue:   'Deep Blue',
+}
+
+// Detect car type from German title keywords
+function detectCarType(title: string): string {
+  const t = title.toLowerCase()
+  if (t.includes('suv') || t.includes('crossover')) return 'electric SUV'
+  if (t.includes('limousine') || t.includes('sedan') || t.includes('saloon')) return 'electric sedan'
+  if (t.includes('mpv') || t.includes('minivan') || t.includes('van')) return 'electric MPV'
+  if (t.includes('pick') || t.includes('truck')) return 'electric pickup truck'
+  if (t.includes('sportwagen') || t.includes('coupé') || t.includes('coupe')) return 'electric sports car'
+  return 'electric car'
 }
 
 /**
- * Searches Pexels for a car photo matching the given brand/title,
- * downloads the result, converts to WebP, and saves locally.
- * Returns the local path on success, null if no key or no results.
+ * Builds a Flux image prompt from brand + article title.
+ * Keeps prompts short and photographic — Flux Schnell works best under ~70 words.
  */
-export async function fetchPexelsImage(brand: string | null | undefined, title: string, slug: string): Promise<string | null> {
-  const apiKey = process.env.PEXELS_API_KEY
-  if (!apiKey) return null
+function buildImagePrompt(brand: string | null | undefined, title: string): string {
+  const brandLabel = BRAND_DESCRIPTORS[(brand ?? '').toLowerCase()] ?? (brand ?? 'Chinese')
+  const carType = detectCarType(title)
+  return (
+    `Professional automotive photography, ${brandLabel} ${carType}, ` +
+    `sleek modern design, dynamic studio lighting, silver or dark metallic color, ` +
+    `clean background, high detail, photorealistic, 16:9`
+  )
+}
 
-  const brandKey = (brand ?? '').toLowerCase()
-  const query = BRAND_PEXELS_QUERIES[brandKey]
-    ?? (brand ? `${brand} electric car` : 'Chinese electric vehicle')
+/**
+ * Calls Replicate flux-schnell to generate a car image, downloads it,
+ * converts to WebP and saves to public/images/.
+ * Returns the local path on success, null on any failure.
+ */
+export async function generateArticleImage(
+  brand: string | null | undefined,
+  title: string,
+  slug: string,
+): Promise<string | null> {
+  const token = process.env.REPLICATE_API_TOKEN
+  if (!token) return null
+
+  const prompt = buildImagePrompt(brand, title)
 
   try {
-    const searchUrl = `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=5&orientation=landscape`
-    const res = await fetch(searchUrl, {
-      headers: { Authorization: apiKey },
-    })
-    if (!res.ok) return null
+    // Create prediction
+    const createRes = await fetch(
+      'https://api.replicate.com/v1/models/black-forest-labs/flux-schnell/predictions',
+      {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${token}`,
+          'Content-Type': 'application/json',
+          Prefer: 'wait',           // wait up to 60 s for result inline
+        },
+        body: JSON.stringify({
+          input: {
+            prompt,
+            aspect_ratio: '16:9',
+            output_format: 'webp',
+            output_quality: 85,
+            num_outputs: 1,
+          },
+        }),
+      },
+    )
 
-    const data = await res.json() as { photos: Array<{ src: { large2x: string } }> }
-    if (!data.photos?.length) return null
+    if (!createRes.ok) {
+      const err = await createRes.text()
+      console.error(`[Replicate] API error ${createRes.status}: ${err.slice(0, 200)}`)
+      return null
+    }
 
-    // Pick the first photo (Pexels returns relevance-ranked results)
-    const photoUrl = data.photos[0].src.large2x
-    return downloadAndSaveImage(photoUrl, `pexels-${slug}`)
-  } catch {
+    const prediction = await createRes.json() as {
+      status: string
+      output?: string[]
+      error?: string
+      urls?: { get: string }
+    }
+
+    // If not completed inline, poll until done (max 30 s)
+    let output = prediction.output
+    if (!output && prediction.urls?.get) {
+      for (let i = 0; i < 15; i++) {
+        await new Promise((r) => setTimeout(r, 2000))
+        const poll = await fetch(prediction.urls.get, {
+          headers: { Authorization: `Bearer ${token}` },
+        })
+        const p = await poll.json() as { status: string; output?: string[]; error?: string }
+        if (p.status === 'succeeded') { output = p.output; break }
+        if (p.status === 'failed') { console.error('[Replicate] Generation failed:', p.error); return null }
+      }
+    }
+
+    if (!output?.length) return null
+
+    // Download the generated WebP and save locally
+    const imageUrl = output[0]
+    const raw = await downloadImage(imageUrl)
+    if (!raw) return null
+
+    // Flux already outputs WebP at the right quality — just save directly
+    return saveImage(raw, `ai-${slug}`)
+  } catch (e) {
+    console.error('[Replicate] Unexpected error:', e)
     return null
   }
 }
