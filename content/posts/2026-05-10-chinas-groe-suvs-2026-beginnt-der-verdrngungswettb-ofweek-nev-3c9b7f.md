@@ -3,6 +3,7 @@ title: "Chinas große SUVs: 2026 beginnt der Verdrängungswettbewerb"
 date: 2026-05-10T20:37:01.195Z
 description: "Der Markt für große SUVs in China wächst rasant – über 120 Modelle bis 2026. Doch nur wenige werden sich im Überlebenskampf der Riesen behaupten. Ein Überblick."
 source: "OFweek NEV"
+image: "/images/pexels-chinas-groe-suvs-2026-beginnt-der-verdrngungswettb-ofweek-nev-3c9b7f.webp"
 
 category: "news"
 

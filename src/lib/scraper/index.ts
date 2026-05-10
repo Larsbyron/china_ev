@@ -15,7 +15,7 @@ import { scrapeChooseAuto } from './sources/chooseauto'
 import { translateArticle } from '../translator'
 import { lookupBrand } from '../translator/brand-glossary'
 import { runQualityCheck, formatQualityReport } from '../translator/quality-check'
-import { downloadAndSaveImage } from '../images'
+import { downloadAndSaveImage, fetchPexelsImage } from '../images'
 
 const RUNLOG_FILE = resolve(process.cwd(), '.runlog.jsonl')
 const CONTENT_DIR = resolve(process.cwd(), 'content/posts')
@@ -83,15 +83,24 @@ async function saveArticle(article: Article, draft = false): Promise<string> {
   const date = toISODateString(new Date())
   const readTime = estimateReadTime(article.content)
 
-  // Download remote image and store locally; keep null if unavailable
+  // Download remote image and store locally; fall back to Pexels if unavailable
   let imageValue: string | null = article.image || null
   if (imageValue && imageValue.startsWith('http')) {
     const localPath = await downloadAndSaveImage(imageValue, slug)
     if (localPath) {
       imageValue = localPath
     } else {
-      console.log(`[${article.source}] Image download failed for ${slug} — storing without image`)
-      imageValue = null
+      console.log(`[${article.source}] Image download failed for ${slug} — trying Pexels fallback`)
+      imageValue = await fetchPexelsImage(article.brand, article.title, slug)
+      if (imageValue) {
+        console.log(`[${article.source}] Pexels image saved for ${slug}`)
+      }
+    }
+  } else if (!imageValue) {
+    // No image URL at all — search Pexels directly
+    imageValue = await fetchPexelsImage(article.brand, article.title, slug)
+    if (imageValue) {
+      console.log(`[${article.source}] Pexels image saved for ${slug} (no original image)`)
     }
   }
 

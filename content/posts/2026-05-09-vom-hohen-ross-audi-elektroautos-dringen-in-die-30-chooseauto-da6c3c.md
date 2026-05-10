@@ -3,6 +3,7 @@ title: "Vom hohen Ross! Audi Elektroautos dringen in die 300.000-Klasse ein – 
 date: 2026-05-09T23:20:40.914Z
 description: "Frühstart L3Was andere haben, habe ich auchWie wählen?Fazit Vom E5 Sportback zum E7X hat die AUDI-Offensive deutlich an Fahrt aufgenommen. Autonomes Fahren der Stufe L3 wird vorzeitig eingeführt, die Intelligenz folgt nicht mehr nur; Küh..."
 source: "ChooseAuto"
+image: "/images/pexels-vom-hohen-ross-audi-elektroautos-dringen-in-die-30-chooseauto-da6c3c.webp"
 category: "news"
 brand: "NIO"
 tags: ["NIO", "Li Auto", "Zeekr", "Reichweite", "Zoll", "Elektroauto"]

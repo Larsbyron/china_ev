@@ -3,6 +3,7 @@ title: "2026 Peking Auto Show: Neun 9er-SUVs im Wettstreit"
 date: 2026-05-10T20:41:49.030Z
 description: "Li Auto, NIO, AITO und VW bringen auf der Peking Auto Show 2026 ihre 9er-Flaggschiff-SUVs. Preise von 29,98 Mio. Yuan (ca. 38.400 €) bis 65,8 Mio. Yuan (ca. 84.200 €). Reichweiten bis 1.500 km (CLTC)."
 source: "OFweek NEV"
+image: "/images/pexels-2026-peking-auto-show-neun-9er-suvs-im-wettstreit-ofweek-nev-8a615f.webp"
 
 category: "news"
 

@@ -101,3 +101,55 @@ export async function downloadAndSaveImage(url: string, slug: string): Promise<s
   const webp = await convertToWebP(raw)
   return saveImage(webp, slug)
 }
+
+// Brand → best Pexels search query (real car photos, not generic EV stock)
+const BRAND_PEXELS_QUERIES: Record<string, string> = {
+  byd: 'BYD electric car',
+  nio: 'NIO electric car',
+  xpeng: 'XPeng electric vehicle',
+  'li auto': 'Li Auto electric SUV',
+  zeekr: 'Zeekr electric car',
+  geely: 'Geely electric vehicle',
+  mg: 'MG electric car',
+  aito: 'Huawei electric car',
+  leapmotor: 'Leapmotor electric vehicle',
+  aion: 'GAC Aion electric car',
+  chery: 'Chery electric vehicle',
+  changan: 'Changan electric car',
+  saic: 'SAIC electric vehicle',
+  deepblue: 'Chinese electric sedan',
+  denza: 'Denza electric car',
+  voyah: 'Voyah electric car',
+  xiaomi: 'Xiaomi SU7 electric car',
+}
+
+/**
+ * Searches Pexels for a car photo matching the given brand/title,
+ * downloads the result, converts to WebP, and saves locally.
+ * Returns the local path on success, null if no key or no results.
+ */
+export async function fetchPexelsImage(brand: string | null | undefined, title: string, slug: string): Promise<string | null> {
+  const apiKey = process.env.PEXELS_API_KEY
+  if (!apiKey) return null
+
+  const brandKey = (brand ?? '').toLowerCase()
+  const query = BRAND_PEXELS_QUERIES[brandKey]
+    ?? (brand ? `${brand} electric car` : 'Chinese electric vehicle')
+
+  try {
+    const searchUrl = `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=5&orientation=landscape`
+    const res = await fetch(searchUrl, {
+      headers: { Authorization: apiKey },
+    })
+    if (!res.ok) return null
+
+    const data = await res.json() as { photos: Array<{ src: { large2x: string } }> }
+    if (!data.photos?.length) return null
+
+    // Pick the first photo (Pexels returns relevance-ranked results)
+    const photoUrl = data.photos[0].src.large2x
+    return downloadAndSaveImage(photoUrl, `pexels-${slug}`)
+  } catch {
+    return null
+  }
+}

@@ -3,6 +3,7 @@ title: "Fangbao, ID.ERA, Trumpchi: Drei chinesische SUV im Test"
 date: 2026-05-10T20:44:34.949Z
 description: "Fangbao Bao 7, ID.ERA 9X und Trumpchi NX8 im chinesischen Marktcheck. Die drei SUV zielen auf verschiedene Käufer: günstig, luxuriös oder komfortabel. Preise von ca. 19.000 € bis 45.000 €."
 source: "OFweek NEV"
+image: "/images/pexels-fangbao-idera-trumpchi-drei-chinesische-suv-im-tes-ofweek-nev-eabda7.webp"
 
 category: "news"
 
