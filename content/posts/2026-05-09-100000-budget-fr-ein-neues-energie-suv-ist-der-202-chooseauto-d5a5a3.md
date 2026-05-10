@@ -3,7 +3,6 @@ title: "100.000 Budget für ein neues Energie-SUV – ist der 2026er GAC Toyota 
 date: 2026-05-09T23:20:04.359Z
 description: "100.000 Budget für ein neues Energie-SUV – ist der 2026er GAC Toyota BZ3X die beste Wahl? Original von Aiwangerche 2026/5/10 0:49:09 0 Aufrufe 0 Kommentare Schriftgröße Standard Klein Modus Scrollen O..."
 source: "ChooseAuto"
-image: "https://img.chooseauto.com.cn/ad/2026/ad_geo_dmbk_2026020101.jpg"
 category: "news"
 
 tags: []

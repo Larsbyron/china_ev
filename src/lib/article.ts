@@ -67,7 +67,9 @@ export function generateSlug(title: string, sourceKey: string): string {
     .trim()
     .slice(0, 50)
 
-  return `${slug}-${sourceKey}-${hashSuffix}`
+  const safeSourceKey = sourceKey.toLowerCase().replace(/[\s_]+/g, '-')
+
+  return `${slug}-${safeSourceKey}-${hashSuffix}`
 }
 
 /**

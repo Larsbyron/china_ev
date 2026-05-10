@@ -5,7 +5,6 @@ description: "**
 
 Dialog mit Nissan-Führungskräften: Von N7 bis NX8 – hat Nissan endlich den chinesischen Rhythmus getroffen? Original AutoLab 2026/5/10 0:54:43 0 Aufrufe Auch Joint-Venture-Autos haben New Energy, ..."
 source: "ChooseAuto"
-image: "https://img.chooseauto.com.cn/ad/2026/ad_geo_dmbk_2026020101.jpg"
 category: "news"
 
 tags: ["NIO", "MG", "E-Auto", "EV", "Marktanteil"]

@@ -60,6 +60,8 @@ export default function Hero({ article }: HeroProps) {
                 src={article.image}
                 alt=""
                 className={styles.image}
+                width={1200}
+                height={900}
                 loading="eager"
                 fetchPriority="high"
               />

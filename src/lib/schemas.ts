@@ -1,6 +1,6 @@
 import { z } from 'zod'
 
-const SOURCE_NAMES = ['Autohome', 'Ifeng', 'Sina', 'PCauto', 'CnEVPost', 'Electrek'] as const
+const SOURCE_NAMES = ['Autohome', 'Autohome NewEnergy', 'Ifeng', 'Sina', 'PCauto', 'CnEVPost', 'Electrek', 'OFweek NEV', 'ChooseAuto'] as const
 
 export const articleFrontmatterSchema = z.object({
   title: z.string().min(1, 'title is required'),

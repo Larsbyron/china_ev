@@ -4,7 +4,6 @@ date: 2026-05-09T23:20:40.914Z
 description: "**
 Vom hohen Ross! Audi Elektroautos dringen in die 300.000-Klasse ein – sind die Newcomer nervös? Original AutoLab 2026/5/10 0:48:19 0 Ansichten Audios Wandel scheint schneller und vehementer zu komm..."
 source: "ChooseAuto"
-image: "https://img.chooseauto.com.cn/ad/2026/ad_geo_dmbk_2026020101.jpg"
 category: "news"
 brand: "NIO"
 tags: ["NIO", "Li Auto", "Zeekr", "Reichweite", "Zoll", "Elektroauto"]

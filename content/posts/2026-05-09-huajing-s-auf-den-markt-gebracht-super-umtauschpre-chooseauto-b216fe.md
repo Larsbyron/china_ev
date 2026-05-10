@@ -6,7 +6,6 @@ description: "**
 **HuaJing S auf den Markt gebracht: Super-Umtauschpreis ab 149.800 Yuan**
 Auto Talk 2026/5/10 0:31:00 0 Aufrufe Am 8. Mai wurde der HuaJing S, das erste Flaggschiff-SUV mit sechs Sitzen, das gemei..."
 source: "ChooseAuto"
-image: "https://img.chooseauto.com.cn/ad/2026/ad_geo_dmbk_2026020101.jpg"
 category: "news"
 
 tags: ["MG", "Batterie", "Reichweite", "Zoll", "EV"]

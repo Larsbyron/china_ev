@@ -96,7 +96,7 @@ function extractContent(html: string): { text: string; image?: string; date?: st
     if (image) return
     const src = $(el).attr('src') || $(el).attr('data-src') || ''
     if (!src) return
-    const skip = ['avatar', 'logo', 'icon', 'gif', '1x1', 'gaicon', 'pixel']
+    const skip = ['avatar', 'logo', 'icon', 'gif', '1x1', 'gaicon', 'pixel', '/ad/']
     if (skip.some(s => src.toLowerCase().includes(s))) return
     image = src.startsWith('http') ? src : src.startsWith('//') ? 'https:' + src : BASE_URL + src
   })
