@@ -13,7 +13,7 @@
 import * as dotenv from 'dotenv'
 dotenv.config()
 
-import { readdirSync, readFileSync, writeFileSync } from 'fs'
+import { readdirSync, readFileSync, writeFileSync, existsSync } from 'fs'
 import { resolve } from 'path'
 import { downloadAndSaveImage, generateArticleImage } from '@/lib/images'
 
@@ -40,9 +40,10 @@ function parseFrontmatter(content: string): { brand: string | null; title: strin
 
   const isHotlink = imageRaw.startsWith('http')
   const isMissing = !imageRaw || imageRaw === '' || imageRaw === 'null' || imageRaw.startsWith('/images/pexels-')
+  const isLocalBroken = imageRaw.startsWith('/images/') && !existsSync(resolve(process.cwd(), 'public', imageRaw.slice(1)))
 
   // --hotlinks-only mode: only process external URLs; skip missing/null articles
-  const needsImage = HOTLINKS_ONLY ? isHotlink : (isMissing || isHotlink)
+  const needsImage = HOTLINKS_ONLY ? isHotlink : (isMissing || isHotlink || isLocalBroken)
 
   return { brand, title, needsImage, currentImage: isHotlink ? imageRaw : '' }
 }

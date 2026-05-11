@@ -3,7 +3,7 @@ title: "Li Auto vs. Huawei: Zwei Wege zum KI-Cockpit-Agent"
 date: 2026-05-11T11:27:26.778Z
 description: "Auf der Peking Auto Show liefern sich Li Auto (理想) und Huawei ein Duell um die intelligenteste Cockpit-KI. Beide setzen auf unterschiedliche Technikphilosophien: Der eine auf einen „ganzheitlichen Roboter“, der andere auf eine vernetzte Task-Zentrale. Ein spannender Wettstreit."
 source: "Sina"
-image: "/images/li-auto-vs-huawei-zwei-wege-zum-ki-cockpit-agent-sina-f6e41d.webp"
+image: "/images/ai-li-auto-vs-huawei-zwei-wege-zum-ki-cockpit-agent-sina-f6e41d.webp"
 category: "news"
 brand: "Li Auto"
 tags: ["Li Auto", "MG", "EV"]

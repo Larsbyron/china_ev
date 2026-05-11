@@ -3,6 +3,7 @@ title: "Peking Auto Show 2026: Joint-Ventures starten Elektro-Offensive"
 date: 2026-05-11T11:29:03.777Z
 description: "BMW, Mercedes-Benz und Volkswagen zeigen auf der Peking Auto Show 2026 über ein Dutzend neue E-Autos. Vom GLC L bis zum ID.ERA 9X: Die Modelle zielen auf chinesische Kunden – Preise ab ca. 38.400 €."
 source: "OFweek NEV"
+image: "/images/ai-peking-auto-show-2026-joint-ventures-starten-elekt-ofweek-nev-dcd210.webp"
 
 category: "news"
 

@@ -3,6 +3,7 @@ title: "BYD: Chinesisches Kultur-Design kommt 2026 nach Europa"
 date: 2026-05-11T11:28:01.313Z
 description: "BYD setzt bei künftigen Modellen auf chinesische Designsprache: minimalistische Formen, kulturelle Akzente und maßgeschneiderte Konzepte für Familie, Sport oder Business. 2026 soll die neue Design-Philosophie auch nach Europa kommen."
 source: "ChooseAuto"
+image: "/images/ai-byd-chinesisches-kultur-design-kommt-2026-nach-eur-chooseauto-6a22d4.webp"
 
 category: "news"
 brand: "BYD"
