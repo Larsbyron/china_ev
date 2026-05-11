@@ -15,7 +15,7 @@ import { scrapeChooseAuto } from './sources/chooseauto'
 import { translateArticle } from '../translator'
 import { lookupBrand } from '../translator/brand-glossary'
 import { runQualityCheck, formatQualityReport } from '../translator/quality-check'
-import { downloadAndSaveImage, generateArticleImage } from '../images'
+import { downloadAndSaveImage } from '../images'
 
 const RUNLOG_FILE = resolve(process.cwd(), '.runlog.jsonl')
 const CONTENT_DIR = resolve(process.cwd(), 'content/posts')
@@ -83,21 +83,16 @@ async function saveArticle(article: Article, draft = false): Promise<string> {
   const date = toISODateString(new Date())
   const readTime = estimateReadTime(article.content)
 
-  // Download remote image; fall back to AI generation if unavailable
+  // Download remote image; if unavailable, leave null (logo placeholder shown in UI)
   let imageValue: string | null = article.image || null
   if (imageValue && imageValue.startsWith('http')) {
     const localPath = await downloadAndSaveImage(imageValue, slug)
     if (localPath) {
       imageValue = localPath
     } else {
-      console.log(`[${article.source}] Image download failed — generating via Replicate`)
-      imageValue = await generateArticleImage(article.brand, article.title, slug)
-      if (imageValue) console.log(`[${article.source}] AI image saved for ${slug}`)
+      console.log(`[${article.source}] Image download failed — logo placeholder will be shown`)
+      imageValue = null
     }
-  } else if (!imageValue) {
-    // No image URL at all — generate via AI
-    imageValue = await generateArticleImage(article.brand, article.title, slug)
-    if (imageValue) console.log(`[${article.source}] AI image saved for ${slug} (no original)`)
   }
 
   // Sanitize description to remove markdown artifacts and scraping residue

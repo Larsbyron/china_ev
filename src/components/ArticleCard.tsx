@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { ArticleMeta } from '@/lib/articles'
 import { formatDateShort } from '@/lib/date-utils'
+import { getArticleLogo } from '@/lib/logo-map'
 import FallbackImage from './FallbackImage'
 import styles from './ArticleCard.module.css'
 
@@ -25,13 +26,17 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             height={270}
             loading={featured ? 'eager' : 'lazy'}
             decoding="async"
+            fallbackSrc={getArticleLogo(article.brand, article.source) ?? undefined}
             fallbackClassName={styles.imageFallback}
           />
         ) : (
           <div className={styles.imageFallback}>
-            <span className={styles.fallbackLabel}>
-              {article.brand || article.source}
-            </span>
+            {(() => {
+              const logo = getArticleLogo(article.brand, article.source)
+              return logo
+                ? <img src={logo} alt={article.brand || article.source} className={styles.logoPlaceholder} />
+                : <span className={styles.fallbackLabel}>{article.brand || article.source}</span>
+            })()}
           </div>
         )}
       </div>
