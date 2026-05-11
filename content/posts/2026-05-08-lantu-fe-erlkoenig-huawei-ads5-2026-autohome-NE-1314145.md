@@ -3,7 +3,7 @@ title: "Lantu FE Erlkönig gesichtet – elektrisches SUV-Coupé mit Huawei ADS 
 date: 2026-05-08T07:52:58+02:00
 description: "Lantu hat erste Tarnbilder des neuen Elektro-SUV FE veröffentlicht. Das sportliche Coupé-SUV setzt auf 896-Linien-LiDAR, Huawei ADS 5 und einen eigenen Sound-Modus."
 source: "Autohome NewEnergy"
-image: null
+image: "/images/ai-lantu-fe-erlkoenig-huawei-ads5-2026-autohome-NE-1314145.webp"
 category: "news"
 brand: "Lantu"
 tags: ["Lantu", "FE", "SUV", "Huawei", "ADS", "LiDAR"]

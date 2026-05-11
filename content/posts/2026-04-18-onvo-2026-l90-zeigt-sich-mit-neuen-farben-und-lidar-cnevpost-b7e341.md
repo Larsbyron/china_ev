@@ -3,7 +3,7 @@ title: "Onvo zeigt Vorankündigung des überarbeiteten L90: Neue Farben und LiDA
 date: 2026-04-18T10:00:00.000Z
 description: "Nios Submarke Onvo hat einen Ausblick auf die Außendesign-Highlights des überarbeiteten L90 gegeben. Das Modell wird am 21. April offiziell vorgestellt und erhält erstmals einen LiDAR-Sensor."
 source: "CnEVPost"
-image: null
+image: "/images/ai-onvo-2026-l90-zeigt-sich-mit-neuen-farben-und-lidar-cnevpost-b7e341.webp"
 category: "news"
 tags: ["Onvo", "Nio", "L90", "LiDAR", "SUV"]
 draft: false

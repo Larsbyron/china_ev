@@ -3,7 +3,7 @@ title: "Wen Fei: Nutzererfahrung und Markenwerte haben oberste Priorität"
 date: 2026-04-28T12:44:06.293779
 description: "Auf der Beijing Auto Show 2026 erklärt FREELANDER-CEO Wen Fei die Strategie der neu eigenständigen Luxus-New-Energy-Marke."
 source: "Sina"
-image: null
+image: "/images/ai-wen-fei-nutzererfahrung-und-markenwerte-sina-a40117.webp"
 category: "news"
 brand: ""
 tags: ["FREELANDER", "Chery", "Jaguar Land Rover", "Luxus", "SUV"]

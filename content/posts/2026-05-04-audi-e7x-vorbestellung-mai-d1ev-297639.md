@@ -3,7 +3,7 @@ title: "AUDI E7X: Zweites E-Modell startet am 8. Mai in die Vorbestellung"
 date: 2026-05-04T07:00:00
 description: "Der AUDI E7X bietet bis zu 750 km Reichweite, 900V-Technologie und KI-Assistent 2.0 — Vorbestellung ab 8. Mai, Marktstart noch in der ersten Jahreshälfte."
 source: "D1EV"
-image: null
+image: "/images/ai-audi-e7x-vorbestellung-mai-d1ev-297639.webp"
 category: "news"
 brand: "Audi"
 tags: ["AUDI E7X", "Elektro-SUV", "900V", "Vorbestellung", "Peking Auto Show"]

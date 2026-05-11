@@ -3,7 +3,7 @@ title: "Kanada wirbt um chinesische E-Auto-Investitionen: Handelsminister zu Bes
 date: 2026-04-17T10:00:00.000Z
 description: "Kanadas Handelsminister Maninder Sidhu besucht Guangzhou und führt Gespräche mit BYD und XPeng über Marktzugangsmöglichkeiten im Rahmen des neuen Zollabkommens."
 source: "CnEVPost"
-image: null
+image: "/images/ai-kanadischer-handelsminister-zu-besuch-bei-byd-und-xpeng-cnevpost-d8a523.webp"
 category: "news"
 tags: ["Kanada", "BYD", "XPeng", "Handel", "Zoll", "Investition"]
 draft: false

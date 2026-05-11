@@ -3,7 +3,7 @@ title: "Buick verteidigt MPV-Erbe gegen Nio-Angriff:ladt William Li zur Probefah
 date: 2026-04-15T14:00:00.000Z
 description: "Nachdem Nio-Gründer William Li behauptete, man könne MPVs nun vergessen, hat Buick öffentlich zurückgeschossen und Li zu einer Probefahrt im neuen Century am 28. April eingeladen."
 source: "CnEVPost"
-image: null
+image: "/images/ai-buick-verteidigt-mpv-wertegerade-nach-nio-es9-attacke-cnevpost-b2e341.webp"
 category: "news"
 tags: ["Buick", "GM", "MPV", "Nio", "ES9", "China"]
 draft: false

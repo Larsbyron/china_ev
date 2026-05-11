@@ -3,7 +3,7 @@ title: "XPeng GX: Neues Flaggschiff-SUV mit 750 km Reichweite und L4-Technik"
 date: 2026-04-24T11:00:00.000Z
 description: "XPeng hat auf der Peking Autoshow sein neues Flaggschiff-SUV GX enthüllt. Der Sechssitzer bietet bis zu 750 km Reichweite, L4-fähige Hardware und startet bei 399.800 Yuan."
 source: "Electrek"
-image: null
+image: "/images/ai-xpeng-gx-flagschiff-suv-mit-750-km-reichweite-electrek-d4e623.webp"
 category: "news"
 tags: ["XPeng", "GX", "SUV", "Autonomes Fahren", "L4", "Peking Autoshow"]
 draft: false

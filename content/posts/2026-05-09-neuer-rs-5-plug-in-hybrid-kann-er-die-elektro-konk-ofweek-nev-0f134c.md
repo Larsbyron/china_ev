@@ -3,7 +3,7 @@ title: "Neuer RS 5 Plug-in-Hybrid: Kann er die Elektro-Konkurrenz herausfordern?
 date: 2026-05-09T23:17:32.157Z
 description: "' source: 'OFweek NEV' image: 'https://mp.ofweek.com/Upload/News/Img/member11445/202604/wx_article__3c2e4cc1e1e352b659a387c2a5d75ef6.jpg' category: 'news' tags: 'Batterie', 'Elektr..."
 source: "OFweek NEV"
-image: "https://mp.ofweek.com/Upload/News/Img/member11445/202604/wx_article__3c2e4cc1e1e352b659a387c2a5d75ef6.jpg"
+image: "/images/ai-neuer-rs-5-plug-in-hybrid-kann-er-die-elektro-konk-ofweek-nev-0f134c.webp"
 category: "news"
 
 tags: ["Batterie", "Elektroauto"]

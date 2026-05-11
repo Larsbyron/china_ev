@@ -3,7 +3,7 @@ title: "BYD Denza Z: 1.000 PS starker Elektro-Supersportwagen startet in Europa"
 date: 2026-04-24T08:00:00.000Z
 description: "BYD stellt mit dem Denza Z das weltweit erste intelligente elektrische Supersportwagen vor. Das 1.000+ PS starke Cabrio soll im Sommer 2026 gegen europäische Luxusmarken antreten."
 source: "Electrek"
-image: null
+image: "/images/ai-byd-denza-z-1000-hp-elektrischer-supersportwagen-fuer-europa-electrek-a7c723.webp"
 category: "news"
 tags: ["BYD", "Denza", "Supersportwagen", "Elektro", "Europa", "Cabrio"]
 draft: false

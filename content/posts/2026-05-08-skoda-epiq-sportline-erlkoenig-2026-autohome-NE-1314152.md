@@ -3,7 +3,7 @@ title: "Škoda Epiq Sportline auf dem Nürburgring erwischt – MEB+-Kompakt-SUV
 date: 2026-05-08T07:53:01+02:00
 description: "Die Sportline-Variante des kommenden Škoda Epiq wurde bei Testfahrten auf der Nordschleife fotografiert. Der Kompakt-Stromer startet 2027 und bietet bis zu 430 km Reichweite."
 source: "Autohome NewEnergy"
-image: null
+image: "/images/ai-skoda-epiq-sportline-erlkoenig-2026-autohome-NE-1314152.webp"
 category: "news"
 brand: "Škoda"
 tags: ["Skoda", "Epiq", "MEB", "Sportline", "Elektro-SUV"]

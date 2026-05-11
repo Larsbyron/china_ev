@@ -3,7 +3,7 @@ title: "Tesla in der Krise: Inlandabsatz in China bricht um 16 Prozent ein"
 date: 2026-04-09T09:00:00.000Z
 description: "Tesla verkauft im ersten Quartal 2026 nur 112.798 Fahrzeuge in China – ein Rückgang von 16,2 Prozent gegenüber dem Vorjahr. Die Differenz zwischen Produktions- und Retailzahlen sorgt für Verwirrung."
 source: "CnEVPost"
-image: null
+image: "/images/ai-tesla-absatz-in-china-raeumt-um-16-prozent-im-ersten-quartal-cnevpost-b9c712.webp"
 category: "news"
 tags: ["Tesla", "China", "Verkauf", "Q1 2026", "Giga Shanghai"]
 draft: false

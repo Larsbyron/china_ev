@@ -3,7 +3,7 @@ title: "Zeekr 8X startet: Das zweite Hybrid-SUV von Geelys Premiummarke"
 date: 2026-04-17T16:00:00.000Z
 description: "Zeekr hat seinen zweiten Hybrid-SUV offiziell auf den Markt gebracht. Der 8X ist deutlich günstiger als erwartet: Der Startpreis liegt bei 329.800 Yuan – 47.000 Yuan unter dem Vorverkaufspreis."
 source: "CnEVPost"
-image: null
+image: "/images/ai-zeptor-8x-ist-da-zweiter-hybrid-suv-von-geelys-premiummarke-cnevpost-a4d723.webp"
 category: "news"
 tags: ["Zeekr", "Geely", "8X", "Hybrid", "SUV"]
 draft: false

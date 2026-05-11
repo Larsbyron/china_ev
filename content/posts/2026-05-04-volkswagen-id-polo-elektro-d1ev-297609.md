@@ -3,7 +3,7 @@ title: "Volkswagen ID.Polo: Der Klassiker wird elektrisch"
 date: 2026-05-04T07:00:00
 description: "Volkswagen enthüllt den ID.Polo — den elektrischen Nachfolger des beliebtesten VW-Modells. Mit bis zu 454 km Reichweite, drei Leistungsstufen und retro-inspiriertem Cockpit."
 source: "D1EV"
-image: null
+image: "/images/ai-volkswagen-id-polo-elektro-d1ev-297609.webp"
 category: "news"
 brand: "Volkswagen"
 tags: ["Volkswagen ID.Polo", "Elektro-Kleinwagen", "MEB+", "V2L", "ID.2all"]

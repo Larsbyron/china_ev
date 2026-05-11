@@ -3,7 +3,7 @@ title: "Haval Big Dog PLUS Langstreckenversion mit 200 km E-Reichweite ab 152.80
 date: 2026-05-08T07:52:56+02:00
 description: "Die Haval Big Dog PLUS Hi4 200km-Version bietet 200 km elektrische Reichweite (CLTC), über 1.000 km kombiniert und einen Einstiegspreis von 152.800 Yuan."
 source: "Autohome NewEnergy"
-image: null
+image: "/images/ai-haval-big-dog-plus-langstrecken-version-2026-autohome-NE-1314144.webp"
 category: "news"
 brand: "Haval"
 tags: ["Haval", "Big Dog", "PHEV", "SUV", "Hi4"]

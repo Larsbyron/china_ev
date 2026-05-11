@@ -3,7 +3,7 @@ title: "Tesla Semi: Erster Serien-LKW rollt vom Band in Nevada"
 date: 2026-05-04T07:00:00
 description: "Tesla hat im neuen Werk in Nevada den ersten Semi aus der Serienfertigung produziert — nach fast zehn Entwicklungsjahren geht der schwere Elektrolaster in die Großserienproduktion."
 source: "D1EV"
-image: null
+image: "/images/ai-tesla-semi-serienproduktion-nevada-d1ev-297637.webp"
 category: "news"
 brand: "Tesla"
 tags: ["Tesla Semi", "Elektro-LKW", "Nevada Gigafactory", "Megacharger", "4680"]

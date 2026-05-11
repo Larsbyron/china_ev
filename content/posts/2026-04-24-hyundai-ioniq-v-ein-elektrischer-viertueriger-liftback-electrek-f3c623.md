@@ -3,7 +3,7 @@ title: "Hyundai IONIQ V: Das Serienfahrzeug mit Konzeptcar-Optik"
 date: 2026-04-24T13:00:00.000Z
 description: "Hyundai hat auf der Auto China 2026 in Peking den IONIQ V enthüllt – ein eleganter elektrischer Liftback mit über 600 km CLTC-Reichweite und 800-Volt-Architektur."
 source: "Electrek"
-image: null
+image: "/images/ai-hyundai-ioniq-v-ein-elektrischer-viertueriger-liftback-electrek-f3c623.webp"
 category: "news"
 tags: ["Hyundai", "IONIQ V", "Elektroauto", "Auto China", "800V"]
 draft: false

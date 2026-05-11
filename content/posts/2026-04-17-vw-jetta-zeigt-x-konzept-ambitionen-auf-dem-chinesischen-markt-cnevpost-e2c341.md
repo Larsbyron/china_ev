@@ -3,7 +3,7 @@ title: "Volkswagen Jetta X: Konzept zeigt neue Elektro-Offensive des Joint Ventu
 date: 2026-04-17T11:00:00.000Z
 description: "Jetta, VWs Submarke für China, hat einen Ausblick auf das neue Konzeptfahrzeug X gegeben. Das Modell soll im dritten Quartal 2026 enthüllt und im vierten Quartal auf den Markt kommen."
 source: "CnEVPost"
-image: null
+image: "/images/ai-vw-jetta-zeigt-x-konzept-ambitionen-auf-dem-chinesischen-markt-cnevpost-e2c341.webp"
 category: "news"
 tags: ["Volkswagen", "Jetta", "概念车", "Elektro", "FAW", "China"]
 draft: false

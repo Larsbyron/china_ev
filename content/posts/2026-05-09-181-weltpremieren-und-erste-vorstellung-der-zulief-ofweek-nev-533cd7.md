@@ -3,7 +3,7 @@ title: "181 Weltpremieren und erste Vorstellung der Zulieferer: Welche Signale s
 date: 2026-05-09T23:16:40.047Z
 description: "Quelle: Autonome Fahrtechnologie | VR China | Vom 24. April bis 3. Mai 2026 findet unter dem Motto 'Neue Ära, Neue Wege' die 19. Internationale Automobilausstellung Shanghai (Auto Shanghai) im Nationa..."
 source: "OFweek NEV"
-image: "https://mp.ofweek.com/Upload/News/Img/member4608/202604/wx_article__2d65a7aaac6475a2be455832eec972b1.jpg"
+image: "/images/ai-181-weltpremieren-und-erste-vorstellung-der-zulief-ofweek-nev-533cd7.webp"
 category: "news"
 brand: "Aion"
 tags: ["Aion", "BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Geely", "Zeekr"]

@@ -3,7 +3,7 @@ title: "Neuer Zeekr 009 feiert Marktstart am 19. Mai – mit 900V, Thor-U-Chip u
 date: 2026-05-08T07:52:54+02:00
 description: "Der überarbeitete Zeekr 009 kommt mit 900V-Architektur, Thor-U-Rechenchip (700 TOPS), Naim-Audiosystem und drei Ausstattungslinien auf den Markt."
 source: "Autohome NewEnergy"
-image: null
+image: "/images/ai-neuer-zeekr-009-marktstart-2026-autohome-NE-1314149.webp"
 category: "news"
 brand: "Zeekr"
 tags: ["Zeekr", "009", "MPV", "900V", "Thor"]

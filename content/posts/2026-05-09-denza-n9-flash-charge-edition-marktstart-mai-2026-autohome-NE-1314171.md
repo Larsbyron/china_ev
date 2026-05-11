@@ -3,7 +3,7 @@ title: "Denza N9 Flash Charge Edition startet am 18. Mai – Vorverkauf ab 450.0
 date: 2026-05-09T07:00:00+02:00
 description: "Denza N9 Flash Charge Edition mit第二代 Blade-Akku, 420 km Reichweite und KI-Cockpit – Marktstart am 18. Mai."
 source: "Autohome NewEnergy"
-image: null
+image: "/images/ai-denza-n9-flash-charge-edition-marktstart-mai-2026-autohome-NE-1314171.webp"
 category: "news"
 brand: "Denza"
 tags: ["Denza", "BYD", "N9", "Flash-Charge", "Blade-Battery", "PHEV"]

@@ -3,7 +3,7 @@ title: "Avatr 07L: Offizielle Bilder zeigen verlängerte Familien-SUV-Variante"
 date: 2026-05-09T07:00:00+02:00
 description: "Avatr präsentiert den Avatr 07L mit verlängertem Radstand, 896-Zeilen-LiDAR und Huawei Qiankun ADS als luxuriösen Familien-SUV."
 source: "Autohome NewEnergy"
-image: null
+image: "/images/ai-avatr-07l-offizielle-bilder-verlaengerter-radstand-2026-autohome-NE-1314170.webp"
 category: "news"
 brand: "Avatr"
 tags: ["Avatr", "Avatr-07L", "Huawei", "Qiankun-ADS", "LiDAR", "SUV"]

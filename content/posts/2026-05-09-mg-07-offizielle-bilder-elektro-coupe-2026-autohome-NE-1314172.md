@@ -3,7 +3,7 @@ title: "MG 07: Offizielle Bilder des neuen Elektro-Coupés veröffentlicht"
 date: 2026-05-09T07:00:00+02:00
 description: "MG enthüllt das MG 07 – ein Elektro-Coupé mit Momenta R7 World Model, LiDAR und Preisen ab 150.000 RMB für 2026."
 source: "Autohome NewEnergy"
-image: null
+image: "/images/ai-mg-07-offizielle-bilder-elektro-coupe-2026-autohome-NE-1314172.webp"
 category: "news"
 brand: "MG"
 tags: ["MG", "MG-07", "Elektro-Coupé", "Momenta", "Autonomes-Fahren"]

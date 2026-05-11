@@ -3,7 +3,7 @@ title: "Luxeed V9 kommt am 15. Mai auf den Markt – Vorbestellpreis ab 399.800 
 date: 2026-05-08T07:52:52+02:00
 description: "Die Luxeed V9, eine große Elektro-MPV von Huawei und Chery, startet am 15. Mai mit Preisen ab 399.800 Yuan und bis zu 1.250 km Gesamtreichweite."
 source: "Autohome NewEnergy"
-image: null
+image: "/images/ai-luxeed-v9-marktstart-mai-2026-autohome-NE-1314143.webp"
 category: "news"
 brand: "Luxeed"
 tags: ["Luxeed", "V9", "MPV", "Huawei", "EREV"]

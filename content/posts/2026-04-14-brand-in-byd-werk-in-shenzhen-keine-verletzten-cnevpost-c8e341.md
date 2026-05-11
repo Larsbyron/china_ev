@@ -3,7 +3,7 @@ title: "Brand in BYD-Testzentrum in Shenzhen: Keine Verletzten, Aktie leicht unt
 date: 2026-04-14T08:00:00.000Z
 description: "In einem Test- und Lagergebäude auf dem BYD-Campus in Shenzhen ist ein Brand ausgebrochen. Das Feuer wurde gelöscht, Verletzte gab es nicht. BYD-Aktien gaben leicht nach."
 source: "CnEVPost"
-image: null
+image: "/images/ai-brand-in-byd-werk-in-shenzhen-keine-verletzten-cnevpost-c8e341.webp"
 category: "news"
 tags: ["BYD", "Shenzhen", "Brand", "Werk", "Aktie"]
 draft: false

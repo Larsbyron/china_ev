@@ -3,7 +3,7 @@ title: "XPeng März-Absatz: 27.415 Fahrzeuge – Erholung gegenüber Februar, ab
 date: 2026-04-10T15:30:00.000Z
 description: "XPeng lieferte im März 27.415 Fahrzeuge aus – 80 Prozent mehr als im Februar, aber 17 Prozent weniger als im Vorjahresmonat. Das Unternehmen bestätigt seine Prognose für das erste Quartal."
 source: "CnEVPost"
-image: null
+image: "/images/ai-xpeng-maerz-absatz-27415-fahrzeuge-trotz-rueckgang-cnevpost-e5c834.webp"
 category: "news"
 tags: ["XPeng", "Absatz", "März 2026", "Mona M03"]
 draft: false

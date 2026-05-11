@@ -3,7 +3,7 @@ title: "Tesla: Kreditlinie in China vollständig abgerufen – 5,8 Milliarden Do
 date: 2026-04-24T12:00:00.000Z
 description: "Tesla hat seine China Working Capital Facility laut Q1-2026-Bericht vollständig abgerufen. Die 5,8 Milliarden Dollar teure Kreditlinie stieg innerhalb eines Quartals um 35 Prozent."
 source: "Electrek"
-image: null
+image: "/images/ai-tesla-zieht-58-milliarden-dollar-china-kreditlinie-vollstaendig-ab-electrek-e2a734.webp"
 category: "news"
 tags: ["Tesla", "Kredit", "China", "Finanzen", "Giga Shanghai"]
 draft: false

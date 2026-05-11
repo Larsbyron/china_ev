@@ -3,7 +3,7 @@ title: "Zeekr 007 Facelift: 900-Volt-Architektur und bis zu 905 Kilometer Reichw
 date: 2026-04-10T11:00:00.000Z
 description: "Zeekr präsentiert das überarbeitete 007-Modell mit 900-Volt-Technik, 6C-Schnellladung und einem Startpreis von 193.900 Yuan – rund 28.400 Euro."
 source: "CnEVPost"
-image: null
+image: "/images/ai-zeptor-007-facelift-mit-900-volt-technik-und-905-km-reichweite-cnevpost-d7e214.webp"
 category: "news"
 tags: ["Zeekr", "007", "Facelift", "900V", "Schnellladung"]
 draft: false

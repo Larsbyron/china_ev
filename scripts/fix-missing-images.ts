@@ -15,10 +15,11 @@ dotenv.config()
 
 import { readdirSync, readFileSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
-import { generateArticleImage } from '@/lib/images'
+import { downloadAndSaveImage, generateArticleImage } from '@/lib/images'
 
 const POSTS_DIR = resolve(process.cwd(), 'content/posts')
 const DRY_RUN = process.argv.includes('--dry-run')
+const HOTLINKS_ONLY = process.argv.includes('--hotlinks-only')
 
 interface FrontmatterInfo {
   file: string
@@ -28,7 +29,7 @@ interface FrontmatterInfo {
   hasImage: boolean
 }
 
-function parseFrontmatter(content: string): { brand: string | null; title: string; needsImage: boolean } {
+function parseFrontmatter(content: string): { brand: string | null; title: string; needsImage: boolean; currentImage: string } {
   const brandMatch = content.match(/^brand:\s*"?([^"\n]+)"?/m)
   const titleMatch = content.match(/^title:\s*"([^"]+)"/m)
   const imageMatch = content.match(/^image:\s*(.+)$/m)
@@ -37,13 +38,13 @@ function parseFrontmatter(content: string): { brand: string | null; title: strin
   const title = titleMatch ? titleMatch[1].trim() : ''
   const imageRaw = imageMatch ? imageMatch[1].trim().replace(/"/g, '') : ''
 
-  // Needs replacement if: no image, or image is a pexels fallback
-  const needsImage =
-    !imageRaw ||
-    imageRaw === '' ||
-    imageRaw.startsWith('/images/pexels-')
+  const isHotlink = imageRaw.startsWith('http')
+  const isMissing = !imageRaw || imageRaw === '' || imageRaw === 'null' || imageRaw.startsWith('/images/pexels-')
 
-  return { brand, title, needsImage }
+  // --hotlinks-only mode: only process external URLs; skip missing/null articles
+  const needsImage = HOTLINKS_ONLY ? isHotlink : (isMissing || isHotlink)
+
+  return { brand, title, needsImage, currentImage: isHotlink ? imageRaw : '' }
 }
 
 function deriveSlug(filename: string): string {
@@ -59,17 +60,19 @@ async function main() {
     .filter((f) => f.endsWith('.md') && !f.startsWith('.'))
     .sort()
 
-  const missing: FrontmatterInfo[] = []
+  interface ArticleEntry extends FrontmatterInfo { currentImage: string }
+  const missing: ArticleEntry[] = []
 
   for (const file of files) {
     const content = readFileSync(resolve(POSTS_DIR, file), 'utf-8')
-    const { brand, title, needsImage } = parseFrontmatter(content)
+    const { brand, title, needsImage, currentImage } = parseFrontmatter(content)
     if (needsImage) {
-      missing.push({ file, slug: deriveSlug(file), brand, title, hasImage: !needsImage })
+      missing.push({ file, slug: deriveSlug(file), brand, title, hasImage: !needsImage, currentImage })
     }
   }
 
-  console.log(`Found ${missing.length} articles without images\n`)
+  const modeLabel = HOTLINKS_ONLY ? 'hotlinks-only' : 'all'
+  console.log(`Found ${missing.length} articles needing image fix (mode: ${modeLabel})\n`)
 
   let fixed = 0
   let failed = 0
@@ -78,14 +81,28 @@ async function main() {
     process.stdout.write(`[${article.brand ?? 'no brand'}] ${article.title.slice(0, 50)}... `)
 
     if (DRY_RUN) {
-      console.log('(dry run — skipped)')
+      const hint = article.currentImage ? `← ${article.currentImage.slice(0, 60)}` : '← null/missing'
+      console.log(`(dry run — skipped) ${hint}`)
       continue
     }
 
-    const localPath = await generateArticleImage(article.brand, article.title, article.slug)
+    // For hotlinks: first try to download the original image
+    let localPath: string | null = null
+    if (article.currentImage) {
+      localPath = await downloadAndSaveImage(article.currentImage, article.slug)
+      if (localPath) {
+        console.log(`✓ downloaded → ${localPath}`)
+      } else {
+        process.stdout.write('download failed → generating via AI... ')
+      }
+    }
 
     if (!localPath) {
-      console.log('✗ Pexels returned no result')
+      localPath = await generateArticleImage(article.brand, article.title, article.slug)
+    }
+
+    if (!localPath) {
+      console.log('✗ AI generation failed')
       failed++
       continue
     }
