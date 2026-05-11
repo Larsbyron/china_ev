@@ -6,7 +6,7 @@ source: "CnEVPost"
 image: "/images/nios-third-gen-es8-hits-90000-deliveries-in-195-da-cnevpost-8c5c0c.webp"
 category: "news"
 tag: "E-Auto"
-tags: ["Nio", "BEV", "Deliveries", "ES8", "SUV"]
+tags: ["NIO", "BEV", "Deliveries", "ES8", "SUV"]
 draft: false
 original_url: "https://cnevpost.com/2026/04/03/nio-third-gen-es8-90000-deliveries/"
 ---

@@ -9,7 +9,7 @@ category: "news"
 brand: "Geely"
 tags: ["Geely", "Zeekr", "Reichweite"]
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwkpti0669247.shtml"
+original_url: "https://auto.sina.com.cn/news/2026-05-01/detail-inhwkpti0669247.shtml"
 read_time_minutes: 1
 ---
 

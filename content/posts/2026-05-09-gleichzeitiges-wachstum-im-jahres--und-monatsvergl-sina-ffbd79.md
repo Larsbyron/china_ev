@@ -8,7 +8,7 @@ category: "news"
 brand: "BYD"
 tags: ["BYD", "Batterie", "EV"]
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-02/detail-inhwpcha9630783.shtml"
+original_url: "https://auto.sina.com.cn/news/2026-05-02/detail-inhwpcha9630783.shtml"
 read_time_minutes: 2
 ---
 

@@ -5,7 +5,7 @@ description: "Nios Submarke Onvo hat mit der landesweiten Auslieferung des über
 source: "CnEVPost"
 image: "/images/ai-onvo-l90-auslieferung-an-haendler-im-ganzen-land-cnevpost-c3a721.webp"
 category: "news"
-tags: ["Onvo", "Nio", "L90", "Auslieferung", "Vorverkauf"]
+tags: ["Onvo", "NIO", "L90", "Auslieferung", "Vorverkauf"]
 draft: false
 original_url: "https://cnevpost.com/2026/04/19/nio-onvo-starts-nationwide-shipping-of-2026-l90/"
 ---

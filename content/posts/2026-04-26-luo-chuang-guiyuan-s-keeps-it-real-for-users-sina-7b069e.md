@@ -8,7 +8,7 @@ category: "news"
 
 tags: ["EV"]
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-04-26/detail-inhvvkkh9947001.shtml"
+original_url: "https://auto.sina.com.cn/news/2026-04-26/detail-inhvvkkh9947001.shtml"
 read_time_minutes: 24
 ---
 

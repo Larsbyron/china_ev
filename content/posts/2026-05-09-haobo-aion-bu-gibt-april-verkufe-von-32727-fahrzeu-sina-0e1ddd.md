@@ -8,7 +8,7 @@ category: "news"
 brand: "Aion"
 tags: ["Aion", "EV"]
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml"
+original_url: "https://auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml"
 read_time_minutes: 3
 ---
 

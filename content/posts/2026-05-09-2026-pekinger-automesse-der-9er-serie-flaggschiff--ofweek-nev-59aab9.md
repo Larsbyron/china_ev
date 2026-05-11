@@ -6,7 +6,7 @@ source: "OFweek NEV"
 image: "/images/ai-2026-pekinger-automesse-der-9er-serie-flaggschiff-ofweek-nev-59aab9.webp"
 category: "news"
 
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Onvo", "Leapmotor", "Batterie", "Reichweite"]
+tags: ["NIO", "XPeng", "XPeng", "Li Auto", "Onvo", "Leapmotor", "Batterie", "Reichweite"]
 draft: false
 original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
 read_time_minutes: 5

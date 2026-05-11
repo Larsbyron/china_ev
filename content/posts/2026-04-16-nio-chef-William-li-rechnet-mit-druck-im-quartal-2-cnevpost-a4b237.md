@@ -5,7 +5,7 @@ description: "Nio-Gründer William Li sieht im zweiten Quartal 2026 erheblichen 
 source: "CnEVPost"
 image: "/images/nio-chef-William-li-rechnet-mit-druck-im-quartal-2-cnevpost-a4b237.webp"
 category: "news"
-tags: ["Nio", "William Li", "ES9", "L80", "Quartal 2"]
+tags: ["NIO", "William Li", "ES9", "L80", "Quartal 2"]
 draft: false
 original_url: "https://cnevpost.com/2026/04/17/nio-ceo-sees-q2-pressure-bets-on-es9-l80-drive-growth/"
 ---

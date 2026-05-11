@@ -6,7 +6,7 @@ source: "Sina"
 image: "/images/ai-vw-id-aura-t6-und-yu-qi-07-mit-horizon-smart-driving-sina-inhwesks7842568.webp"
 category: "news"
 brand: "Volkswagen"
-tags: ["Volkswagen", "Horizon Robotics", "Beijing Auto Show 2026", "ID. AURA T6", "Yu Qi 07", "Jetta", "ADAS", "autonomes Fahren"]
+tags: ["Volkswagen", "Horizon Robotics", "Beijing Auto Show 2026", "ID. AURA T6", "Yu Qi 07", "Jetta", "ADAS", "Autonomes Fahren"]
 draft: false
 original_url: "https://auto.sina.com.cn/news/hy/2026-04-29/detail-inhwesks7842568.shtml"
 read_time_minutes: 5

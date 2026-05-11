@@ -2,7 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'
+const BASE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()
 const POSTS_DIR = path.join(process.cwd(), 'content', 'posts')
 const OUT_DIR = path.join(process.cwd(), 'out')
 
@@ -57,7 +57,7 @@ function generateRss(): void {
       <pubDate>${new Date(article!.date).toUTCString()}</pubDate>
       <category>${escapeXml(article!.source)}</category>
       ${article!.brand ? `<category>${escapeXml(article!.brand)}</category>` : ''}
-      ${article!.image ? `<enclosure url="${escapeXml(article!.image)}" type="image/jpeg" />` : ''}
+      ${article!.image ? `<enclosure url="${escapeXml(BASE_URL + article!.image)}" type="image/webp" length="0" />` : ''}
     </item>`
     )
     .join('\n')

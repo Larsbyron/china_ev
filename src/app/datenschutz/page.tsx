@@ -5,6 +5,7 @@ import SiteFooter from '@/components/SiteFooter'
 export const metadata: Metadata = {
   title: 'Datenschutz',
   description: 'Datenschutzerklärung und Informationen zum Schutz Ihrer Daten bei E-AUTOS.',
+  robots: { index: false, follow: false },
 }
 
 export default function DatenschutzPage() {

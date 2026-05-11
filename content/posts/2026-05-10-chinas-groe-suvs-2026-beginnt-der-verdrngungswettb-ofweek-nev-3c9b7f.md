@@ -7,7 +7,7 @@ image: "/images/ai-chinas-groe-suvs-2026-beginnt-der-verdrngungswettb-ofweek-nev
 
 category: "news"
 
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Reichweite"]
+tags: ["BYD", "NIO", "XPeng", "XPeng", "Li Auto", "Reichweite"]
 draft: false
 original_url: "https://nev.ofweek.com/2026-02/ART-71000-8220-30681631.html"
 read_time_minutes: 2

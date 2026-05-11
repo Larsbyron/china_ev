@@ -6,7 +6,7 @@ source: "CnEVPost"
 image: "/images/nio-firefly-sets-apr-7-for-ev-upgrade-to-sustain-s-cnevpost-6b67e2.webp"
 category: "news"
 tag: "E-Auto"
-tags: ["Nio", "Firefly", "New EV Models"]
+tags: ["NIO", "Firefly", "New EV Models"]
 draft: false
 original_url: "https://cnevpost.com/2026/04/03/nio-firefly-sets-apr-7-for-ev-upgrade/"
 ---

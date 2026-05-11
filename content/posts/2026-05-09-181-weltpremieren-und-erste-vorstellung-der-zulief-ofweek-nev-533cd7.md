@@ -6,7 +6,7 @@ source: "OFweek NEV"
 image: "/images/ai-181-weltpremieren-und-erste-vorstellung-der-zulief-ofweek-nev-533cd7.webp"
 category: "news"
 brand: "Aion"
-tags: ["Aion", "BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Geely", "Zeekr"]
+tags: ["Aion", "BYD", "NIO", "XPeng", "XPeng", "Li Auto", "Geely", "Zeekr"]
 draft: false
 original_url: "https://nev.ofweek.com/2026-04/ART-77014-8220-30685799.html"
 read_time_minutes: 10

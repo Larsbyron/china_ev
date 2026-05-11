@@ -6,7 +6,7 @@ source: "ChooseAuto"
 image: "/images/byd-haishi-08-doppelmotor-suv-und-weitere-china-ne-chooseauto-8bd676.webp"
 category: "news"
 brand: "BYD"
-tags: ["BYD", "XPeng", "Xpeng", "Li Auto", "MG", "Batterie", "Reichweite", "EV"]
+tags: ["BYD", "XPeng", "XPeng", "Li Auto", "MG", "Batterie", "Reichweite", "EV"]
 draft: false
 original_url: "https://www.chooseauto.com.cn/news/899187.shtml"
 read_time_minutes: 3

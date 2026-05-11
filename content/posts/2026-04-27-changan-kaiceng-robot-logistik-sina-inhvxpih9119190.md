@@ -6,7 +6,7 @@ source: "Sina"
 image: "/images/changan-kaiceng-robot-logistik-sina-inhvxpih9119190.webp"
 category: "news"
 brand: "Changan"
-tags: ["Changan Kaicheng", "Robovan", "Robotruck", "autonomes Fahren", "Nutzfahrzeuge", "neue Energien", "Logistik", "Beijing Auto Show 2026"]
+tags: ["Changan Kaicheng", "Robovan", "Robotruck", "Autonomes Fahren", "Nutzfahrzeuge", "neue Energien", "Logistik", "Beijing Auto Show 2026"]
 draft: false
 original_url: "https://auto.sina.com.cn/news/2026-04-27/detail-inhvxpih9119190.shtml"
 read_time_minutes: 8

@@ -5,6 +5,7 @@ import SiteFooter from '@/components/SiteFooter'
 export const metadata: Metadata = {
   title: 'Impressum',
   description: 'Impressum und rechtliche Hinweise für E-AUTOS.',
+  robots: { index: false, follow: false },
 }
 
 export default function ImpressumPage() {

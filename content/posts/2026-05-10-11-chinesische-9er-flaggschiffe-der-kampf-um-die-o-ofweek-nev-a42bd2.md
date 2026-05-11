@@ -7,7 +7,7 @@ image: "/images/ai-11-chinesische-9er-flaggschiffe-der-kampf-um-die-o-ofweek-nev
 
 category: "news"
 
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Zeekr", "Reichweite", "EV"]
+tags: ["BYD", "NIO", "XPeng", "XPeng", "Li Auto", "Zeekr", "Reichweite", "EV"]
 draft: false
 original_url: "https://nev.ofweek.com/2026-02/ART-71000-8220-30681401.html"
 read_time_minutes: 3

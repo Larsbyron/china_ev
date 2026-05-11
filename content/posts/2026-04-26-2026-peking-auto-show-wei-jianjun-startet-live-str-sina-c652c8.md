@@ -9,7 +9,7 @@ category: "news"
 
 tags: ["MG"]
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-04-26/detail-inhvvuya9791693.shtml"
+original_url: "https://auto.sina.com.cn/news/hy/2026-04-26/detail-inhvvuya9791693.shtml"
 read_time_minutes: 4
 ---
 

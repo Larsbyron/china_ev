@@ -7,7 +7,7 @@ image: "/images/ai-xpeng-x9-co-chinas-mrz-offensive-mit-800v-und-lida-ofweek-nev
 
 category: "news"
 
-tags: ["BYD", "XPeng", "Xpeng", "MG", "Reichweite", "EV", "Marktanteil"]
+tags: ["BYD", "XPeng", "XPeng", "MG", "Reichweite", "EV", "Marktanteil"]
 draft: false
 original_url: "https://nev.ofweek.com/2026-02/ART-71000-8220-30681834.html"
 read_time_minutes: 3

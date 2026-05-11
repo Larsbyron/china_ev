@@ -6,7 +6,7 @@ source: "CnEVPost"
 image: "/images/onvo-l90-reaches-50000-deliveries-as-nio-plans-lid-cnevpost-ae1761.webp"
 category: "news"
 tag: "E-Auto"
-tags: ["Nio", "Milestones", "Onvo", "Onvo L90"]
+tags: ["NIO", "Milestones", "Onvo", "Onvo L90"]
 draft: false
 original_url: "https://cnevpost.com/2026/04/03/onvo-l90-reaches-50000-deliveries/"
 ---

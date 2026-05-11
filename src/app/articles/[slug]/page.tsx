@@ -29,7 +29,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
   const { slug } = await params
   const article = await getArticleBySlug(slug)
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'
+  const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()
 
   if (!article) {
     return { title: 'Artikel nicht gefunden' }
@@ -73,7 +73,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     notFound()
   }
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'
+  const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()
   const relatedArticles = article.brand
     ? getArticlesByBrand(article.brand).filter((a) => a.slug !== slug).slice(0, 3)
     : []
@@ -101,22 +101,36 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 name: 'E-AUTOS',
                 logo: {
                   '@type': 'ImageObject',
-                  url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'}/logo.png`,
+                  url: `${siteUrl}/logo.png`,
+                  width: 336,
+                  height: 112,
                 },
               },
               mainEntityOfPage: {
                 '@type': 'WebPage',
-                '@id': `${process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'}/articles/${article.slug}/`,
+                '@id': `${siteUrl}/articles/${article.slug}/`,
               },
               articleSection: 'Elektroautos aus China',
               inLanguage: 'de-DE',
               isAccessibleForFree: true,
               ...(article.brand ? {
-                about: {
-                  '@type': 'Vehicle',
-                  manufacturer: article.brand,
-                },
+                about: { '@type': 'Vehicle', manufacturer: article.brand },
               } : {}),
+            }),
+          }}
+        />
+        {/* JSON-LD BreadcrumbList */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'BreadcrumbList',
+              itemListElement: [
+                { '@type': 'ListItem', position: 1, name: 'E-AUTOS', item: `${siteUrl}/` },
+                { '@type': 'ListItem', position: 2, name: 'Artikel', item: `${siteUrl}/articles/` },
+                { '@type': 'ListItem', position: 3, name: article.title },
+              ],
             }),
           }}
         />
@@ -189,7 +203,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 {/* Share */}
                 <ShareButtons
                   title={article.title}
-                  url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'}/articles/${article.slug}/`}
+                  url={`${(process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()}/articles/${article.slug}/`}
                 />
 
                 {/* Source Link */}

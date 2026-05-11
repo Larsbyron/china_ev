@@ -5,7 +5,7 @@ description: "Nios Submarke Onvo hat einen Ausblick auf die Außendesign-Highlig
 source: "CnEVPost"
 image: "/images/ai-onvo-2026-l90-zeigt-sich-mit-neuen-farben-und-lidar-cnevpost-b7e341.webp"
 category: "news"
-tags: ["Onvo", "Nio", "L90", "LiDAR", "SUV"]
+tags: ["Onvo", "NIO", "L90", "LiDAR", "SUV"]
 draft: false
 original_url: "https://cnevpost.com/2026/04/18/onvo-reveals-exterior-highlights-updated-l90-ahead-apr-21-launch/"
 ---

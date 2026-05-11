@@ -7,7 +7,7 @@ image: "/images/yang-siyao-shangjie-harmonyos-most-fashionable-brand-sina-5ca263
 category: "news"
 tags: ["MG", "Elektroauto", "Shangjie", "Huawei", "SAIC"]
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-04-26/detail-inhvvzha8340862.shtml"
+original_url: "https://auto.sina.com.cn/news/2026-04-26/detail-inhvvzha8340862.shtml"
 read_time_minutes: 36
 ---
 

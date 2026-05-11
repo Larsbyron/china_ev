@@ -7,6 +7,7 @@ import styles from './page.module.css'
 export const metadata: Metadata = {
   title: 'Suche | E-AUTOS',
   description: 'Durchsuche alle Artikel zu chinesischen E-Autos.',
+  robots: { index: false, follow: false },
 }
 
 export default function SuchePage() {

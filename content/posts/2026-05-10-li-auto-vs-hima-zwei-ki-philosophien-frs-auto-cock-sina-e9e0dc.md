@@ -6,9 +6,9 @@ source: "Sina"
 image: "/images/li-auto-vs-hima-zwei-ki-philosophien-frs-auto-cock-sina-e9e0dc.webp"
 category: "news"
 brand: "Li Auto"
-tags: ["Li Auto", "NIO", "XPeng", "Xpeng", "MG", "EV"]
+tags: ["Li Auto", "NIO", "XPeng", "XPeng", "MG", "EV"]
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: "https://auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
 read_time_minutes: 3
 ---
 
