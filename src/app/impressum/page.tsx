@@ -20,24 +20,40 @@ export default function ImpressumPage() {
           Angaben gemäß § 5 TMG
         </h2>
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
-          [Name]<br />
-          [Straße und Hausnummer]<br />
-          [PLZ und Ort]
+          Loghan GmbH<br />
+          Forsthaus 22<br />
+          40883 Ratingen<br />
+          Deutschland
+        </p>
+
+        <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
+          Geschäftsführer
+        </h2>
+        <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
+          Lebin Bai
+        </p>
+
+        <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
+          Registereintrag
+        </h2>
+        <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
+          Registergericht: Amtsgericht Neuss<br />
+          Registernummer: HRB 21826
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
           Kontakt
         </h2>
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
-          E-Mail: [deine@email.de]
+          E-Mail: l.bai@loghan.de
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
           Redaktionell verantwortlich
         </h2>
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
-          [Name]<br />
-          [Adresse]
+          Loghan GmbH<br />
+          Forsthaus 22, 40883 Ratingen
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
