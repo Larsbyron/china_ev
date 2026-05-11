@@ -10,8 +10,20 @@
  *   npx tsx scripts/tweet-latest.ts --dry-run
  */
 
-import * as dotenv from 'dotenv'
-dotenv.config()
+// dotenvx injects env vars before Node starts — parse .env directly to bypass it
+import { parse } from 'dotenv'
+import { readFileSync as _readFileSync, existsSync as _existsSync } from 'fs'
+
+function loadEnv(): Record<string, string> {
+  const envPath = new URL('../.env', import.meta.url)
+  if (_existsSync(envPath)) return parse(_readFileSync(envPath))
+  return {}
+}
+const _localEnv = loadEnv()
+
+function getEnv(key: string): string {
+  return _localEnv[key] || process.env[key] || ''
+}
 
 import { readdirSync, readFileSync, writeFileSync, existsSync } from 'fs'
 import { resolve } from 'path'
@@ -59,7 +71,7 @@ function buildTweet(slug: string, title: string, description: string, brand?: st
   const separator = '\n\n'
   // Fixed overhead: URL (23) + two separators + hashtags
   const fixedLength = TWITTER_URL_LENGTH + separator.length * 2 + hashtags.length
-  const available = 280 - fixedLength
+  const available = 275 - fixedLength
 
   // Split available space: title gets up to 120, rest goes to description
   const maxTitle = Math.min(120, available)
@@ -131,10 +143,10 @@ async function main() {
   }
 
   const client = new TwitterApi({
-    appKey: process.env.TWITTER_API_KEY!,
-    appSecret: process.env.TWITTER_API_SECRET!,
-    accessToken: process.env.TWITTER_ACCESS_TOKEN!,
-    accessSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET!,
+    appKey: getEnv('TWITTER_API_KEY'),
+    appSecret: getEnv('TWITTER_API_SECRET'),
+    accessToken: getEnv('TWITTER_ACCESS_TOKEN'),
+    accessSecret: getEnv('TWITTER_ACCESS_TOKEN_SECRET'),
   })
 
   const { data: posted } = await client.v2.tweet(tweet)
@@ -147,5 +159,7 @@ async function main() {
 
 main().catch(e => {
   console.error('Tweet failed:', e.message || e)
+  if (e.data) console.error('API response:', JSON.stringify(e.data, null, 2))
+  if (e.code) console.error('Error code:', e.code)
   process.exit(1)
 })
