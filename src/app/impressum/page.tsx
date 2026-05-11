@@ -30,7 +30,7 @@ export default function ImpressumPage() {
           Geschäftsführer
         </h2>
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
-          Lebin Bai
+          Zhinai Liu
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
