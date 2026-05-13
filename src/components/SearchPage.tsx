@@ -4,8 +4,12 @@ import { useState, useCallback, useRef, useEffect } from 'react'
 import Link from 'next/link'
 import styles from '@/app/suche/page.module.css'
 
-interface PagefindResult {
+interface PagefindSearchResult {
   id: string
+  data: () => Promise<PagefindResultData>
+}
+
+interface PagefindResultData {
   url: string
   meta: { title?: string }
   excerpt: string
@@ -13,7 +17,7 @@ interface PagefindResult {
 
 interface PagefindInstance {
   init: () => Promise<void>
-  search: (query: string) => Promise<{ results: PagefindResult[] }>
+  search: (query: string) => Promise<{ results: PagefindSearchResult[] }>
 }
 
 declare global {
@@ -24,7 +28,7 @@ declare global {
 
 export default function SearchPage() {
   const [query, setQuery] = useState('')
-  const [results, setResults] = useState<PagefindResult[]>([])
+  const [results, setResults] = useState<PagefindResultData[]>([])
   const [loading, setLoading] = useState(false)
   const [searched, setSearched] = useState(false)
   const [pagefindLoaded, setPagefindLoaded] = useState(false)
@@ -75,8 +79,9 @@ export default function SearchPage() {
         }
 
         const search = await pf.search(trimmed)
-        const validResults = (search.results || []).filter(
-          (r: PagefindResult) => typeof r.url === 'string' && r.url.length > 0
+        const loaded = await Promise.all(search.results.map((r: PagefindSearchResult) => r.data()))
+        const validResults = loaded.filter(
+          (r) => typeof r.url === 'string' && r.url.length > 0
         )
         setResults(validResults)
       } catch (err) {
@@ -148,7 +153,7 @@ export default function SearchPage() {
             <div className={styles.resultList}>
               {results.map((result) => (
                 <Link
-                  key={result.id}
+                  key={result.url}
                   href={result.url}
                   className={styles.resultItem}
                 >
