@@ -160,7 +160,7 @@ export function getAllBrands(): { name: string; slug: string; articleCount: numb
 
   return brands.map((brand) => {
     const brandArticles = articles.filter(
-      (a) => a.brand?.toLowerCase() === brand.slug.toLowerCase()
+      (a) => a.brand?.toLowerCase() === brand.name.toLowerCase()
     )
     return {
       ...brand,

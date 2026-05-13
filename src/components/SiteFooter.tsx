@@ -2,12 +2,12 @@ import Link from 'next/link'
 import styles from './SiteFooter.module.css'
 
 const brandLinks = [
-  { href: '/brands#byd', label: 'BYD' },
-  { href: '/brands#nio', label: 'NIO' },
-  { href: '/brands#xpeng', label: 'XPeng' },
-  { href: '/brands#li-auto', label: 'Li Auto' },
-  { href: '/brands#mg', label: 'MG' },
-  { href: '/brands#geely', label: 'Geely' },
+  { href: '/brands/byd', label: 'BYD' },
+  { href: '/brands/nio', label: 'NIO' },
+  { href: '/brands/xpeng', label: 'XPeng' },
+  { href: '/brands/li-auto', label: 'Li Auto' },
+  { href: '/brands/mg', label: 'MG' },
+  { href: '/brands/geely', label: 'Geely' },
 ]
 
 const legalLinks = [
@@ -44,12 +44,7 @@ export default function SiteFooter() {
               <span className={styles.linkGroupTitle}>Mehr</span>
               <div className={styles.linkList}>
                 {legalLinks.map((link) => (
-                  <Link
-                    key={link.href}
-                    href={link.href}
-                    className={styles.link}
-                    {...(link.external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
-                  >
+                  <Link key={link.href} href={link.href} className={styles.link}>
                     {link.label}
                   </Link>
                 ))}

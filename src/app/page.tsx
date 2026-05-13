@@ -103,7 +103,7 @@ export default function HomePage() {
               {brands.map((brand) => (
                 <Link
                   key={brand.slug}
-                  href={`/brands#${brand.slug}`}
+                  href={`/brands/${brand.slug}`}
                   className={styles.brandCard}
                 >
                   <span className={styles.brandInitial}>{brand.initial}</span>

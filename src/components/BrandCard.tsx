@@ -10,7 +10,7 @@ interface BrandCardProps {
 
 export default function BrandCard({ name, slug, articleCount, latestHeadline }: BrandCardProps) {
   return (
-    <Link href={`/brands#${slug}`} className={styles.card}>
+    <Link href={`/brands/${slug}`} className={styles.card}>
       <div className={styles.logo}>
         <span className={styles.initial}>{name[0]}</span>
       </div>
