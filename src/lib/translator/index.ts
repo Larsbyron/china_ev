@@ -13,6 +13,7 @@ import {
   parseTranslationOutput,
 } from './prompts'
 import { lookupBrand, buildInDeutschlandSection } from './brand-glossary'
+import { buildRevisionPrompt } from './editorial-review'
 
 // ============================================================================
 // Types
@@ -29,7 +30,9 @@ export interface TranslationResult {
 
 export interface TranslateArticleOptions {
   signal?: AbortSignal
-  brand?: string    // detected brand name (from scraper)
+  brand?: string
+  feedback?: string
+  previousTranslation?: string
 }
 
 export interface TranslateBatchOptions {
@@ -223,7 +226,7 @@ export async function translateArticle(
   content: string,
   options: TranslateArticleOptions = {}
 ): Promise<TranslationResult> {
-  const { signal, brand } = options
+  const { signal, brand, feedback, previousTranslation } = options
 
   if (!API_KEY) {
     return emptyResult('DEEPSEEK_API_KEY is not configured')
@@ -241,6 +244,37 @@ export async function translateArticle(
     const context = {
       brandOfficialName: brandInfo?.officialName,
       inDeutschlandText,
+    }
+
+    // Re-translation with editorial feedback
+    if (feedback && previousTranslation) {
+      const revisionPrompt = buildRevisionPrompt(
+        title, content, previousTranslation, feedback, brand
+      )
+      const raw = await callDeepSeekAPI(TRANSLATION_SYSTEM_PROMPT, revisionPrompt, signal)
+
+      if (raw.length < 50) {
+        return emptyResult('Re-translation response too short')
+      }
+
+      const parsed = parseTranslationOutput(raw)
+      if (parsed && parsed.titel && parsed.inhalt) {
+        return {
+          title: parsed.titel,
+          description: parsed.beschreibung,
+          content: parsed.inhalt,
+          inDeutschland: parsed.inDeutschland || (inDeutschlandText ?? ''),
+          ok: true,
+        }
+      }
+
+      return {
+        title,
+        description: '',
+        content: raw,
+        inDeutschland: inDeutschlandText ?? '',
+        ok: true,
+      }
     }
 
     if (content.length > MAX_CHUNK_CHARS) {

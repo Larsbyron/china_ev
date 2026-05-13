@@ -12,9 +12,12 @@ import { scrapePCauto } from './sources/pcauto'
 import { scrapeAutohomeNewEnergy } from './sources/autohome_newenergy'
 import { scrapeOfweekNev } from './sources/ofweek_nev'
 import { scrapeChooseAuto } from './sources/chooseauto'
+import { scrapeD1EV } from './sources/d1ev'
+import { scrapeCarNewsChina } from './sources/carnewschina'
 import { translateArticle } from '../translator'
 import { lookupBrand } from '../translator/brand-glossary'
 import { runQualityCheck, formatQualityReport } from '../translator/quality-check'
+import { editorialReview, MAX_RETRANSLATION_ATTEMPTS } from '../translator/editorial-review'
 import { downloadAndSaveImage } from '../images'
 
 const RUNLOG_FILE = resolve(process.cwd(), '.runlog.jsonl')
@@ -30,7 +33,9 @@ const SCRAPERS: Record<string, ScraperFn> = {
   pcauto: scrapePCauto,
   autohome_newenergy: scrapeAutohomeNewEnergy,
   ofweek_nev: scrapeOfweekNev,
-  chooseauto: scrapeChooseAuto
+  chooseauto: scrapeChooseAuto,
+  d1ev: scrapeD1EV,
+  carnewschina: scrapeCarNewsChina
 }
 
 const SOURCE_NAMES: Record<string, SourceName> = {
@@ -40,7 +45,9 @@ const SOURCE_NAMES: Record<string, SourceName> = {
   pcauto: 'PCauto',
   autohome_newenergy: 'Autohome NewEnergy',
   ofweek_nev: 'OFweek NEV',
-  chooseauto: 'ChooseAuto'
+  chooseauto: 'ChooseAuto',
+  d1ev: 'D1EV',
+  carnewschina: 'CarNewsChina'
 }
 
 /**
@@ -189,7 +196,7 @@ async function processSource(
 
   try {
     console.log(`\n[${sourceName}] Starting scrape...`)
-    const articles = await scraperFn(5)
+    const articles = await scraperFn(8)
 
     for (const article of articles) {
       // Check for duplicate
@@ -282,6 +289,72 @@ async function processSource(
           title: qcResult.title,
           content: qcResult.content,
           description: qcResult.description,
+        }
+
+        // === 责任编辑审核 ===
+        let editorialPassed = false
+        let editorialFeedback = ''
+        let currentTitle = translatedArticle.title
+        let currentContent = translatedArticle.content
+        let currentDescription = translatedArticle.description || ''
+
+        for (let attempt = 0; attempt <= MAX_RETRANSLATION_ATTEMPTS; attempt++) {
+          const review = await editorialReview({
+            title: currentTitle,
+            description: currentDescription,
+            content: currentContent,
+            originalContent: article.content,
+            brand: article.brand,
+          })
+
+          console.log(`[${sourceName}] Editorial review (attempt ${attempt + 1}): avg=${review.averageScore.toFixed(1)} ${review.approved ? 'APPROVE' : 'REVISION'}`)
+
+          logRun(sourceName, currentTitle, review.approved ? 'editorial_approved' : 'editorial_revision')
+
+          if (review.approved) {
+            editorialPassed = true
+            translatedArticle = { ...translatedArticle, title: currentTitle, content: currentContent, description: currentDescription }
+            break
+          }
+
+          editorialFeedback = review.feedback
+
+          if (attempt < MAX_RETRANSLATION_ATTEMPTS) {
+            console.log(`[${sourceName}] Re-translating with editorial feedback...`)
+            const retranslation = await translateArticle(article.title, article.content, {
+              brand: article.brand,
+              feedback: editorialFeedback,
+              previousTranslation: currentContent,
+            })
+
+            if (retranslation.ok) {
+              const reFullContent = retranslation.inDeutschland
+                ? `${retranslation.content}\n\n---\n\n${retranslation.inDeutschland}`
+                : retranslation.content
+              currentTitle = retranslation.title
+              currentContent = reFullContent
+              currentDescription = retranslation.description || ''
+            } else {
+              console.log(`[${sourceName}] Re-translation failed: ${retranslation.error}`)
+              break
+            }
+          }
+        }
+
+        if (!editorialPassed) {
+          console.log(`[${sourceName}] Editorial rejected after ${MAX_RETRANSLATION_ATTEMPTS} retries — saving to drafts`)
+          try {
+            await saveArticle({
+              ...translatedArticle,
+              title: `[EDITORIAL REJECTED] ${currentTitle}`,
+              content: currentContent,
+            }, true)
+            logRun(sourceName, currentTitle, 'draft_editorial_rejected')
+          } catch (draftError) {
+            const draftErrorMsg = draftError instanceof Error ? draftError.message : String(draftError)
+            result.errors.push(`Failed to save editorial draft ${currentTitle}: ${draftErrorMsg}`)
+          }
+          continue
         }
         // ======================
       } catch (translateErr) {
@@ -498,4 +571,4 @@ function getISOWeek(date: Date): number {
   return Math.ceil((((d.getTime() - yearStart.getTime()) / 86400000) + 1) / 7)
 }
 
-export { scrapeAutohome, scrapeIfeng, scrapeSina, scrapePCauto, scrapeAutohomeNewEnergy, scrapeOfweekNev, scrapeChooseAuto }
+export { scrapeAutohome, scrapeIfeng, scrapeSina, scrapePCauto, scrapeAutohomeNewEnergy, scrapeOfweekNev, scrapeChooseAuto, scrapeD1EV, scrapeCarNewsChina }

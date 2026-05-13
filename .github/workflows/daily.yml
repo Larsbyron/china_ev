@@ -2,7 +2,7 @@ name: Daily Pipeline
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Every day at 08:00 UTC
+    - cron: '0 2,10,18 * * *'  # 02:00, 10:00, 18:00 UTC
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
