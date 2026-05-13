@@ -30,10 +30,7 @@ export default function DatenschutzPage() {
           2. Verantwortliche Stelle
         </h2>
         <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
-          [Name]<br />
-          [Straße und Hausnummer]<br />
-          [PLZ und Ort]<br />
-          E-Mail: [deine@email.de]
+          E-Mail: <a href="mailto:l.bai@loghan.de">l.bai@loghan.de</a>
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
@@ -49,19 +46,6 @@ export default function DatenschutzPage() {
           URL, Hostname des zugreifenden Rechners, Uhrzeit der Serveranfrage und
           IP-Adresse. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird
           nicht vorgenommen.
-        </p>
-
-        <h3 style={{ fontSize: '1.1rem', marginTop: '1rem', marginBottom: '0.5rem' }}>
-          Kommentare (Giscus)
-        </h3>
-        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
-          Wenn Sie Kommentare auf dieser Website hinterlassen, werden Ihre Daten
-          über den Dienst Giscus (GitHub Discussions) verarbeitet. Es werden dabei
-          Ihr GitHub-Benutzername, der Kommentartext und Zeitpunkt des Kommentars
-          gespeichert. Weitere Informationen finden Sie in der{' '}
-          <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" target="_blank" rel="noopener noreferrer">
-            Datenschutzerklärung von GitHub
-          </a>.
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>

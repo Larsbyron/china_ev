@@ -37,10 +37,8 @@ export default function AboutPage() {
 
         <h2 style={{ fontSize: '1.5rem', marginTop: '2rem', marginBottom: '1rem' }}>Kontakt</h2>
         <p style={{ lineHeight: 1.7 }}>
-          Fragen, Anregungen oder Hinweise? Schreib uns auf{' '}
-          <a href="https://github.com/Larsbyron/china_ev" target="_blank" rel="noopener noreferrer">
-            GitHub
-          </a>.
+          Fragen, Anregungen oder Hinweise? Schreib uns:{' '}
+          <a href="mailto:l.bai@loghan.de">l.bai@loghan.de</a>.
         </p>
       </main>
 

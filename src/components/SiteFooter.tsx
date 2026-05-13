@@ -14,7 +14,6 @@ const legalLinks = [
   { href: '/impressum', label: 'Impressum' },
   { href: '/datenschutz', label: 'Datenschutz' },
   { href: '/feed.xml', label: 'RSS' },
-  { href: 'https://github.com/Larsbyron/china_ev', label: 'GitHub', external: true },
 ]
 
 export default function SiteFooter() {
