@@ -44,3 +44,4 @@ processed_articles.json
 __pycache__/
 *.py[cod]
 .vercel
+tsconfig.tsbuildinfo
