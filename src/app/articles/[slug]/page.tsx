@@ -177,7 +177,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 height={630}
                 loading="eager"
                 fetchPriority="high"
-                fallbackClassName={styles.heroImage}
               />
             </div>
           )}
@@ -245,7 +244,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       className={styles.relatedCard}
                     >
                       {related.image && (
-                        <FallbackImage src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} fallbackClassName={styles.relatedImage} />
+                        <FallbackImage src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} />
                       )}
                       <div className={styles.relatedContent}>
                         <h3 className={styles.relatedCardTitle}>{related.title}</h3>

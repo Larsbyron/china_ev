@@ -4,6 +4,7 @@ import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import Hero from '@/components/Hero'
 import ArticleCard from '@/components/ArticleCard'
+import ArticleListItem from '@/components/ArticleListItem'
 import NewsletterForm from '@/components/NewsletterForm'
 import {
   getAllArticles,
@@ -28,8 +29,12 @@ const brands = [
 
 export default function HomePage() {
   const featured = getFeaturedArticle()
-  const latestArticles = getLatestArticles(6)
   const allArticles = getAllArticles()
+
+  // Scan a larger window so cards always have something even when recent posts lack images
+  const latestArticles = getLatestArticles(20)
+  const articlesWithImage = latestArticles.filter((a) => a.image).slice(0, 6)
+  const articlesWithoutImage = latestArticles.filter((a) => !a.image).slice(0, 5)
 
   return (
     <>
@@ -46,15 +51,32 @@ export default function HomePage() {
               <h2 className={styles.sectionTitle}>Neueste Artikel</h2>
             </div>
 
-            <div className={styles.articleGrid}>
-              {latestArticles.map((article, i) => (
-                <ArticleCard
-                  key={article.slug}
-                  article={article}
-                  featured={i === 0}
-                />
-              ))}
-            </div>
+            {articlesWithImage.length > 0 && (
+              <div className={styles.articleGrid}>
+                {articlesWithImage.map((article, i) => (
+                  <ArticleCard
+                    key={article.slug}
+                    article={article}
+                    featured={i === 0}
+                  />
+                ))}
+              </div>
+            )}
+
+            {articlesWithoutImage.length > 0 && (
+              <div className={styles.kompakt}>
+                <div className={styles.kompaktHeader}>
+                  <div className={styles.kompaktLine} aria-hidden="true" />
+                  <h3 className={styles.kompaktTitle}>Kompakt</h3>
+                  <span className={styles.kompaktSubtitle}>weitere Meldungen</span>
+                </div>
+                <div className={styles.kompaktList}>
+                  {articlesWithoutImage.map((article) => (
+                    <ArticleListItem key={article.slug} article={article} />
+                  ))}
+                </div>
+              </div>
+            )}
 
             {allArticles.length > 6 && (
               <div className={styles.viewAll}>

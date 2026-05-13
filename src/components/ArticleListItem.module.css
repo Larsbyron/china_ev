@@ -1,0 +1,114 @@
+.item {
+  position: relative;
+  display: flex;
+  gap: var(--space-5);
+  padding: var(--space-5) var(--space-6);
+  background: var(--color-bg-secondary);
+  border-bottom: 1px solid var(--color-border);
+  text-decoration: none;
+  transition: background-color var(--duration-fast) var(--ease-out);
+}
+
+.item:last-child {
+  border-bottom: none;
+}
+
+.item:hover {
+  background: var(--color-bg-tertiary);
+}
+
+.accent {
+  flex-shrink: 0;
+  width: 3px;
+  border-radius: 2px;
+  background: var(--color-accent-green);
+  opacity: 0.6;
+  transition: width var(--duration-fast) var(--ease-out),
+              opacity var(--duration-fast) var(--ease-out);
+}
+
+.item:hover .accent {
+  width: 6px;
+  opacity: 1;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  flex: 1;
+  min-width: 0;
+  transition: transform var(--duration-fast) var(--ease-out);
+}
+
+.item:hover .body {
+  transform: translateX(4px);
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--color-text-secondary);
+}
+
+.brand {
+  font-weight: 600;
+  color: var(--color-accent-green);
+  background: rgba(48, 209, 88, 0.1);
+  padding: var(--space-1) var(--space-2);
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.source {
+  color: var(--color-text-secondary);
+}
+
+.dot {
+  color: var(--color-text-tertiary, var(--color-text-secondary));
+  opacity: 0.5;
+}
+
+.date,
+.readTime {
+  color: var(--color-text-secondary);
+}
+
+.title {
+  font-size: var(--text-xl);
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--color-text-primary);
+  letter-spacing: -0.01em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.description {
+  font-size: var(--text-sm);
+  line-height: 1.5;
+  color: var(--color-text-secondary);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  .item {
+    padding: var(--space-4) var(--space-5);
+    gap: var(--space-4);
+  }
+
+  .title {
+    font-size: var(--text-lg);
+  }
+}

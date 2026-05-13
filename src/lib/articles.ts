@@ -45,11 +45,23 @@ export type Brand = {
 }
 
 const POSTS_DIR = path.join(process.cwd(), 'content', 'posts')
+const PUBLIC_DIR = path.join(process.cwd(), 'public')
 
 function calculateReadTime(content: string): number {
   const wordsPerMinute = 200
   const wordCount = content.split(/\s+/).filter(Boolean).length
   return Math.max(1, Math.ceil(wordCount / wordsPerMinute))
+}
+
+// Resolves an article image path to null if the file is missing on disk.
+// External URLs (http/https) pass through unchanged — they can only be
+// validated at runtime via FallbackImage.onError.
+function resolveImage(image: string | null | undefined): string | null {
+  if (!image) return null
+  if (/^https?:\/\//i.test(image)) return image
+  if (!image.startsWith('/')) return null
+  const diskPath = path.join(PUBLIC_DIR, image)
+  return fs.existsSync(diskPath) ? image : null
 }
 
 function parseMarkdownFile(filePath: string): Article | null {
@@ -77,7 +89,7 @@ function parseMarkdownFile(filePath: string): Article | null {
       date: validated.date,
       description: validated.description,
       source: validated.source,
-      image: validated.image,
+      image: resolveImage(validated.image),
       category: validated.category,
       brand: validated.brand,
       tags: validated.tags,

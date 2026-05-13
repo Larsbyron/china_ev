@@ -8,8 +8,10 @@ interface HeroProps {
 }
 
 export default function Hero({ article }: HeroProps) {
+  const hasImage = Boolean(article.image)
+
   return (
-    <section className={styles.hero}>
+    <section className={`${styles.hero} ${hasImage ? '' : styles.heroNoImage}`}>
       <div className={styles.inner}>
         <div className={styles.content}>
           <div className={styles.accentLine} aria-hidden="true" />
@@ -54,31 +56,22 @@ export default function Hero({ article }: HeroProps) {
           </div>
         </div>
 
-        <div className={styles.visual}>
-          <div className={styles.imageWrapper}>
-            {article.image ? (
-              <>
-                <FallbackImage
-                  src={article.image}
-                  alt=""
-                  className={styles.image}
-                  width={1200}
-                  height={900}
-                  loading="eager"
-                  fetchPriority="high"
-                  fallbackClassName={styles.imageFallback}
-                />
-                <div className={styles.imageOverlay} aria-hidden="true" />
-              </>
-            ) : (
-              <div className={styles.imageFallback}>
-                <span className={styles.fallbackLabel}>
-                  {article.brand || article.source}
-                </span>
-              </div>
-            )}
+        {hasImage && (
+          <div className={styles.visual}>
+            <div className={styles.imageWrapper}>
+              <FallbackImage
+                src={article.image!}
+                alt=""
+                className={styles.image}
+                width={1200}
+                height={900}
+                loading="eager"
+                fetchPriority="high"
+              />
+              <div className={styles.imageOverlay} aria-hidden="true" />
+            </div>
           </div>
-        </div>
+        )}
       </div>
     </section>
   )
