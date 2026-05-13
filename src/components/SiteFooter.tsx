@@ -4,10 +4,10 @@ import styles from './SiteFooter.module.css'
 const brandLinks = [
   { href: '/brands/byd', label: 'BYD' },
   { href: '/brands/nio', label: 'NIO' },
-  { href: '/brands/xpeng', label: 'XPeng' },
   { href: '/brands/li-auto', label: 'Li Auto' },
   { href: '/brands/mg', label: 'MG' },
   { href: '/brands/geely', label: 'Geely' },
+  { href: '/brands/zeekr', label: 'Zeekr' },
 ]
 
 const legalLinks = [

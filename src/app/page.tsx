@@ -21,10 +21,10 @@ export const metadata: Metadata = {
 const brands = [
   { name: 'BYD', slug: 'byd', initial: 'B' },
   { name: 'NIO', slug: 'nio', initial: 'N' },
-  { name: 'XPeng', slug: 'xpeng', initial: 'X' },
   { name: 'Li Auto', slug: 'li-auto', initial: 'L' },
   { name: 'MG', slug: 'mg', initial: 'M' },
   { name: 'Geely', slug: 'geely', initial: 'G' },
+  { name: 'Zeekr', slug: 'zeekr', initial: 'Z' },
 ]
 
 export default function HomePage() {
