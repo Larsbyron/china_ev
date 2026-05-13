@@ -125,6 +125,20 @@
   color: var(--color-text-secondary);
 }
 
+/* List section for articles without images */
+.listSection {
+  margin-top: var(--space-8);
+}
+
+.listBox {
+  display: flex;
+  flex-direction: column;
+  background: var(--color-bg-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
 /* Empty State */
 .empty {
   text-align: center;

@@ -4,6 +4,7 @@ import { useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import { Suspense } from 'react'
 import ArticleCard from '@/components/ArticleCard'
+import ArticleListItem from '@/components/ArticleListItem'
 import type { ArticleMeta } from '@/lib/articles'
 import styles from '@/app/articles/page.module.css'
 
@@ -63,11 +64,23 @@ function ArticlesListingInner({ articles, tags }: { articles: ArticleMeta[]; tag
 
       {pageArticles.length > 0 ? (
         <>
-          <div className={styles.articleGrid}>
-            {pageArticles.map((article) => (
-              <ArticleCard key={article.slug} article={article} />
-            ))}
-          </div>
+          {pageArticles.filter((a) => a.image).length > 0 && (
+            <div className={styles.articleGrid}>
+              {pageArticles.filter((a) => a.image).map((article) => (
+                <ArticleCard key={article.slug} article={article} />
+              ))}
+            </div>
+          )}
+
+          {pageArticles.filter((a) => !a.image).length > 0 && (
+            <div className={styles.listSection}>
+              <div className={styles.listBox}>
+                {pageArticles.filter((a) => !a.image).map((article) => (
+                  <ArticleListItem key={article.slug} article={article} />
+                ))}
+              </div>
+            </div>
+          )}
 
           {totalPages > 1 && (
             <nav className={styles.pagination} aria-label="Seitennavigation">
