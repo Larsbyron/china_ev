@@ -61,10 +61,33 @@ function saveTweetLog(slugs: Set<string>): void {
   writeFileSync(TWEET_LOG, JSON.stringify([...slugs], null, 2), 'utf-8')
 }
 
+// Twitter 推文必须只含德语 — 剥离 CJK 字符（汉字、假名、韩文、全角标点）
+// 1) 含 CJK 的括号片段整体替换为空格：Li Auto (理想) → Li Auto
+// 2) 剩余 CJK 字符序列替换为空格：Das的大型SUV → Das SUV
+// 3) 清理空括号、修剪标点前空格、折叠多余空格
+const CJK_RANGES = '\\u3000-\\u303f\\u3040-\\u309f\\u30a0-\\u30ff\\u3400-\\u4dbf\\u4e00-\\u9fff\\uac00-\\ud7af\\uff00-\\uffef'
+const CJK_PAREN_FRAGMENT = new RegExp(`[（(][^)）]*[${CJK_RANGES}]+[^)）]*[)）]`, 'g')
+const CJK_CHARS = new RegExp(`[${CJK_RANGES}]+`, 'g')
+const EMPTY_PARENS = /\s*[（(]\s*[)）]/g
+
+function stripCJK(text: string): string {
+  if (!text) return text
+  return text
+    .replace(CJK_PAREN_FRAGMENT, ' ')
+    .replace(CJK_CHARS, ' ')
+    .replace(EMPTY_PARENS, '')
+    .replace(/\s+([,.;:!?])/g, '$1')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
 function buildTweet(slug: string, title: string, description: string, brand?: string): string {
   const url = `${SITE_URL}/articles/${slug}/`
   const brandTag = brand && BRAND_HASHTAGS[brand] ? ` ${BRAND_HASHTAGS[brand]}` : ''
   const hashtags = `#ElektroAuto #ChinaEV #EV${brandTag}`
+
+  title = stripCJK(title)
+  description = stripCJK(description)
 
   // Twitter counts all URLs as 23 chars (t.co shortlink)
   const TWITTER_URL_LENGTH = 23
