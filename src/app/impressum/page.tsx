@@ -52,8 +52,8 @@ export default function ImpressumPage() {
           Redaktionell verantwortlich
         </h2>
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
-          Loghan GmbH<br />
-          Forsthaus 22, 40883 Ratingen
+          Zhinai Liu<br />
+          Forsthaus 22, D-40883 Ratingen
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>

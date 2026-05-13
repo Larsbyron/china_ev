@@ -30,6 +30,9 @@ export default function DatenschutzPage() {
           2. Verantwortliche Stelle
         </h2>
         <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Zhinai Liu<br />
+          Forsthaus 22<br />
+          D-40883 Ratingen<br />
           E-Mail: <a href="mailto:l.bai@loghan.de">l.bai@loghan.de</a>
         </p>
 
