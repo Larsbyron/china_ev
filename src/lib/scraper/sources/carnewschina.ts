@@ -9,7 +9,6 @@ import { extractBrand } from '../brands'
 
 const SOURCE_NAME: SourceName = 'CarNewsChina'
 const BASE_URL = 'https://carnewschina.com'
-const NEWS_URL = 'https://carnewschina.com'
 
 const DELAY_MS = 1000
 
@@ -39,17 +38,40 @@ function parseArticleList(html: string): Array<{ title: string; url: string; ima
   const links: Array<{ title: string; url: string; image?: string }> = []
   const seen = new Set<string>()
 
-  $('article a, .post a, .entry a, h2 a, h3 a').each((_, el) => {
+  // CarNewsChina 是 WordPress 网站，文章链接格式为 /YYYY/MM/DD/slug/
+  const articleUrlPattern = /\/\d{4}\/\d{2}\/\d{2}\/[^/]+\/$/
+
+  // 查找所有文章链接
+  $('a[href]').each((_, el) => {
     const $el = $(el)
-    const href = $el.attr('href')
+    const href = ($el.attr('href') || '').trim()
     const title = $el.text().trim()
 
-    if (href && title && title.length > 8 && !href.includes('javascript') && !seen.has(href)) {
+    if (!href || !title || title.length < 10) return
+    if (seen.has(href)) return
+
+    // 只匹配文章详情页链接
+    if (articleUrlPattern.test(href)) {
       seen.add(href)
       const fullUrl = href.startsWith('http') ? href : BASE_URL + href
       links.push({ title: title.slice(0, 200), url: fullUrl })
     }
   })
+
+  // 如果按 URL 模式没找到，回退到宽松匹配
+  if (links.length === 0) {
+    $('article a, h2 a, h3 a').each((_, el) => {
+      const $el = $(el)
+      const href = $el.attr('href')
+      const title = $el.text().trim()
+
+      if (href && title && title.length > 8 && !href.includes('javascript') && !seen.has(href)) {
+        seen.add(href)
+        const fullUrl = href.startsWith('http') ? href : BASE_URL + href
+        links.push({ title: title.slice(0, 200), url: fullUrl })
+      }
+    })
+  }
 
   return links
 }
@@ -57,10 +79,12 @@ function parseArticleList(html: string): Array<{ title: string; url: string; ima
 function extractArticleContent(html: string): { text: string; image?: string; date?: string } {
   const $ = load(html)
 
-  $('script, style, nav, header, footer, aside, iframe, .ad, .comment, .share, .sidebar, .related').remove()
+  $('script, style, nav, header, footer, aside, iframe, .ad, .comment, .share, .sidebar, .related, .block__newsletter, .block__popular_topics, .block__popular_col_wrapper').remove()
 
-  const selectors = ['.entry-content', '.post-content', '.article-content', 'article', '.content']
+  // CarNewsChina 文章正文 class: .article_detail__content
   let bestText = ''
+  const selectors = ['.article_detail__content', '.entry-content', '.post-content', '.article-content', 'article', '.content']
+
   for (const sel of selectors) {
     const text = $(sel).text().trim().replace(/\s+/g, ' ')
     if (text.length > bestText.length) {
@@ -69,20 +93,31 @@ function extractArticleContent(html: string): { text: string; image?: string; da
   }
 
   if (bestText.length < 300) {
-    bestText = $('article, .post').text().trim().replace(/\s+/g, ' ')
+    bestText = $('article, .post, .article_detail__main_area').text().trim().replace(/\s+/g, ' ')
   }
 
   let image: string | undefined
   $('img').each((_, el) => {
     if (image) return
     const src = $(el).attr('src') || $(el).attr('data-src') || $(el).attr('data-lazy-src')
-    if (src && !src.includes('avatar') && !src.includes('logo') && !src.includes('icon') && !src.includes('emoji')) {
-      image = src.startsWith('http') ? src : BASE_URL + src
+    if (src && !src.includes('avatar') && !src.includes('logo') && !src.includes('icon') && !src.includes('emoji') && !src.includes('fly-images')) {
+      image = src.startsWith('http') ? src : (src.startsWith('//') ? 'https:' + src : BASE_URL + src)
     }
   })
 
+  // 如果没有找到大图，也接受 fly-images 缩略图
+  if (!image) {
+    $('img').each((_, el) => {
+      if (image) return
+      const src = $(el).attr('src') || $(el).attr('data-src')
+      if (src && (src.includes('fly-images') || src.includes('wp-content'))) {
+        image = src.startsWith('http') ? src : (src.startsWith('//') ? 'https:' + src : BASE_URL + src)
+      }
+    })
+  }
+
   let date: string | undefined
-  $('time, .date, .entry-date, .post-date').each((_, el) => {
+  $('time, .article_detail_meta__date, .entry-date, .post-date, [datetime]').each((_, el) => {
     if (date) return
     const text = $(el).text().trim() || $(el).attr('datetime')
     if (text) date = text
@@ -94,7 +129,7 @@ function extractArticleContent(html: string): { text: string; image?: string; da
 export async function scrapeCarNewsChina(maxArticles = 5): Promise<Article[]> {
   console.log(`[${SOURCE_NAME}] Fetching article list...`)
 
-  const html = await fetchPage(NEWS_URL)
+  const html = await fetchPage(BASE_URL)
   const articleLinks = parseArticleList(html)
 
   console.log(`[${SOURCE_NAME}] Found ${articleLinks.length} article links`)

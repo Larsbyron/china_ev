@@ -75,7 +75,7 @@ async function main() {
     }
 
     if (flags.source) {
-      const validSources = ['autohome', 'ifeng', 'sina', 'pcauto', 'autohome_newenergy', 'ofweek_nev', 'chooseauto']
+      const validSources = ['autohome', 'ifeng', 'sina', 'pcauto', 'autohome_newenergy', 'ofweek_nev', 'chooseauto', 'd1ev', 'carnewschina']
       if (!validSources.includes(flags.source)) {
         console.error(`Error: Unknown source "${flags.source}". Valid sources: ${validSources.join(', ')}`)
         process.exit(1)
