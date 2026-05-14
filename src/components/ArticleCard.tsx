@@ -15,8 +15,8 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
       href={`/articles/${article.slug}`}
       className={`${styles.card} ${featured ? styles.featured : ''}`}
     >
-      <div className={styles.imageWrapper}>
-        {article.image && (
+      {article.image && (
+        <div className={styles.imageWrapper}>
           <FallbackImage
             src={article.image}
             alt={article.title}
@@ -26,8 +26,8 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             loading={featured ? 'eager' : 'lazy'}
             decoding="async"
           />
-        )}
-      </div>
+        </div>
+      )}
 
       <div className={styles.content}>
         <div className={styles.meta}>

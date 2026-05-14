@@ -31,10 +31,13 @@ export default function HomePage() {
   const featured = getFeaturedArticle()
   const allArticles = getAllArticles()
 
-  // Scan a larger window so cards always have something even when recent posts lack images
-  const latestArticles = getLatestArticles(20)
-  const articlesWithImage = latestArticles.filter((a) => a.image).slice(0, 6)
-  const articlesWithoutImage = latestArticles.filter((a) => !a.image).slice(0, 5)
+  // Strict chronological order, no image filter — newest is always first.
+  // Skip the featured article so it doesn't double up with the Hero.
+  const latestArticles = getLatestArticles(12).filter(
+    (a) => a.slug !== featured?.slug,
+  )
+  const gridArticles = latestArticles.slice(0, 6)
+  const listArticles = latestArticles.slice(6, 11)
 
   return (
     <>
@@ -51,27 +54,26 @@ export default function HomePage() {
               <h2 className={styles.sectionTitle}>Neueste Artikel</h2>
             </div>
 
-            {articlesWithImage.length > 0 && (
+            {gridArticles.length > 0 && (
               <div className={styles.articleGrid}>
-                {articlesWithImage.map((article, i) => (
+                {gridArticles.map((article, i) => (
                   <ArticleCard
                     key={article.slug}
                     article={article}
-                    featured={i === 0}
+                    featured={i === 0 && Boolean(article.image)}
                   />
                 ))}
               </div>
             )}
 
-            {articlesWithoutImage.length > 0 && (
+            {listArticles.length > 0 && (
               <div className={styles.kompakt}>
                 <div className={styles.kompaktHeader}>
                   <div className={styles.kompaktLine} aria-hidden="true" />
-                  <h3 className={styles.kompaktTitle}>Kompakt</h3>
-                  <span className={styles.kompaktSubtitle}>weitere Meldungen</span>
+                  <h3 className={styles.kompaktTitle}>Mehr Meldungen</h3>
                 </div>
                 <div className={styles.kompaktList}>
-                  {articlesWithoutImage.map((article) => (
+                  {listArticles.map((article) => (
                     <ArticleListItem key={article.slug} article={article} />
                   ))}
                 </div>
