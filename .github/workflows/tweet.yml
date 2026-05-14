@@ -1,0 +1,65 @@
+name: Tweet Drip
+
+# Drips one tweet per run (max 10/day, ≥ 60 min apart), enforced inside
+# scripts/tweet-latest.ts. Runs every hour on the :15 to stay clear of the
+# Daily Pipeline schedule at :00.
+on:
+  schedule:
+    - cron: '15 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: tweet-drip
+  cancel-in-progress: false
+
+jobs:
+  tweet:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Drip tweet
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL }}
+        run: npx tsx scripts/tweet-latest.ts
+
+      - name: Commit tweet log
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tweet-log.json
+          if git diff --quiet --cached; then
+            echo "Tweet log unchanged — nothing to commit."
+            exit 0
+          fi
+          git commit -m "ci: tweet drip [skip ci]"
+          # Daily Pipeline may push concurrently — rebase before push so the
+          # tweet-log update doesn't get rejected. If rebase leaves a half-
+          # finished state (e.g., conflict), abort it before retrying so the
+          # second attempt isn't blocked by a stale .git/rebase-merge dir.
+          for i in 1 2; do
+            git rebase --abort 2>/dev/null || true
+            git pull --rebase origin main && git push && exit 0
+            echo "Push attempt $i failed, retrying..."
+            sleep 5
+          done
+          echo "Push failed after 2 retries" >&2
+          exit 1

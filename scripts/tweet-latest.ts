@@ -29,6 +29,14 @@ import { readdirSync, readFileSync, writeFileSync, existsSync } from 'fs'
 import { resolve } from 'path'
 import matter from 'gray-matter'
 import { TwitterApi } from 'twitter-api-v2'
+import {
+  type TweetLogEntry,
+  MAX_TWEETS_PER_DAY,
+  MIN_INTERVAL_MS,
+  normalizeTweetLog,
+  tweetsToday,
+  lastTweetTime,
+} from '../src/lib/tweet-throttle.js'
 
 const POSTS_DIR = resolve(process.cwd(), 'content/posts')
 const TWEET_LOG = resolve(process.cwd(), 'tweet-log.json')
@@ -51,14 +59,13 @@ const BRAND_HASHTAGS: Record<string, string> = {
   'Leapmotor': '#Leapmotor',
 }
 
-function loadTweetLog(): Set<string> {
-  if (!existsSync(TWEET_LOG)) return new Set()
-  const data = JSON.parse(readFileSync(TWEET_LOG, 'utf-8')) as string[]
-  return new Set(data)
+function loadTweetLog(): TweetLogEntry[] {
+  if (!existsSync(TWEET_LOG)) return []
+  return normalizeTweetLog(JSON.parse(readFileSync(TWEET_LOG, 'utf-8')))
 }
 
-function saveTweetLog(slugs: Set<string>): void {
-  writeFileSync(TWEET_LOG, JSON.stringify([...slugs], null, 2), 'utf-8')
+function saveTweetLog(entries: TweetLogEntry[]): void {
+  writeFileSync(TWEET_LOG, JSON.stringify(entries, null, 2), 'utf-8')
 }
 
 // Twitter 推文必须只含德语 — 剥离 CJK 字符（汉字、假名、韩文、全角标点）
@@ -119,13 +126,48 @@ async function main() {
   console.log(`Tweet Latest Article — ${DRY_RUN ? 'DRY RUN' : 'LIVE'}`)
   console.log('─'.repeat(50))
 
+  // Fail loud on missing Twitter credentials so we don't burn a slot only
+  // to get an opaque OAuth error from the API later.
+  if (!DRY_RUN) {
+    const missing = [
+      'TWITTER_API_KEY',
+      'TWITTER_API_SECRET',
+      'TWITTER_ACCESS_TOKEN',
+      'TWITTER_ACCESS_TOKEN_SECRET',
+    ].filter((k) => !getEnv(k))
+    if (missing.length > 0) {
+      console.error(`Missing Twitter credentials: ${missing.join(', ')}`)
+      process.exit(1)
+    }
+  }
+
+  const tweetLog = loadTweetLog()
+  const tweetedSlugs = new Set(tweetLog.map((e) => e.slug))
+
+  // Throttle 1: daily cap
+  const todayCount = tweetsToday(tweetLog)
+  if (todayCount >= MAX_TWEETS_PER_DAY) {
+    console.log(`Daily cap reached (${todayCount}/${MAX_TWEETS_PER_DAY}) — skipping.`)
+    return
+  }
+
+  // Throttle 2: minimum interval since last tweet
+  const lastAt = lastTweetTime(tweetLog)
+  if (lastAt !== null) {
+    const elapsedMs = Date.now() - lastAt
+    if (elapsedMs < MIN_INTERVAL_MS) {
+      const elapsedMin = Math.floor(elapsedMs / 60000)
+      const needMin = Math.ceil(MIN_INTERVAL_MS / 60000)
+      console.log(`Only ${elapsedMin} min since last tweet — need ≥ ${needMin} min. Skipping.`)
+      return
+    }
+  }
+
   // Load all published articles, sorted newest first
   const files = readdirSync(POSTS_DIR)
     .filter(f => f.endsWith('.md') && !f.startsWith('.'))
     .sort()
     .reverse()
-
-  const tweetLog = loadTweetLog()
 
   // Find first article not yet tweeted
   let target: { slug: string; title: string; description: string; brand?: string } | null = null
@@ -136,7 +178,7 @@ async function main() {
     if (data.draft) continue
 
     const slug = file.replace(/\.md$/, '')
-    if (tweetLog.has(slug)) continue
+    if (tweetedSlugs.has(slug)) continue
 
     target = {
       slug,
@@ -176,8 +218,21 @@ async function main() {
   console.log(`\n✓ Tweeted! ID: ${posted.id}`)
   console.log(`  https://twitter.com/ChinaEVNews_DE/status/${posted.id}`)
 
-  tweetLog.add(target.slug)
-  saveTweetLog(tweetLog)
+  tweetLog.push({ slug: target.slug, tweetedAt: new Date().toISOString() })
+  try {
+    saveTweetLog(tweetLog)
+  } catch (err) {
+    // The tweet was already posted at this point — failing to persist the
+    // log means the next cron run will repost the same article. Surface
+    // loudly so it shows up in the GitHub Actions failure email; the only
+    // mitigation is manual: edit tweet-log.json on main to add the slug.
+    console.error(
+      `⚠️  Tweet posted (${posted.id}) but FAILED to update tweet-log.json. ` +
+      `Next run will repost — add slug manually: ${target.slug}`,
+    )
+    console.error(err)
+    process.exit(1)
+  }
 }
 
 main().catch(e => {
