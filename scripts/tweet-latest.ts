@@ -59,6 +59,33 @@ const BRAND_HASHTAGS: Record<string, string> = {
   'Leapmotor': '#Leapmotor',
 }
 
+// Per-model hashtags. Matched against the title in order — first hit wins, so
+// list the more specific patterns first (e.g. "Audi RS 5" before plain "Audi").
+// Only one model tag is added per tweet to keep hashtag noise low.
+const MODEL_HASHTAGS: Array<[RegExp, string]> = [
+  [/Xiaomi\s+YU7|\bYU7\b/i, '#XiaomiYU7'],
+  [/Xiaomi\s+SU7|\bSU7\b/i, '#XiaomiSU7'],
+  [/ID\.?\s*ERA\s*9X/i, '#IDera9X'],
+  [/Audi\s+RS\s*5/i, '#AudiRS5'],
+  [/Audi\s+E7X/i, '#AudiE7X'],
+  [/BYD\s+Atto\s+3|\bAtto\s+3\b/i, '#Atto3'],
+  [/Denza\s+B[58]/i, '#Denza'],
+  [/Fangchengbao|\bBao\s+[578]\b/i, '#Fangchengbao'],
+  [/Leapmotor\s+D19/i, '#LeapmotorD19'],
+  [/Aion\s+N60/i, '#AionN60'],
+  [/Luxeed\s+V[0-9]+/i, '#Luxeed'],
+  [/Li\s+Auto\s+L[0-9]+/i, '#LiAutoL9'],
+  [/Voyah\s+(Dream|Taishan|Zhiyin)/i, '#Voyah'],
+  [/Zeekr\s+[0-9X]+/i, '#Zeekr'],
+]
+
+function pickModelHashtag(title: string): string | null {
+  for (const [pattern, tag] of MODEL_HASHTAGS) {
+    if (pattern.test(title)) return tag
+  }
+  return null
+}
+
 function loadTweetLog(): TweetLogEntry[] {
   if (!existsSync(TWEET_LOG)) return []
   return normalizeTweetLog(JSON.parse(readFileSync(TWEET_LOG, 'utf-8')))
@@ -90,8 +117,13 @@ function stripCJK(text: string): string {
 
 function buildTweet(slug: string, title: string, description: string, brand?: string): string {
   const url = `${SITE_URL}/articles/${slug}/`
-  const brandTag = brand && BRAND_HASHTAGS[brand] ? ` ${BRAND_HASHTAGS[brand]}` : ''
-  const hashtags = `#ElektroAuto #ChinaEV #EV${brandTag}`
+  const brandTag = brand && BRAND_HASHTAGS[brand] ? BRAND_HASHTAGS[brand] : null
+  const modelTag = pickModelHashtag(title)
+  const extraTags = [brandTag, modelTag]
+    .filter((t): t is string => t !== null)
+    .filter((t, i, arr) => arr.indexOf(t) === i) // dedupe identical hashtags
+    .join(' ')
+  const hashtags = `#ElektroAuto #ChinaEV #EV${extraTags ? ' ' + extraTags : ''}`
 
   title = stripCJK(title)
   description = stripCJK(description)

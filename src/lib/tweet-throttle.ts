@@ -9,10 +9,13 @@ export interface TweetLogEntry {
   tweetedAt: string | null
 }
 
-export const MAX_TWEETS_PER_DAY = 10
+// Cold-start budget: volume posting buys nothing on an account with ~0
+// followers, and X may even flag high-frequency posting as spam. 1–3 curated
+// tweets/day is plenty until the account has organic reach.
+export const MAX_TWEETS_PER_DAY = 3
 export const MIN_INTERVAL_MS = 60 * 60 * 1000
 // Tweets are throttled by the operator's local day (Germany) so the
-// "10 per day" budget aligns with how a human reading the feed perceives it.
+// daily budget aligns with how a human reading the feed perceives it.
 export const LOCAL_TIMEZONE = 'Europe/Berlin'
 
 /**
