@@ -1,12 +1,12 @@
 ---
 title: "[QA FAILED] Zeekr: 31.787 Auslieferungen im April – 132 % Wachstum"
-date: 2026-05-15T05:50:42.866Z
-description: "Die Geely-Tochter Zeekr (极氪) setzt mit 31.787 Auslieferungen im April einen neuen Rekord. Der Zeekr 8X überzeugt mit 3.500 Einheiten in 13 Tagen, während der Zeekr 009 im Mai auf den Markt kommt."
+date: 2026-05-15T10:28:37.323Z
+description: "Die Geely-Tochter Zeekr (极氪) meldet für April 31.787 Auslieferungen, ein Plus von 132 %. Der Durchschnittspreis liegt bei umgerechnet 44.800 €. Der Zeekr 8X startet stark, der Zeekr 009 kommt im Mai."
 source: "Sina"
 image: "/images/qa-failed-zeekr-31787-auslieferungen-im-april-132-sina-3fe415.webp"
 category: "news"
 brand: "Geely"
-tags: ["Geely", "Zeekr", "Reichweite"]
+tags: ["Geely", "Zeekr"]
 draft: true
 original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwkpti0669247.shtml"
 read_time_minutes: 2
@@ -14,29 +14,24 @@ read_time_minutes: 2
 
 # [QA FAILED] Zeekr: 31.787 Auslieferungen im April – 132 % Wachstum
 
-**Zeekr (极氪)** hat im April 2025 insgesamt 31.787 Fahrzeuge ausgeliefert – ein Plus von 132 Prozent gegenüber dem Vorjahresmonat. Der durchschnittliche Verkaufspreis liegt bei rund 350.000 Yuan (ca. 44.800 €)*. Kumuliert hat die Geely-Tochter weltweit bereits über 750.000 Einheiten abgesetzt.
+**Zeekr (极氪), die Elektromarke des Geely-Konzerns, hat im April 31.787 Fahrzeuge ausgeliefert – ein Anstieg von 132 Prozent gegenüber dem Vorjahresmonat.** Der durchschnittliche Verkaufspreis lag bei rund 35万 Yuan (ca. 44.800 €*). Seit Marktstart hat Zeekr weltweit mehr als 750.000 Fahrzeuge ausgeliefert.
 
 *Hinweis: Preise beziehen sich auf den chinesischen Markt und können in Europa abweichen.*
 
-## Stark nachgefragt: Zeekr 8X und 001-Familie
+## Zeekr 8X als Verkaufsschlager
 
-Der neue Zeekr 8X hat nur 13 Tage nach Marktstart fast 3.500 Auslieferungen erzielt. Die hohe Nachfrage zeigt sich in der Bestellstruktur: **95,6 Prozent der Kunden** wählten die höheren Ausstattungslinien „Ultra“ und darüber. Bestellungen mit dem „Qianli Hanhai“-Fahrassistenzsystem („**Qianli Hanhai**“ – eine hochintegrierte ADAS-Plattform) und weiteren Optionen sollen ab Juli ausgeliefert werden.
+Besonders das neue Modell Zeekr 8X überzeugt: Innerhalb von nur 13 Tagen nach dem Marktstart wurden knapp 3.500 Einheiten ausgeliefert. Beeindruckend ist der Anteil hochpreisiger Versionen – 95,6 Prozent der Bestellungen entfallen auf die Ausstattungslinien Ultra und höher. Kunden, die zusätzlich das Fahrassistenzsystem **Qianli Haohan H9 (Fahrassistenzsystem von Zeekr)** oder andere Optionen wählen, müssen sich bis Juli gedulden.
 
-Parallel dazu knackte die Shooting-Brake-Familie (Zeekr 001 & Co.) die Marke von 10.000 Neubestellungen im April. Die besonders gefragten **Hyper- und Schwarz-Editionen** des Zeekr 001 werden mittlerweile innerhalb von fünf bis acht Wochen geliefert. Der durchschnittliche Transaktionspreis in dieser Baureihe liegt bei über 530.000 Yuan (ca. 67.800 €).
+Auch die **Shooting Brake (Kombi-Coupé)-Familie** von Zeekr legt zu: Die Anzahl der neuen Festbestellungen („Dading“) übertraf im April die 10.000er-Marke.
 
-## Zeekr 009 kommt im Mai – Preis und Start
+## Zeekr 009 startet im Mai
 
-Der überarbeitete **Zeekr 009** ist ab sofort im Vorverkauf und soll Mitte Mai offiziell auf den chinesischen Markt kommen. Der Luxus-Van ist bereits in allen Ausstellungsräumen verfügbar. Konkrete Preise für das Facelift wurden noch nicht genannt – der Vorgänger startete bei rund 500.000 Yuan (ca. 64.000 €).
+Der überarbeitete Zeekr 009 (ein vollelektrischer Minivan) befindet sich bereits im Vorverkauf und wird Mitte Mai offiziell auf den Markt kommen. Die Fahrzeuge stehen ab sofort in den Zeekr-Erlebniszentren zur Probefahrt bereit.
 
----
-
-### Technische Highlights im Überblick (basierend auf April-Daten)
-- **Zeekr 8X:** 3.500 Auslieferungen in 13 Tagen, 95,6 % Hochausstattungsanteil
-- **Zeekr 001:** Shooting-Brake-Familie: 10.000+ Neubestellungen, Hyper-Edition mit 5–8 Wochen Lieferzeit
-- **Zeekr 009:** Vorverkauf gestartet, Markteinführung Mitte Mai, Reichweite und Leistung folgen
+Neben den hohen Auslieferungszahlen punktet Zeekr auch mit Sicherheit: Der Zeekr 001 Shooting Brake bestand als erstes Modell den neuen C-NCAP-Frontalaufpralltest (Stufe 27) und erhielt Bestnoten.
 
 ---
 
 ## In Deutschland
 
-Zeekr ist in Deutschland bereits offiziell erhältlich – der Zeekr 001 wird seit 2024 ausgeliefert, weitere Modelle wie der Zeekr X folgen. Die Präsenz wird stetig ausgebaut.
+Zeekr, die Elektromarke des Geely-Konzerns, ist noch nicht offiziell auf dem deutschen Markt erhältlich. Geely selbst expandiert in ausgewählte EU-Märkte, plant aber bislang keinen direkten Deutschland-Start für Zeekr.
