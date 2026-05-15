@@ -1,0 +1,3 @@
+[mcp_servers.ScraplingServer]
+args = ["mcp"]
+command = "/Users/lebin/.local/bin/scrapling"

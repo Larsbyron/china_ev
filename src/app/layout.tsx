@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Inter, JetBrains_Mono } from 'next/font/google'
 import './global.css'
+import { Analytics } from '@vercel/analytics/react'
 import ThemeProvider from '@/components/ThemeProvider'
 
 const inter = Inter({
@@ -95,6 +96,7 @@ export default function RootLayout({
         <ThemeProvider>
           {children}
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   )

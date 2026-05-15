@@ -16,12 +16,14 @@
     "fetch:weekly": "npx tsx scripts/fetch-translate.ts --weekly"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "dotenv": "^17.4.2",
     "gray-matter": "^4.0.3",
     "next": "^15.0.0",
     "playwright": "^1.59.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-is": "^19.2.6",
     "recharts": "^3.8.1",
     "rehype-stringify": "^10.0.1",
     "remark-parse": "^11.0.0",
