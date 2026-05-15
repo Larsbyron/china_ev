@@ -142,7 +142,13 @@ async function main() {
   }
 
   const tweetLog = loadTweetLog()
-  const tweetedSlugs = new Set(tweetLog.map((e) => e.slug))
+  // Only treat slugs with a real tweetedAt as "already tweeted". Entries with
+  // tweetedAt: null are legacy/ghost records left behind by old pipeline bugs
+  // (tweet log got committed, tweet never actually went out). Skipping those
+  // here lets the throttle retry them.
+  const tweetedSlugs = new Set(
+    tweetLog.filter((e) => e.tweetedAt !== null).map((e) => e.slug),
+  )
 
   // Throttle 1: daily cap
   const todayCount = tweetsToday(tweetLog)
@@ -216,7 +222,7 @@ async function main() {
 
   const { data: posted } = await client.v2.tweet(tweet)
   console.log(`\n✓ Tweeted! ID: ${posted.id}`)
-  console.log(`  https://twitter.com/ChinaEVNews_DE/status/${posted.id}`)
+  console.log(`  https://twitter.com/i/web/status/${posted.id}`)
 
   tweetLog.push({ slug: target.slug, tweetedAt: new Date().toISOString() })
   try {
