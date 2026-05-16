@@ -1,7 +1,7 @@
 ---
 title: "[QA FAILED] BYD Dolphin G: Plug-in-Hybrid speziell für Europa"
-date: 2026-05-16T10:57:56.223Z
-description: "Der BYD (比亚迪) Dolphin G kommt als Plug-in-Hybrid exklusiv für den europäischen Markt. Erste Erlkönigfotos zeigen die sportliche Optik. Premiere feiert das Modell im Juli auf dem Goodwood Festival of Speed."
+date: 2026-05-16T18:55:06.737Z
+description: "BYD enthüllt den Dolphin G, einen Plug-in-Hybrid (PHEV), der exklusiv für Europa entwickelt wurde. Premiere feiert der Wagen im Juli auf dem Goodwood Festival of Speed. Das Design folgt europäischen Vorlieben."
 source: "Autohome NewEnergy"
 image: "/images/qa-failed-byd-dolphin-g-plug-in-hybrid-speziell-fr-autohome-newenergy-946be4.webp"
 category: "news"
@@ -14,13 +14,23 @@ read_time_minutes: 2
 
 # [QA FAILED] BYD Dolphin G: Plug-in-Hybrid speziell für Europa
 
-BYD bringt eine auf Europa zugeschnittene Version des Dolphin: Der Dolphin G (G für „Global"?). Wie nun aufgetauchte Erlkönigfotos zeigen, handelt es sich um einen Plug-in-Hybrid (PHEV) – das erste BYD-Modell, das speziell nach den Wünschen europäischer Kunden entwickelt wurde. Der Marktstart ist für Juni 2025 geplant, die öffentliche Weltpremiere folgt auf dem Goodwood Festival of Speed im Juli 2025.
+BYD (比亚迪) hat erste ungetarnte Erlkönig-Fotos des Dolphin G veröffentlicht – eines Plug-in-Hybrids (PHEV), der speziell für den europäischen Markt konzipiert wurde. Das Modell soll im Juni offiziell vorgestellt werden und feiert seine Weltpremiere im Juli auf dem Goodwood Festival of Speed in Großbritannien.
 
-BYD-Vizepräsidentin Stella Li erklärte: „Der Dolphin G ist das erste Produkt, das wir für Europa designt haben. In Zukunft werden immer mehr Modelle nach europäischem Geschmack und Bedarf gestaltet – und in Europa designt. Wir werden chinesische Fahrzeuge nicht mehr einfach nach Europa schicken, sondern sie gemeinsam mit dem europäischen Markt entwickeln."
+BYD-Vizepräsidentin Li Ke erklärte, der Dolphin G sei das erste Produkt, das von Grund auf für Europa entworfen wurde. Künftig würden immer mehr Modelle nach europäischem Geschmack und Kundenerwartungen gestaltet – und auch in Europa designt. BYD wolle nicht länger chinesische Modelle eins zu eins nach Europa bringen.
 
-Optisch zeigt der Dolphin G eine deutlich sportlichere Linie. Am Heck fallen ein durchgehendes LED-Leuchtenband, ein dynamischer Dachspoiler und ein wuchtiger Stoßfänger auf. Die Seitenansicht zeigt kurze Überhänge und einen langen Radstand – maximiert den Innenraum auf kompakter Außenlänge. Ein inoffizielles Renderbild deutet auf eine Front mit e-förmigen Scheinwerfern hin, die an den BYD Seal erinnern.
+### Design: Sportlich, europäisch, eigenständig
 
-Im Cockpit herrscht klare, minimalistische Formensprache: Ein großes schwebendes Zentraldisplay dominiert, vermutlich mit Head-up-Display kombiniert. Angetrieben wird der Dolphin G von der fünften Generation des DM-Systems (Dual Mode) – einem Hybridantrieb aus 1,5-Liter-Benziner und Elektromotor. Konkrete Leistungs- und Reichweitendaten stehen noch aus.
+Die Erlkönig-Aufnahmen zeigen das Heck mit dem Schriftzug „Dolphin G“ und einem durchgängigen LED-Leuchtenband. Die Linienführung folgt der „Ocean Aesthetics“-Designsprache, wirkt aber deutlich sportlicher: ein dynamischer Dachspoiler und eine kräftige Heckschürze unterstreichen den Auftritt. In der Seitenansicht fallen die kurzen Überhänge und der lange Radstand auf – typisch für eine platzsparende, raumoptimierte Plattform.
+
+Bereits zuvor veröffentlichte Renderings aus ausländischen Quellen zeigen die Front: Sie kombiniert Elemente des BYD Seal (海豹), etwa die e-förmigen Scheinwerfer, und wirkt insgesamt aggressiver als der bisherige Dolphin.
+
+### Innenraum: Digital, aufgeräumt, mit HUD
+
+Aus früher geleakten Innenraumfotos geht hervor, dass der Dolphin G auf ein minimalistisches Cockpit setzt. Ein großer, schwebender Zentralbildschirm dominiert die Mittelkonsole. Zudem ist ein Head-up-Display (HUD) wahrscheinlich. Die Materialien und die Verarbeitung sollen ebenfalls auf europäische Premiumansprüche zugeschnitten sein.
+
+### Antrieb: Fünfte Generation des DM-Hybridsystems
+
+Angetrieben wird der Dolphin G von der fünften Generation des DM-Systems (Dual Mode) von BYD. Es kombiniert einen 1,5-Liter-Saugmotor mit einem Elektromotor. Details zu Leistung, rein elektrischer Reichweite oder Gesamtreichweite sind noch nicht bekannt – sie werden zur Markteinführung im Juni erwartet.
 
 ---
 
