@@ -1,7 +1,7 @@
 ---
 title: "[QA FAILED] Zeekr 8X Ultra Plus: 885-PS-Hybrid ab 42.200 €"
-date: 2026-05-17T05:53:15.374Z
-description: "Der Zeekr 8X Ultra Plus startet in China ab 329.800 Yuan (ca. 42.200 €). Mit 885 PS, 900-Volt-Architektur und 410 km CLTC-Reichweite soll das Hybrid-SUV Ende 2026 nach Europa kommen."
+date: 2026-05-17T11:14:23.149Z
+description: "Der neue Zeekr 8X Ultra Plus startet in China ab 42.200 €. Der 885 PS starke Hybrid-SUV mit 900-Volt-Architektur kommt voraussichtlich ab Ende 2026 nach Europa."
 source: "CarNewsChina"
 image: "/images/qa-failed-zeekr-8x-ultra-plus-885-ps-hybrid-ab-422-carnewschina-f9dec5.webp"
 category: "news"
@@ -9,89 +9,54 @@ brand: "Li Auto"
 tags: ["Li Auto", "Geely", "Zeekr", "Reichweite", "Zoll", "EV"]
 draft: true
 original_url: "https://carnewschina.com/2026/05/03/sunday-china-drive-zeekr-8x-ultra-plus-tested-with-885-hp-hybrid-europe-entry-late-2026/"
-read_time_minutes: 5
+read_time_minutes: 4
 ---
 
 # [QA FAILED] Zeekr 8X Ultra Plus: 885-PS-Hybrid ab 42.200 €
 
-Zeekr (极氪) erweitert seine SUV-Palette nach oben: Der Zeekr 8X Ultra Plus ist ein großes Plug-in-Hybrid-SUV mit bis zu 885 PS Systemleistung. Das Topmodell startet bei 399.800 Yuan (ca. 51.200 €)*, die Basisversion liegt bei 329.800 Yuan (ca. 42.200 €). Erste Auslieferungen in China laufen bereits, der Export nach Europa ist für Ende 2026 geplant.
+Während viele chinesische SUV als „mobile Lounge" auftreten, setzt der Zeekr (极氪) 8X auf Fahrdynamik und Fahrerfeedback. Das Modell sicherte sich innerhalb von 30 Minuten 10.000 Bestellungen. Getestet wurde die Top-Variante Ultra Plus mit einem Verkaufspreis von 399.800 Yuan (ca. 51.200 €)*. Die Auslieferungen in China laufen bereits, der Export nach Europa soll nach dem Zeekr 9X ab Ende 2026 beginnen.
 
 *Hinweis: Preise beziehen sich auf den chinesischen Markt und können in Europa abweichen.*
 
-## Exterieur: Groß, aber aerodynamisch optimiert
+## Außendesign und Aerodynamik
 
-Mit 5.100 mm Länge und 3.069 mm Radstand ist der 8X ein SUV der Oberklasse. Die Frontpartie wurde verlängert, um den vorn eingebauten 2,0-Liter-Turbobenziner unterzubringen. Aktive Kühlerjalousien in beiden Lufteinlässen reduzieren den Luftwiderstand, wenn weniger Kühlung nötig ist.
+Der Zeekr 8X misst 5.100 mm in der Länge bei einem Radstand von 3.069 mm. Die lange Frontpartie beherbergt den vorn eingebauten 2,0-Liter-Turbomotor. Aktive Kühlergrill-Lamellen im oberen und unteren Lufteinlass schließen sich bei geringerem Kühlbedarf und reduzieren Luftwiderstand und -geräusche. Die getestete Version trägt ein einzelnes Lidar auf dem Dach. Sie rollt auf 22-Zoll-Rädern mit 275er-Reifen – das bringt hohe Seitenführung, aber auch erhöhtes Abrollgeräusch und Rollwiderstand. Herkömmliche Türgriffe ersetzen versenkbare Mechanismen, die Luftfederung lässt sich um bis zu 5 cm anheben oder 3 cm absenken. Eine 2.200 Watt starke Außenstromversorgung und ein verstärkter Dachträger ergänzen die Ausstattung.
 
-- Ein einzelner Lidar-Sensor auf dem Dach unterstützt die Fahrassistenz.
-- Serienmäßig 22-Zoll-Räder mit 275er-Breitreifen – betont die Seitenführung, erhöht aber Abrollgeräusche.
-- Konventionelle Türgriffe statt versenkbarer Varianten für mehr mechanische Robustheit.
-- Luftfahrwerk mit Höhenverstellung: +5 cm im Geländemodus, −3 cm bei hohem Tempo.
-- 2.200-Watt-Außenstromversorgung und verstärkter Dachträger.
+## Innenraum: Zwei Displays, physische Tasten
 
-## Innenraum: Zwei Bildschirme, viele Tasten
+Das Cockpit besteht aus einem zentralen Infotainment-Bildschirm und einem Beifahrer-Display. Wichtige Funktionen wie Fahrmodus und Fahrwerkshöhe lassen sich über physische Tasten bedienen – kein Blick aufs Display nötig. Weite Teile der Innenraumoberflächen sind weich gepolstert, Zierelemente aus Echtholz und ein suedeartiger Dachhimmel werten den Innenraum auf. Die Fondpassagiere genießen elektrisch verstellbare Sitze, Klapptische und einen Kompressor-Kühlschrank in der Mittelkonsole. Ein zweiter Bildschirm hinten ist zwar vorhanden, überlappt sich aber funktional mit dem Hauptsystem.
 
-Das Cockpit besteht aus einem zentralen Infotainment-Display und einem Beifahrerbildschirm. Wichtige Funktionen wie Fahrmodus und Dämpferhärte lassen sich weiterhin über physische Tasten bedienen – ein Pluspunkt für die Bedienung während der Fahrt.
+## Fahrerlebnis: 885 PS und aktiver Wankstabilisator
 
-- Soft-Touch-Oberflächen an Armaturenbrett und Türverkleidungen.
-- Echtholz-Zierteile, samtartiger Dachhimmel.
-- Vordersitze mit mäßigem Seitenhalt; Fondsitze elektrisch verstellbar.
-- Kühlbox (Kompressor), Klapptische und ein zweiter Bildschirm im Fond.
-- Kritik: Die Ambientebeleuchtung wirkt punktuell statt homogen.
+Der Zeekr 8X Ultra Plus steht auf der SEA-S Super-Hybrid-Plattform. Der 2.0-Turbobenziner leistet 205 kW (279 PS), dazu kommen zwei E-Maschinen mit einer Systemleistung von 660 kW (885 PS). Der 70 kWh große Akku arbeitet mit 900 Volt und unterstützt 6C-Ladetechnik: 20–80 Prozent in etwa neun Minuten unter optimalen Bedingungen. Die elektrische Reichweite beträgt 410 km (CLTC (chinesischer Verbrauchszyklus, typischerweise 10–15 % höher als WLTP) – entspricht ca. 350 km (WLTP-Schätzwert). Der Sprint auf 100 km/h gelingt in 3,7 Sekunden. Die Kraftentfaltung ist linear, ohne heftige Drehmomentspitzen.
 
-## Antrieb: 900-Volt-Hybrid mit 885 PS
+Die Doppelquerlenker-Vorderachse und Mehrlenker-Hinterachse werden von Zweikammer-Luftfedern und geregelten Dämpfern unterstützt. Ein elektronisch gesteuerter aktiver Wankstabilisator reduziert die Seitenneigung in Kurven und erlaubt in niedrigen Traktionssituationen mehr Radversatz. Die Lenkung reagiert direkt, aber das Fehlen einer Hinterachslenkung führt zu einem größeren Wendekreis als bei manchen Konkurrenten.
 
-Der Zeekr 8X Ultra Plus basiert auf der SEA-S-Plattform (Haohan-S) und kombiniert einen 2,0-Liter-Vierzylinder-Turbobenziner (205 kW) mit zwei Elektromotoren. Die Systemleistung beträgt 660 kW (885 PS).
+Nachteile: Die breiten 275er Reifen auf 22 Zoll machen sich bei Autobahntempo akustisch bemerkbar. Zudem überträgt die Hinterachse auf unebener Fahrbahn härtere Stöße als die Vorderachse – ein Hinweis auf unterschiedliche Dämpferabstimmungen.
 
-- 70-kWh-Akku mit 900-Volt-Architektur und 6C-Ladefähigkeit.
-- 20–80 % Ladestand in rund 9 Minuten (optimal).
-- Elektrische Reichweite: 410 km (CLTC) – entspricht ca. 350 km (WLTP-Schätzwert). *CLTC (chinesischer Verbrauchszyklus, typischerweise 10–15 % höher als WLTP)*
-- Gesamtreichweite: über 1.000 km nach chinesischer Norm.
-- 0–100 km/h in ca. 3,7 Sekunden – linearer, gut dosierbarer Antritt.
+## Autonomes Fahren und Technik
 
-## Fahrwerk und Fahreindrücke
+Der Ultra Plus nutzt ein Lidar-basiertes Fahrassistenzsystem mit einem einzelnen Sensor auf dem Dach, ergänzt durch Kameras und Radar. Auf der Autobahn arbeiteten Spurführung und adaptiver Tempomat stabil und ohne abrupte Abbrüche. Höhere Ausstattungsvarianten der 8X-Baureihe bieten leistungsstärkere Sensoren und Rechenleistung bis 1.400 TOPS.
 
-Doppelquerlenker vorne, Fünflenker-Hinterachse, zweikammerige Luftfedern und kontinuierlich verstellbare Dämpfer. Eine elektronisch geregelte aktive Wankstabilisierung reduziert die Karosserieneigung in Kurven, erlaubt aber mehr Achsverschränkung bei wenig Traktion.
+## Fazit: Technologieträger mit Dynamikfokus
 
-- Lenkung: direkt und berechenbar, aber kein Hinterachslenkung – Wendekreis größer als bei manchen Konkurrenten.
-- Bremsen: Übergang zwischen Rekuperation und Reibungsbremse ist bei niedriger Geschwindigkeit nicht ganz linear – erfordert Gefühl.
-- Abrollgeräusche dominieren bei Autobahntempo (275er Reifen, 22 Zoll).
-- Hinterachse überträgt Querfugen spürbarer als die Vorderachse – abweichende Dämpferabstimmung.
+Der Zeekr 8X startet ab 329.800 Yuan (ca. 42.200 €) und tritt gegen den Li Auto L7, AITO M7 und BMW X5 Plug-in-Hybrid an. Das Modell hebt sich durch seine 900-Volt-Architektur, 660 kW Systemleistung und den aktiven Wankstabilisator ab. Der Li Auto L7 punktet mit hoher Raumausbeute und Reichweiten-Effizienz, der AITO M7 mit Software-Integration, der BMW X5 mit mechanischer Reife – aber keiner erreicht die elektrische Basis und Spitzenleistung des Zeekr. Zeekr selbst steigerte die Quartalsverkäufe im ersten Quartal 2026 um 48,3 Prozent auf 59.466 Einheiten und positioniert den 8X als Volumenstabilisator im umkämpften 400.000-Yuan-Segment (ca. 51.200 €).
 
-## Fahrassistenz und Technik
+und Begeisterung an jeden Test bei CarNewsChina. Er mag auch Audio, Fotografie und einen aktiven Lebensstil.  
 
-Das getestete Ultra Plus nutzt ein lidarbasiertes System mit einem einzelnen Dach-Lidar, Kameras und Radar. Auf der Autobahn arbeiteten Spurhalteassistent und adaptiver Tempomat zuverlässig, ohne abrupte Eingriffe. Höhere Ausstattungsvarianten bieten bis zu 1.400 TOPS Rechenleistung, das Testfahrzeug blieb darunter.
+**Empfohlen für Sie**  
+Chinas NEV-Durchdringung erreicht im April historische 61,4 % – Verbrennerverkäufe brechen ein  
+Lotus kündigt 1000+ PS starken V8-HEV-Supersportwagen für 2028 an und kehrt der reinen EV-Strategie den Rücken  
+Geely Galaxy TT mit fast fünf Meter langem Aufbau und 245-kW-Motor taucht in Zulassungsunterlagen auf  
 
-## Marktposition und Konkurrenz
+**Folgen Sie uns für EV-Updates**  
+Treten Sie unserem Telegram bei  
+Folgen Sie uns auf Google News  
 
-Der Zeekr 8X tritt gegen Li Auto L7, AITO M7 und den BMW X5 Plug-in-Hybrid an. Während der L7 auf Reichweiteneffizienz und Raum setzt und der M7 auf Softwareintegration, punktet der Zeekr mit seiner 900-Volt-Architektur, dem aktiven Wankstabilisator und der hohen Systemleistung.
-
-Zeekr (zur Geely-Gruppe) verkaufte im ersten Quartal 2026 rund 59.466 Einheiten – ein Plus von 48,3 % zum Vorjahr. Der 8X soll dabei als Volumenmodell im umkämpften Preissegment um 400.000 Yuan (ca. 51.200 €) dienen.
-
-===TITEL===
-China: Rekord-EV-Anteil, Lotus-Supersportler und Geely Galaxy TT
-
-===BESCHREIBUNG===
-Die NEV-Neuzulassungen erreichten im April 61,4 %, Lotus schwenkt auf V8-HEV um, und Geely zeigt den fast 5 Meter langen Galaxy TT mit 245 kW. Ein Blick auf die aktuellen Entwicklungen.
-
-===INHALT===
-CarNewsChina-Redakteur bringt Leidenschaft in jeden Test. Seine Interessen: Audio, Fotografie und ein aktiver Lebensstil. Empfohlen werden außerdem folgende Meldungen:
-
-**Chinas NEV-Penetration auf Rekordhoch**  
-Im April 2025 stieg der Anteil der Neuzulassungen von Fahrzeugen mit neuer Antriebstechnik (NEV) auf historische 61,4 %. Fahrzeuge mit reinem Verbrenner (ICE) verloren massiv an Boden – ein klares Signal für den Siegeszug der E-Mobilität im Reich der Mitte.
-
-**Lotus kehrt zum Verbrenner zurück – zumindest teilweise**  
-Der britisch-chinesische Sportwagenhersteller Lotus (路特斯) kündigt für 2028 einen Supersportwagen mit mehr als 1.000 PS an. Angetrieben wird er von einem V8-Hybrid (HEV) – eine deutliche Abkehr von der bisherigen reinen Elektrostrategie. Der Schritt zeigt, wie selbst High-End-Marken auf die veränderte Nachfrage reagieren.
-
-**Geely Galaxy TT: Fast fünf Meter, 245 kW**  
-Der Geely Galaxy TT (吉利银河TT) taucht in MIIT-Regulierungsdokumenten auf. Die Limousine misst knapp fünf Meter in der Länge und wird von einem 245 kW starken Elektromotor angetrieben. Genauere Details zu Reichweite und Akku werden noch erwartet.
-
-Folgen Sie uns für aktuelle EV-Updates auf Telegram und Google News.
-
-===IN_DEUTSCHLAND===
-Die genannten Fahrzeuge und Entwicklungen betreffen den chinesischen Markt. Ein Europa-Start von Geely Galaxy TT oder Lotus-HEV ist bislang nicht bestätigt.
+**Kommentare**
 
 ---
 
-## Europa-Start für Ende 2026 geplant
+## Kommt nach Deutschland
 
-Zeekr ist bereits mit den Baureihen 001 und X in ausgewählten europäischen Ländern vertreten. Der Marktstart des 8X wird für die zweite Jahreshälfte 2026 erwartet. Offizielle Preise und die genaue Modellpalette für Europa stehen noch aus.
+Zeekr ist bereits in mehreren europäischen Ländern vertreten. Der 8X wird voraussichtlich ab Ende 2026 auch auf dem deutschen Markt eingeführt. Preise für Europa stehen noch nicht fest.
