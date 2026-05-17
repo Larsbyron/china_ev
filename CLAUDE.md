@@ -2,7 +2,7 @@
 
 Automated blog for German car enthusiasts featuring the latest Chinese EV news, translated via MiniMax Claude API.
 
-**Live:** [chinaev.vercel.app](https://chinaev.vercel.app)
+**Live:** [china-autonews.de](https://china-autonews.de)
 
 ## Tech Stack
 

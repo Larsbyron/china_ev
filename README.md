@@ -4,7 +4,7 @@
 
 Ein automatisiertes Nachrichtenportal für deutsche Auto-Enthusiasten mit den neuesten Nachrichten über chinesische Elektroautos — direkt aus chinesischen Quellen übersetzt.
 
-**Live:** [chinaev.vercel.app](https://chinaev.vercel.app)
+**Live:** [china-autonews.de](https://china-autonews.de)
 
 ## Features
 

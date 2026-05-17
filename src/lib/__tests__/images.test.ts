@@ -159,8 +159,8 @@ describe('saveImage', () => {
 
 describe('buildAbsoluteImageUrl', () => {
   it('prepends siteUrl to local path', () => {
-    expect(buildAbsoluteImageUrl('/images/foo.webp', 'https://chinaev.vercel.app'))
-      .toBe('https://chinaev.vercel.app/images/foo.webp')
+    expect(buildAbsoluteImageUrl('/images/foo.webp', 'https://china-autonews.de'))
+      .toBe('https://china-autonews.de/images/foo.webp')
   })
 
   it('returns empty string for empty input', () => {
@@ -174,7 +174,7 @@ describe('buildAbsoluteImageUrl', () => {
 
   it('returns external URLs unchanged', () => {
     const ext = 'https://cdn.cnevpost.com/photo.jpg'
-    expect(buildAbsoluteImageUrl(ext, 'https://chinaev.vercel.app')).toBe(ext)
+    expect(buildAbsoluteImageUrl(ext, 'https://china-autonews.de')).toBe(ext)
   })
 
   it('reads NEXT_PUBLIC_SITE_URL env var as fallback', () => {
