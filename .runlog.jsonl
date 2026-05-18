@@ -1298,3 +1298,65 @@
 {"ts":"2026-05-17T19:07:09.667Z","source":"CarNewsChina","title":"[QA FAILED] Zeekr 8X: 885-PS-Hybrid-SUV startet Ende 2026 in Europa","action":"draft_qa_failed","translation_ok":true}
 {"ts":"2026-05-17T19:07:32.769Z","source":"OFweek NEV","title":"[QA FAILED] China-Offensive: 7 SUV und Limousinen ab 16.400 €","action":"draft_qa_failed","translation_ok":true}
 {"ts":"2026-05-17T19:07:33.318Z","source":"CarNewsChina","title":"[QA FAILED] Volvo XC70 PHEV: 212 km E-Reichweite ab 34.500 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:06:44.227Z","source":"ChooseAuto","title":"","action":"error","translation_ok":false}
+{"ts":"2026-05-18T06:07:40.831Z","source":"Autohome NewEnergy","title":"[QA FAILED] BYD bringt neuen Yuan PLUS – Marktstart in China diese Woche","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:08:13.878Z","source":"CarNewsChina","title":"BYD Racco: Japan-K-Car ab ca. 13.700 € mit 180 km Reichweite","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:08:20.816Z","source":"Autohome NewEnergy","title":"[QA FAILED] Hongqi H6: 2026er-Modell mit Black-Look ab ca. 23.000 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:08:24.586Z","source":"OFweek NEV","title":"Audi E7X vs. Xiaomi YU7: Kampf um die 30.000-Euro-Klasse","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:08:52.239Z","source":"Autohome NewEnergy","title":"[QA FAILED] Aion Hyper S600: China-SUV ab 24.200 € mit 660 km Reichweite","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:08:58.701Z","source":"D1EV","title":"NIO ET5T enttäuscht bei Autonomie-Wettbewerb in Hefei","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:09:22.943Z","source":"CarNewsChina","title":"BYD Racco: Japan-K-Car ab 15.800 Euro startet 2026","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-05-18T06:09:23.028Z","source":"CarNewsChina","title":"BYD Racco: Japan-K-Car ab 15.800 Euro startet 2026","action":"published","translation_ok":true}
+{"ts":"2026-05-18T06:09:27.482Z","source":"Autohome NewEnergy","title":"[QA FAILED] Chery Fulwin T9: Plug-in-Hybrid ab 15.300 € mit 1.800 km Reichweite","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:09:47.877Z","source":"CarNewsChina","title":"[QA FAILED] BYD gewinnt Rechtsstreit: Blogger muss 256.000 € zahlen","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:09:54.110Z","source":"Sina","title":"[QA FAILED] BYD L80: Familien-SUV ab 16.600 € mit 680 km Reichweite","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:10:04.652Z","source":"Autohome NewEnergy","title":"[QA FAILED] Dongfeng Yipai M8: 600-km-SUV mit Huawei-Technik debütiert","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:10:22.616Z","source":"CarNewsChina","title":"[QA FAILED] BYD: Feststoffbatterie-Durchbruch? 1.218 km Reichweite gemeldet","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:10:41.827Z","source":"OFweek NEV","title":"Audi E7X vs. Xiaomi YU7: 900-Volt-Konter ab 37.100 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-05-18T06:10:43.259Z","source":"OFweek NEV","title":"Audi E7X vs. Xiaomi YU7: 900-Volt-Konter ab 37.100 €","action":"published","translation_ok":true}
+{"ts":"2026-05-18T06:10:48.433Z","source":"D1EV","title":"NIO ET5T kassiert über 50 Strafpunkte: Debakel bei Hefei-Test für autonomes Fahren","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:10:49.932Z","source":"CarNewsChina","title":"[QA FAILED] BYD: Batterie-Produktion an der Kapazitätsgrenze","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:11:08.088Z","source":"Sina","title":"Aion N60: 9.000 Vorbestellungen mit Lidar und L4","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-05-18T06:11:09.164Z","source":"Sina","title":"Aion N60: 9.000 Vorbestellungen mit Lidar und L4","action":"published","translation_ok":true}
+{"ts":"2026-05-18T06:11:12.173Z","source":"Autohome NewEnergy","title":"[QA FAILED] Qijing GT7: Luxus-Shooting Brake mit 770 km Reichweite","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:11:23.697Z","source":"OFweek NEV","title":"[QA FAILED] 9er-SUV-Offensive: Li Auto, NIO, AITO ab 21.000 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:11:42.008Z","source":"Autohome NewEnergy","title":"[QA FAILED] Jaguar Type 01: 1.000-PS-Elektro-GT mit 700 km Reichweite","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:11:44.773Z","source":"Sina","title":"[QA FAILED] 追觅造车：0,9-Sekunden-Supersportwagen-Konzept","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:11:45.496Z","source":"CarNewsChina","title":"Leapmotor D99: 700 km CLTC und drehbare Sitze","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-05-18T06:11:45.689Z","source":"CarNewsChina","title":"Leapmotor D99: 700 km CLTC und drehbare Sitze","action":"published","translation_ok":true}
+{"ts":"2026-05-18T06:12:07.376Z","source":"CarNewsChina","title":"[QA FAILED] China-Batteriemesse: BYD und CATL im Fokus der Fertigungswelle","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:12:18.674Z","source":"Sina","title":"[QA FAILED] Qijing: 128 Mio. Euro von CATL und Bosch für Elektro-Shooting-Brake","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:12:56.218Z","source":"Sina","title":"[QA FAILED] Fangchengbao: 29.138 Einheiten im April – 190 % Wachstum","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:13:00.718Z","source":"CarNewsChina","title":"Xiaomi YU7 GT: 990 PS, 300 km/h, 705 km Reichweite","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-05-18T06:13:00.791Z","source":"CarNewsChina","title":"Xiaomi YU7 GT: 990 PS, 300 km/h, 705 km Reichweite","action":"published","translation_ok":true}
+{"ts":"2026-05-18T06:13:15.713Z","source":"OFweek NEV","title":"Auto China 2026: Joint-Venture-Marken schlagen zurück","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:13:24.976Z","source":"Sina","title":"[QA FAILED] Voyah Dream: MPV verkauft 7.017 Einheiten im April – Marktführer in China","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:14:08.357Z","source":"CarNewsChina","title":"[QA FAILED] Zeekr 8X Ultra Plus: 885-PS-Hybrid-SUV ab 51.200 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:14:28.947Z","source":"Sina","title":"Li Auto L9 Livis: KI-Agent als neues Schlachtfeld gegen HIMA","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:14:37.989Z","source":"D1EV","title":"NIO ET5T kassiert 53 Strafpunkte bei Hefei-Test","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-05-18T06:14:43.941Z","source":"D1EV","title":"NIO ET5T kassiert 53 Strafpunkte bei Hefei-Test","action":"published","translation_ok":true}
+{"ts":"2026-05-18T06:15:06.017Z","source":"OFweek NEV","title":"VW ID.ERA 9X ab 42.200 €: Joint Ventures greifen an","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-05-18T06:15:08.054Z","source":"OFweek NEV","title":"VW ID.ERA 9X ab 42.200 €: Joint Ventures greifen an","action":"published","translation_ok":true}
+{"ts":"2026-05-18T06:15:12.693Z","source":"D1EV","title":"[QA FAILED] BYD treibt Chinas Marktanteil in Südafrika auf 16,8 %","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:15:49.396Z","source":"OFweek NEV","title":"[QA FAILED] Aion N60 feiert auf der Auto China 2026 Premiere","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:15:56.920Z","source":"D1EV","title":"[QA FAILED] NOVATECH: 1/4-Modul-mHiL für aktive Fahrwerke mit ≥1 kHz","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:17:19.495Z","source":"OFweek NEV","title":"Audi RS 5 PHEV: 375 kW V6 mit mechanischem Quattro","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:17:51.425Z","source":"Sina","title":"Li Auto L9 Livis: KI-Agent ab 55.000 Euro","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-05-18T06:17:51.914Z","source":"Sina","title":"Li Auto L9 Livis: KI-Agent ab 55.000 Euro","action":"published","translation_ok":true}
+{"ts":"2026-05-18T06:18:18.713Z","source":"Sina","title":"[QA FAILED] Volvo: Neuer China-Chef Duan Jianjun übernimmt","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:21:07.455Z","source":"OFweek NEV","title":"Audi RS 5 PHEV: China-Presse testet den Hybrid-Sportler","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:21:49.689Z","source":"D1EV","title":"Exeed Sterra ES siegt mit 105,5 Punkten bei ADAS-Challenge","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:22:10.098Z","source":"OFweek NEV","title":"Audi RS 5 PHEV: 510 PS Hybrid-Sportler mit 22-kWh-Batterie","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-05-18T06:22:11.550Z","source":"OFweek NEV","title":"Audi RS 5 PHEV: 510 PS Hybrid-Sportler mit 22-kWh-Batterie","action":"published","translation_ok":true}
+{"ts":"2026-05-18T06:23:18.653Z","source":"D1EV","title":"Exeed Sterra ES dominiert ADAS-Test: 105,5 Punkte vor Aion & AVATR","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-05-18T06:23:20.067Z","source":"D1EV","title":"Exeed Sterra ES dominiert ADAS-Test: 105,5 Punkte vor Aion & AVATR","action":"published","translation_ok":true}
+{"ts":"2026-05-18T06:23:56.544Z","source":"D1EV","title":"[QA FAILED] Xiaomi YU7 GT: 1.003 PS und 300 km/h ab 21. Mai","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:24:08.326Z","source":"OFweek NEV","title":"Fangchengbao 7, ID.ERA 9X, Neta NX8: Drei chinesische SUVs im Test","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:24:30.247Z","source":"D1EV","title":"[QA FAILED] Geely Galaxy M7: Ab 15.300 € mit 1.730 km Reichweite","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:25:14.246Z","source":"D1EV","title":"[QA FAILED] IM Motors LS8: Luxus-SUV mit 430 km CLTC und 390 kW","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:25:37.810Z","source":"D1EV","title":"[QA FAILED] BMW X1 M40 xDrive: Erlkönig-Fotos zeigen neues Design ab 2027","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:27:14.170Z","source":"OFweek NEV","title":"Drei China-SUVs im Test: Fangchengbao 7, ID.ERA 9X, Neta NX8","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:29:03.979Z","source":"OFweek NEV","title":"China-SUV-Test: ID.ERA 9X (44.800 €) vs. Neta NX8 (19.200 €)","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-05-18T06:29:04.705Z","source":"OFweek NEV","title":"China-SUV-Test: ID.ERA 9X (44.800 €) vs. Neta NX8 (19.200 €)","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-05-18T06:29:31.886Z","source":"OFweek NEV","title":"[QA FAILED] VW ID. ERA 9X: 42.200 € für 5,2-Meter-SUV mit 406 km Reichweite","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-05-18T06:30:31.285Z","source":"OFweek NEV","title":"[QA FAILED] China-Welle: 7 neue Modelle im April – Preise ab 16.600 €","action":"draft_qa_failed","translation_ok":true}
