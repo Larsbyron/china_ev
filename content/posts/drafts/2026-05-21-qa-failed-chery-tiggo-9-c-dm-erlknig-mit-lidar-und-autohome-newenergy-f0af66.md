@@ -1,12 +1,12 @@
 ---
 title: "[QA FAILED] Chery Tiggo 9 C-DM: Erlkönig mit Lidar und 381 PS"
-date: 2026-05-21T06:20:25.348Z
-description: "Chery testet den überarbeiteten Tiggo 9 C-DM als Plug-in-Hybrid. Erlkönig-Fotos zeigen erstmals Lidar auf dem Dach – Hinweis auf das neue Falke-700-Fahrassistenzsystem. Der Antrieb leistet 381 PS (610 Nm)."
+date: 2026-05-21T19:46:10.882Z
+description: "Neue Erlkönig-Bilder zeigen den Chery Tiggo 9 C-DM mit Lidar auf dem Dach. Das Plug-in-Hybrid-SUV leistet 381 PS und erhält ein überarbeitetes Fahrassistenzsystem. Ein Europa-Start ist bislang nicht in Sicht."
 source: "Autohome NewEnergy"
 image: "/images/qa-failed-chery-tiggo-9-c-dm-erlknig-mit-lidar-und-autohome-newenergy-f0af66.webp"
 category: "news"
 
-tags: ["Reichweite", "EV"]
+tags: ["EV"]
 draft: true
 original_url: "http://www.autohome.com.cn/news/202605/1314398.html"
 read_time_minutes: 2
@@ -14,17 +14,17 @@ read_time_minutes: 2
 
 # [QA FAILED] Chery Tiggo 9 C-DM: Erlkönig mit Lidar und 381 PS
 
-Chery (奇瑞) arbeitet an einer überarbeiteten Version des Tiggo 9 C-DM. Erlkönig-Fotos, die jetzt aufgetaucht sind, zeigen den großen SUV erstmals mit einem Lidar auf dem Dach. Bislang war der Tiggo 9 nur mit dem Falke-500-Fahrassistenzsystem ohne Lidar ausgestattet. Die neue Variante dürfte daher das leistungsstärkere Falke-700-System erhalten, das auf eine höhere Rechenleistung und präzisere Umfelderfassung setzt.
+**Erlkönig-Jagd: Chery Tiggo 9 C-DM erwischt**
 
-## Lidar für verbessertes Fahrassistenzsystem
+Chery (奇瑞) arbeitet offenbar an einer deutlich aufgewerteten Version seines Mittelklasse-SUV Tiggo 9. Auf neuen Spy-Fotos ist der Tiggo 9 C-DM zu sehen – ein Plug-in-Hybrid (PHEV), der nicht nur optisch dem überarbeiteten Tiggo 9 folgt, sondern vor allem mit einem markanten Lidar-Sensor auf dem Dach aufwartet. Dies deutet auf ein deutlich leistungsfähigeres Fahrassistenzsystem hin.
 
-Das auffälligste Detail an den Erlkönig-Fahrzeugen ist der Lidar-Sensor (Laserscanner zur Umfelderfassung) auf dem Dach. Er ist ein sicheres Indiz dafür, dass Chery die automatisierte Fahrfunktion des Tiggo 9 deutlich aufwerten will. Die bisherige Falke-500-Plattform bietet bereits Stufe-2-Assistenz; Falke 700 soll unter anderem Autobahn- und Stadtpiloten (NOA) ermöglichen.
+Während der aktuelle Tiggo 9 ohne Lidar mit dem System „Falcon 500" auskommt, dürfte die C-DM-Version auf den neuen „Falcon 700"-Assistenten setzen. Dieser verspricht höhere Rechenleistung und erweiterte Funktionen für teilautonomes Fahren – vergleichbar mit Stufe-2+-Systemen deutscher Premiumhersteller. Auch im Innenraum zeigen die Erlkönig-Bilder Neuerungen: Ein durchgehendes Display, das bis zur Beifahrerseite reicht, und ein Sensor am Lenkrad deutet auf einen Müdigkeitswarner hin.
 
-Äußerlich orientiert sich der Tiggo 9 C-DM am kürzlich gezeigten Facelift des Verbrenner-Modells – mit modifiziertem Kühlergrill, neuen Scheinwerfern und einer überarbeiteten Heckpartie. Die Ladeklappe an der rechten hinteren Seite verrät die Hybridversion. Innen zeigt der getarnte Prototyp das große, bis zur Beifahrerseite durchgezogene Display und eine neu gestaltete Mittelkonsole. Zudem ist ein Fahrerüberwachungssensor im Lenkrad verbaut.
+**Antrieb und Fahrwerk**
 
-## Antrieb: 1,5-Liter-Turbo plus E-Motor
+Technisch bleibt der Tiggo 9 C-DM ein klassischer Plug-in-Hybrid. Das Antriebsaggregat kombiniert einen 1,5-Liter-Turbobenziner mit einem Elektromotor. Die Systemleistung liegt bei 381 PS und 610 Nm Drehmoment – Werte, die auch in einem vergleichbaren VW Tiguan eHybrid für ordentlich Druck sorgen. Das Fahrwerk wurde nicht verändert: Vorne MacPherson-Federbeine, hinten eine Mehrlenkerachse.
 
-Unter der Haube bleibt es beim Plug-in-Hybrid (PHEV). Wie im aktuellen Tiggo 9 C-DM kombiniert Chery einen 1,5-Liter-Turbobenziner mit einem Elektromotor. Die Systemleistung liegt bei 381 PS (280 kW), das maximale Drehmoment bei 610 Nm. Die Verbrenner-Maschine dient vor allem als Generator und unterstützt bei Bedarf den Antrieb. Die genaue elektrische Reichweite ist noch nicht bekannt. Das Fahrwerk behält die bewährte Vorderachse mit MacPherson-Federbeinen und eine Mehrlenker-Hinterachse.
+Ob Chery den Tiggo 9 C-DM auch außerhalb Chinas anbieten wird, ist noch nicht bekannt. Ein Marktstart in Europa ist in diesem Jahr nicht absehbar.
 
 ---
 
