@@ -1,7 +1,7 @@
 ---
 title: "[QA FAILED] BMW ernennt Fang Yuan zur China-Vizepräsidentin"
-date: 2026-05-24T06:00:05.315Z
-description: "Die BMW Group beruft Fang Yuan ab 1. Juni 2026 zur Vice President of Corporate Affairs China. Sie soll die Kommunikationsstrategie in China stärken."
+date: 2026-05-24T19:10:34.317Z
+description: "BMW hat Fang Yuan zur neuen Vizepräsidentin für Unternehmensangelegenheiten in China ernannt. Die 25-Jahre-Veteranin übernimmt den Posten ab Juni 2026 und soll die Markenkommunikation in China stärken."
 source: "Sina"
 image: "/images/qa-failed-bmw-ernennt-fang-yuan-zur-china-vizeprsi-sina-f6b3bd.webp"
 category: "news"
@@ -14,16 +14,15 @@ read_time_minutes: 2
 
 # [QA FAILED] BMW ernennt Fang Yuan zur China-Vizepräsidentin
 
-Die BMW Group (宝马) hat heute die Ernennung von Fang Yuan zur Vice President of Corporate Affairs China bekannt gegeben. Gleichzeitig wird sie auch die Position der Vice President of Public Relations and Corporate Social Responsibility bei BMW Brilliance Automotive (华晨宝马) übernehmen. Die neue Rolle tritt am 1. Juni 2026 in Kraft.
+Die BMW Group hat Fang Yuan mit Wirkung zum 1. Juni 2026 zur Vizepräsidentin für Unternehmensangelegenheiten in China ernannt. Zugleich wird sie Vizepräsidentin für Public Relations und Corporate Social Responsibility bei BMW Brilliance (华晨宝马 – dem chinesischen Joint Venture von BMW mit Brilliance Auto). Die Entscheidung unterstreicht die Bedeutung des chinesischen Marktes für den Münchner Premiumhersteller.
 
-Fang Yuan bringt mehr als 25 Jahre Erfahrung in den Bereichen Public Relations und Kommunikation mit, die sie überwiegend in der Automobilbranche gesammelt hat. Seit ihrem Eintritt bei BMW Brilliance Automotive im Jahr 2012 bekleidete sie verschiedene Führungspositionen, unter anderem in den Bereichen Produkt- und Technologiekommunikation, Medienarbeit, Social-Media-Kommunikation und Krisenmanagement. Ihr umfangreiches Wissen über verschiedene Geschäftsbereiche, ihr tiefes Verständnis für das Unternehmen und ihr hohes Verantwortungsbewusstsein bilden eine solide Grundlage für ihre neuen Aufgaben.
+Fang Yuan bringt mehr als 25 Jahre Erfahrung in den Bereichen Public Relations und Kommunikation mit, die sie überwiegend in der Automobilbranche gesammelt hat. Seit ihrem Eintritt bei BMW Brilliance im Jahr 2012 bekleidete sie verschiedene Führungspositionen – unter anderem in der Produkt- und Technologiekommunikation, in den Medienbeziehungen, im Social-Media-Bereich sowie in der Krisenkommunikation. Diese breite Expertise soll ihr nun in der neuen Rolle zugutekommen.
 
-## Starke China-Kompetenz
+## Neue Führungskraft für China-Geschäft
 
-Sourour Stanke, Vice President Strategic, Services, Media Center & International Market Communications der BMW Group, kommentierte: „China ist ein strategischer Kernmarkt für die Transformation und langfristige Entwicklung der BMW Group. Fang Yuan verfügt über reife Managementerfahrung, exzellente Fähigkeiten in der Kommunikation mit Stakeholdern und ein tiefgehendes Verständnis des chinesischen Marktes. Ich bin überzeugt, dass sie in ihrer neuen Position das Corporate-Team in China weiter stärken wird.“
+Sourour Stanke, Vizepräsidentin für Strategie, Services, Media Center und internationale Marktkommunikation bei der BMW Group, sagte: „China ist das strategische Kernland für die Transformation und langfristige Entwicklung der BMW Group. Fang Yuan verfügt über reife Führungserfahrung, hervorragende Fähigkeiten im Stakeholder-Dialog und tiefe Einblicke in den chinesischen Markt. Wir sind überzeugt, dass sie in ihrer neuen Position das Team der Unternehmensangelegenheiten in China weiter stärken wird."
 
 ---
 
 ## In Europa
-
-Dieses Fahrzeug bzw. Modell ist in Europa aktuell nicht offiziell erhältlich. Eine Markteinführung wurde bislang nicht angekündigt.
+Diese Personalie hat keine direkten Auswirkungen auf den europäischen Markt. BMW agiert in China über das Joint Venture BMW Brilliance, und die Ernennung dient der Stärkung der lokalen Unternehmenskommunikation.
