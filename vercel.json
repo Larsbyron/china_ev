@@ -1,6 +1,4 @@
 {
-  "framework": null,
-  "outputDirectory": "out",
   "headers": [
     {
       "source": "/(.*)",

@@ -1,9 +1,8 @@
 import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  output: 'export',  // Static export for Vercel
   images: {
-    unoptimized: true  // For static export
+    unoptimized: true
   },
   trailingSlash: true,
 }

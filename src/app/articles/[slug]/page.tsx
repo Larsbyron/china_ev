@@ -5,6 +5,7 @@ import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import QuickFacts from '@/components/QuickFacts'
 import ShareButtons from '@/components/ShareButtons'
+import ReactionPanel from '@/components/ReactionPanel'
 import {
   getAllArticles,
   getArticleBySlug,
@@ -204,6 +205,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   title={article.title}
                   url={`${(process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()}/articles/${article.slug}/`}
                 />
+
+                {/* Reactions */}
+                <ReactionPanel slug={article.slug} />
 
                 {/* Source Link */}
                 {article.original_url && (
