@@ -17,7 +17,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de'),
   title: {
     default: 'E-AUTOS | China EV News auf Deutsch',
     template: '%s | E-AUTOS',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'de_DE',
-    url: process.env.NEXT_PUBLIC_SITE_URL || 'https://china-ev.de',
+    url: process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de',
     siteName: 'E-AUTOS',
     title: 'E-AUTOS | China EV News auf Deutsch',
     description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News.',

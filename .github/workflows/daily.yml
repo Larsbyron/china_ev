@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/posts/ processed_articles.json .runlog.jsonl
+          git add content/posts/ public/images/ processed_articles.json .runlog.jsonl
           if git diff --quiet --cached; then
             echo "No new articles to commit."
             exit 0
