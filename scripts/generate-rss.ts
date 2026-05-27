@@ -4,7 +4,7 @@ import matter from 'gray-matter'
 
 const BASE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()
 const POSTS_DIR = path.join(process.cwd(), 'content', 'posts')
-const OUT_DIR = path.join(process.cwd(), 'out')
+const OUT_DIR = path.join(process.cwd(), 'public')
 
 function escapeXml(str: string): string {
   return str
@@ -80,7 +80,7 @@ ${items}
   }
 
   fs.writeFileSync(path.join(OUT_DIR, 'feed.xml'), rss, 'utf-8')
-  console.log(`RSS feed generated: ${articles.length} items → out/feed.xml`)
+  console.log(`RSS feed generated: ${articles.length} items → public/feed.xml`)
 }
 
 generateRss()

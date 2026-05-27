@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && pagefind --site out && npx tsx scripts/generate-rss.ts && npx tsx scripts/verify-pagefind.ts",
+    "build": "next build && pagefind --site .next/server/app --output-path public/pagefind && npx tsx scripts/generate-rss.ts && npx tsx scripts/verify-pagefind.ts",
     "start": "next start",
     "lint": "next lint",
     "test": "vitest run",
