@@ -1,6 +1,6 @@
 # China EV News Blog
 
-Automated blog for German car enthusiasts featuring the latest Chinese EV news, translated via MiniMax Claude API.
+Automated blog for German car enthusiasts featuring the latest Chinese EV news, translated via DeepSeek API.
 
 **Live:** [china-autonews.de](https://china-autonews.de)
 
@@ -35,9 +35,14 @@ src/
 ├── lib/                    # Utilities, scraper, markdown
 └── data/                   # ev-specs.json
 scripts/
+├── fetch-translate.ts      # Main pipeline entry (used by CI): scrape → translate → QA → editorial review
 ├── generate-rss.ts         # RSS feed generation
 └── translate-existing.ts   # Batch translation
 ```
+
+The translation pipeline itself lives in `src/lib/translator/` (DeepSeek calls,
+prompts, brand glossary, editorial review, quality check) and is orchestrated by
+`src/lib/scraper/index.ts`.
 
 ## Commands
 
@@ -51,8 +56,7 @@ npm run lint         # ESLint
 ## Configuration
 
 ### Environment Variables
-- `ANTHROPIC_API_KEY` — MiniMax Anthropic API key
-- `ANTHROPIC_BASE_URL` — API base URL
+- `DEEPSEEK_API_KEY` — DeepSeek API key (used by both translation and editorial review; base URL `https://api.deepseek.com` is hardcoded in `src/lib/translator/`)
 
 ### Giscus Comments
 1. Enable GitHub Discussions in repo settings
@@ -104,19 +108,11 @@ get https://electrek.co/2026/... → main_content_only=true
 get https://auto.sina.com.cn/... → main_content_only=true
 ```
 
-### Integration with fetch_translate.py
-
-The `fetch_full_article()` function in `fetch_translate.py` can be called via Scrapling MCP
-when doing ad-hoc extraction, but the Python script remains authoritative for the automated
-CI pipeline (GitHub Actions can't use MCP). For one-off scraping and debugging, prefer the
-MCP tools — they handle anti-bot escalation automatically.
-
 ### Fallback
 
 If Scrapling MCP fails (rate limiting, connection issues), fall back to:
 1. `WebFetch` for simple content extraction
-2. `python3 fetch_full_scrapling.py <url>` for local Scrapling Selector usage
-3. Raw `curl` / `requests` (last resort)
+2. Raw `curl` / `requests` (last resort)
 
 ## Skill routing
 

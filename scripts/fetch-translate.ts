@@ -52,8 +52,8 @@ async function main() {
   console.log('----------------------------------------')
 
   // Validate API key is present
-  if (!process.env.ANTHROPIC_API_KEY) {
-    console.error('Error: ANTHROPIC_API_KEY is not set in .env')
+  if (!process.env.DEEPSEEK_API_KEY) {
+    console.error('Error: DEEPSEEK_API_KEY is not set in .env')
     console.error('Copy .env.example to .env and add your API key.')
     process.exit(1)
   }

@@ -9,7 +9,7 @@ Ein automatisiertes Nachrichtenportal für deutsche Auto-Enthusiasten mit den ne
 ## Features
 
 - **Chinesische Primärquellen** — Electrek, CnEVPost und weitere
-- **KI-Übersetzung** — MiniMax Claude API übersetzt Artikel ins Deutsche
+- **KI-Übersetzung** — DeepSeek API übersetzt Artikel ins Deutsche
 - **Modernes Design** — Next.js 15 Static Export mit Dark-First Theme
 - **Volltextsuche** — Pagefind für client-side Suche
 - **EV-Daten** — Recharts Diagramme für Reichweite, Preise, Batterie
@@ -69,8 +69,7 @@ src/
 ## Konfiguration
 
 ### Umgebungsvariablen (.env)
-- `ANTHROPIC_API_KEY` — MiniMax Anthropic API Key
-- `ANTHROPIC_BASE_URL` — API Base URL
+- `DEEPSEEK_API_KEY` — DeepSeek API Key (Übersetzung + redaktionelle Prüfung)
 
 ### Giscus Kommentare
 1. GitHub Discussions im Repo aktivieren

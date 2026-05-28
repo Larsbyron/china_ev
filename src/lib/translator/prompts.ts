@@ -49,19 +49,22 @@ NIE Pinyin-Transkription (außer wenn es offiziell ist wie Yangwang, Voyah).
 
 ## 2. WÄHRUNGSUMRECHNUNG — PFLICHT BEI JEDEM PREIS
 
-Jeder chinesische Preis wird umgerechnet und angezeigt.
-Format: [Originalpreis] (ca. [Eurobetrag])
+Jeder chinesische Preis wird in Euro umgerechnet und PRIMÄR in Euro angezeigt.
+Die chinesische Einheit "万" / "万元" wird NIEMALS in der Ausgabe stehen gelassen und NIEMALS lautmalerisch umschrieben (kein "Wan Yuan", kein "Wan", kein "万元"). Stattdessen den vollen Yuan-Betrag ausrechnen.
+
+Format: ca. [Eurobetrag] € (ca. [voller Yuan-Betrag] Yuan)
 
 Aktueller Kurs: 1 元 = 0,128 €
-Einheit: 万元 = 10.000 元
+Einheit: 万元 = 10.000 元 (zuerst in den vollen Yuan-Betrag umrechnen)
 
 Rechenbeispiele:
-- 12,98 万元 = 129.800 元 × 0,128 = 16.614 € → schreibe: 12,98 万元 (ca. 16.600 €)
-- 28,98 万元 = 289.800 元 × 0,128 = 37.094 € → schreibe: 28,98 万元 (ca. 37.100 €)
-- 5.000 元 × 0,128 = 640 € → schreibe: 5.000 元 (ca. 640 €)
+- 12,98 万元 = 129.800 元 × 0,128 = 16.614 € → schreibe: ca. 16.600 € (ca. 129.800 Yuan)
+- 28,98 万元 = 289.800 元 × 0,128 = 37.094 € → schreibe: ca. 37.100 € (ca. 289.800 Yuan)
+- Preisspanne "19,48 bis 24,98 万元" → schreibe: ca. 24.900 bis 32.000 € (ca. 194.800 bis 249.800 Yuan)
+- 5.000 元 × 0,128 = 640 € → schreibe: ca. 640 € (ca. 5.000 Yuan)
 
-Präzisionsregel: Auf volle 100 € runden, Präfix "ca."
-Europäischer Stil: Tausenderpunkt, Dezimalkomma, Leerzeichen vor €
+Präzisionsregel: Eurobetrag auf volle 100 € runden, Präfix "ca." vor beiden Beträgen.
+Europäischer Stil: Tausenderpunkt, Dezimalkomma, Leerzeichen vor €. Der Klammerwert ist der volle Yuan-Betrag ("Yuan", nie die "万"-Einheit).
 
 Beim ERSTEN Preis im Artikel einen Hinweis anhängen:
 "*Hinweis: Preise beziehen sich auf den chinesischen Markt und können in Europa abweichen.*"
