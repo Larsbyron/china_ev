@@ -34,8 +34,22 @@ export default function SiteHeader() {
   return (
     <header className={`${styles.header} ${scrolled ? styles.scrolled : ''}`} aria-label="Seitenkopf">
       <div className={styles.inner}>
-        <Link href="/" className={styles.logo}>
-          E-AUTOS
+        <Link href="/" className={styles.logo} aria-label="China EV News — E-AUTOS Startseite">
+          <img
+            src="/logo-wordmark-dark.png"
+            alt="China EV News"
+            className={`${styles.logoImg} ${styles.logoDark}`}
+            width={700}
+            height={385}
+          />
+          <img
+            src="/logo-wordmark-light.png"
+            alt=""
+            aria-hidden="true"
+            className={`${styles.logoImg} ${styles.logoLight}`}
+            width={700}
+            height={385}
+          />
         </Link>
 
         <nav className={styles.nav} aria-label="Hauptnavigation">

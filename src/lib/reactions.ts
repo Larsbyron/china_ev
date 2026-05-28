@@ -37,3 +37,35 @@ export async function incrementReaction(
 ): Promise<number> {
   return kv.incr(reactionKey(slug, type))
 }
+
+/**
+ * Batch-fetch total reaction count (sum of all 4 types) for many articles at once.
+ * Returns a Map keyed by slug. Slugs with no reactions get 0.
+ * On KV failure, returns an empty Map (caller can fall back to time-based ordering).
+ */
+export async function getReactionTotalsBySlug(
+  slugs: string[]
+): Promise<Map<string, number>> {
+  const result = new Map<string, number>()
+  if (slugs.length === 0) return result
+
+  try {
+    const keys = slugs.flatMap((slug) =>
+      REACTION_TYPES.map((t) => reactionKey(slug, t))
+    )
+    const values = await kv.mget<(number | null)[]>(...keys)
+
+    slugs.forEach((slug, i) => {
+      const base = i * REACTION_TYPES.length
+      const total = REACTION_TYPES.reduce(
+        (sum, _, j) => sum + (values[base + j] ?? 0),
+        0
+      )
+      result.set(slug, total)
+    })
+  } catch {
+    // KV unavailable — caller falls back to time-based ordering
+  }
+
+  return result
+}

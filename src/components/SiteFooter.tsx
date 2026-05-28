@@ -24,7 +24,23 @@ export default function SiteFooter() {
       <div className={styles.inner}>
         <div className={styles.top}>
           <div className={styles.brand}>
-            <span className={styles.logo}>E-AUTOS</span>
+            <Link href="/" className={styles.logoLink} aria-label="China EV News — E-AUTOS Startseite">
+              <img
+                src="/logo-wordmark-dark.png"
+                alt="China EV News"
+                className={`${styles.logo} ${styles.logoDark}`}
+                width={700}
+                height={385}
+              />
+              <img
+                src="/logo-wordmark-light.png"
+                alt=""
+                aria-hidden="true"
+                className={`${styles.logo} ${styles.logoLight}`}
+                width={700}
+                height={385}
+              />
+            </Link>
             <span className={styles.tagline}>China EV News auf Deutsch</span>
           </div>
 

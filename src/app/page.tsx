@@ -10,8 +10,13 @@ import {
   getAllArticles,
   getFeaturedArticle,
   getLatestArticles,
+  getPopularArticles,
 } from '@/lib/articles'
 import styles from './page.module.css'
+
+// Rebuild the home page every 10 minutes so reaction-driven "Beliebt"
+// ranking stays fresh without paying full SSR cost per request.
+export const revalidate = 600
 
 export const metadata: Metadata = {
   title: 'E-AUTOS | China EV News auf Deutsch',
@@ -27,7 +32,7 @@ const brands = [
   { name: 'Zeekr', slug: 'zeekr', initial: 'Z' },
 ]
 
-export default function HomePage() {
+export default async function HomePage() {
   const featured = getFeaturedArticle()
   const allArticles = getAllArticles()
 
@@ -39,12 +44,40 @@ export default function HomePage() {
   const gridArticles = latestArticles.slice(0, 6)
   const listArticles = latestArticles.slice(6, 11)
 
+  // Popular this week: last 14 days, ranked by reader reactions, falls back
+  // to publication order when reactions are tied or KV is unavailable.
+  // Pull 7, drop the Hero, slice to 6 so the grid is always full.
+  const popularArticles = (await getPopularArticles(7, 14))
+    .filter((a) => a.slug !== featured?.slug)
+    .slice(0, 6)
+
   return (
     <>
       <SiteHeader />
 
       <main className={styles.main} aria-label="Hauptinhalt">
-        {featured && <Hero article={featured} />}
+        <div className={styles.heroBackdrop} aria-hidden="true" />
+
+        <div className={styles.heroLayer}>
+          {featured && <Hero article={featured} />}
+        </div>
+
+        {/* Beliebt diese Woche — by reader reactions */}
+        {popularArticles.length > 0 && (
+          <section className={styles.section}>
+            <div className={styles.container}>
+              <div className={styles.sectionHeader}>
+                <div className={styles.sectionLine} aria-hidden="true" />
+                <h2 className={styles.sectionTitle}>Beliebt diese Woche</h2>
+              </div>
+              <div className={styles.articleGrid}>
+                {popularArticles.map((article) => (
+                  <ArticleCard key={article.slug} article={article} />
+                ))}
+              </div>
+            </div>
+          </section>
+        )}
 
         {/* Latest Articles — editorial grid */}
         <section className={styles.section}>

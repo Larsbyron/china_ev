@@ -10,14 +10,23 @@
 }
 
 .header.scrolled {
-  background: rgba(12, 12, 14, 0.85);
+  background: rgba(7, 11, 24, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* Light mode: the header keeps its solid bar even at the top, so the
+   black-ink logo never sits over the dark Shanghai hero image. */
+[data-theme='light'] .header {
+  background: rgba(255, 255, 255, 0.85);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   border-bottom: 1px solid var(--color-border);
 }
 
 [data-theme='light'] .header.scrolled {
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.9);
 }
 
 .inner {
@@ -31,16 +40,34 @@
 }
 
 .logo {
-  font-size: var(--text-xl);
-  font-weight: 800;
-  letter-spacing: -0.03em;
-  color: var(--color-text-primary);
+  display: flex;
+  align-items: center;
   text-decoration: none;
   transition: opacity var(--duration-fast);
 }
 
 .logo:hover {
   opacity: 0.8;
+}
+
+.logoImg {
+  height: 46px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
+/* Theme-aware logo swap: white-ink brush on dark, black-ink on light */
+.logoLight {
+  display: none;
+}
+
+[data-theme='light'] .logoDark {
+  display: none;
+}
+
+[data-theme='light'] .logoLight {
+  display: block;
 }
 
 .nav {
@@ -109,7 +136,7 @@
     height: 56px;
   }
 
-  .logo {
-    font-size: var(--text-lg);
+  .logoImg {
+    height: 38px;
   }
 }

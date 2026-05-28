@@ -15,7 +15,7 @@ import { EV_SPECS } from '@/lib/ev-specs'
 import styles from './Charts.module.css'
 
 const BRAND_COLORS: Record<string, string> = {
-  BYD: '#30d158',
+  BYD: '#19b8cf',
   NIO: '#ff9f0a',
   XPeng: '#5e5ce6',
   Xiaomi: '#ff6b35',
@@ -53,29 +53,29 @@ export default function PriceRangeChart() {
             type="number"
             dataKey="price"
             name="Preis"
-            tick={{ fill: '#86868b', fontSize: 12 }}
-            axisLine={{ stroke: '#2c2c2e' }}
+            tick={{ fill: '#8b94ad', fontSize: 12 }}
+            axisLine={{ stroke: '#1e2747' }}
             tickLine={false}
             unit=" €"
-            label={{ value: 'Preis (EUR)', position: 'bottom', fill: '#86868b', fontSize: 12 }}
+            label={{ value: 'Preis (EUR)', position: 'bottom', fill: '#8b94ad', fontSize: 12 }}
           />
           <YAxis
             type="number"
             dataKey="range"
             name="Reichweite"
-            tick={{ fill: '#86868b', fontSize: 12 }}
-            axisLine={{ stroke: '#2c2c2e' }}
+            tick={{ fill: '#8b94ad', fontSize: 12 }}
+            axisLine={{ stroke: '#1e2747' }}
             tickLine={false}
             unit=" km"
-            label={{ value: 'Reichweite (km)', angle: -90, position: 'insideLeft', fill: '#86868b', fontSize: 12 }}
+            label={{ value: 'Reichweite (km)', angle: -90, position: 'insideLeft', fill: '#8b94ad', fontSize: 12 }}
           />
           <ZAxis type="number" dataKey="battery" range={[60, 400]} />
           <Tooltip
             contentStyle={{
-              background: '#1c1c1f',
-              border: '1px solid #2c2c2e',
+              background: '#18203f',
+              border: '1px solid #1e2747',
               borderRadius: 8,
-              color: '#f5f5f7',
+              color: '#f5f7fa',
               fontSize: 13,
             }}
             formatter={(value, name) => {
@@ -89,11 +89,11 @@ export default function PriceRangeChart() {
               return item?.name || ''
             }}
           />
-          <Scatter data={data} fill="#30d158">
+          <Scatter data={data} fill="#19b8cf">
             {data.map((entry) => (
               <Cell
                 key={entry.name}
-                fill={BRAND_COLORS[entry.brand] || '#86868b'}
+                fill={BRAND_COLORS[entry.brand] || '#8b94ad'}
               />
             ))}
           </Scatter>

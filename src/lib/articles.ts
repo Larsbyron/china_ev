@@ -178,4 +178,34 @@ export function getLatestArticles(count: number = 6): ArticleMeta[] {
   return getAllArticles().slice(0, count)
 }
 
+/**
+ * Returns the most "popular" articles within the last `days` window,
+ * ranked by total reactions count (sum of all 4 reaction types).
+ * Articles with zero reactions fall back to publication-time ordering.
+ * On KV failure, returns the latest `count` articles from the window.
+ */
+export async function getPopularArticles(
+  count: number = 6,
+  days: number = 14
+): Promise<ArticleMeta[]> {
+  const { getReactionTotalsBySlug } = await import('@/lib/reactions')
+
+  const cutoff = Date.now() - days * 24 * 60 * 60 * 1000
+  const candidates = getAllArticles().filter(
+    (a) => new Date(a.date).getTime() >= cutoff
+  )
+  if (candidates.length === 0) return getLatestArticles(count)
+
+  const totals = await getReactionTotalsBySlug(candidates.map((a) => a.slug))
+
+  return candidates
+    .map((a) => ({ article: a, score: totals.get(a.slug) ?? 0 }))
+    .sort((x, y) => {
+      if (y.score !== x.score) return y.score - x.score
+      return y.article.date.localeCompare(x.article.date)
+    })
+    .slice(0, count)
+    .map((entry) => entry.article)
+}
+
 export { formatDate, formatDateShort } from '@/lib/date-utils'

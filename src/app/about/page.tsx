@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
+import styles from './about.module.css'
 
 export const metadata: Metadata = {
   title: 'Über E-AUTOS',
@@ -13,6 +14,24 @@ export default function AboutPage() {
       <SiteHeader />
 
       <main style={{ maxWidth: '720px', margin: '0 auto', padding: '4rem 1.5rem' }}>
+        <div className={styles.hero}>
+          <img
+            src="/logo-wordmark-dark.png"
+            alt="China EV News"
+            className={`${styles.logo} ${styles.logoDark}`}
+            width={700}
+            height={385}
+          />
+          <img
+            src="/logo-wordmark-light.png"
+            alt=""
+            aria-hidden="true"
+            className={`${styles.logo} ${styles.logoLight}`}
+            width={700}
+            height={385}
+          />
+        </div>
+
         <h1 style={{ fontSize: '2rem', marginBottom: '1.5rem' }}>Über E-AUTOS</h1>
 
         <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
@@ -38,7 +57,7 @@ export default function AboutPage() {
         <h2 style={{ fontSize: '1.5rem', marginTop: '2rem', marginBottom: '1rem' }}>Kontakt</h2>
         <p style={{ lineHeight: 1.7 }}>
           Fragen, Anregungen oder Hinweise? Schreib uns:{' '}
-          <a href="mailto:l.bai@loghan.de">l.bai@loghan.de</a>.
+          <a href="mailto:l.bai@loghan.de" className={styles.mailLink}>l.bai@loghan.de</a>.
         </p>
       </main>
 

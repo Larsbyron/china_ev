@@ -32,11 +32,20 @@ export const metadata: Metadata = {
     siteName: 'E-AUTOS',
     title: 'E-AUTOS | China EV News auf Deutsch',
     description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News.',
+    images: [
+      {
+        url: '/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'China EV News — E-AUTOS',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'E-AUTOS | China EV News auf Deutsch',
     description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News.',
+    images: ['/og-image.jpg'],
   },
   robots: {
     index: true,
@@ -53,7 +62,8 @@ export default function RootLayout({
     <html lang="de" suppressHydrationWarning className={`${inter.variable} ${jetbrainsMono.variable}`}>
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href="/icon.png" type="image/png" sizes="64x64" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
         <link rel="alternate" type="application/rss+xml" title="E-AUTOS RSS Feed" href="/feed.xml" />
         {/* Plausible Analytics — privacy-friendly, no cookies */}
         <script defer data-domain="china-autonews.de" src="https://plausible.io/js/script.js" />

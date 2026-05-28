@@ -39,25 +39,25 @@ export default function RangeChart() {
         <BarChart data={data} layout="vertical" margin={{ top: 5, right: 30, left: 120, bottom: 5 }}>
           <XAxis
             type="number"
-            tick={{ fill: '#86868b', fontSize: 12 }}
-            axisLine={{ stroke: '#2c2c2e' }}
+            tick={{ fill: '#8b94ad', fontSize: 12 }}
+            axisLine={{ stroke: '#1e2747' }}
             tickLine={false}
             unit=" km"
           />
           <YAxis
             type="category"
             dataKey="name"
-            tick={{ fill: '#86868b', fontSize: 12 }}
+            tick={{ fill: '#8b94ad', fontSize: 12 }}
             axisLine={false}
             tickLine={false}
             width={110}
           />
           <Tooltip
             contentStyle={{
-              background: '#1c1c1f',
-              border: '1px solid #2c2c2e',
+              background: '#18203f',
+              border: '1px solid #1e2747',
               borderRadius: 8,
-              color: '#f5f5f7',
+              color: '#f5f7fa',
               fontSize: 13,
             }}
             formatter={(value) => [`${value} km`, 'Reichweite']}
@@ -66,7 +66,7 @@ export default function RangeChart() {
             {data.map((entry, index) => (
               <Cell
                 key={entry.name}
-                fill={index === 0 ? '#30d158' : index < 3 ? '#ff9f0a' : '#86868b'}
+                fill={index === 0 ? '#19b8cf' : index < 3 ? '#ff9f0a' : '#8b94ad'}
               />
             ))}
           </Bar>

@@ -41,8 +41,8 @@ export default function BatteryChart() {
         <BarChart data={data} margin={{ top: 20, right: 30, left: 20, bottom: 60 }}>
           <XAxis
             dataKey="name"
-            tick={{ fill: '#86868b', fontSize: 11 }}
-            axisLine={{ stroke: '#2c2c2e' }}
+            tick={{ fill: '#8b94ad', fontSize: 11 }}
+            axisLine={{ stroke: '#1e2747' }}
             tickLine={false}
             angle={-45}
             textAnchor="end"
@@ -50,25 +50,25 @@ export default function BatteryChart() {
           />
           <YAxis
             yAxisId="left"
-            tick={{ fill: '#86868b', fontSize: 12 }}
-            axisLine={{ stroke: '#2c2c2e' }}
+            tick={{ fill: '#8b94ad', fontSize: 12 }}
+            axisLine={{ stroke: '#1e2747' }}
             tickLine={false}
             unit=" kWh"
           />
           <YAxis
             yAxisId="right"
             orientation="right"
-            tick={{ fill: '#86868b', fontSize: 12 }}
-            axisLine={{ stroke: '#2c2c2e' }}
+            tick={{ fill: '#8b94ad', fontSize: 12 }}
+            axisLine={{ stroke: '#1e2747' }}
             tickLine={false}
             unit=" kW"
           />
           <Tooltip
             contentStyle={{
-              background: '#1c1c1f',
-              border: '1px solid #2c2c2e',
+              background: '#18203f',
+              border: '1px solid #1e2747',
               borderRadius: 8,
-              color: '#f5f5f7',
+              color: '#f5f7fa',
               fontSize: 13,
             }}
             formatter={(value, name) => {
@@ -78,9 +78,9 @@ export default function BatteryChart() {
             }}
           />
           <Legend
-            wrapperStyle={{ color: '#86868b', fontSize: 12 }}
+            wrapperStyle={{ color: '#8b94ad', fontSize: 12 }}
           />
-          <Bar yAxisId="left" dataKey="battery" name="Batterie" fill="#30d158" radius={[4, 4, 0, 0]} />
+          <Bar yAxisId="left" dataKey="battery" name="Batterie" fill="#19b8cf" radius={[4, 4, 0, 0]} />
           <Bar yAxisId="right" dataKey="fastCharge" name="DC-Laden" fill="#ff9f0a" radius={[4, 4, 0, 0]} />
         </BarChart>
       </ResponsiveContainer>

@@ -29,11 +29,33 @@
   gap: var(--space-2);
 }
 
+.logoLink {
+  display: inline-flex;
+  transition: opacity var(--duration-fast);
+}
+
+.logoLink:hover {
+  opacity: 0.8;
+}
+
 .logo {
-  font-size: var(--text-lg);
-  font-weight: 800;
-  letter-spacing: -0.03em;
-  color: var(--color-text-primary);
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
+/* Theme-aware logo swap: white-ink on dark footer, black-ink on light */
+.logoLight {
+  display: none;
+}
+
+[data-theme='light'] .logoDark {
+  display: none;
+}
+
+[data-theme='light'] .logoLight {
+  display: block;
 }
 
 .tagline {
