@@ -24,7 +24,6 @@ src/
 │   ├── brands/             # Brand overview
 │   ├── daten/              # EV data with Recharts
 │   ├── suche/              # Pagefind search
-│   ├── vergleich/          # EV comparison tool
 │   ├── weekly/             # Weekly top 5
 │   ├── about/              # About page
 │   ├── impressum/          # Legal (TMG)

@@ -13,7 +13,6 @@ Ein automatisiertes Nachrichtenportal für deutsche Auto-Enthusiasten mit den ne
 - **Modernes Design** — Next.js 15 Static Export mit Dark-First Theme
 - **Volltextsuche** — Pagefind für client-side Suche
 - **EV-Daten** — Recharts Diagramme für Reichweite, Preise, Batterie
-- **Vergleichstool** — Chinesische EVs side-by-side vergleichen
 - **Wöchentliche Kuratierung** — Top 5 chinesische E-Autos jede Woche
 - **Quick Facts** — EV-Spezifikationen auf Artikelseiten
 - **Share Buttons** — X, Facebook, LinkedIn, Link kopieren
@@ -56,7 +55,6 @@ src/
 │   ├── brands/             # Marken-Übersicht
 │   ├── daten/              # EV-Daten mit Charts
 │   ├── suche/              # Volltextsuche
-│   ├── vergleich/          # Vergleichstool
 │   ├── weekly/             # Wöchentliche Top 5
 │   ├── about/              # Über uns
 │   ├── impressum/          # Impressum (TMG)
