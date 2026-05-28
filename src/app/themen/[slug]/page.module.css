@@ -1,0 +1,119 @@
+.main {
+  padding-top: 96px;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: var(--max-width-listing);
+  margin: 0 auto;
+  padding: 0 var(--space-6);
+}
+
+.pageHeader {
+  margin-bottom: var(--space-10);
+  padding-bottom: var(--space-8);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-4);
+}
+
+.breadcrumbLink {
+  color: var(--color-accent-green);
+  text-decoration: none;
+}
+
+.breadcrumbLink:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbSep {
+  color: var(--color-border);
+}
+
+.titleRow {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-4);
+  margin-bottom: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.title {
+  font-size: var(--text-4xl);
+  font-weight: 700;
+  color: var(--color-text-primary);
+}
+
+.articleCount {
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+}
+
+.description {
+  font-size: var(--text-lg);
+  color: var(--color-text-secondary);
+  max-width: 640px;
+}
+
+/* Article grid */
+.articleGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-6);
+  margin-bottom: var(--space-20);
+}
+
+/* Thin state */
+.thinState {
+  padding: var(--space-16) 0;
+  text-align: center;
+}
+
+.thinStateText {
+  font-size: var(--text-lg);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-6);
+}
+
+.thinStateHint {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-5);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-family: var(--font-mono);
+}
+
+.thinStateLinks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-3);
+}
+
+.thinStateLink {
+  font-size: var(--text-sm);
+  color: var(--color-accent-green);
+  text-decoration: none;
+  padding: var(--space-2) var(--space-4);
+  border: 1px solid var(--color-accent-green);
+  border-radius: 20px;
+  transition: background var(--duration-fast), color var(--duration-fast);
+}
+
+.thinStateLink:hover {
+  background: var(--color-accent-green);
+  color: #070b18;
+}
+
+[data-theme='light'] .thinStateLink:hover {
+  color: #ffffff;
+}

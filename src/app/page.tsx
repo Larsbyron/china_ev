@@ -5,17 +5,24 @@ import SiteFooter from '@/components/SiteFooter'
 import Hero from '@/components/Hero'
 import ArticleCard from '@/components/ArticleCard'
 import ArticleListItem from '@/components/ArticleListItem'
+import StatusBadge from '@/components/StatusBadge'
 import NewsletterForm from '@/components/NewsletterForm'
 import {
   getAllArticles,
   getFeaturedArticle,
-  getLatestArticles,
-  getPopularArticles,
+  getArticlesByTopic,
+  getDeutschlandArticles,
 } from '@/lib/articles'
+import { rankArticles } from '@/lib/ranking'
+import { TOPICS } from '@/lib/topics'
+import {
+  MIN_SHELF_ARTICLES,
+  SHELF_ARTICLES_PER_TOPIC,
+  HOMEPAGE_ARTICLE_TARGET,
+  DEUTSCHLAND_SHELF_COUNT,
+} from '@/lib/ranking-config'
 import styles from './page.module.css'
 
-// Rebuild the home page every 10 minutes so reaction-driven "Beliebt"
-// ranking stays fresh without paying full SSR cost per request.
 export const revalidate = 600
 
 export const metadata: Metadata = {
@@ -23,7 +30,7 @@ export const metadata: Metadata = {
   description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng und weiteren Marken.',
 }
 
-const brands = [
+const BRAND_QUICK_LINKS = [
   { name: 'BYD', slug: 'byd', initial: 'B' },
   { name: 'NIO', slug: 'nio', initial: 'N' },
   { name: 'Li Auto', slug: 'li-auto', initial: 'L' },
@@ -36,20 +43,46 @@ export default async function HomePage() {
   const featured = getFeaturedArticle()
   const allArticles = getAllArticles()
 
-  // Strict chronological order, no image filter — newest is always first.
-  // Skip the featured article so it doesn't double up with the Hero.
-  const latestArticles = getLatestArticles(12).filter(
-    (a) => a.slug !== featured?.slug,
-  )
-  const gridArticles = latestArticles.slice(0, 6)
-  const listArticles = latestArticles.slice(6, 11)
+  // Smart ranking with reactions
+  let reactionMap: Map<string, number> = new Map()
+  try {
+    const { getReactionTotalsBySlug } = await import('@/lib/reactions')
+    const candidates = allArticles.slice(0, 100)
+    reactionMap = await getReactionTotalsBySlug(candidates.map((a) => a.slug))
+  } catch {
+    // KV unavailable — reactions default to 0, ranking still works
+  }
 
-  // Popular this week: last 14 days, ranked by reader reactions, falls back
-  // to publication order when reactions are tied or KV is unavailable.
-  // Pull 7, drop the Hero, slice to 6 so the grid is always full.
-  const popularArticles = (await getPopularArticles(7, 14))
+  const reactionTotals = { get: (slug: string) => reactionMap.get(slug) }
+
+  // "Heute wichtig" — top 5 ranked (skip featured hero article)
+  const rankPool = allArticles.filter((a) => a.slug !== featured?.slug)
+  const topRanked = rankArticles(rankPool, reactionTotals, HOMEPAGE_ARTICLE_TARGET)
+  const heuteWichtig = topRanked.slice(0, 5)
+
+  // "Für Deutschland relevant" shelf
+  const deutschlandArticles = getDeutschlandArticles()
     .filter((a) => a.slug !== featured?.slug)
-    .slice(0, 6)
+    .slice(0, DEUTSCHLAND_SHELF_COUNT)
+
+  // Topic shelves — only show if ≥ MIN_SHELF_ARTICLES
+  const topicShelves = TOPICS
+    .map((topic) => ({
+      topic,
+      articles: getArticlesByTopic(topic.slug).slice(0, SHELF_ARTICLES_PER_TOPIC),
+    }))
+    .filter((shelf) => shelf.articles.length >= MIN_SHELF_ARTICLES)
+
+  // "Neueste Meldungen" — compact list of remaining articles
+  const shownSlugs = new Set([
+    featured?.slug,
+    ...heuteWichtig.map((a) => a.slug),
+    ...deutschlandArticles.map((a) => a.slug),
+    ...topicShelves.flatMap((s) => s.articles.map((a) => a.slug)),
+  ])
+  const neueste = allArticles
+    .filter((a) => !shownSlugs.has(a.slug))
+    .slice(0, 18)
 
   return (
     <>
@@ -62,16 +95,44 @@ export default async function HomePage() {
           {featured && <Hero article={featured} />}
         </div>
 
-        {/* Beliebt diese Woche — by reader reactions */}
-        {popularArticles.length > 0 && (
-          <section className={styles.section}>
+        {/* ── Heute wichtig: smart-ranked lead section ── */}
+        {heuteWichtig.length > 0 && (
+          <section className={styles.section} aria-label="Heute wichtig">
             <div className={styles.container}>
               <div className={styles.sectionHeader}>
                 <div className={styles.sectionLine} aria-hidden="true" />
-                <h2 className={styles.sectionTitle}>Beliebt diese Woche</h2>
+                <h2 className={styles.sectionTitle}>Heute wichtig</h2>
               </div>
-              <div className={styles.articleGrid}>
-                {popularArticles.map((article) => (
+              <div className={styles.heuteGrid}>
+                {heuteWichtig[0] && (
+                  <div className={styles.heuteFeatured}>
+                    <ArticleCard article={heuteWichtig[0]} featured={Boolean(heuteWichtig[0].image)} />
+                  </div>
+                )}
+                <div className={styles.heuteSecondary}>
+                  {heuteWichtig.slice(1).map((article) => (
+                    <ArticleCard key={article.slug} article={article} />
+                  ))}
+                </div>
+              </div>
+            </div>
+          </section>
+        )}
+
+        {/* ── Für Deutschland relevant: the differentiator ── */}
+        {deutschlandArticles.length >= MIN_SHELF_ARTICLES && (
+          <section className={styles.deutschlandSection} aria-label="Für Deutschland relevant">
+            <div className={styles.container}>
+              <div className={styles.sectionHeader}>
+                <div className={styles.sectionLine} aria-hidden="true" />
+                <h2 className={styles.sectionTitle}>Für Deutschland relevant</h2>
+                <StatusBadge relevance="de_available" size="sm" />
+                <Link href="/deutschland" className={styles.sectionMoreLink}>
+                  Alle ansehen →
+                </Link>
+              </div>
+              <div className={styles.shelfGrid}>
+                {deutschlandArticles.map((article) => (
                   <ArticleCard key={article.slug} article={article} />
                 ))}
               </div>
@@ -79,63 +140,81 @@ export default async function HomePage() {
           </section>
         )}
 
-        {/* Latest Articles — editorial grid */}
-        <section className={styles.section}>
-          <div className={styles.container}>
-            <div className={styles.sectionHeader}>
-              <div className={styles.sectionLine} aria-hidden="true" />
-              <h2 className={styles.sectionTitle}>Neueste Artikel</h2>
-            </div>
-
-            {gridArticles.length > 0 && (
-              <div className={styles.articleGrid}>
-                {gridArticles.map((article, i) => (
-                  <ArticleCard
-                    key={article.slug}
-                    article={article}
-                    featured={i === 0 && Boolean(article.image)}
-                  />
-                ))}
-              </div>
-            )}
-
-            {listArticles.length > 0 && (
-              <div className={styles.kompakt}>
-                <div className={styles.kompaktHeader}>
-                  <div className={styles.kompaktLine} aria-hidden="true" />
-                  <h3 className={styles.kompaktTitle}>Mehr Meldungen</h3>
-                </div>
-                <div className={styles.kompaktList}>
-                  {listArticles.map((article) => (
-                    <ArticleListItem key={article.slug} article={article} />
-                  ))}
-                </div>
-              </div>
-            )}
-
-            {allArticles.length > 6 && (
-              <div className={styles.viewAll}>
-                <Link href="/articles" className={styles.viewAllLink}>
-                  Alle Artikel ansehen
-                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-                    <line x1="5" y1="12" x2="19" y2="12" />
-                    <polyline points="12 5 19 12 12 19" />
-                  </svg>
+        {/* ── Topic shelves ── */}
+        {topicShelves.map(({ topic, articles }) => (
+          <section key={topic.slug} className={styles.topicShelf} aria-label={topic.label}>
+            <div className={styles.container}>
+              <div className={styles.shelfHeader}>
+                <div className={styles.shelfAccent} aria-hidden="true" />
+                <h2 className={styles.shelfTitle}>{topic.label}</h2>
+                <Link href={`/themen/${topic.slug}`} className={styles.sectionMoreLink}>
+                  Alle →
                 </Link>
               </div>
-            )}
-          </div>
-        </section>
+              <div className={styles.shelfGrid}>
+                {articles.map((article) => (
+                  <ArticleCard key={article.slug} article={article} />
+                ))}
+              </div>
+            </div>
+          </section>
+        ))}
 
-        {/* Brand Showcase */}
+        {/* ── Fallback: wenn noch keine Klassifizierung ── */}
+        {topicShelves.length === 0 && heuteWichtig.length === 0 && (
+          <section className={styles.section}>
+            <div className={styles.container}>
+              <div className={styles.sectionHeader}>
+                <div className={styles.sectionLine} aria-hidden="true" />
+                <h2 className={styles.sectionTitle}>Neueste Artikel</h2>
+              </div>
+              <div className={styles.articleGrid}>
+                {allArticles.slice(0, 6).map((article) => (
+                  <ArticleCard key={article.slug} article={article} />
+                ))}
+              </div>
+            </div>
+          </section>
+        )}
+
+        {/* ── Neueste Meldungen: compact list ── */}
+        {neueste.length > 0 && (
+          <section className={styles.section} aria-label="Neueste Meldungen">
+            <div className={styles.container}>
+              <div className={styles.sectionHeader}>
+                <div className={styles.sectionLine} aria-hidden="true" />
+                <h2 className={styles.sectionTitle}>Neueste Meldungen</h2>
+              </div>
+              <div className={styles.kompaktList}>
+                {neueste.map((article) => (
+                  <ArticleListItem key={article.slug} article={article} />
+                ))}
+              </div>
+              {allArticles.length > 20 && (
+                <div className={styles.viewAll}>
+                  <Link href="/articles" className={styles.viewAllLink}>
+                    Alle Artikel ansehen
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                      <line x1="5" y1="12" x2="19" y2="12" />
+                      <polyline points="12 5 19 12 12 19" />
+                    </svg>
+                  </Link>
+                </div>
+              )}
+            </div>
+          </section>
+        )}
+
+        {/* ── Brand Quick Links ── */}
         <section className={styles.brandSection}>
           <div className={styles.container}>
             <div className={styles.sectionHeader}>
               <div className={styles.sectionLine} aria-hidden="true" />
               <h2 className={styles.sectionTitle}>Marken</h2>
+              <Link href="/brands" className={styles.sectionMoreLink}>Alle Marken →</Link>
             </div>
             <div className={styles.brandGrid}>
-              {brands.map((brand) => (
+              {BRAND_QUICK_LINKS.map((brand) => (
                 <Link
                   key={brand.slug}
                   href={`/brands/${brand.slug}`}
@@ -149,7 +228,7 @@ export default async function HomePage() {
           </div>
         </section>
 
-        {/* Newsletter Signup */}
+        {/* ── Newsletter ── */}
         <section className={styles.newsletterSection}>
           <div className={styles.newsletterInner}>
             <h2 className={styles.newsletterTitle}>Bleib auf dem Laufenden</h2>

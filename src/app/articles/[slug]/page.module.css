@@ -160,10 +160,21 @@
   border-top: 1px solid var(--color-border);
 }
 
+.relatedGroup {
+  margin-bottom: var(--space-12);
+}
+
+.relatedGroup:last-child {
+  margin-bottom: 0;
+}
+
 .relatedTitle {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
   font-size: var(--text-xl);
   font-weight: 600;
-  margin-bottom: var(--space-8);
+  margin-bottom: var(--space-6);
 }
 
 .relatedGrid {

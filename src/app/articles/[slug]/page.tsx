@@ -10,9 +10,14 @@ import {
   getAllArticles,
   getArticleBySlug,
   getArticlesByBrand,
+  getArticlesByTopic,
+  getArticlesByMarketRelevance,
   formatDate,
 } from '@/lib/articles'
+import type { ArticleMeta } from '@/lib/articles'
+import { TOPIC_BY_SLUG } from '@/lib/topics'
 import FallbackImage from '@/components/FallbackImage'
+import StatusBadge from '@/components/StatusBadge'
 import { buildAbsoluteImageUrl } from '@/lib/images'
 import styles from './page.module.css'
 
@@ -75,9 +80,33 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   }
 
   const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()
-  const relatedArticles = article.brand
-    ? getArticlesByBrand(article.brand).filter((a) => a.slug !== slug).slice(0, 3)
+
+  // Related articles: same brand + same topic + same DE status (E2)
+  const seenSlugs = new Set([slug])
+  const addUnique = (candidates: ArticleMeta[], max: number): ArticleMeta[] => {
+    const result: ArticleMeta[] = []
+    for (const c of candidates) {
+      if (!seenSlugs.has(c.slug) && result.length < max) {
+        seenSlugs.add(c.slug)
+        result.push(c)
+      }
+    }
+    return result
+  }
+
+  const relatedByBrand = article.brand
+    ? addUnique(getArticlesByBrand(article.brand).filter((a) => a.slug !== slug), 4)
     : []
+
+  const relatedByTopic = article.primaryTopic
+    ? addUnique(getArticlesByTopic(article.primaryTopic), 4)
+    : []
+
+  const relatedByStatus = article.marketRelevance
+    ? addUnique(getArticlesByMarketRelevance(article.marketRelevance), 4)
+    : []
+
+  const hasRelated = relatedByBrand.length > 0 || relatedByTopic.length > 0 || relatedByStatus.length > 0
 
   return (
     <>
@@ -235,30 +264,72 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             </div>
           </div>
 
-          {/* Related Articles */}
-          {relatedArticles.length > 0 && (
+          {/* Related Articles — E2: brand + topic + DE status */}
+          {hasRelated && (
             <section className={styles.related}>
               <div className={styles.container}>
-                <h2 className={styles.relatedTitle}>Mehr von {article.brand}</h2>
-                <div className={styles.relatedGrid}>
-                  {relatedArticles.map((related) => (
-                    <Link
-                      key={related.slug}
-                      href={`/articles/${related.slug}`}
-                      className={styles.relatedCard}
-                    >
-                      {related.image && (
-                        <FallbackImage src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} />
-                      )}
-                      <div className={styles.relatedContent}>
-                        <h3 className={styles.relatedCardTitle}>{related.title}</h3>
-                        <time className={styles.relatedDate} dateTime={related.date}>
-                          {formatDate(related.date)}
-                        </time>
-                      </div>
-                    </Link>
-                  ))}
-                </div>
+
+                {relatedByBrand.length > 0 && (
+                  <div className={styles.relatedGroup}>
+                    <h2 className={styles.relatedTitle}>Mehr von {article.brand}</h2>
+                    <div className={styles.relatedGrid}>
+                      {relatedByBrand.map((related) => (
+                        <Link key={related.slug} href={`/articles/${related.slug}`} className={styles.relatedCard}>
+                          {related.image && (
+                            <FallbackImage src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} />
+                          )}
+                          <div className={styles.relatedContent}>
+                            <h3 className={styles.relatedCardTitle}>{related.title}</h3>
+                            <time className={styles.relatedDate} dateTime={related.date}>{formatDate(related.date)}</time>
+                          </div>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {relatedByTopic.length > 0 && article.primaryTopic && (
+                  <div className={styles.relatedGroup}>
+                    <h2 className={styles.relatedTitle}>
+                      Mehr zu: {TOPIC_BY_SLUG[article.primaryTopic]?.label}
+                    </h2>
+                    <div className={styles.relatedGrid}>
+                      {relatedByTopic.map((related) => (
+                        <Link key={related.slug} href={`/articles/${related.slug}`} className={styles.relatedCard}>
+                          {related.image && (
+                            <FallbackImage src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} />
+                          )}
+                          <div className={styles.relatedContent}>
+                            <h3 className={styles.relatedCardTitle}>{related.title}</h3>
+                            <time className={styles.relatedDate} dateTime={related.date}>{formatDate(related.date)}</time>
+                          </div>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {relatedByStatus.length > 0 && article.marketRelevance && (
+                  <div className={styles.relatedGroup}>
+                    <h2 className={styles.relatedTitle}>
+                      Auch interessant: <StatusBadge relevance={article.marketRelevance} size="md" />
+                    </h2>
+                    <div className={styles.relatedGrid}>
+                      {relatedByStatus.map((related) => (
+                        <Link key={related.slug} href={`/articles/${related.slug}`} className={styles.relatedCard}>
+                          {related.image && (
+                            <FallbackImage src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} />
+                          )}
+                          <div className={styles.relatedContent}>
+                            <h3 className={styles.relatedCardTitle}>{related.title}</h3>
+                            <time className={styles.relatedDate} dateTime={related.date}>{formatDate(related.date)}</time>
+                          </div>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
               </div>
             </section>
           )}

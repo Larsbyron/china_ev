@@ -1,5 +1,7 @@
 // Article types and utilities for E-Auto Blog scraper pipeline
 
+import type { TopicSlug, MarketRelevance } from '@/lib/topics'
+
 export interface Article {
   title: string
   content: string
@@ -10,6 +12,9 @@ export interface Article {
   originalUrl: string
   description?: string
   brand?: string
+  brands?: string[]
+  primaryTopic?: TopicSlug
+  marketRelevance?: MarketRelevance
 }
 
 export type SourceName = 'Autohome' | 'Ifeng' | 'Sina' | 'PCauto' | 'Autohome NewEnergy' | 'OFweek NEV' | 'ChooseAuto' | 'D1EV' | 'CarNewsChina'

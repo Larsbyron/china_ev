@@ -19,11 +19,16 @@ import { buildRevisionPrompt } from './editorial-review'
 // Types
 // ============================================================================
 
+import type { TopicSlug, MarketRelevance } from '@/lib/topics'
+
 export interface TranslationResult {
   title: string
   description: string
   content: string
   inDeutschland: string
+  primaryTopic?: TopicSlug
+  marketRelevance?: MarketRelevance
+  brands: string[]
   ok: boolean
   error?: string
 }
@@ -210,7 +215,7 @@ async function callDeepSeekAPI(
 // ============================================================================
 
 function emptyResult(error: string): TranslationResult {
-  return { title: '', description: '', content: '', inDeutschland: '', ok: false, error }
+  return { title: '', description: '', content: '', inDeutschland: '', brands: [], ok: false, error }
 }
 
 // ============================================================================
@@ -264,6 +269,9 @@ export async function translateArticle(
           description: parsed.beschreibung,
           content: parsed.inhalt,
           inDeutschland: parsed.inDeutschland || (inDeutschlandText ?? ''),
+          primaryTopic: parsed.primaryTopic,
+          marketRelevance: parsed.marketRelevance,
+          brands: parsed.brands,
           ok: true,
         }
       }
@@ -273,6 +281,7 @@ export async function translateArticle(
         description: '',
         content: raw,
         inDeutschland: inDeutschlandText ?? '',
+        brands: [],
         ok: true,
       }
     }
@@ -296,6 +305,9 @@ export async function translateArticle(
         description: parsed.beschreibung,
         content: parsed.inhalt,
         inDeutschland: parsed.inDeutschland || (inDeutschlandText ?? ''),
+        primaryTopic: parsed.primaryTopic,
+        marketRelevance: parsed.marketRelevance,
+        brands: parsed.brands,
         ok: true,
       }
     }
@@ -322,6 +334,7 @@ export async function translateArticle(
       description: '',
       content: fallbackContent,
       inDeutschland: inDeutschlandText ?? '',
+      brands: [],
       ok: true,
     }
   } catch (err) {
@@ -353,6 +366,9 @@ async function translateChunked(
   let translatedTitle = originalTitle
   let translatedDescription = ''
   let inDeutschland = ''
+  let primaryTopic: import('@/lib/topics').TopicSlug | undefined
+  let marketRelevance: import('@/lib/topics').MarketRelevance | undefined
+  let brands: string[] = []
 
   const brandInfo = brand ? lookupBrand(brand) : null
   const inDeutschlandText = brand
@@ -378,6 +394,9 @@ async function translateChunked(
           translatedTitle = parsed.titel
           translatedDescription = parsed.beschreibung
           inDeutschland = parsed.inDeutschland || (inDeutschlandText ?? '')
+          primaryTopic = parsed.primaryTopic
+          marketRelevance = parsed.marketRelevance
+          brands = parsed.brands
           translatedChunks.push(parsed.inhalt)
         } else {
           // Fallback for first chunk
@@ -411,6 +430,9 @@ async function translateChunked(
     description: translatedDescription,
     content: translatedChunks.join('\n\n'),
     inDeutschland,
+    primaryTopic,
+    marketRelevance,
+    brands,
     ok: true,
   }
 }

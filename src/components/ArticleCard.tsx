@@ -1,7 +1,9 @@
 import Link from 'next/link'
 import type { ArticleMeta } from '@/lib/articles'
 import { formatDateShort } from '@/lib/date-utils'
+import { TOPIC_BY_SLUG } from '@/lib/topics'
 import FallbackImage from './FallbackImage'
+import StatusBadge from './StatusBadge'
 import styles from './ArticleCard.module.css'
 
 interface ArticleCardProps {
@@ -10,6 +12,10 @@ interface ArticleCardProps {
 }
 
 export default function ArticleCard({ article, featured = false }: ArticleCardProps) {
+  const topicLabel = article.primaryTopic
+    ? TOPIC_BY_SLUG[article.primaryTopic]?.label
+    : null
+
   return (
     <Link
       href={`/articles/${article.slug}`}
@@ -34,7 +40,12 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
           {article.brand && (
             <span className={styles.brand}>{article.brand}</span>
           )}
-          <span className={styles.source}>{article.source}</span>
+          {topicLabel && (
+            <span className={styles.topic}>{topicLabel}</span>
+          )}
+          {article.marketRelevance && (
+            <StatusBadge relevance={article.marketRelevance} size="sm" />
+          )}
         </div>
 
         <h3 className={styles.title}>{article.title}</h3>

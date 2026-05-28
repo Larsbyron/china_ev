@@ -12,7 +12,7 @@ export const TRANSLATION_SYSTEM_PROMPT = `Du bist Redakteur bei einem deutschen 
 Deine Aufgabe: Chinesische Autonews lokalisieren — nicht wörtlich übersetzen, sondern für deutsche Autofahrer aufbereiten.
 
 ## PFLICHT-AUSGABEFORMAT
-Antworte IMMER mit genau diesen 4 Blöcken (die === Trennzeichen sind Pflicht):
+Antworte IMMER mit genau diesen 7 Blöcken (die === Trennzeichen sind Pflicht):
 
 ===TITEL===
 [Schlagzeile auf Deutsch, ≤ 60 Zeichen]
@@ -25,6 +25,26 @@ Antworte IMMER mit genau diesen 4 Blöcken (die === Trennzeichen sind Pflicht):
 
 ===IN_DEUTSCHLAND===
 [Europäischer Marktstatus — kommt am Ende des Artikels]
+
+===THEMA===
+[Genau EINE Kategorie aus dieser Liste — exakt so schreiben:
+modelle-marktstarts | preise-rabatte-wettbewerb | markt-absatz-zulassungen | politik-zoelle-regulierung | batterie-laden-reichweite | software-assistenz-autonomes-fahren | industrie-produktion-lieferkette | unternehmen-finanzen-kooperationen
+Wähle die Kategorie, die die HAUPTHANDLUNG des Artikels beschreibt. Tie-Breaker-Regeln:
+1. Marktstart/neues Modell/Facelift → modelle-marktstarts
+2. Preissenkung/Preiskampf → preise-rabatte-wettbewerb
+3. Absatzzahlen/Marktanteile → markt-absatz-zulassungen
+4. Zölle/Regulierung/Subventionen → politik-zoelle-regulierung]
+
+===MARKTRELEVANZ===
+[Genau EINEN Wert aus: de_available | eu_available | eu_planned | china_only | global_industry
+de_available = Marke/Modell ist in Deutschland erhältlich
+eu_available = In EU erhältlich, aber nicht in Deutschland
+eu_planned = Europa-Expansion angekündigt, nicht in DE erhältlich
+china_only = Ausschließlich China-Markt
+global_industry = Branchen-, Technologie- oder Politiknachricht ohne spezifisches Fahrzeugmodell]
+
+===MARKEN===
+[Komma-separierte englische Markennamen, die im Artikel vorkommen. Leer lassen wenn keine spezifische Marke. Beispiel: BYD, NIO]
 
 ---
 
@@ -203,6 +223,9 @@ export const OUTPUT_MARKERS = {
   beschreibung: '===BESCHREIBUNG===',
   inhalt: '===INHALT===',
   inDeutschland: '===IN_DEUTSCHLAND===',
+  thema: '===THEMA===',
+  marktrelevanz: '===MARKTRELEVANZ===',
+  marken: '===MARKEN===',
 } as const
 
 // ============================================================================
@@ -250,15 +273,21 @@ export function buildChunkTranslationPrompt(
 // Output parser — extracts the 4 sections from AI response
 // ============================================================================
 
+import type { TopicSlug, MarketRelevance } from '@/lib/topics'
+import { isValidTopicSlug, isValidMarketRelevance } from '@/lib/topics'
+
 export interface ParsedTranslation {
   titel: string
   beschreibung: string
   inhalt: string
   inDeutschland: string
+  primaryTopic?: TopicSlug
+  marketRelevance?: MarketRelevance
+  brands: string[]
 }
 
 export function parseTranslationOutput(raw: string): ParsedTranslation | null {
-  const { titel, beschreibung, inhalt, inDeutschland } = OUTPUT_MARKERS
+  const { titel, beschreibung, inhalt, inDeutschland, thema, marktrelevanz, marken } = OUTPUT_MARKERS
 
   const extractSection = (text: string, startMarker: string, endMarker?: string): string => {
     const startIdx = text.indexOf(startMarker)
@@ -271,14 +300,26 @@ export function parseTranslationOutput(raw: string): ParsedTranslation | null {
   const titelText = extractSection(raw, titel, beschreibung)
   const beschreibungText = extractSection(raw, beschreibung, inhalt)
   const inhaltText = extractSection(raw, inhalt, inDeutschland)
-  const inDeutschlandText = extractSection(raw, inDeutschland)
+  const inDeutschlandText = extractSection(raw, inDeutschland, thema)
+  const themaText = extractSection(raw, thema, marktrelevanz).toLowerCase().trim()
+  const marktrelevanzText = extractSection(raw, marktrelevanz, marken).toLowerCase().trim()
+  const markenText = extractSection(raw, marken)
 
   if (!titelText || !inhaltText) return null
+
+  const primaryTopic = isValidTopicSlug(themaText) ? themaText : undefined
+  const marketRelevance = isValidMarketRelevance(marktrelevanzText) ? marktrelevanzText : undefined
+  const brands = markenText
+    ? markenText.split(',').map((b) => b.trim()).filter(Boolean)
+    : []
 
   return {
     titel: titelText,
     beschreibung: beschreibungText,
     inhalt: inhaltText,
     inDeutschland: inDeutschlandText,
+    primaryTopic,
+    marketRelevance,
+    brands,
   }
 }

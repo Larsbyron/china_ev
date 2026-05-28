@@ -1,0 +1,60 @@
+.badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  font-weight: 500;
+  white-space: nowrap;
+  line-height: 1;
+  letter-spacing: 0.02em;
+}
+
+.sm {
+  font-size: 0.6rem;
+  padding: 2px 6px;
+  height: 18px;
+}
+
+.md {
+  font-size: var(--text-xs);
+  padding: 3px 8px;
+  height: 22px;
+}
+
+/* In Deutschland — solid cyan, the star badge */
+.de_available {
+  background: var(--color-accent-green);
+  color: #070b18;
+}
+
+/* In Europa — thin outline, muted */
+.eu_available {
+  background: transparent;
+  border: 1px solid var(--color-accent-green);
+  color: var(--color-accent-green);
+}
+
+/* Für Europa geplant — grey outline */
+.eu_planned {
+  background: transparent;
+  border: 1px solid var(--color-text-secondary);
+  color: var(--color-text-secondary);
+}
+
+/* Nur China — grey text, no border */
+.china_only {
+  background: transparent;
+  color: var(--color-text-secondary);
+  opacity: 0.7;
+}
+
+/* Global / Industrie — grey text */
+.global_industry {
+  background: transparent;
+  color: var(--color-text-secondary);
+  opacity: 0.7;
+}
+
+[data-theme='light'] .de_available {
+  color: #ffffff;
+}

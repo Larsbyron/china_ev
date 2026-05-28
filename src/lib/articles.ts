@@ -4,6 +4,8 @@ import matter from 'gray-matter'
 import { articleFrontmatterSchema } from '@/lib/schemas'
 import { markdownToHtml } from '@/lib/markdown'
 
+import type { TopicSlug, MarketRelevance } from '@/lib/topics'
+
 export interface Article {
   slug: string
   title: string
@@ -13,11 +15,16 @@ export interface Article {
   image?: string | null
   category: string
   brand?: string
+  brands: string[]
   tags: string[]
   draft: boolean
   original_url: string
   read_time_minutes: number
   ev_model?: string
+  primaryTopic?: TopicSlug
+  secondaryTopics: TopicSlug[]
+  marketRelevance?: MarketRelevance
+  confidence?: number
   content: string
 }
 
@@ -30,11 +37,16 @@ export interface ArticleMeta {
   image?: string | null
   category: string
   brand?: string
+  brands: string[]
   tags: string[]
   draft: boolean
   original_url: string
   read_time_minutes: number
   ev_model?: string
+  primaryTopic?: TopicSlug
+  secondaryTopics: TopicSlug[]
+  marketRelevance?: MarketRelevance
+  confidence?: number
 }
 
 export type Brand = {
@@ -46,6 +58,11 @@ export type Brand = {
 
 const POSTS_DIR = path.join(process.cwd(), 'content', 'posts')
 const PUBLIC_DIR = path.join(process.cwd(), 'public')
+
+// Module-level memo — avoids re-reading 694 files per call during a single request
+let _articlesCache: ArticleMeta[] | null = null
+let _articlesCacheTime = 0
+const CACHE_TTL_MS = 60_000
 
 function calculateReadTime(content: string): number {
   const wordsPerMinute = 200
@@ -83,6 +100,11 @@ function parseMarkdownFile(filePath: string): Article | null {
     const validated = parsed.data
     const slug = fileName
 
+    // brands[]: prefer explicit array, fall back to single brand field
+    const brands = validated.brands.length > 0
+      ? validated.brands
+      : validated.brand ? [validated.brand] : []
+
     return {
       slug,
       title: validated.title,
@@ -92,11 +114,16 @@ function parseMarkdownFile(filePath: string): Article | null {
       image: resolveImage(validated.image),
       category: validated.category,
       brand: validated.brand,
+      brands,
       tags: validated.tags,
       draft: validated.draft,
       original_url: validated.original_url,
       read_time_minutes: validated.read_time_minutes ?? calculateReadTime(content),
       ev_model: validated.ev_model,
+      primaryTopic: validated.primaryTopic,
+      secondaryTopics: validated.secondaryTopics ?? [],
+      marketRelevance: validated.marketRelevance,
+      confidence: validated.confidence,
       content,
     }
   } catch {
@@ -104,7 +131,12 @@ function parseMarkdownFile(filePath: string): Article | null {
   }
 }
 
-export function getAllArticles(): ArticleMeta[] {
+export function getAllArticles(forceRefresh = false): ArticleMeta[] {
+  const now = Date.now()
+  if (!forceRefresh && _articlesCache && now - _articlesCacheTime < CACHE_TTL_MS) {
+    return _articlesCache
+  }
+
   if (!fs.existsSync(POSTS_DIR)) return []
 
   const files = fs.readdirSync(POSTS_DIR)
@@ -123,6 +155,8 @@ export function getAllArticles(): ArticleMeta[] {
   // Sort by date, newest first
   articles.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
 
+  _articlesCache = articles
+  _articlesCacheTime = now
   return articles
 }
 
@@ -138,9 +172,32 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
 }
 
 export function getArticlesByBrand(brand: string): ArticleMeta[] {
+  return getAllArticles().filter((article) => {
+    const lc = brand.toLowerCase()
+    return (
+      article.brands.some((b) => b.toLowerCase() === lc) ||
+      article.brand?.toLowerCase() === lc
+    )
+  })
+}
+
+export function getArticlesByTopic(topicSlug: string): ArticleMeta[] {
+  return getAllArticles().filter(
+    (article) => article.primaryTopic === topicSlug
+  )
+}
+
+export function getArticlesByMarketRelevance(relevance: string): ArticleMeta[] {
+  return getAllArticles().filter(
+    (article) => article.marketRelevance === relevance
+  )
+}
+
+export function getDeutschlandArticles(): ArticleMeta[] {
   return getAllArticles().filter(
     (article) =>
-      article.brand?.toLowerCase() === brand.toLowerCase()
+      article.marketRelevance === 'de_available' ||
+      article.marketRelevance === 'eu_planned'
   )
 }
 

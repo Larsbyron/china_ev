@@ -107,6 +107,11 @@ async function saveArticle(article: Article, draft = false): Promise<string> {
     ? sanitizeDescription(article.description, article.content)
     : truncateText(article.content.replace(/<[^>]+>/g, '').replace(/\*{1,3}[^*]+\*{1,3}/g, '').replace(/[#>\[\]`]/g, '').replace(/\s+/g, ' ').trim(), 200)
 
+  // brands[]: use explicit array if provided; fall back to single brand
+  const brandsValue: string[] = article.brands && article.brands.length > 0
+    ? article.brands
+    : article.brand ? [article.brand] : []
+
   const frontmatter = {
     title: article.title,
     date,
@@ -115,14 +120,21 @@ async function saveArticle(article: Article, draft = false): Promise<string> {
     image: imageValue,
     category: 'news',
     brand: article.brand || null,
+    brands: brandsValue,
     tags: extractTags(article.content, article.brand),
     draft,
     original_url: article.originalUrl,
-    read_time_minutes: readTime
+    read_time_minutes: readTime,
+    primaryTopic: article.primaryTopic,
+    marketRelevance: article.marketRelevance,
   }
 
   const safeTitle = frontmatter.title.replace(/"/g, "'")
   const safeDescription = frontmatter.description.replace(/"/g, "'")
+
+  const brandsLine = frontmatter.brands.length > 0
+    ? `brands: [${frontmatter.brands.map(b => `"${b.replace(/"/g, "'")}"`).join(', ')}]`
+    : ''
 
   const frontmatterStr = `---
 title: "${safeTitle}"
@@ -132,10 +144,13 @@ source: "${frontmatter.source}"
 ${frontmatter.image ? `image: "${frontmatter.image}"` : ''}
 category: "${frontmatter.category}"
 ${frontmatter.brand ? `brand: "${frontmatter.brand}"` : ''}
+${brandsLine}
 tags: [${frontmatter.tags.map(t => `"${t.replace(/"/g, "'")}"`).join(', ')}]
 draft: ${frontmatter.draft}
 original_url: "${frontmatter.original_url}"
 read_time_minutes: ${frontmatter.read_time_minutes}
+${frontmatter.primaryTopic ? `primaryTopic: "${frontmatter.primaryTopic}"` : ''}
+${frontmatter.marketRelevance ? `marketRelevance: "${frontmatter.marketRelevance}"` : ''}
 ---
 
 # ${frontmatter.title}
@@ -238,12 +253,15 @@ async function processSource(
           ? translation.description
           : undefined
 
-        // Update article with translated content
+        // Update article with translated content + classification
         translatedArticle = {
           ...article,
           title: translation.title,
           content: fullContent,
-          description
+          description,
+          brands: translation.brands.length > 0 ? translation.brands : (article.brand ? [article.brand] : []),
+          primaryTopic: translation.primaryTopic,
+          marketRelevance: translation.marketRelevance,
         }
 
         console.log(`[${sourceName}] Translated OK (${translation.content.length} chars)`)
