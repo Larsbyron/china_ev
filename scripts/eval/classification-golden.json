@@ -1,0 +1,137 @@
+[
+  {
+    "file": "2026-04-05-nio-onvo-slated-to-launch-2026-l90-suv-on-apr-21-cnevpost-d919ef.md",
+    "expectedPrimaryTopic": "modelle-marktstarts",
+    "note": "Marktstart neues Modell"
+  },
+  {
+    "file": "2026-04-06-zeptor-8x-hybrid-suv-startet-vorverkauf-mit-sofortiger-lieferung-cnevpost-7f3a21.md",
+    "expectedPrimaryTopic": "modelle-marktstarts",
+    "note": "Vorverkaufsstart neues Modell"
+  },
+  {
+    "file": "2026-04-10-zeptor-007-facelift-mit-900-volt-technik-und-905-km-reichweite-cnevpost-d7e214.md",
+    "expectedPrimaryTopic": "modelle-marktstarts",
+    "note": "Facelift = Modell"
+  },
+  {
+    "file": "2026-04-08-xpeng-veroeffentlicht-weitere-bilder-des-flagschiff-suv-gx-cnevpost-8a2b34.md",
+    "expectedPrimaryTopic": "modelle-marktstarts",
+    "note": "Neues Modell Vorschau"
+  },
+  {
+    "file": "2026-05-15-byd-erhht-adas-preis-um-300-sparwelle-vorbei-carnewschina-d5aed9.md",
+    "expectedPrimaryTopic": "preise-rabatte-wettbewerb",
+    "note": "Preisänderung"
+  },
+  {
+    "file": "2026-05-23-nio-erhht-preise-bis-zu-1280-mehr-fr-es6-und-et5-autohome-newenergy-ad79fc.md",
+    "expectedPrimaryTopic": "preise-rabatte-wettbewerb",
+    "note": "Preiserhöhung"
+  },
+  {
+    "file": "2026-05-15-byd-und-xiaomi-preiserhhungen-in-china-lieferkoste-carnewschina-8dc503.md",
+    "expectedPrimaryTopic": "preise-rabatte-wettbewerb",
+    "note": "Preiserhöhung"
+  },
+  {
+    "file": "2026-05-14-audi-e7x-vs-xiaomi-yu7-china-preisduell-ab-32400-ofweek-nev-6ca127.md",
+    "expectedPrimaryTopic": "preise-rabatte-wettbewerb",
+    "note": "Preisvergleich/Wettbewerb"
+  },
+  {
+    "file": "2026-04-09-tesla-absatz-in-china-raeumt-um-16-prozent-im-ersten-quartal-cnevpost-b9c712.md",
+    "expectedPrimaryTopic": "markt-absatz-zulassungen",
+    "note": "Absatzzahlen"
+  },
+  {
+    "file": "2026-04-10-xpeng-maerz-absatz-27415-fahrzeuge-trotz-rueckgang-cnevpost-e5c834.md",
+    "expectedPrimaryTopic": "markt-absatz-zulassungen",
+    "note": "Absatzzahlen"
+  },
+  {
+    "file": "2026-04-20-nio-100000-es8-ausgeliefert-schnellster-je-cnevpost-d2f823.md",
+    "expectedPrimaryTopic": "markt-absatz-zulassungen",
+    "note": "Auslieferungszahlen"
+  },
+  {
+    "file": "2026-04-10-batteriemarkt-china-cat-l-45-prozent-anteil-im-maerz-cnevpost-a8f372.md",
+    "expectedPrimaryTopic": "markt-absatz-zulassungen",
+    "note": "Marktanteil"
+  },
+  {
+    "file": "2026-04-17-kanadischer-handelsminister-zu-besuch-bei-byd-und-xpeng-cnevpost-d8a523.md",
+    "expectedPrimaryTopic": "politik-zoelle-regulierung",
+    "note": "Handelspolitik"
+  },
+  {
+    "file": "2026-05-23-nissan-ruft-in-china-68000-n7-und-n6-wegen-gaspeda-carnewschina-cbaa03.md",
+    "expectedPrimaryTopic": "politik-zoelle-regulierung",
+    "note": "Rückruf/Regulierung"
+  },
+  {
+    "file": "2026-04-14-behoerden-holen-li-auto-und-nissan-vor-die-tuer-cnevpost-f1a523.md",
+    "expectedPrimaryTopic": "politik-zoelle-regulierung",
+    "note": "Behörden/Regulierung"
+  },
+  {
+    "file": "2026-04-21-cat-l-technologietag-dritte-generation-qilin-und-schnellade-akku-cnevpost-a2e634.md",
+    "expectedPrimaryTopic": "batterie-laden-reichweite",
+    "note": "Batterietechnik"
+  },
+  {
+    "file": "2026-05-16-byd-feststoffbatterien-kurz-vor-durchbruch-konkurr-carnewschina-f60997.md",
+    "expectedPrimaryTopic": "batterie-laden-reichweite",
+    "note": "Batterietechnik"
+  },
+  {
+    "file": "2026-05-16-byd-gesteht-batterie-engpass-ein-flash-charging-be-carnewschina-346a16.md",
+    "expectedPrimaryTopic": "batterie-laden-reichweite",
+    "note": "Batterie"
+  },
+  {
+    "file": "2026-04-23-tesla-arbeitet-an-fsd-einfuhr-nach-china-cnevpost-a9c834.md",
+    "expectedPrimaryTopic": "software-assistenz-autonomes-fahren",
+    "note": "FSD/autonom"
+  },
+  {
+    "file": "2026-05-12-li-auto-bis-2026-ki-agent-strategie-als-kampfansag-sina-650283.md",
+    "expectedPrimaryTopic": "software-assistenz-autonomes-fahren",
+    "note": "Software/KI"
+  },
+  {
+    "file": "2026-04-05-mercedes-confirms-steer-by-wire-for-2026-eqs-with--electrek-b7b8a1.md",
+    "expectedPrimaryTopic": "software-assistenz-autonomes-fahren",
+    "note": "Assistenz/Steer-by-Wire"
+  },
+  {
+    "file": "2026-04-17-byd-16-millionen-nev-gebrauch-im-zeitraum-cnevpost-f3b842.md",
+    "expectedPrimaryTopic": "industrie-produktion-lieferkette",
+    "note": "Produktion"
+  },
+  {
+    "file": "2026-05-14-bosch-bestellt-2000-ki-roboter-schaeffler-plant-ta-d1ev-a2904c.md",
+    "expectedPrimaryTopic": "industrie-produktion-lieferkette",
+    "note": "Lieferkette/Produktion"
+  },
+  {
+    "file": "2026-04-05-stellantis-wants-to-build-chinese-leapmotor-evs-at-electrek-a2b9c0.md",
+    "expectedPrimaryTopic": "industrie-produktion-lieferkette",
+    "note": "Produktion/Werk"
+  },
+  {
+    "file": "2026-04-24-tesla-zieht-58-milliarden-dollar-china-kreditlinie-vollstaendig-ab-electrek-e2a734.md",
+    "expectedPrimaryTopic": "unternehmen-finanzen-kooperationen",
+    "note": "Finanzen"
+  },
+  {
+    "file": "2026-05-12-geely-tochter-volvo-ernennt-neuen-china-ceo-duan-j-sina-e9fecd.md",
+    "expectedPrimaryTopic": "unternehmen-finanzen-kooperationen",
+    "note": "Personalie/Unternehmen"
+  },
+  {
+    "file": "2026-04-05-geely-backed-evtol-maker-aerofugia-begins-pre-ipo--cnevpost-d2f6ec.md",
+    "expectedPrimaryTopic": "unternehmen-finanzen-kooperationen",
+    "note": "IPO/Finanzen"
+  }
+]

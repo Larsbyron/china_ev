@@ -6,7 +6,7 @@ Automated blog for German car enthusiasts featuring the latest Chinese EV news, 
 
 ## Tech Stack
 
-- **Framework:** Next.js 15 (Static Export, `output: 'export'`)
+- **Framework:** Next.js 15 (Vercel-hosted, ISR via `export const revalidate` — not static export)
 - **Styling:** CSS Modules + CSS Custom Properties, dark-first theme
 - **Charts:** Recharts (client-side only)
 - **Search:** Pagefind (post-build indexing)

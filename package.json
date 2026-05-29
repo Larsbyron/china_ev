@@ -15,7 +15,8 @@
     "fetch": "npx tsx scripts/fetch-translate.ts",
     "fetch:weekly": "npx tsx scripts/fetch-translate.ts --weekly",
     "backfill-topics": "npx tsx scripts/backfill-topics.ts",
-    "backfill-topics:dry": "npx tsx scripts/backfill-topics.ts --dry-run"
+    "backfill-topics:dry": "npx tsx scripts/backfill-topics.ts --dry-run",
+    "eval:classification": "npx tsx scripts/eval-classification.ts"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",

@@ -16,12 +16,11 @@ import 'dotenv/config'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
-import { isValidTopicSlug, isValidMarketRelevance, TOPICS } from '../src/lib/topics'
+import { TOPICS } from '../src/lib/topics'
+import { classifyArticle } from '../src/lib/classify'
 
 const POSTS_DIR = path.join(process.cwd(), 'content', 'posts')
 const REVIEW_OUTPUT = path.join(process.cwd(), 'classification-review.json')
-const DEEPSEEK_BASE_URL = 'https://api.deepseek.com'
-const MODEL = 'deepseek-v4-flash'
 const CONFIDENCE_THRESHOLD = 0.7
 const RATE_LIMIT_MS = 600
 
@@ -29,104 +28,9 @@ const isDryRun = process.argv.includes('--dry-run')
 const limitArg = process.argv.find((a) => a.startsWith('--limit='))
 const limit = limitArg ? parseInt(limitArg.split('=')[1]) : Infinity
 
-const API_KEY = process.env.DEEPSEEK_API_KEY
-if (!API_KEY) {
+if (!process.env.DEEPSEEK_API_KEY) {
   console.error('DEEPSEEK_API_KEY is not set')
   process.exit(1)
-}
-
-// ============================================================================
-// Classification prompt (lean — just taxonomy, no translation)
-// ============================================================================
-
-const CLASSIFY_SYSTEM = `Du klassifizierst deutsche Automobilnews-Artikel. Gib NUR die Marker und Werte aus, KEINE Erklärungen.
-
-Erlaubte Themen (exakt so schreiben):
-modelle-marktstarts | preise-rabatte-wettbewerb | markt-absatz-zulassungen | politik-zoelle-regulierung | batterie-laden-reichweite | software-assistenz-autonomes-fahren | industrie-produktion-lieferkette | unternehmen-finanzen-kooperationen
-
-Erlaubte Marktwerte: de_available | eu_available | eu_planned | china_only | global_industry
-
-BEISPIELAUSGABE (genau so, kein anderes Format):
-===THEMA===
-modelle-marktstarts
-===SEKUNDAERE_THEMEN===
-preise-rabatte-wettbewerb
-===MARKTRELEVANZ===
-de_available
-===MARKEN===
-BYD, NIO
-===KONFIDENZ===
-0.9
-
-Tie-Breaker: neues Modell/Marktstart → modelle-marktstarts; Preissenkung/Preiskampf → preise-rabatte-wettbewerb; Verkaufszahlen → markt-absatz-zulassungen; Zölle/Regulierung → politik-zoelle-regulierung`
-
-function buildClassifyPrompt(title: string, excerpt: string): string {
-  return `TITEL: ${title}\n\nINHALT (Auszug):\n${excerpt.slice(0, 1500)}`
-}
-
-// ============================================================================
-// DeepSeek call
-// ============================================================================
-
-async function classify(title: string, content: string): Promise<{
-  primaryTopic?: string
-  secondaryTopics: string[]
-  marketRelevance?: string
-  brands: string[]
-  confidence: number
-}> {
-  const body = JSON.stringify({
-    model: MODEL,
-    max_tokens: 1024,
-    temperature: 0.1,
-    messages: [
-      { role: 'system', content: CLASSIFY_SYSTEM },
-      { role: 'user', content: buildClassifyPrompt(title, content) },
-    ],
-  })
-
-  const response = await fetch(`${DEEPSEEK_BASE_URL}/chat/completions`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${API_KEY}` },
-    body,
-  })
-
-  if (!response.ok) {
-    throw new Error(`API ${response.status}: ${await response.text()}`)
-  }
-
-  const data = await response.json()
-  const raw: string = data?.choices?.[0]?.message?.content ?? ''
-
-  const extract = (marker: string, end: string): string => {
-    const si = raw.indexOf(marker)
-    if (si === -1) return ''
-    const start = si + marker.length
-    const ei = raw.indexOf(end, start)
-    return raw.slice(start, ei === -1 ? raw.length : ei).trim()
-  }
-
-  // Only use first non-empty line — DeepSeek sometimes appends explanations
-  const firstLine = (s: string) =>
-    s.split('\n').map(l => l.trim()).find(l => l.length > 0) ?? ''
-
-  const themaRaw = firstLine(extract('===THEMA===', '===SEKUNDAERE_THEMEN===')).toLowerCase()
-  const sekRaw = extract('===SEKUNDAERE_THEMEN===', '===MARKTRELEVANZ===')
-  const mktRaw = firstLine(extract('===MARKTRELEVANZ===', '===MARKEN===')).toLowerCase()
-  const markenRaw = extract('===MARKEN===', '===KONFIDENZ===')
-  const konfRaw = firstLine(extract('===KONFIDENZ===', '===END==='))
-
-  const primaryTopic = isValidTopicSlug(themaRaw) ? themaRaw : undefined
-  const secondaryTopics = sekRaw
-    .split(',')
-    .map((s) => s.trim().toLowerCase())
-    .filter((s) => s && isValidTopicSlug(s) && s !== primaryTopic)
-    .slice(0, 2)
-  const marketRelevance = isValidMarketRelevance(mktRaw) ? mktRaw : undefined
-  const brands = markenRaw.split(',').map((b) => b.trim()).filter(Boolean)
-  const confidence = parseFloat(konfRaw) || 0.5
-
-  return { primaryTopic, secondaryTopics, marketRelevance, brands, confidence }
 }
 
 // ============================================================================
@@ -186,7 +90,7 @@ async function main() {
     process.stdout.write(`[${processed + 1}/${Math.min(toProcess.length, limit)}] ${file.slice(0, 60).padEnd(60)} `)
 
     try {
-      const result = await classify(title, raw)
+      const result = await classifyArticle(title, raw)
 
       if (!result.primaryTopic) {
         console.log(`SKIP (no topic returned)`)
