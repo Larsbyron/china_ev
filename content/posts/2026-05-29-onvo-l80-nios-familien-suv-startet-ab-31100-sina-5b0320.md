@@ -1,18 +1,32 @@
 ---
-title: "Onvo L80: Nios Familien-SUV startet ab 31.100 €"
+title: 'Onvo L80: Nios Familien-SUV startet ab 31.100 €'
 date: 2026-05-29T06:11:18.829Z
-description: "Onvo (乐道), Nios Submarke, launcht den vollelektrischen L80. Das große Fünf-Sitzer-SUV kostet ab ca. 31.100 € (Vollkauf). Die erste rein elektrische Großraumlimousine für Familien setzt auf Komfort statt auf Effekthascherei."
-source: "Sina"
-image: "/images/onvo-l80-nios-familien-suv-startet-ab-31100-sina-5b0320.webp"
-category: "news"
-brand: "BYD"
-brands: ["NIO", "Onvo"]
-tags: ["BYD", "NIO", "Li Auto", "Onvo", "MG", "Batterie", "Elektroauto", "E-Auto"]
+description: >-
+  Onvo (乐道), Nios Submarke, launcht den vollelektrischen L80. Das große
+  Fünf-Sitzer-SUV kostet ab ca. 31.100 € (Vollkauf). Die erste rein elektrische
+  Großraumlimousine für Familien setzt auf Komfort statt auf Effekthascherei.
+source: Sina
+image: /images/onvo-l80-nios-familien-suv-startet-ab-31100-sina-5b0320.webp
+category: news
+brand: Onvo
+brands:
+  - NIO
+  - Onvo
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - Onvo
+  - MG
+  - Batterie
+  - Elektroauto
+  - E-Auto
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-16/detail-inhyawym4377936.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-16/detail-inhyawym4377936.shtml
 read_time_minutes: 24
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # Onvo L80: Nios Familien-SUV startet ab 31.100 €

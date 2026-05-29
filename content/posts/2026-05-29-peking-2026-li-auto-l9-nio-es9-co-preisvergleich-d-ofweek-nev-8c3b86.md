@@ -1,18 +1,34 @@
 ---
-title: "Peking 2026: Li Auto L9, NIO ES9 & Co. – Preisvergleich der 9er-Flaggschiffe"
+title: 'Peking 2026: Li Auto L9, NIO ES9 & Co. – Preisvergleich der 9er-Flaggschiffe'
 date: 2026-05-29T20:19:00.713Z
-description: "Die Peking Auto Show 2026 wird zum Schauplatz einer besonderen Rivalität: Sechs chinesische Top-SUVs mit der Ziffer „9“ im Namen treten an. Von BYDs Einstiegsmodell ab 28.100 € bis zum NIO ES9 für 84.200 € – ein Überblick über Preise, Antriebe und Technik."
-source: "OFweek NEV"
-
-category: "news"
-
-brands: ["Li Auto", "NIO", "AITO", "Volkswagen", "Wei", "BYD"]
-tags: ["BYD", "NIO", "Li Auto", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Die Peking Auto Show 2026 wird zum Schauplatz einer besonderen Rivalität:
+  Sechs chinesische Top-SUVs mit der Ziffer „9“ im Namen treten an. Von BYDs
+  Einstiegsmodell ab 28.100 € bis zum NIO ES9 für 84.200 € – ein Überblick über
+  Preise, Antriebe und Technik.
+source: OFweek NEV
+category: news
+brands:
+  - Li Auto
+  - NIO
+  - AITO
+  - Volkswagen
+  - Wei
+  - BYD
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 5
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: NIO
 ---
 
 # Peking 2026: Li Auto L9, NIO ES9 & Co. – Preisvergleich der 9er-Flaggschiffe

@@ -1,18 +1,31 @@
 ---
-title: "Peking 2026: Chinas Flaggschiff-SUVs für 28.100 bis 84.200 € im Check"
+title: 'Peking 2026: Chinas Flaggschiff-SUVs für 28.100 bis 84.200 € im Check'
 date: 2026-05-29T12:51:16.878Z
-description: "Auf der Peking Auto Show 2026 treten gleich mehrere chinesische Oberklasse-SUVs mit der Nummer „9' an. Von 28.100 € (Denza D19) bis 84.200 € (Stelato ES9) setzen sie auf EREV, BEV und 800-V‑Technik. Li L9, AITO M9 und Stelato ES9 fordern etablierte Premium-SUVs heraus."
-source: "OFweek NEV"
-
-category: "news"
-
-brands: ["Li Auto", "AITO", "Volkswagen", "BYD", "Denza"]
-tags: ["BYD", "Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Auf der Peking Auto Show 2026 treten gleich mehrere chinesische
+  Oberklasse-SUVs mit der Nummer „9' an. Von 28.100 € (Denza D19) bis 84.200 €
+  (Stelato ES9) setzen sie auf EREV, BEV und 800-V‑Technik. Li L9, AITO M9 und
+  Stelato ES9 fordern etablierte Premium-SUVs heraus.
+source: OFweek NEV
+category: news
+brands:
+  - Li Auto
+  - AITO
+  - Volkswagen
+  - BYD
+  - Denza
+tags:
+  - BYD
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: Li Auto
 ---
 
 # Peking 2026: Chinas Flaggschiff-SUVs für 28.100 bis 84.200 € im Check

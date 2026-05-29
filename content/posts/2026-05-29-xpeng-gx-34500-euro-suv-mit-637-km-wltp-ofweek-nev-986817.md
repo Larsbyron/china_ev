@@ -1,18 +1,29 @@
 ---
-title: "XPeng GX: 34.500-Euro-SUV mit 637 km WLTP"
+title: 'XPeng GX: 34.500-Euro-SUV mit 637 km WLTP'
 date: 2026-05-29T12:46:58.817Z
-description: "XPeng (小鹏) startet den Full-Size-SUV GX in China ab 34.500 €. Mit 750 km CLTC (ca. 637 km WLTP) und drei Lidar-Sensoren tritt er gegen den Li Auto L9 an – Europa-Start offen."
-source: "OFweek NEV"
-
-category: "news"
-
-brands: ["XPeng"]
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Geely", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  XPeng (小鹏) startet den Full-Size-SUV GX in China ab 34.500 €. Mit 750 km CLTC
+  (ca. 637 km WLTP) und drei Lidar-Sensoren tritt er gegen den Li Auto L9 an –
+  Europa-Start offen.
+source: OFweek NEV
+category: news
+brands:
+  - XPeng
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Geely
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: XPeng
 ---
 
 # XPeng GX: 34.500-Euro-SUV mit 637 km WLTP

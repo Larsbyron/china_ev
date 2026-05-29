@@ -1,18 +1,30 @@
 ---
-title: "Wuling Starlight L: 6-Sitzer-PHEV startet ab 15.100 €"
+title: 'Wuling Starlight L: 6-Sitzer-PHEV startet ab 15.100 €'
 date: 2026-05-29T20:17:42.763Z
-description: "Der neue Wuling Starlight L startet als 2+2+2-sitziger Plug-in-Hybrid-SUV in China. Vorverkauf ab ca. 15.100 € (Vorzugspreis), elektrische Reichweite 260 km (CLTC) – ideal für Familien mit Alltagstauglichkeit."
-source: "Autohome NewEnergy"
-image: "/images/wuling-starlight-l-6-sitzer-phev-startet-ab-15100-autohome-newenergy-2d5931.webp"
-category: "news"
-brand: "SAIC"
-brands: ["Wuling"]
-tags: ["SAIC", "BYD", "MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der neue Wuling Starlight L startet als 2+2+2-sitziger Plug-in-Hybrid-SUV in
+  China. Vorverkauf ab ca. 15.100 € (Vorzugspreis), elektrische Reichweite 260
+  km (CLTC) – ideal für Familien mit Alltagstauglichkeit.
+source: Autohome NewEnergy
+image: >-
+  /images/wuling-starlight-l-6-sitzer-phev-startet-ab-15100-autohome-newenergy-2d5931.webp
+category: news
+brand: BYD
+brands:
+  - Wuling
+tags:
+  - SAIC
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.autohome.com.cn/news/202605/1314512.html"
+original_url: 'https://www.autohome.com.cn/news/202605/1314512.html'
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # Wuling Starlight L: 6-Sitzer-PHEV startet ab 15.100 €

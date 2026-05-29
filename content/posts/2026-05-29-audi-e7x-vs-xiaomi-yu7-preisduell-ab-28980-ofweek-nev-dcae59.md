@@ -1,18 +1,24 @@
 ---
-title: "Audi E7X vs. Xiaomi YU7: Preisduell ab 28.980 €"
+title: 'Audi E7X vs. Xiaomi YU7: Preisduell ab 28.980 €'
 date: 2026-05-29T06:11:14.646Z
-description: "Audi E7X startet zu Preisen ab 28.980 € in China – Xiaomi YU7 kontert ab 25.350 €. Ein Vergleich zweier Welten: traditionelle Ingenieurskunst trifft auf digitale Tech-Performance."
-source: "OFweek NEV"
-
-category: "news"
-
-brands: ["Audi", "Xiaomi"]
-tags: ["MG", "Reichweite"]
+description: >-
+  Audi E7X startet zu Preisen ab 28.980 € in China – Xiaomi YU7 kontert ab
+  25.350 €. Ein Vergleich zweier Welten: traditionelle Ingenieurskunst trifft
+  auf digitale Tech-Performance.
+source: OFweek NEV
+category: news
+brands:
+  - Audi
+  - Xiaomi
+tags:
+  - MG
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
-primaryTopic: "preise-rabatte-wettbewerb"
-marketRelevance: "china_only"
+primaryTopic: preise-rabatte-wettbewerb
+marketRelevance: china_only
+brand: Xiaomi
 ---
 
 # Audi E7X vs. Xiaomi YU7: Preisduell ab 28.980 €

@@ -1,18 +1,28 @@
 ---
-title: "XPeng GX: 12 Stunden – 24.863 Bestellungen für 34.500 €"
+title: 'XPeng GX: 12 Stunden – 24.863 Bestellungen für 34.500 €'
 date: 2026-05-29T11:37:21.503Z
-description: "Mit dem GX greift XPeng die Oberklasse an: ab ca. 34.500 € (269.800 Yuan) ist der Riesen-SUV in China bestellbar. Technik und Ausstattung zielen auf Li Auto L9 und AITO M9 – nach 12 Stunden ein Rekordwert."
-source: "OFweek NEV"
-
-category: "news"
-
-brands: ["XPeng"]
-tags: ["XPeng", "Xpeng", "Li Auto", "Reichweite", "Zoll", "Elektroauto", "EV"]
+description: >-
+  Mit dem GX greift XPeng die Oberklasse an: ab ca. 34.500 € (269.800 Yuan) ist
+  der Riesen-SUV in China bestellbar. Technik und Ausstattung zielen auf Li Auto
+  L9 und AITO M9 – nach 12 Stunden ein Rekordwert.
+source: OFweek NEV
+category: news
+brands:
+  - XPeng
+tags:
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Reichweite
+  - Zoll
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: XPeng
 ---
 
 # XPeng GX: 12 Stunden – 24.863 Bestellungen für 34.500 €

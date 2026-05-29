@@ -1,18 +1,28 @@
 ---
-title: "AISTALAND GT7: Shooting Brake von Huawei ab 28.100 €"
+title: 'AISTALAND GT7: Shooting Brake von Huawei ab 28.100 €'
 date: 2026-05-29T11:33:13.692Z
-description: "Der AISTALAND GT7, ein Shooting Brake von Huawei und GAC, startet in China ab ca. 28.100 €. Mit 2,98 Sekunden auf 100 km/h, Huawei ADS 5 und Luftfederung zielt er auf junge Käufer. Ein Europa-Start ist nicht geplant."
-source: "ChooseAuto"
-image: "/images/aistaland-gt7-shooting-brake-von-huawei-ab-28100-chooseauto-36079b.webp"
-category: "news"
-
-brands: ["AISTALAND", "HUAWEI"]
-tags: ["NIO", "MG", "Tesla", "Reichweite"]
+description: >-
+  Der AISTALAND GT7, ein Shooting Brake von Huawei und GAC, startet in China ab
+  ca. 28.100 €. Mit 2,98 Sekunden auf 100 km/h, Huawei ADS 5 und Luftfederung
+  zielt er auf junge Käufer. Ein Europa-Start ist nicht geplant.
+source: ChooseAuto
+image: >-
+  /images/aistaland-gt7-shooting-brake-von-huawei-ab-28100-chooseauto-36079b.webp
+category: news
+brands:
+  - AISTALAND
+  - HUAWEI
+tags:
+  - NIO
+  - MG
+  - Tesla
+  - Reichweite
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/916807.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/916807.shtml'
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: Huawei
 ---
 
 # AISTALAND GT7: Shooting Brake von Huawei ab 28.100 €

@@ -1,18 +1,28 @@
 ---
-title: "Wuling Starlight L: PHEV-SUV mit 260 km Reichweite ab ca. 15.100 €"
+title: 'Wuling Starlight L: PHEV-SUV mit 260 km Reichweite ab ca. 15.100 €'
 date: 2026-05-29T12:48:55.866Z
-description: "Der neue Wuling Starlight L startet als sechssitziges Plug-in-Hybrid-SUV in China zum Vorverkaufspreis ab ca. 15.100 €. Die rein elektrische Reichweite beträgt 260 km (CLTC). Eine Europa-Einführung ist nicht angekündigt."
-source: "Autohome NewEnergy"
-image: "/images/wuling-starlight-l-phev-suv-mit-260-km-reichweite-autohome-newenergy-b819f1.webp"
-category: "news"
-
-brands: ["Wuling"]
-tags: ["BYD", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der neue Wuling Starlight L startet als sechssitziges Plug-in-Hybrid-SUV in
+  China zum Vorverkaufspreis ab ca. 15.100 €. Die rein elektrische Reichweite
+  beträgt 260 km (CLTC). Eine Europa-Einführung ist nicht angekündigt.
+source: Autohome NewEnergy
+image: >-
+  /images/wuling-starlight-l-phev-suv-mit-260-km-reichweite-autohome-newenergy-b819f1.webp
+category: news
+brands:
+  - Wuling
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.autohome.com.cn/news/202605/1314512.html"
+original_url: 'https://www.autohome.com.cn/news/202605/1314512.html'
 read_time_minutes: 4
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: BYD
 ---
 
 # Wuling Starlight L: PHEV-SUV mit 260 km Reichweite ab ca. 15.100 €

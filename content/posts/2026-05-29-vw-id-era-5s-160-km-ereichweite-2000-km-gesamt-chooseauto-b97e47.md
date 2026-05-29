@@ -1,18 +1,25 @@
 ---
-title: "VW ID. ERA 5S: 160 km E‑Reichweite, 2.000 km gesamt"
+title: 'VW ID. ERA 5S: 160 km E‑Reichweite, 2.000 km gesamt'
 date: 2026-05-29T11:35:14.846Z
-description: "Volkswagen präsentiert auf der Messe in Shenzhen den neuen ID. ERA 5S, eine Plug-in-Hybrid-Limousine mit 160 km elektrischer Reichweite und über 2.000 km Gesamtreichweite (CLTC). Zudem starten die ePro‑Modelle von Passat und Tiguan ab ca. 21.700 €. Alle Modelle sind nur für China bestimmt."
-source: "ChooseAuto"
-
-category: "news"
-
-brands: ["Volkswagen"]
-tags: ["Reichweite", "Zoll", "EV"]
+description: >-
+  Volkswagen präsentiert auf der Messe in Shenzhen den neuen ID. ERA 5S, eine
+  Plug-in-Hybrid-Limousine mit 160 km elektrischer Reichweite und über 2.000 km
+  Gesamtreichweite (CLTC). Zudem starten die ePro‑Modelle von Passat und Tiguan
+  ab ca. 21.700 €. Alle Modelle sind nur für China bestimmt.
+source: ChooseAuto
+category: news
+brands:
+  - Volkswagen
+tags:
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/916793.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/916793.shtml'
 read_time_minutes: 4
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: Volkswagen
 ---
 
 # VW ID. ERA 5S: 160 km E‑Reichweite, 2.000 km gesamt

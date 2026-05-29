@@ -1,18 +1,29 @@
 ---
-title: "Denza Z9 GT: 10.000 Auslieferungen, ab 34.500 €"
+title: 'Denza Z9 GT: 10.000 Auslieferungen, ab 34.500 €'
 date: 2026-05-29T11:33:25.602Z
-description: "BYD-Tochter Denza feiert 10.000 Auslieferungen des Z9 GT in 2,5 Monaten. Das E-Auto lädt in 5 Minuten von 10 auf 70 % und bietet 1.036 km CLTC-Reichweite (ca. 880 km WLTP). Preis in China: ab 34.500 €."
-source: "CarNewsChina"
-image: "/images/denza-z9-gt-10000-auslieferungen-ab-34500-carnewschina-0ca2fb.webp"
-category: "news"
-brand: "BYD"
-brands: ["BYD", "Denza"]
-tags: ["BYD", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  BYD-Tochter Denza feiert 10.000 Auslieferungen des Z9 GT in 2,5 Monaten. Das
+  E-Auto lädt in 5 Minuten von 10 auf 70 % und bietet 1.036 km CLTC-Reichweite
+  (ca. 880 km WLTP). Preis in China: ab 34.500 €.
+source: CarNewsChina
+image: /images/denza-z9-gt-10000-auslieferungen-ab-34500-carnewschina-0ca2fb.webp
+category: news
+brand: Denza
+brands:
+  - BYD
+  - Denza
+tags:
+  - BYD
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/28/byds-first-flash-charging-model-denza-z9-gt-surpasses-10000-deliveries-in-2-5-months/"
+original_url: >-
+  https://carnewschina.com/2026/05/28/byds-first-flash-charging-model-denza-z9-gt-surpasses-10000-deliveries-in-2-5-months/
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "eu_available"
+primaryTopic: modelle-marktstarts
+marketRelevance: eu_available
 ---
 
 # Denza Z9 GT: 10.000 Auslieferungen, ab 34.500 €

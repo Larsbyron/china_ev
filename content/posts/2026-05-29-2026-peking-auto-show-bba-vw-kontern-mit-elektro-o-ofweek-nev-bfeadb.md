@@ -1,18 +1,35 @@
 ---
-title: "2026 Peking Auto Show: BBA & VW kontern mit Elektro-Offensive"
+title: '2026 Peking Auto Show: BBA & VW kontern mit Elektro-Offensive'
 date: 2026-05-29T20:20:36.444Z
-description: "Mercedes, BMW, Audi und VW zeigen in Peking zahlreiche neue E-Modelle. Vom Langversion-SUV bis zur Luxus-Limousine: Die deutschen Hersteller wollen mit Reichweiten bis 900 km und lokalisierten Fahrassistenten gegen chinesische Konkurrenten punkten."
-source: "OFweek NEV"
-
-category: "news"
-brand: "Huawei"
-brands: ["Mercedes-Benz", "BMW", "Audi", "Volkswagen", "JETTA", "Citroën", "Peugeot", "Hyundai"]
-tags: ["Huawei", "MG", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  Mercedes, BMW, Audi und VW zeigen in Peking zahlreiche neue E-Modelle. Vom
+  Langversion-SUV bis zur Luxus-Limousine: Die deutschen Hersteller wollen mit
+  Reichweiten bis 900 km und lokalisierten Fahrassistenten gegen chinesische
+  Konkurrenten punkten.
+source: OFweek NEV
+category: news
+brand: Volkswagen
+brands:
+  - Mercedes-Benz
+  - BMW
+  - Audi
+  - Volkswagen
+  - JETTA
+  - Citroën
+  - Peugeot
+  - Hyundai
+tags:
+  - Huawei
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 4
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # 2026 Peking Auto Show: BBA & VW kontern mit Elektro-Offensive

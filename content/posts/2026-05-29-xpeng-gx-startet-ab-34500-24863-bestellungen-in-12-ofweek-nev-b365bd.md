@@ -1,18 +1,29 @@
 ---
-title: "XPeng GX startet ab 34.500 € – 24.863 Bestellungen in 12h"
+title: XPeng GX startet ab 34.500 € – 24.863 Bestellungen in 12h
 date: 2026-05-29T06:09:52.018Z
-description: "Der XPeng GX ist ein neues Fullsize-Flaggschiff-SUV mit BEV- und EREV-Antrieb. In China startet er ab ca. 34.500 € und erzielte 24.863 Vorbestellungen am ersten Tag."
-source: "OFweek NEV"
-
-category: "news"
-
-brands: ["XPeng"]
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "MG", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Der XPeng GX ist ein neues Fullsize-Flaggschiff-SUV mit BEV- und EREV-Antrieb.
+  In China startet er ab ca. 34.500 € und erzielte 24.863 Vorbestellungen am
+  ersten Tag.
+source: OFweek NEV
+category: news
+brands:
+  - XPeng
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: XPeng
 ---
 
 # XPeng GX startet ab 34.500 € – 24.863 Bestellungen in 12h

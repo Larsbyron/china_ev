@@ -1,18 +1,27 @@
 ---
-title: "VW in China: ID. ERA 5S mit 2.000 km, Hybride ab 21.700 €"
+title: 'VW in China: ID. ERA 5S mit 2.000 km, Hybride ab 21.700 €'
 date: 2026-05-29T20:16:09.165Z
-description: "SAIC Volkswagen zeigt in Shenzhen Passat ePro und Tiguan L ePro ab 21.700 €. Die ID. ERA 5S-Limousine kommt mit über 2.000 km CLTC-Gesamtreichweite und L2++-Assistenz 2026 auf den Markt."
-source: "ChooseAuto"
-image: "/images/vw-in-china-id-era-5s-mit-2000-km-hybride-ab-21700-chooseauto-1861f6.webp"
-category: "news"
-brand: "SAIC"
-brands: ["Volkswagen"]
-tags: ["SAIC", "Batterie", "Reichweite", "EV"]
+description: >-
+  SAIC Volkswagen zeigt in Shenzhen Passat ePro und Tiguan L ePro ab 21.700 €.
+  Die ID. ERA 5S-Limousine kommt mit über 2.000 km CLTC-Gesamtreichweite und
+  L2++-Assistenz 2026 auf den Markt.
+source: ChooseAuto
+image: >-
+  /images/vw-in-china-id-era-5s-mit-2000-km-hybride-ab-21700-chooseauto-1861f6.webp
+category: news
+brand: Volkswagen
+brands:
+  - Volkswagen
+tags:
+  - SAIC
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/917272.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/917272.shtml'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # VW in China: ID. ERA 5S mit 2.000 km, Hybride ab 21.700 €

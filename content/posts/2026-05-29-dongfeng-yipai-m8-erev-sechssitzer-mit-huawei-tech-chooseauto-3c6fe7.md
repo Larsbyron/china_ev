@@ -1,18 +1,26 @@
 ---
-title: "Dongfeng Yipai M8: EREV-Sechssitzer mit Huawei-Technik"
+title: 'Dongfeng Yipai M8: EREV-Sechssitzer mit Huawei-Technik'
 date: 2026-05-29T12:48:49.653Z
-description: "Auf der Greater Bay Area Auto Show hat Dongfeng Yipai den M8 vorgestellt – einen großen Sechssitzer-EREV-SUV mit tiefer Huawei-Integration. Preise und Reichweiten nannte der Hersteller noch nicht."
-source: "ChooseAuto"
-
-category: "news"
-
-brands: ["Dongfeng Yipai", "Huawei"]
-tags: ["Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Auf der Greater Bay Area Auto Show hat Dongfeng Yipai den M8 vorgestellt –
+  einen großen Sechssitzer-EREV-SUV mit tiefer Huawei-Integration. Preise und
+  Reichweiten nannte der Hersteller noch nicht.
+source: ChooseAuto
+category: news
+brands:
+  - Dongfeng Yipai
+  - Huawei
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/916860.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/916860.shtml'
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: Huawei
 ---
 
 # Dongfeng Yipai M8: EREV-Sechssitzer mit Huawei-Technik

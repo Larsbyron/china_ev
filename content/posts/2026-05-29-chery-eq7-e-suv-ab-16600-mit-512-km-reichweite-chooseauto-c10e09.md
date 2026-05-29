@@ -1,18 +1,25 @@
 ---
-title: "Chery eQ7: E-SUV ab 16.600 € mit 512 km Reichweite"
+title: 'Chery eQ7: E-SUV ab 16.600 € mit 512 km Reichweite'
 date: 2026-05-29T06:11:03.962Z
-description: "Chery (奇瑞) bringt mit dem eQ7 ein kompaktes Elektro-SUV in China auf den Markt. Der Wagen überzeugt mit 512 km Reichweite (CLTC) und großzügiger Komfortausstattung ab ca. 16.600 €. Ein Europa-Start ist nicht bestätigt."
-source: "ChooseAuto"
-
-category: "news"
-
-brands: ["Chery"]
-tags: ["MG", "Reichweite", "Zoll", "Elektroauto"]
+description: >-
+  Chery (奇瑞) bringt mit dem eQ7 ein kompaktes Elektro-SUV in China auf den
+  Markt. Der Wagen überzeugt mit 512 km Reichweite (CLTC) und großzügiger
+  Komfortausstattung ab ca. 16.600 €. Ein Europa-Start ist nicht bestätigt.
+source: ChooseAuto
+category: news
+brands:
+  - Chery
+tags:
+  - MG
+  - Reichweite
+  - Zoll
+  - Elektroauto
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/916184.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/916184.shtml'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: Chery
 ---
 
 # Chery eQ7: E-SUV ab 16.600 € mit 512 km Reichweite

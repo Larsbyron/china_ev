@@ -1,18 +1,28 @@
 ---
-title: "AUDI E7X: 670 PS und 751 km ab 34.500 € in China"
+title: 'AUDI E7X: 670 PS und 751 km ab 34.500 € in China'
 date: 2026-05-29T12:52:31.531Z
-description: "Der AUDI E7X, ein neues E-SUV des Audi/SAIC-Joint-Ventures, startet ab ca. 34.500 € in China. Mit bis zu 670 PS und 751 km CLTC-Reichweite tritt er gegen den Xiaomi YU7 an."
-source: "CarNewsChina"
-image: "/images/audi-e7x-670-ps-und-751-km-ab-34500-in-china-carnewschina-beca82.webp"
-category: "news"
-brand: "Xiaomi"
-brands: ["AUDI", "Xiaomi"]
-tags: ["Xiaomi", "MG", "Reichweite", "Zoll"]
+description: >-
+  Der AUDI E7X, ein neues E-SUV des Audi/SAIC-Joint-Ventures, startet ab ca.
+  34.500 € in China. Mit bis zu 670 PS und 751 km CLTC-Reichweite tritt er gegen
+  den Xiaomi YU7 an.
+source: CarNewsChina
+image: /images/audi-e7x-670-ps-und-751-km-ab-34500-in-china-carnewschina-beca82.webp
+category: news
+brand: Audi
+brands:
+  - AUDI
+  - Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/29/audi-e7x-electric-suv-starts-sales-in-china-at-39795-usd-to-rival-the-xiaomi-yu7/"
+original_url: >-
+  https://carnewschina.com/2026/05/29/audi-e7x-electric-suv-starts-sales-in-china-at-39795-usd-to-rival-the-xiaomi-yu7/
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # AUDI E7X: 670 PS und 751 km ab 34.500 € in China

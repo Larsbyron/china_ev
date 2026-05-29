@@ -1,18 +1,22 @@
 ---
-title: "Audi RS 5 Hybrid: 2,9-Liter-V6 plus E-Motor"
+title: 'Audi RS 5 Hybrid: 2,9-Liter-V6 plus E-Motor'
 date: 2026-05-29T20:22:22.189Z
-description: "Audi bringt den RS 5 mit Plug-in-Hybrid in China. Der 2,9-Liter-V6-Biturbo kombiniert mit 130 kW starkem E-Motor liefert über 500 PS Systemleistung und rein elektrische Reichweite."
-source: "OFweek NEV"
-
-category: "news"
-
-brands: ["Audi"]
-tags: ["Batterie"]
+description: >-
+  Audi bringt den RS 5 mit Plug-in-Hybrid in China. Der 2,9-Liter-V6-Biturbo
+  kombiniert mit 130 kW starkem E-Motor liefert über 500 PS Systemleistung und
+  rein elektrische Reichweite.
+source: OFweek NEV
+category: news
+brands:
+  - Audi
+tags:
+  - Batterie
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid: 2,9-Liter-V6 plus E-Motor

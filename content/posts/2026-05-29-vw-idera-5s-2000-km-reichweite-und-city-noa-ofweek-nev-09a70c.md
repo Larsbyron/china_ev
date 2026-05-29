@@ -1,18 +1,31 @@
 ---
-title: "VW ID.ERA 5S: 2.000 km Reichweite und City-NOA"
+title: 'VW ID.ERA 5S: 2.000 km Reichweite und City-NOA'
 date: 2026-05-29T11:38:39.352Z
-description: "Der VW ID.ERA 5S kombiniert einen 1,5-T-Hybrid mit 160 km E-Reichweite (CLTC) und erreicht bis zu 2.000 km Gesamtreichweite. Als erster VW mit City-NOA (Stadtpilot) kommt er 2025 in China auf den Markt."
-source: "OFweek NEV"
-
-category: "news"
-
-brands: ["Volkswagen", "Mercedes-Benz", "XPeng", "Hyundai", "FREELANDER"]
-tags: ["XPeng", "Xpeng", "Li Auto", "MG", "Tesla", "Reichweite"]
+description: >-
+  Der VW ID.ERA 5S kombiniert einen 1,5-T-Hybrid mit 160 km E-Reichweite (CLTC)
+  und erreicht bis zu 2.000 km Gesamtreichweite. Als erster VW mit City-NOA
+  (Stadtpilot) kommt er 2025 in China auf den Markt.
+source: OFweek NEV
+category: news
+brands:
+  - Volkswagen
+  - Mercedes-Benz
+  - XPeng
+  - Hyundai
+  - FREELANDER
+tags:
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - MG
+  - Tesla
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: Volkswagen
 ---
 
 # VW ID.ERA 5S: 2.000 km Reichweite und City-NOA

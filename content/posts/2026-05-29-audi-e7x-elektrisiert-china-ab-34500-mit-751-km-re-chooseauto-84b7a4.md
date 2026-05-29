@@ -1,18 +1,29 @@
 ---
-title: "Audi E7X elektrisiert China: Ab 34.500 € mit 751 km Reichweite"
+title: 'Audi E7X elektrisiert China: Ab 34.500 € mit 751 km Reichweite'
 date: 2026-05-29T11:38:45.470Z
-description: "Der neue Audi E7X startet in China ab ca. 34.500 €. Das Elektro-SUV bietet bis zu 751 km CLTC-Reichweite und setzt auf eine üppige Serienausstattung – ein Paukenschlag im Premium-Segment."
-source: "ChooseAuto"
-image: "/images/audi-e7x-elektrisiert-china-ab-34500-mit-751-km-re-chooseauto-84b7a4.webp"
-category: "news"
-
-brands: ["Audi"]
-tags: ["NIO", "Li Auto", "Tesla", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Der neue Audi E7X startet in China ab ca. 34.500 €. Das Elektro-SUV bietet bis
+  zu 751 km CLTC-Reichweite und setzt auf eine üppige Serienausstattung – ein
+  Paukenschlag im Premium-Segment.
+source: ChooseAuto
+image: >-
+  /images/audi-e7x-elektrisiert-china-ab-34500-mit-751-km-re-chooseauto-84b7a4.webp
+category: news
+brands:
+  - Audi
+tags:
+  - NIO
+  - Li Auto
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/916790.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/916790.shtml'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: Audi
 ---
 
 # Audi E7X elektrisiert China: Ab 34.500 € mit 751 km Reichweite

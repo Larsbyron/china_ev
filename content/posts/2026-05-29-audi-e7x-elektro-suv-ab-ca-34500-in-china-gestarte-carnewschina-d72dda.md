@@ -1,18 +1,27 @@
 ---
-title: "AUDI E7X: Elektro-SUV ab ca. 34.500 € in China gestartet"
+title: 'AUDI E7X: Elektro-SUV ab ca. 34.500 € in China gestartet'
 date: 2026-05-29T11:37:45.016Z
-description: "Der neue AUDI E7X startet in China ab ca. 34.500 €. Das Elektro-SUV bietet bis zu 751 km CLTC-Reichweite und 670 PS. Es konkurriert mit dem Xiaomi YU7 – ein reiner China-Kauf ohne Europa-Pläne."
-source: "CarNewsChina"
-image: "/images/audi-e7x-elektro-suv-ab-ca-34500-in-china-gestarte-carnewschina-d72dda.webp"
-category: "news"
-brand: "Xiaomi"
-brands: ["AUDI", "Xiaomi"]
-tags: ["Xiaomi", "Zoll"]
+description: >-
+  Der neue AUDI E7X startet in China ab ca. 34.500 €. Das Elektro-SUV bietet bis
+  zu 751 km CLTC-Reichweite und 670 PS. Es konkurriert mit dem Xiaomi YU7 – ein
+  reiner China-Kauf ohne Europa-Pläne.
+source: CarNewsChina
+image: >-
+  /images/audi-e7x-elektro-suv-ab-ca-34500-in-china-gestarte-carnewschina-d72dda.webp
+category: news
+brand: Audi
+brands:
+  - AUDI
+  - Xiaomi
+tags:
+  - Xiaomi
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/29/audi-e7x-electric-suv-starts-sales-in-china-at-39795-usd-to-rival-the-xiaomi-yu7/"
+original_url: >-
+  https://carnewschina.com/2026/05/29/audi-e7x-electric-suv-starts-sales-in-china-at-39795-usd-to-rival-the-xiaomi-yu7/
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # AUDI E7X: Elektro-SUV ab ca. 34.500 € in China gestartet

@@ -1,18 +1,26 @@
 ---
-title: "Audi RS 5 PHEV: 612 PS Systemleistung, 60 km E-Reichweite"
+title: 'Audi RS 5 PHEV: 612 PS Systemleistung, 60 km E-Reichweite'
 date: 2026-05-29T11:45:20.301Z
-description: "Audi plant eine Plug-in-Hybrid-Version des RS 5. Mit 2,9 Liter V6-Biturbo, E-Motor und überarbeitetem quattro-System soll der Sportkombi 2025 antreten – Technik aus der Zukunft."
-source: "OFweek NEV"
-
-category: "news"
-
-brands: ["Audi"]
-tags: ["NIO", "MG", "Tesla", "Reichweite", "EV"]
+description: >-
+  Audi plant eine Plug-in-Hybrid-Version des RS 5. Mit 2,9 Liter V6-Biturbo,
+  E-Motor und überarbeitetem quattro-System soll der Sportkombi 2025 antreten –
+  Technik aus der Zukunft.
+source: OFweek NEV
+category: news
+brands:
+  - Audi
+tags:
+  - NIO
+  - MG
+  - Tesla
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "eu_planned"
+primaryTopic: modelle-marktstarts
+marketRelevance: eu_planned
+brand: Audi
 ---
 
 # Audi RS 5 PHEV: 612 PS Systemleistung, 60 km E-Reichweite

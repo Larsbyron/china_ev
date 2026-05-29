@@ -1,18 +1,31 @@
 ---
-title: "Qijing GX7: 3-Meter-SUV mit Huawei-Technik und fünf Sitzen"
+title: 'Qijing GX7: 3-Meter-SUV mit Huawei-Technik und fünf Sitzen'
 date: 2026-05-29T12:46:23.935Z
-description: "Der neue Qijing GX7 (Joint Venture GAC/Huawei) setzt auf üppigen Radstand von drei Metern, aber bewusst nur fünf Sitze. Technische Details sind noch nicht bekannt. Marktstart in China für 2026."
-source: "ChooseAuto"
-image: "/images/qijing-gx7-3-meter-suv-mit-huawei-technik-und-fnf-chooseauto-c33c3c.webp"
-category: "news"
-
-brands: ["Qijing", "GAC", "Huawei"]
-tags: ["BYD", "NIO", "Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Der neue Qijing GX7 (Joint Venture GAC/Huawei) setzt auf üppigen Radstand von
+  drei Metern, aber bewusst nur fünf Sitze. Technische Details sind noch nicht
+  bekannt. Marktstart in China für 2026.
+source: ChooseAuto
+image: >-
+  /images/qijing-gx7-3-meter-suv-mit-huawei-technik-und-fnf-chooseauto-c33c3c.webp
+category: news
+brands:
+  - Qijing
+  - GAC
+  - Huawei
+tags:
+  - BYD
+  - NIO
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/916869.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/916869.shtml'
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: Huawei
 ---
 
 # Qijing GX7: 3-Meter-SUV mit Huawei-Technik und fünf Sitzen

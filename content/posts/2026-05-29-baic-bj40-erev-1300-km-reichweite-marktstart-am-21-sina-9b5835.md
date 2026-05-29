@@ -1,18 +1,27 @@
 ---
-title: "BAIC BJ40 EREV: 1.300 km Reichweite, Marktstart am 21. Mai"
+title: 'BAIC BJ40 EREV: 1.300 km Reichweite, Marktstart am 21. Mai'
 date: 2026-05-29T11:35:28.916Z
-description: "Der BAIC BJ40 als Range-Extender (EREV) feiert am 21. Mai in China seine Markteinführung. Mit 252 km elektrischer und 1.300 km Gesamtreichweite soll er Stadt und Gelände gleichermaßen meistern."
-source: "Sina"
-image: "/images/baic-bj40-erev-1300-km-reichweite-marktstart-am-21-sina-9b5835.webp"
-category: "news"
-
-brands: ["BAIC"]
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der BAIC BJ40 als Range-Extender (EREV) feiert am 21. Mai in China seine
+  Markteinführung. Mit 252 km elektrischer und 1.300 km Gesamtreichweite soll er
+  Stadt und Gelände gleichermaßen meistern.
+source: Sina
+image: /images/baic-bj40-erev-1300-km-reichweite-marktstart-am-21-sina-9b5835.webp
+category: news
+brands:
+  - BAIC
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
+brand: BAIC
 ---
 
 # BAIC BJ40 EREV: 1.300 km Reichweite, Marktstart am 21. Mai
