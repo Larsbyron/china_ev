@@ -15,6 +15,15 @@ tags:
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299751'
 read_time_minutes: 2
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - Tesla
+  - NIO
+  - BYD
+confidence: 0.95
 ---
 
 # Ex-Tesla-KI-Chef Karpathy zu Anthropic: Risiko für NIOs Autopilot?

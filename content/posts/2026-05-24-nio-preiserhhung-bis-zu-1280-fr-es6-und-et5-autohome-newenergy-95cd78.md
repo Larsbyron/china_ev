@@ -17,6 +17,13 @@ tags:
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314442.html'
 read_time_minutes: 3
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - NIO
+confidence: 0.9
 ---
 
 # NIO-Preiserhöhung: Bis zu 1.280 € für ES6 und ET5

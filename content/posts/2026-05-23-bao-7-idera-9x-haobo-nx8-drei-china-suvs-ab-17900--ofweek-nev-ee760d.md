@@ -16,6 +16,14 @@ draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 4
 brand: BYD
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - BYD
+  - Volkswagen
+  - GAC
+confidence: 0.8
 ---
 
 # Bao 7, ID.ERA 9X, Haobo NX8: Drei China-SUVs ab 17.900 € im Test

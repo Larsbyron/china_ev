@@ -14,6 +14,15 @@ draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 4
 brand: Volkswagen
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Toyota
+  - Volkswagen
+  - GAC
+confidence: 0.95
 ---
 
 # Toyota bZ7 & VW ID.ERA: Joint-Venture-EVs ab 19.500 € im Test

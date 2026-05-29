@@ -21,6 +21,15 @@ draft: false
 original_url: >-
   https://carnewschina.com/2026/05/28/byds-first-flash-charging-model-denza-z9-gt-surpasses-10000-deliveries-in-2-5-months/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - markt-absatz-zulassungen
+marketRelevance: eu_planned
+brands:
+  - Denza
+  - BYD
+confidence: 0.95
 ---
 
 # Denza Z9 GT: 5-Minuten-Ladung, 10.000 Auslieferungen

@@ -18,6 +18,13 @@ original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-28/detail-inhznkuk1299412.shtml
 read_time_minutes: 2
 brand: Mercedes-Benz
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: global_industry
+brands:
+  - Dongfeng
+confidence: 0.8
 ---
 
 # Dongfeng: 400-kW-Brennstoffzelle für 49-Tonner enthüllt

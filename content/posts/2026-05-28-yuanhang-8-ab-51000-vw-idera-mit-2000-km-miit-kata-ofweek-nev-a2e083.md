@@ -19,6 +19,18 @@ draft: false
 original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 4
 brand: Volkswagen
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - Volkswagen
+  - Mercedes
+  - Yuanhang
+  - XPeng
+  - Hyundai
+confidence: 0.9
 ---
 
 # Yuanhang 8 ab 51.000 €, VW ID.ERA mit 2.000 km – MIIT-Katalog 407

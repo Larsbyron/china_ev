@@ -19,6 +19,16 @@ tags:
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/915146.shtml'
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - modelle-marktstarts
+  - markt-absatz-zulassungen
+marketRelevance: eu_available
+brands:
+  - SAIC
+  - MG
+  - IM Motors
+confidence: 0.95
 ---
 
 # SAIC liefert 10-millionstes Fahrzeug aus – MG vorne

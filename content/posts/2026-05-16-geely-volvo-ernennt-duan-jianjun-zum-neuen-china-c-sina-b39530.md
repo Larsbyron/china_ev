@@ -18,6 +18,14 @@ draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 3
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: global_industry
+brands:
+  - Volvo
+  - Geely
+confidence: 0.8
 ---
 
 # Geely: Volvo ernennt Duan Jianjun zum neuen China-Chef

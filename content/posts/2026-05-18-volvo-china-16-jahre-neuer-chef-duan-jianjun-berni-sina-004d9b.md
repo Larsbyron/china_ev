@@ -15,6 +15,12 @@ draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - Volvo
+confidence: 0.9
 ---
 
 # Volvo China: 16 Jahre – neuer Chef Duan Jianjun übernimmt

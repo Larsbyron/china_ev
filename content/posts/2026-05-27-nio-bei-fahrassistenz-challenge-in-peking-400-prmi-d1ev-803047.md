@@ -14,6 +14,18 @@ tags:
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/300690'
 read_time_minutes: 2
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - NIO
+  - XPeng
+  - Huawei
+  - Aion
+  - Deepal
+  - Avatr
+confidence: 0.9
 ---
 
 # NIO bei Fahrassistenz-Challenge in Peking: 400 € Prämie

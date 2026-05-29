@@ -19,6 +19,15 @@ original_url: >-
   https://carnewschina.com/2026/05/13/arcfox-s3-to-officially-launch-on-may-22-with-swappable-battery-option/
 read_time_minutes: 2
 brand: BAIC
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Arcfox
+  - BAIC
+confidence: 0.9
 ---
 
 # Arcfox S3 startet am 22. Mai mit wechselbarem Akku ab 8.300 €

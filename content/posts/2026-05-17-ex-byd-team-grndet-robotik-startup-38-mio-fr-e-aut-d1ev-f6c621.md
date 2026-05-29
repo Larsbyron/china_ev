@@ -17,6 +17,14 @@ tags:
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299253'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - BYD
+  - Bosch
+confidence: 0.9
 ---
 
 # Ex-BYD-Team gründet Robotik-Startup – 38 Mio. € für E-Auto-Fertigung

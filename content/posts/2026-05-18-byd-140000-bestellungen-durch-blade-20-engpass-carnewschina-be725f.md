@@ -19,6 +19,15 @@ draft: false
 original_url: >-
   https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production/
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: global_industry
+brands:
+  - BYD
+  - Denza
+  - Fang Cheng Bao
+confidence: 0.8
 ---
 
 # BYD: 140.000 Bestellungen durch Blade-2.0-Engpass

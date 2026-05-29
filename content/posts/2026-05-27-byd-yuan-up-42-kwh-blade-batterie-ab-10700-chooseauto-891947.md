@@ -18,6 +18,13 @@ draft: false
 original_url: 'https://www.chooseauto.com.cn/news/913818.shtml'
 read_time_minutes: 2
 brand: BYD
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Yuan Up: 42-kWh-Blade-Batterie, ab 10.700 €

@@ -17,6 +17,15 @@ draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 3
 brand: BYD
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - Chery
+  - VW
+confidence: 0.8
 ---
 
 # Ab 19.200 €: Chery NX8, BYD Seal 07 & VW ID.ERA im Familiencheck

@@ -17,6 +17,14 @@ tags:
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299911'
 read_time_minutes: 3
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Geely
+  - Radar
+confidence: 0.95
 ---
 
 # Geely: Pickup-Marke Radar für 27,9 Mio. € eingegliedert

@@ -15,6 +15,12 @@ draft: false
 original_url: 'https://www.chooseauto.com.cn/news/915163.shtml'
 read_time_minutes: 2
 brand: Great Wall
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Great Wall
+confidence: 0.8
 ---
 
 # Taklamakan-Rallye: Dreifach-Sieg für Tank 700 Hi4-T

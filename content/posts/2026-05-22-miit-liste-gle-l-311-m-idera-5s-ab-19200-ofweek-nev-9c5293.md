@@ -17,6 +17,18 @@ draft: false
 original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 4
 brand: Mercedes-Benz
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Mercedes-Benz
+  - Volkswagen
+  - XPeng
+  - Hyundai
+  - FREELANDER
+confidence: 0.9
 ---
 
 # MIIT-Liste: GLE L (3,11 m), ID.ERA 5S (ab 19.200 €)

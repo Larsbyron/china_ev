@@ -19,6 +19,14 @@ tags:
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299053'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # Fangchengbao 5 & 8: Flash-Charge mit 1.380 km – in China günstig

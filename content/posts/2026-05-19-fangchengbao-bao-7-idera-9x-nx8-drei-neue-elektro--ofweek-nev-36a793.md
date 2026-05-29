@@ -16,6 +16,16 @@ draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 4
 brand: Volkswagen
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+  - Volkswagen
+  - Toyota
+confidence: 0.9
 ---
 
 # Fangchengbao Bao 7, ID.ERA 9X & NX8: Drei neue Elektro-SUVs im Test

@@ -18,6 +18,17 @@ draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299271'
 read_time_minutes: 2
 brand: Huawei
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Arcfox
+  - Stelato
+  - BAIC
+  - Huawei
+confidence: 0.95
 ---
 
 # Arcfox und Stelato: BAICs Elektro-Zweig mit 800V und Huawei

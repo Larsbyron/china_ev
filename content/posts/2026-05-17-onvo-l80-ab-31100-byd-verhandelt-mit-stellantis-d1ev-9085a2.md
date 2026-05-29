@@ -18,6 +18,16 @@ tags:
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299430'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+  - unternehmen-finanzen-kooperationen
+marketRelevance: eu_planned
+brands:
+  - BYD
+  - NIO
+  - XPeng
+confidence: 0.8
 ---
 
 # ONVO L80 ab 31.100 € – BYD verhandelt mit Stellantis

@@ -19,6 +19,14 @@ draft: false
 original_url: 'https://www.chooseauto.com.cn/news/901861.shtml'
 read_time_minutes: 2
 brand: Volkswagen
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Volkswagen
+confidence: 0.9
 ---
 
 # VW ID. ERA 5S: Neue PHEV-Limousine ab 38.400 €

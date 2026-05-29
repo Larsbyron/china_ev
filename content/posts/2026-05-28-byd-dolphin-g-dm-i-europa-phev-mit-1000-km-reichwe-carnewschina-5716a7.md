@@ -22,6 +22,12 @@ draft: false
 original_url: >-
   https://carnewschina.com/2026/05/26/byd-dolphin-g-plug-in-hybrid-hatchback-broke-cover-ahead-of-european-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: eu_planned
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Dolphin G DM-i: Europa-PHEV mit 1.000 km Reichweite

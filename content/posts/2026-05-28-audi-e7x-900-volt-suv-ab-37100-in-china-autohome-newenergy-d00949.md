@@ -17,6 +17,14 @@ tags:
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314520.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Audi
+confidence: 0.95
 ---
 
 # Audi E7X: 900-Volt-SUV ab 37.100 € in China

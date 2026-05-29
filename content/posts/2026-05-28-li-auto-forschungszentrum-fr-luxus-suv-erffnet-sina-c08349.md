@@ -16,6 +16,13 @@ draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-28/detail-inhzmtwn7868142.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: eu_planned
+brands:
+  - Li Auto
+confidence: 0.8
 ---
 
 # Li Auto: Forschungszentrum für Luxus-SUV eröffnet

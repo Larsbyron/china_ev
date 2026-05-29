@@ -1,11 +1,25 @@
 ---
-title: "Top 5 chinesische E-Autos diese Woche"
+title: Top 5 chinesische E-Autos diese Woche
 date: 2026-05-29T11:45:22.560Z
-description: "Die fünf wichtigsten chinesischen E-Auto-Nachrichten dieser Woche"
-source: "Weekly"
-category: "weekly"
-tags: ["Top 5", "China", "E-Auto"]
+description: Die fünf wichtigsten chinesischen E-Auto-Nachrichten dieser Woche
+source: Weekly
+category: weekly
+tags:
+  - Top 5
+  - China
+  - E-Auto
 draft: false
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BAIC
+  - NIO
+  - Xiaomi
+  - Dongfeng
+  - Audi
+confidence: 0.9
 ---
 
 # Top 5 chinesische E-Autos diese Woche

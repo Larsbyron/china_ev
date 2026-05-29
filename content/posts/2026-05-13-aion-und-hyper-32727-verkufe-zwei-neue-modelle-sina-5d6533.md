@@ -16,6 +16,14 @@ draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Aion
+  - Hyper
+confidence: 0.9
 ---
 
 # Aion und Hyper: 32.727 Verkäufe, zwei neue Modelle

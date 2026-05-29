@@ -18,6 +18,13 @@ draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Dreame
+confidence: 0.9
 ---
 
 # Dreames Raketenauto: Hypercar-Concept mit 0,9 s auf 100 km/h

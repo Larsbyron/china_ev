@@ -16,6 +16,14 @@ tags:
 draft: false
 original_url: 'https://auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml'
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - HIMA
+confidence: 0.9
 ---
 
 # Li Auto vs. HIMA: Zwei KI-Philosophien fürs Auto-Cockpit

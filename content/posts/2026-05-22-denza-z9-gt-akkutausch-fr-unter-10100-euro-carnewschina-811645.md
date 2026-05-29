@@ -18,6 +18,14 @@ draft: false
 original_url: >-
   https://carnewschina.com/2026/05/21/byd-blade-battery-2-0-replacement-less-than-11600-usd-in-china-says-denza-z9-gt-ev-owner/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Denza
+confidence: 0.9
 ---
 
 # Denza Z9 GT: Akkutausch für unter 10.100 Euro

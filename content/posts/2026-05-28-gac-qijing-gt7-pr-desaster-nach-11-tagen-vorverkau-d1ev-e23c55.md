@@ -14,6 +14,14 @@ draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300876'
 read_time_minutes: 3
 brand: GAC
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - GAC
+  - Huawei
+confidence: 0.9
 ---
 
 # GAC Qijing GT7: PR-Desaster nach 11 Tagen – Vorverkauf startet am 29. Mai

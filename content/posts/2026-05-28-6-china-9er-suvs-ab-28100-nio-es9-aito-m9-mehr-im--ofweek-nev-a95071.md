@@ -19,6 +19,19 @@ draft: false
 original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 5
 brand: NIO
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - NIO
+  - Li Auto
+  - AITO
+  - SAIC Volkswagen
+  - Wey
+  - JAC
+confidence: 0.9
 ---
 
 # 6 China-9er-SUVs ab 28.100 €: NIO ES9, AITO M9 & mehr im Vergleich

@@ -18,6 +18,14 @@ draft: false
 original_url: >-
   https://carnewschina.com/2026/05/28/byd-released-xuanji-a3-adas-chip-as-it-aims-at-accident-free-traffic/
 read_time_minutes: 2
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - modelle-marktstarts
+  - preise-rabatte-wettbewerb
+marketRelevance: de_available
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Xuanji A3: 700-TOPS-Chip für autonomes Fahren

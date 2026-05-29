@@ -15,6 +15,13 @@ draft: false
 original_url: 'https://auto.sina.com.cn/news/hy/2026-04-26/detail-inhvvuya9791693.shtml'
 read_time_minutes: 4
 brand: Great Wall
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - Great Wall
+confidence: 0.85
 ---
 
 # 2026 Peking Auto Show: Wei Jianjun startet Live-Stream mit dem Thema „Vertrag"

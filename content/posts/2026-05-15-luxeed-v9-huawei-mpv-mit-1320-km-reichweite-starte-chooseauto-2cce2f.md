@@ -17,6 +17,14 @@ draft: false
 original_url: 'https://www.chooseauto.com.cn/news/903527.shtml'
 read_time_minutes: 3
 brand: Huawei
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Huawei
+confidence: 0.95
 ---
 
 # Luxeed V9: Huawei-MPV mit 1.320 km Reichweite startet in China

@@ -18,6 +18,13 @@ draft: false
 original_url: >-
   https://carnewschina.com/2026/05/18/leapmotors-minivan-d99-interior-images-released-featuring-rotating-seats/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Leapmotor
+confidence: 0.9
 ---
 
 # Leapmotor D99: 700 km CLTC und drehbare Sitze

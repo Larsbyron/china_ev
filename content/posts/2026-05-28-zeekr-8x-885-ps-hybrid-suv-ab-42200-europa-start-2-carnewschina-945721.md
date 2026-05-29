@@ -19,6 +19,14 @@ draft: false
 original_url: >-
   https://carnewschina.com/2026/05/03/sunday-china-drive-zeekr-8x-ultra-plus-tested-with-885-hp-hybrid-europe-entry-late-2026/
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - Zeekr
+confidence: 0.95
 ---
 
 # Zeekr 8X: 885-PS-Hybrid-SUV ab 42.200 € – Europa-Start 2026

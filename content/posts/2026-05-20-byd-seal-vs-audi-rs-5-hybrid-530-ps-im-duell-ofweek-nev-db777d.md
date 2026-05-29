@@ -16,6 +16,14 @@ draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
 brand: BYD
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: de_available
+brands:
+  - BYD
+  - Audi
+confidence: 0.85
 ---
 
 # BYD Seal vs. Audi RS 5 Hybrid: 530 PS im Duell

@@ -18,6 +18,13 @@ draft: false
 original_url: 'https://www.chooseauto.com.cn/news/901919.shtml'
 read_time_minutes: 2
 brand: BYD
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.85
 ---
 
 # CATARC-Prognose: Chinas Batterieexporte verdoppeln sich bis 2030

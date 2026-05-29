@@ -19,6 +19,13 @@ draft: false
 original_url: 'https://www.chooseauto.com.cn/news/910776.shtml'
 read_time_minutes: 4
 brand: Volkswagen
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Volkswagen
+confidence: 0.95
 ---
 
 # VW ID. UNYX 07 & 06 starten in China ab 16.600 €

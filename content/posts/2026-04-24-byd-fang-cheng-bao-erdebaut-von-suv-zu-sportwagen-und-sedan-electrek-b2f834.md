@@ -15,6 +15,12 @@ draft: false
 original_url: >-
   https://electrek.co/2026/04/24/byds-off-road-brand-debuts-first-ev-sedan-and-sports-car-images/
 brand: BYD
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # Fang Cheng Bao: BYDs Offroad-Marke wagt sich ins Sportwagensegment

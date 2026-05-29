@@ -14,6 +14,14 @@ tags:
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/913565.shtml'
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - NIO
+  - Zeekr
+confidence: 0.9
 ---
 
 # NIO ES8 vs. Zeekr 8X: Assistenzkrieg der 51.000-Euro-SUVs

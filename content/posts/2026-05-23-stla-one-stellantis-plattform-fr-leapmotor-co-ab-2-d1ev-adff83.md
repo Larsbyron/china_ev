@@ -17,6 +17,14 @@ draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300189'
 read_time_minutes: 2
 brand: Leapmotor
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - Stellantis
+  - Leapmotor
+confidence: 0.9
 ---
 
 # STLA One: Stellantis-Plattform für Leapmotor & Co. ab 2026

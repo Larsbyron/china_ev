@@ -17,6 +17,13 @@ draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
 brand: Audi
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: de_available
+brands:
+  - Audi
+confidence: 0.9
 ---
 
 # Audi RS 6 Avant Performance: Mildhybrid gegen E-Auto-Übermacht

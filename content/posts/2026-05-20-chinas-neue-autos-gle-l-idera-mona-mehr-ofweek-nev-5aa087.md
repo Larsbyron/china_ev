@@ -18,6 +18,11 @@ draft: false
 original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 4
 brand: Mercedes-Benz
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands: []
+confidence: 0.5
 ---
 
 # Chinas neue Autos: GLE L, ID.ERA, MONA & mehr

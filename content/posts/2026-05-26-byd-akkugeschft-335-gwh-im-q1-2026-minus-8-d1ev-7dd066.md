@@ -20,6 +20,14 @@ tags:
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300429'
 read_time_minutes: 2
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: global_industry
+brands:
+  - BYD
+  - CATL
+confidence: 0.9
 ---
 
 # BYD-Akkugeschäft: 33,5 GWh im Q1 2026, minus 8 %
