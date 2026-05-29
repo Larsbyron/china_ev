@@ -1,15 +1,33 @@
 ---
-title: "BYD gewinnt Berufungsverfahren: Blogger muss 256.000 € zahlen"
+title: 'BYD gewinnt Berufungsverfahren: Blogger muss 256.000 € zahlen'
 date: 2026-05-17T11:07:23.491Z
-description: "Ein Gericht bestätigte das Urteil gegen Blogger „Long Ge Talks EVs' wegen Falschbehauptungen über BYD. Der Schadensersatz beträgt 2 Millionen Yuan (ca. 256.000 €). BYD kündigt konsequente rechtliche Schritte gegen Verleumdung an."
-source: "CarNewsChina"
-image: "/images/byd-gewinnt-berufungsverfahren-blogger-muss-256000-carnewschina-d97fbc.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "XPeng", "Xpeng", "Batterie", "Elektroauto", "EV"]
+description: >-
+  Ein Gericht bestätigte das Urteil gegen Blogger „Long Ge Talks EVs' wegen
+  Falschbehauptungen über BYD. Der Schadensersatz beträgt 2 Millionen Yuan (ca.
+  256.000 €). BYD kündigt konsequente rechtliche Schritte gegen Verleumdung an.
+source: CarNewsChina
+image: >-
+  /images/byd-gewinnt-berufungsverfahren-blogger-muss-256000-carnewschina-d97fbc.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/"
+original_url: >-
+  https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - BYD
+  - XPeng
+confidence: 0.4
 ---
 
 # BYD gewinnt Berufungsverfahren: Blogger muss 256.000 € zahlen

@@ -1,15 +1,28 @@
 ---
-title: "Geely Boyue: Zehn-Jahre-Edition startet ab 11.300 €"
+title: 'Geely Boyue: Zehn-Jahre-Edition startet ab 11.300 €'
 date: 2026-05-10T20:34:02.132Z
-description: "Geely bringt die Sonderedition Boyue Zehn-Jahre-Champion-Edition auf den chinesischen Markt. Ab 11.300 € bietet sie viel Komfort und Sicherheit – ein Preis-Leistungs-Kracher für Familien."
-source: "ChooseAuto"
-image: "/images/geely-boyue-zehn-jahre-edition-startet-ab-11300-chooseauto-e45570.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Zoll", "E-Auto"]
+description: >-
+  Geely bringt die Sonderedition Boyue Zehn-Jahre-Champion-Edition auf den
+  chinesischen Markt. Ab 11.300 € bietet sie viel Komfort und Sicherheit – ein
+  Preis-Leistungs-Kracher für Familien.
+source: ChooseAuto
+image: /images/geely-boyue-zehn-jahre-edition-startet-ab-11300-chooseauto-e45570.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Zoll
+  - E-Auto
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/899164.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/899164.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.9
 ---
 
 # Geely Boyue: Zehn-Jahre-Edition startet ab 11.300 €

@@ -1,16 +1,34 @@
 ---
-title: "2026 Peking Auto Show: Neun 9er-SUVs im Wettstreit"
+title: '2026 Peking Auto Show: Neun 9er-SUVs im Wettstreit'
 date: 2026-05-10T20:41:49.030Z
-description: "Li Auto, NIO, AITO und VW bringen auf der Peking Auto Show 2026 ihre 9er-Flaggschiff-SUVs. Preise von 29,98 Mio. Yuan (ca. 38.400 €) bis 65,8 Mio. Yuan (ca. 84.200 €). Reichweiten bis 1.500 km (CLTC)."
-source: "OFweek NEV"
-image: "/images/ai-2026-peking-auto-show-neun-9er-suvs-im-wettstreit-ofweek-nev-8a615f.webp"
-
-category: "news"
-
-tags: ["NIO", "Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Li Auto, NIO, AITO und VW bringen auf der Peking Auto Show 2026 ihre
+  9er-Flaggschiff-SUVs. Preise von 29,98 Mio. Yuan (ca. 38.400 €) bis 65,8 Mio.
+  Yuan (ca. 84.200 €). Reichweiten bis 1.500 km (CLTC).
+source: OFweek NEV
+image: >-
+  /images/ai-2026-peking-auto-show-neun-9er-suvs-im-wettstreit-ofweek-nev-8a615f.webp
+category: news
+tags:
+  - NIO
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - NIO
+  - AITO
+  - VW
+confidence: 0.9
 ---
 
 # 2026 Peking Auto Show: Neun 9er-SUVs im Wettstreit

@@ -1,15 +1,35 @@
 ---
-title: "BMW i3: 900 km WLTP ab 41.000 € – Peking Auto Show 2026"
+title: 'BMW i3: 900 km WLTP ab 41.000 € – Peking Auto Show 2026'
 date: 2026-05-15T10:51:49.182Z
-description: "Auf der Peking Auto Show 2026 zeigen BBA, VW und andere Joint Ventures ihre Elektro-Offensive. Der neue BMW i3 erreicht 900 km WLTP-Reichweite und lädt mit 400 kW – ab 41.000 €. Mercedes GLC L, Audi E7X und VW ID. ERA 9X folgen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Tesla", "Reichweite", "Zoll", "Elektroauto"]
+description: >-
+  Auf der Peking Auto Show 2026 zeigen BBA, VW und andere Joint Ventures ihre
+  Elektro-Offensive. Der neue BMW i3 erreicht 900 km WLTP-Reichweite und lädt
+  mit 400 kW – ab 41.000 €. Mercedes GLC L, Audi E7X und VW ID. ERA 9X folgen.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Tesla
+  - Reichweite
+  - Zoll
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BMW
+  - Mercedes-Benz
+  - Audi
+  - Volkswagen
+confidence: 0.9
 ---
 
 # BMW i3: 900 km WLTP ab 41.000 € – Peking Auto Show 2026

@@ -1,15 +1,32 @@
 ---
-title: "Lotus Type 135: V8-Hybrid mit über 1.000 PS ab 2028"
+title: 'Lotus Type 135: V8-Hybrid mit über 1.000 PS ab 2028'
 date: 2026-05-14T01:09:05.080Z
-description: "Lotus kündigt einen neuen Mittelmotor-V8-Hybrid-Supersportwagen (Type 135) an – über 1.000 PS, 2028er Marktstart. Die Marke kehrt damit nach 24 Jahren zum V8 zurück und gibt das reine EV-Ziel auf."
-source: "CarNewsChina"
-image: "/images/lotus-type-135-v8-hybrid-mit-ber-1000-ps-ab-2028-carnewschina-83a11b.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "MG", "Elektroauto", "EV"]
+description: >-
+  Lotus kündigt einen neuen Mittelmotor-V8-Hybrid-Supersportwagen (Type 135) an
+  – über 1.000 PS, 2028er Marktstart. Die Marke kehrt damit nach 24 Jahren zum
+  V8 zurück und gibt das reine EV-Ziel auf.
+source: CarNewsChina
+image: >-
+  /images/lotus-type-135-v8-hybrid-mit-ber-1000-ps-ab-2028-carnewschina-83a11b.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - MG
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/12/lotus-announces-1000-hp-v8-hev-supercar-for-2028-pivoting-from-full-ev-strategy/"
+original_url: >-
+  https://carnewschina.com/2026/05/12/lotus-announces-1000-hp-v8-hev-supercar-for-2028-pivoting-from-full-ev-strategy/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: eu_planned
+brands:
+  - Lotus
+  - Geely
+confidence: 0.9
 ---
 
 # Lotus Type 135: V8-Hybrid mit über 1.000 PS ab 2028

@@ -1,15 +1,31 @@
 ---
-title: "Arcfox Beta S3: Akku-Wechsel in 99 Sekunden für unter 8.000 €"
+title: 'Arcfox Beta S3: Akku-Wechsel in 99 Sekunden für unter 8.000 €'
 date: 2026-05-24T11:15:52.058Z
-description: "Arcfox (BAIC) bringt die E-Limousine Beta S3 für 7.700 € auf den Markt. Hauptfeature: 99-Sekunden-Akkuwechsel mit CATL-System, 660 km Reichweite (CLTC). Ein Europa-Start ist nicht geplant."
-source: "ChooseAuto"
-image: "/images/arcfox-beta-s3-akku-wechsel-in-99-sekunden-fr-unte-chooseauto-47a217.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "Zoll", "E-Auto"]
+description: >-
+  Arcfox (BAIC) bringt die E-Limousine Beta S3 für 7.700 € auf den Markt.
+  Hauptfeature: 99-Sekunden-Akkuwechsel mit CATL-System, 660 km Reichweite
+  (CLTC). Ein Europa-Start ist nicht geplant.
+source: ChooseAuto
+image: >-
+  /images/arcfox-beta-s3-akku-wechsel-in-99-sekunden-fr-unte-chooseauto-47a217.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - E-Auto
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/911485.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/911485.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Arcfox
+confidence: 0.95
 ---
 
 # Arcfox Beta S3: Akku-Wechsel in 99 Sekunden für unter 8.000 €

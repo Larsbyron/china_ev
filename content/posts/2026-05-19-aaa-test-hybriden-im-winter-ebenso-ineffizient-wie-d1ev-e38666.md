@@ -1,15 +1,32 @@
 ---
-title: "AAA-Test: Hybriden im Winter ebenso ineffizient wie E-Autos"
+title: 'AAA-Test: Hybriden im Winter ebenso ineffizient wie E-Autos'
 date: 2026-05-19T06:09:12.789Z
-description: "Eine US-Studie der AAA zeigt: Bei minus 7 °C steigt der Spritverbrauch von Hybriden um 23 Prozent. Auch Elektroautos leiden – trotz moderner Wärmepumpen kaum Besserung seit 2019."
-source: "D1EV"
-image: "/images/aaa-test-hybriden-im-winter-ebenso-ineffizient-wie-d1ev-e38666.webp"
-category: "news"
-brand: "Tesla"
-tags: ["Tesla", "MG", "Batterie", "Reichweite", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Eine US-Studie der AAA zeigt: Bei minus 7 °C steigt der Spritverbrauch von
+  Hybriden um 23 Prozent. Auch Elektroautos leiden – trotz moderner Wärmepumpen
+  kaum Besserung seit 2019.
+source: D1EV
+image: /images/aaa-test-hybriden-im-winter-ebenso-ineffizient-wie-d1ev-e38666.webp
+category: news
+brand: Tesla
+tags:
+  - Tesla
+  - MG
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299544"
+original_url: 'https://www.d1ev.com/news/shichang/299544'
 read_time_minutes: 3
+primaryTopic: batterie-laden-reichweite
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - Tesla
+  - MG
+confidence: 0.9
 ---
 
 # AAA-Test: Hybriden im Winter ebenso ineffizient wie E-Autos

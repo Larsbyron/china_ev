@@ -1,15 +1,31 @@
 ---
-title: "Xiaomi YU7: Standardversion zurück – ab 29.900 € gegen Tesla"
+title: 'Xiaomi YU7: Standardversion zurück – ab 29.900 € gegen Tesla'
 date: 2026-05-22T12:16:41.237Z
-description: "Xiaomi bringt die Basisversion des YU7 zurück. Das SUV startet bei 23,35 万元 (ca. 29.900 €) und zielt auf das Tesla Model Y. Gleichzeitig feiert der YU7 GT einen Nürburgring-Rekord."
-source: "Sina"
-image: "/images/xiaomi-yu7-standardversion-zurck-ab-29900-gegen-te-sina-d9bf07.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Batterie", "Reichweite"]
+description: >-
+  Xiaomi bringt die Basisversion des YU7 zurück. Das SUV startet bei 23,35 万元
+  (ca. 29.900 €) und zielt auf das Tesla Model Y. Gleichzeitig feiert der YU7 GT
+  einen Nürburgring-Rekord.
+source: Sina
+image: /images/xiaomi-yu7-standardversion-zurck-ab-29900-gegen-te-sina-d9bf07.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - Tesla
+confidence: 0.9
 ---
 
 # Xiaomi YU7: Standardversion zurück – ab 29.900 € gegen Tesla

@@ -1,15 +1,34 @@
 ---
-title: "BYD Unyx 07: Elektro-Limousine ab 14.100 €"
+title: 'BYD Unyx 07: Elektro-Limousine ab 14.100 €'
 date: 2026-05-24T11:13:53.876Z
-description: "BYD bringt mit dem Unyx 07 die erste rein elektrische Mittelklasse-Limousine auf Basis einer mit Xpeng entwickelten Elektronik-Architektur. Start in China ab 109.900 Yuan (ca. 14.100 €)."
-source: "CarNewsChina"
-image: "/images/byd-unyx-07-elektro-limousine-ab-14100-carnewschina-86c2c9.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "XPeng", "Xpeng", "MG", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  BYD bringt mit dem Unyx 07 die erste rein elektrische Mittelklasse-Limousine
+  auf Basis einer mit Xpeng entwickelten Elektronik-Architektur. Start in China
+  ab 109.900 Yuan (ca. 14.100 €).
+source: CarNewsChina
+image: /images/byd-unyx-07-elektro-limousine-ab-14100-carnewschina-86c2c9.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/23/volkswagen-launches-id-unyx-07-in-china-co-developed-with-xpeng-starting-at-16200-usd/"
+original_url: >-
+  https://carnewschina.com/2026/05/23/volkswagen-launches-id-unyx-07-in-china-co-developed-with-xpeng-starting-at-16200-usd/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - XPeng
+confidence: 0.9
 ---
 
 # BYD Unyx 07: Elektro-Limousine ab 14.100 €

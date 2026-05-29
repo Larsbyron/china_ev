@@ -1,15 +1,28 @@
 ---
-title: "ProLogium: Feststoffbatterie-IPO mit 3,8 Mrd. USD Bewertung"
+title: 'ProLogium: Feststoffbatterie-IPO mit 3,8 Mrd. USD Bewertung'
 date: 2026-05-28T13:55:16.897Z
-description: "Der taiwanesische Feststoffbatterie-Pionier ProLogium geht per SPAC-Fusion an die Nasdaq. Der Deal bewertet das Unternehmen mit 3,8 Mrd. USD. Mit dem Kapital wird eine Fabrik im französischen Dünkirchen finanziert – möglicher Start für eine europäische Fertigung."
-source: "D1EV"
-image: "/images/prologium-feststoffbatterie-ipo-mit-38-mrd-usd-bew-d1ev-e42448.webp"
-category: "news"
-
-tags: ["Batterie", "E-Auto", "EV"]
+description: >-
+  Der taiwanesische Feststoffbatterie-Pionier ProLogium geht per SPAC-Fusion an
+  die Nasdaq. Der Deal bewertet das Unternehmen mit 3,8 Mrd. USD. Mit dem
+  Kapital wird eine Fabrik im französischen Dünkirchen finanziert – möglicher
+  Start für eine europäische Fertigung.
+source: D1EV
+image: /images/prologium-feststoffbatterie-ipo-mit-38-mrd-usd-bew-d1ev-e42448.webp
+category: news
+tags:
+  - Batterie
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300854"
+original_url: 'https://www.d1ev.com/news/shichang/300854'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: eu_planned
+brands:
+  - ProLogium
+confidence: 0.9
 ---
 
 # ProLogium: Feststoffbatterie-IPO mit 3,8 Mrd. USD Bewertung

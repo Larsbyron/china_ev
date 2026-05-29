@@ -1,15 +1,29 @@
 ---
-title: "Denza B5/B8 Flash-Charge: BYDs Offroader ab 38.400 €"
+title: 'Denza B5/B8 Flash-Charge: BYDs Offroader ab 38.400 €'
 date: 2026-05-16T05:28:19.241Z
-description: "BYD bringt die Denza B5 und B8 Flash-Charge Edition in China an den Start. Die Plug-in-Hybrid-SUVs bieten DiSus-P-Ultra-Fahrwerk und Fahrassistenz von Huawei. Preise ab ca. 38.400 € – ein Europa-Start ist noch offen."
-source: "CarNewsChina"
-image: "/images/denza-b5b8-flash-charge-byds-offroader-ab-38400-carnewschina-9f3e57.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Reichweite"]
+description: >-
+  BYD bringt die Denza B5 und B8 Flash-Charge Edition in China an den Start. Die
+  Plug-in-Hybrid-SUVs bieten DiSus-P-Ultra-Fahrwerk und Fahrassistenz von
+  Huawei. Preise ab ca. 38.400 € – ein Europa-Start ist noch offen.
+source: CarNewsChina
+image: >-
+  /images/denza-b5b8-flash-charge-byds-offroader-ab-38400-carnewschina-9f3e57.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/14/byds-denza-b5-b8-flash-charge-editions-launched-with-yunnian-p-ultra-suspension-from-43900-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/14/byds-denza-b5-b8-flash-charge-editions-launched-with-yunnian-p-ultra-suspension-from-43900-usd-in-china/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # Denza B5/B8 Flash-Charge: BYDs Offroader ab 38.400 €

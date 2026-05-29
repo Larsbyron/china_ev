@@ -1,15 +1,33 @@
 ---
-title: "XPeng GX: 51.200 € SUV mit 750 km Reichweite"
+title: 'XPeng GX: 51.200 € SUV mit 750 km Reichweite'
 date: 2026-05-19T12:36:29.853Z
-description: "XPeng bringt mit dem GX ein vollelektrisches und EREV-Flaggschiff-SUV. Der 5,26 Meter lange Sechssitzer bietet bis zu 750 km Reichweite (CLTC) und 3000 TOPS Rechenleistung. Marktstart in China, Europa-Perspektive unklar."
-source: "Autohome NewEnergy"
-image: "/images/xpeng-gx-51200-suv-mit-750-km-reichweite-autohome-newenergy-f6e3d6.webp"
-category: "news"
-brand: "XPeng"
-tags: ["XPeng", "Xpeng", "MG", "Reichweite", "Zoll", "EV"]
+description: >-
+  XPeng bringt mit dem GX ein vollelektrisches und EREV-Flaggschiff-SUV. Der
+  5,26 Meter lange Sechssitzer bietet bis zu 750 km Reichweite (CLTC) und 3000
+  TOPS Rechenleistung. Marktstart in China, Europa-Perspektive unklar.
+source: Autohome NewEnergy
+image: >-
+  /images/xpeng-gx-51200-suv-mit-750-km-reichweite-autohome-newenergy-f6e3d6.webp
+category: news
+brand: XPeng
+tags:
+  - XPeng
+  - Xpeng
+  - MG
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314363.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314363.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.9
 ---
 
 # XPeng GX: 51.200 € SUV mit 750 km Reichweite

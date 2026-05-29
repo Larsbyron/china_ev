@@ -1,16 +1,33 @@
 ---
-title: "Chery T9L, Buick Electra & Stelato V9: Neue Chinesen im Anmarsch"
+title: 'Chery T9L, Buick Electra & Stelato V9: Neue Chinesen im Anmarsch'
 date: 2026-05-10T20:51:05.937Z
-description: "Drei neue Modelle für China: Chery T9L (PHEV-SUV), Buick Electra (BEV-MPV) und Stelato V9 (High-End-EREV) kommen ab Frühjahr 2025. Sie zeigen unterschiedliche Strategien – von familienfreundlich bis futuristisch."
-source: "OFweek NEV"
-image: "/images/ai-chery-t9l-buick-electra-stelato-v9-neue-chinesen-i-ofweek-nev-cf09d8.webp"
-
-category: "news"
-
-tags: ["Li Auto", "MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Drei neue Modelle für China: Chery T9L (PHEV-SUV), Buick Electra (BEV-MPV) und
+  Stelato V9 (High-End-EREV) kommen ab Frühjahr 2025. Sie zeigen
+  unterschiedliche Strategien – von familienfreundlich bis futuristisch.
+source: OFweek NEV
+image: >-
+  /images/ai-chery-t9l-buick-electra-stelato-v9-neue-chinesen-i-ofweek-nev-cf09d8.webp
+category: news
+tags:
+  - Li Auto
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-01/ART-71000-8220-30679602.html"
+original_url: 'https://nev.ofweek.com/2026-01/ART-71000-8220-30679602.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Chery
+  - Buick
+  - Stelato
+confidence: 0.95
 ---
 
 # Chery T9L, Buick Electra & Stelato V9: Neue Chinesen im Anmarsch

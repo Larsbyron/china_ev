@@ -1,15 +1,33 @@
 ---
-title: "BYD-Award für Blade-Batterie – 1.218 km unbestätigt"
+title: BYD-Award für Blade-Batterie – 1.218 km unbestätigt
 date: 2026-05-16T18:56:19.018Z
-description: "BYD und CATL räumen bei Chinas ersten Golden Lithium Awards ab. BYDs Festkörperbatterie soll laut unbestätigten Berichten 1.218 km (CLTC) schaffen – ob der Wert stimmt, ist offen."
-source: "CarNewsChina"
-image: "/images/byd-award-fr-blade-batterie-1218-km-unbesttigt-carnewschina-1cc018.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  BYD und CATL räumen bei Chinas ersten Golden Lithium Awards ab. BYDs
+  Festkörperbatterie soll laut unbestätigten Berichten 1.218 km (CLTC) schaffen
+  – ob der Wert stimmt, ist offen.
+source: CarNewsChina
+image: >-
+  /images/byd-award-fr-blade-batterie-1218-km-unbesttigt-carnewschina-1cc018.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+  - CATL
+confidence: 0.9
 ---
 
 # BYD-Award für Blade-Batterie – 1.218 km unbestätigt

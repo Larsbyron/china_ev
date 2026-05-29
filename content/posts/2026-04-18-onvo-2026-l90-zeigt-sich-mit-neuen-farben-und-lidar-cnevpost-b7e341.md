@@ -1,13 +1,33 @@
 ---
-title: "Onvo zeigt Vorankündigung des überarbeiteten L90: Neue Farben und LiDAR-Technologie"
+title: >-
+  Onvo zeigt Vorankündigung des überarbeiteten L90: Neue Farben und
+  LiDAR-Technologie
 date: 2026-04-18T10:00:00.000Z
-description: "Nios Submarke Onvo hat einen Ausblick auf die Außendesign-Highlights des überarbeiteten L90 gegeben. Das Modell wird am 21. April offiziell vorgestellt und erhält erstmals einen LiDAR-Sensor."
-source: "CnEVPost"
-image: "/images/ai-onvo-2026-l90-zeigt-sich-mit-neuen-farben-und-lidar-cnevpost-b7e341.webp"
-category: "news"
-tags: ["Onvo", "NIO", "L90", "LiDAR", "SUV"]
+description: >-
+  Nios Submarke Onvo hat einen Ausblick auf die Außendesign-Highlights des
+  überarbeiteten L90 gegeben. Das Modell wird am 21. April offiziell vorgestellt
+  und erhält erstmals einen LiDAR-Sensor.
+source: CnEVPost
+image: >-
+  /images/ai-onvo-2026-l90-zeigt-sich-mit-neuen-farben-und-lidar-cnevpost-b7e341.webp
+category: news
+tags:
+  - Onvo
+  - NIO
+  - L90
+  - LiDAR
+  - SUV
 draft: false
-original_url: "https://cnevpost.com/2026/04/18/onvo-reveals-exterior-highlights-updated-l90-ahead-apr-21-launch/"
+original_url: >-
+  https://cnevpost.com/2026/04/18/onvo-reveals-exterior-highlights-updated-l90-ahead-apr-21-launch/
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Onvo
+  - NIO
+confidence: 0.9
 ---
 
 # Onvo L90: Überarbeitetes Modell zeigt sich mit LiDAR und neuen Farben

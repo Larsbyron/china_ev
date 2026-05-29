@@ -1,15 +1,32 @@
 ---
-title: "Leapmotor baut ab 2026 in Spanien: C10 ab 35.000 €?"
+title: 'Leapmotor baut ab 2026 in Spanien: C10 ab 35.000 €?'
 date: 2026-05-19T19:57:01.585Z
-description: "Leapmotor startet europäische Fertigung in Stellantis-Werken in Madrid und Saragossa – ab 2026. Damit umgeht der chinesische EV-Hersteller EU-Strafzölle. T03 und C10 sind bereits in Europa erhältlich, Deutschlandstart noch offen."
-source: "D1EV"
-image: "/images/leapmotor-baut-ab-2026-in-spanien-c10-ab-35000-d1ev-572f0f.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "MG", "Reichweite", "Zoll", "E-Auto", "EV"]
+description: >-
+  Leapmotor startet europäische Fertigung in Stellantis-Werken in Madrid und
+  Saragossa – ab 2026. Damit umgeht der chinesische EV-Hersteller EU-Strafzölle.
+  T03 und C10 sind bereits in Europa erhältlich, Deutschlandstart noch offen.
+source: D1EV
+image: /images/leapmotor-baut-ab-2026-in-spanien-c10-ab-35000-d1ev-572f0f.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - MG
+  - Reichweite
+  - Zoll
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299646"
+original_url: 'https://www.d1ev.com/news/shichang/299646'
 read_time_minutes: 2
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - politik-zoelle-regulierung
+  - modelle-marktstarts
+marketRelevance: eu_available
+brands:
+  - Leapmotor
+confidence: 0.5
 ---
 
 # Leapmotor baut ab 2026 in Spanien: C10 ab 35.000 €?

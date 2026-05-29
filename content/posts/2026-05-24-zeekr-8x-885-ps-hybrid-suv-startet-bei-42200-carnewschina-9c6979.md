@@ -1,15 +1,34 @@
 ---
-title: "Zeekr 8X: 885-PS-Hybrid-SUV startet bei 42.200 €"
+title: 'Zeekr 8X: 885-PS-Hybrid-SUV startet bei 42.200 €'
 date: 2026-05-24T06:02:58.370Z
-description: "Der Zeekr 8X Ultra Plus kombiniert 660 kW Hybridleistung mit 900-Volt-Architektur und 410 km elektrischer Reichweite (CLTC). Der Marktstart in Europa wird ab Ende 2026 erwartet."
-source: "CarNewsChina"
-image: "/images/zeekr-8x-885-ps-hybrid-suv-startet-bei-42200-carnewschina-9c6979.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Geely", "Zeekr", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der Zeekr 8X Ultra Plus kombiniert 660 kW Hybridleistung mit
+  900-Volt-Architektur und 410 km elektrischer Reichweite (CLTC). Der Marktstart
+  in Europa wird ab Ende 2026 erwartet.
+source: CarNewsChina
+image: /images/zeekr-8x-885-ps-hybrid-suv-startet-bei-42200-carnewschina-9c6979.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Geely
+  - Zeekr
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/03/sunday-china-drive-zeekr-8x-ultra-plus-tested-with-885-hp-hybrid-europe-entry-late-2026/"
+original_url: >-
+  https://carnewschina.com/2026/05/03/sunday-china-drive-zeekr-8x-ultra-plus-tested-with-885-hp-hybrid-europe-entry-late-2026/
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - Zeekr
+confidence: 0.95
 ---
 
 # Zeekr 8X: 885-PS-Hybrid-SUV startet bei 42.200 €

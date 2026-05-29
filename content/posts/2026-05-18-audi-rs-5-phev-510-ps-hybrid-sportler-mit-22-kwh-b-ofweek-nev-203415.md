@@ -1,15 +1,29 @@
 ---
-title: "Audi RS 5 PHEV: 510 PS Hybrid-Sportler mit 22-kWh-Batterie"
+title: 'Audi RS 5 PHEV: 510 PS Hybrid-Sportler mit 22-kWh-Batterie'
 date: 2026-05-18T06:22:10.098Z
-description: "Der neue Audi RS 5 als Plug-in-Hybrid kombiniert 510 PS V6-Biturbo mit 130-kW-E-Motor und 22-kWh-Batterie. Chinesische Tester loben Fahrwerk und quattro, sehen aber die Übermacht einheimischer E-Autos wie BYD Seal (530 PS, ab ca. 27.000 €) und NIO ET5 (490 PS, ab ca. 33.000 €)."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "MG", "Batterie", "Reichweite", "Elektroauto"]
+description: >-
+  Der neue Audi RS 5 als Plug-in-Hybrid kombiniert 510 PS V6-Biturbo mit
+  130-kW-E-Motor und 22-kWh-Batterie. Chinesische Tester loben Fahrwerk und
+  quattro, sehen aber die Übermacht einheimischer E-Autos wie BYD Seal (530 PS,
+  ab ca. 27.000 €) und NIO ET5 (490 PS, ab ca. 33.000 €).
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - MG
+  - Batterie
+  - Reichweite
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+brands: []
+confidence: 0.5
 ---
 
 # Audi RS 5 PHEV: 510 PS Hybrid-Sportler mit 22-kWh-Batterie

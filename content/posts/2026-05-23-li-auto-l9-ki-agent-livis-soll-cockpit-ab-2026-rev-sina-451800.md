@@ -1,15 +1,28 @@
 ---
-title: "Li Auto L9: KI-Agent Livis soll Cockpit ab 2026 revolutionieren"
+title: 'Li Auto L9: KI-Agent Livis soll Cockpit ab 2026 revolutionieren'
 date: 2026-05-23T11:10:59.314Z
-description: "Auf der Auto China 2024 zeigt Li Auto den L9 mit dem KI-Agenten Livis, der Cockpit-Funktionen intelligent steuert. 2026 soll die Technik in Serie gehen – ein Wettstreit mit Huaweis HarmonyOS entbrennt."
-source: "Sina"
-image: "/images/li-auto-l9-ki-agent-livis-soll-cockpit-ab-2026-rev-sina-451800.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG"]
+description: >-
+  Auf der Auto China 2024 zeigt Li Auto den L9 mit dem KI-Agenten Livis, der
+  Cockpit-Funktionen intelligent steuert. 2026 soll die Technik in Serie gehen –
+  ein Wettstreit mit Huaweis HarmonyOS entbrennt.
+source: Sina
+image: /images/li-auto-l9-ki-agent-livis-soll-cockpit-ab-2026-rev-sina-451800.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9: KI-Agent Livis soll Cockpit ab 2026 revolutionieren

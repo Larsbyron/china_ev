@@ -1,15 +1,29 @@
 ---
-title: "Xiaomi: 4.000 € Verlust pro SU7 im Q4 2024"
+title: 'Xiaomi: 4.000 € Verlust pro SU7 im Q4 2024'
 date: 2026-05-27T20:07:34.882Z
-description: "Der chinesische Smartphone-Riese Xiaomi verbucht in seiner Autosparte weiter Verluste. Je ausgeliefertem SU7 entstand im vierten Quartal 2024 ein Minus von rund 4.000 €. Die Auslieferungen stiegen auf knapp 70.000 Einheiten."
-source: "CarNewsChina"
-image: "/images/xiaomi-4000-verlust-pro-su7-im-q4-2024-carnewschina-bbf571.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "EV"]
+description: >-
+  Der chinesische Smartphone-Riese Xiaomi verbucht in seiner Autosparte weiter
+  Verluste. Je ausgeliefertem SU7 entstand im vierten Quartal 2024 ein Minus von
+  rund 4.000 €. Die Auslieferungen stiegen auf knapp 70.000 Einheiten.
+source: CarNewsChina
+image: /images/xiaomi-4000-verlust-pro-su7-im-q4-2024-carnewschina-bbf571.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi: 4.000 € Verlust pro SU7 im Q4 2024

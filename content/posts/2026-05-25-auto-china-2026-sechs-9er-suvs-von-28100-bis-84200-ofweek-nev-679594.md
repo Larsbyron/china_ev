@@ -1,15 +1,36 @@
 ---
-title: "Auto China 2026: Sechs 9er-SUVs von 28.100 € bis 84.200 €"
+title: 'Auto China 2026: Sechs 9er-SUVs von 28.100 € bis 84.200 €'
 date: 2026-05-25T13:10:17.913Z
-description: "Sechs SUV-Flaggschiffe mit der 9 im Namen treten auf der Auto China 2026 in Peking gegeneinander an. Von Li Auto über NIO bis GAC – die Preisspanne reicht von rund 28.100 € bis 84.200 €. Ein Vergleich der chinesischen Premium-Konkurrenz."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "Li Auto", "Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Sechs SUV-Flaggschiffe mit der 9 im Namen treten auf der Auto China 2026 in
+  Peking gegeneinander an. Von Li Auto über NIO bis GAC – die Preisspanne reicht
+  von rund 28.100 € bis 84.200 €. Ein Vergleich der chinesischen
+  Premium-Konkurrenz.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - NIO
+  - Li Auto
+  - AITO
+  - Volkswagen
+  - GAC
+confidence: 0.95
 ---
 
 # Auto China 2026: Sechs 9er-SUVs von 28.100 € bis 84.200 €

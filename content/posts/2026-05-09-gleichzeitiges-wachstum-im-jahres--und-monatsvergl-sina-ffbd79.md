@@ -1,15 +1,30 @@
 ---
-title: "Gleichzeitiges Wachstum im Jahres- und Monatsvergleich: Fangchengbao verkauft im April 29.138 Einheiten"
+title: >-
+  Gleichzeitiges Wachstum im Jahres- und Monatsvergleich: Fangchengbao verkauft
+  im April 29.138 Einheiten
 date: 2026-05-09T22:54:06.327Z
-description: "Am 1. Mai veröffentlichte Fangchengbao seine Verkaufszahlen für April. Die Gesamtverkäufe der Marke beliefen sich auf 29.138 Einheiten, ein deutlicher Anstieg von 190 % im Jahresvergleich und eine Ste..."
-source: "Sina"
-image: "/images/gleichzeitiges-wachstum-im-jahres-und-monatsvergl-sina-ffbd79.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "EV"]
+description: >-
+  Am 1. Mai veröffentlichte Fangchengbao seine Verkaufszahlen für April. Die
+  Gesamtverkäufe der Marke beliefen sich auf 29.138 Einheiten, ein deutlicher
+  Anstieg von 190 % im Jahresvergleich und eine Ste...
+source: Sina
+image: /images/gleichzeitiges-wachstum-im-jahres-und-monatsvergl-sina-ffbd79.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-05-02/detail-inhwpcha9630783.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-05-02/detail-inhwpcha9630783.shtml'
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # Gleichzeitiges Wachstum im Jahres- und Monatsvergleich: Fangchengbao verkauft im April 29.138 Einheiten

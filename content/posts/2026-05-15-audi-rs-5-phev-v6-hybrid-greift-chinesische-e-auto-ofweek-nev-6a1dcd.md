@@ -1,15 +1,34 @@
 ---
-title: "Audi RS 5 PHEV: V6-Hybrid greift chinesische E-Autos an"
+title: 'Audi RS 5 PHEV: V6-Hybrid greift chinesische E-Autos an'
 date: 2026-05-15T10:55:52.052Z
-description: "Der neue Audi RS 5 PHEV kombiniert 2,9-Liter-V6-Biturbo mit 130-kW-E-Motor. In China tritt er gegen Elektro-Sportwagen wie NIO ET5 und XPeng P7 an – mit gemischten Aussichten für die traditionsreiche Baureihe."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "MG", "Batterie", "Reichweite", "E-Auto"]
+description: >-
+  Der neue Audi RS 5 PHEV kombiniert 2,9-Liter-V6-Biturbo mit 130-kW-E-Motor. In
+  China tritt er gegen Elektro-Sportwagen wie NIO ET5 und XPeng P7 an – mit
+  gemischten Aussichten für die traditionsreiche Baureihe.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - MG
+  - Batterie
+  - Reichweite
+  - E-Auto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - BYD
+  - NIO
+  - XPeng
+confidence: 0.9
 ---
 
 # Audi RS 5 PHEV: V6-Hybrid greift chinesische E-Autos an

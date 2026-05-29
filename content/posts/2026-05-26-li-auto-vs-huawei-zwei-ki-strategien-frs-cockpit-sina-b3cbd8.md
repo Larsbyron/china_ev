@@ -1,15 +1,30 @@
 ---
-title: "Li Auto vs. Huawei: Zwei KI-Strategien fürs Cockpit"
+title: 'Li Auto vs. Huawei: Zwei KI-Strategien fürs Cockpit'
 date: 2026-05-26T20:08:00.735Z
-description: "Auf der Beijing Auto Show zeichnet sich ein Wettstreit um Künstliche Intelligenz im Auto ab: Huawei setzt auf eine Ökosystem-Plattform, Li Auto auf einen ganzheitlichen KI-Agenten. Beide verfolgen radikal unterschiedliche technische Philosophien."
-source: "Sina"
-image: "/images/li-auto-vs-huawei-zwei-ki-strategien-frs-cockpit-sina-b3cbd8.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Auf der Beijing Auto Show zeichnet sich ein Wettstreit um Künstliche
+  Intelligenz im Auto ab: Huawei setzt auf eine Ökosystem-Plattform, Li Auto auf
+  einen ganzheitlichen KI-Agenten. Beide verfolgen radikal unterschiedliche
+  technische Philosophien.
+source: Sina
+image: /images/li-auto-vs-huawei-zwei-ki-strategien-frs-cockpit-sina-b3cbd8.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.9
 ---
 
 # Li Auto vs. Huawei: Zwei KI-Strategien fürs Cockpit

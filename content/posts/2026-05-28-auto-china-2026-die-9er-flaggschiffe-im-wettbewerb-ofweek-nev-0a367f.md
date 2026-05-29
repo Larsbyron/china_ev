@@ -1,15 +1,36 @@
 ---
-title: "Auto China 2026: Die „9er“-Flaggschiffe im Wettbewerb"
+title: 'Auto China 2026: Die „9er“-Flaggschiffe im Wettbewerb'
 date: 2026-05-28T13:47:46.693Z
-description: "Sechs chinesische SUV-Flaggschiffe mit „9“ im Namen kämpfen auf der Peking Auto Show 2026 um die Krone – von 28.100 € bis 84.200 €. Li Auto, NIO, AITO, VW, BYD und GAC zeigen ihre Oberklasse."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "Li Auto", "Onvo", "Batterie", "Reichweite", "Ladestation", "EV"]
+description: >-
+  Sechs chinesische SUV-Flaggschiffe mit „9“ im Namen kämpfen auf der Peking
+  Auto Show 2026 um die Krone – von 28.100 € bis 84.200 €. Li Auto, NIO, AITO,
+  VW, BYD und GAC zeigen ihre Oberklasse.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - Onvo
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: global_industry
+brands:
+  - BYD
+  - NIO
+  - Li Auto
+  - AITO
+  - VW
+  - GAC
+confidence: 0.9
 ---
 
 # Auto China 2026: Die „9er“-Flaggschiffe im Wettbewerb

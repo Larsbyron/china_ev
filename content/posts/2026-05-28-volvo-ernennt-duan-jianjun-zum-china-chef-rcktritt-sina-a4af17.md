@@ -1,15 +1,31 @@
 ---
-title: "Volvo ernennt Duan Jianjun zum China-Chef – Rücktritt von Yuan Xiaolin"
+title: Volvo ernennt Duan Jianjun zum China-Chef – Rücktritt von Yuan Xiaolin
 date: 2026-05-28T06:31:10.318Z
-description: "Yuan Xiaolin verlässt nach 16 Jahren die operative Führung von Volvo Cars Greater China. Nachfolger wird der erfahrene Manager Duan Jianjun, der einst als Servicetechniker bei Volvo begann und zuletzt bei Mercedes-Benz tätig war."
-source: "Sina"
-image: "/images/volvo-ernennt-duan-jianjun-zum-china-chef-rcktritt-sina-a4af17.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "NIO", "XPeng", "Xpeng", "EV"]
+description: >-
+  Yuan Xiaolin verlässt nach 16 Jahren die operative Führung von Volvo Cars
+  Greater China. Nachfolger wird der erfahrene Manager Duan Jianjun, der einst
+  als Servicetechniker bei Volvo begann und zuletzt bei Mercedes-Benz tätig war.
+source: Sina
+image: /images/volvo-ernennt-duan-jianjun-zum-china-chef-rcktritt-sina-a4af17.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - NIO
+  - XPeng
+  - Xpeng
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - Volvo
+  - Geely
+confidence: 0.95
 ---
 
 # Volvo ernennt Duan Jianjun zum China-Chef – Rücktritt von Yuan Xiaolin

@@ -1,15 +1,25 @@
 ---
-title: "Audi RS 5 Hybrid: 2,9L V6 plus 130 kW E-Motor"
+title: 'Audi RS 5 Hybrid: 2,9L V6 plus 130 kW E-Motor'
 date: 2026-05-28T13:50:58.451Z
-description: "Chinesische Medien berichten über die neue Hybridversion des Audi RS 5 Sportback. Der 2,9-Liter-V6-Biturbo wird von einem 130 kW starken Elektromotor unterstützt – eine Antwort auf die reinelektrische Konkurrenz."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Batterie", "E-Auto"]
+description: >-
+  Chinesische Medien berichten über die neue Hybridversion des Audi RS 5
+  Sportback. Der 2,9-Liter-V6-Biturbo wird von einem 130 kW starken Elektromotor
+  unterstützt – eine Antwort auf die reinelektrische Konkurrenz.
+source: OFweek NEV
+category: news
+tags:
+  - Batterie
+  - E-Auto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - Audi
+confidence: 0.9
 ---
 
 # Audi RS 5 Hybrid: 2,9L V6 plus 130 kW E-Motor

@@ -1,15 +1,29 @@
 ---
-title: "Leapmotor D19: 10 % Kühlreserve für 700-kW-E-SUV"
+title: 'Leapmotor D19: 10 % Kühlreserve für 700-kW-E-SUV'
 date: 2026-05-16T18:56:40.874Z
-description: "Leapmotor (零跑) bringt den D19 als neues Tech-Flaggschiff-SUV an den Start – mit Dreimotor-Allrad und wahlweise als EREV oder BEV ab ca. 27.600 €. Ein Marelli-Kühlmodul sorgt für thermische Stabilität unter Volllast."
-source: "D1EV"
-image: "/images/leapmotor-d19-10-khlreserve-fr-700-kw-e-suv-d1ev-b8d185.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "Batterie", "Reichweite", "EV"]
+description: >-
+  Leapmotor (零跑) bringt den D19 als neues Tech-Flaggschiff-SUV an den Start –
+  mit Dreimotor-Allrad und wahlweise als EREV oder BEV ab ca. 27.600 €. Ein
+  Marelli-Kühlmodul sorgt für thermische Stabilität unter Volllast.
+source: D1EV
+image: /images/leapmotor-d19-10-khlreserve-fr-700-kw-e-suv-d1ev-b8d185.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299285"
+original_url: 'https://www.d1ev.com/news/qiye/299285'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Leapmotor
+confidence: 0.9
 ---
 
 # Leapmotor D19: 10 % Kühlreserve für 700-kW-E-SUV

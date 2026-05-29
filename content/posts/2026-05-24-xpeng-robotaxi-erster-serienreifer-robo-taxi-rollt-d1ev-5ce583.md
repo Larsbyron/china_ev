@@ -1,15 +1,30 @@
 ---
-title: "XPeng Robotaxi: Erster serienreifer Robo-Taxi rollt vom Band"
+title: 'XPeng Robotaxi: Erster serienreifer Robo-Taxi rollt vom Band'
 date: 2026-05-24T19:06:59.819Z
-description: "XPeng hat das erste vollständig selbst entwickelte Robotaxi in Serie produziert. Das Modell basiert auf dem GX, verfügt über vier KI-Chips und L4-Autonomie. Marktstart in China für die zweite Jahreshälfte 2025 geplant."
-source: "D1EV"
-image: "/images/xpeng-robotaxi-erster-serienreifer-robo-taxi-rollt-d1ev-5ce583.webp"
-category: "news"
-brand: "XPeng"
-tags: ["XPeng", "Xpeng", "Zeekr", "Batterie", "Reichweite"]
+description: >-
+  XPeng hat das erste vollständig selbst entwickelte Robotaxi in Serie
+  produziert. Das Modell basiert auf dem GX, verfügt über vier KI-Chips und
+  L4-Autonomie. Marktstart in China für die zweite Jahreshälfte 2025 geplant.
+source: D1EV
+image: /images/xpeng-robotaxi-erster-serienreifer-robo-taxi-rollt-d1ev-5ce583.webp
+category: news
+brand: XPeng
+tags:
+  - XPeng
+  - Xpeng
+  - Zeekr
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300323"
+original_url: 'https://www.d1ev.com/news/shichang/300323'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.95
 ---
 
 # XPeng Robotaxi: Erster serienreifer Robo-Taxi rollt vom Band

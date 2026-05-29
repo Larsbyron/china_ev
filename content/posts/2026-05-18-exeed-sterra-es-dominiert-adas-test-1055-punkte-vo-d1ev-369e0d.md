@@ -1,15 +1,42 @@
 ---
-title: "Exeed Sterra ES dominiert ADAS-Test: 105,5 Punkte vor Aion & AVATR"
+title: 'Exeed Sterra ES dominiert ADAS-Test: 105,5 Punkte vor Aion & AVATR'
 date: 2026-05-18T06:23:18.654Z
-description: "Beim zweiten chinesischen ADAS-Wettbewerb in Hefei setzte sich der Exeed Sterra ES (Chery) mit 105,5 Punkten durch. Knapp dahinter: GAC Aion N60 (104,95) und AVATR 06 (99,09). Elf Fahrzeuge traten auf einer anspruchsvollen 32-km-Strecke ohne Vorkenntnisse an."
-source: "D1EV"
-image: "/images/exeed-sterra-es-dominiert-adas-test-1055-punkte-vo-d1ev-369e0d.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Xiaomi SU", "Geely", "Zeekr"]
+description: >-
+  Beim zweiten chinesischen ADAS-Wettbewerb in Hefei setzte sich der Exeed
+  Sterra ES (Chery) mit 105,5 Punkten durch. Knapp dahinter: GAC Aion N60
+  (104,95) und AVATR 06 (99,09). Elf Fahrzeuge traten auf einer anspruchsvollen
+  32-km-Strecke ohne Vorkenntnisse an.
+source: D1EV
+image: /images/exeed-sterra-es-dominiert-adas-test-1055-punkte-vo-d1ev-369e0d.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Xiaomi SU
+  - Geely
+  - Zeekr
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299474"
+original_url: 'https://www.d1ev.com/news/shichang/299474'
 read_time_minutes: 4
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Exeed
+  - GAC Aion
+  - AVATR
+  - BYD
+  - NIO
+  - XPeng
+  - Li Auto
+  - Xiaomi SU
+  - Geely
+  - Zeekr
+confidence: 0.9
 ---
 
 # Exeed Sterra ES dominiert ADAS-Test: 105,5 Punkte vor Aion & AVATR

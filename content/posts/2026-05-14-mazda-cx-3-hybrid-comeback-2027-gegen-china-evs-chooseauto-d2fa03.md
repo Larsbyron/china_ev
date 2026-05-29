@@ -1,15 +1,31 @@
 ---
-title: "Mazda CX-3: Hybrid-Comeback 2027 gegen China-EVs"
+title: 'Mazda CX-3: Hybrid-Comeback 2027 gegen China-EVs'
 date: 2026-05-14T00:07:04.534Z
-description: "Mazda bringt den CX-3 2027 als Hybrid zurück – mit Fokus auf Asien. Der kleine SUV tritt gegen günstige chinesische Elektro-Konkurrenz wie BYD Yuan Up an. Ein reiner Stromer ist nicht geplant."
-source: "ChooseAuto"
-image: "/images/mazda-cx-3-hybrid-comeback-2027-gegen-china-evs-chooseauto-d2fa03.webp"
-category: "news"
-
-tags: ["BYD", "NIO", "Geely", "Elektroauto", "E-Auto"]
+description: >-
+  Mazda bringt den CX-3 2027 als Hybrid zurück – mit Fokus auf Asien. Der kleine
+  SUV tritt gegen günstige chinesische Elektro-Konkurrenz wie BYD Yuan Up an.
+  Ein reiner Stromer ist nicht geplant.
+source: ChooseAuto
+image: /images/mazda-cx-3-hybrid-comeback-2027-gegen-china-evs-chooseauto-d2fa03.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - Geely
+  - Elektroauto
+  - E-Auto
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/901870.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/901870.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: global_industry
+brands:
+  - Mazda
+  - BYD
+  - Geely
+confidence: 0.9
 ---
 
 # Mazda CX-3: Hybrid-Comeback 2027 gegen China-EVs

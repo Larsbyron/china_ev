@@ -1,15 +1,35 @@
 ---
-title: "Audi RS 5 PHEV für 102.400 €: 505 kW starker Hybrid gegen BYD & NIO"
+title: 'Audi RS 5 PHEV für 102.400 €: 505 kW starker Hybrid gegen BYD & NIO'
 date: 2026-05-24T19:12:19.290Z
-description: "Audi bringt den RS 5 Sportback als Plug-in-Hybrid nach China. Der 505 kW starke V6-Biturbo mit E-Motor kostet umgerechnet 102.400 € und tritt gegen BYD Han, NIO ET7 und XPeng P7 an – ein technisches Statement gegen die Elektro-Übermacht."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Audi bringt den RS 5 Sportback als Plug-in-Hybrid nach China. Der 505 kW
+  starke V6-Biturbo mit E-Motor kostet umgerechnet 102.400 € und tritt gegen BYD
+  Han, NIO ET7 und XPeng P7 an – ein technisches Statement gegen die
+  Elektro-Übermacht.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - BYD
+  - NIO
+  - XPeng
+confidence: 0.95
 ---
 
 # Audi RS 5 PHEV für 102.400 €: 505 kW starker Hybrid gegen BYD & NIO

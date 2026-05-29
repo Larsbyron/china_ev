@@ -1,15 +1,32 @@
 ---
-title: "Audi RS 5 Hybrid: China-Duell mit BYD Seal & Co."
+title: 'Audi RS 5 Hybrid: China-Duell mit BYD Seal & Co.'
 date: 2026-05-17T05:54:05.288Z
-description: "Der neue Audi RS 5 Sportback Hybrid (2,9-Liter-V6 plus E-Motor) tritt in China gegen starke Elektro-Konkurrenz wie BYD Seal und Nio ET5 an. Ob er sein Gesicht wahren kann, zeigt der Technikvergleich."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "Zeekr", "Batterie", "E-Auto", "EV"]
+description: >-
+  Der neue Audi RS 5 Sportback Hybrid (2,9-Liter-V6 plus E-Motor) tritt in China
+  gegen starke Elektro-Konkurrenz wie BYD Seal und Nio ET5 an. Ob er sein
+  Gesicht wahren kann, zeigt der Technikvergleich.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - Zeekr
+  - Batterie
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - BYD
+  - NIO
+  - Zeekr
+confidence: 0.95
 ---
 
 # Audi RS 5 Hybrid: China-Duell mit BYD Seal & Co.

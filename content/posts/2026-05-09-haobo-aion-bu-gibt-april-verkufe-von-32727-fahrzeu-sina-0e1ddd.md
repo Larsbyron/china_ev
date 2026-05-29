@@ -1,15 +1,29 @@
 ---
-title: "Haobo Aion BU gibt April-Verkäufe von 32.727 Fahrzeugen bekannt – ein Plus von 15,6 % im Jahresvergleich"
+title: >-
+  Haobo Aion BU gibt April-Verkäufe von 32.727 Fahrzeugen bekannt – ein Plus von
+  15,6 % im Jahresvergleich
 date: 2026-05-09T22:53:25.670Z
-description: "Am 1. Mai gab die Geschäftseinheit Haobo Aion die Endverkaufszahlen für April bekannt: 32.727 Fahrzeuge, ein Anstieg von 15,6 % im Vergleich zum Vorjahresmonat, womit sich der positive Trend aus dem e..."
-source: "Sina"
-image: "/images/haobo-aion-bu-gibt-april-verkufe-von-32727-fahrzeu-sina-0e1ddd.webp"
-category: "news"
-brand: "Aion"
-tags: ["Aion", "EV"]
+description: >-
+  Am 1. Mai gab die Geschäftseinheit Haobo Aion die Endverkaufszahlen für April
+  bekannt: 32.727 Fahrzeuge, ein Anstieg von 15,6 % im Vergleich zum
+  Vorjahresmonat, womit sich der positive Trend aus dem e...
+source: Sina
+image: /images/haobo-aion-bu-gibt-april-verkufe-von-32727-fahrzeu-sina-0e1ddd.webp
+category: news
+brand: Aion
+tags:
+  - Aion
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml'
 read_time_minutes: 3
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Aion
+confidence: 0.95
 ---
 
 # Haobo Aion BU gibt April-Verkäufe von 32.727 Fahrzeugen bekannt – ein Plus von 15,6 % im Jahresvergleich

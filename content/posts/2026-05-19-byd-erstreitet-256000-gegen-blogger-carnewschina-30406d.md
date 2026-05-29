@@ -1,15 +1,31 @@
 ---
-title: "BYD erstreitet 256.000 € gegen Blogger"
+title: BYD erstreitet 256.000 € gegen Blogger
 date: 2026-05-19T06:03:59.937Z
-description: "BYD gewinnt Berufungsprozess gegen chinesischen EV-Blogger. Das Gericht verurteilte ihn zu einer Entschuldigung und 2 Mio. Yuan Schadensersatz wegen falscher Behauptungen über Batterie und Antrieb."
-source: "CarNewsChina"
-image: "/images/byd-erstreitet-256000-gegen-blogger-carnewschina-30406d.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "XPeng", "Xpeng", "Batterie", "Elektroauto", "EV"]
+description: >-
+  BYD gewinnt Berufungsprozess gegen chinesischen EV-Blogger. Das Gericht
+  verurteilte ihn zu einer Entschuldigung und 2 Mio. Yuan Schadensersatz wegen
+  falscher Behauptungen über Batterie und Antrieb.
+source: CarNewsChina
+image: /images/byd-erstreitet-256000-gegen-blogger-carnewschina-30406d.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/"
+original_url: >-
+  https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD erstreitet 256.000 € gegen Blogger

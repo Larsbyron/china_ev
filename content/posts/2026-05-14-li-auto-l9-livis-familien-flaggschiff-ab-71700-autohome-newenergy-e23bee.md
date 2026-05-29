@@ -1,15 +1,33 @@
 ---
-title: "Li Auto L9 Livis: Familien-Flaggschiff ab 71.700 €"
+title: 'Li Auto L9 Livis: Familien-Flaggschiff ab 71.700 €'
 date: 2026-05-14T11:47:58.836Z
-description: "Der neue Li Auto L9 Livis startet in China zum Preis von ca. 71.700 €. Das Familien-SUV bietet 360 km WLTP-Reichweite (EREV), 800-Volt-Technik und Luxusausstattung. Ein Europa-Start ist nicht geplant."
-source: "Autohome NewEnergy"
-image: "/images/li-auto-l9-livis-familien-flaggschiff-ab-71700-autohome-newenergy-e23bee.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Batterie", "Reichweite", "Ladestation", "Zoll", "EV"]
+description: >-
+  Der neue Li Auto L9 Livis startet in China zum Preis von ca. 71.700 €. Das
+  Familien-SUV bietet 360 km WLTP-Reichweite (EREV), 800-Volt-Technik und
+  Luxusausstattung. Ein Europa-Start ist nicht geplant.
+source: Autohome NewEnergy
+image: >-
+  /images/li-auto-l9-livis-familien-flaggschiff-ab-71700-autohome-newenergy-e23bee.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - Zoll
+  - EV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314180.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314180.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9 Livis: Familien-Flaggschiff ab 71.700 €

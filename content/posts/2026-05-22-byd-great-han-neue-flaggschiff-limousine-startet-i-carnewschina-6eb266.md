@@ -1,15 +1,33 @@
 ---
-title: "BYD Great Han: Neue Flaggschiff-Limousine startet im September"
+title: 'BYD Great Han: Neue Flaggschiff-Limousine startet im September'
 date: 2026-05-22T19:36:20.619Z
-description: "BYD bringt mit dem Great Han eine zweite Oberklasse-Limousine – kein Facelift des bekannten Han. Bis zu 1.000 km Reichweite, Marktstart September 2026. Preis in China ab ca. 32.000 €."
-source: "CarNewsChina"
-image: "/images/byd-great-han-neue-flaggschiff-limousine-startet-i-carnewschina-6eb266.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  BYD bringt mit dem Great Han eine zweite Oberklasse-Limousine – kein Facelift
+  des bekannten Han. Bis zu 1.000 km Reichweite, Marktstart September 2026.
+  Preis in China ab ca. 32.000 €.
+source: CarNewsChina
+image: >-
+  /images/byd-great-han-neue-flaggschiff-limousine-startet-i-carnewschina-6eb266.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/22/byd-great-han-spotted-a-new-flagship-sibling-to-the-great-tang/"
+original_url: >-
+  https://carnewschina.com/2026/05/22/byd-great-han-spotted-a-new-flagship-sibling-to-the-great-tang/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Great Han: Neue Flaggschiff-Limousine startet im September

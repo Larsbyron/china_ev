@@ -1,15 +1,33 @@
 ---
-title: "Peking 2026: 9 SUV-Flaggschiffe von 28.100 bis 84.200 €"
+title: 'Peking 2026: 9 SUV-Flaggschiffe von 28.100 bis 84.200 €'
 date: 2026-05-24T06:09:19.667Z
-description: "Auf der Auto China 2026 in Peking treten neun große SUV der 9er-Serie gegeneinander an. Die Preisspanne reicht von 28.100 € (BYD D19) bis 84.200 € (NIO ES9). Wir zeigen die wichtigsten Kandidaten mit Preisen, Reichweiten und Technik-Highlights."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Auf der Auto China 2026 in Peking treten neun große SUV der 9er-Serie
+  gegeneinander an. Die Preisspanne reicht von 28.100 € (BYD D19) bis 84.200 €
+  (NIO ES9). Wir zeigen die wichtigsten Kandidaten mit Preisen, Reichweiten und
+  Technik-Highlights.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - NIO
+  - Li Auto
+  - AITO
+confidence: 0.95
 ---
 
 # Peking 2026: 9 SUV-Flaggschiffe von 28.100 bis 84.200 €

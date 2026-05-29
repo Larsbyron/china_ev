@@ -1,15 +1,30 @@
 ---
-title: "Neuer BYD Seagull kommt im Mai auf den Markt"
+title: Neuer BYD Seagull kommt im Mai auf den Markt
 date: 2026-05-09T23:12:23.011Z
-description: "[auto home | Nachrichten] Der neue BYD Seagull wird am 11. Mai auf den Markt kommen. Das Fahrzeug hatte zuvor seine Premiere auf der Beijing Auto Show gefeiert. Die neue Version ist mit einem Lidar-Se..."
-source: "Autohome NewEnergy"
-image: "/images/neuer-byd-seagull-kommt-im-mai-auf-den-markt-autohome-newenergy-be709a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Reichweite", "Zoll"]
+description: >-
+  [auto home | Nachrichten] Der neue BYD Seagull wird am 11. Mai auf den Markt
+  kommen. Das Fahrzeug hatte zuvor seine Premiere auf der Beijing Auto Show
+  gefeiert. Die neue Version ist mit einem Lidar-Se...
+source: Autohome NewEnergy
+image: >-
+  /images/neuer-byd-seagull-kommt-im-mai-auf-den-markt-autohome-newenergy-be709a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314178.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314178.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Neuer BYD Seagull kommt im Mai auf den Markt

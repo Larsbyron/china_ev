@@ -1,15 +1,26 @@
 ---
-title: "Aion N60: 9.000 Vorbestellungen mit Lidar und L4"
+title: 'Aion N60: 9.000 Vorbestellungen mit Lidar und L4'
 date: 2026-05-18T06:11:08.088Z
-description: "Aion N60 mit Lidar und L4-Algorithmus: 9.000 Vorbestellungen. Aion-Absatz im April +15,6 % auf 32.727 Einheiten. Europa-Expansion geplant."
-source: "Sina"
-image: "/images/aion-n60-9000-vorbestellungen-mit-lidar-und-l4-sina-0273a8.webp"
-category: "news"
-brand: "Aion"
-tags: ["Aion"]
+description: >-
+  Aion N60 mit Lidar und L4-Algorithmus: 9.000 Vorbestellungen. Aion-Absatz im
+  April +15,6 % auf 32.727 Einheiten. Europa-Expansion geplant.
+source: Sina
+image: /images/aion-n60-9000-vorbestellungen-mit-lidar-und-l4-sina-0273a8.webp
+category: news
+brand: Aion
+tags:
+  - Aion
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Aion
+confidence: 0.9
 ---
 
 # Aion N60: 9.000 Vorbestellungen mit Lidar und L4

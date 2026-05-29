@@ -1,15 +1,33 @@
 ---
-title: "BYD Racco: Japan-K-Car ab 15.800 Euro startet 2026"
+title: 'BYD Racco: Japan-K-Car ab 15.800 Euro startet 2026'
 date: 2026-05-18T06:09:22.943Z
-description: "BYD bringt mit dem Racco ein kompaktes Elektro-K-Car auf den japanischen Markt. Entwickelt von einem ehemaligen Nissan-Ingenieur, startet der 20-kWh-Stadtflitzer ab 2,5 Millionen Yen (ca. 15.800 €) und bietet 180 km Reichweite."
-source: "CarNewsChina"
-image: "/images/byd-racco-japan-k-car-ab-15800-euro-startet-2026-carnewschina-6ecd57.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Reichweite", "Elektroauto"]
+description: >-
+  BYD bringt mit dem Racco ein kompaktes Elektro-K-Car auf den japanischen
+  Markt. Entwickelt von einem ehemaligen Nissan-Ingenieur, startet der
+  20-kWh-Stadtflitzer ab 2,5 Millionen Yen (ca. 15.800 €) und bietet 180 km
+  Reichweite.
+source: CarNewsChina
+image: >-
+  /images/byd-racco-japan-k-car-ab-15800-euro-startet-2026-carnewschina-6ecd57.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - Elektroauto
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/byd-hired-nissan-k-car-veteran-to-crack-japans-racco-ev-market/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/byd-hired-nissan-k-car-veteran-to-crack-japans-racco-ev-market/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Racco: Japan-K-Car ab 15.800 Euro startet 2026

@@ -1,15 +1,32 @@
 ---
-title: "BYD gewinnt Berufung: Blogger muss 256.000 € zahlen"
+title: 'BYD gewinnt Berufung: Blogger muss 256.000 € zahlen'
 date: 2026-05-19T19:50:23.298Z
-description: "Ein chinesischer Blogger muss sich nach einer verlorenen Berufung bei BYD entschuldigen und rund 256.000 € zahlen. Das Gericht sah unzureichend belegte Behauptungen über BYD-Antriebskomponenten als rufschädigend an."
-source: "CarNewsChina"
-image: "/images/byd-gewinnt-berufung-blogger-muss-256000-zahlen-carnewschina-34cffa.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "XPeng", "Xpeng", "Batterie", "Elektroauto", "EV"]
+description: >-
+  Ein chinesischer Blogger muss sich nach einer verlorenen Berufung bei BYD
+  entschuldigen und rund 256.000 € zahlen. Das Gericht sah unzureichend belegte
+  Behauptungen über BYD-Antriebskomponenten als rufschädigend an.
+source: CarNewsChina
+image: >-
+  /images/byd-gewinnt-berufung-blogger-muss-256000-zahlen-carnewschina-34cffa.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/"
+original_url: >-
+  https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD gewinnt Berufung: Blogger muss 256.000 € zahlen

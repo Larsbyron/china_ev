@@ -1,15 +1,32 @@
 ---
-title: "eπ M8: Dongfengs Top-SUV mit bis zu 600 km Reichweite"
+title: 'eπ M8: Dongfengs Top-SUV mit bis zu 600 km Reichweite'
 date: 2026-05-24T05:59:50.952Z
-description: "Der neue eπ M8 von Dongfeng (东风奕派) ist ein 5,02 Meter langes Luxus-SUV mit sechs Sitzen und Huawei-Technik an Bord. Das Modell kommt 2025 in China auf den Markt – ein Europa-Start ist nicht geplant."
-source: "Autohome NewEnergy"
-image: "/images/e-m8-dongfengs-top-suv-mit-bis-zu-600-km-reichweit-autohome-newenergy-e75ac1.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der neue eπ M8 von Dongfeng (东风奕派) ist ein 5,02 Meter langes Luxus-SUV mit
+  sechs Sitzen und Huawei-Technik an Bord. Das Modell kommt 2025 in China auf
+  den Markt – ein Europa-Start ist nicht geplant.
+source: Autohome NewEnergy
+image: >-
+  /images/e-m8-dongfengs-top-suv-mit-bis-zu-600-km-reichweit-autohome-newenergy-e75ac1.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.autohome.com.cn/news/202605/1314459.html"
+original_url: 'https://www.autohome.com.cn/news/202605/1314459.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Dongfeng
+  - Huawei
+confidence: 0.9
 ---
 
 # eπ M8: Dongfengs Top-SUV mit bis zu 600 km Reichweite

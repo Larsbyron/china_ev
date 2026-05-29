@@ -1,15 +1,32 @@
 ---
-title: "Audi RS 5 Hybrid: V6-Biturbo mit E-Motor gegen Elektro-Übermacht"
+title: 'Audi RS 5 Hybrid: V6-Biturbo mit E-Motor gegen Elektro-Übermacht'
 date: 2026-05-12T10:38:05.012Z
-description: "Audi rüstet den RS 5 Sportback mit einem P2-Hybrid aus: 2,9-Liter-V6-Biturbo (375 kW) plus 130-kW-E-Motor, quattro-Allrad und 22-kWh-Batterie. Der Mix aus Verbrenner-Performance und Elektro-Unterstützung soll gegen die reine Elektro-Konkurrenz bestehen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Batterie", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Audi rüstet den RS 5 Sportback mit einem P2-Hybrid aus: 2,9-Liter-V6-Biturbo
+  (375 kW) plus 130-kW-E-Motor, quattro-Allrad und 22-kWh-Batterie. Der Mix aus
+  Verbrenner-Performance und Elektro-Unterstützung soll gegen die reine
+  Elektro-Konkurrenz bestehen.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Batterie
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: de_available
+brands:
+  - Audi
+confidence: 0.8
 ---
 
 # Audi RS 5 Hybrid: V6-Biturbo mit E-Motor gegen Elektro-Übermacht

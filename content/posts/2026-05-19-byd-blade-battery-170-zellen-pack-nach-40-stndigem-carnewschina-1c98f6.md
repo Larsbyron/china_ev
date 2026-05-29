@@ -1,15 +1,36 @@
 ---
-title: "BYD Blade Battery: 170-Zellen-Pack nach 40-stündigem Einfrieren seziert"
+title: 'BYD Blade Battery: 170-Zellen-Pack nach 40-stündigem Einfrieren seziert'
 date: 2026-05-19T19:49:38.639Z
-description: "Ein chinesisches Teardown-Team hat BYDs zweite Generation der Blade Battery live zerlegt – mit überraschenden Einblicken in Kühlung, Klebstoffe und Reparierbarkeit. Der Akku überstand extreme Belastungen ohne Brand."
-source: "CarNewsChina"
-image: "/images/byd-blade-battery-170-zellen-pack-nach-40-stndigem-carnewschina-1c98f6.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Tesla", "Batterie", "E-Auto", "EV", "Marktanteil"]
+description: >-
+  Ein chinesisches Teardown-Team hat BYDs zweite Generation der Blade Battery
+  live zerlegt – mit überraschenden Einblicken in Kühlung, Klebstoffe und
+  Reparierbarkeit. Der Akku überstand extreme Belastungen ohne Brand.
+source: CarNewsChina
+image: >-
+  /images/byd-blade-battery-170-zellen-pack-nach-40-stndigem-carnewschina-1c98f6.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Tesla
+  - Batterie
+  - E-Auto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/byd-blade-battery-teardown-reveals-170-cell-pack-after-40-hour-freeze-team-defends-8-hour-dismantling/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/byd-blade-battery-teardown-reveals-170-cell-pack-after-40-hour-freeze-team-defends-8-hour-dismantling/
 read_time_minutes: 3
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+  - MG
+  - Tesla
+confidence: 0.9
 ---
 
 # BYD Blade Battery: 170-Zellen-Pack nach 40-stündigem Einfrieren seziert

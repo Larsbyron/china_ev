@@ -1,15 +1,31 @@
 ---
-title: "Leapmotor Star L ab 12.800 €: 1.260 km Reichweite"
+title: 'Leapmotor Star L ab 12.800 €: 1.260 km Reichweite'
 date: 2026-05-23T05:39:57.804Z
-description: "Der Leapmotor Star L ist ein sechssitziges Plug-in-Hybrid-SUV für Familien. Mit 260 km rein elektrischer Reichweite (CLTC) und 1.260 km gesamt (CLTC) soll er Langstrecken-Ängste nehmen. Marktstart in China ab sofort, Europa noch offen."
-source: "ChooseAuto"
-
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "MG", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der Leapmotor Star L ist ein sechssitziges Plug-in-Hybrid-SUV für Familien.
+  Mit 260 km rein elektrischer Reichweite (CLTC) und 1.260 km gesamt (CLTC) soll
+  er Langstrecken-Ängste nehmen. Marktstart in China ab sofort, Europa noch
+  offen.
+source: ChooseAuto
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - MG
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/910502.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/910502.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Leapmotor
+confidence: 0.9
 ---
 
 # Leapmotor Star L ab 12.800 €: 1.260 km Reichweite

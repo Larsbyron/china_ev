@@ -1,15 +1,33 @@
 ---
-title: "NIO ES9: Das Elektro-Flaggschiff startet am 27. Mai — 707 PS, 900 Volt, Steer-by-Wire"
-date: 2026-05-07T12:00:00+02:00
-description: "NIO bringt sein größtes Elektro-SUV auf den Markt: 5,37 Meter Länge, 707 PS, 900-Volt-Architektur, vollaktives Fahrwerk mit Steer-by-Wire. Probefahrten starten am 11. Mai."
-source: "Autohome NewEnergy"
-image: "/images/ai-nio-es9-flaggschiff-marktstart-autohome-NE-1314119.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "ES9", "Elektro-SUV", "900V", "Steer-by-Wire", "China"]
+title: >-
+  NIO ES9: Das Elektro-Flaggschiff startet am 27. Mai — 707 PS, 900 Volt,
+  Steer-by-Wire
+date: 2026-05-07T10:00:00.000Z
+description: >-
+  NIO bringt sein größtes Elektro-SUV auf den Markt: 5,37 Meter Länge, 707 PS,
+  900-Volt-Architektur, vollaktives Fahrwerk mit Steer-by-Wire. Probefahrten
+  starten am 11. Mai.
+source: Autohome NewEnergy
+image: /images/ai-nio-es9-flaggschiff-marktstart-autohome-NE-1314119.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - ES9
+  - Elektro-SUV
+  - 900V
+  - Steer-by-Wire
+  - China
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314119.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314119.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - NIO
+confidence: 0.9
 ---
 
 # NIO ES9: Das Elektro-Flaggschiff startet am 27. Mai

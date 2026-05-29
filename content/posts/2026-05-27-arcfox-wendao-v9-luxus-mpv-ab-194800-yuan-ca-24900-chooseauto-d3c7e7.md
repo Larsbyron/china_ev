@@ -1,15 +1,32 @@
 ---
-title: "Arcfox WenDao V9: Luxus-MPV ab 194.800 Yuan (ca. 24.900 €)"
+title: 'Arcfox WenDao V9: Luxus-MPV ab 194.800 Yuan (ca. 24.900 €)'
 date: 2026-05-27T20:10:28.592Z
-description: "Arcfox (BAIC) bringt mit dem WenDao V9 ein 5,30 m langes Luxus-MPV auf den Markt. Der Siebensitzer mit Range-Extender startet in China ab 194.800 Yuan (ca. 24.900 €) und bietet 310 km elektrische Reichweite. Eine Europa-Einführung ist nicht geplant."
-source: "ChooseAuto"
-image: "/images/arcfox-wendao-v9-luxus-mpv-ab-194800-yuan-ca-24900-chooseauto-d3c7e7.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Arcfox (BAIC) bringt mit dem WenDao V9 ein 5,30 m langes Luxus-MPV auf den
+  Markt. Der Siebensitzer mit Range-Extender startet in China ab 194.800 Yuan
+  (ca. 24.900 €) und bietet 310 km elektrische Reichweite. Eine
+  Europa-Einführung ist nicht geplant.
+source: ChooseAuto
+image: >-
+  /images/arcfox-wendao-v9-luxus-mpv-ab-194800-yuan-ca-24900-chooseauto-d3c7e7.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/914539.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/914539.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Arcfox
+confidence: 0.95
 ---
 
 # Arcfox WenDao V9: Luxus-MPV ab 194.800 Yuan (ca. 24.900 €)

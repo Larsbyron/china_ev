@@ -1,15 +1,34 @@
 ---
-title: "Xiaomi YU7 GT: 990-PS-SUV mit Nürburgring-Rekord"
+title: 'Xiaomi YU7 GT: 990-PS-SUV mit Nürburgring-Rekord'
 date: 2026-05-20T20:10:25.905Z
-description: "Das Hochleistungs-SUV Xiaomi YU7 GT kommt am 21. Mai nach China. Fünf Farben, 990 PS, 300 km/h, 705 km CLTC-Reichweite. Preis über dem regulären YU7 (ab ca. 32.500 €)."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-990-ps-suv-mit-nrburgring-rekord-carnewschina-5aa462.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Das Hochleistungs-SUV Xiaomi YU7 GT kommt am 21. Mai nach China. Fünf Farben,
+  990 PS, 300 km/h, 705 km CLTC-Reichweite. Preis über dem regulären YU7 (ab ca.
+  32.500 €).
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-gt-990-ps-suv-mit-nrburgring-rekord-carnewschina-5aa462.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/20/xiaomi-yu7-gt-performance-suv-to-enter-china-with-five-body-color-options/"
+original_url: >-
+  https://carnewschina.com/2026/05/20/xiaomi-yu7-gt-performance-suv-to-enter-china-with-five-body-color-options/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7 GT: 990-PS-SUV mit Nürburgring-Rekord

@@ -1,15 +1,32 @@
 ---
-title: "Great Wall Menglong PLUS: 255 km E-Reichweite + Allrad ab 20.700 €"
+title: 'Great Wall Menglong PLUS: 255 km E-Reichweite + Allrad ab 20.700 €'
 date: 2026-05-17T05:50:23.628Z
-description: "Der neue Great Wall Menglong PLUS startet in China ab 20.700 €. Der vielseitige elektrifizierte Kastenwagen bietet serienmäßigen Hi4-Allradantrieb, bis zu 255 km E-Reichweite (CLTC) und Platz für 5 oder 7 Personen."
-source: "ChooseAuto"
-image: "/images/great-wall-menglong-plus-255-km-e-reichweite-allra-chooseauto-b59c02.webp"
-category: "news"
-
-tags: ["BYD", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der neue Great Wall Menglong PLUS startet in China ab 20.700 €. Der
+  vielseitige elektrifizierte Kastenwagen bietet serienmäßigen
+  Hi4-Allradantrieb, bis zu 255 km E-Reichweite (CLTC) und Platz für 5 oder 7
+  Personen.
+source: ChooseAuto
+image: >-
+  /images/great-wall-menglong-plus-255-km-e-reichweite-allra-chooseauto-b59c02.webp
+category: news
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/904702.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/904702.shtml'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Great Wall
+confidence: 0.85
 ---
 
 # Great Wall Menglong PLUS: 255 km E-Reichweite + Allrad ab 20.700 €

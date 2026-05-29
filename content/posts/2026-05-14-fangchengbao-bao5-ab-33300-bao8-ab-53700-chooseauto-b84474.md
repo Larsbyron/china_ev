@@ -1,15 +1,31 @@
 ---
-title: "Fangchengbao: Bao5 ab 33.300 €, Bao8 ab 53.700 €"
+title: 'Fangchengbao: Bao5 ab 33.300 €, Bao8 ab 53.700 €'
 date: 2026-05-14T19:31:52.761Z
-description: "BYDs Offroad-Marke Fangchengbao bringt den Bao5 Flash Edition ab 33.300 € und den Bao8 Flash Edition ab 53.700 €. Weltpremiere: Das Cloud Chassis P Ultra-Hydraulikfahrwerk erlaubt die Weiterfahrt auf drei Rädern und einen Reifenwechsel ohne Wagenheber."
-source: "ChooseAuto"
-image: "/images/fangchengbao-bao5-ab-33300-bao8-ab-53700-chooseauto-b84474.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  BYDs Offroad-Marke Fangchengbao bringt den Bao5 Flash Edition ab 33.300 € und
+  den Bao8 Flash Edition ab 53.700 €. Weltpremiere: Das Cloud Chassis P
+  Ultra-Hydraulikfahrwerk erlaubt die Weiterfahrt auf drei Rädern und einen
+  Reifenwechsel ohne Wagenheber.
+source: ChooseAuto
+image: /images/fangchengbao-bao5-ab-33300-bao8-ab-53700-chooseauto-b84474.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/902805.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/902805.shtml'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - Fangchengbao
+confidence: 0.9
 ---
 
 # Fangchengbao: Bao5 ab 33.300 €, Bao8 ab 53.700 €

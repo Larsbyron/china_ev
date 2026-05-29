@@ -1,15 +1,29 @@
 ---
-title: "Volvo China: Neuer Chef Duan Jianjun von Mercedes"
+title: 'Volvo China: Neuer Chef Duan Jianjun von Mercedes'
 date: 2026-05-16T05:29:48.373Z
-description: "Volvo Car China bekommt mit Duan Jianjun einen neuen Chef. Der Ex-Mercedes-Manager ersetzt Yuan Xiaolin, der nach 16 Jahren geht. Duan soll die Elektrifizierung vorantreiben."
-source: "Sina"
-image: "/images/volvo-china-neuer-chef-duan-jianjun-von-mercedes-sina-80c370.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "NIO"]
+description: >-
+  Volvo Car China bekommt mit Duan Jianjun einen neuen Chef. Der
+  Ex-Mercedes-Manager ersetzt Yuan Xiaolin, der nach 16 Jahren geht. Duan soll
+  die Elektrifizierung vorantreiben.
+source: Sina
+image: /images/volvo-china-neuer-chef-duan-jianjun-von-mercedes-sina-80c370.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - NIO
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Volvo
+  - Geely
+  - NIO
+confidence: 0.9
 ---
 
 # Volvo China: Neuer Chef Duan Jianjun von Mercedes

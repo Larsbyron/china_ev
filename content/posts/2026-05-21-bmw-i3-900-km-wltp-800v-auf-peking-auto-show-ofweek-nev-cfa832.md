@@ -1,15 +1,31 @@
 ---
-title: "BMW i3: 900 km WLTP, 800V auf Peking Auto Show"
+title: 'BMW i3: 900 km WLTP, 800V auf Peking Auto Show'
 date: 2026-05-21T12:48:56.050Z
-description: "Auf der Peking Auto Show 2026 starten BMW, Mercedes-Benz, Audi und Volkswagen ihre Elektro-Offensive mit rekordverdächtigen Modellen. Highlights: BMW i3 mit 900 km WLTP-Reichweite, Mercedes GLC L als BEV und PHEV sowie Audi E7X mit bis zu 751 km CLTC."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Auf der Peking Auto Show 2026 starten BMW, Mercedes-Benz, Audi und Volkswagen
+  ihre Elektro-Offensive mit rekordverdächtigen Modellen. Highlights: BMW i3 mit
+  900 km WLTP-Reichweite, Mercedes GLC L als BEV und PHEV sowie Audi E7X mit bis
+  zu 751 km CLTC.
+source: OFweek NEV
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BMW
+  - Mercedes-Benz
+  - Audi
+  - Volkswagen
+confidence: 0.9
 ---
 
 # BMW i3: 900 km WLTP, 800V auf Peking Auto Show

@@ -1,15 +1,31 @@
 ---
-title: "Li Auto L9 Livis: KI-Agent startet ab 55.000 €"
+title: 'Li Auto L9 Livis: KI-Agent startet ab 55.000 €'
 date: 2026-05-15T10:35:56.457Z
-description: "Auf der Auto China 2025 zeigen Li Auto und HIMA ihre KI-Cockpit-Strategien. Der Li L9 Livis mit StreamingClaw-Architektur startet in China ab ca. 55.000 €."
-source: "Sina"
-image: "/images/li-auto-l9-livis-ki-agent-startet-ab-55000-sina-142ae8.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Auf der Auto China 2025 zeigen Li Auto und HIMA ihre KI-Cockpit-Strategien.
+  Der Li L9 Livis mit StreamingClaw-Architektur startet in China ab ca. 55.000
+  €.
+source: Sina
+image: /images/li-auto-l9-livis-ki-agent-startet-ab-55000-sina-142ae8.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.9
 ---
 
 # Li Auto L9 Livis: KI-Agent startet ab 55.000 €

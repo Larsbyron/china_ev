@@ -1,15 +1,27 @@
 ---
-title: "Bao 8 & Bao 5: Fangchengbaos Flash-Charge-Offroader ab 33.300 €"
+title: 'Bao 8 & Bao 5: Fangchengbaos Flash-Charge-Offroader ab 33.300 €'
 date: 2026-05-14T05:49:16.667Z
-description: "BYDs Offroad-Marke Fangchengbao bringt Bao 8 und Bao 5 als Flash-Charge-Editionen. Das neue Cloud-Petal-P-Ultra-Fahrwerk ermöglicht Reifenwechsel in der Luft. Preise ab 33.300 € (China)."
-source: "ChooseAuto"
-
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Reichweite", "EV"]
+description: >-
+  BYDs Offroad-Marke Fangchengbao bringt Bao 8 und Bao 5 als
+  Flash-Charge-Editionen. Das neue Cloud-Petal-P-Ultra-Fahrwerk ermöglicht
+  Reifenwechsel in der Luft. Preise ab 33.300 € (China).
+source: ChooseAuto
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/902169.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/902169.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Bao 8 & Bao 5: Fangchengbaos Flash-Charge-Offroader ab 33.300 €

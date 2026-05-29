@@ -1,15 +1,27 @@
 ---
-title: "Trumpchi Yue 7: 38.000 Nm/° Karosserie für Stadt und Gelände"
+title: 'Trumpchi Yue 7: 38.000 Nm/° Karosserie für Stadt und Gelände'
 date: 2026-05-25T13:03:50.333Z
-description: "Der Trumpchi Yue 7 (传祺越7) präsentiert mit der „Starship-Karosserie“ eine neuartige Mischbauweise. 38.000 Nm/° Torsionssteifigkeit und 12,2 Tonnen Dachlast sollen die Kluft zwischen SUV-Komfort und Geländetauglichkeit schließen. Eine Europa-Einführung ist nicht geplant."
-source: "ChooseAuto"
-image: "/images/trumpchi-yue-7-38000-nm-karosserie-fr-stadt-und-ge-chooseauto-6472c3.webp"
-category: "news"
-
-tags: ["Batterie"]
+description: >-
+  Der Trumpchi Yue 7 (传祺越7) präsentiert mit der „Starship-Karosserie“ eine
+  neuartige Mischbauweise. 38.000 Nm/° Torsionssteifigkeit und 12,2 Tonnen
+  Dachlast sollen die Kluft zwischen SUV-Komfort und Geländetauglichkeit
+  schließen. Eine Europa-Einführung ist nicht geplant.
+source: ChooseAuto
+image: >-
+  /images/trumpchi-yue-7-38000-nm-karosserie-fr-stadt-und-ge-chooseauto-6472c3.webp
+category: news
+tags:
+  - Batterie
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/912501.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/912501.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Trumpchi
+confidence: 0.9
 ---
 
 # Trumpchi Yue 7: 38.000 Nm/° Karosserie für Stadt und Gelände

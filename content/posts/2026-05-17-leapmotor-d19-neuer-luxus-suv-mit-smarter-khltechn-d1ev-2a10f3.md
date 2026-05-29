@@ -1,15 +1,27 @@
 ---
-title: "Leapmotor D19: Neuer Luxus-SUV mit smarter Kühltechnik"
+title: 'Leapmotor D19: Neuer Luxus-SUV mit smarter Kühltechnik'
 date: 2026-05-17T05:45:24.993Z
-description: "Leapmotor bringt den D19 als vollelektrischen und Range-Extender-Flaggschiff-SUV auf den Markt. Ein spezielles Kühlmodul von Marelli sichert Leistung und Effizienz unter allen Bedingungen."
-source: "D1EV"
-image: "/images/leapmotor-d19-neuer-luxus-suv-mit-smarter-khltechn-d1ev-2a10f3.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "EV"]
+description: >-
+  Leapmotor bringt den D19 als vollelektrischen und
+  Range-Extender-Flaggschiff-SUV auf den Markt. Ein spezielles Kühlmodul von
+  Marelli sichert Leistung und Effizienz unter allen Bedingungen.
+source: D1EV
+image: /images/leapmotor-d19-neuer-luxus-suv-mit-smarter-khltechn-d1ev-2a10f3.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299285"
+original_url: 'https://www.d1ev.com/news/qiye/299285'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Leapmotor
+confidence: 0.9
 ---
 
 # Leapmotor D19: Neuer Luxus-SUV mit smarter Kühltechnik

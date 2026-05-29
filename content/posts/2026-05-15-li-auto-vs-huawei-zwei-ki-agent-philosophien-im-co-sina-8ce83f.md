@@ -1,15 +1,29 @@
 ---
-title: "Li Auto vs. Huawei: Zwei KI-Agent-Philosophien im Cockpit"
+title: 'Li Auto vs. Huawei: Zwei KI-Agent-Philosophien im Cockpit'
 date: 2026-05-15T19:26:19.742Z
-description: "Auf der Peking Auto Show zeigten Li Auto und Huawei konkurrierende KI-Architekturen für das intelligente Cockpit. Während Huawei auf eine Cloud-zentrierte Plattform setzt, verfolgt Li Auto einen End-to-End-Ansatz mit Fokus auf physische Wahrnehmung."
-source: "Sina"
-image: "/images/li-auto-vs-huawei-zwei-ki-agent-philosophien-im-co-sina-8ce83f.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "EV"]
+description: >-
+  Auf der Peking Auto Show zeigten Li Auto und Huawei konkurrierende
+  KI-Architekturen für das intelligente Cockpit. Während Huawei auf eine
+  Cloud-zentrierte Plattform setzt, verfolgt Li Auto einen End-to-End-Ansatz mit
+  Fokus auf physische Wahrnehmung.
+source: Sina
+image: /images/li-auto-vs-huawei-zwei-ki-agent-philosophien-im-co-sina-8ce83f.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.9
 ---
 
 # Li Auto vs. Huawei: Zwei KI-Agent-Philosophien im Cockpit

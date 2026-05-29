@@ -1,15 +1,31 @@
 ---
-title: "VW ID. ERA 9X: China-Flaggschiff ab 42.200 € startet"
+title: 'VW ID. ERA 9X: China-Flaggschiff ab 42.200 € startet'
 date: 2026-05-14T12:00:38.218Z
-description: "Volkswagen bringt mit dem ID. ERA 9X ein D-Segment-SUV für 32,98–37,98 Mio. Yuan (ca. 42.200–48.600 €) in China. Der 5,20 Meter lange EREV soll gegen Nio, Li Auto und Huawei antreten."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "Li Auto", "Batterie", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  Volkswagen bringt mit dem ID. ERA 9X ein D-Segment-SUV für 32,98–37,98 Mio.
+  Yuan (ca. 42.200–48.600 €) in China. Der 5,20 Meter lange EREV soll gegen Nio,
+  Li Auto und Huawei antreten.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - VW
+  - NIO
+  - Li Auto
+confidence: 0.9
 ---
 
 # VW ID. ERA 9X: China-Flaggschiff ab 42.200 € startet

@@ -1,15 +1,32 @@
 ---
-title: "Dongfeng Eπ M8: 5-Meter-SUV mit Huawei-ADS und 510 km WLTP debütiert"
+title: 'Dongfeng Eπ M8: 5-Meter-SUV mit Huawei-ADS und 510 km WLTP debütiert'
 date: 2026-05-25T06:25:33.643Z
-description: "Der Dongfeng Eπ M8 feiert seine Premiere als erstes Gemeinschaftsmodell mit Huawei. Das 5-Meter-SUV bietet sechs Sitze, 510 km WLTP-Reichweite (BEV) und modernste Fahrassistenz. Marktstart in China im Herbst 2025."
-source: "Autohome NewEnergy"
-image: "/images/dongfeng-e-m8-5-meter-suv-mit-huawei-ads-und-510-k-autohome-newenergy-845acf.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der Dongfeng Eπ M8 feiert seine Premiere als erstes Gemeinschaftsmodell mit
+  Huawei. Das 5-Meter-SUV bietet sechs Sitze, 510 km WLTP-Reichweite (BEV) und
+  modernste Fahrassistenz. Marktstart in China im Herbst 2025.
+source: Autohome NewEnergy
+image: >-
+  /images/dongfeng-e-m8-5-meter-suv-mit-huawei-ads-und-510-k-autohome-newenergy-845acf.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314459.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314459.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Dongfeng
+  - Huawei
+confidence: 0.95
 ---
 
 # Dongfeng Eπ M8: 5-Meter-SUV mit Huawei-ADS und 510 km WLTP debütiert

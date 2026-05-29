@@ -1,15 +1,32 @@
 ---
-title: "NIO warnt: Super-Roadshow neuer Wettbewerber birgt Risiken"
+title: 'NIO warnt: Super-Roadshow neuer Wettbewerber birgt Risiken'
 date: 2026-05-21T12:52:10.590Z
-description: "NIO-CEO William Li kritisiert übertriebene Ankündigungen von Newcomern. Statt 0,9-Sekunden-Sprint und Billionen-Bewertung zähle solide Arbeit und echte Auslieferungen."
-source: "Sina"
-image: "/images/nio-warnt-super-roadshow-neuer-wettbewerber-birgt-sina-d64e47.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Tesla", "Batterie", "EV"]
+description: >-
+  NIO-CEO William Li kritisiert übertriebene Ankündigungen von Newcomern. Statt
+  0,9-Sekunden-Sprint und Billionen-Bewertung zähle solide Arbeit und echte
+  Auslieferungen.
+source: Sina
+image: /images/nio-warnt-super-roadshow-neuer-wettbewerber-birgt-sina-d64e47.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - Tesla
+  - Batterie
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml
 read_time_minutes: 3
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: global_industry
+brands:
+  - NIO
+  - Dreame
+  - Tesla
+confidence: 0.85
 ---
 
 # NIO warnt: Super-Roadshow neuer Wettbewerber birgt Risiken

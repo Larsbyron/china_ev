@@ -1,15 +1,28 @@
 ---
-title: "VW ID. ERA 9X: E-SUV ab 42.200 € – einsamer Kämpfer in China"
+title: 'VW ID. ERA 9X: E-SUV ab 42.200 € – einsamer Kämpfer in China'
 date: 2026-05-14T19:40:08.505Z
-description: "Volkswagen startet Vorverkauf des ID. ERA 9X in China. Der 5,2-Meter-SUV kostet ab 329.800 Yuan (ca. 42.200 €) und unterbietet damit Konkurrenten wie Li Auto L9 und AITO M9 deutlich."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "Li Auto", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  Volkswagen startet Vorverkauf des ID. ERA 9X in China. Der 5,2-Meter-SUV
+  kostet ab 329.800 Yuan (ca. 42.200 €) und unterbietet damit Konkurrenten wie
+  Li Auto L9 und AITO M9 deutlich.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - Li Auto
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Volkswagen
+confidence: 0.95
 ---
 
 # VW ID. ERA 9X: E-SUV ab 42.200 € – einsamer Kämpfer in China

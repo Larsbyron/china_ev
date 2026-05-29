@@ -1,15 +1,31 @@
 ---
-title: "Stellantis E-Car: Billig-Stromer mit Leapmotor-Technik ab 2028"
+title: 'Stellantis E-Car: Billig-Stromer mit Leapmotor-Technik ab 2028'
 date: 2026-05-19T19:54:18.760Z
-description: "Stellantis startet das E-Car-Projekt für einen Elektro-Kleinwagen ab 15.000 €. Ab 2028 in Italien gebaut, setzt der Konzern auf Technik von Partner Leapmotor (零跑), um den Markt für günstige Stromer zu retten."
-source: "D1EV"
-image: "/images/stellantis-e-car-billig-stromer-mit-leapmotor-tech-d1ev-4996a8.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "Batterie", "EU-Import", "E-Auto", "EV"]
+description: >-
+  Stellantis startet das E-Car-Projekt für einen Elektro-Kleinwagen ab 15.000 €.
+  Ab 2028 in Italien gebaut, setzt der Konzern auf Technik von Partner Leapmotor
+  (零跑), um den Markt für günstige Stromer zu retten.
+source: D1EV
+image: /images/stellantis-e-car-billig-stromer-mit-leapmotor-tech-d1ev-4996a8.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - Batterie
+  - EU-Import
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299670"
+original_url: 'https://www.d1ev.com/news/shichang/299670'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: de_available
+brands:
+  - Leapmotor
+  - Stellantis
+confidence: 0.9
 ---
 
 # Stellantis E-Car: Billig-Stromer mit Leapmotor-Technik ab 2028

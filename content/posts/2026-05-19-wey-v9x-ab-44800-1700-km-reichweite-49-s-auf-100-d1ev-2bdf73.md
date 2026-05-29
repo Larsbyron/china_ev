@@ -1,15 +1,27 @@
 ---
-title: "WEY V9X ab 44.800 €: 1700 km Reichweite, 4,9 s auf 100"
+title: 'WEY V9X ab 44.800 €: 1700 km Reichweite, 4,9 s auf 100'
 date: 2026-05-19T06:07:56.257Z
-description: "Der neue WEY V9X startet in China ab 34,98万元 (ca. 44.800 €). Der sechssitzige Flaggschiff-SUV bietet 1700 km CLTC-Reichweite und 4,9 s Sprint. Ein Europa-Start ist nicht geplant."
-source: "D1EV"
-image: "/images/wey-v9x-ab-44800-1700-km-reichweite-49-s-auf-100-d1ev-2bdf73.webp"
-category: "news"
-
-tags: ["Batterie", "Reichweite"]
+description: >-
+  Der neue WEY V9X startet in China ab 34,98万元 (ca. 44.800 €). Der sechssitzige
+  Flaggschiff-SUV bietet 1700 km CLTC-Reichweite und 4,9 s Sprint. Ein
+  Europa-Start ist nicht geplant.
+source: D1EV
+image: /images/wey-v9x-ab-44800-1700-km-reichweite-49-s-auf-100-d1ev-2bdf73.webp
+category: news
+tags:
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299553"
+original_url: 'https://www.d1ev.com/news/qiye/299553'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - WEY
+confidence: 0.95
 ---
 
 # WEY V9X ab 44.800 €: 1700 km Reichweite, 4,9 s auf 100

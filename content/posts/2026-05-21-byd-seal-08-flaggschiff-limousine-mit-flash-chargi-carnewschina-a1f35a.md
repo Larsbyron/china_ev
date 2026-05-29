@@ -1,15 +1,35 @@
 ---
-title: "BYD Seal 08: Flaggschiff-Limousine mit Flash-Charging und Luftfahrwerk"
+title: 'BYD Seal 08: Flaggschiff-Limousine mit Flash-Charging und Luftfahrwerk'
 date: 2026-05-21T19:51:27.416Z
-description: "BYD (比亚迪) enthüllt den Seal 08, eine große Flaggschiff-Limousine mit 900 km Reichweite (CLTC) und Flash-Charging. Der Start in China erfolgt im zweiten Quartal 2026. Der Wagen konkurriert mit Mercedes EQS und BMW i7."
-source: "CarNewsChina"
-image: "/images/byd-seal-08-flaggschiff-limousine-mit-flash-chargi-carnewschina-a1f35a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Reichweite", "Ladestation", "Elektroauto", "EV"]
+description: >-
+  BYD (比亚迪) enthüllt den Seal 08, eine große Flaggschiff-Limousine mit 900 km
+  Reichweite (CLTC) und Flash-Charging. Der Start in China erfolgt im zweiten
+  Quartal 2026. Der Wagen konkurriert mit Mercedes EQS und BMW i7.
+source: CarNewsChina
+image: >-
+  /images/byd-seal-08-flaggschiff-limousine-mit-flash-chargi-carnewschina-a1f35a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Seal 08: Flaggschiff-Limousine mit Flash-Charging und Luftfahrwerk

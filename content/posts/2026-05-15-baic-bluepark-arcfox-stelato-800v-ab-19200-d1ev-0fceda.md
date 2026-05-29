@@ -1,15 +1,31 @@
 ---
-title: "BAIC BluePark: Arcfox & Stelato – 800V ab 19.200 €"
+title: 'BAIC BluePark: Arcfox & Stelato – 800V ab 19.200 €'
 date: 2026-05-15T10:33:07.573Z
-description: "Der chinesische Hersteller BAIC BluePark setzt auf zwei Marken: Arcfox für die Mittelklasse und Stelato für die Luxusklasse. Die 800-Volt-Architektur von Arcfox ist bereits ab 150.000 Yuan (ca. 19.200 €) erhältlich."
-source: "D1EV"
-image: "/images/baic-bluepark-arcfox-stelato-800v-ab-19200-d1ev-0fceda.webp"
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Der chinesische Hersteller BAIC BluePark setzt auf zwei Marken: Arcfox für die
+  Mittelklasse und Stelato für die Luxusklasse. Die 800-Volt-Architektur von
+  Arcfox ist bereits ab 150.000 Yuan (ca. 19.200 €) erhältlich.
+source: D1EV
+image: /images/baic-bluepark-arcfox-stelato-800v-ab-19200-d1ev-0fceda.webp
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299271"
+original_url: 'https://www.d1ev.com/news/shichang/299271'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BAIC BluePark
+  - Arcfox
+  - Stelato
+confidence: 0.9
 ---
 
 # BAIC BluePark: Arcfox & Stelato – 800V ab 19.200 €

@@ -1,15 +1,33 @@
 ---
-title: "Li Auto L9 Livis startet: 1.100 km CLTC, KI-Agent ab 58.900 €"
+title: 'Li Auto L9 Livis startet: 1.100 km CLTC, KI-Agent ab 58.900 €'
 date: 2026-05-17T05:48:19.638Z
-description: "Li Auto bringt den L9 Livis mit intelligentem Cockpit-Agenten auf den Markt. Das EREV-Flaggschiff kostet in China umgerechnet 58.900 € und soll ab Juni 2025 ausgeliefert werden. Der KI-Wettstreit mit Huaweis HIMA-Allianz spitzt sich zu."
-source: "Sina"
-image: "/images/li-auto-l9-livis-startet-1100-km-cltc-ki-agent-ab-sina-45f75a.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Li Auto bringt den L9 Livis mit intelligentem Cockpit-Agenten auf den Markt.
+  Das EREV-Flaggschiff kostet in China umgerechnet 58.900 € und soll ab Juni
+  2025 ausgeliefert werden. Der KI-Wettstreit mit Huaweis HIMA-Allianz spitzt
+  sich zu.
+source: Sina
+image: /images/li-auto-l9-livis-startet-1100-km-cltc-ki-agent-ab-sina-45f75a.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.95
 ---
 
 # Li Auto L9 Livis startet: 1.100 km CLTC, KI-Agent ab 58.900 €

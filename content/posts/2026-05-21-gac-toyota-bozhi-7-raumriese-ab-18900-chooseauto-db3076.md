@@ -1,15 +1,27 @@
 ---
-title: "GAC Toyota BoZhi 7: Raumriese ab 18.900 €"
+title: 'GAC Toyota BoZhi 7: Raumriese ab 18.900 €'
 date: 2026-05-21T06:26:19.222Z
-description: "Der neue GAC Toyota BoZhi 7 startet in China ab 14,78万元 (ca. 18.900 €). Mit 1,94 m Innenraumlänge, Nappa-Leder und Lexus-inspiriertem Komfort will er die Mittelklasse neu definieren. Ein Marktstart in Europa ist nicht absehbar."
-source: "ChooseAuto"
-image: "/images/gac-toyota-bozhi-7-raumriese-ab-18900-chooseauto-db3076.webp"
-category: "news"
-
-tags: ["Batterie", "EV"]
+description: >-
+  Der neue GAC Toyota BoZhi 7 startet in China ab 14,78万元 (ca. 18.900 €). Mit
+  1,94 m Innenraumlänge, Nappa-Leder und Lexus-inspiriertem Komfort will er die
+  Mittelklasse neu definieren. Ein Marktstart in Europa ist nicht absehbar.
+source: ChooseAuto
+image: /images/gac-toyota-bozhi-7-raumriese-ab-18900-chooseauto-db3076.webp
+category: news
+tags:
+  - Batterie
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/908268.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/908268.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - GAC
+  - Toyota
+confidence: 0.95
 ---
 
 # GAC Toyota BoZhi 7: Raumriese ab 18.900 €

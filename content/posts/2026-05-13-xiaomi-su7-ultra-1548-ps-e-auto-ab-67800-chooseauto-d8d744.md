@@ -1,15 +1,33 @@
 ---
-title: "Xiaomi SU7 Ultra: 1.548-PS-E-Auto ab 67.800 €"
+title: 'Xiaomi SU7 Ultra: 1.548-PS-E-Auto ab 67.800 €'
 date: 2026-05-13T23:33:41.173Z
-description: "Mit 1.548 PS, 800-Volt-Architektur und einem Preis von 67.800 € tritt Xiaomis Sportlimousine gegen Porsche Taycan und Tesla Model S Plaid an. Der Marktstart in Europa bleibt ungewiss."
-source: "ChooseAuto"
-image: "/images/xiaomi-su7-ultra-1548-ps-e-auto-ab-67800-chooseauto-d8d744.webp"
-category: "news"
-
-tags: ["NIO", "Xiaomi SU", "MG", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  Mit 1.548 PS, 800-Volt-Architektur und einem Preis von 67.800 € tritt Xiaomis
+  Sportlimousine gegen Porsche Taycan und Tesla Model S Plaid an. Der Marktstart
+  in Europa bleibt ungewiss.
+source: ChooseAuto
+image: /images/xiaomi-su7-ultra-1548-ps-e-auto-ab-67800-chooseauto-d8d744.webp
+category: news
+tags:
+  - NIO
+  - Xiaomi SU
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/901870.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/901870.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - Tesla
+confidence: 0.9
 ---
 
 # Xiaomi SU7 Ultra: 1.548-PS-E-Auto ab 67.800 €

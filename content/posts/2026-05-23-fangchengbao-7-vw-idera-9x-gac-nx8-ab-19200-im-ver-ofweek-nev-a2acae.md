@@ -1,15 +1,33 @@
 ---
-title: "Fangchengbao 7, VW ID.ERA 9X, GAC NX8: Ab 19.200 € im Vergleich"
+title: 'Fangchengbao 7, VW ID.ERA 9X, GAC NX8: Ab 19.200 € im Vergleich'
 date: 2026-05-23T05:51:39.553Z
-description: "Drei SUV aus China im großen Praxistest: Fangchengbao 7, VW ID.ERA 9X und GAC NX8. Ein detaillierter Vergleich der chinesischen Plattform Dianchetong zeigt überraschende Stärken beim Preis-Leistungs-Verhältnis – alle drei kosten zwischen 19.200 und 44.800 Euro."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "Batterie", "Reichweite", "Zoll", "E-Auto", "EV"]
+description: >-
+  Drei SUV aus China im großen Praxistest: Fangchengbao 7, VW ID.ERA 9X und GAC
+  NX8. Ein detaillierter Vergleich der chinesischen Plattform Dianchetong zeigt
+  überraschende Stärken beim Preis-Leistungs-Verhältnis – alle drei kosten
+  zwischen 19.200 und 44.800 Euro.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Zoll
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+  - VW
+  - GAC
+confidence: 0.85
 ---
 
 # Fangchengbao 7, VW ID.ERA 9X, GAC NX8: Ab 19.200 € im Vergleich

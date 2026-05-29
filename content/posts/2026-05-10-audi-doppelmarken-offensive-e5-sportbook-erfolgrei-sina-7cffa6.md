@@ -1,15 +1,25 @@
 ---
-title: "Audi Doppelmarken-Offensive: E5 Sportbook erfolgreich, E7X kommt"
+title: 'Audi Doppelmarken-Offensive: E5 Sportbook erfolgreich, E7X kommt'
 date: 2026-05-10T20:40:03.466Z
-description: "Audi fährt in China zweigleisig: Neben den klassischen Vier Ringen etabliert sich die Marke AUDI mit eigenständigem Logo. Der E5 Sportback ist bereits ein Bestseller, der SUV E7X startet im Mai in die Vorbestellung."
-source: "Sina"
-image: "/images/audi-doppelmarken-offensive-e5-sportbook-erfolgrei-sina-7cffa6.webp"
-category: "news"
-
-tags: ["E-Auto"]
+description: >-
+  Audi fährt in China zweigleisig: Neben den klassischen Vier Ringen etabliert
+  sich die Marke AUDI mit eigenständigem Logo. Der E5 Sportback ist bereits ein
+  Bestseller, der SUV E7X startet im Mai in die Vorbestellung.
+source: Sina
+image: /images/audi-doppelmarken-offensive-e5-sportbook-erfolgrei-sina-7cffa6.webp
+category: news
+tags:
+  - E-Auto
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-04-29/detail-inhwenax0867555.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-04-29/detail-inhwenax0867555.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Audi
+confidence: 0.95
 ---
 
 # Audi Doppelmarken-Offensive: E5 Sportbook erfolgreich, E7X kommt

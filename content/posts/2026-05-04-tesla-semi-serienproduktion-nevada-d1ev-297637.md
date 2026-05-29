@@ -1,15 +1,30 @@
 ---
-title: "Tesla Semi: Erster Serien-LKW rollt vom Band in Nevada"
-date: 2026-05-04T07:00:00
-description: "Tesla hat im neuen Werk in Nevada den ersten Semi aus der Serienfertigung produziert — nach fast zehn Entwicklungsjahren geht der schwere Elektrolaster in die Großserienproduktion."
-source: "D1EV"
-image: "/images/ai-tesla-semi-serienproduktion-nevada-d1ev-297637.webp"
-category: "news"
-brand: "Tesla"
-tags: ["Tesla Semi", "Elektro-LKW", "Nevada Gigafactory", "Megacharger", "4680"]
+title: 'Tesla Semi: Erster Serien-LKW rollt vom Band in Nevada'
+date: 2026-05-04T07:00:00.000Z
+description: >-
+  Tesla hat im neuen Werk in Nevada den ersten Semi aus der Serienfertigung
+  produziert — nach fast zehn Entwicklungsjahren geht der schwere Elektrolaster
+  in die Großserienproduktion.
+source: D1EV
+image: /images/ai-tesla-semi-serienproduktion-nevada-d1ev-297637.webp
+category: news
+brand: Tesla
+tags:
+  - Tesla Semi
+  - Elektro-LKW
+  - Nevada Gigafactory
+  - Megacharger
+  - '4680'
 draft: false
-original_url: "https://www.d1ev.com/carnews/xinche/297637"
+original_url: 'https://www.d1ev.com/carnews/xinche/297637'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - Tesla
+confidence: 0.9
 ---
 
 Ein Meilenstein für Tesla und die Elektrifizierung des Schwerlastverkehrs: Der erste Tesla Semi aus der neuen Hochproduktionslinie im Werk Nevada ist vom Band gelaufen. Tesla bestätigte dies mit einem Foto des Lastwagens über den offiziellen Semi-Account auf der Plattform X.

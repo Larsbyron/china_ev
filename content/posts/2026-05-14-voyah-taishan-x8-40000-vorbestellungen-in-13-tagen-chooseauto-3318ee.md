@@ -1,15 +1,27 @@
 ---
-title: "Voyah Taishan X8: 40.000 Vorbestellungen in 13 Tagen"
+title: 'Voyah Taishan X8: 40.000 Vorbestellungen in 13 Tagen'
 date: 2026-05-14T11:50:40.552Z
-description: "Der neue Voyah Taishan X8 (岚图泰山X8) erzielte in nur 13 Tagen über 40.000 Vorbestellungen. Das große Fünf-Sitzer-SUV bietet 6,1 m² Innenraum, Huawei-Infotainment und 5C-Schnellladung. Der offizielle Marktstart in China ist am 22. Mai."
-source: "ChooseAuto"
-image: "/images/voyah-taishan-x8-40000-vorbestellungen-in-13-tagen-chooseauto-3318ee.webp"
-category: "news"
-
-tags: ["Zoll", "EV"]
+description: >-
+  Der neue Voyah Taishan X8 (岚图泰山X8) erzielte in nur 13 Tagen über 40.000
+  Vorbestellungen. Das große Fünf-Sitzer-SUV bietet 6,1 m² Innenraum,
+  Huawei-Infotainment und 5C-Schnellladung. Der offizielle Marktstart in China
+  ist am 22. Mai.
+source: ChooseAuto
+image: >-
+  /images/voyah-taishan-x8-40000-vorbestellungen-in-13-tagen-chooseauto-3318ee.webp
+category: news
+tags:
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/902610.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/902610.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Voyah
+confidence: 0.9
 ---
 
 # Voyah Taishan X8: 40.000 Vorbestellungen in 13 Tagen

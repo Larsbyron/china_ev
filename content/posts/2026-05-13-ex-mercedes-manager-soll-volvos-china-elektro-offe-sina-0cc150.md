@@ -1,15 +1,28 @@
 ---
-title: "Ex-Mercedes-Manager soll Volvos China-Elektro-Offensive führen"
+title: Ex-Mercedes-Manager soll Volvos China-Elektro-Offensive führen
 date: 2026-05-13T23:32:58.010Z
-description: "Volvo ernennt Duan Jianjun zum neuen China-Chef. Der Ex-Mercedes-Manager soll die Elektro-Offensive im umkämpften chinesischen Markt vorantreiben. Vorgänger Yuan Xiaolin geht nach 16 Jahren."
-source: "Sina"
-image: "/images/ex-mercedes-manager-soll-volvos-china-elektro-offe-sina-0cc150.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely"]
+description: >-
+  Volvo ernennt Duan Jianjun zum neuen China-Chef. Der Ex-Mercedes-Manager soll
+  die Elektro-Offensive im umkämpften chinesischen Markt vorantreiben. Vorgänger
+  Yuan Xiaolin geht nach 16 Jahren.
+source: Sina
+image: /images/ex-mercedes-manager-soll-volvos-china-elektro-offe-sina-0cc150.webp
+category: news
+brand: Geely
+tags:
+  - Geely
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Volvo
+  - Geely
+confidence: 0.9
 ---
 
 # Ex-Mercedes-Manager soll Volvos China-Elektro-Offensive führen

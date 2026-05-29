@@ -1,13 +1,30 @@
 ---
-title: "Hyundai IONIQ V: Das Serienfahrzeug mit Konzeptcar-Optik"
+title: 'Hyundai IONIQ V: Das Serienfahrzeug mit Konzeptcar-Optik'
 date: 2026-04-24T13:00:00.000Z
-description: "Hyundai hat auf der Auto China 2026 in Peking den IONIQ V enthüllt – ein eleganter elektrischer Liftback mit über 600 km CLTC-Reichweite und 800-Volt-Architektur."
-source: "Electrek"
-image: "/images/ai-hyundai-ioniq-v-ein-elektrischer-viertueriger-liftback-electrek-f3c623.webp"
-category: "news"
-tags: ["Hyundai", "IONIQ V", "Elektroauto", "Auto China", "800V"]
+description: >-
+  Hyundai hat auf der Auto China 2026 in Peking den IONIQ V enthüllt – ein
+  eleganter elektrischer Liftback mit über 600 km CLTC-Reichweite und
+  800-Volt-Architektur.
+source: Electrek
+image: >-
+  /images/ai-hyundai-ioniq-v-ein-elektrischer-viertueriger-liftback-electrek-f3c623.webp
+category: news
+tags:
+  - Hyundai
+  - IONIQ V
+  - Elektroauto
+  - Auto China
+  - 800V
 draft: false
-original_url: "https://electrek.co/2026/04/24/hyundai-ioniq-v-china-600-km-range-auto-china-2026/"
+original_url: >-
+  https://electrek.co/2026/04/24/hyundai-ioniq-v-china-600-km-range-auto-china-2026/
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Hyundai
+confidence: 0.9
 ---
 
 # Hyundai IONIQ V: Serienversion des Venus-Konzepts startet in China

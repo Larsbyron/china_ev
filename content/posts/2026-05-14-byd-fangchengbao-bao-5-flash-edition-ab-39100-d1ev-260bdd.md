@@ -1,15 +1,28 @@
 ---
-title: "BYD Fangchengbao Bao 5 Flash Edition: ab 39.100 €"
+title: 'BYD Fangchengbao Bao 5 Flash Edition: ab 39.100 €'
 date: 2026-05-14T12:05:10.321Z
-description: "BYDs Offroad-Marke Fangchengbao bringt den Bao 5 und Bao 8 als Flash Edition. Die Modelle kombinieren Hydraulik-Federung, schnelles Laden und starke Hybrid-Antriebe – ab 39.100 € in China."
-source: "D1EV"
-image: "/images/byd-fangchengbao-bao-5-flash-edition-ab-39100-d1ev-260bdd.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite"]
+description: >-
+  BYDs Offroad-Marke Fangchengbao bringt den Bao 5 und Bao 8 als Flash Edition.
+  Die Modelle kombinieren Hydraulik-Federung, schnelles Laden und starke
+  Hybrid-Antriebe – ab 39.100 € in China.
+source: D1EV
+image: /images/byd-fangchengbao-bao-5-flash-edition-ab-39100-d1ev-260bdd.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299053"
+original_url: 'https://www.d1ev.com/news/shichang/299053'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Fangchengbao Bao 5 Flash Edition: ab 39.100 €

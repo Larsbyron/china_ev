@@ -1,11 +1,24 @@
 ---
-title: "Top 5 chinesische E-Autos diese Woche"
+title: Top 5 chinesische E-Autos diese Woche
 date: 2026-05-22T11:06:07.503Z
-description: "Die fünf wichtigsten chinesischen E-Auto-Nachrichten dieser Woche"
-source: "Weekly"
-category: "weekly"
-tags: ["Top 5", "China", "E-Auto"]
+description: Die fünf wichtigsten chinesischen E-Auto-Nachrichten dieser Woche
+source: Weekly
+category: weekly
+tags:
+  - Top 5
+  - China
+  - E-Auto
 draft: false
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Beijing Off-Road
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Top 5 chinesische E-Autos diese Woche

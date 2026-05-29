@@ -1,15 +1,28 @@
 ---
-title: "Xiaomi YU7: 2-Stunden-Lieferung für Bestand – Europa-Start rückt näher"
+title: 'Xiaomi YU7: 2-Stunden-Lieferung für Bestand – Europa-Start rückt näher'
 date: 2026-05-14T00:04:47.249Z
-description: "Xiaomi verkürzt Lieferzeiten für den YU7 drastisch: Bestandsfahrzeuge sind in zwei Stunden abholbereit. Das Münchner Entwicklungszentrum macht einen Europa-Start wahrscheinlicher."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-2-stunden-lieferung-fr-bestand-europa-s-carnewschina-d476a0.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi"]
+description: >-
+  Xiaomi verkürzt Lieferzeiten für den YU7 drastisch: Bestandsfahrzeuge sind in
+  zwei Stunden abholbereit. Das Münchner Entwicklungszentrum macht einen
+  Europa-Start wahrscheinlicher.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-2-stunden-lieferung-fr-bestand-europa-s-carnewschina-d476a0.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
 draft: false
-original_url: "https://carnewschina.com/2026/05/13/xiaomi-yu7-waits-drop-from-33-56-weeks-to-2-hour-delivery-for-some-stock-suvs/"
+original_url: >-
+  https://carnewschina.com/2026/05/13/xiaomi-yu7-waits-drop-from-33-56-weeks-to-2-hour-delivery-for-some-stock-suvs/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: eu_planned
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi YU7: 2-Stunden-Lieferung für Bestand – Europa-Start rückt näher

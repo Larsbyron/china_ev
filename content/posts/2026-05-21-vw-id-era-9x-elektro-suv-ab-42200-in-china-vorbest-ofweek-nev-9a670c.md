@@ -1,15 +1,36 @@
 ---
-title: "VW ID. ERA 9X: Elektro-SUV ab 42.200 € in China vorbestellbar"
+title: 'VW ID. ERA 9X: Elektro-SUV ab 42.200 € in China vorbestellbar'
 date: 2026-05-21T20:02:12.658Z
-description: "Volkswagen startet den Vorverkauf seines Elektro-Flaggschiffs ID. ERA 9X in China zu Preisen ab 32,98万元 (ca. 42.200 €). Das 5,2 Meter lange SUV bietet 800-Volt-Technik, Hinterachslenkung und Lidar serienmäßig – und unterbietet chinesische Premium-Konkurrenten um tausende Euro."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Volkswagen startet den Vorverkauf seines Elektro-Flaggschiffs ID. ERA 9X in
+  China zu Preisen ab 32,98万元 (ca. 42.200 €). Das 5,2 Meter lange SUV bietet
+  800-Volt-Technik, Hinterachslenkung und Lidar serienmäßig – und unterbietet
+  chinesische Premium-Konkurrenten um tausende Euro.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Volkswagen
+  - BYD
+  - NIO
+  - XPeng
+  - Li Auto
+confidence: 0.9
 ---
 
 # VW ID. ERA 9X: Elektro-SUV ab 42.200 € in China vorbestellbar

@@ -1,15 +1,33 @@
 ---
-title: "VW ID. ERA 9X: Chinas neues EREV-Flaggschiff ab 42.200 €"
+title: 'VW ID. ERA 9X: Chinas neues EREV-Flaggschiff ab 42.200 €'
 date: 2026-05-15T10:58:12.128Z
-description: "Volkswagen startet in China den Vorverkauf des ID. ERA 9X – ein 5,2 Meter langes EREV-SUV ab 329.800 Yuan (ca. 42.200 €). Mit 406 km CLTC-Reichweite, 800-Volt-Architektur und Lidar soll er gegen NIO, Li Auto und AITO bestehen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Reichweite", "EV"]
+description: >-
+  Volkswagen startet in China den Vorverkauf des ID. ERA 9X – ein 5,2 Meter
+  langes EREV-SUV ab 329.800 Yuan (ca. 42.200 €). Mit 406 km CLTC-Reichweite,
+  800-Volt-Architektur und Lidar soll er gegen NIO, Li Auto und AITO bestehen.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - VW
+  - NIO
+  - Li Auto
+  - AITO
+confidence: 0.95
 ---
 
 # VW ID. ERA 9X: Chinas neues EREV-Flaggschiff ab 42.200 €

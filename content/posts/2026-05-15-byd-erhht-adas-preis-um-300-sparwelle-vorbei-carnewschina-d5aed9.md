@@ -1,15 +1,42 @@
 ---
-title: "BYD erhöht ADAS-Preis um 300 €: Sparwelle vorbei?"
+title: 'BYD erhöht ADAS-Preis um 300 €: Sparwelle vorbei?'
 date: 2026-05-15T10:32:33.740Z
-description: "Über 15 Hersteller wie BYD, Xiaomi und Volkswagen erhöhen in China die Preise für E-Autos und Optionen. Grund: explodierende Rohstoff- und Chipkosten. BYD verlangt ab Mai 2025 rund 300 € mehr für sein Lidar-Fahrassistenzsystem."
-source: "CarNewsChina"
-image: "/images/byd-erhht-adas-preis-um-300-sparwelle-vorbei-carnewschina-d5aed9.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Zeekr", "Leapmotor", "Aion", "MG", "Tesla", "Batterie", "EV"]
+description: >-
+  Über 15 Hersteller wie BYD, Xiaomi und Volkswagen erhöhen in China die Preise
+  für E-Autos und Optionen. Grund: explodierende Rohstoff- und Chipkosten. BYD
+  verlangt ab Mai 2025 rund 300 € mehr für sein Lidar-Fahrassistenzsystem.
+source: CarNewsChina
+image: /images/byd-erhht-adas-preis-um-300-sparwelle-vorbei-carnewschina-d5aed9.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Zeekr
+  - Leapmotor
+  - Aion
+  - MG
+  - Tesla
+  - Batterie
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/15/chinas-nev-sector-sees-price-hikes-as-supply-chain-costs-bite/"
+original_url: >-
+  https://carnewschina.com/2026/05/15/chinas-nev-sector-sees-price-hikes-as-supply-chain-costs-bite/
 read_time_minutes: 4
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - industrie-produktion-lieferkette
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - BYD
+  - Xiaomi
+  - Volkswagen
+  - Zeekr
+  - Leapmotor
+  - Aion
+  - MG
+  - Tesla
+confidence: 0.9
 ---
 
 # BYD erhöht ADAS-Preis um 300 €: Sparwelle vorbei?

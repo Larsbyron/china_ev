@@ -1,15 +1,27 @@
 ---
-title: "Geely: Volvo ernennt Ex-Mercedes-Manager zum China-Chef"
+title: 'Geely: Volvo ernennt Ex-Mercedes-Manager zum China-Chef'
 date: 2026-05-21T12:49:30.545Z
-description: "Volvo (沃尔沃) ernennt Duan Jianjun zum neuen China-CEO. Der 30-Jahre-Veteran kommt von Mercedes und soll das China-Geschäft des Geely-Tochterunternehmens führen. Ex-CEO Yuan Xiaolin tritt nach 16 Jahren ab."
-source: "Sina"
-image: "/images/geely-volvo-ernennt-ex-mercedes-manager-zum-china-sina-0ba028.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely"]
+description: >-
+  Volvo (沃尔沃) ernennt Duan Jianjun zum neuen China-CEO. Der 30-Jahre-Veteran
+  kommt von Mercedes und soll das China-Geschäft des Geely-Tochterunternehmens
+  führen. Ex-CEO Yuan Xiaolin tritt nach 16 Jahren ab.
+source: Sina
+image: /images/geely-volvo-ernennt-ex-mercedes-manager-zum-china-sina-0ba028.webp
+category: news
+brand: Geely
+tags:
+  - Geely
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Volvo
+  - Geely
+confidence: 0.9
 ---
 
 # Geely: Volvo ernennt Ex-Mercedes-Manager zum China-Chef

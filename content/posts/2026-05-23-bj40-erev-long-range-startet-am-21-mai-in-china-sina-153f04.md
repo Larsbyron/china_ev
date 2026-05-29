@@ -1,15 +1,29 @@
 ---
-title: "BJ40 EREV Long Range startet am 21. Mai in China"
+title: BJ40 EREV Long Range startet am 21. Mai in China
 date: 2026-05-23T05:46:24.694Z
-description: "Beijing Offroad bringt den BJ40 als Range-Extender mit 252 km elektrischer Reichweite (CLTC) auf den Markt. Der Geländewagen verspricht Alltagskomfort und Offroad-Fähigkeiten – Europa-Start offen."
-source: "Sina"
-image: "/images/bj40-erev-long-range-startet-am-21-mai-in-china-sina-153f04.webp"
-category: "news"
-
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  Beijing Offroad bringt den BJ40 als Range-Extender mit 252 km elektrischer
+  Reichweite (CLTC) auf den Markt. Der Geländewagen verspricht Alltagskomfort
+  und Offroad-Fähigkeiten – Europa-Start offen.
+source: Sina
+image: /images/bj40-erev-long-range-startet-am-21-mai-in-china-sina-153f04.webp
+category: news
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Beijing Offroad
+confidence: 0.9
 ---
 
 # BJ40 EREV Long Range startet am 21. Mai in China

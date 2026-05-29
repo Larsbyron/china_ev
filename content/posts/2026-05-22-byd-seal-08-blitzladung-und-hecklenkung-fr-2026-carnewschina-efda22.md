@@ -1,15 +1,34 @@
 ---
-title: "BYD Seal 08: Blitzladung und Hecklenkung für 2026"
+title: 'BYD Seal 08: Blitzladung und Hecklenkung für 2026'
 date: 2026-05-22T19:31:26.211Z
-description: "BYDs neues Flaggschiff Seal 08 kommt im 2. Quartal 2026 in China. Die vollelektrische Version lädt in 5 Minuten 400 km Reichweite nach. Der 510 kW starke Allradler beschleunigt in 3,3 Sekunden auf 100 km/h."
-source: "CarNewsChina"
-image: "/images/byd-seal-08-blitzladung-und-hecklenkung-fr-2026-carnewschina-efda22.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Reichweite", "Ladestation", "Elektroauto", "EV"]
+description: >-
+  BYDs neues Flaggschiff Seal 08 kommt im 2. Quartal 2026 in China. Die
+  vollelektrische Version lädt in 5 Minuten 400 km Reichweite nach. Der 510 kW
+  starke Allradler beschleunigt in 3,3 Sekunden auf 100 km/h.
+source: CarNewsChina
+image: >-
+  /images/byd-seal-08-blitzladung-und-hecklenkung-fr-2026-carnewschina-efda22.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Seal 08: Blitzladung und Hecklenkung für 2026

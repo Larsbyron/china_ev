@@ -1,15 +1,29 @@
 ---
-title: "Geely: Ex-Mercedes-Manager soll Volvos E-Wende in China forcieren"
+title: 'Geely: Ex-Mercedes-Manager soll Volvos E-Wende in China forcieren'
 date: 2026-05-15T19:24:48.763Z
-description: "Volvo ernennt Duan Jianjun zum China-Chef. Der Ex-Mercedes-Manager soll die Elektro-Transformation der Marke in China beschleunigen und die lokale Modelloffensive vorantreiben."
-source: "Sina"
-image: "/images/geely-ex-mercedes-manager-soll-volvos-e-wende-in-c-sina-342ba7.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "E-Auto"]
+description: >-
+  Volvo ernennt Duan Jianjun zum China-Chef. Der Ex-Mercedes-Manager soll die
+  Elektro-Transformation der Marke in China beschleunigen und die lokale
+  Modelloffensive vorantreiben.
+source: Sina
+image: /images/geely-ex-mercedes-manager-soll-volvos-e-wende-in-c-sina-342ba7.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - E-Auto
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Geely
+  - Volvo
+confidence: 0.9
 ---
 
 # Geely: Ex-Mercedes-Manager soll Volvos E-Wende in China forcieren

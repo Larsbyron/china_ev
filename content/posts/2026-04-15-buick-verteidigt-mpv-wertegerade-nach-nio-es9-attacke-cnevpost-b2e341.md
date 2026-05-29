@@ -1,13 +1,32 @@
 ---
-title: "Buick verteidigt MPV-Erbe gegen Nio-Angriff:ladt William Li zur Probefahrt ein"
+title: 'Buick verteidigt MPV-Erbe gegen Nio-Angriff:ladt William Li zur Probefahrt ein'
 date: 2026-04-15T14:00:00.000Z
-description: "Nachdem Nio-Gründer William Li behauptete, man könne MPVs nun vergessen, hat Buick öffentlich zurückgeschossen und Li zu einer Probefahrt im neuen Century am 28. April eingeladen."
-source: "CnEVPost"
-image: "/images/ai-buick-verteidigt-mpv-wertegerade-nach-nio-es9-attacke-cnevpost-b2e341.webp"
-category: "news"
-tags: ["Buick", "GM", "MPV", "NIO", "ES9", "China"]
+description: >-
+  Nachdem Nio-Gründer William Li behauptete, man könne MPVs nun vergessen, hat
+  Buick öffentlich zurückgeschossen und Li zu einer Probefahrt im neuen Century
+  am 28. April eingeladen.
+source: CnEVPost
+image: >-
+  /images/ai-buick-verteidigt-mpv-wertegerade-nach-nio-es9-attacke-cnevpost-b2e341.webp
+category: news
+tags:
+  - Buick
+  - GM
+  - MPV
+  - NIO
+  - ES9
+  - China
 draft: false
-original_url: "https://cnevpost.com/2026/04/15/buick-defends-mpv-legacy-against-nio-es9-threat/"
+original_url: >-
+  https://cnevpost.com/2026/04/15/buick-defends-mpv-legacy-against-nio-es9-threat/
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Buick
+  - Nio
+confidence: 0.9
 ---
 
 # Buick kontert Nio: „Man sollte MPVs nicht vergessen"

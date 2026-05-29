@@ -1,15 +1,34 @@
 ---
-title: "BYD Seal 08: 770 km Reichweite und 3,3 s auf 100 km/h"
+title: 'BYD Seal 08: 770 km Reichweite und 3,3 s auf 100 km/h'
 date: 2026-05-22T06:05:11.247Z
-description: "BYD bringt mit dem Seal 08 ein neues Flaggschiff der Ocean-Serie. Die Elektroversion bietet bis zu 900 km CLTC (ca. 770 km WLTP) und lädt in fünf Minuten 400 km nach. Marktstart in China im zweiten Quartal 2026."
-source: "CarNewsChina"
-image: "/images/byd-seal-08-770-km-reichweite-und-33-s-auf-100-kmh-carnewschina-ebd501.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Batterie", "Reichweite", "Ladestation", "EV"]
+description: >-
+  BYD bringt mit dem Seal 08 ein neues Flaggschiff der Ocean-Serie. Die
+  Elektroversion bietet bis zu 900 km CLTC (ca. 770 km WLTP) und lädt in fünf
+  Minuten 400 km nach. Marktstart in China im zweiten Quartal 2026.
+source: CarNewsChina
+image: >-
+  /images/byd-seal-08-770-km-reichweite-und-33-s-auf-100-kmh-carnewschina-ebd501.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+  - NIO
+confidence: 0.9
 ---
 
 # BYD Seal 08: 770 km Reichweite und 3,3 s auf 100 km/h

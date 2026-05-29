@@ -1,15 +1,32 @@
 ---
-title: "Pure Lithium: Feststoffbatterie in Serie – BYD warnt vor Hürden"
+title: 'Pure Lithium: Feststoffbatterie in Serie – BYD warnt vor Hürden'
 date: 2026-05-16T18:57:56.095Z
-description: "Das chinesische Startup Pure Lithium hat die Serienproduktion seiner Feststoffbatterie gestartet. 500 MWh Kapazität und bestandene Schnitttests belegen Fortschritte – BYD-Chefwissenschaftler sieht die Branche noch in einer kritischen Phase."
-source: "CarNewsChina"
-image: "/images/pure-lithium-feststoffbatterie-in-serie-byd-warnt-carnewschina-2bbe4f.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  Das chinesische Startup Pure Lithium hat die Serienproduktion seiner
+  Feststoffbatterie gestartet. 500 MWh Kapazität und bestandene Schnitttests
+  belegen Fortschritte – BYD-Chefwissenschaftler sieht die Branche noch in einer
+  kritischen Phase.
+source: CarNewsChina
+image: >-
+  /images/pure-lithium-feststoffbatterie-in-serie-byd-warnt-carnewschina-2bbe4f.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/14/pure-lithium-solid-state-battery-keeps-running-after-cut-test-as-startup-hits-500-mwh-output/"
+original_url: >-
+  https://carnewschina.com/2026/05/14/pure-lithium-solid-state-battery-keeps-running-after-cut-test-as-startup-hits-500-mwh-output/
 read_time_minutes: 3
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Pure Lithium: Feststoffbatterie in Serie – BYD warnt vor Hürden

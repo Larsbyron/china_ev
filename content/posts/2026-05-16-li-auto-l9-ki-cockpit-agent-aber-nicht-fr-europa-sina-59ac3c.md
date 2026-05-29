@@ -1,15 +1,33 @@
 ---
-title: "Li Auto L9: KI-Cockpit-Agent – aber nicht für Europa"
+title: 'Li Auto L9: KI-Cockpit-Agent – aber nicht für Europa'
 date: 2026-05-16T11:10:57.326Z
-description: "Auf der Auto China zeigte Li Auto eine neue KI-Architektur für den L9. Das System macht das Auto zum aktiven Assistenten – doch für Europa ist das Flaggschiff nicht geplant."
-source: "Sina"
-image: "/images/li-auto-l9-ki-cockpit-agent-aber-nicht-fr-europa-sina-59ac3c.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "BYD", "NIO", "MG", "Batterie", "Reichweite"]
+description: >-
+  Auf der Auto China zeigte Li Auto eine neue KI-Architektur für den L9. Das
+  System macht das Auto zum aktiven Assistenten – doch für Europa ist das
+  Flaggschiff nicht geplant.
+source: Sina
+image: /images/li-auto-l9-ki-cockpit-agent-aber-nicht-fr-europa-sina-59ac3c.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - BYD
+  - NIO
+  - MG
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9: KI-Cockpit-Agent – aber nicht für Europa

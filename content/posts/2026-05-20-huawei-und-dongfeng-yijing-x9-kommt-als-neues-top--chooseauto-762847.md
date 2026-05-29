@@ -1,15 +1,25 @@
 ---
-title: "Huawei und Dongfeng: Yijing X9 kommt als neues Top-SUV 2026"
+title: 'Huawei und Dongfeng: Yijing X9 kommt als neues Top-SUV 2026'
 date: 2026-05-20T06:05:36.376Z
-description: "Huawei und Dongfeng vertiefen ihre Partnerschaft. Das neue Top-SUV Yijing X9 (奕境) kommt im dritten Quartal 2026 mit Huawei-Vollausstattung – in Europa vorerst nicht erhältlich."
-source: "ChooseAuto"
-
-category: "news"
-
-tags: ["Batterie"]
+description: >-
+  Huawei und Dongfeng vertiefen ihre Partnerschaft. Das neue Top-SUV Yijing X9
+  (奕境) kommt im dritten Quartal 2026 mit Huawei-Vollausstattung – in Europa
+  vorerst nicht erhältlich.
+source: ChooseAuto
+category: news
+tags:
+  - Batterie
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/907313.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/907313.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Huawei
+  - Dongfeng
+confidence: 0.9
 ---
 
 # Huawei und Dongfeng: Yijing X9 kommt als neues Top-SUV 2026

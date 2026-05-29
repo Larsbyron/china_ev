@@ -1,15 +1,31 @@
 ---
-title: "Li Auto vs. HIMA: Duell der KI-Agenten im Auto"
+title: 'Li Auto vs. HIMA: Duell der KI-Agenten im Auto'
 date: 2026-05-19T19:48:39.786Z
-description: "Auf der Auto China 2025 zeigen Li Auto und Huawei (HIMA) gegensätzliche KI-Agent-Architekturen für das intelligente Cockpit. Während Huawei auf eine Cloud-zentrierte Plattform setzt, verfolgt Li Auto einen ganzheitlichen, fahrzeugzentrierten Ansatz – eine richtungsweisende Wettprobe."
-source: "Sina"
-image: "/images/li-auto-vs-hima-duell-der-ki-agenten-im-auto-sina-63915d.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Auf der Auto China 2025 zeigen Li Auto und Huawei (HIMA) gegensätzliche
+  KI-Agent-Architekturen für das intelligente Cockpit. Während Huawei auf eine
+  Cloud-zentrierte Plattform setzt, verfolgt Li Auto einen ganzheitlichen,
+  fahrzeugzentrierten Ansatz – eine richtungsweisende Wettprobe.
+source: Sina
+image: /images/li-auto-vs-hima-duell-der-ki-agenten-im-auto-sina-63915d.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - HIMA
+confidence: 0.95
 ---
 
 # Li Auto vs. HIMA: Duell der KI-Agenten im Auto

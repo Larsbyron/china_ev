@@ -1,15 +1,30 @@
 ---
-title: "Audi RS 5 Hybrid vs. BYD Yangwang U9: 600 gegen 1.300 PS"
+title: 'Audi RS 5 Hybrid vs. BYD Yangwang U9: 600 gegen 1.300 PS'
 date: 2026-05-16T11:06:45.389Z
-description: "Der neue Audi RS 5 Hybrid kombiniert einen 2,9-Liter-V6-Biturbo mit 130-kW-E-Motor und bietet 600 PS Systemleistung. Chinesische E-Sportler wie der BYD Yangwang U9 mit 1.300 PS zeigen, was elektrisch möglich ist. Marktstart in Europa wird für 2025 erwartet."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "XPeng", "Xpeng", "Batterie", "EV"]
+description: >-
+  Der neue Audi RS 5 Hybrid kombiniert einen 2,9-Liter-V6-Biturbo mit
+  130-kW-E-Motor und bietet 600 PS Systemleistung. Chinesische E-Sportler wie
+  der BYD Yangwang U9 mit 1.300 PS zeigen, was elektrisch möglich ist.
+  Marktstart in Europa wird für 2025 erwartet.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Batterie
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Audi
+  - BYD
+confidence: 0.95
 ---
 
 # Audi RS 5 Hybrid vs. BYD Yangwang U9: 600 gegen 1.300 PS

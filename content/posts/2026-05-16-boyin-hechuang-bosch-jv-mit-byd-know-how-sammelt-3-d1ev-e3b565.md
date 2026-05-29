@@ -1,15 +1,28 @@
 ---
-title: "BoYin HeChuang: Bosch-JV mit BYD-Know-how sammelt 38,4 Mio. €"
+title: 'BoYin HeChuang: Bosch-JV mit BYD-Know-how sammelt 38,4 Mio. €'
 date: 2026-05-16T11:05:09.407Z
-description: "Das Joint Venture BoYin HeChuang (Bosch & Galaxy General) erhält 38,4 Mio. € für Industrieroboter. Erster Roboter BW10-Lite läuft bereits bei Bosch-SAIC. BYD steuert Produktions-Know-how bei – relevant für deutsche Autobauer."
-source: "D1EV"
-image: "/images/boyin-hechuang-bosch-jv-mit-byd-know-how-sammelt-3-d1ev-e3b565.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "EV"]
+description: >-
+  Das Joint Venture BoYin HeChuang (Bosch & Galaxy General) erhält 38,4 Mio. €
+  für Industrieroboter. Erster Roboter BW10-Lite läuft bereits bei Bosch-SAIC.
+  BYD steuert Produktions-Know-how bei – relevant für deutsche Autobauer.
+source: D1EV
+image: /images/boyin-hechuang-bosch-jv-mit-byd-know-how-sammelt-3-d1ev-e3b565.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299253"
+original_url: 'https://www.d1ev.com/news/shichang/299253'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - BYD
+  - Bosch
+confidence: 0.9
 ---
 
 # BoYin HeChuang: Bosch-JV mit BYD-Know-how sammelt 38,4 Mio. €

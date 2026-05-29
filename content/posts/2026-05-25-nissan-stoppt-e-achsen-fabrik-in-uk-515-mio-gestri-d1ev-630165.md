@@ -1,15 +1,27 @@
 ---
-title: "Nissan stoppt E-Achsen-Fabrik in UK: 515 Mio. € gestrichen"
+title: 'Nissan stoppt E-Achsen-Fabrik in UK: 515 Mio. € gestrichen'
 date: 2026-05-25T19:19:29.670Z
-description: "Nissan (日産) stoppt den Bau einer E-Achsen-Fabrik in Sunderland. Grund sind schwache EV-Verkäufe in Europa. Die Investition von ca. 515 Mio. € ist gestrichen. Der Schritt ist Teil des „Re:Nissan'-Sparprogramms."
-source: "D1EV"
-image: "/images/nissan-stoppt-e-achsen-fabrik-in-uk-515-mio-gestri-d1ev-630165.webp"
-category: "news"
-
-tags: ["Elektroauto", "EV", "Marktanteil"]
+description: >-
+  Nissan (日産) stoppt den Bau einer E-Achsen-Fabrik in Sunderland. Grund sind
+  schwache EV-Verkäufe in Europa. Die Investition von ca. 515 Mio. € ist
+  gestrichen. Der Schritt ist Teil des „Re:Nissan'-Sparprogramms.
+source: D1EV
+image: /images/nissan-stoppt-e-achsen-fabrik-in-uk-515-mio-gestri-d1ev-630165.webp
+category: news
+tags:
+  - Elektroauto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300393"
+original_url: 'https://www.d1ev.com/news/shichang/300393'
 read_time_minutes: 2
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: eu_available
+brands:
+  - Nissan
+confidence: 0.95
 ---
 
 # Nissan stoppt E-Achsen-Fabrik in UK: 515 Mio. € gestrichen

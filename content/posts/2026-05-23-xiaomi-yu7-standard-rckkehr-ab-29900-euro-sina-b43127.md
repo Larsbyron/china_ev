@@ -1,15 +1,31 @@
 ---
-title: "Xiaomi YU7 Standard: Rückkehr ab 29.900 Euro"
+title: 'Xiaomi YU7 Standard: Rückkehr ab 29.900 Euro'
 date: 2026-05-23T05:36:59.606Z
-description: "Xiaomi bringt den YU7 Standard nach China zurück – zum Einstiegspreis von 23,35 万元 (ca. 29.900 €). Das SUV soll Tesla Model Y angreifen. Ob das Modell nach Europa kommt, ist offen."
-source: "Sina"
-image: "/images/xiaomi-yu7-standard-rckkehr-ab-29900-euro-sina-b43127.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Batterie", "Reichweite"]
+description: >-
+  Xiaomi bringt den YU7 Standard nach China zurück – zum Einstiegspreis von
+  23,35 万元 (ca. 29.900 €). Das SUV soll Tesla Model Y angreifen. Ob das Modell
+  nach Europa kommt, ist offen.
+source: Sina
+image: /images/xiaomi-yu7-standard-rckkehr-ab-29900-euro-sina-b43127.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - Tesla
+confidence: 0.95
 ---
 
 # Xiaomi YU7 Standard: Rückkehr ab 29.900 Euro

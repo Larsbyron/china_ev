@@ -1,15 +1,30 @@
 ---
-title: "Li Auto L9 Livis: KI-Agent gegen Huaweis Ökosystem"
+title: 'Li Auto L9 Livis: KI-Agent gegen Huaweis Ökosystem'
 date: 2026-05-15T11:53:48.523Z
-description: "Li Auto präsentiert den L9 Livis mit einer neuen End-to-End-Agenten-Architektur. Anders als Huaweis Task-Scheduler setzt Li Auto auf physische KI in Echtzeit. Ein Wettlauf um die Zukunft des intelligenten Cockpits."
-source: "Sina"
-image: "/images/li-auto-l9-livis-ki-agent-gegen-huaweis-kosystem-sina-6ae6c1.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Li Auto präsentiert den L9 Livis mit einer neuen
+  End-to-End-Agenten-Architektur. Anders als Huaweis Task-Scheduler setzt Li
+  Auto auf physische KI in Echtzeit. Ein Wettlauf um die Zukunft des
+  intelligenten Cockpits.
+source: Sina
+image: /images/li-auto-l9-livis-ki-agent-gegen-huaweis-kosystem-sina-6ae6c1.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9 Livis: KI-Agent gegen Huaweis Ökosystem

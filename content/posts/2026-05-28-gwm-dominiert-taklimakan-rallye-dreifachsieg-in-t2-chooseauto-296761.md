@@ -1,15 +1,24 @@
 ---
-title: "GWM dominiert Taklimakan-Rallye: Dreifachsieg in T2.E"
+title: 'GWM dominiert Taklimakan-Rallye: Dreifachsieg in T2.E'
 date: 2026-05-28T13:43:21.685Z
-description: "GWM räumt bei der Taklimakan-Rallye ab: In der T2.E-Klasse gehen alle drei Podestplätze an den Tank 700, auch der T2.1-Sieg geht an GWM. Die Ergebnisse im Überblick."
-source: "ChooseAuto"
-
-category: "news"
-
+description: >-
+  GWM räumt bei der Taklimakan-Rallye ab: In der T2.E-Klasse gehen alle drei
+  Podestplätze an den Tank 700, auch der T2.1-Sieg geht an GWM. Die Ergebnisse
+  im Überblick.
+source: ChooseAuto
+category: news
 tags: []
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/915163.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/915163.shtml'
 read_time_minutes: 2
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - GWM
+  - Tank
+confidence: 0.7
 ---
 
 # GWM dominiert Taklimakan-Rallye: Dreifachsieg in T2.E

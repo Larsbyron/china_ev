@@ -1,15 +1,29 @@
 ---
-title: "Bosch, Schaeffler & Co.: Zulieferer drängen in KI-Robotik"
+title: 'Bosch, Schaeffler & Co.: Zulieferer drängen in KI-Robotik'
 date: 2026-05-14T01:09:24.244Z
-description: "Bosch, Schaeffler, Valeo und Aptiv investieren massiv in embodied AI (Robotik). Sie nutzen ihre Fabriken in China als Datenquelle, trainieren Roboter und schaffen neue Geschäftsfelder. Ein Wettlauf um Daten und Technologie."
-source: "D1EV"
-image: "/images/bosch-schaeffler-co-zulieferer-drngen-in-ki-roboti-d1ev-f8cf33.webp"
-category: "news"
-
+description: >-
+  Bosch, Schaeffler, Valeo und Aptiv investieren massiv in embodied AI
+  (Robotik). Sie nutzen ihre Fabriken in China als Datenquelle, trainieren
+  Roboter und schaffen neue Geschäftsfelder. Ein Wettlauf um Daten und
+  Technologie.
+source: D1EV
+image: /images/bosch-schaeffler-co-zulieferer-drngen-in-ki-roboti-d1ev-f8cf33.webp
+category: news
 tags: []
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299065"
+original_url: 'https://www.d1ev.com/news/shichang/299065'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - Bosch
+  - Schaeffler
+  - Valeo
+  - Aptiv
+  - ZF LIFETEC
+confidence: 0.9
 ---
 
 # Bosch, Schaeffler & Co.: Zulieferer drängen in KI-Robotik

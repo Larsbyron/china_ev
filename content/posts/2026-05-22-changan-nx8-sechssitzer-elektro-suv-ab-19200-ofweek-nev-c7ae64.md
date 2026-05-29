@@ -1,15 +1,32 @@
 ---
-title: "Changan NX8: Sechssitzer-Elektro-SUV ab 19.200 €"
+title: 'Changan NX8: Sechssitzer-Elektro-SUV ab 19.200 €'
 date: 2026-05-22T06:22:34.697Z
-description: "Der Changan NX8 startet in China ab 150.000 Yuan (ca. 19.200 €) als erschwinglicher Sechssitzer. Zusammen mit dem Fangchengbao 7 und dem luxuriösen ID.ERA 9X zeigt er die Vielfalt chinesischer E-Autos. Ein Europa-Start ist nicht geplant."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "Tesla", "Reichweite", "Zoll", "E-Auto", "EV"]
+description: >-
+  Der Changan NX8 startet in China ab 150.000 Yuan (ca. 19.200 €) als
+  erschwinglicher Sechssitzer. Zusammen mit dem Fangchengbao 7 und dem
+  luxuriösen ID.ERA 9X zeigt er die Vielfalt chinesischer E-Autos. Ein
+  Europa-Start ist nicht geplant.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - Tesla
+  - Reichweite
+  - Zoll
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Changan
+  - BYD
+  - Volkswagen
+confidence: 0.9
 ---
 
 # Changan NX8: Sechssitzer-Elektro-SUV ab 19.200 €

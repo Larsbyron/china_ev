@@ -1,15 +1,30 @@
 ---
-title: "BYD Sealion 06 DM-i: 310 km elektr. ab 16.600 €"
+title: 'BYD Sealion 06 DM-i: 310 km elektr. ab 16.600 €'
 date: 2026-05-26T20:06:48.708Z
-description: "BYD bringt den Sealion 06 DM-i 2026 mit 310 km elektrischer Reichweite (CLTC) ab 16.600 € in China. Der PHEV könnte als Konkurrent zu VW Tiguan eHybrid nach Europa kommen."
-source: "CarNewsChina"
-image: "/images/byd-sealion-06-dm-i-310-km-elektr-ab-16600-carnewschina-45d008.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Reichweite", "EV"]
+description: >-
+  BYD bringt den Sealion 06 DM-i 2026 mit 310 km elektrischer Reichweite (CLTC)
+  ab 16.600 € in China. Der PHEV könnte als Konkurrent zu VW Tiguan eHybrid nach
+  Europa kommen.
+source: CarNewsChina
+image: /images/byd-sealion-06-dm-i-310-km-elektr-ab-16600-carnewschina-45d008.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/byd-launches-2026-sealion-06-dm-i-with-its-fifth-gen-hybrid-tech-and-310-km-ev-range/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/byd-launches-2026-sealion-06-dm-i-with-its-fifth-gen-hybrid-tech-and-310-km-ev-range/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Sealion 06 DM-i: 310 km elektr. ab 16.600 €

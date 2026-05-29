@@ -1,15 +1,29 @@
 ---
-title: "Beijing Off-Road BJ40 EREV: 252 km rein elektrisch ab Mai"
+title: 'Beijing Off-Road BJ40 EREV: 252 km rein elektrisch ab Mai'
 date: 2026-05-24T11:26:03.037Z
-description: "Der BJ40 EREV Long-Range startet am 21. Mai 2026 in China. Mit 252 km elektrischer Reichweite (CLTC) und 1.300 km Gesamtreichweite soll der geländegängige SUV Stadt und Offroad vereinen. Ein Europa-Start ist nicht geplant."
-source: "Sina"
-image: "/images/beijing-off-road-bj40-erev-252-km-rein-elektrisch-sina-00511f.webp"
-category: "news"
-
-tags: ["MG", "Reichweite", "EV"]
+description: >-
+  Der BJ40 EREV Long-Range startet am 21. Mai 2026 in China. Mit 252 km
+  elektrischer Reichweite (CLTC) und 1.300 km Gesamtreichweite soll der
+  geländegängige SUV Stadt und Offroad vereinen. Ein Europa-Start ist nicht
+  geplant.
+source: Sina
+image: /images/beijing-off-road-bj40-erev-252-km-rein-elektrisch-sina-00511f.webp
+category: news
+tags:
+  - MG
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Beijing Off-Road
+confidence: 0.95
 ---
 
 # Beijing Off-Road BJ40 EREV: 252 km rein elektrisch ab Mai

@@ -1,15 +1,34 @@
 ---
-title: "BYD-Gegner aus Japan: Neuer Toyota Corolla kommt 2026 als BEV"
+title: 'BYD-Gegner aus Japan: Neuer Toyota Corolla kommt 2026 als BEV'
 date: 2026-05-14T00:08:51.208Z
-description: "Toyota bringt die 13. Generation des Corolla 2026 als vollelektrische Version. Der BEV soll chinesische Bestseller wie BYD Qin und Seal herausfordern – erste Auslieferung in China ab 2027."
-source: "ChooseAuto"
-image: "/images/byd-gegner-aus-japan-neuer-toyota-corolla-kommt-20-chooseauto-bb7145.webp"
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Batterie", "Reichweite", "Elektroauto"]
+description: >-
+  Toyota bringt die 13. Generation des Corolla 2026 als vollelektrische Version.
+  Der BEV soll chinesische Bestseller wie BYD Qin und Seal herausfordern – erste
+  Auslieferung in China ab 2027.
+source: ChooseAuto
+image: >-
+  /images/byd-gegner-aus-japan-neuer-toyota-corolla-kommt-20-chooseauto-bb7145.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Elektroauto
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/901866.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/901866.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Toyota
+  - BYD
+confidence: 0.9
 ---
 
 # BYD-Gegner aus Japan: Neuer Toyota Corolla kommt 2026 als BEV

@@ -1,14 +1,31 @@
 ---
-title: "Der von Geely unterstützte eVTOL-Hersteller Aerofugia beginnt mit dem vorbörslichen Coaching für die A-Aktien-Notierung in China"
-date: 2026-04-05T14:40:59.839102
-description: "Aerofugia Technology, die von Geely unterstützte Einheit für elektrische Senkrechtstart- und -landeflugzeuge (eVTOL), hat mit der Vorbereitung auf den Börsengang eine sogenannte Pre-IPO-Beratung einge..."
-source: "CnEVPost"
-image: "/images/geely-backed-evtol-maker-aerofugia-begins-pre-ipo-cnevpost-d2f6ec.webp"
-category: "news"
-tag: "E-Auto"
-tags: ["eVTOL", "Geely", "Aerofugia", "Listing"]
+title: >-
+  Der von Geely unterstützte eVTOL-Hersteller Aerofugia beginnt mit dem
+  vorbörslichen Coaching für die A-Aktien-Notierung in China
+date: 2026-04-05T14:40:59.839Z
+description: >-
+  Aerofugia Technology, die von Geely unterstützte Einheit für elektrische
+  Senkrechtstart- und -landeflugzeuge (eVTOL), hat mit der Vorbereitung auf den
+  Börsengang eine sogenannte Pre-IPO-Beratung einge...
+source: CnEVPost
+image: /images/geely-backed-evtol-maker-aerofugia-begins-pre-ipo-cnevpost-d2f6ec.webp
+category: news
+tag: E-Auto
+tags:
+  - eVTOL
+  - Geely
+  - Aerofugia
+  - Listing
 draft: false
-original_url: "https://cnevpost.com/2026/04/03/geely-aerofugia-begins-pre-ipo-tutoring-china-a-share-listing/"
+original_url: >-
+  https://cnevpost.com/2026/04/03/geely-aerofugia-begins-pre-ipo-tutoring-china-a-share-listing/
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Geely
+  - Aerofugia
+confidence: 0.9
 ---
 
 # Der von Geely unterstützte eVTOL-Hersteller Aerofugia beginnt mit dem vorbörslichen Coaching für die A-Aktien-Notierung in China

@@ -1,15 +1,29 @@
 ---
-title: "Neuer Audi RS 5: V6-Biturbo-Hybrid mit 375 kW"
+title: 'Neuer Audi RS 5: V6-Biturbo-Hybrid mit 375 kW'
 date: 2026-05-14T00:05:55.621Z
-description: "Audi bringt die fünfte RS-5-Generation als Plug-in-Hybrid (PHEV) – mit 2,9-Liter-V6-Biturbo (375 kW) und 130-kW-E-Motor. Das 400-Volt-System kombiniert mechanisches quattro mit elektrischem Heckantrieb. Ob das Konzept gegen rein elektrische Sportler besteht?"
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Batterie", "EV"]
+description: >-
+  Audi bringt die fünfte RS-5-Generation als Plug-in-Hybrid (PHEV) – mit
+  2,9-Liter-V6-Biturbo (375 kW) und 130-kW-E-Motor. Das 400-Volt-System
+  kombiniert mechanisches quattro mit elektrischem Heckantrieb. Ob das Konzept
+  gegen rein elektrische Sportler besteht?
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Batterie
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: eu_available
+brands:
+  - Audi
+confidence: 0.9
 ---
 
 # Neuer Audi RS 5: V6-Biturbo-Hybrid mit 375 kW

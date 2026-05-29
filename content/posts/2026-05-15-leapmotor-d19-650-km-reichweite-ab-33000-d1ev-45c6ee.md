@@ -1,15 +1,32 @@
 ---
-title: "Leapmotor D19: 650 km Reichweite ab 33.000 €"
+title: 'Leapmotor D19: 650 km Reichweite ab 33.000 €'
 date: 2026-05-15T10:29:02.904Z
-description: "Leapmotor bringt mit dem D19 ein neues Flaggschiff-SUV auf den Markt. Das Drei-Motor-Modell ist als BEV und EREV erhältlich und kostet umgerechnet ab 33.000 €. Ein Europa-Start ist noch offen."
-source: "D1EV"
-image: "/images/leapmotor-d19-650-km-reichweite-ab-33000-d1ev-45c6ee.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "NIO", "Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Leapmotor bringt mit dem D19 ein neues Flaggschiff-SUV auf den Markt. Das
+  Drei-Motor-Modell ist als BEV und EREV erhältlich und kostet umgerechnet ab
+  33.000 €. Ein Europa-Start ist noch offen.
+source: D1EV
+image: /images/leapmotor-d19-650-km-reichweite-ab-33000-d1ev-45c6ee.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - NIO
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299285"
+original_url: 'https://www.d1ev.com/news/qiye/299285'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Leapmotor
+confidence: 0.9
 ---
 
 # Leapmotor D19: 650 km Reichweite ab 33.000 €

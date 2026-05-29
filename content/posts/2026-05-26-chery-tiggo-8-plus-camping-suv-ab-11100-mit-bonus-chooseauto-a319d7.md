@@ -1,15 +1,28 @@
 ---
-title: "Chery Tiggo 8 Plus: Camping-SUV ab 11.100 € (mit Bonus)"
+title: 'Chery Tiggo 8 Plus: Camping-SUV ab 11.100 € (mit Bonus)'
 date: 2026-05-26T06:05:36.553Z
-description: "Der Chery Tiggo 8 Plus startet in China zum Basispreis von ca. 15.400 €. Mit Kaufbonus und Tauschprämie sinkt der effektive Preis auf umgerechnet ca. 11.100 €. Das 5+2-Sitzer-SUV zielt auf junge Camper – eine Europa-Einführung steht noch aus."
-source: "ChooseAuto"
-image: "/images/chery-tiggo-8-plus-camping-suv-ab-11100-mit-bonus-chooseauto-a319d7.webp"
-category: "news"
-
-tags: ["MG", "Zoll"]
+description: >-
+  Der Chery Tiggo 8 Plus startet in China zum Basispreis von ca. 15.400 €. Mit
+  Kaufbonus und Tauschprämie sinkt der effektive Preis auf umgerechnet ca.
+  11.100 €. Das 5+2-Sitzer-SUV zielt auf junge Camper – eine Europa-Einführung
+  steht noch aus.
+source: ChooseAuto
+image: >-
+  /images/chery-tiggo-8-plus-camping-suv-ab-11100-mit-bonus-chooseauto-a319d7.webp
+category: news
+tags:
+  - MG
+  - Zoll
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/912993.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/912993.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - CHERY
+confidence: 0.9
 ---
 
 # Chery Tiggo 8 Plus: Camping-SUV ab 11.100 € (mit Bonus)

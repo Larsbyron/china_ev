@@ -1,15 +1,29 @@
 ---
-title: "Bosch-JV Boyin Hechun: 38 Mio. € für KI-Roboter mit BYD-Vergangenheit"
+title: 'Bosch-JV Boyin Hechun: 38 Mio. € für KI-Roboter mit BYD-Vergangenheit'
 date: 2026-05-15T19:24:12.739Z
-description: "Das Bosch-Joint-Venture Boyin Hechun sammelt 300 Millionen Yuan (ca. 38,4 Mio. €) für Industrieroboter ein. Mit ehemaligen BYD-Ingenieuren im Team zielt die Firma auf die Automobilproduktion – auch deutsche Werke könnten profitieren."
-source: "D1EV"
-image: "/images/bosch-jv-boyin-hechun-38-mio-fr-ki-roboter-mit-byd-d1ev-ad3aeb.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "E-Auto", "EV"]
+description: >-
+  Das Bosch-Joint-Venture Boyin Hechun sammelt 300 Millionen Yuan (ca. 38,4 Mio.
+  €) für Industrieroboter ein. Mit ehemaligen BYD-Ingenieuren im Team zielt die
+  Firma auf die Automobilproduktion – auch deutsche Werke könnten profitieren.
+source: D1EV
+image: /images/bosch-jv-boyin-hechun-38-mio-fr-ki-roboter-mit-byd-d1ev-ad3aeb.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299253"
+original_url: 'https://www.d1ev.com/news/shichang/299253'
 read_time_minutes: 3
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Bosch-JV Boyin Hechun: 38 Mio. € für KI-Roboter mit BYD-Vergangenheit

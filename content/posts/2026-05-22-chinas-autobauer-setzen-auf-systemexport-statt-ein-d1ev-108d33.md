@@ -1,15 +1,33 @@
 ---
-title: "Chinas Autobauer setzen auf Systemexport statt Einzelverkauf"
+title: Chinas Autobauer setzen auf Systemexport statt Einzelverkauf
 date: 2026-05-22T06:03:21.024Z
-description: "2025 exportierte China über 6 Mio. Fahrzeuge – doch die Branche stellt um: Statt nur Autos zu verkaufen, werden Technik, Fertigung und lokale Anpassung als Paket exportiert. Experten diskutieren die Herausforderungen der „System-Export'-Strategie."
-source: "D1EV"
-image: "/images/chinas-autobauer-setzen-auf-systemexport-statt-ein-d1ev-108d33.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "E-Auto", "EV"]
+description: >-
+  2025 exportierte China über 6 Mio. Fahrzeuge – doch die Branche stellt um:
+  Statt nur Autos zu verkaufen, werden Technik, Fertigung und lokale Anpassung
+  als Paket exportiert. Experten diskutieren die Herausforderungen der
+  „System-Export'-Strategie.
+source: D1EV
+image: /images/chinas-autobauer-setzen-auf-systemexport-statt-ein-d1ev-108d33.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300075"
+original_url: 'https://www.d1ev.com/news/shichang/300075'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - markt-absatz-zulassungen
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - MG
+  - Dongfeng
+  - Gecko New Energy
+  - Baolong Technology
+confidence: 0.8
 ---
 
 # Chinas Autobauer setzen auf Systemexport statt Einzelverkauf

@@ -1,15 +1,30 @@
 ---
-title: "Xiaomi YU7 GT: Nürburgring-Rekord für unter 65.000 €"
+title: 'Xiaomi YU7 GT: Nürburgring-Rekord für unter 65.000 €'
 date: 2026-05-20T06:03:04.372Z
-description: "Der Xiaomi YU7 GT unterbietet den Audi RS Q8 auf der Nordschleife um 1,8 Sekunden. Der 1003-PS-SUV kostet in China ab ca. 57.600 €. Auch eine günstige Einstiegsversion mit kleinem Akku ist geplant. Europa-Start noch offen."
-source: "Autohome NewEnergy"
-image: "/images/xiaomi-yu7-gt-nrburgring-rekord-fr-unter-65000-autohome-newenergy-0eb5ae.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der Xiaomi YU7 GT unterbietet den Audi RS Q8 auf der Nordschleife um 1,8
+  Sekunden. Der 1003-PS-SUV kostet in China ab ca. 57.600 €. Auch eine günstige
+  Einstiegsversion mit kleinem Akku ist geplant. Europa-Start noch offen.
+source: Autohome NewEnergy
+image: >-
+  /images/xiaomi-yu7-gt-nrburgring-rekord-fr-unter-65000-autohome-newenergy-0eb5ae.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314374.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314374.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi YU7 GT: Nürburgring-Rekord für unter 65.000 €

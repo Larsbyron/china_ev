@@ -1,15 +1,32 @@
 ---
-title: "Li Auto L9 Li: 1.100 km Reichweite mit eigenem KI-Agenten"
+title: 'Li Auto L9 Li: 1.100 km Reichweite mit eigenem KI-Agenten'
 date: 2026-05-14T19:33:12.336Z
-description: "Der Li Auto L9 Li feiert auf der Auto China 2025 Premiere und kombiniert einen KI-Agenten mit Range-Extender-Antrieb. Mit 1.100 km CLTC-Reichweite und einem Preis ab 42,98 万元 (ca. 55.000 €) zielt er direkt auf Huawei HarmonyOS. Ein Europa-Start ist offen."
-source: "Sina"
-image: "/images/li-auto-l9-li-1100-km-reichweite-mit-eigenem-ki-ag-sina-b1b0c8.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der Li Auto L9 Li feiert auf der Auto China 2025 Premiere und kombiniert einen
+  KI-Agenten mit Range-Extender-Antrieb. Mit 1.100 km CLTC-Reichweite und einem
+  Preis ab 42,98 万元 (ca. 55.000 €) zielt er direkt auf Huawei HarmonyOS. Ein
+  Europa-Start ist offen.
+source: Sina
+image: /images/li-auto-l9-li-1100-km-reichweite-mit-eigenem-ki-ag-sina-b1b0c8.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9 Li: 1.100 km Reichweite mit eigenem KI-Agenten

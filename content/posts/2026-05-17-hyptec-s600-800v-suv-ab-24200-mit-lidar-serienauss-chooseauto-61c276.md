@@ -1,15 +1,32 @@
 ---
-title: "Hyptec S600: 800V-SUV ab 24.200 € mit Lidar-Serienausstattung"
+title: 'Hyptec S600: 800V-SUV ab 24.200 € mit Lidar-Serienausstattung'
 date: 2026-05-17T11:06:10.358Z
-description: "Der Hyptec S600 startet in China zum Vorverkaufspreis ab 24.200 €. Das Elektro-SUV bietet 660 km Reichweite (CLTC), serienmäßigen Lidar und eine 800-Volt-Architektur. Ein Europa-Start ist noch offen."
-source: "ChooseAuto"
-image: "/images/hyptec-s600-800v-suv-ab-24200-mit-lidar-serienauss-chooseauto-61c276.webp"
-category: "news"
-
-tags: ["Tesla", "Batterie", "Reichweite", "Zoll", "Elektroauto", "EV"]
+description: >-
+  Der Hyptec S600 startet in China zum Vorverkaufspreis ab 24.200 €. Das
+  Elektro-SUV bietet 660 km Reichweite (CLTC), serienmäßigen Lidar und eine
+  800-Volt-Architektur. Ein Europa-Start ist noch offen.
+source: ChooseAuto
+image: >-
+  /images/hyptec-s600-800v-suv-ab-24200-mit-lidar-serienauss-chooseauto-61c276.webp
+category: news
+tags:
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/904884.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/904884.shtml'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Hyptec
+  - Tesla
+  - VW
+confidence: 0.95
 ---
 
 # Hyptec S600: 800V-SUV ab 24.200 € mit Lidar-Serienausstattung

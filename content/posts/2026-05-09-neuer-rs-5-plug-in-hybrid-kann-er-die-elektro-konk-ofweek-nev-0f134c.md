@@ -1,15 +1,28 @@
 ---
-title: "Neuer RS 5 Plug-in-Hybrid: Kann er die Elektro-Konkurrenz herausfordern?"
+title: 'Neuer RS 5 Plug-in-Hybrid: Kann er die Elektro-Konkurrenz herausfordern?'
 date: 2026-05-09T23:17:32.157Z
-description: "' source: 'OFweek NEV' image: 'https://mp.ofweek.com/Upload/News/Img/member11445/202604/wx_article__3c2e4cc1e1e352b659a387c2a5d75ef6.jpg' category: 'news' tags: 'Batterie', 'Elektr..."
-source: "OFweek NEV"
-image: "/images/ai-neuer-rs-5-plug-in-hybrid-kann-er-die-elektro-konk-ofweek-nev-0f134c.webp"
-category: "news"
-
-tags: ["Batterie", "Elektroauto"]
+description: >-
+  ' source: 'OFweek NEV' image:
+  'https://mp.ofweek.com/Upload/News/Img/member11445/202604/wx_article__3c2e4cc1e1e352b659a387c2a5d75ef6.jpg'
+  category: 'news' tags: 'Batterie', 'Elektr...
+source: OFweek NEV
+image: >-
+  /images/ai-neuer-rs-5-plug-in-hybrid-kann-er-die-elektro-konk-ofweek-nev-0f134c.webp
+category: news
+tags:
+  - Batterie
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_available
+brands:
+  - Audi
+confidence: 0.9
 ---
 
 # Neuer RS 5 Plug-in-Hybrid: Kann er die Elektro-Konkurrenz herausfordern?

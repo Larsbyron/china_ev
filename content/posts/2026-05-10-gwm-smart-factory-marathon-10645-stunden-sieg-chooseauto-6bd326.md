@@ -1,15 +1,24 @@
 ---
-title: "GWM-Smart-Factory-Marathon: 1:06:45-Stunden-Sieg"
+title: 'GWM-Smart-Factory-Marathon: 1:06:45-Stunden-Sieg'
 date: 2026-05-10T20:43:56.535Z
-description: "Am Muttertag startete der 2026 Great Wall Motors Smart Factory Halbmarathon. 5.000 Läufer durch die Produktion, Siegerzeit 1:06:45. Markenbotschaft: Langfristigkeit und Qualität."
-source: "ChooseAuto"
-image: "/images/gwm-smart-factory-marathon-10645-stunden-sieg-chooseauto-6bd326.webp"
-category: "news"
-
-tags: ["EV"]
+description: >-
+  Am Muttertag startete der 2026 Great Wall Motors Smart Factory Halbmarathon.
+  5.000 Läufer durch die Produktion, Siegerzeit 1:06:45. Markenbotschaft:
+  Langfristigkeit und Qualität.
+source: ChooseAuto
+image: /images/gwm-smart-factory-marathon-10645-stunden-sieg-chooseauto-6bd326.webp
+category: news
+tags:
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/899181.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/899181.shtml'
 read_time_minutes: 2
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - GWM
+confidence: 0.2
 ---
 
 # GWM-Smart-Factory-Marathon: 1:06:45-Stunden-Sieg

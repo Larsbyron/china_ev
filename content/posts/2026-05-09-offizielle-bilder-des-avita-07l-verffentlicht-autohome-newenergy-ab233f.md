@@ -1,15 +1,25 @@
 ---
-title: "Offizielle Bilder des Avita 07L veröffentlicht"
+title: Offizielle Bilder des Avita 07L veröffentlicht
 date: 2026-05-09T23:12:55.326Z
-description: "[Autohome Offizielle Fahrzeugbilder] Kürzlich wurden die offiziellen Bilder des Avita 07 (Parameter | Preis) L veröffentlicht. Das Unternehmen gab keine weiteren Informationen zum neuen Fahrzeug bekan..."
-source: "Autohome NewEnergy"
-image: "/images/offizielle-bilder-des-avita-07l-verffentlicht-autohome-newenergy-ab233f.webp"
-category: "news"
-
+description: >-
+  [Autohome Offizielle Fahrzeugbilder] Kürzlich wurden die offiziellen Bilder
+  des Avita 07 (Parameter | Preis) L veröffentlicht. Das Unternehmen gab keine
+  weiteren Informationen zum neuen Fahrzeug bekan...
+source: Autohome NewEnergy
+image: >-
+  /images/offizielle-bilder-des-avita-07l-verffentlicht-autohome-newenergy-ab233f.webp
+category: news
 tags: []
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314170.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314170.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Avita
+confidence: 0.9
 ---
 
 # Offizielle Bilder des Avita 07L veröffentlicht

@@ -1,15 +1,27 @@
 ---
-title: "Audi RS 5 PHEV: Sportlimousine mit Hybrid-Boost"
+title: 'Audi RS 5 PHEV: Sportlimousine mit Hybrid-Boost'
 date: 2026-05-13T10:33:08.254Z
-description: "Der neue Audi RS 5 Sportback kombiniert einen 2.9-Liter-V6-Biturbo mit einem 130 kW starken P2-E-Motor. Das Mild-Hybrid-System soll konventionelle Sportlichkeit mit elektrischer Effizienz vereinen – ein Statement gegen die reine E-Konkurrenz."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Batterie", "Elektroauto"]
+description: >-
+  Der neue Audi RS 5 Sportback kombiniert einen 2.9-Liter-V6-Biturbo mit einem
+  130 kW starken P2-E-Motor. Das Mild-Hybrid-System soll konventionelle
+  Sportlichkeit mit elektrischer Effizienz vereinen – ein Statement gegen die
+  reine E-Konkurrenz.
+source: OFweek NEV
+category: news
+tags:
+  - Batterie
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: de_available
+brands:
+  - Audi
+confidence: 0.95
 ---
 
 # Audi RS 5 PHEV: Sportlimousine mit Hybrid-Boost

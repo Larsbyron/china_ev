@@ -1,15 +1,32 @@
 ---
-title: "VW ID. ERA 9X: China-Elektro-SUV ab 42.200 € mit 800V"
+title: 'VW ID. ERA 9X: China-Elektro-SUV ab 42.200 € mit 800V'
 date: 2026-05-15T19:30:10.386Z
-description: "Volkswagen startet den Vorverkauf des 5,2 Meter langen ID. ERA 9X in China. Zum Preis von umgerechnet 42.200 € bietet er 800-Volt-Technik, 192-Laser-Lidar und 406 km CLTC-Reichweite."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "Li Auto", "Tesla", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Volkswagen startet den Vorverkauf des 5,2 Meter langen ID. ERA 9X in China.
+  Zum Preis von umgerechnet 42.200 € bietet er 800-Volt-Technik, 192-Laser-Lidar
+  und 406 km CLTC-Reichweite.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - Li Auto
+  - Tesla
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - VW
+  - Li Auto
+  - AITO
+  - NIO
+confidence: 0.95
 ---
 
 # VW ID. ERA 9X: China-Elektro-SUV ab 42.200 € mit 800V

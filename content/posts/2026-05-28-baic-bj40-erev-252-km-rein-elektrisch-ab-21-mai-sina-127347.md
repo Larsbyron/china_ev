@@ -1,15 +1,29 @@
 ---
-title: "BAIC BJ40 EREV: 252 km rein elektrisch, ab 21. Mai"
+title: 'BAIC BJ40 EREV: 252 km rein elektrisch, ab 21. Mai'
 date: 2026-05-28T13:47:34.615Z
-description: "Der BAIC BJ40 EREV Langstreckenversion kommt am 21. Mai auf den chinesischen Markt. Mit 252 km CLTC-Reichweite (ca. 214 km WLTP) und 1.300 km Gesamtreichweite zielt das geländegängige SUV auf Stadt- und Offroad-Fans."
-source: "Sina"
-image: "/images/baic-bj40-erev-252-km-rein-elektrisch-ab-21-mai-sina-127347.webp"
-category: "news"
-
-tags: ["MG", "Reichweite", "EV"]
+description: >-
+  Der BAIC BJ40 EREV Langstreckenversion kommt am 21. Mai auf den chinesischen
+  Markt. Mit 252 km CLTC-Reichweite (ca. 214 km WLTP) und 1.300 km
+  Gesamtreichweite zielt das geländegängige SUV auf Stadt- und Offroad-Fans.
+source: Sina
+image: /images/baic-bj40-erev-252-km-rein-elektrisch-ab-21-mai-sina-127347.webp
+category: news
+tags:
+  - MG
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BAIC
+confidence: 0.9
 ---
 
 # BAIC BJ40 EREV: 252 km rein elektrisch, ab 21. Mai

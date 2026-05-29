@@ -1,15 +1,33 @@
 ---
-title: "Chery Omoda C9: Facelift ab 16.000 € mit PHEV-Option"
+title: 'Chery Omoda C9: Facelift ab 16.000 € mit PHEV-Option'
 date: 2026-05-26T20:03:15.275Z
-description: "Chery hat den Omoda C9 (in China Exeed Yaoguang) überarbeitet. Das Mittelklasse-SUV startet als Verbrenner oder Plug-in-Hybrid ab 124.900 Yuan (ca. 16.000 €). Der PHEV kommt auf 120 km CLTC elektrische Reichweite."
-source: "CarNewsChina"
-image: "/images/chery-omoda-c9-facelift-ab-16000-mit-phev-option-carnewschina-5a2a0e.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  Chery hat den Omoda C9 (in China Exeed Yaoguang) überarbeitet. Das
+  Mittelklasse-SUV startet als Verbrenner oder Plug-in-Hybrid ab 124.900 Yuan
+  (ca. 16.000 €). Der PHEV kommt auf 120 km CLTC elektrische Reichweite.
+source: CarNewsChina
+image: >-
+  /images/chery-omoda-c9-facelift-ab-16000-mit-phev-option-carnewschina-5a2a0e.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/24/cherys-omoda-launches-c9-suv-refresh-ice-phev-starting-at-18400-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/24/cherys-omoda-launches-c9-suv-refresh-ice-phev-starting-at-18400-usd-in-china/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Chery
+  - Omoda
+confidence: 0.9
 ---
 
 # Chery Omoda C9: Facelift ab 16.000 € mit PHEV-Option

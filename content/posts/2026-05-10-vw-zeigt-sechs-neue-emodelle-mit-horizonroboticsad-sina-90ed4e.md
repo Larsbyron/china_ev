@@ -1,15 +1,29 @@
 ---
-title: "VW zeigt sechs neue E‑Modelle mit Horizon‑Robotics‑ADAS"
+title: VW zeigt sechs neue E‑Modelle mit Horizon‑Robotics‑ADAS
 date: 2026-05-10T20:48:54.711Z
-description: "Auf der Auto China 2026 präsentiert Volkswagen gemeinsam mit Horizon Robotics sechs neue Elektro‑SUVs und Limousinen. Die Joint‑Venture‑Firma CARIZON liefert L2++‑Assistenzsysteme mit Lidar und künftig Stadt‑NOA. Die Modelloffensive startet ab Herbst 2026."
-source: "Sina"
-image: "/images/vw-zeigt-sechs-neue-emodelle-mit-horizonroboticsad-sina-90ed4e.webp"
-category: "news"
-
-tags: ["Tesla", "Elektroauto", "EV"]
+description: >-
+  Auf der Auto China 2026 präsentiert Volkswagen gemeinsam mit Horizon Robotics
+  sechs neue Elektro‑SUVs und Limousinen. Die Joint‑Venture‑Firma CARIZON
+  liefert L2++‑Assistenzsysteme mit Lidar und künftig Stadt‑NOA. Die
+  Modelloffensive startet ab Herbst 2026.
+source: Sina
+image: /images/vw-zeigt-sechs-neue-emodelle-mit-horizonroboticsad-sina-90ed4e.webp
+category: news
+tags:
+  - Tesla
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn/news/hy/2026-04-29/detail-inhwesks7842568.shtml"
+original_url: 'https://auto.sina.com.cn/news/hy/2026-04-29/detail-inhwesks7842568.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - VW
+confidence: 0.9
 ---
 
 # VW zeigt sechs neue E‑Modelle mit Horizon‑Robotics‑ADAS

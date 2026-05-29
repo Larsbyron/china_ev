@@ -1,15 +1,31 @@
 ---
-title: "10.000-Euro-Auto gegen 30.000-Euro-Flaggschiffe im ADAS-Duell"
+title: 10.000-Euro-Auto gegen 30.000-Euro-Flaggschiffe im ADAS-Duell
 date: 2026-05-28T06:22:30.654Z
-description: "Vier chinesische Elektroautos – XPeng, AVATR, GAC Aion und Changan – treten am 28. Mai in Peking zu einem ADAS-Vergleich an. Der Preisunterschied beträgt bis zu 1:3. Kann günstige Technologie mit High-End-Systemen mithalten?"
-source: "D1EV"
-image: "/images/10000-euro-auto-gegen-30000-euro-flaggschiffe-im-a-d1ev-833db2.webp"
-category: "news"
-brand: "XPeng"
-tags: ["XPeng", "Xpeng", "Aion"]
+description: >-
+  Vier chinesische Elektroautos – XPeng, AVATR, GAC Aion und Changan – treten am
+  28. Mai in Peking zu einem ADAS-Vergleich an. Der Preisunterschied beträgt bis
+  zu 1:3. Kann günstige Technologie mit High-End-Systemen mithalten?
+source: D1EV
+image: /images/10000-euro-auto-gegen-30000-euro-flaggschiffe-im-a-d1ev-833db2.webp
+category: news
+brand: XPeng
+tags:
+  - XPeng
+  - Xpeng
+  - Aion
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/300820"
+original_url: 'https://www.d1ev.com/news/qiye/300820'
 read_time_minutes: 5
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - XPeng
+  - AVATR
+  - GAC Aion
+  - Changan
+confidence: 0.9
 ---
 
 # 10.000-Euro-Auto gegen 30.000-Euro-Flaggschiffe im ADAS-Duell

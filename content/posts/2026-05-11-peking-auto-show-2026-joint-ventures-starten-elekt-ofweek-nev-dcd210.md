@@ -1,16 +1,34 @@
 ---
-title: "Peking Auto Show 2026: Joint-Ventures starten Elektro-Offensive"
+title: 'Peking Auto Show 2026: Joint-Ventures starten Elektro-Offensive'
 date: 2026-05-11T11:29:03.777Z
-description: "BMW, Mercedes-Benz und Volkswagen zeigen auf der Peking Auto Show 2026 über ein Dutzend neue E-Autos. Vom GLC L bis zum ID.ERA 9X: Die Modelle zielen auf chinesische Kunden – Preise ab ca. 38.400 €."
-source: "OFweek NEV"
-image: "/images/ai-peking-auto-show-2026-joint-ventures-starten-elekt-ofweek-nev-dcd210.webp"
-
-category: "news"
-
-tags: ["Tesla", "Batterie", "Reichweite", "Zoll", "E-Auto", "EV"]
+description: >-
+  BMW, Mercedes-Benz und Volkswagen zeigen auf der Peking Auto Show 2026 über
+  ein Dutzend neue E-Autos. Vom GLC L bis zum ID.ERA 9X: Die Modelle zielen auf
+  chinesische Kunden – Preise ab ca. 38.400 €.
+source: OFweek NEV
+image: >-
+  /images/ai-peking-auto-show-2026-joint-ventures-starten-elekt-ofweek-nev-dcd210.webp
+category: news
+tags:
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Mercedes-Benz
+  - BMW
+  - Volkswagen
+  - Audi
+confidence: 0.95
 ---
 
 # Peking Auto Show 2026: Joint-Ventures starten Elektro-Offensive

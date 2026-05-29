@@ -1,15 +1,33 @@
 ---
-title: "China hält 35 % der Festkörperbatterie-Patente – BYD und CATL vorn"
+title: China hält 35 % der Festkörperbatterie-Patente – BYD und CATL vorn
 date: 2026-05-27T06:15:43.036Z
-description: "China führt mit 35 % der weltweiten Festkörperbatterie-Patente, warnt aber vor Japans technologischem Vorsprung. BYD und CATL treiben Forschung und Pilotproduktion voran – erste Serienfertigung ab 2030 erwartet."
-source: "CarNewsChina"
-image: "/images/china-hlt-35-der-festkrperbatterie-patente-byd-und-carnewschina-335c53.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "EV", "Marktanteil"]
+description: >-
+  China führt mit 35 % der weltweiten Festkörperbatterie-Patente, warnt aber vor
+  Japans technologischem Vorsprung. BYD und CATL treiben Forschung und
+  Pilotproduktion voran – erste Serienfertigung ab 2030 erwartet.
+source: CarNewsChina
+image: >-
+  /images/china-hlt-35-der-festkrperbatterie-patente-byd-und-carnewschina-335c53.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/25/solid-state-battery-race-china-leads-patents-but-warns-of-losing-global-advantage/"
+original_url: >-
+  https://carnewschina.com/2026/05/25/solid-state-battery-race-china-leads-patents-but-warns-of-losing-global-advantage/
 read_time_minutes: 4
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - BYD
+  - CATL
+confidence: 0.9
 ---
 
 # China hält 35 % der Festkörperbatterie-Patente – BYD und CATL vorn

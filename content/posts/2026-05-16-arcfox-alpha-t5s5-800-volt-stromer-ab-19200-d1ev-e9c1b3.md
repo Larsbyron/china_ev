@@ -1,15 +1,27 @@
 ---
-title: "Arcfox Alpha T5/S5: 800-Volt-Stromer ab 19.200 €"
+title: 'Arcfox Alpha T5/S5: 800-Volt-Stromer ab 19.200 €'
 date: 2026-05-16T05:25:16.931Z
-description: "BAIC BluePark setzt auf Doppelmarke: Arcfox bringt 800V-Technik in die 19.000-Euro-Klasse, Stelato (mit Huawei) die Luxus-Linie. 2025 lag der Anteil beider Marken bei 92,7 %. Ein Europa-Start ist offen."
-source: "D1EV"
-image: "/images/arcfox-alpha-t5s5-800-volt-stromer-ab-19200-d1ev-e9c1b3.webp"
-category: "news"
-
-tags: ["Batterie", "Elektroauto", "EV"]
+description: >-
+  BAIC BluePark setzt auf Doppelmarke: Arcfox bringt 800V-Technik in die
+  19.000-Euro-Klasse, Stelato (mit Huawei) die Luxus-Linie. 2025 lag der Anteil
+  beider Marken bei 92,7 %. Ein Europa-Start ist offen.
+source: D1EV
+image: /images/arcfox-alpha-t5s5-800-volt-stromer-ab-19200-d1ev-e9c1b3.webp
+category: news
+tags:
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299271"
+original_url: 'https://www.d1ev.com/news/shichang/299271'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Arcfox
+confidence: 0.9
 ---
 
 # Arcfox Alpha T5/S5: 800-Volt-Stromer ab 19.200 €

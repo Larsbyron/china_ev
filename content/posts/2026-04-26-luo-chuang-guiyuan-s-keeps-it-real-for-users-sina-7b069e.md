@@ -1,15 +1,27 @@
 ---
-title: "Luo Chuang: Guiyuan S setzt nicht auf Ausstattungswahn, sondern auf das Wesentliche für Nutzer"
+title: >-
+  Luo Chuang: Guiyuan S setzt nicht auf Ausstattungswahn, sondern auf das
+  Wesentliche für Nutzer
 date: 2026-04-26T22:24:30.183Z
-description: "Luo Chuang: Guiyuan S setzt nicht auf Ausstattungswahn, sondern auf das Wesentliche für Nutzer. Am 24. April wurde die Beijing Auto Show 2026 offiziell eröffnet."
-source: "Sina"
-image: "/images/luo-chuang-guiyuan-s-keeps-it-real-for-users-sina-7b069e.webp"
-category: "news"
-
-tags: ["EV"]
+description: >-
+  Luo Chuang: Guiyuan S setzt nicht auf Ausstattungswahn, sondern auf das
+  Wesentliche für Nutzer. Am 24. April wurde die Beijing Auto Show 2026
+  offiziell eröffnet.
+source: Sina
+image: /images/luo-chuang-guiyuan-s-keeps-it-real-for-users-sina-7b069e.webp
+category: news
+tags:
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-04-26/detail-inhvvkkh9947001.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-04-26/detail-inhvvkkh9947001.shtml'
 read_time_minutes: 24
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Great Wall Motors
+confidence: 0.9
 ---
 
 # Luo Chuang: Guiyuan S setzt nicht auf Ausstattungswahn, sondern auf das Wesentliche für Nutzer

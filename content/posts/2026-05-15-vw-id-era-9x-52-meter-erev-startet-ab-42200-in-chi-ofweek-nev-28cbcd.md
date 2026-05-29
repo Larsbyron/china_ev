@@ -1,15 +1,26 @@
 ---
-title: "VW ID. ERA 9X: 5,2-Meter-EREV startet ab 42.200 € in China"
+title: 'VW ID. ERA 9X: 5,2-Meter-EREV startet ab 42.200 € in China'
 date: 2026-05-15T06:15:25.782Z
-description: "Volkswagen startet Vorverkauf für das 5,2 Meter lange Flaggschiff-SUV ID. ERA 9X in China. Der Range-Extender (EREV) kostet umgerechnet ab etwa 42.200 € und zielt trotz Oberklasse-Format auf das C-SUV-Segment."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Li Auto", "Reichweite", "EV"]
+description: >-
+  Volkswagen startet Vorverkauf für das 5,2 Meter lange Flaggschiff-SUV ID. ERA
+  9X in China. Der Range-Extender (EREV) kostet umgerechnet ab etwa 42.200 € und
+  zielt trotz Oberklasse-Format auf das C-SUV-Segment.
+source: OFweek NEV
+category: news
+tags:
+  - Li Auto
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - VW
+confidence: 0.95
 ---
 
 # VW ID. ERA 9X: 5,2-Meter-EREV startet ab 42.200 € in China

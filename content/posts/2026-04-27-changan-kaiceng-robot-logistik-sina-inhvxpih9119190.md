@@ -1,15 +1,36 @@
 ---
-title: "Changan Kaicheng setzt auf digitale Transformation und neue Energien: Robovan auf der Beijing Auto Show vorgestellt"
-date: 2026-04-27T10:00:00
-description: "Auf der Beijing Auto Show 2026 stellte Changan Kaicheng seinen Robovan vor. Wang Xiaofei und Dong Chenrui erläutern die Strategie für autonome Logistikfahrzeuge und die Vision einer digitalen und elektrifizierten Nutzfahrzeugflotte."
-source: "Sina"
-image: "/images/changan-kaiceng-robot-logistik-sina-inhvxpih9119190.webp"
-category: "news"
-brand: "Changan"
-tags: ["Changan Kaicheng", "Robovan", "Robotruck", "Autonomes Fahren", "Nutzfahrzeuge", "neue Energien", "Logistik", "Beijing Auto Show 2026"]
+title: >-
+  Changan Kaicheng setzt auf digitale Transformation und neue Energien: Robovan
+  auf der Beijing Auto Show vorgestellt
+date: 2026-04-27T10:00:00.000Z
+description: >-
+  Auf der Beijing Auto Show 2026 stellte Changan Kaicheng seinen Robovan vor.
+  Wang Xiaofei und Dong Chenrui erläutern die Strategie für autonome
+  Logistikfahrzeuge und die Vision einer digitalen und elektrifizierten
+  Nutzfahrzeugflotte.
+source: Sina
+image: /images/changan-kaiceng-robot-logistik-sina-inhvxpih9119190.webp
+category: news
+brand: Changan
+tags:
+  - Changan Kaicheng
+  - Robovan
+  - Robotruck
+  - Autonomes Fahren
+  - Nutzfahrzeuge
+  - neue Energien
+  - Logistik
+  - Beijing Auto Show 2026
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-04-27/detail-inhvxpih9119190.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-04-27/detail-inhvxpih9119190.shtml'
 read_time_minutes: 8
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Changan
+confidence: 0.95
 ---
 
 Am 24. April 2026, dem Eröffnungstag der Beijing Auto Show, veranstaltete **Changan Kaicheng** eine Medienkonferenz unter dem Motto „Digitale Intelligenz – neue Reise, neue Ökosysteme" und präsentierte offiziell den **Changan Kaicheng Robovan**. Die Veranstaltung wurde von Mou Aiming, Vizepräsident und Marketingleiter von Changan Kaicheng, moderiert. Wang Xiaofei, Executive-Vizepräsident von Changan Automobile und Vorsitzender von Changan Kaicheng, sowie Dong Chenrui, Präsident von Changan Kaicheng, nahmen teil und nahmen Stellung zu nationalen Strategien, Marktaussichten für autonome Logistikfahrzeuge, technologischen Alleinstellungsmerkmalen und Geschäftsmodellen.

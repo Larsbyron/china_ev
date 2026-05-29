@@ -1,15 +1,27 @@
 ---
-title: "Nissan stoppt E-Achsen-Werk: Leaf-Absatz bricht um 99 % ein"
+title: 'Nissan stoppt E-Achsen-Werk: Leaf-Absatz bricht um 99 % ein'
 date: 2026-05-25T06:25:13.929Z
-description: "Nissan friert sein E-Achsen-Projekt in Sunderland ein. Grund ist die schwache Nachfrage nach Elektroautos in Europa – besonders der Leaf verkauft sich kaum noch. Das 90-Mrd.-Yen-Projekt ist gestoppt."
-source: "D1EV"
-image: "/images/nissan-stoppt-e-achsen-werk-leaf-absatz-bricht-um-d1ev-1a355d.webp"
-category: "news"
-
-tags: ["MG", "Elektroauto", "Marktanteil"]
+description: >-
+  Nissan friert sein E-Achsen-Projekt in Sunderland ein. Grund ist die schwache
+  Nachfrage nach Elektroautos in Europa – besonders der Leaf verkauft sich kaum
+  noch. Das 90-Mrd.-Yen-Projekt ist gestoppt.
+source: D1EV
+image: /images/nissan-stoppt-e-achsen-werk-leaf-absatz-bricht-um-d1ev-1a355d.webp
+category: news
+tags:
+  - MG
+  - Elektroauto
+  - Marktanteil
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300393"
+original_url: 'https://www.d1ev.com/news/shichang/300393'
 read_time_minutes: 2
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: eu_available
+brands:
+  - Nissan
+confidence: 0.9
 ---
 
 # Nissan stoppt E-Achsen-Werk: Leaf-Absatz bricht um 99 % ein

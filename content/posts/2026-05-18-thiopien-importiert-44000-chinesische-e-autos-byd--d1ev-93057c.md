@@ -1,15 +1,32 @@
 ---
-title: "Äthiopien importiert 44.000 chinesische E-Autos – BYD vorn"
+title: Äthiopien importiert 44.000 chinesische E-Autos – BYD vorn
 date: 2026-05-18T13:52:19.318Z
-description: "Äthiopien hat 2025 über 44.000 chinesische Elektroautos importiert – doppelt so viele wie im Vorjahr. BYD (比亚迪) ist das Maß der Dinge, doch die Ladeinfrastruktur bleibt ein Problem."
-source: "D1EV"
-image: "/images/thiopien-importiert-44000-chinesische-e-autos-byd-d1ev-93057c.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Ladestation", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Äthiopien hat 2025 über 44.000 chinesische Elektroautos importiert – doppelt
+  so viele wie im Vorjahr. BYD (比亚迪) ist das Maß der Dinge, doch die
+  Ladeinfrastruktur bleibt ein Problem.
+source: D1EV
+image: /images/thiopien-importiert-44000-chinesische-e-autos-byd-d1ev-93057c.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Ladestation
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299512"
+original_url: 'https://www.d1ev.com/news/shichang/299512'
 read_time_minutes: 3
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - politik-zoelle-regulierung
+marketRelevance: global_industry
+brands:
+  - BYD
+  - MG
+confidence: 0.95
 ---
 
 # Äthiopien importiert 44.000 chinesische E-Autos – BYD vorn

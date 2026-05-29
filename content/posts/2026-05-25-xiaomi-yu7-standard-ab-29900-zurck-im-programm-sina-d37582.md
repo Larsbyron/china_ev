@@ -1,15 +1,32 @@
 ---
-title: "Xiaomi YU7 Standard: Ab 29.900 € zurück im Programm"
+title: 'Xiaomi YU7 Standard: Ab 29.900 € zurück im Programm'
 date: 2026-05-25T06:27:45.677Z
-description: "Xiaomi bringt den YU7 Standard zurück – ab 233.500 Yuan (ca. 29.900 €). Mit 593 km Reichweite (CLTC) soll er direkt gegen Tesla Model Y antreten. Ein Marktstart in Europa ist nicht absehbar."
-source: "Sina"
-image: "/images/xiaomi-yu7-standard-ab-29900-zurck-im-programm-sina-d37582.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  Xiaomi bringt den YU7 Standard zurück – ab 233.500 Yuan (ca. 29.900 €). Mit
+  593 km Reichweite (CLTC) soll er direkt gegen Tesla Model Y antreten. Ein
+  Marktstart in Europa ist nicht absehbar.
+source: Sina
+image: /images/xiaomi-yu7-standard-ab-29900-zurck-im-programm-sina-d37582.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi YU7 Standard: Ab 29.900 € zurück im Programm

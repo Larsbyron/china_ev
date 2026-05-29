@@ -1,15 +1,31 @@
 ---
-title: "Li Auto KI-Agent ab 2026: Cockpit denkt eigenständig mit"
+title: 'Li Auto KI-Agent ab 2026: Cockpit denkt eigenständig mit'
 date: 2026-05-18T19:34:46.891Z
-description: "Li Auto (理想) bringt ab 2026 einen KI-Agenten fürs Cockpit, der eigenständig Routen plant und Fahrzeugfunktionen steuert. Damit stellt sich das chinesische EV-Startup direkt gegen Huaweis HIMA-Allianz – und liefert einen Vorgeschmack auf kommende Europa-Modelle."
-source: "Sina"
-image: "/images/li-auto-ki-agent-ab-2026-cockpit-denkt-eigenstndig-sina-b34111.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Geely", "EV"]
+description: >-
+  Li Auto (理想) bringt ab 2026 einen KI-Agenten fürs Cockpit, der eigenständig
+  Routen plant und Fahrzeugfunktionen steuert. Damit stellt sich das chinesische
+  EV-Startup direkt gegen Huaweis HIMA-Allianz – und liefert einen Vorgeschmack
+  auf kommende Europa-Modelle.
+source: Sina
+image: /images/li-auto-ki-agent-ab-2026-cockpit-denkt-eigenstndig-sina-b34111.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Geely
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto KI-Agent ab 2026: Cockpit denkt eigenständig mit

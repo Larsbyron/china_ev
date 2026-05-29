@@ -1,15 +1,32 @@
 ---
-title: "Li Auto L9 Livis: KI-Cockpit mit 1.200 km Reichweite"
+title: 'Li Auto L9 Livis: KI-Cockpit mit 1.200 km Reichweite'
 date: 2026-05-20T06:07:49.253Z
-description: "Auf der Peking Auto Show präsentierte Li Auto das Flaggschiff L9 Livis ab 55.000 €. Das neue KI-Cockpit „StreamingClaw' soll den Wagen zum „intelligenten Agenten' machen – mit bis zu 1.200 km Reichweite (CLTC)."
-source: "Sina"
-image: "/images/li-auto-l9-livis-ki-cockpit-mit-1200-km-reichweite-sina-a64cf8.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Auf der Peking Auto Show präsentierte Li Auto das Flaggschiff L9 Livis ab
+  55.000 €. Das neue KI-Cockpit „StreamingClaw' soll den Wagen zum
+  „intelligenten Agenten' machen – mit bis zu 1.200 km Reichweite (CLTC).
+source: Sina
+image: /images/li-auto-l9-livis-ki-cockpit-mit-1200-km-reichweite-sina-a64cf8.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9 Livis: KI-Cockpit mit 1.200 km Reichweite

@@ -1,15 +1,29 @@
 ---
-title: "Li Auto vs. Huawei: Wettstreit um den KI-Agenten im Auto"
+title: 'Li Auto vs. Huawei: Wettstreit um den KI-Agenten im Auto'
 date: 2026-05-13T10:33:32.072Z
-description: "Li Auto konfrontiert Huawei im Rennen um den KI-Agenten. Huawei setzt auf Ökosystem, Li Auto auf den ganzheitlichen Ansatz des L9 Livis. Ein Wettstreit der Technikphilosophien."
-source: "Sina"
-image: "/images/li-auto-vs-huawei-wettstreit-um-den-ki-agenten-im-sina-3bc464.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "EV"]
+description: >-
+  Li Auto konfrontiert Huawei im Rennen um den KI-Agenten. Huawei setzt auf
+  Ökosystem, Li Auto auf den ganzheitlichen Ansatz des L9 Livis. Ein Wettstreit
+  der Technikphilosophien.
+source: Sina
+image: /images/li-auto-vs-huawei-wettstreit-um-den-ki-agenten-im-sina-3bc464.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.95
 ---
 
 # Li Auto vs. Huawei: Wettstreit um den KI-Agenten im Auto

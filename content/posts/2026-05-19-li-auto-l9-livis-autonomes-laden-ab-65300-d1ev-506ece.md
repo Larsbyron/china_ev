@@ -1,15 +1,31 @@
 ---
-title: "Li Auto L9 Livis: Autonomes Laden ab 65.300 €"
+title: 'Li Auto L9 Livis: Autonomes Laden ab 65.300 €'
 date: 2026-05-19T19:49:39.635Z
-description: "Li Auto L9 Livis startet in China ab 509.800 Yuan (ca. 65.300 €). Der SUV lädt komplett autonom: Roboterarm steckt Kabel ein – Ladezeit nur zehn Minuten. Europapläne? Fehlanzeige."
-source: "D1EV"
-image: "/images/li-auto-l9-livis-autonomes-laden-ab-65300-d1ev-506ece.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Batterie", "Reichweite", "Ladestation", "EV"]
+description: >-
+  Li Auto L9 Livis startet in China ab 509.800 Yuan (ca. 65.300 €). Der SUV lädt
+  komplett autonom: Roboterarm steckt Kabel ein – Ladezeit nur zehn Minuten.
+  Europapläne? Fehlanzeige.
+source: D1EV
+image: /images/li-auto-l9-livis-autonomes-laden-ab-65300-d1ev-506ece.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299661"
+original_url: 'https://www.d1ev.com/news/qiye/299661'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.95
 ---
 
 # Li Auto L9 Livis: Autonomes Laden ab 65.300 €

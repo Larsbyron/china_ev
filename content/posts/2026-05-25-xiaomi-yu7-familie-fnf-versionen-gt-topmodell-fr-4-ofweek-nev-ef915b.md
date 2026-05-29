@@ -1,15 +1,28 @@
 ---
-title: "Xiaomi YU7-Familie: Fünf Versionen, GT-Topmodell für 49.900 €"
+title: 'Xiaomi YU7-Familie: Fünf Versionen, GT-Topmodell für 49.900 €'
 date: 2026-05-25T19:20:33.964Z
-description: "Xiaomi komplettiert die YU7-Reihe mit fünf Modellen: Der YU7 Standard startet bei 233.500 Yuan (ca. 29.900 €), der GT bei 389.900 Yuan (ca. 49.900 €). Marktstart in China ist ab sofort. Der Standard dürfte zum Bestseller werden."
-source: "OFweek NEV"
-
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Reichweite", "Elektroauto"]
+description: >-
+  Xiaomi komplettiert die YU7-Reihe mit fünf Modellen: Der YU7 Standard startet
+  bei 233.500 Yuan (ca. 29.900 €), der GT bei 389.900 Yuan (ca. 49.900 €).
+  Marktstart in China ist ab sofort. Der Standard dürfte zum Bestseller werden.
+source: OFweek NEV
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Reichweite
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688339.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688339.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7-Familie: Fünf Versionen, GT-Topmodell für 49.900 €

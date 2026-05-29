@@ -1,15 +1,29 @@
 ---
-title: "BYD Fangchengbao: Bao 8 & Bao 5 Flash-Charge ab 38.400 €"
+title: 'BYD Fangchengbao: Bao 8 & Bao 5 Flash-Charge ab 38.400 €'
 date: 2026-05-14T05:51:20.016Z
-description: "BYD bringt mit Fangchengbao die Flash-Charge-Versionen von Bao 8 und Bao 5. Ab 29,98万 (ca. 38.400 €) bieten sie Luxus, 800V-Technik und bis zu 1.170 km WLTP-Reichweite. Ein Europa-Marktstart ist offen."
-source: "ChooseAuto"
-
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  BYD bringt mit Fangchengbao die Flash-Charge-Versionen von Bao 8 und Bao 5. Ab
+  29,98万 (ca. 38.400 €) bieten sie Luxus, 800V-Technik und bis zu 1.170 km
+  WLTP-Reichweite. Ein Europa-Marktstart ist offen.
+source: ChooseAuto
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/902146.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/902146.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Fangchengbao: Bao 8 & Bao 5 Flash-Charge ab 38.400 €

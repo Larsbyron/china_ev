@@ -1,15 +1,33 @@
 ---
-title: "BYDs Feststoffakku: 1.218 km CLTC-Reichweite ausgezeichnet"
+title: 'BYDs Feststoffakku: 1.218 km CLTC-Reichweite ausgezeichnet'
 date: 2026-05-18T13:45:30.807Z
-description: "Chinas erste „Golden Lithium Awards“ zeichnen BYD (比亚迪) und CATL (宁德时代) für Feststoffbatterie-Durchbrüche aus. BYDs Blade-Batterie 2.0 und inoffizielle Angaben von 1.218 km Reichweite (CLTC) sorgen für Aufsehen."
-source: "CarNewsChina"
-image: "/images/byds-feststoffakku-1218-km-cltc-reichweite-ausgeze-carnewschina-f2598f.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  Chinas erste „Golden Lithium Awards“ zeichnen BYD (比亚迪) und CATL (宁德时代) für
+  Feststoffbatterie-Durchbrüche aus. BYDs Blade-Batterie 2.0 und inoffizielle
+  Angaben von 1.218 km Reichweite (CLTC) sorgen für Aufsehen.
+source: CarNewsChina
+image: >-
+  /images/byds-feststoffakku-1218-km-cltc-reichweite-ausgeze-carnewschina-f2598f.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+  - CATL
+confidence: 0.95
 ---
 
 # BYDs Feststoffakku: 1.218 km CLTC-Reichweite ausgezeichnet

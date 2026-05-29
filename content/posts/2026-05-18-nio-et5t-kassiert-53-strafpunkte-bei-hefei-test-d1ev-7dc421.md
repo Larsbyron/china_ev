@@ -1,15 +1,31 @@
 ---
-title: "NIO ET5T kassiert 53 Strafpunkte bei Hefei-Test"
+title: NIO ET5T kassiert 53 Strafpunkte bei Hefei-Test
 date: 2026-05-18T06:14:37.990Z
-description: "NIO ET5T belegt beim Hefei-Test für autonomes Fahren den letzten Platz. Mit 53 Strafpunkten enttäuscht der Kombi vor allem bei der Effizienz. Der Test umfasste 30 km Stadtverkehr mit 49 Ampeln und neun Prüfpunkten."
-source: "D1EV"
-image: "/images/nio-et5t-kassiert-53-strafpunkte-bei-hefei-test-d1ev-7dc421.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Xiaomi SU", "Zeekr", "EV"]
+description: >-
+  NIO ET5T belegt beim Hefei-Test für autonomes Fahren den letzten Platz. Mit 53
+  Strafpunkten enttäuscht der Kombi vor allem bei der Effizienz. Der Test
+  umfasste 30 km Stadtverkehr mit 49 Ampeln und neun Prüfpunkten.
+source: D1EV
+image: /images/nio-et5t-kassiert-53-strafpunkte-bei-hefei-test-d1ev-7dc421.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Xiaomi SU
+  - Zeekr
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299479"
+original_url: 'https://www.d1ev.com/news/qiye/299479'
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - NIO
+confidence: 0.8
 ---
 
 # NIO ET5T kassiert 53 Strafpunkte bei Hefei-Test

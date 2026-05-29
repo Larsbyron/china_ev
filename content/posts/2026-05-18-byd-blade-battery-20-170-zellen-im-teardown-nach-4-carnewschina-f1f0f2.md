@@ -1,15 +1,33 @@
 ---
-title: "BYD Blade Battery 2.0: 170 Zellen im Teardown nach 40h Kälte"
+title: 'BYD Blade Battery 2.0: 170 Zellen im Teardown nach 40h Kälte'
 date: 2026-05-18T19:30:17.449Z
-description: "Ein chinesisches Teardown-Team hat BYDs zweite Generation des Blade Battery zerlegt. Der Akku überstand 40 Stunden Tiefkühlung und mechanische Gewalt ohne Brand. Die Analyse zeigt 170 Zellen, Kühlungsdetails und Reparaturhürden."
-source: "CarNewsChina"
-image: "/images/byd-blade-battery-20-170-zellen-im-teardown-nach-4-carnewschina-f1f0f2.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Tesla", "Batterie", "E-Auto", "EV", "Marktanteil"]
+description: >-
+  Ein chinesisches Teardown-Team hat BYDs zweite Generation des Blade Battery
+  zerlegt. Der Akku überstand 40 Stunden Tiefkühlung und mechanische Gewalt ohne
+  Brand. Die Analyse zeigt 170 Zellen, Kühlungsdetails und Reparaturhürden.
+source: CarNewsChina
+image: >-
+  /images/byd-blade-battery-20-170-zellen-im-teardown-nach-4-carnewschina-f1f0f2.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Tesla
+  - Batterie
+  - E-Auto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/byd-blade-battery-teardown-reveals-170-cell-pack-after-40-hour-freeze-team-defends-8-hour-dismantling/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/byd-blade-battery-teardown-reveals-170-cell-pack-after-40-hour-freeze-team-defends-8-hour-dismantling/
 read_time_minutes: 3
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.8
 ---
 
 # BYD Blade Battery 2.0: 170 Zellen im Teardown nach 40h Kälte

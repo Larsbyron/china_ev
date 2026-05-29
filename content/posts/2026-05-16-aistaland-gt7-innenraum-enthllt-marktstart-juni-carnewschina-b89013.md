@@ -1,15 +1,36 @@
 ---
-title: "Aistaland GT7: Innenraum enthüllt – Marktstart Juni"
+title: 'Aistaland GT7: Innenraum enthüllt – Marktstart Juni'
 date: 2026-05-16T05:27:12.623Z
-description: "Das Joint Venture GAC-Huawei zeigt den Innenraum des elektrischen Shooting Brake GT7. Das Topmodell kommt im Juni auf den chinesischen Markt und bietet bis zu 900 km Reichweite nach CLTC."
-source: "CarNewsChina"
-image: "/images/aistaland-gt7-innenraum-enthllt-marktstart-juni-carnewschina-b89013.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Aion", "MG", "Batterie", "Reichweite", "Zoll", "Elektroauto"]
+description: >-
+  Das Joint Venture GAC-Huawei zeigt den Innenraum des elektrischen Shooting
+  Brake GT7. Das Topmodell kommt im Juni auf den chinesischen Markt und bietet
+  bis zu 900 km Reichweite nach CLTC.
+source: CarNewsChina
+image: >-
+  /images/aistaland-gt7-innenraum-enthllt-marktstart-juni-carnewschina-b89013.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Aion
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - Elektroauto
 draft: false
-original_url: "https://carnewschina.com/2026/05/15/gac-huawei-unveils-aistaland-gt7-interior-ahead-of-june-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/15/gac-huawei-unveils-aistaland-gt7-interior-ahead-of-june-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - GAC
+  - Huawei
+  - Aistaland
+confidence: 0.9
 ---
 
 # Aistaland GT7: Innenraum enthüllt – Marktstart Juni

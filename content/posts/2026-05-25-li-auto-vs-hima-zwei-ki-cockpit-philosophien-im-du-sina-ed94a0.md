@@ -1,15 +1,29 @@
 ---
-title: "Li Auto vs. HIMA: Zwei KI-Cockpit-Philosophien im Duell"
+title: 'Li Auto vs. HIMA: Zwei KI-Cockpit-Philosophien im Duell'
 date: 2026-05-25T19:20:55.646Z
-description: "Auf der Peking Auto Show liefern sich Li Auto (理想) und HIMA einen Schlagabtausch um die Zukunft des intelligenten Cockpits. Während HIMA auf sein Ökosystem setzt, geht Li Auto den Weg der physischen KI – ein Wettlauf mit offenem Ausgang."
-source: "Sina"
-image: "/images/li-auto-vs-hima-zwei-ki-cockpit-philosophien-im-du-sina-ed94a0.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG"]
+description: >-
+  Auf der Peking Auto Show liefern sich Li Auto (理想) und HIMA einen
+  Schlagabtausch um die Zukunft des intelligenten Cockpits. Während HIMA auf
+  sein Ökosystem setzt, geht Li Auto den Weg der physischen KI – ein Wettlauf
+  mit offenem Ausgang.
+source: Sina
+image: /images/li-auto-vs-hima-zwei-ki-cockpit-philosophien-im-du-sina-ed94a0.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - HIMA
+confidence: 0.9
 ---
 
 # Li Auto vs. HIMA: Zwei KI-Cockpit-Philosophien im Duell

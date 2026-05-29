@@ -1,15 +1,35 @@
 ---
-title: "Auto China 2026: BMW i3 mit 900 km Reichweite, Mercedes und VW attackieren"
+title: 'Auto China 2026: BMW i3 mit 900 km Reichweite, Mercedes und VW attackieren'
 date: 2026-05-17T05:48:43.958Z
-description: "Auf der Peking Auto Show 2026 zeigen BMW, Mercedes, Audi und VW ihre Elektro-Offensive: BMW i3 mit 900 km (WLTP), Mercedes GLC L als EREV ab 51.000 € und VW ID.ERA 9X als XXL-SUV. Die Preise gelten für den chinesischen Markt."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "Li Auto", "MG", "Tesla", "Reichweite", "Zoll", "Elektroauto"]
+description: >-
+  Auf der Peking Auto Show 2026 zeigen BMW, Mercedes, Audi und VW ihre
+  Elektro-Offensive: BMW i3 mit 900 km (WLTP), Mercedes GLC L als EREV ab 51.000
+  € und VW ID.ERA 9X als XXL-SUV. Die Preise gelten für den chinesischen Markt.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - MG
+  - Tesla
+  - Reichweite
+  - Zoll
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BMW
+  - Mercedes
+  - Audi
+  - Volkswagen
+confidence: 0.9
 ---
 
 # Auto China 2026: BMW i3 mit 900 km Reichweite, Mercedes und VW attackieren

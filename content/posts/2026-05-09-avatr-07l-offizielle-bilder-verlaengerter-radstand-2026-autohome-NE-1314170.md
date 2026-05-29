@@ -1,15 +1,31 @@
 ---
-title: "Avatr 07L: Offizielle Bilder zeigen verlängerte Familien-SUV-Variante"
-date: 2026-05-09T07:00:00+02:00
-description: "Avatr präsentiert den Avatr 07L mit verlängertem Radstand, 896-Zeilen-LiDAR und Huawei Qiankun ADS als luxuriösen Familien-SUV."
-source: "Autohome NewEnergy"
-image: "/images/ai-avatr-07l-offizielle-bilder-verlaengerter-radstand-2026-autohome-NE-1314170.webp"
-category: "news"
-brand: "Avatr"
-tags: ["Avatr", "Avatr-07L", "Huawei", "Qiankun-ADS", "LiDAR", "SUV"]
+title: 'Avatr 07L: Offizielle Bilder zeigen verlängerte Familien-SUV-Variante'
+date: 2026-05-09T05:00:00.000Z
+description: >-
+  Avatr präsentiert den Avatr 07L mit verlängertem Radstand, 896-Zeilen-LiDAR
+  und Huawei Qiankun ADS als luxuriösen Familien-SUV.
+source: Autohome NewEnergy
+image: >-
+  /images/ai-avatr-07l-offizielle-bilder-verlaengerter-radstand-2026-autohome-NE-1314170.webp
+category: news
+brand: Avatr
+tags:
+  - Avatr
+  - Avatr-07L
+  - Huawei
+  - Qiankun-ADS
+  - LiDAR
+  - SUV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314170.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314170.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Avatr
+confidence: 0.9
 ---
 
 Avatr hat die offiziellen Bilder des **Avatr 07L** veröffentlicht – einer verlängerten Version des Avatr 07. Offizielle technische Details stehen noch aus, es wird jedoch erwartet, dass der Radstand auf 3.000 mm wächst und ein 896-Zeilen-LiDAR-Sensor Einzug hält. Der Innenraum bleibt eine Fünfsitzer-Konfiguration, positioniert als „luxuriöser Familien-Fünfsitzer-SUV".

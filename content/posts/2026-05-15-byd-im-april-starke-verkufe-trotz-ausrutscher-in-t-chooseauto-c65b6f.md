@@ -1,15 +1,32 @@
 ---
-title: "BYD im April: Starke Verkäufe trotz Ausrutscher in Top-5"
+title: 'BYD im April: Starke Verkäufe trotz Ausrutscher in Top-5'
 date: 2026-05-15T11:52:47.863Z
-description: "Der chinesische Markt zeigt eine EV-Penetrationsrate von über 61 %. BYD (比亚迪) verfehlt die Spitzenplätze der Einzelmodell-Charts, punktet aber mit breiter Modellpalette und hohen Gesamtverkäufen."
-source: "ChooseAuto"
-
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Li Auto", "Xiaomi SU", "Tesla", "E-Auto"]
+description: >-
+  Der chinesische Markt zeigt eine EV-Penetrationsrate von über 61 %. BYD (比亚迪)
+  verfehlt die Spitzenplätze der Einzelmodell-Charts, punktet aber mit breiter
+  Modellpalette und hohen Gesamtverkäufen.
+source: ChooseAuto
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Li Auto
+  - Xiaomi SU
+  - Tesla
+  - E-Auto
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/903564.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/903564.shtml'
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - BYD
+  - Li Auto
+  - Xiaomi
+  - Tesla
+confidence: 0.95
 ---
 
 # BYD im April: Starke Verkäufe trotz Ausrutscher in Top-5

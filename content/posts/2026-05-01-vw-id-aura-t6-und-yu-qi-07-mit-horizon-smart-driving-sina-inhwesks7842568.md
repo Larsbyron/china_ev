@@ -1,15 +1,36 @@
 ---
-title: "Volkswagen zeigt nächste E-Modell-Generation mit Horizon-Smart-Driving-Technologie"
-date: 2026-05-01T07:00:55
-description: "Beijing Auto Show 2026: VW präsentiert mit ID. AURA T6, Yu Qi 07 und einem Jetta-Modell drei neue Elektrofahrzeuge mit Horizon Robotics Assistenzsystemen."
-source: "Sina"
-image: "/images/ai-vw-id-aura-t6-und-yu-qi-07-mit-horizon-smart-driving-sina-inhwesks7842568.webp"
-category: "news"
-brand: "Volkswagen"
-tags: ["Volkswagen", "Horizon Robotics", "Beijing Auto Show 2026", "ID. AURA T6", "Yu Qi 07", "Jetta", "ADAS", "Autonomes Fahren"]
+title: >-
+  Volkswagen zeigt nächste E-Modell-Generation mit
+  Horizon-Smart-Driving-Technologie
+date: 2026-05-01T07:00:55.000Z
+description: >-
+  Beijing Auto Show 2026: VW präsentiert mit ID. AURA T6, Yu Qi 07 und einem
+  Jetta-Modell drei neue Elektrofahrzeuge mit Horizon Robotics
+  Assistenzsystemen.
+source: Sina
+image: >-
+  /images/ai-vw-id-aura-t6-und-yu-qi-07-mit-horizon-smart-driving-sina-inhwesks7842568.webp
+category: news
+brand: Volkswagen
+tags:
+  - Volkswagen
+  - Horizon Robotics
+  - Beijing Auto Show 2026
+  - ID. AURA T6
+  - Yu Qi 07
+  - Jetta
+  - ADAS
+  - Autonomes Fahren
 draft: false
-original_url: "https://auto.sina.com.cn/news/hy/2026-04-29/detail-inhwesks7842568.shtml"
+original_url: 'https://auto.sina.com.cn/news/hy/2026-04-29/detail-inhwesks7842568.shtml'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Volkswagen
+confidence: 0.9
 ---
 
 Beim Auftakt der Beijing Auto Show 2026 am 24. April hat der Volkswagen-Konzern gleich mehrere neue elektrische Fahrzeuge mit intelligenter Fahrunterstützung vorgestellt. Im Zentrum steht die Zusammenarbeit mit dem chinesischen Technologiepartner Horizon Robotics — und die damit verbundene ambitionierte Offensive im Bereich autonomen Fahrens.

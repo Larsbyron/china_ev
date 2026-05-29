@@ -1,15 +1,33 @@
 ---
-title: "Geely übernimmt Radar: E-Pickup King Kong EV ab 15.300 €"
+title: 'Geely übernimmt Radar: E-Pickup King Kong EV ab 15.300 €'
 date: 2026-05-19T06:11:45.391Z
-description: "Geely Auto kauft die Pickup-Marke Radar komplett für rund 27,9 Mio. €. Der Radar King Kong EV startet in China ab 15.300 € (rein elektrisch). Ein PHEV-Modell ist ebenfalls erhältlich, der Preis jedoch noch nicht genannt. Europa-Start offen."
-source: "CarNewsChina"
-image: "/images/geely-bernimmt-radar-e-pickup-king-kong-ev-ab-1530-carnewschina-19d98b.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Batterie", "Reichweite", "EV"]
+description: >-
+  Geely Auto kauft die Pickup-Marke Radar komplett für rund 27,9 Mio. €. Der
+  Radar King Kong EV startet in China ab 15.300 € (rein elektrisch). Ein
+  PHEV-Modell ist ebenfalls erhältlich, der Preis jedoch noch nicht genannt.
+  Europa-Start offen.
+source: CarNewsChina
+image: >-
+  /images/geely-bernimmt-radar-e-pickup-king-kong-ev-ab-1530-carnewschina-19d98b.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/19/geely-fully-takes-over-radar-as-global-nev-pickup-expansion-accelerates-in-32m-usd-deal/"
+original_url: >-
+  https://carnewschina.com/2026/05/19/geely-fully-takes-over-radar-as-global-nev-pickup-expansion-accelerates-in-32m-usd-deal/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Geely
+  - Radar
+confidence: 0.9
 ---
 
 # Geely übernimmt Radar: E-Pickup King Kong EV ab 15.300 €

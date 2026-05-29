@@ -1,15 +1,29 @@
 ---
-title: "Geely Galaxy Cruiser 700: 1.000-PS-Geländewagen ohne Tarnung gesichtet"
+title: 'Geely Galaxy Cruiser 700: 1.000-PS-Geländewagen ohne Tarnung gesichtet'
 date: 2026-05-25T19:19:03.334Z
-description: "Der Geely Galaxy Cruiser 700 wurde in China erstmals ungetarnt fotografiert. Der Leiterrahmen-Geländewagen mit 1.000 PS kommt noch 2025/2026 in den Handel – Großbritannien ist als erster Exportmarkt geplant."
-source: "CarNewsChina"
-image: "/images/geely-galaxy-cruiser-700-1000-ps-gelndewagen-ohne-carnewschina-e93af8.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Batterie", "Reichweite"]
+description: >-
+  Der Geely Galaxy Cruiser 700 wurde in China erstmals ungetarnt fotografiert.
+  Der Leiterrahmen-Geländewagen mit 1.000 PS kommt noch 2025/2026 in den Handel
+  – Großbritannien ist als erster Exportmarkt geplant.
+source: CarNewsChina
+image: >-
+  /images/geely-galaxy-cruiser-700-1000-ps-gelndewagen-ohne-carnewschina-e93af8.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/25/geely-galaxy-cruiser-700-plug-in-hybrid-suv-spotted-in-china-ahead-of-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/25/geely-galaxy-cruiser-700-plug-in-hybrid-suv-spotted-in-china-ahead-of-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.9
 ---
 
 # Geely Galaxy Cruiser 700: 1.000-PS-Geländewagen ohne Tarnung gesichtet

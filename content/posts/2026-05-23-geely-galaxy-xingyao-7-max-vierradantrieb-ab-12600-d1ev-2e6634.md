@@ -1,15 +1,27 @@
 ---
-title: "Geely Galaxy Xingyao 7 MAX: Vierradantrieb ab 12.600 €"
+title: 'Geely Galaxy Xingyao 7 MAX: Vierradantrieb ab 12.600 €'
 date: 2026-05-23T11:09:29.341Z
-description: "Geely bringt mit dem Galaxy Xingyao 7 MAX eine viertürige Hybrid-Limousine mit Allradantrieb und 5,4-Sekunden-Sprint. Preis in China: umgerechnet ab 12.600 €. Ein Marktstart in Europa ist noch nicht bestätigt."
-source: "D1EV"
-image: "/images/geely-galaxy-xingyao-7-max-vierradantrieb-ab-12600-d1ev-2e6634.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "EV"]
+description: >-
+  Geely bringt mit dem Galaxy Xingyao 7 MAX eine viertürige Hybrid-Limousine mit
+  Allradantrieb und 5,4-Sekunden-Sprint. Preis in China: umgerechnet ab 12.600
+  €. Ein Marktstart in Europa ist noch nicht bestätigt.
+source: D1EV
+image: /images/geely-galaxy-xingyao-7-max-vierradantrieb-ab-12600-d1ev-2e6634.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/300199"
+original_url: 'https://www.d1ev.com/news/qiye/300199'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.9
 ---
 
 # Geely Galaxy Xingyao 7 MAX: Vierradantrieb ab 12.600 €

@@ -1,15 +1,31 @@
 ---
-title: "Li Auto vs. Huawei: Zwei Philosophien für den KI-Agenten im Auto"
+title: 'Li Auto vs. Huawei: Zwei Philosophien für den KI-Agenten im Auto'
 date: 2026-05-27T12:54:10.451Z
-description: "Auf der Peking Auto Show zeigten Li Auto und Huawei konkurrierende Ansätze für KI-gesteuerte Fahrzeugassistenten. Während Huawei auf ein Ökosystem setzt, verfolgt Li Auto den Weg des „ganzheitlichen Roboters'. Ein Technologievergleich."
-source: "Sina"
-image: "/images/li-auto-vs-huawei-zwei-philosophien-fr-den-ki-agen-sina-55c61e.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "Reichweite", "EV"]
+description: >-
+  Auf der Peking Auto Show zeigten Li Auto und Huawei konkurrierende Ansätze für
+  KI-gesteuerte Fahrzeugassistenten. Während Huawei auf ein Ökosystem setzt,
+  verfolgt Li Auto den Weg des „ganzheitlichen Roboters'. Ein
+  Technologievergleich.
+source: Sina
+image: /images/li-auto-vs-huawei-zwei-philosophien-fr-den-ki-agen-sina-55c61e.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.8
 ---
 
 # Li Auto vs. Huawei: Zwei Philosophien für den KI-Agenten im Auto

@@ -1,15 +1,32 @@
 ---
-title: "BYD Blade 2.0: 170-Zellen-Pack nach 40h Tiefkühlung zerlegt"
+title: 'BYD Blade 2.0: 170-Zellen-Pack nach 40h Tiefkühlung zerlegt'
 date: 2026-05-20T20:06:41.835Z
-description: "BYDs zweite Generation Blade Battery hält stundenlangem Sägen und Hämmern stand. Ein chinesisches Team zeigt den 572 kg schweren Akku im Detail und diskutiert Kühlung, Kleber und Reparierbarkeit."
-source: "CarNewsChina"
-image: "/images/byd-blade-20-170-zellen-pack-nach-40h-tiefkhlung-z-carnewschina-e582c4.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Tesla", "Batterie", "E-Auto", "EV"]
+description: >-
+  BYDs zweite Generation Blade Battery hält stundenlangem Sägen und Hämmern
+  stand. Ein chinesisches Team zeigt den 572 kg schweren Akku im Detail und
+  diskutiert Kühlung, Kleber und Reparierbarkeit.
+source: CarNewsChina
+image: >-
+  /images/byd-blade-20-170-zellen-pack-nach-40h-tiefkhlung-z-carnewschina-e582c4.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Tesla
+  - Batterie
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/byd-blade-battery-teardown-reveals-170-cell-pack-after-40-hour-freeze-team-defends-8-hour-dismantling/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/byd-blade-battery-teardown-reveals-170-cell-pack-after-40-hour-freeze-team-defends-8-hour-dismantling/
 read_time_minutes: 3
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Blade 2.0: 170-Zellen-Pack nach 40h Tiefkühlung zerlegt

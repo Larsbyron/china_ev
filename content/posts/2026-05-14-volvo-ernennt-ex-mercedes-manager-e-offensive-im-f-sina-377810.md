@@ -1,15 +1,34 @@
 ---
-title: "Volvo ernennt Ex-Mercedes-Manager – E-Offensive im Fokus"
+title: Volvo ernennt Ex-Mercedes-Manager – E-Offensive im Fokus
 date: 2026-05-14T11:51:49.934Z
-description: "Volvo Cars ernennt Duan Jianjun zum neuen China-Chef. Der Ex-Mercedes-Manager soll die Elektrifizierung vorantreiben. Yuan Xiaolin verlässt das Unternehmen nach 16 Jahren."
-source: "Sina"
-image: "/images/volvo-ernennt-ex-mercedes-manager-e-offensive-im-f-sina-377810.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "BYD", "NIO", "Batterie", "Reichweite", "Elektroauto", "E-Auto", "Marktanteil"]
+description: >-
+  Volvo Cars ernennt Duan Jianjun zum neuen China-Chef. Der Ex-Mercedes-Manager
+  soll die Elektrifizierung vorantreiben. Yuan Xiaolin verlässt das Unternehmen
+  nach 16 Jahren.
+source: Sina
+image: /images/volvo-ernennt-ex-mercedes-manager-e-offensive-im-f-sina-377810.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - BYD
+  - NIO
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - E-Auto
+  - Marktanteil
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - Volvo
+  - Geely
+confidence: 0.9
 ---
 
 # Volvo ernennt Ex-Mercedes-Manager – E-Offensive im Fokus

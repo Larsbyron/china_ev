@@ -1,16 +1,35 @@
 ---
-title: "Fangbao, ID.ERA, Trumpchi: Drei chinesische SUV im Test"
+title: 'Fangbao, ID.ERA, Trumpchi: Drei chinesische SUV im Test'
 date: 2026-05-10T20:44:34.949Z
-description: "Fangbao Bao 7, ID.ERA 9X und Trumpchi NX8 im chinesischen Marktcheck. Die drei SUV zielen auf verschiedene Käufer: günstig, luxuriös oder komfortabel. Preise von ca. 19.000 € bis 45.000 €."
-source: "OFweek NEV"
-image: "/images/ai-fangbao-idera-trumpchi-drei-chinesische-suv-im-tes-ofweek-nev-eabda7.webp"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "XPeng", "Reichweite", "Zoll", "E-Auto", "EV"]
+description: >-
+  Fangbao Bao 7, ID.ERA 9X und Trumpchi NX8 im chinesischen Marktcheck. Die drei
+  SUV zielen auf verschiedene Käufer: günstig, luxuriös oder komfortabel. Preise
+  von ca. 19.000 € bis 45.000 €.
+source: OFweek NEV
+image: >-
+  /images/ai-fangbao-idera-trumpchi-drei-chinesische-suv-im-tes-ofweek-nev-eabda7.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - XPeng
+  - Reichweite
+  - Zoll
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - NIO
+  - Trumpchi
+confidence: 0.9
 ---
 
 # Fangbao, ID.ERA, Trumpchi: Drei chinesische SUV im Test

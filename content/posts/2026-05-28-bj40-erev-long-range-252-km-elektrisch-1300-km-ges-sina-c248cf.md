@@ -1,15 +1,29 @@
 ---
-title: "BJ40 EREV Long Range: 252 km elektrisch, 1.300 km gesamt"
+title: 'BJ40 EREV Long Range: 252 km elektrisch, 1.300 km gesamt'
 date: 2026-05-28T06:19:21.437Z
-description: "Beijing Off-road bringt den BJ40 als Range-Extender (EREV) mit 252 km reiner Elektro-Reichweite (CLTC) und 1.300 km Gesamtreichweite. Marktstart in China am 21. Mai. Ein Europa-Start ist nicht geplant."
-source: "Sina"
-image: "/images/bj40-erev-long-range-252-km-elektrisch-1300-km-ges-sina-c248cf.webp"
-category: "news"
-
-tags: ["BYD", "Reichweite", "E-Auto", "EV"]
+description: >-
+  Beijing Off-road bringt den BJ40 als Range-Extender (EREV) mit 252 km reiner
+  Elektro-Reichweite (CLTC) und 1.300 km Gesamtreichweite. Marktstart in China
+  am 21. Mai. Ein Europa-Start ist nicht geplant.
+source: Sina
+image: /images/bj40-erev-long-range-252-km-elektrisch-1300-km-ges-sina-c248cf.webp
+category: news
+tags:
+  - BYD
+  - Reichweite
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Beijing Off-road
+confidence: 0.95
 ---
 
 # BJ40 EREV Long Range: 252 km elektrisch, 1.300 km gesamt

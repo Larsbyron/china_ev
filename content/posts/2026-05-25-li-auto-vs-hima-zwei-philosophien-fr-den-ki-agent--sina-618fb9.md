@@ -1,15 +1,30 @@
 ---
-title: "Li Auto vs. HIMA: Zwei Philosophien für den KI-Agent im Auto"
+title: 'Li Auto vs. HIMA: Zwei Philosophien für den KI-Agent im Auto'
 date: 2026-05-25T06:25:01.813Z
-description: "Auf der Peking Auto Show zeigen Li Auto und HIMA (华为鸿蒙) gegensätzliche KI-Konzepte: Während HIMA auf einen zentralen Task-Manager setzt, verfolgt Li Auto einen end-to-end embodied Agent. Der Wettlauf um die Zukunft des intelligenten Cockpits ist eröffnet."
-source: "Sina"
-image: "/images/li-auto-vs-hima-zwei-philosophien-fr-den-ki-agent-sina-618fb9.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "EV"]
+description: >-
+  Auf der Peking Auto Show zeigen Li Auto und HIMA (华为鸿蒙) gegensätzliche
+  KI-Konzepte: Während HIMA auf einen zentralen Task-Manager setzt, verfolgt Li
+  Auto einen end-to-end embodied Agent. Der Wettlauf um die Zukunft des
+  intelligenten Cockpits ist eröffnet.
+source: Sina
+image: /images/li-auto-vs-hima-zwei-philosophien-fr-den-ki-agent-sina-618fb9.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - HIMA
+confidence: 0.8
 ---
 
 # Li Auto vs. HIMA: Zwei Philosophien für den KI-Agent im Auto

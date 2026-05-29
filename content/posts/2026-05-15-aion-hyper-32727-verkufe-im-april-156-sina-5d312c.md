@@ -1,15 +1,28 @@
 ---
-title: "Aion & Hyper: 32.727 Verkäufe im April, +15,6 %"
+title: 'Aion & Hyper: 32.727 Verkäufe im April, +15,6 %'
 date: 2026-05-15T19:21:49.096Z
-description: "Aion und Hyper verkauften im April 32.727 Fahrzeuge, ein Plus von 15,6 %. Auf der Auto China 2026 präsentierten beide Marken neue Modelle und ein frisches Markenauftreten. Die Expansion nach Europa läuft."
-source: "Sina"
-image: "/images/aion-hyper-32727-verkufe-im-april-156-sina-5d312c.webp"
-category: "news"
-brand: "Aion"
-tags: ["Aion"]
+description: >-
+  Aion und Hyper verkauften im April 32.727 Fahrzeuge, ein Plus von 15,6 %. Auf
+  der Auto China 2026 präsentierten beide Marken neue Modelle und ein frisches
+  Markenauftreten. Die Expansion nach Europa läuft.
+source: Sina
+image: /images/aion-hyper-32727-verkufe-im-april-156-sina-5d312c.webp
+category: news
+brand: Aion
+tags:
+  - Aion
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: global_industry
+brands:
+  - Aion
+  - Hyper
+confidence: 0.9
 ---
 
 # Aion & Hyper: 32.727 Verkäufe im April, +15,6 %

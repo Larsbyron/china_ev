@@ -1,4 +1,5 @@
 #!/usr/bin/env tsx
+import 'dotenv/config'
 /**
  * Backfill classification for existing articles.
  *
@@ -38,25 +39,26 @@ if (!API_KEY) {
 // Classification prompt (lean — just taxonomy, no translation)
 // ============================================================================
 
-const CLASSIFY_SYSTEM = `Du klassifizierst deutsche Automobilnews-Artikel.
-Antworte IMMER mit diesem Format (exakte Marker verwenden):
+const CLASSIFY_SYSTEM = `Du klassifizierst deutsche Automobilnews-Artikel. Gib NUR die Marker und Werte aus, KEINE Erklärungen.
 
+Erlaubte Themen (exakt so schreiben):
+modelle-marktstarts | preise-rabatte-wettbewerb | markt-absatz-zulassungen | politik-zoelle-regulierung | batterie-laden-reichweite | software-assistenz-autonomes-fahren | industrie-produktion-lieferkette | unternehmen-finanzen-kooperationen
+
+Erlaubte Marktwerte: de_available | eu_available | eu_planned | china_only | global_industry
+
+BEISPIELAUSGABE (genau so, kein anderes Format):
 ===THEMA===
-[Eine Kategorie: modelle-marktstarts | preise-rabatte-wettbewerb | markt-absatz-zulassungen | politik-zoelle-regulierung | batterie-laden-reichweite | software-assistenz-autonomes-fahren | industrie-produktion-lieferkette | unternehmen-finanzen-kooperationen]
-
+modelle-marktstarts
 ===SEKUNDAERE_THEMEN===
-[0-2 weitere Kategorien aus der gleichen Liste, komma-separiert. Leer wenn keine.]
-
+preise-rabatte-wettbewerb
 ===MARKTRELEVANZ===
-[de_available | eu_available | eu_planned | china_only | global_industry]
-
+de_available
 ===MARKEN===
-[Englische Markennamen, komma-separiert. Leer wenn keine.]
-
+BYD, NIO
 ===KONFIDENZ===
-[Zahl zwischen 0.0 und 1.0 — wie sicher bist du?]
+0.9
 
-Tie-Breaker: 1=modelle-marktstarts wenn neues Modell/Marktstart, 2=preise-rabatte-wettbewerb wenn Preis/Preiskampf dominiert, 3=markt-absatz-zulassungen wenn Verkaufszahlen, 4=politik-zoelle-regulierung wenn Zölle/Regulierung.`
+Tie-Breaker: neues Modell/Marktstart → modelle-marktstarts; Preissenkung/Preiskampf → preise-rabatte-wettbewerb; Verkaufszahlen → markt-absatz-zulassungen; Zölle/Regulierung → politik-zoelle-regulierung`
 
 function buildClassifyPrompt(title: string, excerpt: string): string {
   return `TITEL: ${title}\n\nINHALT (Auszug):\n${excerpt.slice(0, 1500)}`
@@ -75,7 +77,7 @@ async function classify(title: string, content: string): Promise<{
 }> {
   const body = JSON.stringify({
     model: MODEL,
-    max_tokens: 256,
+    max_tokens: 1024,
     temperature: 0.1,
     messages: [
       { role: 'system', content: CLASSIFY_SYSTEM },
@@ -104,11 +106,15 @@ async function classify(title: string, content: string): Promise<{
     return raw.slice(start, ei === -1 ? raw.length : ei).trim()
   }
 
-  const themaRaw = extract('===THEMA===', '===SEKUNDAERE_THEMEN===').toLowerCase()
+  // Only use first non-empty line — DeepSeek sometimes appends explanations
+  const firstLine = (s: string) =>
+    s.split('\n').map(l => l.trim()).find(l => l.length > 0) ?? ''
+
+  const themaRaw = firstLine(extract('===THEMA===', '===SEKUNDAERE_THEMEN===')).toLowerCase()
   const sekRaw = extract('===SEKUNDAERE_THEMEN===', '===MARKTRELEVANZ===')
-  const mktRaw = extract('===MARKTRELEVANZ===', '===MARKEN===').toLowerCase()
+  const mktRaw = firstLine(extract('===MARKTRELEVANZ===', '===MARKEN===')).toLowerCase()
   const markenRaw = extract('===MARKEN===', '===KONFIDENZ===')
-  const konfRaw = extract('===KONFIDENZ===', '\n\n')
+  const konfRaw = firstLine(extract('===KONFIDENZ===', '===END==='))
 
   const primaryTopic = isValidTopicSlug(themaRaw) ? themaRaw : undefined
   const secondaryTopics = sekRaw

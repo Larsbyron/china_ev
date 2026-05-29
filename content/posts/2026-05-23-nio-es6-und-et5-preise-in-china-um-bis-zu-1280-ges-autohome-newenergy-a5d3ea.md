@@ -1,15 +1,31 @@
 ---
-title: "NIO ES6 und ET5: Preise in China um bis zu 1.280 € gestiegen"
+title: 'NIO ES6 und ET5: Preise in China um bis zu 1.280 € gestiegen'
 date: 2026-05-23T11:06:17.293Z
-description: "NIO (蔚来) erhöht die Preise für ES6 und ET5 in China um 640 bis 1.280 €. Grund sind steigende Kosten für Rohstoffe und Speicherchips. Gleichzeitig senken Verbrenner-Hersteller die Preise drastisch – ein verrückter Markt."
-source: "Autohome NewEnergy"
-image: "/images/nio-es6-und-et5-preise-in-china-um-bis-zu-1280-ges-autohome-newenergy-a5d3ea.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Xiaomi SU", "Elektroauto", "E-Auto", "Marktanteil"]
+description: >-
+  NIO (蔚来) erhöht die Preise für ES6 und ET5 in China um 640 bis 1.280 €. Grund
+  sind steigende Kosten für Rohstoffe und Speicherchips. Gleichzeitig senken
+  Verbrenner-Hersteller die Preise drastisch – ein verrückter Markt.
+source: Autohome NewEnergy
+image: >-
+  /images/nio-es6-und-et5-preise-in-china-um-bis-zu-1280-ges-autohome-newenergy-a5d3ea.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - Xiaomi SU
+  - Elektroauto
+  - E-Auto
+  - Marktanteil
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314442.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314442.html'
 read_time_minutes: 2
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - NIO
+confidence: 0.9
 ---
 
 # NIO ES6 und ET5: Preise in China um bis zu 1.280 € gestiegen

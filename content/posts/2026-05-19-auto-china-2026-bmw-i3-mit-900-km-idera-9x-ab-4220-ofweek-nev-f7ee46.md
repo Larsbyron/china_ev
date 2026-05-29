@@ -1,15 +1,32 @@
 ---
-title: "Auto China 2026: BMW i3 mit 900 km, ID.ERA 9X ab 42.200 €"
+title: 'Auto China 2026: BMW i3 mit 900 km, ID.ERA 9X ab 42.200 €'
 date: 2026-05-19T06:10:47.050Z
-description: "Die Peking Auto Show 2026 wird zur größten der Geschichte: 181 Weltpremieren, darunter der Mercedes GLC L EV, BMW i7, iX3 und i3, VW ID.ERA 9X sowie Audi E7X. Deutsche Hersteller zeigen ihre neuesten E‑Modelle für den chinesischen Markt."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Die Peking Auto Show 2026 wird zur größten der Geschichte: 181 Weltpremieren,
+  darunter der Mercedes GLC L EV, BMW i7, iX3 und i3, VW ID.ERA 9X sowie Audi
+  E7X. Deutsche Hersteller zeigen ihre neuesten E‑Modelle für den chinesischen
+  Markt.
+source: OFweek NEV
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BMW
+  - Mercedes
+  - VW
+  - Audi
+confidence: 0.9
 ---
 
 # Auto China 2026: BMW i3 mit 900 km, ID.ERA 9X ab 42.200 €

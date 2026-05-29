@@ -1,15 +1,30 @@
 ---
-title: "Wuling Starlight L: 6-Sitzer-SUV ab 12.800 € für Chinas Familien"
+title: 'Wuling Starlight L: 6-Sitzer-SUV ab 12.800 € für Chinas Familien'
 date: 2026-05-23T05:37:58.555Z
-description: "Wuling bringt den Starlight L als großes 6-Sitzer-SUV für Familien auf den Markt. Der Range Extender bietet 260 km E-Reichweite. Preis in China: 12.800–19.200 €. Marktstart ist im zweiten Halbjahr 2026 – eine Europa-Einführung ist nicht geplant."
-source: "ChooseAuto"
-image: "/images/wuling-starlight-l-6-sitzer-suv-ab-12800-fr-chinas-chooseauto-a49f7c.webp"
-category: "news"
-
-tags: ["Li Auto", "Reichweite", "EV"]
+description: >-
+  Wuling bringt den Starlight L als großes 6-Sitzer-SUV für Familien auf den
+  Markt. Der Range Extender bietet 260 km E-Reichweite. Preis in China:
+  12.800–19.200 €. Marktstart ist im zweiten Halbjahr 2026 – eine
+  Europa-Einführung ist nicht geplant.
+source: ChooseAuto
+image: >-
+  /images/wuling-starlight-l-6-sitzer-suv-ab-12800-fr-chinas-chooseauto-a49f7c.webp
+category: news
+tags:
+  - Li Auto
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/910506.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/910506.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Wuling
+confidence: 0.95
 ---
 
 # Wuling Starlight L: 6-Sitzer-SUV ab 12.800 € für Chinas Familien

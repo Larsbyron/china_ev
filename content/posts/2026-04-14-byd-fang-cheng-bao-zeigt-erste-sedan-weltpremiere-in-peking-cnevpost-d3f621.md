@@ -1,13 +1,31 @@
 ---
-title: "BYD Fang Cheng Bao: Erste Limousine feiert auf der Peking Mobil World Debüt"
+title: 'BYD Fang Cheng Bao: Erste Limousine feiert auf der Peking Mobil World Debüt'
 date: 2026-04-14T10:30:00.000Z
-description: "BYDs Offroad-Submarke Fang Cheng Bao erweitert sein Portfolio um eine Limousine. Das erste Modell der neuen Mei-Reihe wird auf der Peking Mobil World enthüllt."
-source: "CnEVPost"
-image: "/images/byd-fang-cheng-bao-zeigt-erste-sedan-weltpremiere-in-peking-cnevpost-d3f621.webp"
-category: "news"
-tags: ["BYD", "Fang Cheng Bao", "Sedan", "Mei", "Peking Mobil World"]
+description: >-
+  BYDs Offroad-Submarke Fang Cheng Bao erweitert sein Portfolio um eine
+  Limousine. Das erste Modell der neuen Mei-Reihe wird auf der Peking Mobil
+  World enthüllt.
+source: CnEVPost
+image: >-
+  /images/byd-fang-cheng-bao-zeigt-erste-sedan-weltpremiere-in-peking-cnevpost-d3f621.webp
+category: news
+tags:
+  - BYD
+  - Fang Cheng Bao
+  - Sedan
+  - Mei
+  - Peking Mobil World
 draft: false
-original_url: "https://cnevpost.com/2026/04/14/byd-fang-cheng-bao-to-unveil-first-sedan-beijing-auto-show/"
+original_url: >-
+  https://cnevpost.com/2026/04/14/byd-fang-cheng-bao-to-unveil-first-sedan-beijing-auto-show/
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - BYD
+  - Fang Cheng Bao
+confidence: 0.9
 ---
 
 # BYD Submarke Fang Cheng Bao zeigt erste Limousine

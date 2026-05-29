@@ -1,15 +1,34 @@
 ---
-title: "XPeng GX: Familien-SUV ab 34.500 € mit bis zu 1.585 km Reichweite"
+title: 'XPeng GX: Familien-SUV ab 34.500 € mit bis zu 1.585 km Reichweite'
 date: 2026-05-21T06:31:45.580Z
-description: "Der neue XPeng GX kommt als voll-elektrischer oder Range-Extender-SUV. Preise starten in China bei umgerechnet 34.500 €. Die Topversion bietet 750 km (CLTC) bzw. 1.585 km mit Generator. Marktstart in Deutschland noch offen."
-source: "ChooseAuto"
-image: "/images/xpeng-gx-familien-suv-ab-34500-mit-bis-zu-1585-km-chooseauto-8a1433.webp"
-category: "news"
-brand: "XPeng"
-tags: ["XPeng", "Xpeng", "Batterie", "Reichweite", "Zoll", "Elektroauto", "EV"]
+description: >-
+  Der neue XPeng GX kommt als voll-elektrischer oder Range-Extender-SUV. Preise
+  starten in China bei umgerechnet 34.500 €. Die Topversion bietet 750 km (CLTC)
+  bzw. 1.585 km mit Generator. Marktstart in Deutschland noch offen.
+source: ChooseAuto
+image: >-
+  /images/xpeng-gx-familien-suv-ab-34500-mit-bis-zu-1585-km-chooseauto-8a1433.webp
+category: news
+brand: XPeng
+tags:
+  - XPeng
+  - Xpeng
+  - Batterie
+  - Reichweite
+  - Zoll
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/908266.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/908266.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.9
 ---
 
 # XPeng GX: Familien-SUV ab 34.500 € mit bis zu 1.585 km Reichweite

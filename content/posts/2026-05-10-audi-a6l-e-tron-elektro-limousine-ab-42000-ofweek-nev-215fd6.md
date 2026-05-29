@@ -1,16 +1,37 @@
 ---
-title: "Audi A6L e-tron: Elektro-Limousine ab 42.000 €"
+title: 'Audi A6L e-tron: Elektro-Limousine ab 42.000 €'
 date: 2026-05-10T20:36:43.389Z
-description: "Der vollelektrische Audi A6L e-tron startet im März 2026 in China zu umgerechnet rund 42.200 €. Mit 770 km Reichweite (CLTC) und 107-kWh-Batterie setzt er neue Maßstäbe. Auch Xiaomi und VW bringen frische Modelle."
-source: "OFweek NEV"
-image: "/images/ai-audi-a6l-e-tron-elektro-limousine-ab-42000-ofweek-nev-215fd6.webp"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "XPeng", "MG", "Reichweite", "EV"]
+description: >-
+  Der vollelektrische Audi A6L e-tron startet im März 2026 in China zu
+  umgerechnet rund 42.200 €. Mit 770 km Reichweite (CLTC) und 107-kWh-Batterie
+  setzt er neue Maßstäbe. Auch Xiaomi und VW bringen frische Modelle.
+source: OFweek NEV
+image: /images/ai-audi-a6l-e-tron-elektro-limousine-ab-42000-ofweek-nev-215fd6.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - XPeng
+  - MG
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-02/ART-71000-8220-30681834.html"
+original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30681834.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - Xiaomi
+  - VW
+  - BYD
+  - NIO
+  - XPeng
+  - MG
+confidence: 0.95
 ---
 
 # Audi A6L e-tron: Elektro-Limousine ab 42.000 €

@@ -1,15 +1,27 @@
 ---
-title: "Li Auto: Datenverkauf adé – Fokus auf Technik-Upgrade"
+title: 'Li Auto: Datenverkauf adé – Fokus auf Technik-Upgrade'
 date: 2026-05-27T20:08:19.413Z
-description: "Chinas E-Auto-Pioniere wie Li Auto (理想) kehren dem lukrativen Datenhandel den Rücken. Grund: strenge Regulierung und Mini-Gewinne. Stattdessen fließen Fahrzeugdaten in die Optimierung von Fahrassistenz und Service."
-source: "D1EV"
-image: "/images/li-auto-datenverkauf-ad-fokus-auf-technik-upgrade-d1ev-22d2aa.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "EV"]
+description: >-
+  Chinas E-Auto-Pioniere wie Li Auto (理想) kehren dem lukrativen Datenhandel den
+  Rücken. Grund: strenge Regulierung und Mini-Gewinne. Stattdessen fließen
+  Fahrzeugdaten in die Optimierung von Fahrassistenz und Service.
+source: D1EV
+image: /images/li-auto-datenverkauf-ad-fokus-auf-technik-upgrade-d1ev-22d2aa.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300770"
+original_url: 'https://www.d1ev.com/news/shichang/300770'
 read_time_minutes: 2
+primaryTopic: politik-zoelle-regulierung
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: global_industry
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto: Datenverkauf adé – Fokus auf Technik-Upgrade

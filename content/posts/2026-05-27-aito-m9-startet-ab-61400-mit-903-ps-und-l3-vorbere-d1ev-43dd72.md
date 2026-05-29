@@ -1,15 +1,31 @@
 ---
-title: "AITO M9 startet ab 61.400 € mit 903 PS und L3-Vorbereitung"
+title: AITO M9 startet ab 61.400 € mit 903 PS und L3-Vorbereitung
 date: 2026-05-27T20:06:22.051Z
-description: "Der neue AITO M9 von HIMA feiert China-Premiere. Das Luxus-SUV bietet 903 PS, 40 Sensoren und Stufe-3-Fähigkeit. Preise: 479.800 bis 569.800 Yuan (ca. 61.400–72.900 €). 11.000 Bestellungen in der ersten Stunde."
-source: "D1EV"
-image: "/images/aito-m9-startet-ab-61400-mit-903-ps-und-l3-vorbere-d1ev-43dd72.webp"
-category: "news"
-
-tags: ["NIO", "Li Auto", "Zeekr"]
+description: >-
+  Der neue AITO M9 von HIMA feiert China-Premiere. Das Luxus-SUV bietet 903 PS,
+  40 Sensoren und Stufe-3-Fähigkeit. Preise: 479.800 bis 569.800 Yuan (ca.
+  61.400–72.900 €). 11.000 Bestellungen in der ersten Stunde.
+source: D1EV
+image: /images/aito-m9-startet-ab-61400-mit-903-ps-und-l3-vorbere-d1ev-43dd72.webp
+category: news
+tags:
+  - NIO
+  - Li Auto
+  - Zeekr
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300789"
+original_url: 'https://www.d1ev.com/news/shichang/300789'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - AITO
+  - NIO
+  - Li Auto
+  - Zeekr
+confidence: 0.9
 ---
 
 # AITO M9 startet ab 61.400 € mit 903 PS und L3-Vorbereitung

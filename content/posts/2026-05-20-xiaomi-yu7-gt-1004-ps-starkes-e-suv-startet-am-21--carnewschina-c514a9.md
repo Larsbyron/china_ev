@@ -1,15 +1,36 @@
 ---
-title: "Xiaomi YU7 GT: 1004 PS starkes E-SUV startet am 21. Mai"
+title: 'Xiaomi YU7 GT: 1004 PS starkes E-SUV startet am 21. Mai'
 date: 2026-05-20T12:20:52.526Z
-description: "Der Xiaomi YU7 GT kommt am 21. Mai 2026 in China auf den Markt. Der Dual-Motor-Allradler leistet 738 kW (ca. 1004 PS), erreicht 300 km/h und bietet 705 km Reichweite (CLTC). Ein Preis steht noch aus, der aber über dem Serien-YU7 liegen wird."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-1004-ps-starkes-e-suv-startet-am-21-carnewschina-c514a9.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Tesla", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der Xiaomi YU7 GT kommt am 21. Mai 2026 in China auf den Markt. Der
+  Dual-Motor-Allradler leistet 738 kW (ca. 1004 PS), erreicht 300 km/h und
+  bietet 705 km Reichweite (CLTC). Ein Preis steht noch aus, der aber über dem
+  Serien-YU7 liegen wird.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-gt-1004-ps-starkes-e-suv-startet-am-21-carnewschina-c514a9.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/20/xiaomi-yu7-gt-performance-suv-to-enter-china-with-five-body-color-options/"
+original_url: >-
+  https://carnewschina.com/2026/05/20/xiaomi-yu7-gt-performance-suv-to-enter-china-with-five-body-color-options/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi YU7 GT: 1004 PS starkes E-SUV startet am 21. Mai

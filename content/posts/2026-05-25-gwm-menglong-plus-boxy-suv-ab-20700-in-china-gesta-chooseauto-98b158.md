@@ -1,15 +1,30 @@
 ---
-title: "GWM Menglong PLUS: Boxy-SUV ab 20.700 € in China gestartet"
+title: 'GWM Menglong PLUS: Boxy-SUV ab 20.700 € in China gestartet'
 date: 2026-05-25T13:03:12.094Z
-description: "Der GWM Menglong PLUS startet in China zum Preis ab 16,18 万元 (ca. 20.700 €). Der 4,9 Meter lange Allrad-SUV mit 5 oder 7 Sitzen bietet 255 km elektrische Reichweite (CLTC) und wird in 22 Städten ausgeliefert."
-source: "ChooseAuto"
-image: "/images/gwm-menglong-plus-boxy-suv-ab-20700-in-china-gesta-chooseauto-98b158.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite"]
+description: >-
+  Der GWM Menglong PLUS startet in China zum Preis ab 16,18 万元 (ca. 20.700 €).
+  Der 4,9 Meter lange Allrad-SUV mit 5 oder 7 Sitzen bietet 255 km elektrische
+  Reichweite (CLTC) und wird in 22 Städten ausgeliefert.
+source: ChooseAuto
+image: >-
+  /images/gwm-menglong-plus-boxy-suv-ab-20700-in-china-gesta-chooseauto-98b158.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/912502.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/912502.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - GWM
+  - Haval
+confidence: 0.95
 ---
 
 # GWM Menglong PLUS: Boxy-SUV ab 20.700 € in China gestartet

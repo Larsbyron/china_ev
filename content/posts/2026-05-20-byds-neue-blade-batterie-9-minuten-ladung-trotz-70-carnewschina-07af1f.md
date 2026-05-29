@@ -1,15 +1,32 @@
 ---
-title: "BYDs neue Blade-Batterie: 9 Minuten Ladung trotz 70 °C"
+title: 'BYDs neue Blade-Batterie: 9 Minuten Ladung trotz 70 °C'
 date: 2026-05-20T06:05:12.190Z
-description: "BYDs zweite Blade-Batterie lädt in neun Minuten von 10 auf 97 %. CTO Sun Huajun weist Kritik an Überhitzung zurück: 70 °C seien kein Hindernis mehr. BYD baut 20.000 Schnellladestationen in China."
-source: "CarNewsChina"
-image: "/images/byds-neue-blade-batterie-9-minuten-ladung-trotz-70-carnewschina-07af1f.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Ladestation", "Elektroauto", "EV"]
+description: >-
+  BYDs zweite Blade-Batterie lädt in neun Minuten von 10 auf 97 %. CTO Sun
+  Huajun weist Kritik an Überhitzung zurück: 70 °C seien kein Hindernis mehr.
+  BYD baut 20.000 Schnellladestationen in China.
+source: CarNewsChina
+image: >-
+  /images/byds-neue-blade-batterie-9-minuten-ladung-trotz-70-carnewschina-07af1f.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Ladestation
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/19/byd-battery-cto-defends-2nd-gen-blade-battery-70c-high-temperature-is-no-longer-a-barrier/"
+original_url: >-
+  https://carnewschina.com/2026/05/19/byd-battery-cto-defends-2nd-gen-blade-battery-70c-high-temperature-is-no-longer-a-barrier/
 read_time_minutes: 3
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYDs neue Blade-Batterie: 9 Minuten Ladung trotz 70 °C

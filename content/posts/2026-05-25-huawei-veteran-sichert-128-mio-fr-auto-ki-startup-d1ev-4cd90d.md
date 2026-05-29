@@ -1,15 +1,27 @@
 ---
-title: "Huawei-Veteran sichert 128 Mio. € für Auto-KI-Startup"
+title: Huawei-Veteran sichert 128 Mio. € für Auto-KI-Startup
 date: 2026-05-25T19:22:54.873Z
-description: "Das chinesische KI-Startup Junao Panshi sammelt umgerechnet 128 Mio. € ein – unter Führung eines Industrieinvestors. Gründer ist ein früherer Huawei-Top-Manager, die Technologie soll Robotern das Lernen in Echtzeit ermöglichen."
-source: "D1EV"
-image: "/images/huawei-veteran-sichert-128-mio-fr-auto-ki-startup-d1ev-4cd90d.webp"
-category: "news"
-
-tags: ["MG", "Elektroauto", "EV"]
+description: >-
+  Das chinesische KI-Startup Junao Panshi sammelt umgerechnet 128 Mio. € ein –
+  unter Führung eines Industrieinvestors. Gründer ist ein früherer
+  Huawei-Top-Manager, die Technologie soll Robotern das Lernen in Echtzeit
+  ermöglichen.
+source: D1EV
+image: /images/huawei-veteran-sichert-128-mio-fr-auto-ki-startup-d1ev-4cd90d.webp
+category: news
+tags:
+  - MG
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300381"
+original_url: 'https://www.d1ev.com/news/shichang/300381'
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: global_industry
+brands: []
+confidence: 0.9
 ---
 
 # Huawei-Veteran sichert 128 Mio. € für Auto-KI-Startup

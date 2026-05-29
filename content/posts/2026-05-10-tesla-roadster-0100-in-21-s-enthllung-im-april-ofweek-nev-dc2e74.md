@@ -1,16 +1,32 @@
 ---
-title: "Tesla Roadster: 0–100 in 2,1 s – Enthüllung im April"
+title: 'Tesla Roadster: 0–100 in 2,1 s – Enthüllung im April'
 date: 2026-05-10T20:47:40.659Z
-description: "Nach jahrelanger Verzögerung kündigt Tesla den zweiten Roadster an. Der Elektro-Supersportwagen bietet über 1000 km Reichweite, 400+ km/h und einen Preis von 200.000 $. Enthüllung Mitte April 2026."
-source: "OFweek NEV"
-image: "/images/ai-tesla-roadster-0100-in-21-s-enthllung-im-april-ofweek-nev-dc2e74.webp"
-
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "BYD", "Xiaomi SU", "Tesla", "Reichweite"]
+description: >-
+  Nach jahrelanger Verzögerung kündigt Tesla den zweiten Roadster an. Der
+  Elektro-Supersportwagen bietet über 1000 km Reichweite, 400+ km/h und einen
+  Preis von 200.000 $. Enthüllung Mitte April 2026.
+source: OFweek NEV
+image: >-
+  /images/ai-tesla-roadster-0100-in-21-s-enthllung-im-april-ofweek-nev-dc2e74.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - BYD
+  - Xiaomi SU
+  - Tesla
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30683194.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30683194.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: global_industry
+brands:
+  - Tesla
+confidence: 0.9
 ---
 
 # Tesla Roadster: 0–100 in 2,1 s – Enthüllung im April

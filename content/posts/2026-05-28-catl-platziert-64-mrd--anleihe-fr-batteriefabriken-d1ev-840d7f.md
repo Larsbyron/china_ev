@@ -1,15 +1,28 @@
 ---
-title: "CATL platziert 6,4-Mrd-€-Anleihe für Batteriefabriken"
+title: 'CATL platziert 6,4-Mrd-€-Anleihe für Batteriefabriken'
 date: 2026-05-28T13:50:28.102Z
-description: "Der chinesische Batterieriese CATL (宁德时代) nimmt 6,4 Mrd. € auf, um seine globalen Megafabriken zu finanzieren. Die Investitionen senken Batteriekosten und beschleunigen die Produktion günstigerer E-Autos – auch für Europa."
-source: "D1EV"
-image: "/images/catl-platziert-64-mrd-anleihe-fr-batteriefabriken-d1ev-840d7f.webp"
-category: "news"
-
-tags: ["Batterie", "Ladestation", "E-Auto", "EV"]
+description: >-
+  Der chinesische Batterieriese CATL (宁德时代) nimmt 6,4 Mrd. € auf, um seine
+  globalen Megafabriken zu finanzieren. Die Investitionen senken Batteriekosten
+  und beschleunigen die Produktion günstigerer E-Autos – auch für Europa.
+source: D1EV
+image: /images/catl-platziert-64-mrd-anleihe-fr-batteriefabriken-d1ev-840d7f.webp
+category: news
+tags:
+  - Batterie
+  - Ladestation
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300871"
+original_url: 'https://www.d1ev.com/news/shichang/300871'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - CATL
+confidence: 0.9
 ---
 
 # CATL platziert 6,4-Mrd-€-Anleihe für Batteriefabriken

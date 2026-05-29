@@ -1,15 +1,31 @@
 ---
-title: "Li Auto L9 Livis: KI-Cockpit-Agent ab ca. 42.000 €"
+title: 'Li Auto L9 Livis: KI-Cockpit-Agent ab ca. 42.000 €'
 date: 2026-05-22T19:29:01.134Z
-description: "Auf der Auto China 2026 in Peking duellieren sich Li Auto und Huawei mit gegensätzlichen KI-Cockpit-Architekturen. Der Li L9 Livis von Li Auto setzt auf einen durchgängigen Agenten, HIMA auf ein modulares System. Ein Wettstreit um die Zukunft des intelligenten Fahrzeugs."
-source: "Sina"
-image: "/images/li-auto-l9-livis-ki-cockpit-agent-ab-ca-42000-sina-9ed06f.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "Reichweite", "EV"]
+description: >-
+  Auf der Auto China 2026 in Peking duellieren sich Li Auto und Huawei mit
+  gegensätzlichen KI-Cockpit-Architekturen. Der Li L9 Livis von Li Auto setzt
+  auf einen durchgängigen Agenten, HIMA auf ein modulares System. Ein Wettstreit
+  um die Zukunft des intelligenten Fahrzeugs.
+source: Sina
+image: /images/li-auto-l9-livis-ki-cockpit-agent-ab-ca-42000-sina-9ed06f.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9 Livis: KI-Cockpit-Agent ab ca. 42.000 €

@@ -1,15 +1,31 @@
 ---
-title: "Hinge Automotive: Glasfaser-Netzwerk revolutioniert Auto-Kommunikation"
+title: 'Hinge Automotive: Glasfaser-Netzwerk revolutioniert Auto-Kommunikation'
 date: 2026-05-22T12:17:21.491Z
-description: "Auf dem Automotive Ethernet Congress in München zeigt der chinesische Spezialist Hinge Automotive gemeinsam mit Corning und KDPOF eine 10G-Glasfaser-Architektur für autonomes Fahren – sie soll Kupferkabel ersetzen."
-source: "D1EV"
-image: "/images/hinge-automotive-glasfaser-netzwerk-revolutioniert-d1ev-e82044.webp"
-category: "news"
-
-tags: ["Reichweite", "Elektroauto", "EV"]
+description: >-
+  Auf dem Automotive Ethernet Congress in München zeigt der chinesische
+  Spezialist Hinge Automotive gemeinsam mit Corning und KDPOF eine
+  10G-Glasfaser-Architektur für autonomes Fahren – sie soll Kupferkabel
+  ersetzen.
+source: D1EV
+image: /images/hinge-automotive-glasfaser-netzwerk-revolutioniert-d1ev-e82044.webp
+category: news
+tags:
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300074"
+original_url: 'https://www.d1ev.com/news/shichang/300074'
 read_time_minutes: 2
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - industrie-produktion-lieferkette
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - Hinge Automotive
+  - Corning
+  - KDPOF
+confidence: 0.9
 ---
 
 # Hinge Automotive: Glasfaser-Netzwerk revolutioniert Auto-Kommunikation

@@ -1,15 +1,29 @@
 ---
-title: "Beijing Off-Road BJ40 EREV: 1.300 km Reichweite ab 25.600 €"
+title: 'Beijing Off-Road BJ40 EREV: 1.300 km Reichweite ab 25.600 €'
 date: 2026-05-22T11:03:06.388Z
-description: "Beijing Off-Road bringt den BJ40 als Range-Extender mit 1.300 km CLTC-Reichweite. Der EREV startet am 21. Mai in China zum Preis ab rund 25.600 € – eine Europa-Perspektive fehlt noch."
-source: "Sina"
-image: "/images/beijing-off-road-bj40-erev-1300-km-reichweite-ab-2-sina-ce28bb.webp"
-category: "news"
-
-tags: ["BYD", "Reichweite", "EV"]
+description: >-
+  Beijing Off-Road bringt den BJ40 als Range-Extender mit 1.300 km
+  CLTC-Reichweite. Der EREV startet am 21. Mai in China zum Preis ab rund 25.600
+  € – eine Europa-Perspektive fehlt noch.
+source: Sina
+image: /images/beijing-off-road-bj40-erev-1300-km-reichweite-ab-2-sina-ce28bb.webp
+category: news
+tags:
+  - BYD
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Beijing Off-Road
+confidence: 0.9
 ---
 
 # Beijing Off-Road BJ40 EREV: 1.300 km Reichweite ab 25.600 €

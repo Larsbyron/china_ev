@@ -1,15 +1,35 @@
 ---
-title: "BYD Seal 08: 900-km-Reichweite-Flaggschiff kommt 2026"
+title: 'BYD Seal 08: 900-km-Reichweite-Flaggschiff kommt 2026'
 date: 2026-05-22T12:18:08.971Z
-description: "Der neue BYD Seal 08 tritt als Flaggschiff der Ocean-Serie an: 900 km Reichweite (CLTC) mit 800-Volt-Architektur, Hinterachslenkung und Blitzladen. Marktstart in China im zweiten Quartal 2026."
-source: "CarNewsChina"
-image: "/images/byd-seal-08-900-km-reichweite-flaggschiff-kommt-20-carnewschina-2ccb09.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "MG", "Tesla", "Batterie", "Reichweite", "Ladestation", "Elektroauto"]
+description: >-
+  Der neue BYD Seal 08 tritt als Flaggschiff der Ocean-Serie an: 900 km
+  Reichweite (CLTC) mit 800-Volt-Architektur, Hinterachslenkung und Blitzladen.
+  Marktstart in China im zweiten Quartal 2026.
+source: CarNewsChina
+image: >-
+  /images/byd-seal-08-900-km-reichweite-flaggschiff-kommt-20-carnewschina-2ccb09.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - Elektroauto
 draft: false
-original_url: "https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Seal 08: 900-km-Reichweite-Flaggschiff kommt 2026

@@ -1,15 +1,33 @@
 ---
-title: "BYD patentiert Sulfid-Festkörperbatterie: Pilotlinie 2027"
+title: 'BYD patentiert Sulfid-Festkörperbatterie: Pilotlinie 2027'
 date: 2026-05-27T12:53:11.054Z
-description: "BYD hat im Mai 2026 ein Patent für eine Festkörperbatterie mit Sulfid-Elektrolyt eingereicht. Chefwissenschaftler Lian Yubo spricht von einer „kritischen Durchbruchsphase“ – die Pilotproduktion soll 2027 anlaufen."
-source: "CarNewsChina"
-image: "/images/byd-patentiert-sulfid-festkrperbatterie-pilotlinie-carnewschina-82973b.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "E-Auto", "EV", "Marktanteil"]
+description: >-
+  BYD hat im Mai 2026 ein Patent für eine Festkörperbatterie mit
+  Sulfid-Elektrolyt eingereicht. Chefwissenschaftler Lian Yubo spricht von einer
+  „kritischen Durchbruchsphase“ – die Pilotproduktion soll 2027 anlaufen.
+source: CarNewsChina
+image: >-
+  /images/byd-patentiert-sulfid-festkrperbatterie-pilotlinie-carnewschina-82973b.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - E-Auto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production/"
+original_url: >-
+  https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production/
 read_time_minutes: 3
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD patentiert Sulfid-Festkörperbatterie: Pilotlinie 2027

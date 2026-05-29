@@ -1,15 +1,34 @@
 ---
-title: "BYD: Feststoffbatterien kurz vor Durchbruch – Konkurrent liefert"
+title: 'BYD: Feststoffbatterien kurz vor Durchbruch – Konkurrent liefert'
 date: 2026-05-16T05:26:17.359Z
-description: "BYD-Chefwissenschaftler Lian Yubo sieht die Feststoffbatterie-Branche an einem kritischen Wendepunkt. Parallel startet das Startup Pure Lithium die Serienproduktion seiner 500‑MWh-Linie."
-source: "CarNewsChina"
-image: "/images/byd-feststoffbatterien-kurz-vor-durchbruch-konkurr-carnewschina-f60997.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Elektroauto", "Marktanteil"]
+description: >-
+  BYD-Chefwissenschaftler Lian Yubo sieht die Feststoffbatterie-Branche an einem
+  kritischen Wendepunkt. Parallel startet das Startup Pure Lithium die
+  Serienproduktion seiner 500‑MWh-Linie.
+source: CarNewsChina
+image: >-
+  /images/byd-feststoffbatterien-kurz-vor-durchbruch-konkurr-carnewschina-f60997.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/14/pure-lithium-solid-state-battery-keeps-running-after-cut-test-as-startup-hits-500-mwh-output/"
+original_url: >-
+  https://carnewschina.com/2026/05/14/pure-lithium-solid-state-battery-keeps-running-after-cut-test-as-startup-hits-500-mwh-output/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - BYD
+  - Pure Lithium
+confidence: 0.9
 ---
 
 # BYD: Feststoffbatterien kurz vor Durchbruch – Konkurrent liefert

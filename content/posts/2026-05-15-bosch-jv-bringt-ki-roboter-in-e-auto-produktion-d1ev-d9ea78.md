@@ -1,15 +1,31 @@
 ---
-title: "Bosch-JV bringt KI-Roboter in E-Auto-Produktion"
+title: Bosch-JV bringt KI-Roboter in E-Auto-Produktion
 date: 2026-05-15T10:38:18.979Z
-description: "Das Joint Venture Bo Yin He Chunch sammelt 300 Mio. Yuan (ca. 38,4 Mio. €) für KI-gesteuerte Industrieroboter. Der BW10-Lite wird bereits bei UAES in der Fertigung von E-Auto-Komponenten eingesetzt – ein Schritt zur Effizienzsteigerung."
-source: "D1EV"
-image: "/images/bosch-jv-bringt-ki-roboter-in-e-auto-produktion-d1ev-d9ea78.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "E-Auto", "EV"]
+description: >-
+  Das Joint Venture Bo Yin He Chunch sammelt 300 Mio. Yuan (ca. 38,4 Mio. €) für
+  KI-gesteuerte Industrieroboter. Der BW10-Lite wird bereits bei UAES in der
+  Fertigung von E-Auto-Komponenten eingesetzt – ein Schritt zur
+  Effizienzsteigerung.
+source: D1EV
+image: /images/bosch-jv-bringt-ki-roboter-in-e-auto-produktion-d1ev-d9ea78.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299253"
+original_url: 'https://www.d1ev.com/news/shichang/299253'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Bosch
+  - BYD
+confidence: 0.95
 ---
 
 # Bosch-JV bringt KI-Roboter in E-Auto-Produktion

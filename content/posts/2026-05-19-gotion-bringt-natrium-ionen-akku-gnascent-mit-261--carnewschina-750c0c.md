@@ -1,15 +1,33 @@
 ---
-title: "Gotion bringt Natrium-Ionen-Akku „Gnascent“ mit 261 Wh/kg in Serie"
+title: Gotion bringt Natrium-Ionen-Akku „Gnascent“ mit 261 Wh/kg in Serie
 date: 2026-05-19T06:06:53.495Z
-description: "Volkswagen-Tochter Gotion High-Tech stellt die Natrium-Ionen-Batteriemarke „Gnascent“ vor. Drei Varianten mit bis zu 261 Wh/kg Energiedichte und Kältebeständigkeit bis −50 °C gehen in Produktion."
-source: "CarNewsChina"
-image: "/images/gotion-bringt-natrium-ionen-akku-gnascent-mit-261-carnewschina-750c0c.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Batterie", "Elektroauto", "Marktanteil"]
+description: >-
+  Volkswagen-Tochter Gotion High-Tech stellt die Natrium-Ionen-Batteriemarke
+  „Gnascent“ vor. Drei Varianten mit bis zu 261 Wh/kg Energiedichte und
+  Kältebeständigkeit bis −50 °C gehen in Produktion.
+source: CarNewsChina
+image: >-
+  /images/gotion-bringt-natrium-ionen-akku-gnascent-mit-261-carnewschina-750c0c.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Batterie
+  - Elektroauto
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/17/volkswagen-backed-gotion-launches-gnascent-sodium-ion-battery-up-to-261-wh-kg-with-mass-production-ready/"
+original_url: >-
+  https://carnewschina.com/2026/05/17/volkswagen-backed-gotion-launches-gnascent-sodium-ion-battery-up-to-261-wh-kg-with-mass-production-ready/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+  - NIO
+confidence: 0.9
 ---
 
 # Gotion bringt Natrium-Ionen-Akku „Gnascent“ mit 261 Wh/kg in Serie

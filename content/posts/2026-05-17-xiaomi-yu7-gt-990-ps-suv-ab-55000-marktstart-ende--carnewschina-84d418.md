@@ -1,15 +1,36 @@
 ---
-title: "Xiaomi YU7 GT: 990-PS-SUV ab 55.000 € – Marktstart Ende Mai"
+title: 'Xiaomi YU7 GT: 990-PS-SUV ab 55.000 € – Marktstart Ende Mai'
 date: 2026-05-17T11:13:43.242Z
-description: "Der Xiaomi YU7 GT trifft bei chinesischen Händlern ein. Das 990 PS starke Elektro-SUV mit 800-Volt-Architektur und 705 km CLTC-Reichweite kommt Ende Mai. Preis in China: ca. 55.000 €."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-990-ps-suv-ab-55000-marktstart-ende-carnewschina-84d418.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Der Xiaomi YU7 GT trifft bei chinesischen Händlern ein. Das 990 PS starke
+  Elektro-SUV mit 800-Volt-Architektur und 705 km CLTC-Reichweite kommt Ende
+  Mai. Preis in China: ca. 55.000 €.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-gt-990-ps-suv-ab-55000-marktstart-ende-carnewschina-84d418.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - Tesla
+  - Porsche
+  - Lotus
+confidence: 0.9
 ---
 
 # Xiaomi YU7 GT: 990-PS-SUV ab 55.000 € – Marktstart Ende Mai

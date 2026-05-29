@@ -1,15 +1,29 @@
 ---
-title: "Li Auto vs. HarmonyOS: Die Wette auf die Spaltung der Agent-Route"
+title: 'Li Auto vs. HarmonyOS: Die Wette auf die Spaltung der Agent-Route'
 date: 2026-05-09T22:52:50.047Z
-description: "Architektur-Spaltung: 'Kommandozentrale' vs. 'Alleskönner'Pfadabhängigkeit: Im Genom geschriebene EntwicklungsstileEndspiel-Szenario: Zeitfenster und Ökosystem-Lock-in Die Höhe des Einsatzes ist jedoch völlig unterschiedlich"
-source: "Sina"
-image: "/images/li-auto-vs-harmonyos-die-wette-auf-die-spaltung-de-sina-497442.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Architektur-Spaltung: 'Kommandozentrale' vs. 'Alleskönner'Pfadabhängigkeit: Im
+  Genom geschriebene EntwicklungsstileEndspiel-Szenario: Zeitfenster und
+  Ökosystem-Lock-in Die Höhe des Einsatzes ist jedoch völlig unterschiedlich
+source: Sina
+image: /images/li-auto-vs-harmonyos-die-wette-auf-die-spaltung-de-sina-497442.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: 'https://auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml'
 read_time_minutes: 7
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.7
 ---
 
 # Li Auto vs. HarmonyOS: Die Wette auf die Spaltung der Agent-Route

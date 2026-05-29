@@ -1,15 +1,30 @@
 ---
-title: "BYD Atto 3: 240 kW und 630 km – Marktstart am 21. Mai"
+title: 'BYD Atto 3: 240 kW und 630 km – Marktstart am 21. Mai'
 date: 2026-05-14T19:33:18.306Z
-description: "Der neue BYD Atto 3 steht ab sofort in chinesischen Showrooms. Mit 240 kW Heckantrieb, Blitzladen und bis zu 630 km Reichweite (CLTC) soll der kompakte SUV am 21. Mai offiziell starten."
-source: "CarNewsChina"
-image: "/images/byd-atto-3-240-kw-und-630-km-marktstart-am-21-mai-carnewschina-5f424c.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite"]
+description: >-
+  Der neue BYD Atto 3 steht ab sofort in chinesischen Showrooms. Mit 240 kW
+  Heckantrieb, Blitzladen und bis zu 630 km Reichweite (CLTC) soll der kompakte
+  SUV am 21. Mai offiziell starten.
+source: CarNewsChina
+image: >-
+  /images/byd-atto-3-240-kw-und-630-km-marktstart-am-21-mai-carnewschina-5f424c.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/12/byd-atto-3-lands-in-showrooms-with-240-kw-rwd-and-flash-charging-ahead-of-may-21-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/12/byd-atto-3-lands-in-showrooms-with-240-kw-rwd-and-flash-charging-ahead-of-may-21-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Atto 3: 240 kW und 630 km – Marktstart am 21. Mai

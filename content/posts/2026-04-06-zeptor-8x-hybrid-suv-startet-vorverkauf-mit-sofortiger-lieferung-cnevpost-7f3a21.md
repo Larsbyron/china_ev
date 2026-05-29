@@ -1,13 +1,32 @@
 ---
-title: "Zeekr 8X: Geelys Premium-Marke startet Vorverkauf des Hybrid-SUVs"
+title: 'Zeekr 8X: Geelys Premium-Marke startet Vorverkauf des Hybrid-SUVs'
 date: 2026-04-06T08:30:00.000Z
-description: "Geelys Elektromarke Zeekr kündigt den Start des Vorverkaufs für den 8X Hybrid-SUV am 17. April an. Das Modell bietet bis zu 1.416 km Reichweite und drei Motorvarianten mit bis zu 1.030 kW."
-source: "CnEVPost"
-image: "/images/zeptor-8x-hybrid-suv-startet-vorverkauf-mit-sofortiger-lieferung-cnevpost-7f3a21.webp"
-category: "news"
-tags: ["Zeekr", "Geely", "Hybrid", "SUV", "8X"]
+description: >-
+  Geelys Elektromarke Zeekr kündigt den Start des Vorverkaufs für den 8X
+  Hybrid-SUV am 17. April an. Das Modell bietet bis zu 1.416 km Reichweite und
+  drei Motorvarianten mit bis zu 1.030 kW.
+source: CnEVPost
+image: >-
+  /images/zeptor-8x-hybrid-suv-startet-vorverkauf-mit-sofortiger-lieferung-cnevpost-7f3a21.webp
+category: news
+tags:
+  - Zeekr
+  - Geely
+  - Hybrid
+  - SUV
+  - 8X
 draft: false
-original_url: "https://cnevpost.com/2026/04/07/zeekr-to-launch-8x-apr-17-with-immediate-deliveries/"
+original_url: >-
+  https://cnevpost.com/2026/04/07/zeekr-to-launch-8x-apr-17-with-immediate-deliveries/
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Zeekr
+  - Geely
+confidence: 0.9
 ---
 
 # Zeekr 8X: Geelys Premium-Marke startet Vorverkauf des Hybrid-SUVs

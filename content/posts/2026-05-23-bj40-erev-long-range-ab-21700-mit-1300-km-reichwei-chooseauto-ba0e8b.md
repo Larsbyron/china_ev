@@ -1,15 +1,31 @@
 ---
-title: "BJ40 EREV Long Range: Ab 21.700 € mit 1.300 km Reichweite"
+title: 'BJ40 EREV Long Range: Ab 21.700 € mit 1.300 km Reichweite'
 date: 2026-05-23T19:11:53.559Z
-description: "Der BJ40 EREV Long Range Edition startet in China ab 16,98 万元 (ca. 21.700 €). Mit 252 km elektrischer Reichweite und 1.300 km Gesamtreichweite positioniert Beijing Off-Road den Geländewagen als Langstrecken-SUV."
-source: "ChooseAuto"
-image: "/images/bj40-erev-long-range-ab-21700-mit-1300-km-reichwei-chooseauto-ba0e8b.webp"
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Zoll", "Elektroauto", "EV"]
+description: >-
+  Der BJ40 EREV Long Range Edition startet in China ab 16,98 万元 (ca. 21.700 €).
+  Mit 252 km elektrischer Reichweite und 1.300 km Gesamtreichweite positioniert
+  Beijing Off-Road den Geländewagen als Langstrecken-SUV.
+source: ChooseAuto
+image: >-
+  /images/bj40-erev-long-range-ab-21700-mit-1300-km-reichwei-chooseauto-ba0e8b.webp
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Zoll
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/911089.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/911089.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Beijing Off-Road
+confidence: 0.9
 ---
 
 # BJ40 EREV Long Range: Ab 21.700 € mit 1.300 km Reichweite

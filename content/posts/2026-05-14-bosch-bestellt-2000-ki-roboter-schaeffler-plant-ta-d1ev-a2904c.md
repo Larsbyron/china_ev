@@ -1,15 +1,31 @@
 ---
-title: "Bosch bestellt 2.000 KI-Roboter – Schaeffler plant Tausende"
+title: Bosch bestellt 2.000 KI-Roboter – Schaeffler plant Tausende
 date: 2026-05-14T19:33:32.795Z
-description: "Internationale Autozulieferer wie Bosch, Schaeffler, Valeo und Aptiv investieren massiv in Embodied Intelligence – KI-gesteuerte Roboter für die Fertigung. Ziel: Produktion effizienter machen und den Preisdruck in Europa erhöhen."
-source: "D1EV"
-image: "/images/bosch-bestellt-2000-ki-roboter-schaeffler-plant-ta-d1ev-a2904c.webp"
-category: "news"
-
-tags: ["MG", "E-Auto", "EV"]
+description: >-
+  Internationale Autozulieferer wie Bosch, Schaeffler, Valeo und Aptiv
+  investieren massiv in Embodied Intelligence – KI-gesteuerte Roboter für die
+  Fertigung. Ziel: Produktion effizienter machen und den Preisdruck in Europa
+  erhöhen.
+source: D1EV
+image: /images/bosch-bestellt-2000-ki-roboter-schaeffler-plant-ta-d1ev-a2904c.webp
+category: news
+tags:
+  - MG
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299065"
+original_url: 'https://www.d1ev.com/news/shichang/299065'
 read_time_minutes: 4
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - Bosch
+  - Schaeffler
+  - Valeo
+  - Aptiv
+confidence: 0.95
 ---
 
 # Bosch bestellt 2.000 KI-Roboter – Schaeffler plant Tausende

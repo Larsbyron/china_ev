@@ -1,15 +1,33 @@
 ---
-title: "ROHM: Neue PMIC-Lösung mit 95 % Wirkungsgrad für ADAS-SoCs"
+title: 'ROHM: Neue PMIC-Lösung mit 95 % Wirkungsgrad für ADAS-SoCs'
 date: 2026-05-19T12:40:25.127Z
-description: "ROHM stellt eine skalierbare Stromversorgung für automotive SoCs vor: Main-PMICs und DrMOS liefern bis zu 40 A bei 95 % Effizienz. Die Lösung ist AEC-Q100 zertifiziert und ab sofort verfügbar – auch für europäische Hersteller."
-source: "D1EV"
-image: "/images/rohm-neue-pmic-lsung-mit-95-wirkungsgrad-fr-adas-s-d1ev-5c4d41.webp"
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "E-Auto", "EV"]
+description: >-
+  ROHM stellt eine skalierbare Stromversorgung für automotive SoCs vor:
+  Main-PMICs und DrMOS liefern bis zu 40 A bei 95 % Effizienz. Die Lösung ist
+  AEC-Q100 zertifiziert und ab sofort verfügbar – auch für europäische
+  Hersteller.
+source: D1EV
+image: /images/rohm-neue-pmic-lsung-mit-95-wirkungsgrad-fr-adas-s-d1ev-5c4d41.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299663"
+original_url: 'https://www.d1ev.com/news/shichang/299663'
 read_time_minutes: 2
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: eu_available
+brands:
+  - BYD
+  - NIO
+  - XPeng
+confidence: 0.9
 ---
 
 # ROHM: Neue PMIC-Lösung mit 95 % Wirkungsgrad für ADAS-SoCs

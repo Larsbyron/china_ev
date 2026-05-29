@@ -1,15 +1,28 @@
 ---
-title: "Xiaomi: 99,1 Mrd. Yuan Umsatz im Q1 – 80.856 Fahrzeuge ausgeliefert"
+title: 'Xiaomi: 99,1 Mrd. Yuan Umsatz im Q1 – 80.856 Fahrzeuge ausgeliefert'
 date: 2026-05-26T20:03:28.603Z
-description: "Xiaomi legt Q1-Zahlen vor: Umsatz 99,1 Mrd. Yuan, 80.856 Fahrzeuge ausgeliefert. Der SU7 Ultra fährt Nürburgring-Rekord für E-Limousinen ein. Europa-Start noch offen."
-source: "Sina"
-image: "/images/xiaomi-991-mrd-yuan-umsatz-im-q1-80856-fahrzeuge-a-sina-6f259f.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "EV"]
+description: >-
+  Xiaomi legt Q1-Zahlen vor: Umsatz 99,1 Mrd. Yuan, 80.856 Fahrzeuge
+  ausgeliefert. Der SU7 Ultra fährt Nürburgring-Rekord für E-Limousinen ein.
+  Europa-Start noch offen.
+source: Sina
+image: /images/xiaomi-991-mrd-yuan-umsatz-im-q1-80856-fahrzeuge-a-sina-6f259f.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-26/detail-inhzfshi2157467.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-26/detail-inhzfshi2157467.shtml
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi: 99,1 Mrd. Yuan Umsatz im Q1 – 80.856 Fahrzeuge ausgeliefert

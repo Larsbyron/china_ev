@@ -1,15 +1,32 @@
 ---
-title: "Geely Galaxy Starlight 7: Plug-in-Hybrid-SUV ab 12.600 €"
+title: 'Geely Galaxy Starlight 7: Plug-in-Hybrid-SUV ab 12.600 €'
 date: 2026-05-22T19:29:38.306Z
-description: "Geely bringt den Galaxy Starlight 7 MAX als Plug-in-Hybrid-SUV mit Allradantrieb. Der Vorverkauf in China startet umgerechnet ab 12.600 €. Marktstart in Europa noch offen."
-source: "D1EV"
-image: "/images/geely-galaxy-starlight-7-plug-in-hybrid-suv-ab-126-d1ev-dda723.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "BYD", "MG", "Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Geely bringt den Galaxy Starlight 7 MAX als Plug-in-Hybrid-SUV mit
+  Allradantrieb. Der Vorverkauf in China startet umgerechnet ab 12.600 €.
+  Marktstart in Europa noch offen.
+source: D1EV
+image: /images/geely-galaxy-starlight-7-plug-in-hybrid-suv-ab-126-d1ev-dda723.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300201"
+original_url: 'https://www.d1ev.com/news/shichang/300201'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.9
 ---
 
 # Geely Galaxy Starlight 7: Plug-in-Hybrid-SUV ab 12.600 €

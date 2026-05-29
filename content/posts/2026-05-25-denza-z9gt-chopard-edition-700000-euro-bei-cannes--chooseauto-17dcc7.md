@@ -1,15 +1,27 @@
 ---
-title: "Denza Z9GT Chopard Edition: 700.000 Euro bei Cannes-Auktion"
+title: 'Denza Z9GT Chopard Edition: 700.000 Euro bei Cannes-Auktion'
 date: 2026-05-25T19:22:02.725Z
-description: "Die BYD-Tochter Denza versteigerte eine exklusive Z9GT Sonderedition mit Chopard in Cannes für 700.000 Euro. Das Einzelstück vereint chinesische E-Antriebstechnik mit Schweizer Uhrmacherkunst."
-source: "ChooseAuto"
-
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "EV"]
+description: >-
+  Die BYD-Tochter Denza versteigerte eine exklusive Z9GT Sonderedition mit
+  Chopard in Cannes für 700.000 Euro. Das Einzelstück vereint chinesische
+  E-Antriebstechnik mit Schweizer Uhrmacherkunst.
+source: ChooseAuto
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/912653.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/912653.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.7
 ---
 
 # Denza Z9GT Chopard Edition: 700.000 Euro bei Cannes-Auktion

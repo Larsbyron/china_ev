@@ -1,15 +1,29 @@
 ---
-title: "Wuling Bingo Pro: Ab 7.300 € mit 80 Serienfeatures"
+title: 'Wuling Bingo Pro: Ab 7.300 € mit 80 Serienfeatures'
 date: 2026-05-23T05:35:34.176Z
-description: "Der neue Wuling Bingo Pro startet in China ab 56.800 Yuan (ca. 7.300 €). Der Elektro-Kleinwagen bietet über 80 Serienfeatures, darunter intelligenter Parkassistent und 3C-Schnellladung. Zwei Reichweiten: 330 km oder 403 km (CLTC)."
-source: "D1EV"
-image: "/images/wuling-bingo-pro-ab-7300-mit-80-serienfeatures-d1ev-1124d2.webp"
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Zoll"]
+description: >-
+  Der neue Wuling Bingo Pro startet in China ab 56.800 Yuan (ca. 7.300 €). Der
+  Elektro-Kleinwagen bietet über 80 Serienfeatures, darunter intelligenter
+  Parkassistent und 3C-Schnellladung. Zwei Reichweiten: 330 km oder 403 km
+  (CLTC).
+source: D1EV
+image: /images/wuling-bingo-pro-ab-7300-mit-80-serienfeatures-d1ev-1124d2.webp
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300200"
+original_url: 'https://www.d1ev.com/news/shichang/300200'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Wuling
+confidence: 0.9
 ---
 
 # Wuling Bingo Pro: Ab 7.300 € mit 80 Serienfeatures

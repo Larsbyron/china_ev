@@ -1,15 +1,30 @@
 ---
-title: "Li Auto vs. Huawei: Zwei KI-Philosophien im Cockpit"
+title: 'Li Auto vs. Huawei: Zwei KI-Philosophien im Cockpit'
 date: 2026-05-22T12:17:39.965Z
-description: "Li Auto (理想) und Huawei (HarmonyOS) verfolgen grundlegend unterschiedliche Ansätze für KI-Agenten im Auto. Während Huaweis Architektur auf Aufgabenverteilung setzt, strebt Li Auto nach einer physisch integrierten Einheit. Ein Marktstart in Europa ist nicht absehbar."
-source: "Sina"
-image: "/images/li-auto-vs-huawei-zwei-ki-philosophien-im-cockpit-sina-c253a7.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "EV"]
+description: >-
+  Li Auto (理想) und Huawei (HarmonyOS) verfolgen grundlegend unterschiedliche
+  Ansätze für KI-Agenten im Auto. Während Huaweis Architektur auf
+  Aufgabenverteilung setzt, strebt Li Auto nach einer physisch integrierten
+  Einheit. Ein Marktstart in Europa ist nicht absehbar.
+source: Sina
+image: /images/li-auto-vs-huawei-zwei-ki-philosophien-im-cockpit-sina-c253a7.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.95
 ---
 
 # Li Auto vs. Huawei: Zwei KI-Philosophien im Cockpit

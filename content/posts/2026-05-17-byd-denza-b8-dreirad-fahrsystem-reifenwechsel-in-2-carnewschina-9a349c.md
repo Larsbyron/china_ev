@@ -1,15 +1,34 @@
 ---
-title: "BYD Denza B8: Dreirad-Fahrsystem & Reifenwechsel in 2 Minuten"
+title: 'BYD Denza B8: Dreirad-Fahrsystem & Reifenwechsel in 2 Minuten'
 date: 2026-05-17T19:02:28.807Z
-description: "BYD, Huawei und Li Auto präsentieren vollaktive Fahrwerke mit Dreirad-Funktion. Der Denza B8 kann ein Rad anheben und weiterfahren – Reifenwechsel ohne Wagenheber in unter zwei Minuten. Preise ab 419.800 Yuan (ca. 53.700 €)."
-source: "CarNewsChina"
-image: "/images/byd-denza-b8-dreirad-fahrsystem-reifenwechsel-in-2-carnewschina-9a349c.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Li Auto", "Reichweite"]
+description: >-
+  BYD, Huawei und Li Auto präsentieren vollaktive Fahrwerke mit
+  Dreirad-Funktion. Der Denza B8 kann ein Rad anheben und weiterfahren –
+  Reifenwechsel ohne Wagenheber in unter zwei Minuten. Preise ab 419.800 Yuan
+  (ca. 53.700 €).
+source: CarNewsChina
+image: >-
+  /images/byd-denza-b8-dreirad-fahrsystem-reifenwechsel-in-2-carnewschina-9a349c.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Li Auto
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/"
+original_url: >-
+  https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - Li Auto
+  - Huawei
+  - AITO
+confidence: 0.9
 ---
 
 # BYD Denza B8: Dreirad-Fahrsystem & Reifenwechsel in 2 Minuten

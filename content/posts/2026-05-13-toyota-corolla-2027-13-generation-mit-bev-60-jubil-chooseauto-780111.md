@@ -1,15 +1,34 @@
 ---
-title: "Toyota Corolla 2027: 13. Generation mit BEV – 60. Jubiläum"
+title: 'Toyota Corolla 2027: 13. Generation mit BEV – 60. Jubiläum'
 date: 2026-05-13T23:36:41.293Z
-description: "Die 13. Generation des Toyota Corolla kommt 2027 nach China – erstmals mit rein elektrischer Variante. Das Design wird deutlich sportlicher, die Plattform bleibt flexibel. Konkrete Preise und Reichweiten sind noch nicht bekannt."
-source: "ChooseAuto"
-image: "/images/toyota-corolla-2027-13-generation-mit-bev-60-jubil-chooseauto-780111.webp"
-category: "news"
-
-tags: ["BYD", "XPeng", "Xpeng", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Die 13. Generation des Toyota Corolla kommt 2027 nach China – erstmals mit
+  rein elektrischer Variante. Das Design wird deutlich sportlicher, die
+  Plattform bleibt flexibel. Konkrete Preise und Reichweiten sind noch nicht
+  bekannt.
+source: ChooseAuto
+image: >-
+  /images/toyota-corolla-2027-13-generation-mit-bev-60-jubil-chooseauto-780111.webp
+category: news
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/901866.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/901866.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: de_available
+brands:
+  - Toyota
+  - BYD
+confidence: 0.5
 ---
 
 # Toyota Corolla 2027: 13. Generation mit BEV – 60. Jubiläum

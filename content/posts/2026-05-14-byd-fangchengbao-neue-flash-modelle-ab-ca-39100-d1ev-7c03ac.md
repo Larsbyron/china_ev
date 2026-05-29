@@ -1,15 +1,28 @@
 ---
-title: "BYD Fangchengbao: Neue Flash-Modelle ab ca. 39.100 €"
+title: 'BYD Fangchengbao: Neue Flash-Modelle ab ca. 39.100 €'
 date: 2026-05-14T19:36:20.223Z
-description: "Fangchengbao (Marke von BYD) bringt Bao 8 Flash und Bao 5 Cloud-Chassis Flash. Preise: 419.800 Yuan (ca. 53.700 €) und 305.800 Yuan (ca. 39.100 €). Revolutionäres Fahrwerk soll Gelände- und Komfortwiderspruch auflösen."
-source: "D1EV"
-image: "/images/byd-fangchengbao-neue-flash-modelle-ab-ca-39100-d1ev-7c03ac.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite"]
+description: >-
+  Fangchengbao (Marke von BYD) bringt Bao 8 Flash und Bao 5 Cloud-Chassis Flash.
+  Preise: 419.800 Yuan (ca. 53.700 €) und 305.800 Yuan (ca. 39.100 €).
+  Revolutionäres Fahrwerk soll Gelände- und Komfortwiderspruch auflösen.
+source: D1EV
+image: /images/byd-fangchengbao-neue-flash-modelle-ab-ca-39100-d1ev-7c03ac.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299053"
+original_url: 'https://www.d1ev.com/news/shichang/299053'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Fangchengbao: Neue Flash-Modelle ab ca. 39.100 €

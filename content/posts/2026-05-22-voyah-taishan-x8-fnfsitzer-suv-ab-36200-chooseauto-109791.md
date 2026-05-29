@@ -1,15 +1,27 @@
 ---
-title: "Voyah Taishan X8: Fünfsitzer-SUV ab 36.200 €"
+title: 'Voyah Taishan X8: Fünfsitzer-SUV ab 36.200 €'
 date: 2026-05-22T12:16:09.390Z
-description: "Voyah bringt mit dem Taishan X8 ein neues Top-SUV an den Start. Der Fünfsitzer bietet sechs Quadratmeter Raum, über 700 km Reichweite und Huawei-Technik. Preis: 36.200 bis 47.300 € (China). Marktstart in Europa noch ungewiss."
-source: "ChooseAuto"
-image: "/images/voyah-taishan-x8-fnfsitzer-suv-ab-36200-chooseauto-109791.webp"
-category: "news"
-
-tags: ["Zoll", "EV"]
+description: >-
+  Voyah bringt mit dem Taishan X8 ein neues Top-SUV an den Start. Der Fünfsitzer
+  bietet sechs Quadratmeter Raum, über 700 km Reichweite und Huawei-Technik.
+  Preis: 36.200 bis 47.300 € (China). Marktstart in Europa noch ungewiss.
+source: ChooseAuto
+image: /images/voyah-taishan-x8-fnfsitzer-suv-ab-36200-chooseauto-109791.webp
+category: news
+tags:
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/909792.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/909792.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Voyah
+confidence: 0.95
 ---
 
 # Voyah Taishan X8: Fünfsitzer-SUV ab 36.200 €

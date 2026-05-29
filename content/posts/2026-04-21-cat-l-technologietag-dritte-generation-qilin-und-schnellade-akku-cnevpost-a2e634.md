@@ -1,13 +1,29 @@
 ---
-title: "CATL Technologietag: Qilin-Batterie der dritten Generation mit 15C Spitzensatz"
+title: 'CATL Technologietag: Qilin-Batterie der dritten Generation mit 15C Spitzensatz'
 date: 2026-04-21T18:00:00.000Z
-description: "CATL hat auf seinem Technologietag eine Reihe von Neuheiten vorgestellt: die dritte Qilin-Batterie mit 10C Normalladung und 15C Spitzenleistung, sowie die neue Freevoy-Hybridbatterie für bis zu 600 km E-Reichweite."
-source: "CnEVPost"
-image: "/images/ai-cat-l-technologietag-dritte-generation-qilin-und-schnellade-akku-cnevpost-a2e634.webp"
-category: "news"
-tags: ["CATL", "Batterie", "Qilin", "Schnellladung", "Technologie"]
+description: >-
+  CATL hat auf seinem Technologietag eine Reihe von Neuheiten vorgestellt: die
+  dritte Qilin-Batterie mit 10C Normalladung und 15C Spitzenleistung, sowie die
+  neue Freevoy-Hybridbatterie für bis zu 600 km E-Reichweite.
+source: CnEVPost
+image: >-
+  /images/ai-cat-l-technologietag-dritte-generation-qilin-und-schnellade-akku-cnevpost-a2e634.webp
+category: news
+tags:
+  - CATL
+  - Batterie
+  - Qilin
+  - Schnellladung
+  - Technologie
 draft: false
-original_url: "https://cnevpost.com/2026/04/21/catl-unveils-new-battery-products-2026-tech-day/"
+original_url: >-
+  https://cnevpost.com/2026/04/21/catl-unveils-new-battery-products-2026-tech-day/
+primaryTopic: batterie-laden-reichweite
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - CATL
+confidence: 0.95
 ---
 
 # CATL Technologietag 2026: Ladeleistung und Reichweite auf neuem Niveau

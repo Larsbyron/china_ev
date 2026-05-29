@@ -1,15 +1,27 @@
 ---
-title: "Dreame plant Supersportwagen für 2027 ab 128.000 Euro"
+title: Dreame plant Supersportwagen für 2027 ab 128.000 Euro
 date: 2026-05-22T06:04:21.921Z
-description: "Der Haushaltsroboter-Hersteller Dreame steigt mit einem Luxus-Coupé ins E-Auto-Geschäft ein: Marktstart 2027, Preis ab umgerechnet 128.000 Euro. Ein PR-Eklat des CEO begleitet die Ankündigung."
-source: "ChooseAuto"
-
-category: "news"
-
-tags: ["MG", "Batterie", "Elektroauto", "EV"]
+description: >-
+  Der Haushaltsroboter-Hersteller Dreame steigt mit einem Luxus-Coupé ins
+  E-Auto-Geschäft ein: Marktstart 2027, Preis ab umgerechnet 128.000 Euro. Ein
+  PR-Eklat des CEO begleitet die Ankündigung.
+source: ChooseAuto
+category: news
+tags:
+  - MG
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/909342.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/909342.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Dreame
+confidence: 0.9
 ---
 
 # Dreame plant Supersportwagen für 2027 ab 128.000 Euro

@@ -1,16 +1,32 @@
 ---
-title: "BBA und VW: Elektro-Offensive auf der Auto China 2026"
+title: 'BBA und VW: Elektro-Offensive auf der Auto China 2026'
 date: 2026-05-10T20:31:40.190Z
-description: "Auf der Peking Auto Show 2026 präsentieren Mercedes, BMW und VW ihre China-Strategie: Neue E-Modelle mit extra langem Radstand und hohen Reichweiten. Preise zwischen 26.500 € und 48.500 € (China)."
-source: "OFweek NEV"
-image: "/images/ai-bba-und-vw-elektro-offensive-auf-der-auto-china-20-ofweek-nev-cf2418.webp"
-
-category: "news"
-
-tags: ["Tesla", "Reichweite", "EV"]
+description: >-
+  Auf der Peking Auto Show 2026 präsentieren Mercedes, BMW und VW ihre
+  China-Strategie: Neue E-Modelle mit extra langem Radstand und hohen
+  Reichweiten. Preise zwischen 26.500 € und 48.500 € (China).
+source: OFweek NEV
+image: >-
+  /images/ai-bba-und-vw-elektro-offensive-auf-der-auto-china-20-ofweek-nev-cf2418.webp
+category: news
+tags:
+  - Tesla
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Mercedes
+  - BMW
+  - Audi
+  - VW
+confidence: 0.9
 ---
 
 # BBA und VW: Elektro-Offensive auf der Auto China 2026

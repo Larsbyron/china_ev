@@ -1,13 +1,32 @@
 ---
-title: "Batteriemarkt China: CATL dominiert mit 45,5 Prozent, BYD legt deutlich zu"
+title: 'Batteriemarkt China: CATL dominiert mit 45,5 Prozent, BYD legt deutlich zu'
 date: 2026-04-10T16:00:00.000Z
-description: "CATL bleibt im März 2026 mit 45,54 Prozent Marktanteil bei Batterieinstallationen in China Spitzenreiter. BYD konnte seinen Anteil auf 17,83 Prozent steigern."
-source: "CnEVPost"
-image: "/images/ai-batteriemarkt-china-cat-l-45-prozent-anteil-im-maerz-cnevpost-a8f372.webp"
-category: "news"
-tags: ["CATL", "BYD", "Batterie", "Marktanteil", "China"]
+description: >-
+  CATL bleibt im März 2026 mit 45,54 Prozent Marktanteil bei
+  Batterieinstallationen in China Spitzenreiter. BYD konnte seinen Anteil auf
+  17,83 Prozent steigern.
+source: CnEVPost
+image: >-
+  /images/ai-batteriemarkt-china-cat-l-45-prozent-anteil-im-maerz-cnevpost-a8f372.webp
+category: news
+tags:
+  - CATL
+  - BYD
+  - Batterie
+  - Marktanteil
+  - China
 draft: false
-original_url: "https://cnevpost.com/2026/04/10/top-battery-makers-share-china-mar-2026/"
+original_url: 'https://cnevpost.com/2026/04/10/top-battery-makers-share-china-mar-2026/'
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - industrie-produktion-lieferkette
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - CATL
+  - BYD
+  - CALB
+confidence: 0.95
 ---
 
 # Batteriemarkt China: CATL dominiert weiter, BYD gewinnt Anteile

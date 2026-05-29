@@ -1,15 +1,27 @@
 ---
-title: "Geely Galaxy Cruiser 700: 1.000-PS-Offroader gesichtet"
+title: 'Geely Galaxy Cruiser 700: 1.000-PS-Offroader gesichtet'
 date: 2026-05-26T06:06:41.955Z
-description: "Der Geely Galaxy Cruiser 700 wurde am 25. Mai 2026 ohne Tarnung gesichtet. Der Leiterrahmen-Hybrid mit über 1.000 PS kommt 2026 in China – Export nach Europa geplant."
-source: "CarNewsChina"
-image: "/images/geely-galaxy-cruiser-700-1000-ps-offroader-gesicht-carnewschina-43e7b4.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely"]
+description: >-
+  Der Geely Galaxy Cruiser 700 wurde am 25. Mai 2026 ohne Tarnung gesichtet. Der
+  Leiterrahmen-Hybrid mit über 1.000 PS kommt 2026 in China – Export nach Europa
+  geplant.
+source: CarNewsChina
+image: >-
+  /images/geely-galaxy-cruiser-700-1000-ps-offroader-gesicht-carnewschina-43e7b4.webp
+category: news
+brand: Geely
+tags:
+  - Geely
 draft: false
-original_url: "https://carnewschina.com/2026/05/25/geely-galaxy-cruiser-700-plug-in-hybrid-suv-spotted-in-china-ahead-of-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/25/geely-galaxy-cruiser-700-plug-in-hybrid-suv-spotted-in-china-ahead-of-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: eu_planned
+brands:
+  - Geely
+confidence: 0.9
 ---
 
 # Geely Galaxy Cruiser 700: 1.000-PS-Offroader gesichtet

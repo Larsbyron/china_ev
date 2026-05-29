@@ -1,15 +1,32 @@
 ---
-title: "Neuer BYD Atto 3: 540 km Reichweite ab 15.300 €"
+title: 'Neuer BYD Atto 3: 540 km Reichweite ab 15.300 €'
 date: 2026-05-23T11:06:59.125Z
-description: "BYD hat die dritte Generation des Atto 3 in China vorgestellt. Der kompakte Crossover bietet bis zu 540 km WLTP-Reichweite, Schnellladefunktion und optionales Lidar. Preis ab ca. 15.300 €."
-source: "CarNewsChina"
-image: "/images/neuer-byd-atto-3-540-km-reichweite-ab-15300-carnewschina-ddf125.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Ladestation", "EV"]
+description: >-
+  BYD hat die dritte Generation des Atto 3 in China vorgestellt. Der kompakte
+  Crossover bietet bis zu 540 km WLTP-Reichweite, Schnellladefunktion und
+  optionales Lidar. Preis ab ca. 15.300 €.
+source: CarNewsChina
+image: /images/neuer-byd-atto-3-540-km-reichweite-ab-15300-carnewschina-ddf125.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/new-byd-atto-3-with-120-km-extra-range-and-flash-charging-priced-from-16600-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/new-byd-atto-3-with-120-km-extra-range-and-flash-charging-priced-from-16600-usd-in-china/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # Neuer BYD Atto 3: 540 km Reichweite ab 15.300 €

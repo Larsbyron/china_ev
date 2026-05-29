@@ -1,15 +1,30 @@
 ---
-title: "Li Auto StreamingClaw: <100 ms Latenz vs. HIMAs 500-TOPS-Ökosystem"
+title: 'Li Auto StreamingClaw: <100 ms Latenz vs. HIMAs 500-TOPS-Ökosystem'
 date: 2026-05-13T23:47:13.406Z
-description: "Auf der Auto China 2025 stellten Li Auto und HIMA ihre KI-Architekturen vor. Li Autos StreamingClaw setzt auf Echtzeit-Sensorfusion mit <100 ms Latenz, HIMAs MoLA 2.0 auf ein Cloud-Ökosystem mit 500 TOPS. Welcher Weg setzt sich durch?"
-source: "Sina"
-image: "/images/li-auto-streamingclaw-100-ms-latenz-vs-himas-500-t-sina-5b7349.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Auf der Auto China 2025 stellten Li Auto und HIMA ihre KI-Architekturen vor.
+  Li Autos StreamingClaw setzt auf Echtzeit-Sensorfusion mit <100 ms Latenz,
+  HIMAs MoLA 2.0 auf ein Cloud-Ökosystem mit 500 TOPS. Welcher Weg setzt sich
+  durch?
+source: Sina
+image: /images/li-auto-streamingclaw-100-ms-latenz-vs-himas-500-t-sina-5b7349.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - Li Auto
+confidence: 0.95
 ---
 
 # Li Auto StreamingClaw: <100 ms Latenz vs. HIMAs 500-TOPS-Ökosystem

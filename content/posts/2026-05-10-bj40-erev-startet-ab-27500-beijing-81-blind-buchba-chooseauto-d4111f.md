@@ -1,15 +1,27 @@
 ---
-title: "BJ40 EREV startet ab 27.500 €, Beijing 81 blind buchbar"
+title: 'BJ40 EREV startet ab 27.500 €, Beijing 81 blind buchbar'
 date: 2026-05-10T20:36:38.349Z
-description: "BJ40 Range-Extender (EREV) mit 252 km rein elektrischer Reichweite (CLTC) ab 21,48 万元 (ca. 27.500 €) im Vorverkauf. Gleichzeitig startet die Blindbestellung für das taktische Kastenmodell Beijing 81."
-source: "ChooseAuto"
-image: "/images/bj40-erev-startet-ab-27500-beijing-81-blind-buchba-chooseauto-d4111f.webp"
-category: "news"
-
-tags: ["Reichweite", "EV"]
+description: >-
+  BJ40 Range-Extender (EREV) mit 252 km rein elektrischer Reichweite (CLTC) ab
+  21,48 万元 (ca. 27.500 €) im Vorverkauf. Gleichzeitig startet die
+  Blindbestellung für das taktische Kastenmodell Beijing 81.
+source: ChooseAuto
+image: >-
+  /images/bj40-erev-startet-ab-27500-beijing-81-blind-buchba-chooseauto-d4111f.webp
+category: news
+tags:
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/895699.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/895699.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Beijing
+confidence: 0.9
 ---
 
 # BJ40 EREV startet ab 27.500 €, Beijing 81 blind buchbar

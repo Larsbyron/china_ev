@@ -1,15 +1,34 @@
 ---
-title: "Xiaomi YU7 GT: 990 PS, 300 km/h, 705 km Reichweite"
+title: 'Xiaomi YU7 GT: 990 PS, 300 km/h, 705 km Reichweite'
 date: 2026-05-18T06:13:00.718Z
-description: "Xiaomi bringt am 21. Mai 2026 in China sein Performance-SUV YU7 GT an den Start. 990 PS, 300 km/h Spitze und 705 km CLTC-Reichweite – ein Europa-Start ist nicht geplant."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-990-ps-300-kmh-705-km-reichweite-carnewschina-a16835.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Tesla", "Batterie", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  Xiaomi bringt am 21. Mai 2026 in China sein Performance-SUV YU7 GT an den
+  Start. 990 PS, 300 km/h Spitze und 705 km CLTC-Reichweite – ein Europa-Start
+  ist nicht geplant.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-gt-990-ps-300-kmh-705-km-reichweite-carnewschina-a16835.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/xiaomi-yu7-gt-to-launch-on-may-21-with-300-km-h-top-speed-and-705-km-range/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/xiaomi-yu7-gt-to-launch-on-may-21-with-300-km-h-top-speed-and-705-km-range/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi YU7 GT: 990 PS, 300 km/h, 705 km Reichweite

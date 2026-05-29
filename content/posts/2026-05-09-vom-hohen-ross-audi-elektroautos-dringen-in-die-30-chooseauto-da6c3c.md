@@ -1,15 +1,38 @@
 ---
-title: "Vom hohen Ross! Audi Elektroautos dringen in die 300.000-Klasse ein – sind die Newcomer nervös?"
+title: >-
+  Vom hohen Ross! Audi Elektroautos dringen in die 300.000-Klasse ein – sind die
+  Newcomer nervös?
 date: 2026-05-09T23:20:40.914Z
-description: "Frühstart L3Was andere haben, habe ich auchWie wählen?Fazit Vom E5 Sportback zum E7X hat die AUDI-Offensive deutlich an Fahrt aufgenommen. Autonomes Fahren der Stufe L3 wird vorzeitig eingeführt, die Intelligenz folgt nicht mehr nur; Küh..."
-source: "ChooseAuto"
-image: "/images/ai-vom-hohen-ross-audi-elektroautos-dringen-in-die-30-chooseauto-da6c3c.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Li Auto", "Zeekr", "Reichweite", "Zoll", "Elektroauto"]
+description: >-
+  Frühstart L3Was andere haben, habe ich auchWie wählen?Fazit Vom E5 Sportback
+  zum E7X hat die AUDI-Offensive deutlich an Fahrt aufgenommen. Autonomes Fahren
+  der Stufe L3 wird vorzeitig eingeführt, die Intelligenz folgt nicht mehr nur;
+  Küh...
+source: ChooseAuto
+image: >-
+  /images/ai-vom-hohen-ross-audi-elektroautos-dringen-in-die-30-chooseauto-da6c3c.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - Li Auto
+  - Zeekr
+  - Reichweite
+  - Zoll
+  - Elektroauto
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/898890.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/898890.shtml'
 read_time_minutes: 6
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - NIO
+  - Li Auto
+  - Zeekr
+confidence: 0.9
 ---
 
 # Vom hohen Ross! Audi Elektroautos dringen in die 300.000-Klasse ein – sind die Newcomer nervös?

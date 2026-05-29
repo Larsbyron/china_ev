@@ -1,15 +1,37 @@
 ---
-title: "2026 Pekinger Automesse: Der „9er-Serie“-Flaggschiff-Kampf der SUV-Giganten"
+title: '2026 Pekinger Automesse: Der „9er-Serie“-Flaggschiff-Kampf der SUV-Giganten'
 date: 2026-05-09T23:14:50.959Z
-description: "Li Auto L9 LivisNIO ES9AITO M9VW Anhui ID.ERA 9XWey V9XLeapmotor D19Bild"
-source: "OFweek NEV"
-image: "/images/ai-2026-pekinger-automesse-der-9er-serie-flaggschiff-ofweek-nev-59aab9.webp"
-category: "news"
-
-tags: ["NIO", "XPeng", "XPeng", "Li Auto", "Onvo", "Leapmotor", "Batterie", "Reichweite"]
+description: Li Auto L9 LivisNIO ES9AITO M9VW Anhui ID.ERA 9XWey V9XLeapmotor D19Bild
+source: OFweek NEV
+image: >-
+  /images/ai-2026-pekinger-automesse-der-9er-serie-flaggschiff-ofweek-nev-59aab9.webp
+category: news
+tags:
+  - NIO
+  - XPeng
+  - XPeng
+  - Li Auto
+  - Onvo
+  - Leapmotor
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - NIO
+  - Denza
+  - AITO
+  - XPeng
+  - Wey
+  - VW Anhui
+  - Leapmotor
+confidence: 0.95
 ---
 
 # 2026 Pekinger Automesse: Der „9er-Serie“-Flaggschiff-Kampf der SUV-Giganten

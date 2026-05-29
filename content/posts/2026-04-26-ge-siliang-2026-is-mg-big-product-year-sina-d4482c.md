@@ -1,15 +1,29 @@
 ---
-title: "Ge Siliang: 2026 ist ein großes Produktjahr für MG – Die Marke treibt mehrere Linien voran"
+title: >-
+  Ge Siliang: 2026 ist ein großes Produktjahr für MG – Die Marke treibt mehrere
+  Linien voran
 date: 2026-04-26T22:23:55.746Z
-description: "Ge Siliang: 2026 ist ein großes Produktjahr für MG. Am 24. April wurde die Beijing Auto Show 2026 offiziell eröffnet."
-source: "Sina"
-image: "/images/ge-siliang-2026-is-mg-big-product-year-sina-d4482c.webp"
-category: "news"
-brand: "MG"
-tags: ["MG", "Batterie", "Reichweite"]
+description: >-
+  Ge Siliang: 2026 ist ein großes Produktjahr für MG. Am 24. April wurde die
+  Beijing Auto Show 2026 offiziell eröffnet.
+source: Sina
+image: /images/ge-siliang-2026-is-mg-big-product-year-sina-d4482c.webp
+category: news
+brand: MG
+tags:
+  - MG
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-04-26/detail-inhvveae9883143.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-04-26/detail-inhvveae9883143.shtml'
 read_time_minutes: 8
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: de_available
+brands:
+  - MG
+confidence: 0.9
 ---
 
 # Ge Siliang: 2026 ist ein großes Produktjahr für MG – Die Marke treibt mehrere Linien voran

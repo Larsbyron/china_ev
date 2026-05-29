@@ -1,15 +1,32 @@
 ---
-title: "Voyah Passion S: 637-PS-SUV fordert Xiaomi YU7 heraus"
+title: 'Voyah Passion S: 637-PS-SUV fordert Xiaomi YU7 heraus'
 date: 2026-05-22T11:04:29.985Z
-description: "Voyah (岚图) zeigt den Passion S, ein 637 PS starkes Elektro-SUV-Coupé mit 800-Volt-Architektur und Huawei-Lidar. Der „technikdynamische“ FUV tritt gegen Xiaomi YU7 an – Europa-Einstieg über Stellantis-JV geplant."
-source: "CarNewsChina"
-image: "/images/voyah-passion-s-637-ps-suv-fordert-xiaomi-yu7-hera-carnewschina-761bf4.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Voyah (岚图) zeigt den Passion S, ein 637 PS starkes Elektro-SUV-Coupé mit
+  800-Volt-Architektur und Huawei-Lidar. Der „technikdynamische“ FUV tritt gegen
+  Xiaomi YU7 an – Europa-Einstieg über Stellantis-JV geplant.
+source: CarNewsChina
+image: >-
+  /images/voyah-passion-s-637-ps-suv-fordert-xiaomi-yu7-hera-carnewschina-761bf4.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/22/voyah-passion-s-official-images-released-a-xiaomi-yu7-challenger-with-637-hp/"
+original_url: >-
+  https://carnewschina.com/2026/05/22/voyah-passion-s-official-images-released-a-xiaomi-yu7-challenger-with-637-hp/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Voyah
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Voyah Passion S: 637-PS-SUV fordert Xiaomi YU7 heraus

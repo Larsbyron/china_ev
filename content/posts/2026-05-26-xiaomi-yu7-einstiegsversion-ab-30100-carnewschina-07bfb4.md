@@ -1,15 +1,35 @@
 ---
-title: "Xiaomi YU7: Einstiegsversion ab 30.100 €"
+title: 'Xiaomi YU7: Einstiegsversion ab 30.100 €'
 date: 2026-05-26T06:04:50.634Z
-description: "Xiaomi startet Auslieferung der günstigen YU7 Standard Edition in China ab 235.500 Yuan (ca. 30.100 €). Der E-SUV mit 315 PS und 550 km WLTP-Reichweite soll die Verkaufszahlen ankurbeln."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-einstiegsversion-ab-30100-carnewschina-07bfb4.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "NIO", "MG", "Tesla", "Reichweite"]
+description: >-
+  Xiaomi startet Auslieferung der günstigen YU7 Standard Edition in China ab
+  235.500 Yuan (ca. 30.100 €). Der E-SUV mit 315 PS und 550 km WLTP-Reichweite
+  soll die Verkaufszahlen ankurbeln.
+source: CarNewsChina
+image: /images/xiaomi-yu7-einstiegsversion-ab-30100-carnewschina-07bfb4.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - NIO
+  - MG
+  - Tesla
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/low-cost-xiaomi-yu7-trim-started-deliveries-in-china-at-34660-usd/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/low-cost-xiaomi-yu7-trim-started-deliveries-in-china-at-34660-usd/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - NIO
+  - MG
+  - Tesla
+confidence: 0.9
 ---
 
 # Xiaomi YU7: Einstiegsversion ab 30.100 €

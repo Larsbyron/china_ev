@@ -1,15 +1,32 @@
 ---
-title: "NIO E7X: 900V-Plattform, ab 37.100 €"
+title: 'NIO E7X: 900V-Plattform, ab 37.100 €'
 date: 2026-05-28T06:19:38.291Z
-description: "NIO bringt mit dem E7X ein vollelektrisches SUV auf den Markt. Die Vorbestellungen in China starten ab 28,98 Millionen Yuan (ca. 37.100 €). Das Modell bietet 900V-Technik, bis zu 705 km Reichweite und 3,9 Sekunden auf 100 km/h."
-source: "Autohome NewEnergy"
-image: "/images/nio-e7x-900v-plattform-ab-37100-autohome-newenergy-35a485.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "MG", "Tesla", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  NIO bringt mit dem E7X ein vollelektrisches SUV auf den Markt. Die
+  Vorbestellungen in China starten ab 28,98 Millionen Yuan (ca. 37.100 €). Das
+  Modell bietet 900V-Technik, bis zu 705 km Reichweite und 3,9 Sekunden auf 100
+  km/h.
+source: Autohome NewEnergy
+image: /images/nio-e7x-900v-plattform-ab-37100-autohome-newenergy-35a485.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314520.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314520.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - NIO
+confidence: 0.9
 ---
 
 # NIO E7X: 900V-Plattform, ab 37.100 €

@@ -1,15 +1,32 @@
 ---
-title: "XPeng GX: 34.500 Euro, 750 km CLTC"
+title: 'XPeng GX: 34.500 Euro, 750 km CLTC'
 date: 2026-05-22T06:03:44.168Z
-description: "Das neue Flaggschiff-SUV von XPeng startet in China ab 269.800 Yuan (ca. 34.500 €). Mit 750 km CLTC-Reichweite (ca. 640 km WLTP), serienmäßiger Hinterradlenkung und drei KI-Chips soll der GX die Oberklasse aufmischen. 24.863 Bestellungen in 12 Stunden."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "MG", "Reichweite", "Zoll", "EV"]
+description: >-
+  Das neue Flaggschiff-SUV von XPeng startet in China ab 269.800 Yuan (ca.
+  34.500 €). Mit 750 km CLTC-Reichweite (ca. 640 km WLTP), serienmäßiger
+  Hinterradlenkung und drei KI-Chips soll der GX die Oberklasse aufmischen.
+  24.863 Bestellungen in 12 Stunden.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - MG
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.9
 ---
 
 # XPeng GX: 34.500 Euro, 750 km CLTC

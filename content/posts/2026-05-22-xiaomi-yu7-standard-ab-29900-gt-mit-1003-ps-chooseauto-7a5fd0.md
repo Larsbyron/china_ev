@@ -1,15 +1,28 @@
 ---
-title: "Xiaomi YU7: Standard ab 29.900 €, GT mit 1003 PS"
+title: 'Xiaomi YU7: Standard ab 29.900 €, GT mit 1003 PS'
 date: 2026-05-22T06:11:32.728Z
-description: "Xiaomi bringt den YU7 als Standard (ca. 29.900 €, 550 km WLTP) und als GT (ca. 49.900 €, 600 km WLTP). Der GT mit 1003 PS und 2,92 s auf 100 km/h umrundet die Nordschleife in 7:22,755 min – neuer SUV-Rekord."
-source: "ChooseAuto"
-
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Batterie", "Reichweite"]
+description: >-
+  Xiaomi bringt den YU7 als Standard (ca. 29.900 €, 550 km WLTP) und als GT (ca.
+  49.900 €, 600 km WLTP). Der GT mit 1003 PS und 2,92 s auf 100 km/h umrundet
+  die Nordschleife in 7:22,755 min – neuer SUV-Rekord.
+source: ChooseAuto
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/909308.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/909308.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi YU7: Standard ab 29.900 €, GT mit 1003 PS

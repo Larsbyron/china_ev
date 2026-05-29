@@ -1,15 +1,37 @@
 ---
-title: "BYD & Co: Auto-Funktionen gegen Gebühr – bis zu 300 € mehr"
+title: 'BYD & Co: Auto-Funktionen gegen Gebühr – bis zu 300 € mehr'
 date: 2026-05-28T06:27:24.499Z
-description: "BYD (比亚迪), XPeng (小鹏) und Li Auto (理想) haben die Preise für Fahrassistenz-Pakete um über 2.000 Yuan (ca. 300 €) erhöht. Der Schritt markiert den Eintritt in eine Ära kostenpflichtiger Funktionen – mit teils fragwürdigen Grenzen."
-source: "D1EV"
-image: "/images/byd-co-auto-funktionen-gegen-gebhr-bis-zu-300-mehr-d1ev-b5d1d1.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "XPeng", "Xpeng", "Li Auto", "MG", "Tesla", "E-Auto"]
+description: >-
+  BYD (比亚迪), XPeng (小鹏) und Li Auto (理想) haben die Preise für
+  Fahrassistenz-Pakete um über 2.000 Yuan (ca. 300 €) erhöht. Der Schritt
+  markiert den Eintritt in eine Ära kostenpflichtiger Funktionen – mit teils
+  fragwürdigen Grenzen.
+source: D1EV
+image: /images/byd-co-auto-funktionen-gegen-gebhr-bis-zu-300-mehr-d1ev-b5d1d1.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - MG
+  - Tesla
+  - E-Auto
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300800"
+original_url: 'https://www.d1ev.com/news/shichang/300800'
 read_time_minutes: 4
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - BYD
+  - XPeng
+  - Li Auto
+  - MG
+  - Tesla
+confidence: 0.9
 ---
 
 # BYD & Co: Auto-Funktionen gegen Gebühr – bis zu 300 € mehr

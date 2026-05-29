@@ -1,15 +1,29 @@
 ---
-title: "Xiaomi YU7 GT: 990-PS-SUV startet Ende Mai"
+title: 'Xiaomi YU7 GT: 990-PS-SUV startet Ende Mai'
 date: 2026-05-17T05:49:29.299Z
-description: "Der Xiaomi YU7 GT ist ein 990 PS starker Elektro-SUV mit 800-Volt-Architektur und 705 km CLTC-Reichweite (ca. 600 km WLTP). Ab Ende Mai in China – mit Nürburgring-Zeit von 7:32 Minuten."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-990-ps-suv-startet-ende-mai-carnewschina-75710a.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Reichweite", "Zoll"]
+description: >-
+  Der Xiaomi YU7 GT ist ein 990 PS starker Elektro-SUV mit 800-Volt-Architektur
+  und 705 km CLTC-Reichweite (ca. 600 km WLTP). Ab Ende Mai in China – mit
+  Nürburgring-Zeit von 7:32 Minuten.
+source: CarNewsChina
+image: /images/xiaomi-yu7-gt-990-ps-suv-startet-ende-mai-carnewschina-75710a.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7 GT: 990-PS-SUV startet Ende Mai

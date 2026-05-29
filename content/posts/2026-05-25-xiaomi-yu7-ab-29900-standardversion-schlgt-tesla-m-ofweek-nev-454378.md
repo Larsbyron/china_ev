@@ -1,15 +1,31 @@
 ---
-title: "Xiaomi YU7 ab 29.900 €: Standardversion schlägt Tesla Model Y"
+title: 'Xiaomi YU7 ab 29.900 €: Standardversion schlägt Tesla Model Y'
 date: 2026-05-25T13:01:46.949Z
-description: "Xiaomi erweitert seine YU7-Familie auf fünf Versionen. Die Standardversion startet bei 23,35万元 (ca. 29.900 €) und bietet 643 km CLTC-Reichweite – rund 50 km mehr als das Tesla Model Y. Der GT als Topmodell kostet 38,99万元 (ca. 49.900 €)."
-source: "OFweek NEV"
-
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Tesla", "Reichweite", "Elektroauto"]
+description: >-
+  Xiaomi erweitert seine YU7-Familie auf fünf Versionen. Die Standardversion
+  startet bei 23,35万元 (ca. 29.900 €) und bietet 643 km CLTC-Reichweite – rund 50
+  km mehr als das Tesla Model Y. Der GT als Topmodell kostet 38,99万元 (ca. 49.900
+  €).
+source: OFweek NEV
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Tesla
+  - Reichweite
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688339.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688339.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - Tesla
+confidence: 0.9
 ---
 
 # Xiaomi YU7 ab 29.900 €: Standardversion schlägt Tesla Model Y

@@ -1,15 +1,40 @@
 ---
-title: "BYD vorn: Chinas E-Auto-Anteil erreicht 61,4 % – Verbrenner kollabieren"
+title: 'BYD vorn: Chinas E-Auto-Anteil erreicht 61,4 % – Verbrenner kollabieren'
 date: 2026-05-15T05:55:04.692Z
-description: "Chinas Automarkt im April 2026: Neun von zehn meistverkauften Modellen sind E-Autos. Der NEV-Anteil steigt auf 61,4 %. BYD führt mit 182.025 Einheiten. Auch die Exporte boomen: 52,7 % aller Exporte sind NEVs."
-source: "CarNewsChina"
-image: "/images/byd-vorn-chinas-e-auto-anteil-erreicht-614-verbren-carnewschina-242d63.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Li Auto", "Xiaomi SU", "Geely", "Leapmotor", "Tesla", "Elektroauto", "EV"]
+description: >-
+  Chinas Automarkt im April 2026: Neun von zehn meistverkauften Modellen sind
+  E-Autos. Der NEV-Anteil steigt auf 61,4 %. BYD führt mit 182.025 Einheiten.
+  Auch die Exporte boomen: 52,7 % aller Exporte sind NEVs.
+source: CarNewsChina
+image: >-
+  /images/byd-vorn-chinas-e-auto-anteil-erreicht-614-verbren-carnewschina-242d63.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Li Auto
+  - Xiaomi SU
+  - Geely
+  - Leapmotor
+  - Tesla
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/13/chinas-nev-penetration-hits-historic-61-4-in-april-as-ice-sales-collapse/"
+original_url: >-
+  https://carnewschina.com/2026/05/13/chinas-nev-penetration-hits-historic-61-4-in-april-as-ice-sales-collapse/
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - BYD
+  - Li Auto
+  - Xiaomi SU
+  - Geely
+  - Leapmotor
+  - Tesla
+confidence: 0.95
 ---
 
 # BYD vorn: Chinas E-Auto-Anteil erreicht 61,4 % – Verbrenner kollabieren

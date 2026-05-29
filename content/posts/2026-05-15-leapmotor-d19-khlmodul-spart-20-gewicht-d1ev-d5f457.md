@@ -1,15 +1,28 @@
 ---
-title: "Leapmotor D19: Kühlmodul spart 20 % Gewicht"
+title: 'Leapmotor D19: Kühlmodul spart 20 % Gewicht'
 date: 2026-05-15T11:52:10.755Z
-description: "Leapmotor (零跑) bringt mit dem D19 ein vollelektrisches und hybrides Fullsize-SUV auf den Markt. Marelli liefert ein integriertes ECM-Kühlmodul, das mit 20 % Gewichtsreduktion und 10 % Leistungsreserve punkten soll."
-source: "D1EV"
-image: "/images/leapmotor-d19-khlmodul-spart-20-gewicht-d1ev-d5f457.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "Elektroauto", "EV"]
+description: >-
+  Leapmotor (零跑) bringt mit dem D19 ein vollelektrisches und hybrides
+  Fullsize-SUV auf den Markt. Marelli liefert ein integriertes ECM-Kühlmodul,
+  das mit 20 % Gewichtsreduktion und 10 % Leistungsreserve punkten soll.
+source: D1EV
+image: /images/leapmotor-d19-khlmodul-spart-20-gewicht-d1ev-d5f457.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299285"
+original_url: 'https://www.d1ev.com/news/qiye/299285'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Leapmotor
+confidence: 0.9
 ---
 
 # Leapmotor D19: Kühlmodul spart 20 % Gewicht

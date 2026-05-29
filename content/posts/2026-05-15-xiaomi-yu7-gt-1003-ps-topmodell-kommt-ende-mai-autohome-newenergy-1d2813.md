@@ -1,15 +1,29 @@
 ---
-title: "Xiaomi YU7 GT: 1003-PS-Topmodell kommt Ende Mai"
+title: 'Xiaomi YU7 GT: 1003-PS-Topmodell kommt Ende Mai'
 date: 2026-05-15T10:27:35.477Z
-description: "Xiaomi zeigt das YU7 GT als leistungsstärkste Version. 1.003 PS, Carbon-Keramik-Bremsen und eine Reichweite bis 600 km (WLTP) – der Crossover startet Ende Mai in China."
-source: "Autohome NewEnergy"
-image: "/images/xiaomi-yu7-gt-1003-ps-topmodell-kommt-ende-mai-autohome-newenergy-1d2813.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Batterie", "Reichweite"]
+description: >-
+  Xiaomi zeigt das YU7 GT als leistungsstärkste Version. 1.003 PS,
+  Carbon-Keramik-Bremsen und eine Reichweite bis 600 km (WLTP) – der Crossover
+  startet Ende Mai in China.
+source: Autohome NewEnergy
+image: >-
+  /images/xiaomi-yu7-gt-1003-ps-topmodell-kommt-ende-mai-autohome-newenergy-1d2813.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314302.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314302.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7 GT: 1003-PS-Topmodell kommt Ende Mai

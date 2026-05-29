@@ -1,15 +1,34 @@
 ---
-title: "BYD V9X: Großes Hybrid-SUV ab ca. 44.800 €"
+title: 'BYD V9X: Großes Hybrid-SUV ab ca. 44.800 €'
 date: 2026-05-19T19:49:15.914Z
-description: "BYD bringt den sechssitzigen V9X als Plug-in-Hybrid in China an den Start. Drei Varianten mit bis zu 470 km elektrischer Reichweite (CLTC) und 800-Volt-Architektur. Preise starten bei 349.800 Yuan (ca. 44.800 €)."
-source: "Autohome NewEnergy"
-image: "/images/byd-v9x-groes-hybrid-suv-ab-ca-44800-autohome-newenergy-a60109.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "XPeng", "Xpeng", "Li Auto", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  BYD bringt den sechssitzigen V9X als Plug-in-Hybrid in China an den Start.
+  Drei Varianten mit bis zu 470 km elektrischer Reichweite (CLTC) und
+  800-Volt-Architektur. Preise starten bei 349.800 Yuan (ca. 44.800 €).
+source: Autohome NewEnergy
+image: /images/byd-v9x-groes-hybrid-suv-ab-ca-44800-autohome-newenergy-a60109.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.autohome.com.cn/news/202605/1314366.html"
+original_url: 'https://www.autohome.com.cn/news/202605/1314366.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD V9X: Großes Hybrid-SUV ab ca. 44.800 €

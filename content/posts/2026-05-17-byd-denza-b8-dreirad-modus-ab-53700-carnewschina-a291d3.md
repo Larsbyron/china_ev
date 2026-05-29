@@ -1,15 +1,32 @@
 ---
-title: "BYD Denza B8: Dreirad-Modus ab 53.700 €"
+title: 'BYD Denza B8: Dreirad-Modus ab 53.700 €'
 date: 2026-05-17T11:04:34.254Z
-description: "BYDs Luxusmarke Denza zeigt den B8 Flash Charge Edition mit aktivem Dreirad-Modus. Das System hebt ein Rad an und fährt auf drei Rädern weiter. Preis in China: ab ca. 53.700 €, Reichweite 200 km (CLTC)."
-source: "CarNewsChina"
-image: "/images/byd-denza-b8-dreirad-modus-ab-53700-carnewschina-a291d3.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Li Auto", "Reichweite", "EV"]
+description: >-
+  BYDs Luxusmarke Denza zeigt den B8 Flash Charge Edition mit aktivem
+  Dreirad-Modus. Das System hebt ein Rad an und fährt auf drei Rädern weiter.
+  Preis in China: ab ca. 53.700 €, Reichweite 200 km (CLTC).
+source: CarNewsChina
+image: /images/byd-denza-b8-dreirad-modus-ab-53700-carnewschina-a291d3.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Li Auto
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/"
+original_url: >-
+  https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+  - Denza
+confidence: 0.9
 ---
 
 # BYD Denza B8: Dreirad-Modus ab 53.700 €

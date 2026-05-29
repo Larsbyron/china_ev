@@ -1,15 +1,35 @@
 ---
-title: "Zeekr 8X Ultra Plus: 885-PS-Hybrid-SUV ab 42.200 €"
+title: 'Zeekr 8X Ultra Plus: 885-PS-Hybrid-SUV ab 42.200 €'
 date: 2026-05-25T06:28:34.948Z
-description: "Der Zeekr 8X Ultra Plus ist ein großer Plug-in-Hybrid-SUV mit 885 PS und 900-Volt-Architektur. In China startet er ab 329.800 Yuan. Der Marktstart in Europa ist für Ende 2026 geplant."
-source: "CarNewsChina"
-image: "/images/zeekr-8x-ultra-plus-885-ps-hybrid-suv-ab-42200-carnewschina-d1bcad.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "BYD", "Geely", "Zeekr", "MG", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der Zeekr 8X Ultra Plus ist ein großer Plug-in-Hybrid-SUV mit 885 PS und
+  900-Volt-Architektur. In China startet er ab 329.800 Yuan. Der Marktstart in
+  Europa ist für Ende 2026 geplant.
+source: CarNewsChina
+image: >-
+  /images/zeekr-8x-ultra-plus-885-ps-hybrid-suv-ab-42200-carnewschina-d1bcad.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - BYD
+  - Geely
+  - Zeekr
+  - MG
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/03/sunday-china-drive-zeekr-8x-ultra-plus-tested-with-885-hp-hybrid-europe-entry-late-2026/"
+original_url: >-
+  https://carnewschina.com/2026/05/03/sunday-china-drive-zeekr-8x-ultra-plus-tested-with-885-hp-hybrid-europe-entry-late-2026/
 read_time_minutes: 6
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Zeekr
+confidence: 0.9
 ---
 
 # Zeekr 8X Ultra Plus: 885-PS-Hybrid-SUV ab 42.200 €

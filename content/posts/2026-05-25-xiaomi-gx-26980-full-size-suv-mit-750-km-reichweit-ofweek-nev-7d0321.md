@@ -1,15 +1,29 @@
 ---
-title: "Xiaomi GX: 26.980 € – Full-Size-SUV mit 750 km Reichweite"
+title: 'Xiaomi GX: 26.980 € – Full-Size-SUV mit 750 km Reichweite'
 date: 2026-05-25T06:25:10.910Z
-description: "Xiaomi Auto startet sein erstes Full-Size-SUV GX in China ab 26.980 € (nach Rabatt). Der Rivale von L9 und ES8 erzielte 24.863 Bestellungen in 12 Stunden. Ein Europa-Start ist nicht geplant."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "MG", "Reichweite", "Zoll", "EV"]
+description: >-
+  Xiaomi Auto startet sein erstes Full-Size-SUV GX in China ab 26.980 € (nach
+  Rabatt). Der Rivale von L9 und ES8 erzielte 24.863 Bestellungen in 12 Stunden.
+  Ein Europa-Start ist nicht geplant.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - MG
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - NIO
+confidence: 0.9
 ---
 
 # Xiaomi GX: 26.980 € – Full-Size-SUV mit 750 km Reichweite

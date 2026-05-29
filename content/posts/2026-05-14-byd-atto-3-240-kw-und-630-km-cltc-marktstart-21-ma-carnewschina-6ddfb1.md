@@ -1,15 +1,31 @@
 ---
-title: "BYD Atto 3: 240 kW und 630 km (CLTC) – Marktstart 21. Mai"
+title: 'BYD Atto 3: 240 kW und 630 km (CLTC) – Marktstart 21. Mai'
 date: 2026-05-14T11:47:32.946Z
-description: "Der neue BYD Atto 3 (Yuan Plus) debütiert mit 240 kW Heckantrieb, Blade Battery 2.0 und Schnellladung. Reichweite bis 630 km (CLTC, ca. 540 km WLTP). Marktstart in China am 21. Mai 2026."
-source: "CarNewsChina"
-image: "/images/byd-atto-3-240-kw-und-630-km-cltc-marktstart-21-ma-carnewschina-6ddfb1.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der neue BYD Atto 3 (Yuan Plus) debütiert mit 240 kW Heckantrieb, Blade
+  Battery 2.0 und Schnellladung. Reichweite bis 630 km (CLTC, ca. 540 km WLTP).
+  Marktstart in China am 21. Mai 2026.
+source: CarNewsChina
+image: >-
+  /images/byd-atto-3-240-kw-und-630-km-cltc-marktstart-21-ma-carnewschina-6ddfb1.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/12/byd-atto-3-lands-in-showrooms-with-240-kw-rwd-and-flash-charging-ahead-of-may-21-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/12/byd-atto-3-lands-in-showrooms-with-240-kw-rwd-and-flash-charging-ahead-of-may-21-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Atto 3: 240 kW und 630 km (CLTC) – Marktstart 21. Mai

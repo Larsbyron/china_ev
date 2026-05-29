@@ -1,15 +1,32 @@
 ---
-title: "BYD lädt zur KI-Konferenz: God's Eye im Fokus"
+title: 'BYD lädt zur KI-Konferenz: God''s Eye im Fokus'
 date: 2026-05-22T19:28:06.497Z
-description: "Am 28. Mai 2026 präsentiert BYD seine zweite große Technologiekonferenz des Jahres. Gerüchte drehen sich um das Fahrassistenzsystem God's Eye, KI-Training und den aktualisierten Atto 3 mit deutlich mehr Reichweite."
-source: "CarNewsChina"
-image: "/images/byd-ldt-zur-ki-konferenz-gods-eye-im-fokus-carnewschina-f44828.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Reichweite", "Ladestation", "EV"]
+description: >-
+  Am 28. Mai 2026 präsentiert BYD seine zweite große Technologiekonferenz des
+  Jahres. Gerüchte drehen sich um das Fahrassistenzsystem God's Eye, KI-Training
+  und den aktualisierten Atto 3 mit deutlich mehr Reichweite.
+source: CarNewsChina
+image: /images/byd-ldt-zur-ki-konferenz-gods-eye-im-fokus-carnewschina-f44828.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/22/byd-may-28-intelligent-driving-strategy-event-sparks-speculation-over-new-gods-eye-rollout/"
+original_url: >-
+  https://carnewschina.com/2026/05/22/byd-may-28-intelligent-driving-strategy-event-sparks-speculation-over-new-gods-eye-rollout/
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD lädt zur KI-Konferenz: God's Eye im Fokus

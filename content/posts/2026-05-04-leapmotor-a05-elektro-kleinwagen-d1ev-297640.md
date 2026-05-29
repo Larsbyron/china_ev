@@ -1,15 +1,29 @@
 ---
-title: "Leapmotor A05: Neuer Elektro-Kleinwagen kommt im Mai"
-date: 2026-05-04T07:00:00
-description: "Der Leapmotor A05 ist ein batterieelektrischer Kleinwagen mit bis zu 510 km Reichweite und optionalem LiDAR — Vorstellung im Mai, Marktstart möglicherweise schon im Juni."
-source: "D1EV"
-image: "/images/ai-leapmotor-a05-elektro-kleinwagen-d1ev-297640.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor A05", "Elektro-Kleinwagen", "LiDAR", "Kleinwagen"]
+title: 'Leapmotor A05: Neuer Elektro-Kleinwagen kommt im Mai'
+date: 2026-05-04T07:00:00.000Z
+description: >-
+  Der Leapmotor A05 ist ein batterieelektrischer Kleinwagen mit bis zu 510 km
+  Reichweite und optionalem LiDAR — Vorstellung im Mai, Marktstart
+  möglicherweise schon im Juni.
+source: D1EV
+image: /images/ai-leapmotor-a05-elektro-kleinwagen-d1ev-297640.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor A05
+  - Elektro-Kleinwagen
+  - LiDAR
+  - Kleinwagen
 draft: false
-original_url: "https://www.d1ev.com/carnews/xinche/297640"
+original_url: 'https://www.d1ev.com/carnews/xinche/297640'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Leapmotor
+confidence: 0.9
 ---
 
 Leapmotor erweitert seine A-Serie: Der rein elektrische Kleinwagen A05 soll im Mai offiziell vorgestellt werden und könnte bereits im Juni auf den Markt kommen. Das Fahrzeug hat bereits die Zulassung beim chinesischen Industrieministerium (MIIT) erhalten.

@@ -1,15 +1,34 @@
 ---
-title: "Volvo XC70 PHEV startet in China ab 34.500 €"
+title: Volvo XC70 PHEV startet in China ab 34.500 €
 date: 2026-05-20T06:17:08.102Z
-description: "Volvo bringt den XC70 als Plug-in-Hybrid (PHEV) in China auf den Markt. Die Preise beginnen bei 269.900 Yuan (ca. 34.500 €), die elektrische Reichweite beträgt bis zu 212 km (CLTC). Ein Europa-Export ist bestätigt."
-source: "CarNewsChina"
-image: "/images/volvo-xc70-phev-startet-in-china-ab-34500-carnewschina-bb0df3.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Li Auto", "MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Volvo bringt den XC70 als Plug-in-Hybrid (PHEV) in China auf den Markt. Die
+  Preise beginnen bei 269.900 Yuan (ca. 34.500 €), die elektrische Reichweite
+  beträgt bis zu 212 km (CLTC). Ein Europa-Export ist bestätigt.
+source: CarNewsChina
+image: /images/volvo-xc70-phev-startet-in-china-ab-34500-carnewschina-bb0df3.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Li Auto
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/03/22/sunday-china-drive-volvo-xc70-phev-road-tested-in-china-global-model-bound-for-70-markets/"
+original_url: >-
+  https://carnewschina.com/2026/03/22/sunday-china-drive-volvo-xc70-phev-road-tested-in-china-global-model-bound-for-70-markets/
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - Volvo
+confidence: 0.95
 ---
 
 # Volvo XC70 PHEV startet in China ab 34.500 €

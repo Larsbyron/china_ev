@@ -1,15 +1,30 @@
 ---
-title: "Peking 2025: Li Auto und HIMA im KI-Cockpit-Vergleich"
+title: 'Peking 2025: Li Auto und HIMA im KI-Cockpit-Vergleich'
 date: 2026-05-28T06:26:33.662Z
-description: "Auf der Auto China 2025 zeigen Li Auto und HIMA gegensätzliche KI-Architekturen. Li Autos StreamingClaw setzt auf Echtzeit-Verarbeitung (L9 Livis ab ca. 55.000 €), HIMA auf Cloud-Ökosysteme. Ein Technologievergleich mit Blick auf Europa."
-source: "Sina"
-image: "/images/peking-2025-li-auto-und-hima-im-ki-cockpit-verglei-sina-332deb.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "EV"]
+description: >-
+  Auf der Auto China 2025 zeigen Li Auto und HIMA gegensätzliche
+  KI-Architekturen. Li Autos StreamingClaw setzt auf Echtzeit-Verarbeitung (L9
+  Livis ab ca. 55.000 €), HIMA auf Cloud-Ökosysteme. Ein Technologievergleich
+  mit Blick auf Europa.
+source: Sina
+image: /images/peking-2025-li-auto-und-hima-im-ki-cockpit-verglei-sina-332deb.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - HIMA
+confidence: 0.9
 ---
 
 # Peking 2025: Li Auto und HIMA im KI-Cockpit-Vergleich

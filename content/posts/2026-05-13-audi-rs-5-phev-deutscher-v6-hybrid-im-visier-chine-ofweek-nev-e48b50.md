@@ -1,15 +1,37 @@
 ---
-title: "Audi RS 5 PHEV: Deutscher V6-Hybrid im Visier chinesischer Premium-Konkurrenten"
+title: >-
+  Audi RS 5 PHEV: Deutscher V6-Hybrid im Visier chinesischer
+  Premium-Konkurrenten
 date: 2026-05-13T23:39:01.051Z
-description: "Der neue Audi RS 5 Sportback kombiniert 2,9-Liter-V6-Biturbo mit 130-kW-E-Motor. Im Reich der Mitte tritt er gegen BYD Han DM-p und Li Auto L9 an – ein Signal für Audis Hybridstrategie unter dem Druck der NEV-Quote und des chinesischen Wettbewerbs."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "MG", "Batterie", "E-Auto"]
+description: >-
+  Der neue Audi RS 5 Sportback kombiniert 2,9-Liter-V6-Biturbo mit
+  130-kW-E-Motor. Im Reich der Mitte tritt er gegen BYD Han DM-p und Li Auto L9
+  an – ein Signal für Audis Hybridstrategie unter dem Druck der NEV-Quote und
+  des chinesischen Wettbewerbs.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - MG
+  - Batterie
+  - E-Auto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - politik-zoelle-regulierung
+marketRelevance: china_only
+brands:
+  - Audi
+  - BYD
+  - Li Auto
+confidence: 0.9
 ---
 
 # Audi RS 5 PHEV: Deutscher V6-Hybrid im Visier chinesischer Premium-Konkurrenten

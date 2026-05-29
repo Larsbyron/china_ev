@@ -1,15 +1,35 @@
 ---
-title: "MIIT-Liste: Mercedes GLE L, VW ID.ERA 5S & zwei MONA-Modelle"
+title: 'MIIT-Liste: Mercedes GLE L, VW ID.ERA 5S & zwei MONA-Modelle'
 date: 2026-05-26T06:13:30.629Z
-description: "Das chinesische MIIT zeigt sieben Neuheiten: Mercedes GLE L in Langversion, VW ID.ERA 5S als PHEV mit 2.000 km Reichweite, zwei Xiaopeng MONA-SUVs, Hyundai IONIQ V und das Offroad-SUV Enpeng 8. Marktstart in China ab Mitte 2026."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Tesla", "Batterie", "Reichweite"]
+description: >-
+  Das chinesische MIIT zeigt sieben Neuheiten: Mercedes GLE L in Langversion, VW
+  ID.ERA 5S als PHEV mit 2.000 km Reichweite, zwei Xiaopeng MONA-SUVs, Hyundai
+  IONIQ V und das Offroad-SUV Enpeng 8. Marktstart in China ab Mitte 2026.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Tesla
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Mercedes
+  - VW
+  - XPeng
+  - Hyundai
+  - Enpeng
+confidence: 0.9
 ---
 
 # MIIT-Liste: Mercedes GLE L, VW ID.ERA 5S & zwei MONA-Modelle

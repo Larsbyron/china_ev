@@ -1,15 +1,30 @@
 ---
-title: "BYD vs. VW vs. GAC: Drei China-SUVs ab 16.600 € im Test"
+title: 'BYD vs. VW vs. GAC: Drei China-SUVs ab 16.600 € im Test'
 date: 2026-05-20T12:29:09.403Z
-description: "Fangchengbao Bao 7, ID.ERA 9X und GAC NX8 im Vergleich: Drei chinesische SUVs, drei Marken, ein Markt. Preiswerter Allrounder, Luxus-Flaggschiff und Komfort-Kracher – wir haben sie getestet."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "MG", "Reichweite", "Zoll", "Elektroauto"]
+description: >-
+  Fangchengbao Bao 7, ID.ERA 9X und GAC NX8 im Vergleich: Drei chinesische SUVs,
+  drei Marken, ein Markt. Preiswerter Allrounder, Luxus-Flaggschiff und
+  Komfort-Kracher – wir haben sie getestet.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - MG
+  - Reichweite
+  - Zoll
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - VW
+  - GAC
+confidence: 0.9
 ---
 
 # BYD vs. VW vs. GAC: Drei China-SUVs ab 16.600 € im Test

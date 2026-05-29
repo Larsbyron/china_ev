@@ -1,15 +1,27 @@
 ---
-title: "China-News: 7 neue Modelle von 16.000 bis 56.000 Euro"
+title: 'China-News: 7 neue Modelle von 16.000 bis 56.000 Euro'
 date: 2026-05-15T10:59:34.915Z
-description: "Sieben chinesische Hersteller starten ab März 2025 Vorverkauf für neue Modelle – vom kompakten EREV-SUV bis zur Luxuslimousine. Preise zwischen 12,79 und 43,99 Mio. Yuan (ca. 16.400 bis 56.300 €). Ein Überblick."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "Reichweite", "EV"]
+description: >-
+  Sieben chinesische Hersteller starten ab März 2025 Vorverkauf für neue Modelle
+  – vom kompakten EREV-SUV bis zur Luxuslimousine. Preise zwischen 12,79 und
+  43,99 Mio. Yuan (ca. 16.400 bis 56.300 €). Ein Überblick.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30683949.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30683949.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Galaxy (吉利银河)
+confidence: 0.8
 ---
 
 # China-News: 7 neue Modelle von 16.000 bis 56.000 Euro

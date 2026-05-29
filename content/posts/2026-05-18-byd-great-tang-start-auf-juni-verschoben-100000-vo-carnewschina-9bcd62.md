@@ -1,15 +1,31 @@
 ---
-title: "BYD Great Tang: Start auf Juni verschoben – 100.000 Vorbestellungen"
+title: 'BYD Great Tang: Start auf Juni verschoben – 100.000 Vorbestellungen'
 date: 2026-05-18T19:32:11.836Z
-description: "Der große BYD-SUV Great Tang startet erst am 8. Juni in China. Grund: Engpässe bei der Blade-Batterie 2.0. Über 100.000 Vorbestellungen liegen vor. Preis ab ca. 32.000 €."
-source: "CarNewsChina"
-image: "/images/byd-great-tang-start-auf-juni-verschoben-100000-vo-carnewschina-9bcd62.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Batterie", "Reichweite"]
+description: >-
+  Der große BYD-SUV Great Tang startet erst am 8. Juni in China. Grund: Engpässe
+  bei der Blade-Batterie 2.0. Über 100.000 Vorbestellungen liegen vor. Preis ab
+  ca. 32.000 €.
+source: CarNewsChina
+image: >-
+  /images/byd-great-tang-start-auf-juni-verschoben-100000-vo-carnewschina-9bcd62.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/byd-great-tang-launch-delayed-as-100000-orders-strain-blade-battery-2-0-supply-report-says/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/byd-great-tang-launch-delayed-as-100000-orders-strain-blade-battery-2-0-supply-report-says/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Great Tang: Start auf Juni verschoben – 100.000 Vorbestellungen

@@ -1,15 +1,28 @@
 ---
-title: "Fangchengbao Bao 8 & Bao 5: Flash-Charge-Offroad ab 39.100 €"
+title: 'Fangchengbao Bao 8 & Bao 5: Flash-Charge-Offroad ab 39.100 €'
 date: 2026-05-14T00:08:00.039Z
-description: "BYDs Offroad-Tochter Fangchengbao bringt den Bao 8 und Bao 5 mit Flash-Charge-Technik. Ab 39.100 € (China) bieten sie 200 km CLTC-Reichweite, 4,8 s auf 100 km und ein Luftfahrwerk mit 200 mm Hub. Europa-Start ungewiss."
-source: "D1EV"
-image: "/images/fangchengbao-bao-8-bao-5-flash-charge-offroad-ab-3-d1ev-8d1595.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  BYDs Offroad-Tochter Fangchengbao bringt den Bao 8 und Bao 5 mit
+  Flash-Charge-Technik. Ab 39.100 € (China) bieten sie 200 km CLTC-Reichweite,
+  4,8 s auf 100 km und ein Luftfahrwerk mit 200 mm Hub. Europa-Start ungewiss.
+source: D1EV
+image: /images/fangchengbao-bao-8-bao-5-flash-charge-offroad-ab-3-d1ev-8d1595.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299053"
+original_url: 'https://www.d1ev.com/news/shichang/299053'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Fangchengbao Bao 8 & Bao 5: Flash-Charge-Offroad ab 39.100 €

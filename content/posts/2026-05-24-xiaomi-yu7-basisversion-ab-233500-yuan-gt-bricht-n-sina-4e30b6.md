@@ -1,15 +1,30 @@
 ---
-title: "Xiaomi YU7: Basisversion ab 233.500 Yuan, GT bricht Nürburgring-Rekord"
+title: 'Xiaomi YU7: Basisversion ab 233.500 Yuan, GT bricht Nürburgring-Rekord'
 date: 2026-05-24T11:16:40.796Z
-description: "Xiaomi bringt die Basisversion des YU7 zurück. Der chinesische Einstiegspreis beträgt 233.500 Yuan (ca. 29.900 €). Der YU7 GT umrundet die Nordschleife in 7:34 Minuten – SUV-Rekord. Ein EU-Start ist noch nicht bestätigt."
-source: "Sina"
-image: "/images/xiaomi-yu7-basisversion-ab-233500-yuan-gt-bricht-n-sina-4e30b6.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Tesla", "Reichweite"]
+description: >-
+  Xiaomi bringt die Basisversion des YU7 zurück. Der chinesische Einstiegspreis
+  beträgt 233.500 Yuan (ca. 29.900 €). Der YU7 GT umrundet die Nordschleife in
+  7:34 Minuten – SUV-Rekord. Ein EU-Start ist noch nicht bestätigt.
+source: Sina
+image: /images/xiaomi-yu7-basisversion-ab-233500-yuan-gt-bricht-n-sina-4e30b6.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Tesla
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi YU7: Basisversion ab 233.500 Yuan, GT bricht Nürburgring-Rekord

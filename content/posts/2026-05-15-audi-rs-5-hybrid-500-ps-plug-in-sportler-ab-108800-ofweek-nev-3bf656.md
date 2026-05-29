@@ -1,15 +1,27 @@
 ---
-title: "Audi RS 5 Hybrid: 500+ PS Plug-in-Sportler ab 108.800 €"
+title: 'Audi RS 5 Hybrid: 500+ PS Plug-in-Sportler ab 108.800 €'
 date: 2026-05-15T12:01:36.248Z
-description: "Der neue Audi RS 5 Sportback wird zum Plug-in-Hybriden. Mit V6-Biturbo, E-Motor und mechanischem quattro bietet er über 500 PS. Preis in China: ab 850.000 Yuan (ca. 108.800 €)*."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "Reichweite", "E-Auto", "EV"]
+description: >-
+  Der neue Audi RS 5 Sportback wird zum Plug-in-Hybriden. Mit V6-Biturbo,
+  E-Motor und mechanischem quattro bietet er über 500 PS. Preis in China: ab
+  850.000 Yuan (ca. 108.800 €)*.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - Reichweite
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: de_available
+brands:
+  - Audi
+confidence: 0.9
 ---
 
 # Audi RS 5 Hybrid: 500+ PS Plug-in-Sportler ab 108.800 €

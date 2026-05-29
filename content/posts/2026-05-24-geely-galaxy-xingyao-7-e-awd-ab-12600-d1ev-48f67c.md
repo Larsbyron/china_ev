@@ -1,15 +1,31 @@
 ---
-title: "Geely Galaxy Xingyao 7: e-AWD ab 12.600 €"
+title: 'Geely Galaxy Xingyao 7: e-AWD ab 12.600 €'
 date: 2026-05-24T06:00:12.941Z
-description: "Geely bringt mit dem Galaxy Xingyao 7 MAX eine Allrad-Limousine ab 12.600 €. Der 424 PS starke E-Antrieb und ein Verbrauch von 2,98 l/100 km (CLTC) setzen neue Maßstäbe in der Kompaktklasse."
-source: "D1EV"
-image: "/images/geely-galaxy-xingyao-7-e-awd-ab-12600-d1ev-48f67c.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Zeekr", "Tesla", "Batterie", "Elektroauto", "EV"]
+description: >-
+  Geely bringt mit dem Galaxy Xingyao 7 MAX eine Allrad-Limousine ab 12.600 €.
+  Der 424 PS starke E-Antrieb und ein Verbrauch von 2,98 l/100 km (CLTC) setzen
+  neue Maßstäbe in der Kompaktklasse.
+source: D1EV
+image: /images/geely-galaxy-xingyao-7-e-awd-ab-12600-d1ev-48f67c.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Zeekr
+  - Tesla
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300201"
+original_url: 'https://www.d1ev.com/news/shichang/300201'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.9
 ---
 
 # Geely Galaxy Xingyao 7: e-AWD ab 12.600 €

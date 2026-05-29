@@ -1,15 +1,34 @@
 ---
-title: "Audi RS 5 PHEV: 680 PS Hybrid-Sportback für China"
+title: 'Audi RS 5 PHEV: 680 PS Hybrid-Sportback für China'
 date: 2026-05-23T19:06:46.823Z
-description: "Der neue Audi RS 5 Sportback kommt als Plug-in-Hybrid mit über 500 kW Systemleistung. Der 2,9-Liter-V6-Biturbo wird von einem 130 kW starken E-Motor unterstützt. Marktstart in China: 2025."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "MG", "Batterie", "Reichweite"]
+description: >-
+  Der neue Audi RS 5 Sportback kommt als Plug-in-Hybrid mit über 500 kW
+  Systemleistung. Der 2,9-Liter-V6-Biturbo wird von einem 130 kW starken E-Motor
+  unterstützt. Marktstart in China: 2025.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - MG
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - NIO
+  - XPeng
+  - Li Auto
+confidence: 0.9
 ---
 
 # Audi RS 5 PHEV: 680 PS Hybrid-Sportback für China

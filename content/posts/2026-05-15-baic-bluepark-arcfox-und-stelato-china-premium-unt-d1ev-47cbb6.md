@@ -1,15 +1,28 @@
 ---
-title: "BAIC BluePark: ArcFox und Stelato – China-Premium unter 20.000 Euro"
+title: 'BAIC BluePark: ArcFox und Stelato – China-Premium unter 20.000 Euro'
 date: 2026-05-15T11:52:53.185Z
-description: "BAIC BluePark (北汽蓝谷) setzt auf die Marken ArcFox (极狐) und Stelato (享界). ArcFox bietet 800-Volt-Technik ab ca. 19.200 Euro, Stelato kooperiert mit Huawei. Ein Europa-Start ist nicht absehbar."
-source: "D1EV"
-image: "/images/baic-bluepark-arcfox-und-stelato-china-premium-unt-d1ev-47cbb6.webp"
-category: "news"
-
-tags: ["Batterie", "EV"]
+description: >-
+  BAIC BluePark (北汽蓝谷) setzt auf die Marken ArcFox (极狐) und Stelato (享界). ArcFox
+  bietet 800-Volt-Technik ab ca. 19.200 Euro, Stelato kooperiert mit Huawei. Ein
+  Europa-Start ist nicht absehbar.
+source: D1EV
+image: /images/baic-bluepark-arcfox-und-stelato-china-premium-unt-d1ev-47cbb6.webp
+category: news
+tags:
+  - Batterie
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299271"
+original_url: 'https://www.d1ev.com/news/shichang/299271'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - ArcFox
+  - Stelato
+confidence: 0.9
 ---
 
 # BAIC BluePark: ArcFox und Stelato – China-Premium unter 20.000 Euro

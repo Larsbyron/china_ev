@@ -1,15 +1,33 @@
 ---
-title: "Denza N9 Flash Charge: 420 km Reichweite, 5-Minuten-Ladung"
+title: 'Denza N9 Flash Charge: 420 km Reichweite, 5-Minuten-Ladung'
 date: 2026-05-20T06:14:07.453Z
-description: "Das BYD-Tochterunternehmen Denza bringt den N9 Flash Charge ab 40,98万 Yuan (ca. 52.500 €) auf den Markt. Der Siebensitzer lädt in fünf Minuten auf Alltagsniveau und bietet 420 km CLTC-Reichweite. Ein Marktstart in Europa ist nicht geplant."
-source: "ChooseAuto"
-image: "/images/denza-n9-flash-charge-420-km-reichweite-5-minuten-chooseauto-140b4c.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Das BYD-Tochterunternehmen Denza bringt den N9 Flash Charge ab 40,98万 Yuan
+  (ca. 52.500 €) auf den Markt. Der Siebensitzer lädt in fünf Minuten auf
+  Alltagsniveau und bietet 420 km CLTC-Reichweite. Ein Marktstart in Europa ist
+  nicht geplant.
+source: ChooseAuto
+image: >-
+  /images/denza-n9-flash-charge-420-km-reichweite-5-minuten-chooseauto-140b4c.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/907301.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/907301.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Denza N9 Flash Charge: 420 km Reichweite, 5-Minuten-Ladung

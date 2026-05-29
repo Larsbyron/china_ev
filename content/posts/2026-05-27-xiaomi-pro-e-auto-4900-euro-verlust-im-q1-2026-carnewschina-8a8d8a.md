@@ -1,15 +1,30 @@
 ---
-title: "Xiaomi: Pro E-Auto 4.900 Euro Verlust im Q1 2026"
+title: 'Xiaomi: Pro E-Auto 4.900 Euro Verlust im Q1 2026'
 date: 2026-05-27T12:57:03.081Z
-description: "Xiaomi steigert Auslieferungen um 6,6 %, doch der operative Verlust der EV-Sparte steigt auf 397 Mio. €. Pro Fahrzeug bedeutet das fast 4.900 € Minus. Ein Marktstart in Europa ist noch nicht absehbar."
-source: "CarNewsChina"
-image: "/images/xiaomi-pro-e-auto-4900-euro-verlust-im-q1-2026-carnewschina-8a8d8a.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "EV"]
+description: >-
+  Xiaomi steigert Auslieferungen um 6,6 %, doch der operative Verlust der
+  EV-Sparte steigt auf 397 Mio. €. Pro Fahrzeug bedeutet das fast 4.900 € Minus.
+  Ein Marktstart in Europa ist noch nicht absehbar.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-pro-e-auto-4900-euro-verlust-im-q1-2026-carnewschina-8a8d8a.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi: Pro E-Auto 4.900 Euro Verlust im Q1 2026

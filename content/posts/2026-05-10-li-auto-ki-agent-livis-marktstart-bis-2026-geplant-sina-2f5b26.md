@@ -1,15 +1,28 @@
 ---
-title: "Li Auto: KI-Agent „Livis' – Marktstart bis 2026 geplant"
+title: 'Li Auto: KI-Agent „Livis'' – Marktstart bis 2026 geplant'
 date: 2026-05-10T20:34:33.007Z
-description: "Li Auto setzt im L9 auf einen ganzheitlichen KI-Agenten (Livis), Huawei auf einen modularen Task-Scheduler. Zwei Philosophien fürs intelligente Cockpit. Europapläne? Keine."
-source: "Sina"
-image: "/images/li-auto-ki-agent-livis-marktstart-bis-2026-geplant-sina-2f5b26.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Li Auto setzt im L9 auf einen ganzheitlichen KI-Agenten (Livis), Huawei auf
+  einen modularen Task-Scheduler. Zwei Philosophien fürs intelligente Cockpit.
+  Europapläne? Keine.
+source: Sina
+image: /images/li-auto-ki-agent-livis-marktstart-bis-2026-geplant-sina-2f5b26.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: 'https://auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto: KI-Agent „Livis" – Marktstart bis 2026 geplant

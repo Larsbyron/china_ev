@@ -1,13 +1,30 @@
 ---
-title: "XPeng GX: Neue Bilder zeigen Luxus-SUV mit Range-Rover-Proportionen"
+title: 'XPeng GX: Neue Bilder zeigen Luxus-SUV mit Range-Rover-Proportionen'
 date: 2026-04-08T10:15:00.000Z
-description: "XPeng veröffentlicht neue offizielle Bilder des GX-Flagschiff-SUV. Das 5,26 Meter lange Modell bietet Both BEV- und EREV-Antrieb und soll noch in diesem Quartal auf den Markt kommen."
-source: "CnEVPost"
-image: "/images/ai-xpeng-veroeffentlicht-weitere-bilder-des-flagschiff-suv-gx-cnevpost-8a2b34.webp"
-category: "news"
-tags: ["XPeng", "GX", "SUV", "EREV", "Autonomes Fahren"]
+description: >-
+  XPeng veröffentlicht neue offizielle Bilder des GX-Flagschiff-SUV. Das 5,26
+  Meter lange Modell bietet Both BEV- und EREV-Antrieb und soll noch in diesem
+  Quartal auf den Markt kommen.
+source: CnEVPost
+image: >-
+  /images/ai-xpeng-veroeffentlicht-weitere-bilder-des-flagschiff-suv-gx-cnevpost-8a2b34.webp
+category: news
+tags:
+  - XPeng
+  - GX
+  - SUV
+  - EREV
+  - Autonomes Fahren
 draft: false
-original_url: "https://cnevpost.com/2026/04/08/xpeng-releases-more-official-images-gx-suv/"
+original_url: 'https://cnevpost.com/2026/04/08/xpeng-releases-more-official-images-gx-suv/'
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.95
 ---
 
 # XPeng GX: Neue Bilder zeigen Luxus-SUV mit Range-Rover-Proportionen

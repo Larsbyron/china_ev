@@ -1,15 +1,31 @@
 ---
-title: "Audi RS 5 PHEV: 375 kW V6 mit E-Boost"
+title: 'Audi RS 5 PHEV: 375 kW V6 mit E-Boost'
 date: 2026-05-16T05:25:51.411Z
-description: "Der neue Audi RS 5 kombiniert einen 2,9-Liter-V6-Biturbo (375 kW) mit einem 130 kW starken Elektromotor und 22-kWh-Akku. Das Plug-in-Hybrid-System steigert die Dynamik und ermöglicht rein elektrische Fahrten. Marktstart zunächst in China."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "MG", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Der neue Audi RS 5 kombiniert einen 2,9-Liter-V6-Biturbo (375 kW) mit einem
+  130 kW starken Elektromotor und 22-kWh-Akku. Das Plug-in-Hybrid-System
+  steigert die Dynamik und ermöglicht rein elektrische Fahrten. Marktstart
+  zunächst in China.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - MG
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+confidence: 0.95
 ---
 
 # Audi RS 5 PHEV: 375 kW V6 mit E-Boost

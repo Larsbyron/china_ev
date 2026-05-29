@@ -1,15 +1,31 @@
 ---
-title: "Peking Auto Show 2026: BBA und VW starten Elektro-Offensive"
+title: 'Peking Auto Show 2026: BBA und VW starten Elektro-Offensive'
 date: 2026-05-24T06:10:43.312Z
-description: "Auf der Peking Auto Show 2026 präsentieren BBA und VW ihre neuen E-Modelle: Mercedes GLC L, BMW i7/iX3/i3, Audi E7X, VW ID.ERA 9X u.a. Preise: ab ca. 12.800 € (Jetta) bis ca. 70.400 € (BMW iX3)."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Zoll", "Elektroauto"]
+description: >-
+  Auf der Peking Auto Show 2026 präsentieren BBA und VW ihre neuen E-Modelle:
+  Mercedes GLC L, BMW i7/iX3/i3, Audi E7X, VW ID.ERA 9X u.a. Preise: ab ca.
+  12.800 € (Jetta) bis ca. 70.400 € (BMW iX3).
+source: OFweek NEV
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Zoll
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BMW
+  - Mercedes-Benz
+  - Audi
+  - Volkswagen
+  - Jetta
+confidence: 0.9
 ---
 
 # Peking Auto Show 2026: BBA und VW starten Elektro-Offensive

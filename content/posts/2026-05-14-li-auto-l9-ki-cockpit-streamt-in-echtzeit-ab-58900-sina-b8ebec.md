@@ -1,15 +1,30 @@
 ---
-title: "Li Auto L9: KI-Cockpit streamt in Echtzeit – ab 58.900 €"
+title: 'Li Auto L9: KI-Cockpit streamt in Echtzeit – ab 58.900 €'
 date: 2026-05-14T05:49:13.520Z
-description: "Auf der Auto China zeigt Li Auto seinen neuen KI-Agenten für den L9. Der SUV verarbeitet Sensordaten in Echtzeit und handelt – anders als Huaweis Ökosystem-Ansatz. Preis in China ab 459.800 Yuan (ca. 58.900 €).*"
-source: "Sina"
-image: "/images/li-auto-l9-ki-cockpit-streamt-in-echtzeit-ab-58900-sina-b8ebec.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Auf der Auto China zeigt Li Auto seinen neuen KI-Agenten für den L9. Der SUV
+  verarbeitet Sensordaten in Echtzeit und handelt – anders als Huaweis
+  Ökosystem-Ansatz. Preis in China ab 459.800 Yuan (ca. 58.900 €).*
+source: Sina
+image: /images/li-auto-l9-ki-cockpit-streamt-in-echtzeit-ab-58900-sina-b8ebec.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9: KI-Cockpit streamt in Echtzeit – ab 58.900 €

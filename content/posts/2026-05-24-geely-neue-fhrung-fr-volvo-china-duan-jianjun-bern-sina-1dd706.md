@@ -1,15 +1,28 @@
 ---
-title: "Geely: Neue Führung für Volvo China – Duan Jianjun übernimmt"
+title: 'Geely: Neue Führung für Volvo China – Duan Jianjun übernimmt'
 date: 2026-05-24T11:25:14.988Z
-description: "Volvo-Tochter Geely ernennt Duan Jianjun zum neuen China-Chef. Der Ex-Mercedes-Manager löst Yuan Xiaolin ab, der nach 16 Jahren das Ruder übergibt."
-source: "Sina"
-image: "/images/geely-neue-fhrung-fr-volvo-china-duan-jianjun-bern-sina-1dd706.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "NIO"]
+description: >-
+  Volvo-Tochter Geely ernennt Duan Jianjun zum neuen China-Chef. Der
+  Ex-Mercedes-Manager löst Yuan Xiaolin ab, der nach 16 Jahren das Ruder
+  übergibt.
+source: Sina
+image: /images/geely-neue-fhrung-fr-volvo-china-duan-jianjun-bern-sina-1dd706.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - NIO
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - Geely
+  - Volvo
+confidence: 0.95
 ---
 
 # Geely: Neue Führung für Volvo China – Duan Jianjun übernimmt

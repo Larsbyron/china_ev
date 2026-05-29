@@ -1,15 +1,31 @@
 ---
-title: "Voyah Tye X8: Chinesisches Top-SUV ab 36.200 € mit 727 km Reichweite"
+title: 'Voyah Tye X8: Chinesisches Top-SUV ab 36.200 € mit 727 km Reichweite'
 date: 2026-05-22T12:22:53.273Z
-description: "Voyah (岚图) bringt den Tye X8 als Fünf-Sitzer-Premium-SUV. Ab 28,29 Mio. Yuan (ca. 36.200 €) bietet er PHEV und EV, bis zu 727 km CLTC-Reichweite und Allradlenkung. Marktstart in Deutschland bislang nicht geplant."
-source: "ChooseAuto"
-image: "/images/voyah-tye-x8-chinesisches-top-suv-ab-36200-mit-727-chooseauto-373e25.webp"
-category: "news"
-
-tags: ["MG", "Tesla", "Reichweite", "Zoll", "EV"]
+description: >-
+  Voyah (岚图) bringt den Tye X8 als Fünf-Sitzer-Premium-SUV. Ab 28,29 Mio. Yuan
+  (ca. 36.200 €) bietet er PHEV und EV, bis zu 727 km CLTC-Reichweite und
+  Allradlenkung. Marktstart in Deutschland bislang nicht geplant.
+source: ChooseAuto
+image: >-
+  /images/voyah-tye-x8-chinesisches-top-suv-ab-36200-mit-727-chooseauto-373e25.webp
+category: news
+tags:
+  - MG
+  - Tesla
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/909766.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/909766.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Voyah
+confidence: 0.95
 ---
 
 # Voyah Tye X8: Chinesisches Top-SUV ab 36.200 € mit 727 km Reichweite

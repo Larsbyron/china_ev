@@ -1,15 +1,30 @@
 ---
-title: "Audi RS 5 Hybrid startet zuerst in China – Angriff auf BYD & Nio"
+title: Audi RS 5 Hybrid startet zuerst in China – Angriff auf BYD & Nio
 date: 2026-05-19T19:53:17.747Z
-description: "Der neue Audi RS 5 Sportback kommt als Plug-in-Hybrid mit über 600 PS und mechanischem quattro. Marktstart zuerst in China – Konkurrenz für BYD Han PHEV und Nio ET5. Preis noch offen, ab ca. 1,1 Mio. Yuan (141.000 €) erwartet."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "Batterie", "Reichweite", "E-Auto", "EV"]
+description: >-
+  Der neue Audi RS 5 Sportback kommt als Plug-in-Hybrid mit über 600 PS und
+  mechanischem quattro. Marktstart zuerst in China – Konkurrenz für BYD Han PHEV
+  und Nio ET5. Preis noch offen, ab ca. 1,1 Mio. Yuan (141.000 €) erwartet.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - Batterie
+  - Reichweite
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - BYD
+  - NIO
+confidence: 0.9
 ---
 
 # Audi RS 5 Hybrid startet zuerst in China – Angriff auf BYD & Nio

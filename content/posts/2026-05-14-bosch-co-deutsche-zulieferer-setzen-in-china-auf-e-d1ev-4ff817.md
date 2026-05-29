@@ -1,15 +1,28 @@
 ---
-title: "Bosch & Co.: Deutsche Zulieferer setzen in China auf Embodied AI"
+title: 'Bosch & Co.: Deutsche Zulieferer setzen in China auf Embodied AI'
 date: 2026-05-14T00:54:18.680Z
-description: "Bosch, Schaeffler, Valeo und Aptiv drängen in China massiv in die Robotik. Sie nutzen Werkshallen als Datenquelle für lernende Roboter – und wollen zum Kernzulieferer der Branche werden."
-source: "D1EV"
-image: "/images/bosch-co-deutsche-zulieferer-setzen-in-china-auf-e-d1ev-4ff817.webp"
-category: "news"
-
-tags: ["MG"]
+description: >-
+  Bosch, Schaeffler, Valeo und Aptiv drängen in China massiv in die Robotik. Sie
+  nutzen Werkshallen als Datenquelle für lernende Roboter – und wollen zum
+  Kernzulieferer der Branche werden.
+source: D1EV
+image: /images/bosch-co-deutsche-zulieferer-setzen-in-china-auf-e-d1ev-4ff817.webp
+category: news
+tags:
+  - MG
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299065"
+original_url: 'https://www.d1ev.com/news/shichang/299065'
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Bosch
+  - Schaeffler
+  - Valeo
+  - Aptiv
+confidence: 0.9
 ---
 
 # Bosch & Co.: Deutsche Zulieferer setzen in China auf Embodied AI

@@ -1,15 +1,30 @@
 ---
-title: "BYD Fangchengbao: Bao 8 Flash-Charge ab ca. 53.700 €"
+title: 'BYD Fangchengbao: Bao 8 Flash-Charge ab ca. 53.700 €'
 date: 2026-05-14T12:01:35.057Z
-description: "Fangchengbao bringt den Bao 8 Flash-Charge als Topmodell sowie den Bao 5 in zwei neuen Varianten. Die Preise starten bei 25,98 万元 (ca. 33.300 €) für den Bao 5 210km TianMax und reichen bis 41,98 万元 (ca. 53.700 €) für den vollausgestatteten Bao 8."
-source: "D1EV"
-image: "/images/byd-fangchengbao-bao-8-flash-charge-ab-ca-53700-d1ev-3c368f.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  Fangchengbao bringt den Bao 8 Flash-Charge als Topmodell sowie den Bao 5 in
+  zwei neuen Varianten. Die Preise starten bei 25,98 万元 (ca. 33.300 €) für den
+  Bao 5 210km TianMax und reichen bis 41,98 万元 (ca. 53.700 €) für den
+  vollausgestatteten Bao 8.
+source: D1EV
+image: /images/byd-fangchengbao-bao-8-flash-charge-ab-ca-53700-d1ev-3c368f.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299057"
+original_url: 'https://www.d1ev.com/news/shichang/299057'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Fangchengbao: Bao 8 Flash-Charge ab ca. 53.700 €

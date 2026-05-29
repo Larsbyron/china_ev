@@ -1,15 +1,27 @@
 ---
-title: "WEY V9X: Chinesischer Luxus-PHEV ab 44.800 €"
+title: 'WEY V9X: Chinesischer Luxus-PHEV ab 44.800 €'
 date: 2026-05-18T13:55:53.582Z
-description: "WEY (魏牌) bringt den sechssitzigen SUV V9X auf den Markt – ab 349.800 Yuan (ca. 44.800 €). Der 2.0T-Hybrid sprintet in 4,0 s auf 100 km/h und soll 1.700 km (CLTC) schaffen. Founder Wei Jianjun bürgt persönlich."
-source: "ChooseAuto"
-image: "/images/wey-v9x-chinesischer-luxus-phev-ab-44800-chooseauto-2f2e9c.webp"
-category: "news"
-
-tags: ["Reichweite", "EV"]
+description: >-
+  WEY (魏牌) bringt den sechssitzigen SUV V9X auf den Markt – ab 349.800 Yuan (ca.
+  44.800 €). Der 2.0T-Hybrid sprintet in 4,0 s auf 100 km/h und soll 1.700 km
+  (CLTC) schaffen. Founder Wei Jianjun bürgt persönlich.
+source: ChooseAuto
+image: /images/wey-v9x-chinesischer-luxus-phev-ab-44800-chooseauto-2f2e9c.webp
+category: news
+tags:
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/905855.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/905855.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - WEY
+confidence: 0.95
 ---
 
 # WEY V9X: Chinesischer Luxus-PHEV ab 44.800 €

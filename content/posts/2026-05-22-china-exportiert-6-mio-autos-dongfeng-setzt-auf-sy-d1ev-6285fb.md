@@ -1,15 +1,30 @@
 ---
-title: "China exportiert 6 Mio. Autos: Dongfeng setzt auf Systemexport"
+title: 'China exportiert 6 Mio. Autos: Dongfeng setzt auf Systemexport'
 date: 2026-05-22T12:21:55.598Z
-description: "China exportierte 2025 über 6 Millionen Fahrzeuge – Platz 1 weltweit. Hersteller wie Dongfeng wechseln vom reinen Fahrzeugexport zu kompletten Systemlösungen. Die größte Hürde: Lokalisierung und das Mitgestalten von Standards. Der Artikel zeigt, wie chinesische Autobauer den Wandel meistern."
-source: "D1EV"
-image: "/images/china-exportiert-6-mio-autos-dongfeng-setzt-auf-sy-d1ev-6285fb.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "EV"]
+description: >-
+  China exportierte 2025 über 6 Millionen Fahrzeuge – Platz 1 weltweit.
+  Hersteller wie Dongfeng wechseln vom reinen Fahrzeugexport zu kompletten
+  Systemlösungen. Die größte Hürde: Lokalisierung und das Mitgestalten von
+  Standards. Der Artikel zeigt, wie chinesische Autobauer den Wandel meistern.
+source: D1EV
+image: /images/china-exportiert-6-mio-autos-dongfeng-setzt-auf-sy-d1ev-6285fb.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300075"
+original_url: 'https://www.d1ev.com/news/shichang/300075'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - batterie-laden-reichweite
+  - politik-zoelle-regulierung
+marketRelevance: global_industry
+brands:
+  - Dongfeng
+  - MG
+confidence: 0.85
 ---
 
 # China exportiert 6 Mio. Autos: Dongfeng setzt auf Systemexport

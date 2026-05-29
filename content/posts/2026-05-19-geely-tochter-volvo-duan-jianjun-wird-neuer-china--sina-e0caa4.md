@@ -1,15 +1,29 @@
 ---
-title: "Geely-Tochter Volvo: Duan Jianjun wird neuer China-Chef"
+title: 'Geely-Tochter Volvo: Duan Jianjun wird neuer China-Chef'
 date: 2026-05-19T12:43:45.434Z
-description: "Volvo Car Greater China bekommt einen neuen Chef: Duan Jianjun übernimmt mit sofortiger Wirkung von Yuan Xiaolin. Der 30-Jahre-Veteran kommt von Mercedes-Benz und soll die Elektrifizierung vorantreiben."
-source: "Sina"
-image: "/images/geely-tochter-volvo-duan-jianjun-wird-neuer-china-sina-e0caa4.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "NIO"]
+description: >-
+  Volvo Car Greater China bekommt einen neuen Chef: Duan Jianjun übernimmt mit
+  sofortiger Wirkung von Yuan Xiaolin. Der 30-Jahre-Veteran kommt von
+  Mercedes-Benz und soll die Elektrifizierung vorantreiben.
+source: Sina
+image: /images/geely-tochter-volvo-duan-jianjun-wird-neuer-china-sina-e0caa4.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - NIO
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 1
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Volvo
+  - Geely
+confidence: 0.9
 ---
 
 # Geely-Tochter Volvo: Duan Jianjun wird neuer China-Chef

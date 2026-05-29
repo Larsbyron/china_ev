@@ -1,15 +1,34 @@
 ---
-title: "Audi RS 5 Hybrid-Studie: 375 kW V6 plus 130 kW E-Motor"
+title: 'Audi RS 5 Hybrid-Studie: 375 kW V6 plus 130 kW E-Motor'
 date: 2026-05-25T06:29:47.116Z
-description: "Eine chinesische Automobilanalyse diskutiert eine experimentelle Hybridversion des Audi RS 5. Der 2,9-Liter-Biturbo-V6 wird mit einem P2-Elektromotor (130 kW) kombiniert, um gegen die Übermacht reiner E-Performance-Fahrzeuge zu bestehen. Die Studie zeigt, wie Audi traditionelle Sportlichkeit mit Ele"
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "MG", "Batterie", "Reichweite", "E-Auto", "EV"]
+description: >-
+  Eine chinesische Automobilanalyse diskutiert eine experimentelle Hybridversion
+  des Audi RS 5. Der 2,9-Liter-Biturbo-V6 wird mit einem P2-Elektromotor (130
+  kW) kombiniert, um gegen die Übermacht reiner E-Performance-Fahrzeuge zu
+  bestehen. Die Studie zeigt, wie Audi traditionelle Sportlichkeit mit Ele
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - MG
+  - Batterie
+  - Reichweite
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: global_industry
+brands:
+  - Audi
+  - BYD
+  - NIO
+  - MG
+confidence: 0.85
 ---
 
 # Audi RS 5 Hybrid-Studie: 375 kW V6 plus 130 kW E-Motor

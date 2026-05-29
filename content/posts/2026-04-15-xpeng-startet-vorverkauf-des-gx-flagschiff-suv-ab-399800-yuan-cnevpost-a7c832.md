@@ -1,13 +1,29 @@
 ---
-title: "XPeng GX: Vorverkauf des Flaggschiff-SUV startet bei 399.800 Yuan"
+title: 'XPeng GX: Vorverkauf des Flaggschiff-SUV startet bei 399.800 Yuan'
 date: 2026-04-15T10:00:00.000Z
-description: "XPeng hat den Vorverkauf seines neuen GX-Flaggschiff-SUV gestartet. Das Modell in der Preisklasse ab 399.800 Yuan ist das teuerste Fahrzeug der Firmengeschichte."
-source: "CnEVPost"
-image: "/images/xpeng-startet-vorverkauf-des-gx-flagschiff-suv-ab-399800-yuan-cnevpost-a7c832.webp"
-category: "news"
-tags: ["XPeng", "GX", "SUV", "Vorverkauf", "Premium"]
+description: >-
+  XPeng hat den Vorverkauf seines neuen GX-Flaggschiff-SUV gestartet. Das Modell
+  in der Preisklasse ab 399.800 Yuan ist das teuerste Fahrzeug der
+  Firmengeschichte.
+source: CnEVPost
+image: >-
+  /images/xpeng-startet-vorverkauf-des-gx-flagschiff-suv-ab-399800-yuan-cnevpost-a7c832.webp
+category: news
+tags:
+  - XPeng
+  - GX
+  - SUV
+  - Vorverkauf
+  - Premium
 draft: false
-original_url: "https://cnevpost.com/2026/04/15/xpeng-starts-pre-sales-new-gx-suv/"
+original_url: 'https://cnevpost.com/2026/04/15/xpeng-starts-pre-sales-new-gx-suv/'
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.95
 ---
 
 # XPeng GX: Vorverkauf gestartet – teuerstes Modell der Firmengeschichte

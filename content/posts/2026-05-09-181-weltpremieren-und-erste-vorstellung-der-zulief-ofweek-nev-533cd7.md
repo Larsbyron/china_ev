@@ -1,15 +1,42 @@
 ---
-title: "181 Weltpremieren und erste Vorstellung der Zulieferer: Welche Signale sendet die Auto Shanghai 2026?"
+title: >-
+  181 Weltpremieren und erste Vorstellung der Zulieferer: Welche Signale sendet
+  die Auto Shanghai 2026?
 date: 2026-05-09T23:16:40.047Z
-description: "Quelle: Autonome Fahrtechnologie | VR China | Vom 24. April bis 3. Mai 2026 findet unter dem Motto 'Neue Ära, Neue Wege' die 19. Internationale Automobilausstellung Shanghai (Auto Shanghai) im Nationa..."
-source: "OFweek NEV"
-image: "/images/ai-181-weltpremieren-und-erste-vorstellung-der-zulief-ofweek-nev-533cd7.webp"
-category: "news"
-brand: "Aion"
-tags: ["Aion", "BYD", "NIO", "XPeng", "XPeng", "Li Auto", "Geely", "Zeekr"]
+description: >-
+  Quelle: Autonome Fahrtechnologie | VR China | Vom 24. April bis 3. Mai 2026
+  findet unter dem Motto 'Neue Ära, Neue Wege' die 19. Internationale
+  Automobilausstellung Shanghai (Auto Shanghai) im Nationa...
+source: OFweek NEV
+image: >-
+  /images/ai-181-weltpremieren-und-erste-vorstellung-der-zulief-ofweek-nev-533cd7.webp
+category: news
+brand: Aion
+tags:
+  - Aion
+  - BYD
+  - NIO
+  - XPeng
+  - XPeng
+  - Li Auto
+  - Geely
+  - Zeekr
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-77014-8220-30685799.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-77014-8220-30685799.html'
 read_time_minutes: 10
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Aion
+  - BYD
+  - NIO
+  - XPeng
+  - Li Auto
+  - Geely
+  - Zeekr
+confidence: 0.9
 ---
 
 # 181 Weltpremieren und erste Vorstellung der Zulieferer: Welche Signale sendet die Auto Shanghai 2026?

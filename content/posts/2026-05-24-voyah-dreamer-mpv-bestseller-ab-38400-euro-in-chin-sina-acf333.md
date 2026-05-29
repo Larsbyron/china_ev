@@ -1,15 +1,27 @@
 ---
-title: "Voyah Dreamer: MPV-Bestseller ab 38.400 Euro in China"
+title: 'Voyah Dreamer: MPV-Bestseller ab 38.400 Euro in China'
 date: 2026-05-24T05:59:47.312Z
-description: "Der chinesische MPV Voyah Dreamer erzielte im April 2026 mit 7.017 Verkäufen Platz 1 aller MPV-Klassen. Die Baureihe bietet 800-Volt-Technik, Huawei-Fahrassistenz und ist ab ca. 38.400 Euro erhältlich. Ein Europa-Import ist aktuell nicht geplant."
-source: "Sina"
-image: "/images/voyah-dreamer-mpv-bestseller-ab-38400-euro-in-chin-sina-acf333.webp"
-category: "news"
-
+description: >-
+  Der chinesische MPV Voyah Dreamer erzielte im April 2026 mit 7.017 Verkäufen
+  Platz 1 aller MPV-Klassen. Die Baureihe bietet 800-Volt-Technik,
+  Huawei-Fahrassistenz und ist ab ca. 38.400 Euro erhältlich. Ein Europa-Import
+  ist aktuell nicht geplant.
+source: Sina
+image: /images/voyah-dreamer-mpv-bestseller-ab-38400-euro-in-chin-sina-acf333.webp
+category: news
 tags: []
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-12/detail-inhxrfsp8367662.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-12/detail-inhxrfsp8367662.shtml
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - modelle-marktstarts
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Voyah
+confidence: 0.95
 ---
 
 # Voyah Dreamer: MPV-Bestseller ab 38.400 Euro in China

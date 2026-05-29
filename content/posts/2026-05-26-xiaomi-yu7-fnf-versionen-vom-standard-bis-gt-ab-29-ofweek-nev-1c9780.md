@@ -1,15 +1,28 @@
 ---
-title: "Xiaomi YU7: Fünf Versionen vom Standard bis GT ab 29.900 €"
+title: 'Xiaomi YU7: Fünf Versionen vom Standard bis GT ab 29.900 €'
 date: 2026-05-26T06:03:49.456Z
-description: "Xiaomi komplettiert den YU7 mit fünf Varianten. Der Standard startet bei 233.500 Yuan (ca. 29.900 €), der GT kostet 389.900 Yuan (ca. 49.900 €). Die Basisversion könnte zum Volumenmodell werden."
-source: "OFweek NEV"
-
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Tesla", "Elektroauto"]
+description: >-
+  Xiaomi komplettiert den YU7 mit fünf Varianten. Der Standard startet bei
+  233.500 Yuan (ca. 29.900 €), der GT kostet 389.900 Yuan (ca. 49.900 €). Die
+  Basisversion könnte zum Volumenmodell werden.
+source: OFweek NEV
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Tesla
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688339.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688339.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7: Fünf Versionen vom Standard bis GT ab 29.900 €

@@ -1,15 +1,29 @@
 ---
-title: "Geely Galaxy Xingyao 7 MAX: Allrad-Hybrid ab 12.600 €"
+title: 'Geely Galaxy Xingyao 7 MAX: Allrad-Hybrid ab 12.600 €'
 date: 2026-05-23T05:38:16.249Z
-description: "Geely bringt mit dem Galaxy Xingyao 7 MAX die weltweit erste Allrad-Hybrid-Limousine der 2-Liter-Verbrauchsklasse. 424 PS, 5,4 Sekunden auf 100 – ab 12.600 € in China."
-source: "D1EV"
-image: "/images/geely-galaxy-xingyao-7-max-allrad-hybrid-ab-12600-d1ev-e2070f.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Batterie", "Reichweite", "EV"]
+description: >-
+  Geely bringt mit dem Galaxy Xingyao 7 MAX die weltweit erste
+  Allrad-Hybrid-Limousine der 2-Liter-Verbrauchsklasse. 424 PS, 5,4 Sekunden auf
+  100 – ab 12.600 € in China.
+source: D1EV
+image: /images/geely-galaxy-xingyao-7-max-allrad-hybrid-ab-12600-d1ev-e2070f.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/300199"
+original_url: 'https://www.d1ev.com/news/qiye/300199'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.95
 ---
 
 # Geely Galaxy Xingyao 7 MAX: Allrad-Hybrid ab 12.600 €

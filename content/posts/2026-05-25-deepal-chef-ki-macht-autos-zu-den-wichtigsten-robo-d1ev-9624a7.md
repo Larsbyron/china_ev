@@ -1,15 +1,26 @@
 ---
-title: "Deepal-Chef: „KI macht Autos zu den wichtigsten Robotern“"
+title: 'Deepal-Chef: „KI macht Autos zu den wichtigsten Robotern“'
 date: 2026-05-25T13:05:03.506Z
-description: "Auf der Tongji-Universität spricht Deepal-Chef Deng Chenghao über die Zukunft: KI verwandelt Fahrzeuge in Roboter. Deepal (深蓝) peilt 2030 eine Million Verkäufe an, Hälfte außerhalb Chinas."
-source: "D1EV"
-image: "/images/deepal-chef-ki-macht-autos-zu-den-wichtigsten-robo-d1ev-9624a7.webp"
-category: "news"
-
-tags: ["EV"]
+description: >-
+  Auf der Tongji-Universität spricht Deepal-Chef Deng Chenghao über die Zukunft:
+  KI verwandelt Fahrzeuge in Roboter. Deepal (深蓝) peilt 2030 eine Million
+  Verkäufe an, Hälfte außerhalb Chinas.
+source: D1EV
+image: /images/deepal-chef-ki-macht-autos-zu-den-wichtigsten-robo-d1ev-9624a7.webp
+category: news
+tags:
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300376"
+original_url: 'https://www.d1ev.com/news/shichang/300376'
 read_time_minutes: 2
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: global_industry
+brands:
+  - Deepal
+  - Changan
+confidence: 0.8
 ---
 
 # Deepal-Chef: „KI macht Autos zu den wichtigsten Robotern“

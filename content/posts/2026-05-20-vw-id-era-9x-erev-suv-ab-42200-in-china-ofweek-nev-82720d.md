@@ -1,15 +1,31 @@
 ---
-title: "VW ID. ERA 9X: EREV-SUV ab 42.200 € in China"
+title: 'VW ID. ERA 9X: EREV-SUV ab 42.200 € in China'
 date: 2026-05-20T20:11:41.030Z
-description: "Volkswagen startet Vorverkauf für das Flaggschiff-SUV ID. ERA 9X in China. Der große Range-Extender (EREV) kostet ab 32,98 万元 (ca. 42.200 €) und unterbietet chinesische Premium-Konkurrenz wie Li Auto L9 und AITO M9."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Li Auto", "Batterie", "Reichweite", "Elektroauto", "EV", "Marktanteil"]
+description: >-
+  Volkswagen startet Vorverkauf für das Flaggschiff-SUV ID. ERA 9X in China. Der
+  große Range-Extender (EREV) kostet ab 32,98 万元 (ca. 42.200 €) und unterbietet
+  chinesische Premium-Konkurrenz wie Li Auto L9 und AITO M9.
+source: OFweek NEV
+category: news
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Volkswagen
+  - Li Auto
+  - AITO
+confidence: 0.95
 ---
 
 # VW ID. ERA 9X: EREV-SUV ab 42.200 € in China

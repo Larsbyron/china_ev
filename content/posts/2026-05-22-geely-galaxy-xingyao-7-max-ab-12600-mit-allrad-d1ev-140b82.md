@@ -1,15 +1,31 @@
 ---
-title: "Geely Galaxy Xingyao 7 MAX: ab 12.600 € mit Allrad"
+title: 'Geely Galaxy Xingyao 7 MAX: ab 12.600 € mit Allrad'
 date: 2026-05-22T19:31:23.620Z
-description: "Der neue Geely Galaxy Xingyao 7 MAX startet in China ab 12.600 € (limitiertes Angebot). Die viertürige Mittelklasse-Limousine bietet serienmäßigen Allradantrieb, 312 kW Systemleistung und einen rekordniedrigen Verbrauch von 2,98 L/100 km. Ein Europa-Start ist nicht bestätigt."
-source: "D1EV"
-image: "/images/geely-galaxy-xingyao-7-max-ab-12600-mit-allrad-d1ev-140b82.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der neue Geely Galaxy Xingyao 7 MAX startet in China ab 12.600 € (limitiertes
+  Angebot). Die viertürige Mittelklasse-Limousine bietet serienmäßigen
+  Allradantrieb, 312 kW Systemleistung und einen rekordniedrigen Verbrauch von
+  2,98 L/100 km. Ein Europa-Start ist nicht bestätigt.
+source: D1EV
+image: /images/geely-galaxy-xingyao-7-max-ab-12600-mit-allrad-d1ev-140b82.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/300199"
+original_url: 'https://www.d1ev.com/news/qiye/300199'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.9
 ---
 
 # Geely Galaxy Xingyao 7 MAX: ab 12.600 € mit Allrad

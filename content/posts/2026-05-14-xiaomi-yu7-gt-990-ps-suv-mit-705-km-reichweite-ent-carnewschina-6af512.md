@@ -1,15 +1,30 @@
 ---
-title: "Xiaomi YU7 GT: 990-PS-SUV mit 705 km Reichweite enthüllt"
+title: 'Xiaomi YU7 GT: 990-PS-SUV mit 705 km Reichweite enthüllt'
 date: 2026-05-14T01:10:57.041Z
-description: "Der Xiaomi YU7 GT ist ein Hochleistungs-Crossover mit 990 PS, 300 km/h Spitze und 705 km CLTC-Reichweite. Der Marktstart in China ist für Ende Mai 2026 geplant – ein Europa-Start ist nicht in Sicht."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-990-ps-suv-mit-705-km-reichweite-ent-carnewschina-6af512.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Reichweite", "Zoll"]
+description: >-
+  Der Xiaomi YU7 GT ist ein Hochleistungs-Crossover mit 990 PS, 300 km/h Spitze
+  und 705 km CLTC-Reichweite. Der Marktstart in China ist für Ende Mai 2026
+  geplant – ein Europa-Start ist nicht in Sicht.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-gt-990-ps-suv-mit-705-km-reichweite-ent-carnewschina-6af512.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/12/xiaomi-yu7-gt-spotted-on-streets-a-990-hp-performance-suv-ready-for-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/12/xiaomi-yu7-gt-spotted-on-streets-a-990-hp-performance-suv-ready-for-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi YU7 GT: 990-PS-SUV mit 705 km Reichweite enthüllt

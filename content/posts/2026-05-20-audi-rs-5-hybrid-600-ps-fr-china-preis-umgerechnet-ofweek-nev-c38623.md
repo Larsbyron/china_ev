@@ -1,15 +1,34 @@
 ---
-title: "Audi RS 5 Hybrid: 600 PS für China – Preis umgerechnet 108.800 €"
+title: 'Audi RS 5 Hybrid: 600 PS für China – Preis umgerechnet 108.800 €'
 date: 2026-05-20T12:25:15.647Z
-description: "Audi bringt den RS 5 Sportback als Plug-in-Hybrid in China. Der 2,9-Liter-V6 und ein E-Motor leisten 600 PS – doch im Reich der reinen E-Sportler von XPeng, NIO und BYD wirkt der Antrieb wie ein Zwitter. Marktstart in China: Mitte 2025."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "MG", "Batterie", "Reichweite", "Elektroauto"]
+description: >-
+  Audi bringt den RS 5 Sportback als Plug-in-Hybrid in China. Der 2,9-Liter-V6
+  und ein E-Motor leisten 600 PS – doch im Reich der reinen E-Sportler von
+  XPeng, NIO und BYD wirkt der Antrieb wie ein Zwitter. Marktstart in China:
+  Mitte 2025.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - MG
+  - Batterie
+  - Reichweite
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - AUDI
+  - NIO
+  - XPeng
+  - BYD
+confidence: 0.95
 ---
 
 # Audi RS 5 Hybrid: 600 PS für China – Preis umgerechnet 108.800 €

@@ -1,13 +1,32 @@
 ---
-title: "BYD startet neue Submarke Linghui mit E7 – der Taxi-Spezialist"
+title: BYD startet neue Submarke Linghui mit E7 – der Taxi-Spezialist
 date: 2026-04-15T16:30:00.000Z
-description: "BYD hat seine neue Marke Linghui mit dem E7 Sedan gestartet. Das Mittelklasse-Elektroauto richtet sich an den Fahrdienstmarkt und bietet Blitzladung: 5 Minuten für 10 bis 70 Prozent."
-source: "CnEVPost"
-image: "/images/byd-submarke-linghui-startet-mit-e7-sedan-fuer-95180-yuan-cnevpost-c9a523.webp"
-category: "news"
-tags: ["BYD", "Linghui", "E7", "Taxi", "Ride-Hailing", "Blitzladung"]
+description: >-
+  BYD hat seine neue Marke Linghui mit dem E7 Sedan gestartet. Das
+  Mittelklasse-Elektroauto richtet sich an den Fahrdienstmarkt und bietet
+  Blitzladung: 5 Minuten für 10 bis 70 Prozent.
+source: CnEVPost
+image: >-
+  /images/byd-submarke-linghui-startet-mit-e7-sedan-fuer-95180-yuan-cnevpost-c9a523.webp
+category: news
+tags:
+  - BYD
+  - Linghui
+  - E7
+  - Taxi
+  - Ride-Hailing
+  - Blitzladung
 draft: false
-original_url: "https://cnevpost.com/2026/04/15/byd-sub-brand-linghui-launches-e7-sedan/"
+original_url: 'https://cnevpost.com/2026/04/15/byd-sub-brand-linghui-launches-e7-sedan/'
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - Linghui
+confidence: 0.95
 ---
 
 # BYD Linghui E7: Neue Marke für den Fahrdienstmarkt

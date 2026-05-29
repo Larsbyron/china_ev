@@ -1,16 +1,35 @@
 ---
-title: "VW, Mercedes, BMW: China-Offensive auf der Auto Shanghai 2026"
+title: 'VW, Mercedes, BMW: China-Offensive auf der Auto Shanghai 2026'
 date: 2026-05-10T20:42:27.562Z
-description: "Auf der Auto Shanghai 2026 zeigen Joint Ventures wie Mercedes, BMW, VW und Audi zahlreiche China-Spezialmodelle. Reichweiten bis 900 km (WLTP) und Preise ab 41.000 Euro – ein massiver Konter auf chinesische Startups."
-source: "OFweek NEV"
-image: "/images/ai-vw-mercedes-bmw-china-offensive-auf-der-auto-shang-ofweek-nev-b5678f.webp"
-
-category: "news"
-
-tags: ["BYD", "NIO", "Reichweite", "Zoll", "E-Auto", "EV", "Marktanteil"]
+description: >-
+  Auf der Auto Shanghai 2026 zeigen Joint Ventures wie Mercedes, BMW, VW und
+  Audi zahlreiche China-Spezialmodelle. Reichweiten bis 900 km (WLTP) und Preise
+  ab 41.000 Euro – ein massiver Konter auf chinesische Startups.
+source: OFweek NEV
+image: >-
+  /images/ai-vw-mercedes-bmw-china-offensive-auf-der-auto-shang-ofweek-nev-b5678f.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - Reichweite
+  - Zoll
+  - E-Auto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - VW
+  - Mercedes
+  - BMW
+confidence: 0.9
 ---
 
 # VW, Mercedes, BMW: China-Offensive auf der Auto Shanghai 2026

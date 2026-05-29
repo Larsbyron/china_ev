@@ -1,16 +1,36 @@
 ---
-title: "XPeng X9 & Co.: Chinas März-Offensive mit 800V und Lidar"
+title: 'XPeng X9 & Co.: Chinas März-Offensive mit 800V und Lidar'
 date: 2026-05-10T20:48:24.140Z
-description: "Im März überschwemmen Dutzende neuer Modelle den chinesischen Markt – von der 33.000-Euro-Audi-Limousine bis zum 800-V-MPV von XPeng. Der Preiskampf erreicht eine neue Stufe."
-source: "OFweek NEV"
-image: "/images/ai-xpeng-x9-co-chinas-mrz-offensive-mit-800v-und-lida-ofweek-nev-c96641.webp"
-
-category: "news"
-
-tags: ["BYD", "XPeng", "XPeng", "MG", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  Im März überschwemmen Dutzende neuer Modelle den chinesischen Markt – von der
+  33.000-Euro-Audi-Limousine bis zum 800-V-MPV von XPeng. Der Preiskampf
+  erreicht eine neue Stufe.
+source: OFweek NEV
+image: >-
+  /images/ai-xpeng-x9-co-chinas-mrz-offensive-mit-800v-und-lida-ofweek-nev-c96641.webp
+category: news
+tags:
+  - BYD
+  - XPeng
+  - XPeng
+  - MG
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://nev.ofweek.com/2026-02/ART-71000-8220-30681834.html"
+original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30681834.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - XPeng
+  - Audi
+  - VW
+  - BYD
+  - MG
+confidence: 0.9
 ---
 
 # XPeng X9 & Co.: Chinas März-Offensive mit 800V und Lidar

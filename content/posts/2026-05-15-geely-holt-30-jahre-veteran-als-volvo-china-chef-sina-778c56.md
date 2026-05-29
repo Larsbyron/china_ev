@@ -1,15 +1,28 @@
 ---
-title: "Geely holt 30-Jahre-Veteran als Volvo-China-Chef"
+title: Geely holt 30-Jahre-Veteran als Volvo-China-Chef
 date: 2026-05-15T05:57:49.428Z
-description: "Geely ernennt Duan Jianjun zum neuen Präsidenten von Volvo Cars Greater China. Der 30-Jahre-Autoveteran folgt auf Yuan Xiaolin (16 Jahre im Amt) und soll die Elektrifizierung vorantreiben."
-source: "Sina"
-image: "/images/geely-holt-30-jahre-veteran-als-volvo-china-chef-sina-778c56.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely"]
+description: >-
+  Geely ernennt Duan Jianjun zum neuen Präsidenten von Volvo Cars Greater China.
+  Der 30-Jahre-Autoveteran folgt auf Yuan Xiaolin (16 Jahre im Amt) und soll die
+  Elektrifizierung vorantreiben.
+source: Sina
+image: /images/geely-holt-30-jahre-veteran-als-volvo-china-chef-sina-778c56.webp
+category: news
+brand: Geely
+tags:
+  - Geely
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Geely
+  - Volvo
+confidence: 0.9
 ---
 
 # Geely holt 30-Jahre-Veteran als Volvo-China-Chef

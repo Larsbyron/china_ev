@@ -1,15 +1,30 @@
 ---
-title: "MG-Mutter SAIC als erster Chinese mit 100 Millionen Fahrzeugen"
+title: MG-Mutter SAIC als erster Chinese mit 100 Millionen Fahrzeugen
 date: 2026-05-28T13:47:07.578Z
-description: "SAIC, Mutterkonzern von MG, hat als erster chinesischer Hersteller die 100-Millionen-Marke geknackt. Das Jubiläumsmodell: der vollelektrische Luxus-SUV LS9 Hyper von IM. MG bleibt mit über 300.000 Verkäufen in Europa die erfolgreichste chinesische Marke."
-source: "ChooseAuto"
-
-category: "news"
-brand: "MG"
-tags: ["MG", "Batterie", "Reichweite"]
+description: >-
+  SAIC, Mutterkonzern von MG, hat als erster chinesischer Hersteller die
+  100-Millionen-Marke geknackt. Das Jubiläumsmodell: der vollelektrische
+  Luxus-SUV LS9 Hyper von IM. MG bleibt mit über 300.000 Verkäufen in Europa die
+  erfolgreichste chinesische Marke.
+source: ChooseAuto
+category: news
+brand: MG
+tags:
+  - MG
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/915146.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/915146.shtml'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: de_available
+brands:
+  - MG
+  - SAIC
+  - IM
+confidence: 0.9
 ---
 
 # MG-Mutter SAIC als erster Chinese mit 100 Millionen Fahrzeugen

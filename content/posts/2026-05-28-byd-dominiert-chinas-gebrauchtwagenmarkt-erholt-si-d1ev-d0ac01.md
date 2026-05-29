@@ -1,15 +1,37 @@
 ---
-title: "BYD dominiert: Chinas Gebrauchtwagenmarkt erholt sich"
+title: 'BYD dominiert: Chinas Gebrauchtwagenmarkt erholt sich'
 date: 2026-05-28T06:24:38.264Z
-description: "Laut CADA-Report vom April 2025 steigen die Restwerte von Elektroautos. BYD (比亚迪) führt mit Seagull und Dolphin die Kleinwagen-Rangliste an. Plug-in-Hybride wie die AITO M8 erzielen Spitzenwerte."
-source: "D1EV"
-image: "/images/byd-dominiert-chinas-gebrauchtwagenmarkt-erholt-si-d1ev-d0ac01.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Li Auto", "Onvo", "Zeekr", "Leapmotor", "Tesla", "Reichweite"]
+description: >-
+  Laut CADA-Report vom April 2025 steigen die Restwerte von Elektroautos. BYD
+  (比亚迪) führt mit Seagull und Dolphin die Kleinwagen-Rangliste an.
+  Plug-in-Hybride wie die AITO M8 erzielen Spitzenwerte.
+source: D1EV
+image: /images/byd-dominiert-chinas-gebrauchtwagenmarkt-erholt-si-d1ev-d0ac01.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - Onvo
+  - Zeekr
+  - Leapmotor
+  - Tesla
+  - Reichweite
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300811"
+original_url: 'https://www.d1ev.com/news/shichang/300811'
 read_time_minutes: 3
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+  - Leapmotor
+  - Wuling
+  - AITO
+confidence: 0.9
 ---
 
 # BYD dominiert: Chinas Gebrauchtwagenmarkt erholt sich

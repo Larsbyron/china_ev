@@ -1,16 +1,27 @@
 ---
-title: "Audi RS 5 PHEV: 2,9-Liter-V6-Biturbo mit 130-kW-E-Motor"
+title: 'Audi RS 5 PHEV: 2,9-Liter-V6-Biturbo mit 130-kW-E-Motor'
 date: 2026-05-11T11:30:22.170Z
-description: "Audi rüstet den RS 5 Sportback mit einem Plug-in-Hybridantrieb aus: 2,9-Liter-V6-Biturbo (375 kW) plus 130-kW-E-Motor, mechanisches Quattro und 22-kWh-Batterie. Die Kombination verspricht eine neue Stufe der Fahrdynamik."
-source: "OFweek NEV"
-image: "/images/ai-audi-rs-5-phev-29-liter-v6-biturbo-mit-130-kw-e-mo-ofweek-nev-bdd4a0.webp"
-
-category: "news"
-
-tags: ["Batterie", "EV"]
+description: >-
+  Audi rüstet den RS 5 Sportback mit einem Plug-in-Hybridantrieb aus:
+  2,9-Liter-V6-Biturbo (375 kW) plus 130-kW-E-Motor, mechanisches Quattro und
+  22-kWh-Batterie. Die Kombination verspricht eine neue Stufe der Fahrdynamik.
+source: OFweek NEV
+image: >-
+  /images/ai-audi-rs-5-phev-29-liter-v6-biturbo-mit-130-kw-e-mo-ofweek-nev-bdd4a0.webp
+category: news
+tags:
+  - Batterie
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: eu_available
+brands:
+  - Audi
+confidence: 0.8
 ---
 
 # Audi RS 5 PHEV: 2,9-Liter-V6-Biturbo mit 130-kW-E-Motor

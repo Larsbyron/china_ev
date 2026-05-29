@@ -1,16 +1,29 @@
 ---
-title: "VW ID. ERA 9X: Riesen-SUV ab 42.000 € in China"
+title: 'VW ID. ERA 9X: Riesen-SUV ab 42.000 € in China'
 date: 2026-05-10T20:45:01.283Z
-description: "Der neue VW ID. ERA 9X startet in China zum Preis von 32,98 万元 (ca. 42.200 €). Das 5,2 Meter große SUV fordert Ideal L9 und AITO M9 heraus – mit 800-Volt-Technik und 192-Linien-Lidar."
-source: "OFweek NEV"
-image: "/images/ai-vw-id-era-9x-riesen-suv-ab-42000-in-china-ofweek-nev-78997f.webp"
-
-category: "news"
-
-tags: ["NIO", "Batterie", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  Der neue VW ID. ERA 9X startet in China zum Preis von 32,98 万元 (ca. 42.200 €).
+  Das 5,2 Meter große SUV fordert Ideal L9 und AITO M9 heraus – mit
+  800-Volt-Technik und 192-Linien-Lidar.
+source: OFweek NEV
+image: /images/ai-vw-id-era-9x-riesen-suv-ab-42000-in-china-ofweek-nev-78997f.webp
+category: news
+tags:
+  - NIO
+  - Batterie
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - VW
+confidence: 0.9
 ---
 
 # VW ID. ERA 9X: Riesen-SUV ab 42.000 € in China

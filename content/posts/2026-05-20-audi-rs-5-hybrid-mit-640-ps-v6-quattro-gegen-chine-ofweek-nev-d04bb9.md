@@ -1,15 +1,35 @@
 ---
-title: "Audi RS 5 Hybrid mit 640 PS: V6-Quattro gegen chinesische E-Autos"
+title: 'Audi RS 5 Hybrid mit 640 PS: V6-Quattro gegen chinesische E-Autos'
 date: 2026-05-20T06:13:01.628Z
-description: "Audi hybridisiert den RS 5 Sportback – 640 PS Systemleistung, 22‑kWh‑Batterie und mechanischer Allrad. Ein Technikvergleich mit chinesischen Premium‑E‑Autos aus dem Reich der Mitte."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Audi hybridisiert den RS 5 Sportback – 640 PS Systemleistung, 22‑kWh‑Batterie
+  und mechanischer Allrad. Ein Technikvergleich mit chinesischen Premium‑E‑Autos
+  aus dem Reich der Mitte.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: de_available
+brands:
+  - Audi
+  - BYD
+  - NIO
+  - XPeng
+  - MG
+confidence: 0.9
 ---
 
 # Audi RS 5 Hybrid mit 640 PS: V6-Quattro gegen chinesische E-Autos

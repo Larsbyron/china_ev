@@ -1,15 +1,31 @@
 ---
-title: "Denza N9 Flash Charging: 420 km Reichweite ab ca. 52.500 €"
+title: 'Denza N9 Flash Charging: 420 km Reichweite ab ca. 52.500 €'
 date: 2026-05-19T19:48:49.076Z
-description: "BYD-Tochter Denza bringt die N9 Flash Charging Edition in China. Ab ca. 52.500 € mit 420 km CLTC und 5-Minuten-Ladung. Luxus-SUV soll 2027 nach Europa kommen."
-source: "ChooseAuto"
-
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Tesla", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  BYD-Tochter Denza bringt die N9 Flash Charging Edition in China. Ab ca. 52.500
+  € mit 420 km CLTC und 5-Minuten-Ladung. Luxus-SUV soll 2027 nach Europa
+  kommen.
+source: ChooseAuto
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/906974.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/906974.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Denza N9 Flash Charging: 420 km Reichweite ab ca. 52.500 €

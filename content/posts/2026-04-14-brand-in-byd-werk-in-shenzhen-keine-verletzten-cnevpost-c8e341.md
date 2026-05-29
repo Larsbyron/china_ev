@@ -1,13 +1,31 @@
 ---
-title: "Brand in BYD-Testzentrum in Shenzhen: Keine Verletzten, Aktie leicht unter Druck"
+title: >-
+  Brand in BYD-Testzentrum in Shenzhen: Keine Verletzten, Aktie leicht unter
+  Druck
 date: 2026-04-14T08:00:00.000Z
-description: "In einem Test- und Lagergebäude auf dem BYD-Campus in Shenzhen ist ein Brand ausgebrochen. Das Feuer wurde gelöscht, Verletzte gab es nicht. BYD-Aktien gaben leicht nach."
-source: "CnEVPost"
-image: "/images/ai-brand-in-byd-werk-in-shenzhen-keine-verletzten-cnevpost-c8e341.webp"
-category: "news"
-tags: ["BYD", "Shenzhen", "Brand", "Werk", "Aktie"]
+description: >-
+  In einem Test- und Lagergebäude auf dem BYD-Campus in Shenzhen ist ein Brand
+  ausgebrochen. Das Feuer wurde gelöscht, Verletzte gab es nicht. BYD-Aktien
+  gaben leicht nach.
+source: CnEVPost
+image: /images/ai-brand-in-byd-werk-in-shenzhen-keine-verletzten-cnevpost-c8e341.webp
+category: news
+tags:
+  - BYD
+  - Shenzhen
+  - Brand
+  - Werk
+  - Aktie
 draft: false
-original_url: "https://cnevpost.com/2026/04/14/fire-at-byd-campus-garage-sparks-concern-stock-slips/"
+original_url: >-
+  https://cnevpost.com/2026/04/14/fire-at-byd-campus-garage-sparks-concern-stock-slips/
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Brand in BYD-Testzentrum: Feuer schnell gelöscht, keine Verletzten

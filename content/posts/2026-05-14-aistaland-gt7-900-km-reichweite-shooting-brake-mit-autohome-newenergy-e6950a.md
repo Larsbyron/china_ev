@@ -1,15 +1,29 @@
 ---
-title: "AISTALAND GT7: 900 km Reichweite – Shooting Brake mit Huawei-Technik"
+title: 'AISTALAND GT7: 900 km Reichweite – Shooting Brake mit Huawei-Technik'
 date: 2026-05-14T01:11:07.030Z
-description: "Der neue AISTALAND GT7 ist ein elektrischer Shooting Brake von GAC und Huawei. Mit bis zu 900 km CLTC (ca. 765 km WLTP) und 800-Volt-Architektur zielt er auf das Premium-Segment. Marktstart in China – Europa-Status offen."
-source: "Autohome NewEnergy"
-image: "/images/aistaland-gt7-900-km-reichweite-shooting-brake-mit-autohome-newenergy-e6950a.webp"
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Zoll"]
+description: >-
+  Der neue AISTALAND GT7 ist ein elektrischer Shooting Brake von GAC und Huawei.
+  Mit bis zu 900 km CLTC (ca. 765 km WLTP) und 800-Volt-Architektur zielt er auf
+  das Premium-Segment. Marktstart in China – Europa-Status offen.
+source: Autohome NewEnergy
+image: >-
+  /images/aistaland-gt7-900-km-reichweite-shooting-brake-mit-autohome-newenergy-e6950a.webp
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://www.autohome.com.cn/news/202605/1314232.html"
+original_url: 'https://www.autohome.com.cn/news/202605/1314232.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - AISTALAND
+  - GAC
+confidence: 0.9
 ---
 
 # AISTALAND GT7: 900 km Reichweite – Shooting Brake mit Huawei-Technik

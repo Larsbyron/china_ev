@@ -1,15 +1,34 @@
 ---
-title: "BYD Atto 3: Update mit 630 km CLTC und Flash Charging ab 15.300 €"
+title: 'BYD Atto 3: Update mit 630 km CLTC und Flash Charging ab 15.300 €'
 date: 2026-05-21T12:41:13.995Z
-description: "BYD bringt den neuen Atto 3 in China für umgerechnet ab 15.300 € an den Start. Der Crossover bietet bis zu 630 km (CLTC), Schnellladefunktion und ein überarbeitetes Interieur – ein Europa-Start ist noch nicht bestätigt."
-source: "CarNewsChina"
-image: "/images/byd-atto-3-update-mit-630-km-cltc-und-flash-chargi-carnewschina-2f4c3a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Tesla", "Batterie", "Reichweite", "Ladestation", "EV"]
+description: >-
+  BYD bringt den neuen Atto 3 in China für umgerechnet ab 15.300 € an den Start.
+  Der Crossover bietet bis zu 630 km (CLTC), Schnellladefunktion und ein
+  überarbeitetes Interieur – ein Europa-Start ist noch nicht bestätigt.
+source: CarNewsChina
+image: >-
+  /images/byd-atto-3-update-mit-630-km-cltc-und-flash-chargi-carnewschina-2f4c3a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/new-byd-atto-3-with-120-km-extra-range-and-flash-charging-priced-from-16600-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/new-byd-atto-3-with-120-km-extra-range-and-flash-charging-priced-from-16600-usd-in-china/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Atto 3: Update mit 630 km CLTC und Flash Charging ab 15.300 €

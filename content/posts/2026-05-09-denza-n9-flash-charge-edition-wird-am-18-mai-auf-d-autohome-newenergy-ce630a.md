@@ -1,15 +1,34 @@
 ---
-title: "Denza N9 Flash-Charge Edition wird am 18. Mai auf den Markt kommen – Vorbestellpreis 45-50 Millionen Yuan"
+title: >-
+  Denza N9 Flash-Charge Edition wird am 18. Mai auf den Markt kommen –
+  Vorbestellpreis 45-50 Millionen Yuan
 date: 2026-05-09T23:12:13.665Z
-description: "[auto motor und sport / Informationen] Wie wir kürzlich aus relevanten Kreisen erfahren haben, wird die Denza N9 (Parameter | Preis) Flash-Charge Edition am 18. Mai auf den Markt kommen. Das neue Mode..."
-source: "Autohome NewEnergy"
-image: "/images/denza-n9-flash-charge-edition-wird-am-18-mai-auf-d-autohome-newenergy-ce630a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  [auto motor und sport / Informationen] Wie wir kürzlich aus relevanten Kreisen
+  erfahren haben, wird die Denza N9 (Parameter | Preis) Flash-Charge Edition am
+  18. Mai auf den Markt kommen. Das neue Mode...
+source: Autohome NewEnergy
+image: >-
+  /images/denza-n9-flash-charge-edition-wird-am-18-mai-auf-d-autohome-newenergy-ce630a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314171.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314171.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # Denza N9 Flash-Charge Edition wird am 18. Mai auf den Markt kommen – Vorbestellpreis 45-50 Millionen Yuan

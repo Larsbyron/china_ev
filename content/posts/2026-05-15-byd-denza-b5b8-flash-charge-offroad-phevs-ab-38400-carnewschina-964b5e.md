@@ -1,15 +1,31 @@
 ---
-title: "BYD Denza B5/B8 Flash-Charge: Offroad-PHEVs ab 38.400 €"
+title: 'BYD Denza B5/B8 Flash-Charge: Offroad-PHEVs ab 38.400 €'
 date: 2026-05-15T11:51:57.767Z
-description: "BYD bringt die überarbeiteten Denza B5 und B8 als Flash-Charge Edition in China an den Start. Mit neuem DiSus-P Ultra-Fahrwerk und bis zu 1.170 km WLTP-Reichweite zielen die Luxus-Offroad-PHEVs auch auf Europa."
-source: "CarNewsChina"
-image: "/images/byd-denza-b5b8-flash-charge-offroad-phevs-ab-38400-carnewschina-964b5e.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Reichweite", "EV"]
+description: >-
+  BYD bringt die überarbeiteten Denza B5 und B8 als Flash-Charge Edition in
+  China an den Start. Mit neuem DiSus-P Ultra-Fahrwerk und bis zu 1.170 km
+  WLTP-Reichweite zielen die Luxus-Offroad-PHEVs auch auf Europa.
+source: CarNewsChina
+image: >-
+  /images/byd-denza-b5b8-flash-charge-offroad-phevs-ab-38400-carnewschina-964b5e.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/14/byds-denza-b5-b8-flash-charge-editions-launched-with-yunnian-p-ultra-suspension-from-43900-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/14/byds-denza-b5-b8-flash-charge-editions-launched-with-yunnian-p-ultra-suspension-from-43900-usd-in-china/
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Denza B5/B8 Flash-Charge: Offroad-PHEVs ab 38.400 €

@@ -1,13 +1,32 @@
 ---
-title: "BYD erreicht 16-Millionen-Marke bei NEV-Produktion – Denza D9 als Meilensteinfahrzeug"
+title: >-
+  BYD erreicht 16-Millionen-Marke bei NEV-Produktion – Denza D9 als
+  Meilensteinfahrzeug
 date: 2026-04-17T14:00:00.000Z
-description: "BYD hat die Marke von 16 Millionen produzierten NEV überschritten. Erst 120 Tage zuvor war die 15-Millionen-Marke erreicht worden. Das Fahrzeug des Meilensteins war die zweite Generation des Denza D9."
-source: "CnEVPost"
-image: "/images/byd-16-millionen-nev-gebrauch-im-zeitraum-cnevpost-f3b842.webp"
-category: "news"
-tags: ["BYD", "Denza D9", "Produktion", "Meilenstein", "NEV"]
+description: >-
+  BYD hat die Marke von 16 Millionen produzierten NEV überschritten. Erst 120
+  Tage zuvor war die 15-Millionen-Marke erreicht worden. Das Fahrzeug des
+  Meilensteins war die zweite Generation des Denza D9.
+source: CnEVPost
+image: /images/byd-16-millionen-nev-gebrauch-im-zeitraum-cnevpost-f3b842.webp
+category: news
+tags:
+  - BYD
+  - Denza D9
+  - Produktion
+  - Meilenstein
+  - NEV
 draft: false
-original_url: "https://cnevpost.com/2026/04/17/byd-reaches-16-millionth-nev-production-milestone/"
+original_url: >-
+  https://cnevpost.com/2026/04/17/byd-reaches-16-millionth-nev-production-milestone/
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - BYD
+  - Denza
+confidence: 0.9
 ---
 
 # BYD: 16 Millionen NEV vom Band – schnellster Millionen-Sprung der Geschichte

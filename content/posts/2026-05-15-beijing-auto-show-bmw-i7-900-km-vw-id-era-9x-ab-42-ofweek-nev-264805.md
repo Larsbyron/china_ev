@@ -1,15 +1,28 @@
 ---
-title: "Beijing Auto Show: BMW i7 (900 km) & VW ID. ERA 9X (ab 42.200 €)"
+title: 'Beijing Auto Show: BMW i7 (900 km) & VW ID. ERA 9X (ab 42.200 €)'
 date: 2026-05-15T06:00:30.830Z
-description: "Die Beijing Auto Show 2026 wird zur Bühne für deutsche E-Offensive: BMW i7 (900 km WLTP), Mercedes GLC L E-Langversion und VW ID. ERA 9X. Einige Modelle könnten nach Europa kommen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Die Beijing Auto Show 2026 wird zur Bühne für deutsche E-Offensive: BMW i7
+  (900 km WLTP), Mercedes GLC L E-Langversion und VW ID. ERA 9X. Einige Modelle
+  könnten nach Europa kommen.
+source: OFweek NEV
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: eu_planned
+brands:
+  - BMW
+  - Mercedes-Benz
+  - VW
+confidence: 0.9
 ---
 
 # Beijing Auto Show: BMW i7 (900 km) & VW ID. ERA 9X (ab 42.200 €)

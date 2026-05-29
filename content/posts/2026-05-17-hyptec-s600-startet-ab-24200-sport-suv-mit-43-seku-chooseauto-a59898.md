@@ -1,15 +1,32 @@
 ---
-title: "Hyptec S600 startet ab 24.200 € – Sport-SUV mit 4,3 Sekunden"
+title: 'Hyptec S600 startet ab 24.200 € – Sport-SUV mit 4,3 Sekunden'
 date: 2026-05-17T18:58:14.304Z
-description: "Der Hyptec S600 (昊铂) geht in China in den Vorverkauf. Das kompakte Elektro-SUV bietet bis zu 370 kW Allradantrieb und ab 24.200 € Sonderpreis. Mit Lidar, Range-Extender-Option und Platz für die Familie."
-source: "ChooseAuto"
-image: "/images/hyptec-s600-startet-ab-24200-sport-suv-mit-43-seku-chooseauto-a59898.webp"
-category: "news"
-
-tags: ["BYD", "MG", "Batterie", "Zoll", "EV"]
+description: >-
+  Der Hyptec S600 (昊铂) geht in China in den Vorverkauf. Das kompakte Elektro-SUV
+  bietet bis zu 370 kW Allradantrieb und ab 24.200 € Sonderpreis. Mit Lidar,
+  Range-Extender-Option und Platz für die Familie.
+source: ChooseAuto
+image: >-
+  /images/hyptec-s600-startet-ab-24200-sport-suv-mit-43-seku-chooseauto-a59898.webp
+category: news
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/905055.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/905055.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Hyptec
+  - BYD
+  - VW
+confidence: 0.9
 ---
 
 # Hyptec S600 startet ab 24.200 € – Sport-SUV mit 4,3 Sekunden

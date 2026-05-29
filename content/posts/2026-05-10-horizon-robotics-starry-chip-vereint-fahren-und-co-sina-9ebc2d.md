@@ -1,15 +1,25 @@
 ---
-title: "Horizon Robotics: Starry-Chip vereint Fahren und Cockpit"
+title: 'Horizon Robotics: Starry-Chip vereint Fahren und Cockpit'
 date: 2026-05-10T20:48:04.760Z
-description: "Horizon Robotics präsentiert mit Starry den ersten Cockpit-Fahr-Chip Chinas. Das Betriebssystem KaKaClaw steuert per Sprache Fahren und Infotainment. Einsparungen bis zu 500 € pro Fahrzeug."
-source: "Sina"
-image: "/images/horizon-robotics-starry-chip-vereint-fahren-und-co-sina-9ebc2d.webp"
-category: "news"
-
-tags: ["MG"]
+description: >-
+  Horizon Robotics präsentiert mit Starry den ersten Cockpit-Fahr-Chip Chinas.
+  Das Betriebssystem KaKaClaw steuert per Sprache Fahren und Infotainment.
+  Einsparungen bis zu 500 € pro Fahrzeug.
+source: Sina
+image: /images/horizon-robotics-starry-chip-vereint-fahren-und-co-sina-9ebc2d.webp
+category: news
+tags:
+  - MG
 draft: false
-original_url: "https://auto.sina.com.cn/news/hy/2026-04-29/detail-inhwesks7846707.shtml"
+original_url: 'https://auto.sina.com.cn/news/hy/2026-04-29/detail-inhwesks7846707.shtml'
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: global_industry
+brands:
+  - MG
+confidence: 0.8
 ---
 
 # Horizon Robotics: Starry-Chip vereint Fahren und Cockpit

@@ -1,11 +1,25 @@
 ---
-title: "Top 5 chinesische E-Autos diese Woche"
+title: Top 5 chinesische E-Autos diese Woche
 date: 2026-05-15T10:59:35.962Z
-description: "Die fünf wichtigsten chinesischen E-Auto-Nachrichten dieser Woche"
-source: "Weekly"
-category: "weekly"
-tags: ["Top 5", "China", "E-Auto"]
+description: Die fünf wichtigsten chinesischen E-Auto-Nachrichten dieser Woche
+source: Weekly
+category: weekly
+tags:
+  - Top 5
+  - China
+  - E-Auto
 draft: false
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Xiaomi
+  - Geely
+  - Aion
+confidence: 0.95
 ---
 
 # Top 5 chinesische E-Autos diese Woche

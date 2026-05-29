@@ -1,15 +1,34 @@
 ---
-title: "Li Auto V9: Luxus-MPV ab 24.900 € mit 310 km E-Reichweite"
+title: 'Li Auto V9: Luxus-MPV ab 24.900 € mit 310 km E-Reichweite'
 date: 2026-05-27T20:15:32.364Z
-description: "Li Auto V9 startet in China zum Sonderpreis von 19,48 bis 24,98 Wan Yuan (ca. 24.900–32.000 €). Das 5,30 Meter lange MPV bietet sieben echte Sitze, Range-Extender-Antrieb und eine Reichweite von 1.330 km. Technische Daten inklusive Batteriekapazität und Ladeleistung wurden noch nicht final genannt, "
-source: "ChooseAuto"
-image: "/images/li-auto-v9-luxus-mpv-ab-24900-mit-310-km-e-reichwe-chooseauto-b2f0cb.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Li Auto V9 startet in China zum Sonderpreis von 19,48 bis 24,98 Wan Yuan (ca.
+  24.900–32.000 €). Das 5,30 Meter lange MPV bietet sieben echte Sitze,
+  Range-Extender-Antrieb und eine Reichweite von 1.330 km. Technische Daten
+  inklusive Batteriekapazität und Ladeleistung wurden noch nicht final genannt, 
+source: ChooseAuto
+image: >-
+  /images/li-auto-v9-luxus-mpv-ab-24900-mit-310-km-e-reichwe-chooseauto-b2f0cb.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/914533.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/914533.shtml'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.95
 ---
 
 # Li Auto V9: Luxus-MPV ab 24.900 € mit 310 km E-Reichweite

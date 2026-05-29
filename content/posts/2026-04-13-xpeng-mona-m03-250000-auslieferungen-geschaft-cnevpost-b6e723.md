@@ -1,13 +1,29 @@
 ---
-title: "XPeng Mona M03: 250.000 Auslieferungen seit Marktstart"
+title: 'XPeng Mona M03: 250.000 Auslieferungen seit Marktstart'
 date: 2026-04-13T12:00:00.000Z
-description: "XPeng feiert einen Meilenstein für den Mona M03: Mehr als 250.000 Einheiten des kompakten Elektroautos wurden seit August 2024 ausgeliefert. Jeder fünfte Käufer ist jünger als 25 Jahre."
-source: "CnEVPost"
-image: "/images/ai-xpeng-mona-m03-250000-auslieferungen-geschaft-cnevpost-b6e723.webp"
-category: "news"
-tags: ["XPeng", "Mona M03", "Absatz", "Meilenstein", "Jugend"]
+description: >-
+  XPeng feiert einen Meilenstein für den Mona M03: Mehr als 250.000 Einheiten
+  des kompakten Elektroautos wurden seit August 2024 ausgeliefert. Jeder fünfte
+  Käufer ist jünger als 25 Jahre.
+source: CnEVPost
+image: /images/ai-xpeng-mona-m03-250000-auslieferungen-geschaft-cnevpost-b6e723.webp
+category: news
+tags:
+  - XPeng
+  - Mona M03
+  - Absatz
+  - Meilenstein
+  - Jugend
 draft: false
-original_url: "https://cnevpost.com/2026/04/13/xpeng-reaches-250000-mona-m03-deliveries-all-new-mona-suv-looms/"
+original_url: >-
+  https://cnevpost.com/2026/04/13/xpeng-reaches-250000-mona-m03-deliveries-all-new-mona-suv-looms/
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.95
 ---
 
 # XPeng Mona M03: Ein Viertelmillion Auslieferungen – und ein Nachfolger kommt

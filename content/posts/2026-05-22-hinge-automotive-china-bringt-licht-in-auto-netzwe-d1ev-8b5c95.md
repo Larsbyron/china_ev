@@ -1,15 +1,30 @@
 ---
-title: "Hinge Automotive: China bringt Licht in Auto-Netzwerke"
+title: 'Hinge Automotive: China bringt Licht in Auto-Netzwerke'
 date: 2026-05-22T10:56:49.571Z
-description: "Der chinesische Spezialist Hinge Automotive präsentiert auf der AEC in München 10G-Faserlösungen für autonomes Fahren. Gemeinsam mit Corning und KDPOF will man die Kupfer-Grenzen überwinden – europäische Hersteller sind noch zögerlich."
-source: "D1EV"
-image: "/images/hinge-automotive-china-bringt-licht-in-auto-netzwe-d1ev-8b5c95.webp"
-category: "news"
-
-tags: ["Reichweite", "E-Auto", "EV"]
+description: >-
+  Der chinesische Spezialist Hinge Automotive präsentiert auf der AEC in München
+  10G-Faserlösungen für autonomes Fahren. Gemeinsam mit Corning und KDPOF will
+  man die Kupfer-Grenzen überwinden – europäische Hersteller sind noch
+  zögerlich.
+source: D1EV
+image: /images/hinge-automotive-china-bringt-licht-in-auto-netzwe-d1ev-8b5c95.webp
+category: news
+tags:
+  - Reichweite
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300074"
+original_url: 'https://www.d1ev.com/news/shichang/300074'
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - Hinge Automotive
+  - Corning
+  - KDPOF
+confidence: 0.8
 ---
 
 # Hinge Automotive: China bringt Licht in Auto-Netzwerke

@@ -1,15 +1,33 @@
 ---
-title: "BYD: Festkörperbatterie mit 451,5 Wh/kg in 3 Minuten ladbar"
+title: 'BYD: Festkörperbatterie mit 451,5 Wh/kg in 3 Minuten ladbar'
 date: 2026-05-22T06:01:59.740Z
-description: "Chinesische Forscher stellen eine Festkörperbatterie mit 451,5 Wh/kg und 3-Minuten-Ladung vor. BYD profitiert als zweitgrößter LFP-Hersteller von den Fortschritten – ein Schritt zu günstigeren E-Autos mit höherer Reichweite."
-source: "CarNewsChina"
-image: "/images/byd-festkrperbatterie-mit-4515-whkg-in-3-minuten-l-carnewschina-5c5e6e.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "E-Auto", "EV", "Marktanteil"]
+description: >-
+  Chinesische Forscher stellen eine Festkörperbatterie mit 451,5 Wh/kg und
+  3-Minuten-Ladung vor. BYD profitiert als zweitgrößter LFP-Hersteller von den
+  Fortschritten – ein Schritt zu günstigeren E-Autos mit höherer Reichweite.
+source: CarNewsChina
+image: >-
+  /images/byd-festkrperbatterie-mit-4515-whkg-in-3-minuten-l-carnewschina-5c5e6e.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - E-Auto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/chinese-researchers-unveil-451-5-wh-kg-solid-state-battery-with-3-minute-charging-capability/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/chinese-researchers-unveil-451-5-wh-kg-solid-state-battery-with-3-minute-charging-capability/
 read_time_minutes: 3
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD: Festkörperbatterie mit 451,5 Wh/kg in 3 Minuten ladbar

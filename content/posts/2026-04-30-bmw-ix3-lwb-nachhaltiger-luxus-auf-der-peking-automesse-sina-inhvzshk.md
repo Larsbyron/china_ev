@@ -1,15 +1,32 @@
 ---
-title: "BMW iX3 Langversion: Nachhaltiger Luxus auf der Peking Auto Show"
-date: 2026-04-30T07:02:08
-description: "Die neue Generation des BMW iX3 mit verlängertem Radstand feierte auf der Peking Auto Show Premiere — mit Fokus auf Kreislaufwirtschaft und CO₂-Reduktion über den gesamten Lebenszyklus."
-source: "Sina"
-image: "/images/bmw-ix3-lwb-nachhaltiger-luxus-auf-der-peking-automesse-sina-inhvzshk.webp"
-category: "news"
-brand: "BMW"
-tags: ["BMW", "iX3", "Peking Auto Show 2026", "Nachhaltigkeit", "Elektroauto", "Langversion"]
+title: 'BMW iX3 Langversion: Nachhaltiger Luxus auf der Peking Auto Show'
+date: 2026-04-30T07:02:08.000Z
+description: >-
+  Die neue Generation des BMW iX3 mit verlängertem Radstand feierte auf der
+  Peking Auto Show Premiere — mit Fokus auf Kreislaufwirtschaft und
+  CO₂-Reduktion über den gesamten Lebenszyklus.
+source: Sina
+image: >-
+  /images/bmw-ix3-lwb-nachhaltiger-luxus-auf-der-peking-automesse-sina-inhvzshk.webp
+category: news
+brand: BMW
+tags:
+  - BMW
+  - iX3
+  - Peking Auto Show 2026
+  - Nachhaltigkeit
+  - Elektroauto
+  - Langversion
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-04-28/detail-inhvzshk7367448.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-04-28/detail-inhvzshk7367448.shtml'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BMW
+confidence: 0.8
 ---
 
 Ein wirklich nachhaltiges Elektrofahrzeug zeichnet sich nicht nur durch lokale Emissionsfreiheit aus, sondern durch ein durchdachtes Kreislaufkonzept über seinen gesamten Lebenszyklus hinweg. Auf der Peking Auto Show hat BMW mit der neuen Generation des BMW iX3 Langversion (Long Wheelbase) genau diese Philosophie eindrucksvoll unter Beweis gestellt.

@@ -1,15 +1,31 @@
 ---
-title: "BYD: Neue Blade Battery lädt in 9 Minuten – 70 °C kein Problem"
+title: 'BYD: Neue Blade Battery lädt in 9 Minuten – 70 °C kein Problem'
 date: 2026-05-19T12:45:44.955Z
-description: "BYDs zweite Generation der Blade Battery lädt mit 1500 kW von 10 auf 97 % in neun Minuten. CTO Sun Huajun weist Kritik an Überhitzung zurück und betont die Sicherheit der LFP-Technologie – auch in Luxusmodellen wie dem Yangwang U9."
-source: "CarNewsChina"
-image: "/images/byd-neue-blade-battery-ldt-in-9-minuten-70-c-kein-carnewschina-031ce2.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Ladestation", "EV"]
+description: >-
+  BYDs zweite Generation der Blade Battery lädt mit 1500 kW von 10 auf 97 % in
+  neun Minuten. CTO Sun Huajun weist Kritik an Überhitzung zurück und betont die
+  Sicherheit der LFP-Technologie – auch in Luxusmodellen wie dem Yangwang U9.
+source: CarNewsChina
+image: >-
+  /images/byd-neue-blade-battery-ldt-in-9-minuten-70-c-kein-carnewschina-031ce2.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/19/byd-battery-cto-defends-2nd-gen-blade-battery-70c-high-temperature-is-no-longer-a-barrier/"
+original_url: >-
+  https://carnewschina.com/2026/05/19/byd-battery-cto-defends-2nd-gen-blade-battery-70c-high-temperature-is-no-longer-a-barrier/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD: Neue Blade Battery lädt in 9 Minuten – 70 °C kein Problem

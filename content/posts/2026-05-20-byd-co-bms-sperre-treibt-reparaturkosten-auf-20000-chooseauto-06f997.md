@@ -1,15 +1,36 @@
 ---
-title: "BYD & Co.: BMS-Sperre treibt Reparaturkosten auf 20.000 €"
+title: 'BYD & Co.: BMS-Sperre treibt Reparaturkosten auf 20.000 €'
 date: 2026-05-20T06:07:45.457Z
-description: "Chinesische E-Auto-Hersteller wie BYD (比亚迪) schließen freie Werkstätten aus – mit Verweis auf Batteriesicherheit. Dabei könnten günstige Zellenreparaturen Tausende sparen. Versicherungsprämien steigen drastisch."
-source: "ChooseAuto"
-image: "/images/byd-co-bms-sperre-treibt-reparaturkosten-auf-20000-chooseauto-06f997.webp"
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Batterie", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Chinesische E-Auto-Hersteller wie BYD (比亚迪) schließen freie Werkstätten aus –
+  mit Verweis auf Batteriesicherheit. Dabei könnten günstige Zellenreparaturen
+  Tausende sparen. Versicherungsprämien steigen drastisch.
+source: ChooseAuto
+image: >-
+  /images/byd-co-bms-sperre-treibt-reparaturkosten-auf-20000-chooseauto-06f997.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Batterie
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/907312.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/907312.shtml'
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - politik-zoelle-regulierung
+  - unternehmen-finanzen-kooperationen
+marketRelevance: de_available
+brands:
+  - BYD
+  - NIO
+  - Xpeng
+confidence: 0.9
 ---
 
 # BYD & Co.: BMS-Sperre treibt Reparaturkosten auf 20.000 €

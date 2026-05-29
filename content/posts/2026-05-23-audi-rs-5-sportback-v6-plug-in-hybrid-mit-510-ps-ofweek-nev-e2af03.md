@@ -1,15 +1,25 @@
 ---
-title: "Audi RS 5 Sportback: V6-Plug-in-Hybrid mit 510 PS"
+title: 'Audi RS 5 Sportback: V6-Plug-in-Hybrid mit 510 PS'
 date: 2026-05-23T11:15:16.113Z
-description: "Audi zeigt den neuen RS 5 Sportback als Hochleistungs-Plug-in-Hybrid. Der 2,9-Liter-V6-Biturbo (375 kW) wird von einem 130-kW-E-Motor und 22-kWh-Akku flankiert. Das System kombiniert mechanisches Quattro mit elektrischem Heckantrieb – eine Kampfansage an die reine Elektro-Konkurrenz."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Tesla"]
+description: >-
+  Audi zeigt den neuen RS 5 Sportback als Hochleistungs-Plug-in-Hybrid. Der
+  2,9-Liter-V6-Biturbo (375 kW) wird von einem 130-kW-E-Motor und 22-kWh-Akku
+  flankiert. Das System kombiniert mechanisches Quattro mit elektrischem
+  Heckantrieb – eine Kampfansage an die reine Elektro-Konkurrenz.
+source: OFweek NEV
+category: news
+tags:
+  - Tesla
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Audi
+confidence: 0.9
 ---
 
 # Audi RS 5 Sportback: V6-Plug-in-Hybrid mit 510 PS

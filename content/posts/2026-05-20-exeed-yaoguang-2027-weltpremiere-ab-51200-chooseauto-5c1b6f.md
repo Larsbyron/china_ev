@@ -1,15 +1,27 @@
 ---
-title: "Exeed Yaoguang 2027: Weltpremiere ab 51.200 €"
+title: 'Exeed Yaoguang 2027: Weltpremiere ab 51.200 €'
 date: 2026-05-20T06:03:20.977Z
-description: "Der neue Exeed (星途) Yaoguang feiert am 23. Mai 2026 in Chengdu Premiere. Das Premium-SUV startet ab 400.000 Yuan (ca. 51.200 €) und soll 2026/2027 auch nach Deutschland kommen."
-source: "ChooseAuto"
-image: "/images/exeed-yaoguang-2027-weltpremiere-ab-51200-chooseauto-5c1b6f.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite"]
+description: >-
+  Der neue Exeed (星途) Yaoguang feiert am 23. Mai 2026 in Chengdu Premiere. Das
+  Premium-SUV startet ab 400.000 Yuan (ca. 51.200 €) und soll 2026/2027 auch
+  nach Deutschland kommen.
+source: ChooseAuto
+image: /images/exeed-yaoguang-2027-weltpremiere-ab-51200-chooseauto-5c1b6f.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/907325.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/907325.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Exeed
+confidence: 0.95
 ---
 
 # Exeed Yaoguang 2027: Weltpremiere ab 51.200 €

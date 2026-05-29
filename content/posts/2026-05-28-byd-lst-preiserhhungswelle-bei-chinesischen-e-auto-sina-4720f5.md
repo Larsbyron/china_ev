@@ -1,15 +1,33 @@
 ---
-title: "BYD löst Preiserhöhungswelle bei chinesischen E-Autos aus"
+title: BYD löst Preiserhöhungswelle bei chinesischen E-Autos aus
 date: 2026-05-28T13:44:07.691Z
-description: "BYD (比亚迪) hat als erster Hersteller die Preise angehoben – ein Signal für die Branche. Über ein Dutzend weitere Marken folgten. Die neue Runde der Preiskorrektur zielt auf Gewinnverbesserung ab, ohne Marktanteile zu verlieren."
-source: "Sina"
-image: "/images/byd-lst-preiserhhungswelle-bei-chinesischen-e-auto-sina-4720f5.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "E-Auto", "Marktanteil"]
+description: >-
+  BYD (比亚迪) hat als erster Hersteller die Preise angehoben – ein Signal für die
+  Branche. Über ein Dutzend weitere Marken folgten. Die neue Runde der
+  Preiskorrektur zielt auf Gewinnverbesserung ab, ohne Marktanteile zu
+  verlieren.
+source: Sina
+image: /images/byd-lst-preiserhhungswelle-bei-chinesischen-e-auto-sina-4720f5.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - E-Auto
+  - Marktanteil
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml
 read_time_minutes: 3
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - BYD
+  - MG
+confidence: 0.9
 ---
 
 # BYD löst Preiserhöhungswelle bei chinesischen E-Autos aus

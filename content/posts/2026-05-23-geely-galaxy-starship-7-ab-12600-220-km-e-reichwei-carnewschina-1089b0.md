@@ -1,15 +1,37 @@
 ---
-title: "Geely Galaxy Starship 7 ab 12.600 €: 220 km E-Reichweite, 312 kW"
+title: 'Geely Galaxy Starship 7 ab 12.600 €: 220 km E-Reichweite, 312 kW'
 date: 2026-05-23T19:11:14.793Z
-description: "Geely (吉利) bringt den Plug-in-Hybrid Starship 7 als Limousine in China an den Start. Fünf Varianten von 12.600 bis 16.600 € (Aktion), Systemleistung bis 312 kW und elektrische Reichweite bis 230 km (CLTC). Ein Europa-Start ist nicht angekündigt."
-source: "CarNewsChina"
-image: "/images/geely-galaxy-starship-7-ab-12600-220-km-e-reichwei-carnewschina-1089b0.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Zeekr", "MG", "Batterie", "Reichweite", "Zoll", "EV", "Marktanteil"]
+description: >-
+  Geely (吉利) bringt den Plug-in-Hybrid Starship 7 als Limousine in China an den
+  Start. Fünf Varianten von 12.600 bis 16.600 € (Aktion), Systemleistung bis 312
+  kW und elektrische Reichweite bis 230 km (CLTC). Ein Europa-Start ist nicht
+  angekündigt.
+source: CarNewsChina
+image: >-
+  /images/geely-galaxy-starship-7-ab-12600-220-km-e-reichwei-carnewschina-1089b0.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Zeekr
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/23/geely-galaxy-starshine-7-launched-with-312-kw-and-220-km-ev-range-from-14500-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/23/geely-galaxy-starshine-7-launched-with-312-kw-and-220-km-ev-range-from-14500-usd-in-china/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.95
 ---
 
 # Geely Galaxy Starship 7 ab 12.600 €: 220 km E-Reichweite, 312 kW

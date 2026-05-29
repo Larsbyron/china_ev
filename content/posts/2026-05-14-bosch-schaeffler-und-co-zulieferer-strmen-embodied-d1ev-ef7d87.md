@@ -1,15 +1,28 @@
 ---
-title: "Bosch, Schaeffler und Co.: Zulieferer stürmen Embodied Intelligence"
+title: 'Bosch, Schaeffler und Co.: Zulieferer stürmen Embodied Intelligence'
 date: 2026-05-14T11:51:46.744Z
-description: "Bosch, Schaeffler, Valeo und Aptiv drängen massiv in Embodied Intelligence. Sie nutzen ihre Fabriken als Trainingsgelände und wollen als Zulieferer der Schlüsseltechnologie profitieren. China wird zum wichtigsten Testmarkt."
-source: "D1EV"
-image: "/images/bosch-schaeffler-und-co-zulieferer-strmen-embodied-d1ev-ef7d87.webp"
-category: "news"
-
-tags: ["MG"]
+description: >-
+  Bosch, Schaeffler, Valeo und Aptiv drängen massiv in Embodied Intelligence.
+  Sie nutzen ihre Fabriken als Trainingsgelände und wollen als Zulieferer der
+  Schlüsseltechnologie profitieren. China wird zum wichtigsten Testmarkt.
+source: D1EV
+image: /images/bosch-schaeffler-und-co-zulieferer-strmen-embodied-d1ev-ef7d87.webp
+category: news
+tags:
+  - MG
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299065"
+original_url: 'https://www.d1ev.com/news/shichang/299065'
 read_time_minutes: 4
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - Bosch
+  - Schaeffler
+  - Valeo
+  - Aptiv
+confidence: 0.9
 ---
 
 # Bosch, Schaeffler und Co.: Zulieferer stürmen Embodied Intelligence

@@ -1,15 +1,32 @@
 ---
-title: "Denza N9 Flash Charge Edition startet am 18. Mai – Vorverkauf ab 450.000 RMB"
-date: 2026-05-09T07:00:00+02:00
-description: "Denza N9 Flash Charge Edition mit第二代 Blade-Akku, 420 km Reichweite und KI-Cockpit – Marktstart am 18. Mai."
-source: "Autohome NewEnergy"
-image: "/images/ai-denza-n9-flash-charge-edition-marktstart-mai-2026-autohome-NE-1314171.webp"
-category: "news"
-brand: "Denza"
-tags: ["Denza", "BYD", "N9", "Flash-Charge", "Blade-Battery", "PHEV"]
+title: Denza N9 Flash Charge Edition startet am 18. Mai – Vorverkauf ab 450.000 RMB
+date: 2026-05-09T05:00:00.000Z
+description: >-
+  Denza N9 Flash Charge Edition mit第二代 Blade-Akku, 420 km Reichweite und
+  KI-Cockpit – Marktstart am 18. Mai.
+source: Autohome NewEnergy
+image: >-
+  /images/ai-denza-n9-flash-charge-edition-marktstart-mai-2026-autohome-NE-1314171.webp
+category: news
+brand: Denza
+tags:
+  - Denza
+  - BYD
+  - N9
+  - Flash-Charge
+  - Blade-Battery
+  - PHEV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314171.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314171.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Denza
+  - BYD
+confidence: 0.9
 ---
 
 Wir haben aus zuverlässigen Quellen erfahren, dass die **Denza N9 Flash Charge Edition** am 18. Mai auf den Markt kommen wird. Das Modell wurde bereits im Vorverkauf angeboten, mit einem Preisrahmen von 450.000 bis 500.000 RMB (ca. 57.000–63.000 Euro). Die neue Variante erhält den第二代 Blade-Akku der zweiten Generation mit Schnellladetechnologie, wodurch die CLTC-Reichweite auf 420 km steigt. Hinzu kommt ein KI-Cockpit der nächsten Generation.

@@ -1,15 +1,26 @@
 ---
-title: "Audi RS 5 Sportback: Hybrid-Version mit 375 kW und E-Boost"
+title: 'Audi RS 5 Sportback: Hybrid-Version mit 375 kW und E-Boost'
 date: 2026-05-18T19:34:02.198Z
-description: "Neue Generation des Audi RS 5 Sportback setzt auf P2-Hybrid: 2,9-Liter-V6-Biturbo mit 375 kW plus 130 kW E-Motor, 22-kWh-Akku und mechanisches Quattro. Marktstart in China 2025."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite"]
+description: >-
+  Neue Generation des Audi RS 5 Sportback setzt auf P2-Hybrid:
+  2,9-Liter-V6-Biturbo mit 375 kW plus 130 kW E-Motor, 22-kWh-Akku und
+  mechanisches Quattro. Marktstart in China 2025.
+source: OFweek NEV
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Audi
+confidence: 0.95
 ---
 
 # Audi RS 5 Sportback: Hybrid-Version mit 375 kW und E-Boost

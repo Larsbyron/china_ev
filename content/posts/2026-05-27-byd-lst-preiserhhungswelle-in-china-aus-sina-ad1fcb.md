@@ -1,15 +1,31 @@
 ---
-title: "BYD löst Preiserhöhungswelle in China aus"
+title: BYD löst Preiserhöhungswelle in China aus
 date: 2026-05-27T20:08:49.788Z
-description: "BYD hat als erster Hersteller die Preise für E-Autos erhöht – über ein Dutzend Marken folgten. Die Aktion zielt weniger auf gestiegene Kosten, sondern auf die Rückgewinnung der Preishoheit und Margenverbesserung im Preiskampf."
-source: "Sina"
-image: "/images/byd-lst-preiserhhungswelle-in-china-aus-sina-ad1fcb.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Elektroauto", "E-Auto", "Marktanteil"]
+description: >-
+  BYD hat als erster Hersteller die Preise für E-Autos erhöht – über ein Dutzend
+  Marken folgten. Die Aktion zielt weniger auf gestiegene Kosten, sondern auf
+  die Rückgewinnung der Preishoheit und Margenverbesserung im Preiskampf.
+source: Sina
+image: /images/byd-lst-preiserhhungswelle-in-china-aus-sina-ad1fcb.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Elektroauto
+  - E-Auto
+  - Marktanteil
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml
 read_time_minutes: 3
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD löst Preiserhöhungswelle in China aus

@@ -1,15 +1,32 @@
 ---
-title: "Xiaomi YU7: Standardversion zurück – Angriff auf Tesla Model Y"
+title: 'Xiaomi YU7: Standardversion zurück – Angriff auf Tesla Model Y'
 date: 2026-05-26T20:04:18.995Z
-description: "Xiaomi bringt die Standardversion des YU7 zurück – gezielt gegen das Tesla Model Y positioniert. Mit 29.900 € Einstiegspreis und 593 km Reichweite (CLTC) will der chinesische Elektro-SUV Marktanteile zurückgewinnen."
-source: "Sina"
-image: "/images/xiaomi-yu7-standardversion-zurck-angriff-auf-tesla-sina-aa19dd.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Reichweite", "E-Auto", "EV"]
+description: >-
+  Xiaomi bringt die Standardversion des YU7 zurück – gezielt gegen das Tesla
+  Model Y positioniert. Mit 29.900 € Einstiegspreis und 593 km Reichweite (CLTC)
+  will der chinesische Elektro-SUV Marktanteile zurückgewinnen.
+source: Sina
+image: /images/xiaomi-yu7-standardversion-zurck-angriff-auf-tesla-sina-aa19dd.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Reichweite
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - Tesla
+confidence: 0.9
 ---
 
 # Xiaomi YU7: Standardversion zurück – Angriff auf Tesla Model Y

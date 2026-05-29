@@ -1,15 +1,32 @@
 ---
-title: "5 China-SUVs mit „9': Peking Show ab 28.000 €"
+title: '5 China-SUVs mit „9'': Peking Show ab 28.000 €'
 date: 2026-05-15T19:25:53.359Z
-description: "Auf der Peking Auto Show 2026 treffen fünf chinesische Flaggschiff-SUVs aufeinander – alle mit der Ziffer „9' im Namen. Preise starten bei 21,98 万元 (ca. 28.100 €), die Modelle bieten EREV, BEV und Plug-in-Hybrid."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Auf der Peking Auto Show 2026 treffen fünf chinesische Flaggschiff-SUVs
+  aufeinander – alle mit der Ziffer „9' im Namen. Preise starten bei 21,98 万元
+  (ca. 28.100 €), die Modelle bieten EREV, BEV und Plug-in-Hybrid.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: global_industry
+brands:
+  - BYD
+  - NIO
+  - Li Auto
+confidence: 0.5
 ---
 
 # 5 China-SUVs mit „9": Peking Show ab 28.000 €

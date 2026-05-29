@@ -1,15 +1,28 @@
 ---
-title: "BYD setzt auf 650-TOPS-Chip von Horizon Robotics"
+title: BYD setzt auf 650-TOPS-Chip von Horizon Robotics
 date: 2026-05-25T13:04:18.653Z
-description: "Horizon Robotics treibt die Chip-Entwicklung für autonomes Fahren voran: 650 TOPS Rechenleistung für Cockpit und Fahrassistenz. Das HSD-System erreicht 77 % Käufer-Akzeptanz – weit über Branchenschnitt."
-source: "D1EV"
-image: "/images/byd-setzt-auf-650-tops-chip-von-horizon-robotics-d1ev-ed6905.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "E-Auto", "EV", "Marktanteil"]
+description: >-
+  Horizon Robotics treibt die Chip-Entwicklung für autonomes Fahren voran: 650
+  TOPS Rechenleistung für Cockpit und Fahrassistenz. Das HSD-System erreicht 77
+  % Käufer-Akzeptanz – weit über Branchenschnitt.
+source: D1EV
+image: /images/byd-setzt-auf-650-tops-chip-von-horizon-robotics-d1ev-ed6905.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - E-Auto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300379"
+original_url: 'https://www.d1ev.com/news/shichang/300379'
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics: []
+marketRelevance: de_available
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD setzt auf 650-TOPS-Chip von Horizon Robotics

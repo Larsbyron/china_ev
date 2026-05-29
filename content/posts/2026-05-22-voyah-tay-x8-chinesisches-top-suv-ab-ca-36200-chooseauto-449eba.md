@@ -1,15 +1,29 @@
 ---
-title: "Voyah Tay X8: Chinesisches Top-SUV ab ca. 36.200 €"
+title: 'Voyah Tay X8: Chinesisches Top-SUV ab ca. 36.200 €'
 date: 2026-05-22T12:14:59.198Z
-description: "Voyah (岚图) bringt den Tay X8 als Fünf-Sitzer-SUV in China auf den Markt. Das Modell bietet PHEV- und EV-Antrieb, bis zu 727 km Reichweite (CLTC) und moderne Fahrassistenz. Preis: ca. 36.200 bis 47.300 €."
-source: "ChooseAuto"
-
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Voyah (岚图) bringt den Tay X8 als Fünf-Sitzer-SUV in China auf den Markt. Das
+  Modell bietet PHEV- und EV-Antrieb, bis zu 727 km Reichweite (CLTC) und
+  moderne Fahrassistenz. Preis: ca. 36.200 bis 47.300 €.
+source: ChooseAuto
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/909793.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/909793.shtml'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Voyah
+confidence: 0.95
 ---
 
 # Voyah Tay X8: Chinesisches Top-SUV ab ca. 36.200 €

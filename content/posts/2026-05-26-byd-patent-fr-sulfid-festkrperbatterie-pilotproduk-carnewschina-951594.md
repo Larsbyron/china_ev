@@ -1,15 +1,33 @@
 ---
-title: "BYD: Patent für Sulfid-Festkörperbatterie – Pilotproduktion 2027"
+title: 'BYD: Patent für Sulfid-Festkörperbatterie – Pilotproduktion 2027'
 date: 2026-05-26T20:02:19.298Z
-description: "BYD hat ein Patent für eine Verbund-Festelektrolytmembran eingereicht. Chefwissenschaftler Lian Yubo nennt technische Hürden, China treibt die Entwicklung von Festkörperbatterien bis 2027 voran."
-source: "CarNewsChina"
-image: "/images/byd-patent-fr-sulfid-festkrperbatterie-pilotproduk-carnewschina-951594.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  BYD hat ein Patent für eine Verbund-Festelektrolytmembran eingereicht.
+  Chefwissenschaftler Lian Yubo nennt technische Hürden, China treibt die
+  Entwicklung von Festkörperbatterien bis 2027 voran.
+source: CarNewsChina
+image: >-
+  /images/byd-patent-fr-sulfid-festkrperbatterie-pilotproduk-carnewschina-951594.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production/"
+original_url: >-
+  https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD: Patent für Sulfid-Festkörperbatterie – Pilotproduktion 2027

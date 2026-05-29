@@ -1,15 +1,31 @@
 ---
-title: "Ideal vs. Hongmeng: Die Wette auf die unterschiedlichen Pfade der Agent-Entwicklung"
+title: >-
+  Ideal vs. Hongmeng: Die Wette auf die unterschiedlichen Pfade der
+  Agent-Entwicklung
 date: 2026-05-09T22:56:29.625Z
-description: "Die gerade zu Ende gegangene Beijing Auto Show stand noch ganz im Zeichen der KI, doch der Fokus des Wettstreits hat sich leise verschoben. Der Angelpunkt des Wettbewerbs scheint sich weitgehend vom i..."
-source: "Sina"
-image: "/images/ideal-vs-hongmeng-die-wette-auf-die-unterschiedlic-sina-f2e617.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Die gerade zu Ende gegangene Beijing Auto Show stand noch ganz im Zeichen der
+  KI, doch der Fokus des Wettstreits hat sich leise verschoben. Der Angelpunkt
+  des Wettbewerbs scheint sich weitgehend vom i...
+source: Sina
+image: /images/ideal-vs-hongmeng-die-wette-auf-die-unterschiedlic-sina-f2e617.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: 'https://auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml'
 read_time_minutes: 7
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - MG
+confidence: 0.85
 ---
 
 # Ideal vs. Hongmeng: Die Wette auf die unterschiedlichen Pfade der Agent-Entwicklung

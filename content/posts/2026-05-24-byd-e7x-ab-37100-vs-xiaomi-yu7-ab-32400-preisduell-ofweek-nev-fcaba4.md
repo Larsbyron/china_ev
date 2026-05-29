@@ -1,15 +1,28 @@
 ---
-title: "BYD E7X ab 37.100 € vs. Xiaomi YU7 ab 32.400 € – Preisduell"
+title: BYD E7X ab 37.100 € vs. Xiaomi YU7 ab 32.400 € – Preisduell
 date: 2026-05-24T11:16:39.655Z
-description: "BYD bringt den E7X als Premium-SUV ab 37.100 €, Xiaomi kontert mit dem günstigeren YU7 ab 32.400 €. Beide Modelle überlappen sich preislich – ein harter Wettbewerb im chinesischen Elektro-SUV-Markt."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "Tesla", "Reichweite", "E-Auto"]
+description: >-
+  BYD bringt den E7X als Premium-SUV ab 37.100 €, Xiaomi kontert mit dem
+  günstigeren YU7 ab 32.400 €. Beide Modelle überlappen sich preislich – ein
+  harter Wettbewerb im chinesischen Elektro-SUV-Markt.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - Tesla
+  - Reichweite
+  - E-Auto
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - BYD
+  - Xiaomi
+confidence: 0.95
 ---
 
 # BYD E7X ab 37.100 € vs. Xiaomi YU7 ab 32.400 € – Preisduell

@@ -1,15 +1,44 @@
 ---
-title: "Der Verteidigungskampf der Joint Ventures: Vorschau auf die neuen Modelle der Shanghai Auto Show 2026"
+title: >-
+  Der Verteidigungskampf der Joint Ventures: Vorschau auf die neuen Modelle der
+  Shanghai Auto Show 2026
 date: 2026-05-09T23:15:41.239Z
-description: "Mercedes-Benz GLC LBMW i7BMW iX3BMW i3 LimousineAudi E7XVW ID. AURA T6Jetta XWeitere Joint-Venture-Modelle und Rückkehrer Auch die französischen Marken Peugeot und Citroën sind auf der Shanghai Auto Show 2026 mit einem vollständi..."
-source: "OFweek NEV"
-image: "/images/ai-der-verteidigungskampf-der-joint-ventures-vorschau-ofweek-nev-150277.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "Zoll", "Elektroauto", "EV"]
+description: >-
+  Mercedes-Benz GLC LBMW i7BMW iX3BMW i3 LimousineAudi E7XVW ID. AURA T6Jetta
+  XWeitere Joint-Venture-Modelle und Rückkehrer Auch die französischen Marken
+  Peugeot und Citroën sind auf der Shanghai Auto Show 2026 mit einem
+  vollständi...
+source: OFweek NEV
+image: >-
+  /images/ai-der-verteidigungskampf-der-joint-ventures-vorschau-ofweek-nev-150277.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 8
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - markt-absatz-zulassungen
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Mercedes
+  - BMW
+  - Audi
+  - VW
+  - Jetta
+  - Peugeot
+  - Citroën
+  - Hyundai
+  - Toyota
+  - Honda
+confidence: 0.9
 ---
 
 # Der Verteidigungskampf der Joint Ventures: Vorschau auf die neuen Modelle der Shanghai Auto Show 2026

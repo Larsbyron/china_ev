@@ -1,15 +1,31 @@
 ---
-title: "Deepal will jedes zweite Auto exportieren – Europa im Visier"
+title: Deepal will jedes zweite Auto exportieren – Europa im Visier
 date: 2026-05-25T06:29:02.632Z
-description: "Die chinesische Marke Deepal (Changan) plant eine massive Exportoffensive: 2025 sollen 100.000 Fahrzeuge ins Ausland gehen, bis 2030 die Hälfte der Produktion. Auch Europa steht auf der Liste – ein Marktstart ist jedoch nicht terminiert."
-source: "D1EV"
-image: "/images/deepal-will-jedes-zweite-auto-exportieren-europa-i-d1ev-1cf05d.webp"
-category: "news"
-
-tags: ["Tesla", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Die chinesische Marke Deepal (Changan) plant eine massive Exportoffensive:
+  2025 sollen 100.000 Fahrzeuge ins Ausland gehen, bis 2030 die Hälfte der
+  Produktion. Auch Europa steht auf der Liste – ein Marktstart ist jedoch nicht
+  terminiert.
+source: D1EV
+image: /images/deepal-will-jedes-zweite-auto-exportieren-europa-i-d1ev-1cf05d.webp
+category: news
+tags:
+  - Tesla
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300376"
+original_url: 'https://www.d1ev.com/news/shichang/300376'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - markt-absatz-zulassungen
+  - industrie-produktion-lieferkette
+marketRelevance: eu_planned
+brands:
+  - Deepal
+  - Changan
+confidence: 0.9
 ---
 
 # Deepal will jedes zweite Auto exportieren – Europa im Visier

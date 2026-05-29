@@ -1,15 +1,32 @@
 ---
-title: "Xiaomi YU7 Standard: ab 29.900 € zurück im Programm"
+title: 'Xiaomi YU7 Standard: ab 29.900 € zurück im Programm'
 date: 2026-05-27T20:10:22.164Z
-description: "Xiaomi bringt die Standardversion des YU7 zurück (23,35 Mio. Yuan / ca. 29.900 €) – als direkte Antwort auf das Tesla Model Y. Die Chinesen hatten die Basisversion zuvor gestrichen, nun revidiert CEO Lei Jun den Schritt. Nur in China."
-source: "Sina"
-image: "/images/xiaomi-yu7-standard-ab-29900-zurck-im-programm-sina-68e962.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Xiaomi SU", "Tesla", "EV"]
+description: >-
+  Xiaomi bringt die Standardversion des YU7 zurück (23,35 Mio. Yuan / ca. 29.900
+  €) – als direkte Antwort auf das Tesla Model Y. Die Chinesen hatten die
+  Basisversion zuvor gestrichen, nun revidiert CEO Lei Jun den Schritt. Nur in
+  China.
+source: Sina
+image: /images/xiaomi-yu7-standard-ab-29900-zurck-im-programm-sina-68e962.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Xiaomi SU
+  - Tesla
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - Tesla
+confidence: 0.95
 ---
 
 # Xiaomi YU7 Standard: ab 29.900 € zurück im Programm

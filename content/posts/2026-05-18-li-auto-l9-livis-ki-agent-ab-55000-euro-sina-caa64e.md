@@ -1,15 +1,31 @@
 ---
-title: "Li Auto L9 Livis: KI-Agent ab 55.000 Euro"
+title: 'Li Auto L9 Livis: KI-Agent ab 55.000 Euro'
 date: 2026-05-18T06:17:51.425Z
-description: "Li Auto zeigt auf der Peking Auto Show den L9 mit KI-Agenten „Livis'. Der EREV-Flitzer startet in China ab 42,98万元 (ca. 55.000 €). Ein Europa-Start ist nicht bestätigt."
-source: "Sina"
-image: "/images/li-auto-l9-livis-ki-agent-ab-55000-euro-sina-caa64e.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Li Auto zeigt auf der Peking Auto Show den L9 mit KI-Agenten „Livis'. Der
+  EREV-Flitzer startet in China ab 42,98万元 (ca. 55.000 €). Ein Europa-Start ist
+  nicht bestätigt.
+source: Sina
+image: /images/li-auto-l9-livis-ki-agent-ab-55000-euro-sina-caa64e.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9 Livis: KI-Agent ab 55.000 Euro

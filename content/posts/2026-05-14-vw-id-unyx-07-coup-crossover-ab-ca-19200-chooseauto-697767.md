@@ -1,15 +1,30 @@
 ---
-title: "VW ID. UNYX 07: Coupé-Crossover ab ca. 19.200 €"
+title: 'VW ID. UNYX 07: Coupé-Crossover ab ca. 19.200 €'
 date: 2026-05-14T19:35:41.676Z
-description: "Der neue VW ID. UNYX 07 verbindet Coupé-Design mit 711-Liter-Kofferraum. In China ab ca. 19.200 €. Auch der ID. UNYX 06 erhält Updates: mehr Reichweite und Autobahnpilot."
-source: "ChooseAuto"
-image: "/images/vw-id-unyx-07-coup-crossover-ab-ca-19200-chooseauto-697767.webp"
-category: "news"
-
-tags: ["BYD", "MG", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Der neue VW ID. UNYX 07 verbindet Coupé-Design mit 711-Liter-Kofferraum. In
+  China ab ca. 19.200 €. Auch der ID. UNYX 06 erhält Updates: mehr Reichweite
+  und Autobahnpilot.
+source: ChooseAuto
+image: /images/vw-id-unyx-07-coup-crossover-ab-ca-19200-chooseauto-697767.webp
+category: news
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/902794.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/902794.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - VW
+confidence: 0.95
 ---
 
 # VW ID. UNYX 07: Coupé-Crossover ab ca. 19.200 €

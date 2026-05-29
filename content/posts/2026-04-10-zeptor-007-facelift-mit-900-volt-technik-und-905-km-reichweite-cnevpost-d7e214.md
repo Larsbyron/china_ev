@@ -1,13 +1,28 @@
 ---
-title: "Zeekr 007 Facelift: 900-Volt-Architektur und bis zu 905 Kilometer Reichweite"
+title: 'Zeekr 007 Facelift: 900-Volt-Architektur und bis zu 905 Kilometer Reichweite'
 date: 2026-04-10T11:00:00.000Z
-description: "Zeekr präsentiert das überarbeitete 007-Modell mit 900-Volt-Technik, 6C-Schnellladung und einem Startpreis von 193.900 Yuan – rund 28.400 Euro."
-source: "CnEVPost"
-image: "/images/ai-zeptor-007-facelift-mit-900-volt-technik-und-905-km-reichweite-cnevpost-d7e214.webp"
-category: "news"
-tags: ["Zeekr", "007", "Facelift", "900V", "Schnellladung"]
+description: >-
+  Zeekr präsentiert das überarbeitete 007-Modell mit 900-Volt-Technik,
+  6C-Schnellladung und einem Startpreis von 193.900 Yuan – rund 28.400 Euro.
+source: CnEVPost
+image: >-
+  /images/ai-zeptor-007-facelift-mit-900-volt-technik-und-905-km-reichweite-cnevpost-d7e214.webp
+category: news
+tags:
+  - Zeekr
+  - '007'
+  - Facelift
+  - 900V
+  - Schnellladung
 draft: false
-original_url: "https://cnevpost.com/2026/04/10/zeekr-launches-updated-007-series/"
+original_url: 'https://cnevpost.com/2026/04/10/zeekr-launches-updated-007-series/'
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Zeekr
+confidence: 0.95
 ---
 
 # Zeekr 007 Facelift: 900-Volt-Architektur und bis zu 905 Kilometer Reichweite

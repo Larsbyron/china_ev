@@ -1,15 +1,30 @@
 ---
-title: "Maextro S800 Grand Design: Luxus-Limousine ab 192.000 €"
+title: 'Maextro S800 Grand Design: Luxus-Limousine ab 192.000 €'
 date: 2026-05-18T13:56:29.233Z
-description: "Huawei-Joint-Venture Maextro zeigt den S800 Grand Design – eine ultraluxuriöse Langversion mit Gold-Details und 5,48 Metern Länge. Der Marktstart in China ist für Juni 2026 geplant."
-source: "CarNewsChina"
-image: "/images/maextro-s800-grand-design-luxus-limousine-ab-19200-carnewschina-69054d.webp"
-category: "news"
-
-tags: ["MG", "Reichweite", "Zoll", "EV"]
+description: >-
+  Huawei-Joint-Venture Maextro zeigt den S800 Grand Design – eine ultraluxuriöse
+  Langversion mit Gold-Details und 5,48 Metern Länge. Der Marktstart in China
+  ist für Juni 2026 geplant.
+source: CarNewsChina
+image: >-
+  /images/maextro-s800-grand-design-luxus-limousine-ab-19200-carnewschina-69054d.webp
+category: news
+tags:
+  - MG
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/maextro-s800-grand-design-official-images-released-a-luxury-sedan-with-a-potential-300000-usd-price-tag/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/maextro-s800-grand-design-official-images-released-a-luxury-sedan-with-a-potential-300000-usd-price-tag/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Maextro
+confidence: 0.95
 ---
 
 # Maextro S800 Grand Design: Luxus-Limousine ab 192.000 €

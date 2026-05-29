@@ -1,15 +1,34 @@
 ---
-title: "Denza N9 Flash Charge Edition: 912 PS ab 52.500 € in China"
+title: 'Denza N9 Flash Charge Edition: 912 PS ab 52.500 € in China'
 date: 2026-05-18T19:29:11.579Z
-description: "BYDs Premiummarke Denza bringt den N9 Flash Charge Edition in China ab 52.500 € an den Start. Das 912 PS starke PHEV-SUV bietet 420 km elektrische Reichweite und luxuriöse Ausstattung."
-source: "CarNewsChina"
-image: "/images/denza-n9-flash-charge-edition-912-ps-ab-52500-in-c-carnewschina-f833f3.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Ladestation", "Zoll"]
+description: >-
+  BYDs Premiummarke Denza bringt den N9 Flash Charge Edition in China ab 52.500
+  € an den Start. Das 912 PS starke PHEV-SUV bietet 420 km elektrische
+  Reichweite und luxuriöse Ausstattung.
+source: CarNewsChina
+image: >-
+  /images/denza-n9-flash-charge-edition-912-ps-ab-52500-in-c-carnewschina-f833f3.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/byds-denza-n9-flash-charge-edition-launches-in-china-starting-at-60300-usd/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/byds-denza-n9-flash-charge-edition-launches-in-china-starting-at-60300-usd/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+  - Denza
+confidence: 0.95
 ---
 
 # Denza N9 Flash Charge Edition: 912 PS ab 52.500 € in China

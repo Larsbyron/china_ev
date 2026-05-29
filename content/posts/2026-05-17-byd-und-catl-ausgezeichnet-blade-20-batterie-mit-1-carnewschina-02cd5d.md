@@ -1,15 +1,34 @@
 ---
-title: "BYD und CATL ausgezeichnet: Blade-2.0-Batterie mit 1.218 km CLTC-Reichweite"
+title: 'BYD und CATL ausgezeichnet: Blade-2.0-Batterie mit 1.218 km CLTC-Reichweite'
 date: 2026-05-17T19:04:10.665Z
-description: "Chinas erste „Golden Lithium Awards' kürten BYD und CATL für Feststoffbatterien und Blade 2.0. BYDs Blade 2.0 soll bis zu 1.218 km CLTC-Reichweite bieten – unbestätigt, aber ein klares Signal an die Branche."
-source: "CarNewsChina"
-image: "/images/byd-und-catl-ausgezeichnet-blade-20-batterie-mit-1-carnewschina-02cd5d.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "E-Auto", "EV", "Marktanteil"]
+description: >-
+  Chinas erste „Golden Lithium Awards' kürten BYD und CATL für
+  Feststoffbatterien und Blade 2.0. BYDs Blade 2.0 soll bis zu 1.218 km
+  CLTC-Reichweite bieten – unbestätigt, aber ein klares Signal an die Branche.
+source: CarNewsChina
+image: >-
+  /images/byd-und-catl-ausgezeichnet-blade-20-batterie-mit-1-carnewschina-02cd5d.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - E-Auto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+  - CATL
+confidence: 0.9
 ---
 
 # BYD und CATL ausgezeichnet: Blade-2.0-Batterie mit 1.218 km CLTC-Reichweite

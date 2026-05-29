@@ -1,15 +1,28 @@
 ---
-title: "Li Auto bis 2026: KI-Agent-Strategie als Kampfansage an Huawei"
+title: 'Li Auto bis 2026: KI-Agent-Strategie als Kampfansage an Huawei'
 date: 2026-05-12T10:38:30.492Z
-description: "Auf der Auto China in Peking liefern sich Li Auto (理想) und HIMA (鸿蒙智行) ein Duell der KI-Architekturen. Li Auto setzt auf einen „ganzheitlichen Roboter“ bis 2026, Huawei auf ein Ökosystem mit 10 Milliarden Geräten."
-source: "Sina"
-image: "/images/li-auto-bis-2026-ki-agent-strategie-als-kampfansag-sina-650283.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "EV"]
+description: >-
+  Auf der Auto China in Peking liefern sich Li Auto (理想) und HIMA (鸿蒙智行) ein
+  Duell der KI-Architekturen. Li Auto setzt auf einen „ganzheitlichen Roboter“
+  bis 2026, Huawei auf ein Ökosystem mit 10 Milliarden Geräten.
+source: Sina
+image: /images/li-auto-bis-2026-ki-agent-strategie-als-kampfansag-sina-650283.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.9
 ---
 
 # Li Auto bis 2026: KI-Agent-Strategie als Kampfansage an Huawei

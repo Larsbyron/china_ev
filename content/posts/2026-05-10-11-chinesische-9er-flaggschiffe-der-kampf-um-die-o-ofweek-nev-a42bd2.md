@@ -1,16 +1,39 @@
 ---
-title: "11 chinesische 9er-Flaggschiffe: Der Kampf um die Oberklasse beginnt"
+title: '11 chinesische 9er-Flaggschiffe: Der Kampf um die Oberklasse beginnt'
 date: 2026-05-10T20:37:29.851Z
-description: "2026 wird zum Jahr der chinesischen 9er-Linie: Elf neue Flaggschiff-Modelle von BYD, Li Auto, AITO & Co. drängen in den Markt. Preise zwischen 30.000 und 50.000 Yuan (ca. 3.800–6.400 €) – ein Preiskampf der Superlative."
-source: "OFweek NEV"
-image: "/images/ai-11-chinesische-9er-flaggschiffe-der-kampf-um-die-o-ofweek-nev-a42bd2.webp"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "XPeng", "Li Auto", "Zeekr", "Reichweite", "EV"]
+description: >-
+  2026 wird zum Jahr der chinesischen 9er-Linie: Elf neue Flaggschiff-Modelle
+  von BYD, Li Auto, AITO & Co. drängen in den Markt. Preise zwischen 30.000 und
+  50.000 Yuan (ca. 3.800–6.400 €) – ein Preiskampf der Superlative.
+source: OFweek NEV
+image: >-
+  /images/ai-11-chinesische-9er-flaggschiffe-der-kampf-um-die-o-ofweek-nev-a42bd2.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - XPeng
+  - Li Auto
+  - Zeekr
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-02/ART-71000-8220-30681401.html"
+original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30681401.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - NIO
+  - XPeng
+  - Li Auto
+  - Zeekr
+  - AITO
+  - Stelato
+confidence: 0.9
 ---
 
 # 11 chinesische 9er-Flaggschiffe: Der Kampf um die Oberklasse beginnt

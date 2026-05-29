@@ -1,15 +1,32 @@
 ---
-title: "7 Modelle im Vorverkauf: Von 16.400 bis 56.300 €"
+title: '7 Modelle im Vorverkauf: Von 16.400 bis 56.300 €'
 date: 2026-05-16T05:30:45.520Z
-description: "Sieben neue Modelle starten in China den Vorverkauf – vom 16.400-Euro-Kompakt-SUV bis zur 56.300-Euro-Oberklasse-Limousine. Darunter Geely Galaxy REV, AITO M8, Hongqi ES und Luxeed Z7. Wir fassen die Daten zusammen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Geely", "Batterie", "Reichweite", "EV"]
+description: >-
+  Sieben neue Modelle starten in China den Vorverkauf – vom
+  16.400-Euro-Kompakt-SUV bis zur 56.300-Euro-Oberklasse-Limousine. Darunter
+  Geely Galaxy REV, AITO M8, Hongqi ES und Luxeed Z7. Wir fassen die Daten
+  zusammen.
+source: OFweek NEV
+category: news
+tags:
+  - Geely
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30683949.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30683949.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Geely
+  - AITO
+  - Hongqi
+  - Luxeed
+confidence: 0.95
 ---
 
 # 7 Modelle im Vorverkauf: Von 16.400 bis 56.300 €

@@ -1,15 +1,28 @@
 ---
-title: "Geely-Tochter Volvo ernennt neuen China-CEO Duan Jianjun"
+title: Geely-Tochter Volvo ernennt neuen China-CEO Duan Jianjun
 date: 2026-05-12T10:35:49.867Z
-description: "Volvo (gehört zu Geely) tauscht die China-Führung aus: Duan Jianjun übernimmt als President & CEO für Greater China von Yuan Xiaolin, der nach 16 Jahren ausscheidet."
-source: "Sina"
-image: "/images/geely-tochter-volvo-ernennt-neuen-china-ceo-duan-j-sina-e9fecd.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "NIO"]
+description: >-
+  Volvo (gehört zu Geely) tauscht die China-Führung aus: Duan Jianjun übernimmt
+  als President & CEO für Greater China von Yuan Xiaolin, der nach 16 Jahren
+  ausscheidet.
+source: Sina
+image: /images/geely-tochter-volvo-ernennt-neuen-china-ceo-duan-j-sina-e9fecd.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - NIO
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Geely
+  - Volvo
+confidence: 0.95
 ---
 
 # Geely-Tochter Volvo ernennt neuen China-CEO Duan Jianjun

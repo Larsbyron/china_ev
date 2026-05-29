@@ -1,15 +1,34 @@
 ---
-title: "Denza Z9 GT: Batterietausch für unter 10.200 Euro"
+title: 'Denza Z9 GT: Batterietausch für unter 10.200 Euro'
 date: 2026-05-22T06:08:09.607Z
-description: "Ein Besitzer des Denza Z9 GT enthüllt: Der Austausch der 122,5-kWh-Blade-Battery-2.0 kostet nur 78.700 Yuan – umgerechnet rund 10.100 €. BYD-Submarke Denza plant Europa-Start. Preis für Deutschland noch offen."
-source: "CarNewsChina"
-image: "/images/denza-z9-gt-batterietausch-fr-unter-10200-euro-carnewschina-c5778e.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  Ein Besitzer des Denza Z9 GT enthüllt: Der Austausch der
+  122,5-kWh-Blade-Battery-2.0 kostet nur 78.700 Yuan – umgerechnet rund 10.100
+  €. BYD-Submarke Denza plant Europa-Start. Preis für Deutschland noch offen.
+source: CarNewsChina
+image: >-
+  /images/denza-z9-gt-batterietausch-fr-unter-10200-euro-carnewschina-c5778e.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/byd-blade-battery-2-0-replacement-less-than-11600-usd-in-china-says-denza-z9-gt-ev-owner/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/byd-blade-battery-2-0-replacement-less-than-11600-usd-in-china-says-denza-z9-gt-ev-owner/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: eu_planned
+brands:
+  - BYD
+  - Denza
+confidence: 0.9
 ---
 
 # Denza Z9 GT: Batterietausch für unter 10.200 Euro

@@ -1,15 +1,31 @@
 ---
-title: "NIO ET5 ab 47.500 €: China-Premiummarke setzt auf Realismus"
+title: 'NIO ET5 ab 47.500 €: China-Premiummarke setzt auf Realismus'
 date: 2026-05-19T06:08:29.845Z
-description: "NIO (蔚来) liefert über 500.000 E-Autos aus und investiert 13,4 Mrd. Yuan in Forschung. In Deutschland erhältlich: ET5 ab 47.500 € mit 580 km WLTP-Reichweite, vier NIO Houses und fünf Akku-Wechselstationen."
-source: "Sina"
-image: "/images/nio-et5-ab-47500-china-premiummarke-setzt-auf-real-sina-820403.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Onvo", "Tesla", "Reichweite"]
+description: >-
+  NIO (蔚来) liefert über 500.000 E-Autos aus und investiert 13,4 Mrd. Yuan in
+  Forschung. In Deutschland erhältlich: ET5 ab 47.500 € mit 580 km
+  WLTP-Reichweite, vier NIO Houses und fünf Akku-Wechselstationen.
+source: Sina
+image: /images/nio-et5-ab-47500-china-premiummarke-setzt-auf-real-sina-820403.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - Onvo
+  - Tesla
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: de_available
+brands:
+  - NIO
+confidence: 0.9
 ---
 
 # NIO ET5 ab 47.500 €: China-Premiummarke setzt auf Realismus

@@ -1,15 +1,31 @@
 ---
-title: "Aion N60: E-Limousine mit Lidar und 9.000 Vorbestellungen"
+title: 'Aion N60: E-Limousine mit Lidar und 9.000 Vorbestellungen'
 date: 2026-05-16T05:33:28.034Z
-description: "Aion bringt den N60 in China auf den Markt – serienmäßig mit Lidar und 128 Ausstattungsdetails. Der Hersteller meldet 32.727 Auslieferungen im April (+15,6%). Ein Europa-Start steht noch nicht fest."
-source: "Sina"
-image: "/images/aion-n60-e-limousine-mit-lidar-und-9000-vorbestell-sina-4dc355.webp"
-category: "news"
-brand: "Aion"
-tags: ["Aion", "MG", "Reichweite", "EV"]
+description: >-
+  Aion bringt den N60 in China auf den Markt – serienmäßig mit Lidar und 128
+  Ausstattungsdetails. Der Hersteller meldet 32.727 Auslieferungen im April
+  (+15,6%). Ein Europa-Start steht noch nicht fest.
+source: Sina
+image: /images/aion-n60-e-limousine-mit-lidar-und-9000-vorbestell-sina-4dc355.webp
+category: news
+brand: Aion
+tags:
+  - Aion
+  - MG
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - markt-absatz-zulassungen
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Aion
+confidence: 0.95
 ---
 
 # Aion N60: E-Limousine mit Lidar und 9.000 Vorbestellungen

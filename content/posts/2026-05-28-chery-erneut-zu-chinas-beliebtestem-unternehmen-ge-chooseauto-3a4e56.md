@@ -1,15 +1,25 @@
 ---
-title: "Chery erneut zu „Chinas beliebtestem Unternehmen“ gewählt"
+title: Chery erneut zu „Chinas beliebtestem Unternehmen“ gewählt
 date: 2026-05-28T06:18:47.289Z
-description: "Der chinesische Autobauer Chery (奇瑞) wurde zum zweiten Mal in Folge vom „Fortune“-Magazin ausgezeichnet. Mit 853.098 verkauften Autos in vier Monaten und einer Exportsteigerung von 66,3 % festigt die Marke ihre Spitzenposition."
-source: "ChooseAuto"
-image: "/images/chery-erneut-zu-chinas-beliebtestem-unternehmen-ge-chooseauto-3a4e56.webp"
-category: "news"
-
+description: >-
+  Der chinesische Autobauer Chery (奇瑞) wurde zum zweiten Mal in Folge vom
+  „Fortune“-Magazin ausgezeichnet. Mit 853.098 verkauften Autos in vier Monaten
+  und einer Exportsteigerung von 66,3 % festigt die Marke ihre Spitzenposition.
+source: ChooseAuto
+image: >-
+  /images/chery-erneut-zu-chinas-beliebtestem-unternehmen-ge-chooseauto-3a4e56.webp
+category: news
 tags: []
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/914913.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/914913.shtml'
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: global_industry
+brands:
+  - Chery
+confidence: 0.9
 ---
 
 # Chery erneut zu „Chinas beliebtestem Unternehmen“ gewählt

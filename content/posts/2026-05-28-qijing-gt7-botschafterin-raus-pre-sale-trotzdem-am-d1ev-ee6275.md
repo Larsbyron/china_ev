@@ -1,15 +1,23 @@
 ---
-title: "Qijing GT7: Botschafterin raus, Pre-Sale trotzdem am 29. Mai"
+title: 'Qijing GT7: Botschafterin raus, Pre-Sale trotzdem am 29. Mai'
 date: 2026-05-28T13:48:01.763Z
-description: "Nach nur elf Tagen beendet Qijing (GAC/Huawei) die Zusammenarbeit mit Mode-Expertin Su Mang. Grund: ein Shitstorm um ihre kontroversen Aussagen. Der GT7 startet dennoch planmäßig am 29. Mai in den Vorverkauf."
-source: "D1EV"
-image: "/images/qijing-gt7-botschafterin-raus-pre-sale-trotzdem-am-d1ev-ee6275.webp"
-category: "news"
-
+description: >-
+  Nach nur elf Tagen beendet Qijing (GAC/Huawei) die Zusammenarbeit mit
+  Mode-Expertin Su Mang. Grund: ein Shitstorm um ihre kontroversen Aussagen. Der
+  GT7 startet dennoch planmäßig am 29. Mai in den Vorverkauf.
+source: D1EV
+image: /images/qijing-gt7-botschafterin-raus-pre-sale-trotzdem-am-d1ev-ee6275.webp
+category: news
 tags: []
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300876"
+original_url: 'https://www.d1ev.com/news/shichang/300876'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Qijing
+confidence: 0.95
 ---
 
 # Qijing GT7: Botschafterin raus, Pre-Sale trotzdem am 29. Mai

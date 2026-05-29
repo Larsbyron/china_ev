@@ -1,15 +1,28 @@
 ---
-title: "Fanghezi 7, ID.ERA 9X, Chang'an NX8: Drei China-SUVs ab 19.200 € im Vergleichstest"
+title: >-
+  Fanghezi 7, ID.ERA 9X, Chang'an NX8: Drei China-SUVs ab 19.200 € im
+  Vergleichstest
 date: 2026-05-18T13:56:29.893Z
-description: "Drei chinesische Mittelklasse-SUVs konkurrieren um Familien: Der Fanghezi 7 (ab 24.300 €), der ID.ERA 9X (ab 44.800 €) und der Chang'an NX8 (ab 19.200 €). Alle setzen auf elektrifizierte Antriebe, unterscheiden sich aber in Größe, Ausstattung und Preis. Ein erster Fahrbericht."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Drei chinesische Mittelklasse-SUVs konkurrieren um Familien: Der Fanghezi 7
+  (ab 24.300 €), der ID.ERA 9X (ab 44.800 €) und der Chang'an NX8 (ab 19.200 €).
+  Alle setzen auf elektrifizierte Antriebe, unterscheiden sich aber in Größe,
+  Ausstattung und Preis. Ein erster Fahrbericht.
+source: OFweek NEV
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+brands: []
+confidence: 0.5
 ---
 
 # Fanghezi 7, ID.ERA 9X, Chang'an NX8: Drei China-SUVs ab 19.200 € im Vergleichstest

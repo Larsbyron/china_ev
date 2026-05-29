@@ -1,15 +1,29 @@
 ---
-title: "XPeng GX: Lidar ade – doch Pure Vision wird teurer"
+title: 'XPeng GX: Lidar ade – doch Pure Vision wird teurer'
 date: 2026-05-22T06:13:26.458Z
-description: "XPeng (小鹏) streicht beim GX den Lidar und setzt auf Pure Vision. Laut CEO He Xiaopeng spart das 1.500 Yuan (ca. 190 €) pro Fahrzeug – doch Cloud-Investitionen explodieren. Eine Analyse der neuen Kostenfalle."
-source: "ChooseAuto"
-image: "/images/xpeng-gx-lidar-ade-doch-pure-vision-wird-teurer-chooseauto-d2155b.webp"
-category: "news"
-brand: "XPeng"
-tags: ["XPeng", "Xpeng", "Tesla"]
+description: >-
+  XPeng (小鹏) streicht beim GX den Lidar und setzt auf Pure Vision. Laut CEO He
+  Xiaopeng spart das 1.500 Yuan (ca. 190 €) pro Fahrzeug – doch
+  Cloud-Investitionen explodieren. Eine Analyse der neuen Kostenfalle.
+source: ChooseAuto
+image: /images/xpeng-gx-lidar-ade-doch-pure-vision-wird-teurer-chooseauto-d2155b.webp
+category: news
+brand: XPeng
+tags:
+  - XPeng
+  - Xpeng
+  - Tesla
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/908752.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/908752.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.9
 ---
 
 # XPeng GX: Lidar ade – doch Pure Vision wird teurer

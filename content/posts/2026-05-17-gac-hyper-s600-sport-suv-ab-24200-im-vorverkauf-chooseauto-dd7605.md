@@ -1,15 +1,26 @@
 ---
-title: "GAC Hyper S600: Sport-SUV ab 24.200 € im Vorverkauf"
+title: 'GAC Hyper S600: Sport-SUV ab 24.200 € im Vorverkauf'
 date: 2026-05-17T11:16:23.323Z
-description: "GAC Hyper (昊铂) startet den Vorverkauf des S600. Der Sport-SUV mit 370 kW Systemleistung ist als BEV und EREV ab 18,89 Wan Yuan (ca. 24.200 €) erhältlich. Ein Marktstart in Europa ist noch nicht terminiert."
-source: "ChooseAuto"
-
-category: "news"
-
-tags: ["MG", "Tesla", "EV"]
+description: >-
+  GAC Hyper (昊铂) startet den Vorverkauf des S600. Der Sport-SUV mit 370 kW
+  Systemleistung ist als BEV und EREV ab 18,89 Wan Yuan (ca. 24.200 €)
+  erhältlich. Ein Marktstart in Europa ist noch nicht terminiert.
+source: ChooseAuto
+category: news
+tags:
+  - MG
+  - Tesla
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/904864.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/904864.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - GAC
+confidence: 0.95
 ---
 
 # GAC Hyper S600: Sport-SUV ab 24.200 € im Vorverkauf

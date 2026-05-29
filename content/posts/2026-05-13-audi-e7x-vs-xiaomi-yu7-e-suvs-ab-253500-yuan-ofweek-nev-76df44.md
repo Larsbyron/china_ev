@@ -1,15 +1,25 @@
 ---
-title: "Audi E7X vs. Xiaomi YU7: E-SUVs ab 253.500 Yuan"
+title: 'Audi E7X vs. Xiaomi YU7: E-SUVs ab 253.500 Yuan'
 date: 2026-05-13T23:36:11.588Z
-description: "Audi hat den E7X in China im Vorverkauf gestartet, ab 289.800 Yuan (ca. 37.100 €). Er trifft auf den Xiaomi YU7 ab 253.500 Yuan (ca. 32.400 €). Zwei Design-Philosophien konkurrieren um Kunden."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Reichweite"]
+description: >-
+  Audi hat den E7X in China im Vorverkauf gestartet, ab 289.800 Yuan (ca. 37.100
+  €). Er trifft auf den Xiaomi YU7 ab 253.500 Yuan (ca. 32.400 €). Zwei
+  Design-Philosophien konkurrieren um Kunden.
+source: OFweek NEV
+category: news
+tags:
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Audi E7X vs. Xiaomi YU7: E-SUVs ab 253.500 Yuan

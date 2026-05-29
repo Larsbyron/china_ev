@@ -1,15 +1,31 @@
 ---
-title: "KI-Cockpit: So will Li Auto HIMA mit neuer Architektur schlagen"
+title: 'KI-Cockpit: So will Li Auto HIMA mit neuer Architektur schlagen'
 date: 2026-05-14T11:54:02.799Z
-description: "Auf der Peking Auto Show liefern sich Li Auto und HIMA einen Wettstreit um den besten KI-Agenten im Auto. Li Auto setzt auf eine End-to-End-Architektur, HIMA auf ein Cloud-Brain – mit unterschiedlichen Strategien für Europas Markt."
-source: "Sina"
-image: "/images/ki-cockpit-so-will-li-auto-hima-mit-neuer-architek-sina-e96f8b.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "Elektroauto", "EV"]
+description: >-
+  Auf der Peking Auto Show liefern sich Li Auto und HIMA einen Wettstreit um den
+  besten KI-Agenten im Auto. Li Auto setzt auf eine End-to-End-Architektur, HIMA
+  auf ein Cloud-Brain – mit unterschiedlichen Strategien für Europas Markt.
+source: Sina
+image: /images/ki-cockpit-so-will-li-auto-hima-mit-neuer-architek-sina-e96f8b.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: eu_planned
+brands:
+  - Li Auto
+  - HIMA
+confidence: 0.9
 ---
 
 # KI-Cockpit: So will Li Auto HIMA mit neuer Architektur schlagen

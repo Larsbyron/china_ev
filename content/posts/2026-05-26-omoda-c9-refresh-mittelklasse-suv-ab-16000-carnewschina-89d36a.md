@@ -1,15 +1,32 @@
 ---
-title: "Omoda C9 Refresh: Mittelklasse-SUV ab 16.000 €"
+title: 'Omoda C9 Refresh: Mittelklasse-SUV ab 16.000 €'
 date: 2026-05-26T06:03:08.123Z
-description: "Chery bringt den überarbeiteten Omoda C9 als Verbrenner und Plug-in-Hybrid auf den chinesischen Markt. Der Mittelklasse-SUV startet bei umgerechnet 16.000 € – ein europäischer Marktstart gilt als wahrscheinlich."
-source: "CarNewsChina"
-image: "/images/omoda-c9-refresh-mittelklasse-suv-ab-16000-carnewschina-89d36a.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  Chery bringt den überarbeiteten Omoda C9 als Verbrenner und Plug-in-Hybrid auf
+  den chinesischen Markt. Der Mittelklasse-SUV startet bei umgerechnet 16.000 €
+  – ein europäischer Marktstart gilt als wahrscheinlich.
+source: CarNewsChina
+image: /images/omoda-c9-refresh-mittelklasse-suv-ab-16000-carnewschina-89d36a.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/24/cherys-omoda-launches-c9-suv-refresh-ice-phev-starting-at-18400-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/24/cherys-omoda-launches-c9-suv-refresh-ice-phev-starting-at-18400-usd-in-china/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Chery
+  - Omoda
+confidence: 0.9
 ---
 
 # Omoda C9 Refresh: Mittelklasse-SUV ab 16.000 €

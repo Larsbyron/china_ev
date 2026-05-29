@@ -1,15 +1,25 @@
 ---
-title: "Audi E7X vs. Xiaomi YU7: 37.000 € kostet der E-Anti-XP"
+title: 'Audi E7X vs. Xiaomi YU7: 37.000 € kostet der E-Anti-XP'
 date: 2026-05-12T10:34:25.737Z
-description: "Audi prescht mit dem E7X in den 30.000-Euro-SUV-Markt – Xiaomi kontert mit dem YU7. 900V-Architektur trifft auf Hyper OS. Marktstart in China, Europa noch offen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["EV"]
+description: >-
+  Audi prescht mit dem E7X in den 30.000-Euro-SUV-Markt – Xiaomi kontert mit dem
+  YU7. 900V-Architektur trifft auf Hyper OS. Marktstart in China, Europa noch
+  offen.
+source: OFweek NEV
+category: news
+tags:
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Audi E7X vs. Xiaomi YU7: 37.000 € kostet der E-Anti-XP

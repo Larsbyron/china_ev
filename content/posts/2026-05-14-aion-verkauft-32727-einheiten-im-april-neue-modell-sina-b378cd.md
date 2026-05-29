@@ -1,15 +1,28 @@
 ---
-title: "Aion verkauft 32.727 Einheiten im April – Neue Modelle N60 und Hyper S600"
+title: Aion verkauft 32.727 Einheiten im April – Neue Modelle N60 und Hyper S600
 date: 2026-05-14T19:33:57.175Z
-description: "Aion (广汽埃安) meldet 32.727 Verkäufe im April (+15,6 %). Auf der Auto China 2025 enthüllte die Marke den N60 mit Lidar und den Hyper S600. Beide sollen das Portfolio stärken und die Marke neu positionieren."
-source: "Sina"
-image: "/images/aion-verkauft-32727-einheiten-im-april-neue-modell-sina-b378cd.webp"
-category: "news"
-brand: "Aion"
-tags: ["Aion"]
+description: >-
+  Aion (广汽埃安) meldet 32.727 Verkäufe im April (+15,6 %). Auf der Auto China 2025
+  enthüllte die Marke den N60 mit Lidar und den Hyper S600. Beide sollen das
+  Portfolio stärken und die Marke neu positionieren.
+source: Sina
+image: /images/aion-verkauft-32727-einheiten-im-april-neue-modell-sina-b378cd.webp
+category: news
+brand: Aion
+tags:
+  - Aion
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Aion
+  - Hyper
+confidence: 0.9
 ---
 
 # Aion verkauft 32.727 Einheiten im April – Neue Modelle N60 und Hyper S600

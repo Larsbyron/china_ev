@@ -1,15 +1,38 @@
 ---
-title: "Preisschock: BYD erhöht Preise um 640 € – 15 Marken folgen"
+title: 'Preisschock: BYD erhöht Preise um 640 € – 15 Marken folgen'
 date: 2026-05-28T06:24:18.749Z
-description: "Ab 28. April 2026 zieht BYD als Erster die Preise um bis zu 640 € an. 14 weitere Marken ziehen nach – offen oder verdeckt. Die wahre Ursache: nicht Rohstoffkosten, sondern der Kampf um Margen nach jahrelangem Preiskampf."
-source: "Sina"
-image: "/images/preisschock-byd-erhht-preise-um-640-15-marken-folg-sina-53d59e.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "MG", "Tesla", "Batterie", "Reichweite", "Elektroauto", "E-Auto"]
+description: >-
+  Ab 28. April 2026 zieht BYD als Erster die Preise um bis zu 640 € an. 14
+  weitere Marken ziehen nach – offen oder verdeckt. Die wahre Ursache: nicht
+  Rohstoffkosten, sondern der Kampf um Margen nach jahrelangem Preiskampf.
+source: Sina
+image: /images/preisschock-byd-erhht-preise-um-640-15-marken-folg-sina-53d59e.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - E-Auto
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml
 read_time_minutes: 4
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - batterie-laden-reichweite
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+  - NIO
+  - MG
+  - Tesla
+confidence: 0.95
 ---
 
 # Preisschock: BYD erhöht Preise um 640 € – 15 Marken folgen

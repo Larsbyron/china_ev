@@ -1,15 +1,33 @@
 ---
-title: "Denza N9: Flash Edition mit 420 km Reichweite startet am 18. Mai"
+title: 'Denza N9: Flash Edition mit 420 km Reichweite startet am 18. Mai'
 date: 2026-05-09T23:48:43.628Z
-description: "Denza (腾势), die Luxusmarke von BYD, bringt den N9 Flash Edition am 18. Mai in China für 45,00–50,00 Mio. Yuan (ca. 57.600–64.000 €) auf den Markt. Der 5,26 m lange Plug-in-Hybrid-SUV erhält die zweite Generation der Blade-Batterie und eine AI-Intelligenz-Cockpit. Die rein elektrische Reichweite (CLT"
-source: "Autohome NewEnergy"
-image: "/images/denza-n9-flash-edition-mit-420-km-reichweite-start-autohome-newenergy-b1208d.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Denza (腾势), die Luxusmarke von BYD, bringt den N9 Flash Edition am 18. Mai in
+  China für 45,00–50,00 Mio. Yuan (ca. 57.600–64.000 €) auf den Markt. Der 5,26
+  m lange Plug-in-Hybrid-SUV erhält die zweite Generation der Blade-Batterie und
+  eine AI-Intelligenz-Cockpit. Die rein elektrische Reichweite (CLT
+source: Autohome NewEnergy
+image: >-
+  /images/denza-n9-flash-edition-mit-420-km-reichweite-start-autohome-newenergy-b1208d.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314171.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314171.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # Denza N9: Flash Edition mit 420 km Reichweite startet am 18. Mai

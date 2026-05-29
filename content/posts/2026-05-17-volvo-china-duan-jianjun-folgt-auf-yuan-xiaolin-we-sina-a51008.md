@@ -1,15 +1,27 @@
 ---
-title: "Volvo China: Duan Jianjun folgt auf Yuan Xiaolin – Wechsel nach 16 Jahren"
+title: 'Volvo China: Duan Jianjun folgt auf Yuan Xiaolin – Wechsel nach 16 Jahren'
 date: 2026-05-17T11:09:47.178Z
-description: "Volvo ernennt Ex-Mercedes-Manager Duan Jianjun zum neuen China-Chef. Der langjährige Präsident Yuan Xiaolin gibt nach 16 Jahren die operative Verantwortung ab – beide gehören zur Geely-Gruppe."
-source: "Sina"
-image: "/images/volvo-china-duan-jianjun-folgt-auf-yuan-xiaolin-we-sina-a51008.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely"]
+description: >-
+  Volvo ernennt Ex-Mercedes-Manager Duan Jianjun zum neuen China-Chef. Der
+  langjährige Präsident Yuan Xiaolin gibt nach 16 Jahren die operative
+  Verantwortung ab – beide gehören zur Geely-Gruppe.
+source: Sina
+image: /images/volvo-china-duan-jianjun-folgt-auf-yuan-xiaolin-we-sina-a51008.webp
+category: news
+brand: Geely
+tags:
+  - Geely
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Volvo
+  - Geely
+confidence: 0.9
 ---
 
 # Volvo China: Duan Jianjun folgt auf Yuan Xiaolin – Wechsel nach 16 Jahren

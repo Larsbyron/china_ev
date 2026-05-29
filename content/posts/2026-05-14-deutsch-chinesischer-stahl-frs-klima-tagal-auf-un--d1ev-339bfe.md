@@ -1,15 +1,31 @@
 ---
-title: "Deutsch-Chinesischer Stahl fürs Klima: TAGAL auf UN-Gipfel"
+title: 'Deutsch-Chinesischer Stahl fürs Klima: TAGAL auf UN-Gipfel'
 date: 2026-05-14T00:09:28.812Z
-description: "Das Joint Venture TAGAL (Ansteel/ThyssenKrupp) wird als nationales Vorzeigeprojekt für grünen Autostahl ausgezeichnet und präsentiert sich auf der UN-Klimakonferenz. Mit eNovation®-Stahl und dem Ziel einer Zero-Carbon-Fabrik ab 2028 liefert es Schlüsseltechnologie für nachhaltige E-Autos."
-source: "D1EV"
-image: "/images/deutsch-chinesischer-stahl-frs-klima-tagal-auf-un-d1ev-339bfe.webp"
-category: "news"
-
-tags: ["E-Auto", "EV"]
+description: >-
+  Das Joint Venture TAGAL (Ansteel/ThyssenKrupp) wird als nationales
+  Vorzeigeprojekt für grünen Autostahl ausgezeichnet und präsentiert sich auf
+  der UN-Klimakonferenz. Mit eNovation®-Stahl und dem Ziel einer
+  Zero-Carbon-Fabrik ab 2028 liefert es Schlüsseltechnologie für nachhaltige
+  E-Autos.
+source: D1EV
+image: /images/deutsch-chinesischer-stahl-frs-klima-tagal-auf-un-d1ev-339bfe.webp
+category: news
+tags:
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299048"
+original_url: 'https://www.d1ev.com/news/shichang/299048'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - politik-zoelle-regulierung
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - TAGAL
+  - ThyssenKrupp
+  - Ansteel
+confidence: 0.8
 ---
 
 # Deutsch-Chinesischer Stahl fürs Klima: TAGAL auf UN-Gipfel

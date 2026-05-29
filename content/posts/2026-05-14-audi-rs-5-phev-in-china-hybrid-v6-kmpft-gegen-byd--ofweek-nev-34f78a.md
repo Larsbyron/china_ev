@@ -1,15 +1,35 @@
 ---
-title: "Audi RS 5 PHEV in China: Hybrid-V6 kämpft gegen BYD & Co."
+title: 'Audi RS 5 PHEV in China: Hybrid-V6 kämpft gegen BYD & Co.'
 date: 2026-05-14T01:16:40.175Z
-description: "Audi bringt den neuen RS 5 Sportback als Plug-in-Hybrid nach China – mit 510 PS Systemleistung. Der V6-Biturbo trifft auf heimische Konkurrenz von BYD, NIO und XPeng. Kann der Ingolstädter im Reich der Mitte bestehen?"
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Batterie", "Reichweite", "E-Auto"]
+description: >-
+  Audi bringt den neuen RS 5 Sportback als Plug-in-Hybrid nach China – mit 510
+  PS Systemleistung. Der V6-Biturbo trifft auf heimische Konkurrenz von BYD, NIO
+  und XPeng. Kann der Ingolstädter im Reich der Mitte bestehen?
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - E-Auto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - BYD
+  - NIO
+  - XPeng
+  - Li Auto
+confidence: 0.95
 ---
 
 # Audi RS 5 PHEV in China: Hybrid-V6 kämpft gegen BYD & Co.

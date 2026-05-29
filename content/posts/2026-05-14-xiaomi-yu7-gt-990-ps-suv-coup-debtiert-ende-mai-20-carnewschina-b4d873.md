@@ -1,15 +1,33 @@
 ---
-title: "Xiaomi YU7 GT: 990-PS-SUV-Coupé debütiert Ende Mai 2026"
+title: 'Xiaomi YU7 GT: 990-PS-SUV-Coupé debütiert Ende Mai 2026'
 date: 2026-05-14T00:08:36.522Z
-description: "Xiaomi bringt den YU7 GT als Hochleistungs-SUV auf den Markt. Mit 990 PS (738 kW) und 705 km CLTC-Reichweite (ca. 600 km WLTP) soll er Ende Mai 2026 in China debütieren – Konkurrent zum Porsche Macan EV."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-990-ps-suv-coup-debtiert-ende-mai-20-carnewschina-b4d873.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  Xiaomi bringt den YU7 GT als Hochleistungs-SUV auf den Markt. Mit 990 PS (738
+  kW) und 705 km CLTC-Reichweite (ca. 600 km WLTP) soll er Ende Mai 2026 in
+  China debütieren – Konkurrent zum Porsche Macan EV.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-gt-990-ps-suv-coup-debtiert-ende-mai-20-carnewschina-b4d873.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/12/xiaomi-yu7-gt-spotted-on-streets-a-990-hp-performance-suv-ready-for-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/12/xiaomi-yu7-gt-spotted-on-streets-a-990-hp-performance-suv-ready-for-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7 GT: 990-PS-SUV-Coupé debütiert Ende Mai 2026

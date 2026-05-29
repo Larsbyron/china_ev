@@ -1,15 +1,30 @@
 ---
-title: "Leapmotor-Stellantis: 15.000-Euro-E-Auto ab 2028"
+title: 'Leapmotor-Stellantis: 15.000-Euro-E-Auto ab 2028'
 date: 2026-05-20T12:25:23.023Z
-description: "Stellantis und Leapmotor bringen bis 2028 ein hochvolumiges Elektroauto für rund 15.000 €. Gebaut wird es in Italien – Leapmotor-Technik steckt drin."
-source: "D1EV"
-image: "/images/leapmotor-stellantis-15000-euro-e-auto-ab-2028-d1ev-e24a06.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "NIO", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Stellantis und Leapmotor bringen bis 2028 ein hochvolumiges Elektroauto für
+  rund 15.000 €. Gebaut wird es in Italien – Leapmotor-Technik steckt drin.
+source: D1EV
+image: /images/leapmotor-stellantis-15000-euro-e-auto-ab-2028-d1ev-e24a06.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - NIO
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299750"
+original_url: 'https://www.d1ev.com/news/qiye/299750'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Leapmotor
+  - Stellantis
+confidence: 0.9
 ---
 
 # Leapmotor-Stellantis: 15.000-Euro-E-Auto ab 2028

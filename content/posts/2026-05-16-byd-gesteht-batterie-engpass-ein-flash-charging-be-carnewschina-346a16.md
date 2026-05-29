@@ -1,15 +1,34 @@
 ---
-title: "BYD gesteht Batterie-Engpass ein: Flash-Charging überrennt Produktion"
+title: 'BYD gesteht Batterie-Engpass ein: Flash-Charging überrennt Produktion'
 date: 2026-05-16T11:08:53.552Z
-description: "BYD-Chef Wang Chuanfu bestätigt Lieferengpässe bei den neuen Blade-Batterien der zweiten Generation. Grund ist die hohe Nachfrage nach Flash-Charging-Modellen – über 140.000 Bestellungen sollen unerfüllt sein. Das Ladesäulennetz wächst auf 5.979 Stationen."
-source: "CarNewsChina"
-image: "/images/byd-gesteht-batterie-engpass-ein-flash-charging-be-carnewschina-346a16.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "EV", "Marktanteil"]
+description: >-
+  BYD-Chef Wang Chuanfu bestätigt Lieferengpässe bei den neuen Blade-Batterien
+  der zweiten Generation. Grund ist die hohe Nachfrage nach
+  Flash-Charging-Modellen – über 140.000 Bestellungen sollen unerfüllt sein. Das
+  Ladesäulennetz wächst auf 5.979 Stationen.
+source: CarNewsChina
+image: >-
+  /images/byd-gesteht-batterie-engpass-ein-flash-charging-be-carnewschina-346a16.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production/
 read_time_minutes: 3
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+  - Denza
+  - Fangchengbao
+confidence: 0.9
 ---
 
 # BYD gesteht Batterie-Engpass ein: Flash-Charging überrennt Produktion

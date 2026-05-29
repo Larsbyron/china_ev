@@ -1,15 +1,33 @@
 ---
-title: "VW ID. ERA 9X: 5,2-Meter-SUV startet bei 42.200 €"
+title: 'VW ID. ERA 9X: 5,2-Meter-SUV startet bei 42.200 €'
 date: 2026-05-16T05:27:48.968Z
-description: "Volkswagen bringt in China den ID. ERA 9X an den Start – ein 5,2 Meter langes SUV ab umgerechnet 42.200 Euro. Mit 800-Volt-Architektur, 406 km CLTC-Reichweite und hochentwickelten Fahrassistenzsystemen tritt er gegen lokale Premium-Startups wie AITO und Li Auto an. Eine Europa-Perspektive ist nicht "
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Li Auto", "Batterie", "Reichweite", "E-Auto", "EV"]
+description: >-
+  Volkswagen bringt in China den ID. ERA 9X an den Start – ein 5,2 Meter langes
+  SUV ab umgerechnet 42.200 Euro. Mit 800-Volt-Architektur, 406 km
+  CLTC-Reichweite und hochentwickelten Fahrassistenzsystemen tritt er gegen
+  lokale Premium-Startups wie AITO und Li Auto an. Eine Europa-Perspektive ist
+  nicht 
+source: OFweek NEV
+category: news
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - VW
+  - AITO
+  - Li Auto
+confidence: 0.95
 ---
 
 # VW ID. ERA 9X: 5,2-Meter-SUV startet bei 42.200 €

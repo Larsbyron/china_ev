@@ -1,15 +1,31 @@
 ---
-title: "Arcfox Beta S3 mit bis zu 660 km CLTC ab 7.700 €"
+title: Arcfox Beta S3 mit bis zu 660 km CLTC ab 7.700 €
 date: 2026-05-23T11:18:49.375Z
-description: "BAIC-Tochter Arcfox bringt die Mittelklasse-Limousine Beta S3 in China an den Start. Die Preise (Batterie-Abo) beginnen bei umgerechnet 7.700 €, die Reichweite reicht bis 660 km CLTC (ca. 560 km WLTP). Über 30.000 Vorbestellungen liegen vor."
-source: "CarNewsChina"
-image: "/images/arcfox-beta-s3-mit-bis-zu-660-km-cltc-ab-7700-carnewschina-35ac1d.webp"
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  BAIC-Tochter Arcfox bringt die Mittelklasse-Limousine Beta S3 in China an den
+  Start. Die Preise (Batterie-Abo) beginnen bei umgerechnet 7.700 €, die
+  Reichweite reicht bis 660 km CLTC (ca. 560 km WLTP). Über 30.000
+  Vorbestellungen liegen vor.
+source: CarNewsChina
+image: /images/arcfox-beta-s3-mit-bis-zu-660-km-cltc-ab-7700-carnewschina-35ac1d.webp
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/23/arcfox-beta-s3-launches-in-china-leveraging-catls-battery-swapping-network-with-entry-level-baas-pricing-of-8800-usd/"
+original_url: >-
+  https://carnewschina.com/2026/05/23/arcfox-beta-s3-launches-in-china-leveraging-catls-battery-swapping-network-with-entry-level-baas-pricing-of-8800-usd/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Arcfox
+confidence: 0.9
 ---
 
 # Arcfox Beta S3 mit bis zu 660 km CLTC ab 7.700 €

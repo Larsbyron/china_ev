@@ -1,15 +1,32 @@
 ---
-title: "BYD Denza B8: Fahrwerk erlaubt Fahrt auf drei Rädern"
+title: 'BYD Denza B8: Fahrwerk erlaubt Fahrt auf drei Rädern'
 date: 2026-05-17T05:48:21.459Z
-description: "Der Denza B8 von BYD zeigt einen Dreirad-Fahrmodus und Reifenwechsel ohne Wagenheber. Auch AITO M9 und Li Auto L9 bieten ähnliche Funktionen. Preise in China ab ca. 53.700 €."
-source: "CarNewsChina"
-image: "/images/byd-denza-b8-fahrwerk-erlaubt-fahrt-auf-drei-rdern-carnewschina-2e3c0a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Li Auto", "Reichweite"]
+description: >-
+  Der Denza B8 von BYD zeigt einen Dreirad-Fahrmodus und Reifenwechsel ohne
+  Wagenheber. Auch AITO M9 und Li Auto L9 bieten ähnliche Funktionen. Preise in
+  China ab ca. 53.700 €.
+source: CarNewsChina
+image: >-
+  /images/byd-denza-b8-fahrwerk-erlaubt-fahrt-auf-drei-rdern-carnewschina-2e3c0a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Li Auto
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/"
+original_url: >-
+  https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - Li Auto
+  - AITO
+confidence: 0.9
 ---
 
 # BYD Denza B8: Fahrwerk erlaubt Fahrt auf drei Rädern

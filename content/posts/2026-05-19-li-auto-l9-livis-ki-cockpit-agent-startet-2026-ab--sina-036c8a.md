@@ -1,15 +1,29 @@
 ---
-title: "Li Auto L9 Livis: KI-Cockpit-Agent startet 2026 ab 58.900 €"
+title: 'Li Auto L9 Livis: KI-Cockpit-Agent startet 2026 ab 58.900 €'
 date: 2026-05-19T12:40:41.655Z
-description: "Auf der Auto China 2025 präsentierte Li Auto seinen KI-Cockpit-Agenten Livis im neuen L9. Das End-to-End-System soll ab 2026 in Serie gehen und Huaweis HIMA-Ökosystem herausfordern. Der L9 startet in China bei umgerechnet rund 58.900 €."
-source: "Sina"
-image: "/images/li-auto-l9-livis-ki-cockpit-agent-startet-2026-ab-sina-036c8a.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "EV"]
+description: >-
+  Auf der Auto China 2025 präsentierte Li Auto seinen KI-Cockpit-Agenten Livis
+  im neuen L9. Das End-to-End-System soll ab 2026 in Serie gehen und Huaweis
+  HIMA-Ökosystem herausfordern. Der L9 startet in China bei umgerechnet rund
+  58.900 €.
+source: Sina
+image: /images/li-auto-l9-livis-ki-cockpit-agent-startet-2026-ab-sina-036c8a.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9 Livis: KI-Cockpit-Agent startet 2026 ab 58.900 €

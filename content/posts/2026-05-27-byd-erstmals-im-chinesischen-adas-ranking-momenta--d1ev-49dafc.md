@@ -1,15 +1,31 @@
 ---
-title: "BYD erstmals im chinesischen ADAS-Ranking: Momenta debütiert"
+title: 'BYD erstmals im chinesischen ADAS-Ranking: Momenta debütiert'
 date: 2026-05-27T12:52:30.919Z
-description: "Der chinesische ADAS-Wettbewerb 2026 zeigt neue Teilnehmer: BYD tritt erstmals mit einem Momenta-basierten System an und schafft den Sprung in die Nebentabelle. Das Ranking unterstreicht den intensiven Wettbewerb um intelligente Fahrassistenz."
-source: "D1EV"
-image: "/images/byd-erstmals-im-chinesischen-adas-ranking-momenta-d1ev-49dafc.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Aion", "Tesla", "EV"]
+description: >-
+  Der chinesische ADAS-Wettbewerb 2026 zeigt neue Teilnehmer: BYD tritt erstmals
+  mit einem Momenta-basierten System an und schafft den Sprung in die
+  Nebentabelle. Das Ranking unterstreicht den intensiven Wettbewerb um
+  intelligente Fahrassistenz.
+source: D1EV
+image: /images/byd-erstmals-im-chinesischen-adas-ranking-momenta-d1ev-49dafc.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Aion
+  - Tesla
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300695"
+original_url: 'https://www.d1ev.com/news/shichang/300695'
 read_time_minutes: 5
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD erstmals im chinesischen ADAS-Ranking: Momenta debütiert

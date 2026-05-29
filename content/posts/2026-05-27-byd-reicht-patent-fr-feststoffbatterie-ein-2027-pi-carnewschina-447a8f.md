@@ -1,15 +1,30 @@
 ---
-title: "BYD reicht Patent für Feststoffbatterie ein – 2027 Pilotproduktion"
+title: BYD reicht Patent für Feststoffbatterie ein – 2027 Pilotproduktion
 date: 2026-05-27T06:14:26.178Z
-description: "BYD hat ein Patent für eine neuartige Festelektrolyt-Membran eingereicht. Die chinesische Industrie peilt die Pilotproduktion von Feststoffbatterien ab 2027 an. BYD-Chefwissenschaftler sieht jedoch noch technische Hürden."
-source: "CarNewsChina"
-image: "/images/byd-reicht-patent-fr-feststoffbatterie-ein-2027-pi-carnewschina-447a8f.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Marktanteil"]
+description: >-
+  BYD hat ein Patent für eine neuartige Festelektrolyt-Membran eingereicht. Die
+  chinesische Industrie peilt die Pilotproduktion von Feststoffbatterien ab 2027
+  an. BYD-Chefwissenschaftler sieht jedoch noch technische Hürden.
+source: CarNewsChina
+image: >-
+  /images/byd-reicht-patent-fr-feststoffbatterie-ein-2027-pi-carnewschina-447a8f.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production/"
+original_url: >-
+  https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD reicht Patent für Feststoffbatterie ein – 2027 Pilotproduktion

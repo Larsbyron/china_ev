@@ -1,15 +1,37 @@
 ---
-title: "Bo Yue 10-jähriges Jubiläum Champion Edition: Limitierter Preis 8,79 Mio. CNY – Der “letzte Kampf” und die “Wiedergeburt” des chinesischen Benzin-SUVs"
+title: >-
+  Bo Yue 10-jähriges Jubiläum Champion Edition: Limitierter Preis 8,79 Mio. CNY
+  – Der “letzte Kampf” und die “Wiedergeburt” des chinesischen Benzin-SUVs
 date: 2026-05-09T23:18:24.610Z
-description: "Vom “Smart Equality” zur “Value Equality”: Der Bo Yue versteht chinesische Familien seit einem JahrzehntDer “Downdrift-Schlag” für 87.900 CNY: Luxusausstattung zur Standardausstattung für die FamilieWohin führt der Weg für Benziner im New En..."
-source: "ChooseAuto"
-image: "/images/ai-bo-yue-10-jhriges-jubilum-champion-edition-limitie-chooseauto-7ca076.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "MG", "Reichweite", "Zoll", "E-Auto", "EV", "Marktanteil"]
+description: >-
+  Vom “Smart Equality” zur “Value Equality”: Der Bo Yue versteht chinesische
+  Familien seit einem JahrzehntDer “Downdrift-Schlag” für 87.900 CNY:
+  Luxusausstattung zur Standardausstattung für die FamilieWohin führt der Weg
+  für Benziner im New En...
+source: ChooseAuto
+image: >-
+  /images/ai-bo-yue-10-jhriges-jubilum-champion-edition-limitie-chooseauto-7ca076.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - MG
+  - Reichweite
+  - Zoll
+  - E-Auto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/898903.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/898903.shtml'
 read_time_minutes: 8
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.95
 ---
 
 # Bo Yue 10-jähriges Jubiläum Champion Edition: Limitierter Preis 8,79 Mio. CNY – Der “letzte Kampf” und die “Wiedergeburt” des chinesischen Benzin-SUVs

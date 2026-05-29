@@ -1,15 +1,30 @@
 ---
-title: "FangChengBao Bao 5 und Bao 8: Flash-Charge-Versionen starten am 13. Mai"
-date: 2026-05-07T12:00:00+02:00
-description: "Die FangChengBao Bao 5 und Bao 8 erhalten Flash-Charge-Updates mit deutlich gesteigerter rein elektrischer Reichweite. Der Marktstart ist für den 13. Mai 2026 geplant."
-source: "Autohome NewEnergy"
-image: "/images/ai-fangchengbao-bao5-bao8-flash-charge-autohome-NE-1314127.webp"
-category: "news"
-brand: "BYD"
-tags: ["FangChengBao", "BYD", "Plug-in-Hybrid", "SUV", "China"]
+title: 'FangChengBao Bao 5 und Bao 8: Flash-Charge-Versionen starten am 13. Mai'
+date: 2026-05-07T10:00:00.000Z
+description: >-
+  Die FangChengBao Bao 5 und Bao 8 erhalten Flash-Charge-Updates mit deutlich
+  gesteigerter rein elektrischer Reichweite. Der Marktstart ist für den 13. Mai
+  2026 geplant.
+source: Autohome NewEnergy
+image: /images/ai-fangchengbao-bao5-bao8-flash-charge-autohome-NE-1314127.webp
+category: news
+brand: BYD
+tags:
+  - FangChengBao
+  - BYD
+  - Plug-in-Hybrid
+  - SUV
+  - China
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314127.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314127.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # FangChengBao Bao 5 und Bao 8: Flash-Charge-Versionen starten am 13. Mai

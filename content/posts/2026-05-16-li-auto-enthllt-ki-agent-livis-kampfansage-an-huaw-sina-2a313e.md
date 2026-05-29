@@ -1,15 +1,30 @@
 ---
-title: "Li Auto enthüllt KI-Agent Livis: Kampfansage an Huaweis HIMA-Plattform"
+title: 'Li Auto enthüllt KI-Agent Livis: Kampfansage an Huaweis HIMA-Plattform'
 date: 2026-05-16T19:04:13.575Z
-description: "Auf der Peking Auto Show präsentierte Li Auto seinen KI-Agenten Livis. Das System setzt auf eine tief integrierte Architektur, die das gesamte Fahrzeug als physische Einheit steuert – eine direkte Konkurrenz zu Huaweis HIMA-Plattform."
-source: "Sina"
-image: "/images/li-auto-enthllt-ki-agent-livis-kampfansage-an-huaw-sina-2a313e.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "EV"]
+description: >-
+  Auf der Peking Auto Show präsentierte Li Auto seinen KI-Agenten Livis. Das
+  System setzt auf eine tief integrierte Architektur, die das gesamte Fahrzeug
+  als physische Einheit steuert – eine direkte Konkurrenz zu Huaweis
+  HIMA-Plattform.
+source: Sina
+image: /images/li-auto-enthllt-ki-agent-livis-kampfansage-an-huaw-sina-2a313e.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.9
 ---
 
 # Li Auto enthüllt KI-Agent Livis: Kampfansage an Huaweis HIMA-Plattform

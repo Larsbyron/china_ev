@@ -1,15 +1,30 @@
 ---
-title: "Wen Fei: Nutzererfahrung und Markenwerte haben oberste Priorität"
-date: 2026-04-28T12:44:06.293779
-description: "Auf der Beijing Auto Show 2026 erklärt FREELANDER-CEO Wen Fei die Strategie der neu eigenständigen Luxus-New-Energy-Marke."
-source: "Sina"
-image: "/images/ai-wen-fei-nutzererfahrung-und-markenwerte-sina-a40117.webp"
-category: "news"
-brand: ""
-tags: ["FREELANDER", "Chery", "Jaguar Land Rover", "Luxus", "SUV"]
+title: 'Wen Fei: Nutzererfahrung und Markenwerte haben oberste Priorität'
+date: 2026-04-28T12:44:06.293Z
+description: >-
+  Auf der Beijing Auto Show 2026 erklärt FREELANDER-CEO Wen Fei die Strategie
+  der neu eigenständigen Luxus-New-Energy-Marke.
+source: Sina
+image: /images/ai-wen-fei-nutzererfahrung-und-markenwerte-sina-a40117.webp
+category: news
+brand: ''
+tags:
+  - FREELANDER
+  - Chery
+  - Jaguar Land Rover
+  - Luxus
+  - SUV
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-04-28/detail-inhwaawa8401174.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-04-28/detail-inhwaawa8401174.shtml'
 read_time_minutes: 8
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - FREELANDER
+  - Chery
+  - Jaguar Land Rover
+confidence: 0.9
 ---
 
 # Wen Fei: Nutzererfahrung und Markenwerte haben oberste Priorität

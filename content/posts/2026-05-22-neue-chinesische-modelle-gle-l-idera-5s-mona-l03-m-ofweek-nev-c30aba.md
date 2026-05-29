@@ -1,15 +1,35 @@
 ---
-title: "Neue chinesische Modelle: GLE L, ID.ERA 5S, MONA L03 & mehr"
+title: 'Neue chinesische Modelle: GLE L, ID.ERA 5S, MONA L03 & mehr'
 date: 2026-05-22T12:15:56.452Z
-description: "Mercedes GLE L, VW ID.ERA 5S, XPeng MONA L03/L05, Hyundai IONIQ 9 und Bawang 8 – die wichtigsten neuen Modelle auf Chinas Straßen. Highlights: GLE L mit +12 cm Länge, ID.ERA 5S mit 2.000 km CLTC-Reichweite."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "XPeng", "Xpeng", "Li Auto", "Tesla", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Mercedes GLE L, VW ID.ERA 5S, XPeng MONA L03/L05, Hyundai IONIQ 9 und Bawang 8
+  – die wichtigsten neuen Modelle auf Chinas Straßen. Highlights: GLE L mit +12
+  cm Länge, ID.ERA 5S mit 2.000 km CLTC-Reichweite.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Mercedes
+  - VW
+  - XPeng
+  - Hyundai
+confidence: 0.95
 ---
 
 # Neue chinesische Modelle: GLE L, ID.ERA 5S, MONA L03 & mehr

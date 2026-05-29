@@ -1,15 +1,38 @@
 ---
-title: "Li Auto vs. HIMA: Cockpit-Agenten im Duell um die Auto-Zukunft"
+title: 'Li Auto vs. HIMA: Cockpit-Agenten im Duell um die Auto-Zukunft'
 date: 2026-05-17T11:06:18.972Z
-description: "Auf der Peking Auto Show liefern sich Li Auto und HIMA (Harmony) einen Schlagabtausch bei KI-Cockpit-Agenten. Während Li Auto mit dem „Livis'-Agenten auf ganzheitliche physische Intelligenz setzt, baut HIMA auf Task-Delegation und sein Milliarden-Ökosystem. Ein Trend, der auch deutsche Hersteller er"
-source: "Sina"
-image: "/images/li-auto-vs-hima-cockpit-agenten-im-duell-um-die-au-sina-283009.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "BYD", "NIO", "Geely", "MG", "EV"]
+description: >-
+  Auf der Peking Auto Show liefern sich Li Auto und HIMA (Harmony) einen
+  Schlagabtausch bei KI-Cockpit-Agenten. Während Li Auto mit dem „Livis'-Agenten
+  auf ganzheitliche physische Intelligenz setzt, baut HIMA auf Task-Delegation
+  und sein Milliarden-Ökosystem. Ein Trend, der auch deutsche Hersteller er
+source: Sina
+image: /images/li-auto-vs-hima-cockpit-agenten-im-duell-um-die-au-sina-283009.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - BYD
+  - NIO
+  - Geely
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 4
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - Li Auto
+  - HIMA
+  - BYD
+  - NIO
+  - Geely
+  - MG
+confidence: 0.9
 ---
 
 # Li Auto vs. HIMA: Cockpit-Agenten im Duell um die Auto-Zukunft

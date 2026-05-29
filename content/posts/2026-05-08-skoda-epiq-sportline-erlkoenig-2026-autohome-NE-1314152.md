@@ -1,15 +1,33 @@
 ---
-title: "Škoda Epiq Sportline auf dem Nürburgring erwischt – MEB+-Kompakt-SUV ab 26.000 Euro"
-date: 2026-05-08T07:53:01+02:00
-description: "Die Sportline-Variante des kommenden Škoda Epiq wurde bei Testfahrten auf der Nordschleife fotografiert. Der Kompakt-Stromer startet 2027 und bietet bis zu 430 km Reichweite."
-source: "Autohome NewEnergy"
-image: "/images/ai-skoda-epiq-sportline-erlkoenig-2026-autohome-NE-1314152.webp"
-category: "news"
-brand: "Škoda"
-tags: ["Skoda", "Epiq", "MEB", "Sportline", "Elektro-SUV"]
+title: >-
+  Škoda Epiq Sportline auf dem Nürburgring erwischt – MEB+-Kompakt-SUV ab 26.000
+  Euro
+date: 2026-05-08T05:53:01.000Z
+description: >-
+  Die Sportline-Variante des kommenden Škoda Epiq wurde bei Testfahrten auf der
+  Nordschleife fotografiert. Der Kompakt-Stromer startet 2027 und bietet bis zu
+  430 km Reichweite.
+source: Autohome NewEnergy
+image: /images/ai-skoda-epiq-sportline-erlkoenig-2026-autohome-NE-1314152.webp
+category: news
+brand: Škoda
+tags:
+  - Skoda
+  - Epiq
+  - MEB
+  - Sportline
+  - Elektro-SUV
 draft: false
-original_url: "https://www.autohome.com.cn/news/202605/1314152.html"
+original_url: 'https://www.autohome.com.cn/news/202605/1314152.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_available
+brands:
+  - Škoda
+confidence: 0.9
 ---
 
 Nur noch zwölf Tage bis zur Weltpremiere des neuen Škoda Epiq am 19. Mai – und jetzt zeigen sich erste Sportline-Prototypen bei Erprobungsfahrten auf der Nürburgring-Nordschleife. Das kompakte SUV basiert auf der MEB+-Plattform des Volkswagen-Konzerns und soll ab rund 26.000 Euro in Europa angeboten werden (ca. 208.000 Yuan).

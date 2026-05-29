@@ -1,16 +1,28 @@
 ---
-title: "Audi RS 5 Hybrid: 2.9T V6 plus E-Motor"
+title: 'Audi RS 5 Hybrid: 2.9T V6 plus E-Motor'
 date: 2026-05-10T20:32:45.003Z
-description: "Der Audi RS 5 bekommt einen Plug-in-Hybrid-Antrieb: 2,9-Liter-V6-Biturbo (375 kW) plus P2-E-Motor (130 kW), 8-Gang-Tiptronic und quattro. Eine 22-kWh-Batterie ermöglicht rein elektrisches Fahren. Der Hybrid steigert Dynamik und Effizienz."
-source: "OFweek NEV"
-image: "/images/ai-audi-rs-5-hybrid-29t-v6-plus-e-motor-ofweek-nev-8ddea3.webp"
-
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Elektroauto"]
+description: >-
+  Der Audi RS 5 bekommt einen Plug-in-Hybrid-Antrieb: 2,9-Liter-V6-Biturbo (375
+  kW) plus P2-E-Motor (130 kW), 8-Gang-Tiptronic und quattro. Eine
+  22-kWh-Batterie ermöglicht rein elektrisches Fahren. Der Hybrid steigert
+  Dynamik und Effizienz.
+source: OFweek NEV
+image: /images/ai-audi-rs-5-hybrid-29t-v6-plus-e-motor-ofweek-nev-8ddea3.webp
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: de_available
+brands:
+  - Audi
+confidence: 0.8
 ---
 
 # Audi RS 5 Hybrid: 2.9T V6 plus E-Motor

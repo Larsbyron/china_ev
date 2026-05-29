@@ -1,15 +1,35 @@
 ---
-title: "XPeng GX: Flaggschiff-SUV ab 34.500 € – 24.863 Bestellungen in 12h"
+title: 'XPeng GX: Flaggschiff-SUV ab 34.500 € – 24.863 Bestellungen in 12h'
 date: 2026-05-22T19:27:49.606Z
-description: "Der neue XPeng GX startet in China ab 269.800 Yuan (ca. 34.500 €). Mit bis zu 750 km Reichweite (CLTC) und Robotaxi-Funktion soll er Li Auto L9, NIO ES8 und AITO M9 angreifen. Ein Europa-Start ist noch offen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der neue XPeng GX startet in China ab 269.800 Yuan (ca. 34.500 €). Mit bis zu
+  750 km Reichweite (CLTC) und Robotaxi-Funktion soll er Li Auto L9, NIO ES8 und
+  AITO M9 angreifen. Ein Europa-Start ist noch offen.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - XPeng
+  - BYD
+  - NIO
+  - Li Auto
+confidence: 0.9
 ---
 
 # XPeng GX: Flaggschiff-SUV ab 34.500 € – 24.863 Bestellungen in 12h

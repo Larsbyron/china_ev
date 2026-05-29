@@ -1,15 +1,40 @@
 ---
-title: "Tesla-Benchmark: Chinas E-Auto-Boom mit Qualitätsmängeln – 70 % Marktanteil"
+title: 'Tesla-Benchmark: Chinas E-Auto-Boom mit Qualitätsmängeln – 70 % Marktanteil'
 date: 2026-05-17T05:46:34.989Z
-description: "Während Chinas E-Auto-Marktanteil auf über 70 % steigt, wachsen die Beschwerden. Eine Analyse zeigt einen „Schereneffekt“ zwischen Absatz und Qualität – mit Lehren für den deutschen Markt. Konkrete Probleme: OTA-Drosselung, Null-Kilometer-Gebrauchtwagen und fehlende Updates."
-source: "ChooseAuto"
-image: "/images/tesla-benchmark-chinas-e-auto-boom-mit-qualittsmng-chooseauto-7ece28.webp"
-category: "news"
-brand: "Tesla"
-tags: ["Tesla", "BYD", "NIO", "XPeng", "Xpeng", "MG", "Batterie", "Reichweite"]
+description: >-
+  Während Chinas E-Auto-Marktanteil auf über 70 % steigt, wachsen die
+  Beschwerden. Eine Analyse zeigt einen „Schereneffekt“ zwischen Absatz und
+  Qualität – mit Lehren für den deutschen Markt. Konkrete Probleme:
+  OTA-Drosselung, Null-Kilometer-Gebrauchtwagen und fehlende Updates.
+source: ChooseAuto
+image: >-
+  /images/tesla-benchmark-chinas-e-auto-boom-mit-qualittsmng-chooseauto-7ece28.webp
+category: news
+brand: Tesla
+tags:
+  - Tesla
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - MG
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/904730.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/904730.shtml'
 read_time_minutes: 3
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - industrie-produktion-lieferkette
+  - software-assistenz-autonomes-fahren
+marketRelevance: global_industry
+brands:
+  - Tesla
+  - BYD
+  - NIO
+  - XPeng
+  - MG
+confidence: 0.85
 ---
 
 # Tesla-Benchmark: Chinas E-Auto-Boom mit Qualitätsmängeln – 70 % Marktanteil

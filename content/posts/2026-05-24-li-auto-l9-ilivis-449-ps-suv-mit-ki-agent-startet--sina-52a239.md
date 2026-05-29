@@ -1,15 +1,30 @@
 ---
-title: "Li Auto L9 iLivis: 449-PS-SUV mit KI-Agent startet ab 55.000 €"
+title: 'Li Auto L9 iLivis: 449-PS-SUV mit KI-Agent startet ab 55.000 €'
 date: 2026-05-24T19:13:04.454Z
-description: "Li Auto (理想) bringt den überarbeiteten L9 iLivis auf den Markt – ein EREV-SUV mit integriertem KI-Agenten. Preis ab ca. 42,98 万元 (ca. 55.000 €)*. Die neue StreamingClaw-Architektur fordert Huaweis HarmonyOS heraus."
-source: "Sina"
-image: "/images/li-auto-l9-ilivis-449-ps-suv-mit-ki-agent-startet-sina-52a239.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Li Auto (理想) bringt den überarbeiteten L9 iLivis auf den Markt – ein EREV-SUV
+  mit integriertem KI-Agenten. Preis ab ca. 42,98 万元 (ca. 55.000 €)*. Die neue
+  StreamingClaw-Architektur fordert Huaweis HarmonyOS heraus.
+source: Sina
+image: /images/li-auto-l9-ilivis-449-ps-suv-mit-ki-agent-startet-sina-52a239.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9 iLivis: 449-PS-SUV mit KI-Agent startet ab 55.000 €

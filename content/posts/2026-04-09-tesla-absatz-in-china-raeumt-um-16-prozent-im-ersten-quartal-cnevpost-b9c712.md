@@ -1,13 +1,30 @@
 ---
-title: "Tesla in der Krise: Inlandabsatz in China bricht um 16 Prozent ein"
+title: 'Tesla in der Krise: Inlandabsatz in China bricht um 16 Prozent ein'
 date: 2026-04-09T09:00:00.000Z
-description: "Tesla verkauft im ersten Quartal 2026 nur 112.798 Fahrzeuge in China – ein Rückgang von 16,2 Prozent gegenüber dem Vorjahr. Die Differenz zwischen Produktions- und Retailzahlen sorgt für Verwirrung."
-source: "CnEVPost"
-image: "/images/ai-tesla-absatz-in-china-raeumt-um-16-prozent-im-ersten-quartal-cnevpost-b9c712.webp"
-category: "news"
-tags: ["Tesla", "China", "Verkauf", "Q1 2026", "Giga Shanghai"]
+description: >-
+  Tesla verkauft im ersten Quartal 2026 nur 112.798 Fahrzeuge in China – ein
+  Rückgang von 16,2 Prozent gegenüber dem Vorjahr. Die Differenz zwischen
+  Produktions- und Retailzahlen sorgt für Verwirrung.
+source: CnEVPost
+image: >-
+  /images/ai-tesla-absatz-in-china-raeumt-um-16-prozent-im-ersten-quartal-cnevpost-b9c712.webp
+category: news
+tags:
+  - Tesla
+  - China
+  - Verkauf
+  - Q1 2026
+  - Giga Shanghai
 draft: false
-original_url: "https://cnevpost.com/2026/04/09/tesla-tsla-china-retail-sales-crash-q1-2026-wholesale-misleading/"
+original_url: >-
+  https://cnevpost.com/2026/04/09/tesla-tsla-china-retail-sales-crash-q1-2026-wholesale-misleading/
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Tesla
+confidence: 0.95
 ---
 
 # Tesla in der Krise: Inlandabsatz in China bricht um 16 Prozent ein

@@ -1,15 +1,31 @@
 ---
-title: "Yipai M8: 600-km-SUV mit Huawei-Technik debütiert"
+title: 'Yipai M8: 600-km-SUV mit Huawei-Technik debütiert'
 date: 2026-05-23T19:04:08.154Z
-description: "Der neue Yipai M8 von Dongfeng kommt mit Huawei-System und sechs Sitzen. Die Reichweite liegt bei 600 km (CLTC), der Marktstart in China ist für das dritte Quartal 2025 geplant."
-source: "Autohome NewEnergy"
-image: "/images/yipai-m8-600-km-suv-mit-huawei-technik-debtiert-autohome-newenergy-c3cc2a.webp"
-category: "news"
-
-tags: ["NIO", "Batterie", "Zoll", "EV"]
+description: >-
+  Der neue Yipai M8 von Dongfeng kommt mit Huawei-System und sechs Sitzen. Die
+  Reichweite liegt bei 600 km (CLTC), der Marktstart in China ist für das dritte
+  Quartal 2025 geplant.
+source: Autohome NewEnergy
+image: >-
+  /images/yipai-m8-600-km-suv-mit-huawei-technik-debtiert-autohome-newenergy-c3cc2a.webp
+category: news
+tags:
+  - NIO
+  - Batterie
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.autohome.com.cn/news/202605/1314459.html"
+original_url: 'https://www.autohome.com.cn/news/202605/1314459.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Dongfeng
+  - Yipai
+  - Huawei
+confidence: 0.9
 ---
 
 # Yipai M8: 600-km-SUV mit Huawei-Technik debütiert

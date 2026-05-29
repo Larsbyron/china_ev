@@ -1,15 +1,35 @@
 ---
-title: "Geely Galaxy Starshine 7: Hybrid ab 12.600 € mit 220 km E-Reichweite"
+title: 'Geely Galaxy Starshine 7: Hybrid ab 12.600 € mit 220 km E-Reichweite'
 date: 2026-05-23T05:36:40.315Z
-description: "Geely (吉利) bringt den Galaxy Starshine 7 als Plug-in-Hybrid-Limousine in China an den Start. Ab 98.800 Yuan (ca. 12.600 €) gibt es 312 kW Systemleistung und bis zu 230 km elektrische Reichweite (CLTC). Ein Marktstart in Europa ist noch nicht bestätigt."
-source: "CarNewsChina"
-image: "/images/geely-galaxy-starshine-7-hybrid-ab-12600-mit-220-k-carnewschina-6a0941.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "BYD", "Reichweite", "Zoll", "E-Auto", "EV"]
+description: >-
+  Geely (吉利) bringt den Galaxy Starshine 7 als Plug-in-Hybrid-Limousine in China
+  an den Start. Ab 98.800 Yuan (ca. 12.600 €) gibt es 312 kW Systemleistung und
+  bis zu 230 km elektrische Reichweite (CLTC). Ein Marktstart in Europa ist noch
+  nicht bestätigt.
+source: CarNewsChina
+image: >-
+  /images/geely-galaxy-starshine-7-hybrid-ab-12600-mit-220-k-carnewschina-6a0941.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - BYD
+  - Reichweite
+  - Zoll
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/23/geely-galaxy-starshine-7-launched-with-312-kw-and-220-km-ev-range-from-14500-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/23/geely-galaxy-starshine-7-launched-with-312-kw-and-220-km-ev-range-from-14500-usd-in-china/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Geely
+  - BYD
+confidence: 0.95
 ---
 
 # Geely Galaxy Starshine 7: Hybrid ab 12.600 € mit 220 km E-Reichweite

@@ -1,15 +1,30 @@
 ---
-title: "Xiaomi YU7 GT: 691-PS-SUV startet Ende Mai"
+title: 'Xiaomi YU7 GT: 691-PS-SUV startet Ende Mai'
 date: 2026-05-14T01:03:47.326Z
-description: "Der Xiaomi YU7 GT wurde in Kirschrot auf chinesischen Straßen gesichtet. Der Hochleistungs-Crossover leistet 691 PS (Systemleistung) und soll Ende Mai 2026 auf den Markt kommen."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-691-ps-suv-startet-ende-mai-carnewschina-b28bc8.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Der Xiaomi YU7 GT wurde in Kirschrot auf chinesischen Straßen gesichtet. Der
+  Hochleistungs-Crossover leistet 691 PS (Systemleistung) und soll Ende Mai 2026
+  auf den Markt kommen.
+source: CarNewsChina
+image: /images/xiaomi-yu7-gt-691-ps-suv-startet-ende-mai-carnewschina-b28bc8.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/12/xiaomi-yu7-gt-spotted-on-streets-a-990-hp-performance-suv-ready-for-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/12/xiaomi-yu7-gt-spotted-on-streets-a-990-hp-performance-suv-ready-for-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7 GT: 691-PS-SUV startet Ende Mai

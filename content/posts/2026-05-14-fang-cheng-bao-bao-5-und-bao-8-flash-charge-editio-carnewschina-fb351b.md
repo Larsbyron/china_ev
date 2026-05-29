@@ -1,15 +1,31 @@
 ---
-title: "Fang Cheng Bao Bao 5 und Bao 8: Flash-Charge Edition startet"
+title: 'Fang Cheng Bao Bao 5 und Bao 8: Flash-Charge Edition startet'
 date: 2026-05-14T19:37:13.538Z
-description: "BYDs Offroad-Marke Fang Cheng Bao bringt die überarbeiteten Bao 5 und Bao 8 als Flash-Charge Edition. Highlights: neuartige Hydraulikfederung und verbesserte Plug-in-Hybride. Preise in China ab ca. 33.300 €."
-source: "CarNewsChina"
-image: "/images/fang-cheng-bao-bao-5-und-bao-8-flash-charge-editio-carnewschina-fb351b.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Reichweite", "EV"]
+description: >-
+  BYDs Offroad-Marke Fang Cheng Bao bringt die überarbeiteten Bao 5 und Bao 8
+  als Flash-Charge Edition. Highlights: neuartige Hydraulikfederung und
+  verbesserte Plug-in-Hybride. Preise in China ab ca. 33.300 €.
+source: CarNewsChina
+image: >-
+  /images/fang-cheng-bao-bao-5-und-bao-8-flash-charge-editio-carnewschina-fb351b.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/14/byds-denza-b5-b8-flash-charge-editions-launched-with-yunnian-p-ultra-suspension-from-43900-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/14/byds-denza-b5-b8-flash-charge-editions-launched-with-yunnian-p-ultra-suspension-from-43900-usd-in-china/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Fang Cheng Bao Bao 5 und Bao 8: Flash-Charge Edition startet

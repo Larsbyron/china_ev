@@ -1,15 +1,31 @@
 ---
-title: "Sowohl im Jahres- als auch im Monatsvergleich zweistelliges Wachstum: Fangchengbao verkauft im April 29.138 Einheiten"
+title: >-
+  Sowohl im Jahres- als auch im Monatsvergleich zweistelliges Wachstum:
+  Fangchengbao verkauft im April 29.138 Einheiten
 date: 2026-05-09T22:57:39.256Z
-description: "Mai veröffentlichte Fangchengbao die Verkaufszahlen für April. Die Gesamtverkäufe der Marke beliefen sich auf stabile 29.138 Einheiten, ein Anstieg von 190 % im Jahresvergleich und 12,4 % im Monatsvergleich, was eine starke Wachstumsdynamik zeigt"
-source: "Sina"
-image: "/images/sowohl-im-jahres-als-auch-im-monatsvergleich-zwei-sina-2a8e1a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "EV"]
+description: >-
+  Mai veröffentlichte Fangchengbao die Verkaufszahlen für April. Die
+  Gesamtverkäufe der Marke beliefen sich auf stabile 29.138 Einheiten, ein
+  Anstieg von 190 % im Jahresvergleich und 12,4 % im Monatsvergleich, was eine
+  starke Wachstumsdynamik zeigt
+source: Sina
+image: /images/sowohl-im-jahres-als-auch-im-monatsvergleich-zwei-sina-2a8e1a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-05-02/detail-inhwpcha9630783.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-05-02/detail-inhwpcha9630783.shtml'
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Sowohl im Jahres- als auch im Monatsvergleich zweistelliges Wachstum: Fangchengbao verkauft im April 29.138 Einheiten

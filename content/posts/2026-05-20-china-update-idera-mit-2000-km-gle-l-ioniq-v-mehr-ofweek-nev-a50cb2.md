@@ -1,15 +1,36 @@
 ---
-title: "China-Update: ID.ERA mit 2.000 km, GLE L, IONIQ V & mehr"
+title: 'China-Update: ID.ERA mit 2.000 km, GLE L, IONIQ V & mehr'
 date: 2026-05-20T06:07:49.709Z
-description: "Die MIIT-Liste enthüllt fünf Modelle: VW ID.ERA (PHEV, 2.000 km), Mercedes GLE L (verlängert), XPeng MONA L03/L05, Hyundai IONIQ V und Bestune 8. Preise ab ca. 19.200 €."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "XPeng", "Xpeng", "Li Auto", "Tesla", "Reichweite", "Zoll", "Elektroauto"]
+description: >-
+  Die MIIT-Liste enthüllt fünf Modelle: VW ID.ERA (PHEV, 2.000 km), Mercedes GLE
+  L (verlängert), XPeng MONA L03/L05, Hyundai IONIQ V und Bestune 8. Preise ab
+  ca. 19.200 €.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Tesla
+  - Reichweite
+  - Zoll
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - VW
+  - Mercedes
+  - XPeng
+  - Hyundai
+  - Bestune
+confidence: 0.95
 ---
 
 # China-Update: ID.ERA mit 2.000 km, GLE L, IONIQ V & mehr

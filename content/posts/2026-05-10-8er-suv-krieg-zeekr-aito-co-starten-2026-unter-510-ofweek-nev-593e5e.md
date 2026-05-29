@@ -1,16 +1,36 @@
 ---
-title: "8er-SUV-Krieg: Zeekr, AITO & Co. starten 2026 unter 51.000 €"
+title: '8er-SUV-Krieg: Zeekr, AITO & Co. starten 2026 unter 51.000 €'
 date: 2026-05-10T20:38:37.163Z
-description: "Zeekr 8X, AITO M8, Li Auto i8 und Lynk & Co 08 kämpfen 2026 um die Gunst chinesischer Käufer. Preise zwischen 32.000 und 51.000 €* (chinesischer Markt). Reichweiten bis 730 km (CLTC)."
-source: "OFweek NEV"
-image: "/images/ai-8er-suv-krieg-zeekr-aito-co-starten-2026-unter-510-ofweek-nev-593e5e.webp"
-
-category: "news"
-
-tags: ["BYD", "NIO", "Li Auto", "Zeekr", "Tesla", "Reichweite", "Elektroauto", "E-Auto"]
+description: >-
+  Zeekr 8X, AITO M8, Li Auto i8 und Lynk & Co 08 kämpfen 2026 um die Gunst
+  chinesischer Käufer. Preise zwischen 32.000 und 51.000 €* (chinesischer
+  Markt). Reichweiten bis 730 km (CLTC).
+source: OFweek NEV
+image: >-
+  /images/ai-8er-suv-krieg-zeekr-aito-co-starten-2026-unter-510-ofweek-nev-593e5e.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - Zeekr
+  - Tesla
+  - Reichweite
+  - Elektroauto
+  - E-Auto
 draft: false
-original_url: "https://nev.ofweek.com/2026-02/ART-71000-8220-30680781.html"
+original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30680781.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Zeekr
+  - AITO
+  - Li Auto
+  - Lynk & Co
+confidence: 0.9
 ---
 
 # 8er-SUV-Krieg: Zeekr, AITO & Co. starten 2026 unter 51.000 €

@@ -1,15 +1,33 @@
 ---
-title: "Onvo L80: Familien-SUV mit 900V startet ab 31.100 €"
+title: 'Onvo L80: Familien-SUV mit 900V startet ab 31.100 €'
 date: 2026-05-22T12:26:58.715Z
-description: "NIO-Submarke Onvo bringt den vollelektrischen L80 als Fünf-Meter-SUV für Familien. Mit 900-Volt-Architektur, eigenem 5-nm-Chip und BaaS-Modell ab 20.100 €. Die Auslieferung in China läuft."
-source: "Sina"
-image: "/images/onvo-l80-familien-suv-mit-900v-startet-ab-31100-sina-e22184.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Onvo", "Batterie", "Reichweite"]
+description: >-
+  NIO-Submarke Onvo bringt den vollelektrischen L80 als Fünf-Meter-SUV für
+  Familien. Mit 900-Volt-Architektur, eigenem 5-nm-Chip und BaaS-Modell ab
+  20.100 €. Die Auslieferung in China läuft.
+source: Sina
+image: /images/onvo-l80-familien-suv-mit-900v-startet-ab-31100-sina-e22184.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Onvo
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-16/detail-inhyawym4377936.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-16/detail-inhyawym4377936.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - NIO
+  - Onvo
+confidence: 0.95
 ---
 
 # Onvo L80: Familien-SUV mit 900V startet ab 31.100 €

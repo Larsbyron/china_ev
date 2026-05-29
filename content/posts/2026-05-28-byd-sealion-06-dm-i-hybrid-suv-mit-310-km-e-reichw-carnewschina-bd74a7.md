@@ -1,15 +1,32 @@
 ---
-title: "BYD Sealion 06 DM-i: Hybrid-SUV mit 310 km E-Reichweite ab 16.600 €"
+title: 'BYD Sealion 06 DM-i: Hybrid-SUV mit 310 km E-Reichweite ab 16.600 €'
 date: 2026-05-28T13:46:23.943Z
-description: "BYD bringt den Sealion 06 DM-i 2026 in vier Ausstattungen auf den Markt. Mit fünfter Generation der Super-Hybrid-Technik, bis zu 310 km CLTC-E-Reichweite und modernem Fahrassistenzsystem. Preise in China zwischen 16.600 und 20.500 €."
-source: "CarNewsChina"
-image: "/images/byd-sealion-06-dm-i-hybrid-suv-mit-310-km-e-reichw-carnewschina-bd74a7.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Reichweite", "EV"]
+description: >-
+  BYD bringt den Sealion 06 DM-i 2026 in vier Ausstattungen auf den Markt. Mit
+  fünfter Generation der Super-Hybrid-Technik, bis zu 310 km CLTC-E-Reichweite
+  und modernem Fahrassistenzsystem. Preise in China zwischen 16.600 und 20.500
+  €.
+source: CarNewsChina
+image: >-
+  /images/byd-sealion-06-dm-i-hybrid-suv-mit-310-km-e-reichw-carnewschina-bd74a7.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/byd-launches-2026-sealion-06-dm-i-with-its-fifth-gen-hybrid-tech-and-310-km-ev-range/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/byd-launches-2026-sealion-06-dm-i-with-its-fifth-gen-hybrid-tech-and-310-km-ev-range/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Sealion 06 DM-i: Hybrid-SUV mit 310 km E-Reichweite ab 16.600 €

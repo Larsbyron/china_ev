@@ -1,15 +1,30 @@
 ---
-title: "Xiaomi YU7 Standard für 29.900 €: So greift Lei Jun Teslas Model Y an"
+title: 'Xiaomi YU7 Standard für 29.900 €: So greift Lei Jun Teslas Model Y an'
 date: 2026-05-22T06:06:20.868Z
-description: "Xiaomi bringt die Standardversion des YU7 zurück auf den Markt – ab 233.500 Yuan (ca. 29.900 €). Mit 593 km CLTC-Reichweite zielt der Elektro-SUV direkt auf das Tesla Model Y. Marktstart in China sofort."
-source: "Sina"
-image: "/images/xiaomi-yu7-standard-fr-29900-so-greift-lei-jun-tes-sina-23d102.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Reichweite"]
+description: >-
+  Xiaomi bringt die Standardversion des YU7 zurück auf den Markt – ab 233.500
+  Yuan (ca. 29.900 €). Mit 593 km CLTC-Reichweite zielt der Elektro-SUV direkt
+  auf das Tesla Model Y. Marktstart in China sofort.
+source: Sina
+image: /images/xiaomi-yu7-standard-fr-29900-so-greift-lei-jun-tes-sina-23d102.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - Tesla
+confidence: 0.9
 ---
 
 # Xiaomi YU7 Standard für 29.900 €: So greift Lei Jun Teslas Model Y an

@@ -1,15 +1,32 @@
 ---
-title: "NIO ES9: Neuer 63.700-Euro-Flaggschiff-SUV fordert AITO M9 heraus"
+title: 'NIO ES9: Neuer 63.700-Euro-Flaggschiff-SUV fordert AITO M9 heraus'
 date: 2026-05-28T06:32:41.312Z
-description: "NIO (蔚来) bringt mit dem vollelektrischen ES9 ein 5,36-Meter-Flaggschiff-SUV auf den Markt. Ab 49,8万元 (ca. 63.700 €) tritt er gegen den AITO M9 an. Richard Yu (Huawei) lobt den M9 als „stärkstes SUV der Welt', während NIO auf 900-Volt-Technik und sein Wechselstationsnetz setzt."
-source: "D1EV"
-image: "/images/nio-es9-neuer-63700-euro-flaggschiff-suv-fordert-a-d1ev-bedf75.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  NIO (蔚来) bringt mit dem vollelektrischen ES9 ein 5,36-Meter-Flaggschiff-SUV
+  auf den Markt. Ab 49,8万元 (ca. 63.700 €) tritt er gegen den AITO M9 an. Richard
+  Yu (Huawei) lobt den M9 als „stärkstes SUV der Welt', während NIO auf
+  900-Volt-Technik und sein Wechselstationsnetz setzt.
+source: D1EV
+image: /images/nio-es9-neuer-63700-euro-flaggschiff-suv-fordert-a-d1ev-bedf75.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300795"
+original_url: 'https://www.d1ev.com/news/shichang/300795'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - NIO
+  - AITO
+confidence: 0.9
 ---
 
 # NIO ES9: Neuer 63.700-Euro-Flaggschiff-SUV fordert AITO M9 heraus

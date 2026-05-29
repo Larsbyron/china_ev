@@ -1,15 +1,30 @@
 ---
-title: "Audi E7X vs. Xiaomi YU7: Audi geht in die Offensive, Xiaomi kontert"
+title: 'Audi E7X vs. Xiaomi YU7: Audi geht in die Offensive, Xiaomi kontert'
 date: 2026-05-09T23:14:07.236Z
-description: "Verschiebung der Marktwertschätzung: Von Konkurrenz durch Nachahmung zur offenen Herausforderung2. Der Unterschied in der Produktphilosophie: Mechanisches Erbe vs. technologisches ÖkosystemFahrwerk und Handling:Energie und Reichweite:Intel..."
-source: "OFweek NEV"
-image: "/images/ai-audi-e7x-vs-xiaomi-yu7-audi-geht-in-die-offensive-ofweek-nev-996f69.webp"
-category: "news"
-
-tags: ["Reichweite", "Zoll", "EV"]
+description: >-
+  Verschiebung der Marktwertschätzung: Von Konkurrenz durch Nachahmung zur
+  offenen Herausforderung2. Der Unterschied in der Produktphilosophie:
+  Mechanisches Erbe vs. technologisches ÖkosystemFahrwerk und Handling:Energie
+  und Reichweite:Intel...
+source: OFweek NEV
+image: >-
+  /images/ai-audi-e7x-vs-xiaomi-yu7-audi-geht-in-die-offensive-ofweek-nev-996f69.webp
+category: news
+tags:
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 6
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Audi E7X vs. Xiaomi YU7: Audi geht in die Offensive, Xiaomi kontert

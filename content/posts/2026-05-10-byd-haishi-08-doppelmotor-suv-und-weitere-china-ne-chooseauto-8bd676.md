@@ -1,15 +1,40 @@
 ---
-title: "BYD Haishi 08: Doppelmotor-SUV und weitere China-Neuheiten"
+title: 'BYD Haishi 08: Doppelmotor-SUV und weitere China-Neuheiten'
 date: 2026-05-10T20:43:04.027Z
-description: "Die chinesische Zulassungsbehörde MIIT zeigt 15 neue Modelle – von Maextro MPV bis BYD-SUV. Highlights: BYD Haishi 08 mit 400-kW-Doppelmotor, AITO M9 L (5,4 m) und ideal L6 mit 51-kWh-Batterie."
-source: "ChooseAuto"
-image: "/images/byd-haishi-08-doppelmotor-suv-und-weitere-china-ne-chooseauto-8bd676.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "XPeng", "XPeng", "Li Auto", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Die chinesische Zulassungsbehörde MIIT zeigt 15 neue Modelle – von Maextro MPV
+  bis BYD-SUV. Highlights: BYD Haishi 08 mit 400-kW-Doppelmotor, AITO M9 L (5,4
+  m) und ideal L6 mit 51-kWh-Batterie.
+source: ChooseAuto
+image: >-
+  /images/byd-haishi-08-doppelmotor-suv-und-weitere-china-ne-chooseauto-8bd676.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - XPeng
+  - XPeng
+  - Li Auto
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/899187.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/899187.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+  - XPeng
+  - Li Auto
+  - MG
+  - Maextro
+  - AITO
+confidence: 0.95
 ---
 
 # BYD Haishi 08: Doppelmotor-SUV und weitere China-Neuheiten

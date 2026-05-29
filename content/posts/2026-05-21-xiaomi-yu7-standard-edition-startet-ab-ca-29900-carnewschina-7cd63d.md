@@ -1,15 +1,35 @@
 ---
-title: "Xiaomi YU7 Standard Edition startet ab ca. 29.900 €"
+title: Xiaomi YU7 Standard Edition startet ab ca. 29.900 €
 date: 2026-05-21T12:44:19.545Z
-description: "Xiaomi bringt eine günstigere Version des YU7 auf den Markt. Für umgerechnet knapp 30.000 € fordert der Elektro-SUV den Tesla Model Y heraus – mit 643 km CLTC-Reichweite."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-standard-edition-startet-ab-ca-29900-carnewschina-7cd63d.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Tesla", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Xiaomi bringt eine günstigere Version des YU7 auf den Markt. Für umgerechnet
+  knapp 30.000 € fordert der Elektro-SUV den Tesla Model Y heraus – mit 643 km
+  CLTC-Reichweite.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-standard-edition-startet-ab-ca-29900-carnewschina-7cd63d.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/xiaomi-launches-new-yu7-standard-edition-at-34300-usd-to-challenge-tesla-model-y-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/xiaomi-launches-new-yu7-standard-edition-at-34300-usd-to-challenge-tesla-model-y-in-china/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - Tesla
+confidence: 0.95
 ---
 
 # Xiaomi YU7 Standard Edition startet ab ca. 29.900 €

@@ -1,15 +1,29 @@
 ---
-title: "Ex-BYD-Ingenieure: Bosch-Roboter-JV sammelt 38 Mio. €"
+title: 'Ex-BYD-Ingenieure: Bosch-Roboter-JV sammelt 38 Mio. €'
 date: 2026-05-15T11:59:29.702Z
-description: "BoYinHeChuang, ein Gemeinschaftsunternehmen von Bosch und Galaxy General, erhält 38 Mio. € von Investoren. Das Startup entwickelt Embodied-AI-Roboter für die Industrie und hat bereits einen Zehnjahresvertrag über 2.000 Einheiten sowie Produktionsstarts in China."
-source: "D1EV"
-image: "/images/ex-byd-ingenieure-bosch-roboter-jv-sammelt-38-mio-d1ev-623bc6.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie"]
+description: >-
+  BoYinHeChuang, ein Gemeinschaftsunternehmen von Bosch und Galaxy General,
+  erhält 38 Mio. € von Investoren. Das Startup entwickelt Embodied-AI-Roboter
+  für die Industrie und hat bereits einen Zehnjahresvertrag über 2.000 Einheiten
+  sowie Produktionsstarts in China.
+source: D1EV
+image: /images/ex-byd-ingenieure-bosch-roboter-jv-sammelt-38-mio-d1ev-623bc6.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299253"
+original_url: 'https://www.d1ev.com/news/shichang/299253'
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Ex-BYD-Ingenieure: Bosch-Roboter-JV sammelt 38 Mio. €

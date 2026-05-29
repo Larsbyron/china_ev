@@ -1,15 +1,27 @@
 ---
-title: "Xiaomi: 5.150 Euro Verlust pro E-Auto"
+title: 'Xiaomi: 5.150 Euro Verlust pro E-Auto'
 date: 2026-05-28T13:44:49.198Z
-description: "Xiaomi (小米) meldet für Q1 2026 in der E-Auto-Sparte 2,55 Mrd. € Umsatz, aber 400 Mio. € Verlust. Pro Fahrzeug sind das 5.600 US-Dollar (ca. 5.150 €) minus."
-source: "CarNewsChina"
-image: "/images/xiaomi-5150-euro-verlust-pro-e-auto-carnewschina-5cd3fe.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Elektroauto"]
+description: >-
+  Xiaomi (小米) meldet für Q1 2026 in der E-Auto-Sparte 2,55 Mrd. € Umsatz, aber
+  400 Mio. € Verlust. Pro Fahrzeug sind das 5.600 US-Dollar (ca. 5.150 €) minus.
+source: CarNewsChina
+image: /images/xiaomi-5150-euro-verlust-pro-e-auto-carnewschina-5cd3fe.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Elektroauto
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi: 5.150 Euro Verlust pro E-Auto

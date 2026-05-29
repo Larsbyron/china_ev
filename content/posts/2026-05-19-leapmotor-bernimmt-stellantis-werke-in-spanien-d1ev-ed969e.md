@@ -1,15 +1,33 @@
 ---
-title: "Leapmotor übernimmt Stellantis-Werke in Spanien"
+title: Leapmotor übernimmt Stellantis-Werke in Spanien
 date: 2026-05-19T12:48:02.485Z
-description: "Im Zuge von Stellantis‘ Kapazitätsabbau sichert sich Leapmotor zwei spanische Werke für die europäische Produktion. Auch Dongfeng plant die Fertigung im französischen Stellantis-Werk Rennes – ein Schritt zur Umgehung der EU-Zölle."
-source: "D1EV"
-image: "/images/leapmotor-bernimmt-stellantis-werke-in-spanien-d1ev-ed969e.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "MG", "Reichweite", "Zoll", "E-Auto", "EV"]
+description: >-
+  Im Zuge von Stellantis‘ Kapazitätsabbau sichert sich Leapmotor zwei spanische
+  Werke für die europäische Produktion. Auch Dongfeng plant die Fertigung im
+  französischen Stellantis-Werk Rennes – ein Schritt zur Umgehung der EU-Zölle.
+source: D1EV
+image: /images/leapmotor-bernimmt-stellantis-werke-in-spanien-d1ev-ed969e.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - MG
+  - Reichweite
+  - Zoll
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299646"
+original_url: 'https://www.d1ev.com/news/shichang/299646'
 read_time_minutes: 2
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - politik-zoelle-regulierung
+  - unternehmen-finanzen-kooperationen
+marketRelevance: eu_available
+brands:
+  - Leapmotor
+  - Dongfeng
+confidence: 0.9
 ---
 
 # Leapmotor übernimmt Stellantis-Werke in Spanien

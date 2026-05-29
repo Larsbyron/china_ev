@@ -1,15 +1,28 @@
 ---
-title: "Geely Boyue: Jubiläumsedition ab ca. 11.300 €"
+title: 'Geely Boyue: Jubiläumsedition ab ca. 11.300 €'
 date: 2026-05-10T20:45:27.118Z
-description: "Geely feiert zehn Jahre Boyue mit einer Sonderedition. Der kompakte SUV startet in China ab 8,79 万元 (ca. 11.300 €) und bietet umfangreiche Ausstattung inklusive Flyme Auto. Ein Marktstart in Europa ist offen."
-source: "ChooseAuto"
-image: "/images/geely-boyue-jubilumsedition-ab-ca-11300-chooseauto-473aa3.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "MG", "Zoll"]
+description: >-
+  Geely feiert zehn Jahre Boyue mit einer Sonderedition. Der kompakte SUV
+  startet in China ab 8,79 万元 (ca. 11.300 €) und bietet umfangreiche Ausstattung
+  inklusive Flyme Auto. Ein Marktstart in Europa ist offen.
+source: ChooseAuto
+image: /images/geely-boyue-jubilumsedition-ab-ca-11300-chooseauto-473aa3.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - MG
+  - Zoll
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/899164.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/899164.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.9
 ---
 
 # Geely Boyue: Jubiläumsedition ab ca. 11.300 €

@@ -1,15 +1,30 @@
 ---
-title: "Xiaomi YU7 GT: 1003 PS und 705 km Reichweite"
+title: 'Xiaomi YU7 GT: 1003 PS und 705 km Reichweite'
 date: 2026-05-15T11:51:04.676Z
-description: "Xiaomi zeigt den YU7 GT in Kirschrot – ein 1003 PS starkes E-SUV-Coupé mit bis zu 705 km Reichweite (CLTC). Marktstart in China ist Ende Mai. Ein Europa-Start steht noch nicht fest."
-source: "Autohome NewEnergy"
-image: "/images/xiaomi-yu7-gt-1003-ps-und-705-km-reichweite-autohome-newenergy-e07b5a.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Batterie", "Reichweite"]
+description: >-
+  Xiaomi zeigt den YU7 GT in Kirschrot – ein 1003 PS starkes E-SUV-Coupé mit bis
+  zu 705 km Reichweite (CLTC). Marktstart in China ist Ende Mai. Ein
+  Europa-Start steht noch nicht fest.
+source: Autohome NewEnergy
+image: >-
+  /images/xiaomi-yu7-gt-1003-ps-und-705-km-reichweite-autohome-newenergy-e07b5a.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314302.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314302.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7 GT: 1003 PS und 705 km Reichweite

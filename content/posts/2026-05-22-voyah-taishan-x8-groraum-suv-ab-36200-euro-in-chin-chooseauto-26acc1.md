@@ -1,15 +1,31 @@
 ---
-title: "Voyah Taishan X8: Großraum-SUV ab 36.200 Euro in China"
+title: 'Voyah Taishan X8: Großraum-SUV ab 36.200 Euro in China'
 date: 2026-05-22T12:21:44.212Z
-description: "Voyah bringt den Taishan X8 als fünfsitziges Top-SUV in China an den Start. Preise zwischen 282.900 und 369.900 Yuan (ca. 36.200–47.300 Euro). Die Modelle mit Plug-in-Hybrid oder vollelektrischem Antrieb bieten bis zu 1.506 km Reichweite und eine 800-Volt-Architektur."
-source: "ChooseAuto"
-image: "/images/voyah-taishan-x8-groraum-suv-ab-36200-euro-in-chin-chooseauto-26acc1.webp"
-category: "news"
-
-tags: ["MG", "Reichweite", "Zoll", "EV"]
+description: >-
+  Voyah bringt den Taishan X8 als fünfsitziges Top-SUV in China an den Start.
+  Preise zwischen 282.900 und 369.900 Yuan (ca. 36.200–47.300 Euro). Die Modelle
+  mit Plug-in-Hybrid oder vollelektrischem Antrieb bieten bis zu 1.506 km
+  Reichweite und eine 800-Volt-Architektur.
+source: ChooseAuto
+image: >-
+  /images/voyah-taishan-x8-groraum-suv-ab-36200-euro-in-chin-chooseauto-26acc1.webp
+category: news
+tags:
+  - MG
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/909776.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/909776.shtml'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Voyah
+confidence: 0.95
 ---
 
 # Voyah Taishan X8: Großraum-SUV ab 36.200 Euro in China

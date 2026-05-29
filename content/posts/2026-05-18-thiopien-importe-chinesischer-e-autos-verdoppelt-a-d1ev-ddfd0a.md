@@ -1,15 +1,32 @@
 ---
-title: "Äthiopien: Importe chinesischer E-Autos verdoppelt auf 44.000 Stück"
+title: 'Äthiopien: Importe chinesischer E-Autos verdoppelt auf 44.000 Stück'
 date: 2026-05-18T19:37:54.638Z
-description: "Äthiopien importierte 2025 über 44.000 E-Autos aus China – doppelt so viel wie im Vorjahr. BYD ist der wichtigste Lieferant. Trotz schwachem Stromnetz treiben hohe Spritpreise und eine Verbrenner-Sperre die Nachfrage."
-source: "D1EV"
-image: "/images/thiopien-importe-chinesischer-e-autos-verdoppelt-a-d1ev-ddfd0a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Äthiopien importierte 2025 über 44.000 E-Autos aus China – doppelt so viel wie
+  im Vorjahr. BYD ist der wichtigste Lieferant. Trotz schwachem Stromnetz
+  treiben hohe Spritpreise und eine Verbrenner-Sperre die Nachfrage.
+source: D1EV
+image: /images/thiopien-importe-chinesischer-e-autos-verdoppelt-a-d1ev-ddfd0a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299512"
+original_url: 'https://www.d1ev.com/news/shichang/299512'
 read_time_minutes: 3
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - politik-zoelle-regulierung
+  - batterie-laden-reichweite
+marketRelevance: global_industry
+brands:
+  - BYD
+  - MG
+confidence: 0.9
 ---
 
 # Äthiopien: Importe chinesischer E-Autos verdoppelt auf 44.000 Stück

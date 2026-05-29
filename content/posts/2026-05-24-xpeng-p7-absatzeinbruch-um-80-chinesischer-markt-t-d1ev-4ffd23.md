@@ -1,15 +1,37 @@
 ---
-title: "XPeng P7: Absatzeinbruch um 80% – chinesischer Markt tötet Modelle in 8 Monaten"
+title: >-
+  XPeng P7: Absatzeinbruch um 80% – chinesischer Markt tötet Modelle in 8
+  Monaten
 date: 2026-05-24T19:12:50.604Z
-description: "Die einstige Flaggschiff-Limousine von XPeng (小鹏) stürzt ab: Im April 2025 wurden nur noch rund 2.300 Einheiten ausgeliefert – ein Minus von über 80 % gegenüber dem Vorjahresmonat. Der Fall zeigt: Neue Elektroautos haben in China im Schnitt nur acht Monate, um ein Bestseller zu werden. Scheitern sie"
-source: "D1EV"
-image: "/images/xpeng-p7-absatzeinbruch-um-80-chinesischer-markt-t-d1ev-4ffd23.webp"
-category: "news"
-brand: "XPeng"
-tags: ["XPeng", "NIO", "Xpeng", "Onvo", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Die einstige Flaggschiff-Limousine von XPeng (小鹏) stürzt ab: Im April 2025
+  wurden nur noch rund 2.300 Einheiten ausgeliefert – ein Minus von über 80 %
+  gegenüber dem Vorjahresmonat. Der Fall zeigt: Neue Elektroautos haben in China
+  im Schnitt nur acht Monate, um ein Bestseller zu werden. Scheitern sie
+source: D1EV
+image: /images/xpeng-p7-absatzeinbruch-um-80-chinesischer-markt-t-d1ev-4ffd23.webp
+category: news
+brand: XPeng
+tags:
+  - XPeng
+  - NIO
+  - Xpeng
+  - Onvo
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300304"
+original_url: 'https://www.d1ev.com/news/shichang/300304'
 read_time_minutes: 4
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - modelle-marktstarts
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.9
 ---
 
 # XPeng P7: Absatzeinbruch um 80% – chinesischer Markt tötet Modelle in 8 Monaten

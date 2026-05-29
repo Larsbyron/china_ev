@@ -1,15 +1,33 @@
 ---
-title: "VW ID. ERA 9X startet ab 42.200 € – Kampfansage an Nio & Co."
+title: VW ID. ERA 9X startet ab 42.200 € – Kampfansage an Nio & Co.
 date: 2026-05-21T06:47:35.747Z
-description: "Volkswagen startet den Vorverkauf des 5,20-Meter-Flaggschiffs ID. ERA 9X in China. Der vollelektrische SUV kostet ab 329.800 Yuan (ca. 42.200 €) – deutlich günstiger als AITO M9 oder Li Auto L9. Ein riskanter Schachzug im Preiskampf."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Reichweite", "EV"]
+description: >-
+  Volkswagen startet den Vorverkauf des 5,20-Meter-Flaggschiffs ID. ERA 9X in
+  China. Der vollelektrische SUV kostet ab 329.800 Yuan (ca. 42.200 €) –
+  deutlich günstiger als AITO M9 oder Li Auto L9. Ein riskanter Schachzug im
+  Preiskampf.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - VW
+  - NIO
+  - XPeng
+  - Li Auto
+confidence: 0.95
 ---
 
 # VW ID. ERA 9X startet ab 42.200 € – Kampfansage an Nio & Co.

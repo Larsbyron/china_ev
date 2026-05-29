@@ -1,15 +1,30 @@
 ---
-title: "AUDI E7X: Zweites E-Modell startet am 8. Mai in die Vorbestellung"
-date: 2026-05-04T07:00:00
-description: "Der AUDI E7X bietet bis zu 750 km Reichweite, 900V-Technologie und KI-Assistent 2.0 — Vorbestellung ab 8. Mai, Marktstart noch in der ersten Jahreshälfte."
-source: "D1EV"
-image: "/images/ai-audi-e7x-vorbestellung-mai-d1ev-297639.webp"
-category: "news"
-brand: "Audi"
-tags: ["AUDI E7X", "Elektro-SUV", "900V", "Vorbestellung", "Peking Auto Show"]
+title: 'AUDI E7X: Zweites E-Modell startet am 8. Mai in die Vorbestellung'
+date: 2026-05-04T07:00:00.000Z
+description: >-
+  Der AUDI E7X bietet bis zu 750 km Reichweite, 900V-Technologie und
+  KI-Assistent 2.0 — Vorbestellung ab 8. Mai, Marktstart noch in der ersten
+  Jahreshälfte.
+source: D1EV
+image: /images/ai-audi-e7x-vorbestellung-mai-d1ev-297639.webp
+category: news
+brand: Audi
+tags:
+  - AUDI E7X
+  - Elektro-SUV
+  - 900V
+  - Vorbestellung
+  - Peking Auto Show
 draft: false
-original_url: "https://www.d1ev.com/carnews/xinche/297639"
+original_url: 'https://www.d1ev.com/carnews/xinche/297639'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Audi
+confidence: 0.95
 ---
 
 Das zweite Modell der Marke AUDI steht in den Startblöcken: Der AUDI E7X wird am 8. Mai die Vorbestellung eröffnen und noch in der ersten Jahreshälfte 2026 auf den Markt kommen. Der auf einer intelligenten digitalen Plattform basierende SUV setzt erstmals auf den KI-gestützten Audi Assistant 2.0 und bringt eine CLTC-Reichweite von 750 Kilometern mit.

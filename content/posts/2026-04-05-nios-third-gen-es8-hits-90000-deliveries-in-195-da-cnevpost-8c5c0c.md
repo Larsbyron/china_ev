@@ -1,14 +1,30 @@
 ---
-title: "Nios dritte Generation ES8 erreicht 90.000 Auslieferungen in 195 Tagen"
-date: 2026-04-05T14:40:12.494186
-description: "Nio Inc. verzeichnete die 90.000ste Auslieferung seines ES8 der dritten Generation und markierte damit einen weiteren Meilenstein für das große Elektro-SUV (Sport Utility Vehicle). Das Unternehmen vo..."
-source: "CnEVPost"
-image: "/images/nios-third-gen-es8-hits-90000-deliveries-in-195-da-cnevpost-8c5c0c.webp"
-category: "news"
-tag: "E-Auto"
-tags: ["NIO", "BEV", "Deliveries", "ES8", "SUV"]
+title: Nios dritte Generation ES8 erreicht 90.000 Auslieferungen in 195 Tagen
+date: 2026-04-05T14:40:12.494Z
+description: >-
+  Nio Inc. verzeichnete die 90.000ste Auslieferung seines ES8 der dritten
+  Generation und markierte damit einen weiteren Meilenstein für das große
+  Elektro-SUV (Sport Utility Vehicle). Das Unternehmen vo...
+source: CnEVPost
+image: >-
+  /images/nios-third-gen-es8-hits-90000-deliveries-in-195-da-cnevpost-8c5c0c.webp
+category: news
+tag: E-Auto
+tags:
+  - NIO
+  - BEV
+  - Deliveries
+  - ES8
+  - SUV
 draft: false
-original_url: "https://cnevpost.com/2026/04/03/nio-third-gen-es8-90000-deliveries/"
+original_url: 'https://cnevpost.com/2026/04/03/nio-third-gen-es8-90000-deliveries/'
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - NIO
+confidence: 0.9
 ---
 
 # Nios dritte Generation ES8 erreicht 90.000 Auslieferungen in 195 Tagen

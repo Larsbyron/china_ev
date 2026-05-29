@@ -1,15 +1,32 @@
 ---
-title: "Xiaomi: Verlust von rund 5.000 Euro pro Elektroauto im Q1"
+title: 'Xiaomi: Verlust von rund 5.000 Euro pro Elektroauto im Q1'
 date: 2026-05-27T06:17:40.477Z
-description: "Xiaomi (Xiaomi) liefert im ersten Quartal 2026 knapp 81.000 E-Autos aus, schreibt aber einen operativen Verlust von 3,1 Milliarden Yuan (ca. 397 Mio. €). Pro Fahrzeug sind das rund 5.000 Euro minus."
-source: "CarNewsChina"
-image: "/images/xiaomi-verlust-von-rund-5000-euro-pro-elektroauto-carnewschina-cbfee6.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Tesla", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Xiaomi (Xiaomi) liefert im ersten Quartal 2026 knapp 81.000 E-Autos aus,
+  schreibt aber einen operativen Verlust von 3,1 Milliarden Yuan (ca. 397 Mio.
+  €). Pro Fahrzeug sind das rund 5.000 Euro minus.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-verlust-von-rund-5000-euro-pro-elektroauto-carnewschina-cbfee6.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Tesla
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi: Verlust von rund 5.000 Euro pro Elektroauto im Q1

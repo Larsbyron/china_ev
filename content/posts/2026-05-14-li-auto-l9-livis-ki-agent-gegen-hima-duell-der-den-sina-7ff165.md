@@ -1,15 +1,31 @@
 ---
-title: "Li Auto L9 Livis: KI-Agent gegen HIMA – Duell der Denkschulen"
+title: 'Li Auto L9 Livis: KI-Agent gegen HIMA – Duell der Denkschulen'
 date: 2026-05-14T00:04:30.106Z
-description: "Auf der Auto China (Peking Auto Show) zeigen Li Auto und HIMA (Harmony Intelligent Mobility Alliance) konkurrierende KI-Architekturen für das Smart Cockpit. Während Li Auto mit dem L9 Livis auf eine ganzheitliche „verkörperte KI“ setzt, verlässt sich HIMA auf einen modularen Task-Dispatcher. Ein Wet"
-source: "Sina"
-image: "/images/li-auto-l9-livis-ki-agent-gegen-hima-duell-der-den-sina-7ff165.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Auf der Auto China (Peking Auto Show) zeigen Li Auto und HIMA (Harmony
+  Intelligent Mobility Alliance) konkurrierende KI-Architekturen für das Smart
+  Cockpit. Während Li Auto mit dem L9 Livis auf eine ganzheitliche „verkörperte
+  KI“ setzt, verlässt sich HIMA auf einen modularen Task-Dispatcher. Ein Wet
+source: Sina
+image: /images/li-auto-l9-livis-ki-agent-gegen-hima-duell-der-den-sina-7ff165.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - HIMA
+confidence: 0.95
 ---
 
 # Li Auto L9 Livis: KI-Agent gegen HIMA – Duell der Denkschulen

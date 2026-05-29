@@ -1,15 +1,34 @@
 ---
-title: "XPeng GX ab 34.500 € – Topversion mit 640 km Reichweite"
+title: XPeng GX ab 34.500 € – Topversion mit 640 km Reichweite
 date: 2026-05-20T20:09:21.832Z
-description: "XPeng bringt mit dem GX ein Tech-Flaggschiff-SUV in China an den Start. Der vollelektrische 6-Sitzer kostet ab 26,98 万元 (ca. 34.500 €) und bietet bis zu 640 km WLTP-Reichweite in der Topversion. Ein Europa-Start ist noch nicht bestätigt."
-source: "ChooseAuto"
-image: "/images/xpeng-gx-ab-34500-topversion-mit-640-km-reichweite-chooseauto-5d93eb.webp"
-category: "news"
-brand: "XPeng"
-tags: ["XPeng", "Xpeng", "Reichweite", "Zoll", "Elektroauto", "EV"]
+description: >-
+  XPeng bringt mit dem GX ein Tech-Flaggschiff-SUV in China an den Start. Der
+  vollelektrische 6-Sitzer kostet ab 26,98 万元 (ca. 34.500 €) und bietet bis zu
+  640 km WLTP-Reichweite in der Topversion. Ein Europa-Start ist noch nicht
+  bestätigt.
+source: ChooseAuto
+image: >-
+  /images/xpeng-gx-ab-34500-topversion-mit-640-km-reichweite-chooseauto-5d93eb.webp
+category: news
+brand: XPeng
+tags:
+  - XPeng
+  - Xpeng
+  - Reichweite
+  - Zoll
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/907863.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/907863.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.9
 ---
 
 # XPeng GX ab 34.500 € – Topversion mit 640 km Reichweite

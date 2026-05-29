@@ -1,15 +1,23 @@
 ---
-title: "Deepal will 2025 100.000 Autos nach Europa exportieren"
+title: Deepal will 2025 100.000 Autos nach Europa exportieren
 date: 2026-05-25T19:27:19.434Z
-description: "Die Changan-Tochter Deepal (深蓝) gibt auf der Tongji-Universität ihr Exportziel bekannt: 100.000 Einheiten 2025, Europa als anspruchsvoller Zielmarkt. Technisch setzt die junge Marke auf BEV, EREV und sogar Wasserstoff unter 25.600 €."
-source: "D1EV"
-image: "/images/deepal-will-2025-100000-autos-nach-europa-exportie-d1ev-5505d2.webp"
-category: "news"
-
-tags: ["EV"]
+description: >-
+  Die Changan-Tochter Deepal (深蓝) gibt auf der Tongji-Universität ihr Exportziel
+  bekannt: 100.000 Einheiten 2025, Europa als anspruchsvoller Zielmarkt.
+  Technisch setzt die junge Marke auf BEV, EREV und sogar Wasserstoff unter
+  25.600 €.
+source: D1EV
+image: /images/deepal-will-2025-100000-autos-nach-europa-exportie-d1ev-5505d2.webp
+category: news
+tags:
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300376"
+original_url: 'https://www.d1ev.com/news/shichang/300376'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+brands: []
+confidence: 0.5
 ---
 
 # Deepal will 2025 100.000 Autos nach Europa exportieren

@@ -1,15 +1,30 @@
 ---
-title: "Changan CS75PLUS Hybrid: ab 14.100 € als HEV-Familien-SUV"
+title: 'Changan CS75PLUS Hybrid: ab 14.100 € als HEV-Familien-SUV'
 date: 2026-05-14T11:59:34.839Z
-description: "Der Viertgenerations-Changan CS75PLUS Hybrid startet in China ab 109.900 Yuan (ca. 14.100 €). Der Kompakt-SUV mit 1,5-Liter-Turbobenziner und E-Motor soll nur 5 Cent pro Kilometer kosten – ideal für den Alltag.*"
-source: "ChooseAuto"
-image: "/images/changan-cs75plus-hybrid-ab-14100-als-hev-familien-chooseauto-d4553b.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der Viertgenerations-Changan CS75PLUS Hybrid startet in China ab 109.900 Yuan
+  (ca. 14.100 €). Der Kompakt-SUV mit 1,5-Liter-Turbobenziner und E-Motor soll
+  nur 5 Cent pro Kilometer kosten – ideal für den Alltag.*
+source: ChooseAuto
+image: >-
+  /images/changan-cs75plus-hybrid-ab-14100-als-hev-familien-chooseauto-d4553b.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/902600.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/902600.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Changan
+confidence: 0.95
 ---
 
 # Changan CS75PLUS Hybrid: ab 14.100 € als HEV-Familien-SUV

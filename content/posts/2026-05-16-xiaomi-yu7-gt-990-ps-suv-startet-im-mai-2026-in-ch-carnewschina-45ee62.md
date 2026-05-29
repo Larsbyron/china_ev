@@ -1,15 +1,36 @@
 ---
-title: "Xiaomi YU7 GT: 990-PS-SUV startet im Mai 2026 in China"
+title: 'Xiaomi YU7 GT: 990-PS-SUV startet im Mai 2026 in China'
 date: 2026-05-16T11:05:09.164Z
-description: "Der Xiaomi YU7 GT kommt Ende Mai auf den chinesischen Markt. Mit 990 PS, 705 km CLTC-Reichweite und 800-Volt-Architektur tritt er gegen Tesla Model Y Performance und Porsche Macan Turbo EV an – eine Europa-Version ist nicht geplant."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-990-ps-suv-startet-im-mai-2026-in-ch-carnewschina-45ee62.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Tesla", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der Xiaomi YU7 GT kommt Ende Mai auf den chinesischen Markt. Mit 990 PS, 705
+  km CLTC-Reichweite und 800-Volt-Architektur tritt er gegen Tesla Model Y
+  Performance und Porsche Macan Turbo EV an – eine Europa-Version ist nicht
+  geplant.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-gt-990-ps-suv-startet-im-mai-2026-in-ch-carnewschina-45ee62.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Xiaomi
+  - Tesla
+  - Porsche
+confidence: 0.9
 ---
 
 # Xiaomi YU7 GT: 990-PS-SUV startet im Mai 2026 in China

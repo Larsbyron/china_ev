@@ -1,15 +1,30 @@
 ---
-title: "Hyper S600: GAC-Sport-SUV mit 660 km ab 24.200 €"
+title: 'Hyper S600: GAC-Sport-SUV mit 660 km ab 24.200 €'
 date: 2026-05-17T11:11:40.704Z
-description: "GAC Hyper startet den S600 als sportliches SUV-Coupé in China. Der EREV leistet 370 kW, der BEV schafft 660 km CLTC. Einführungspreis ab ca. 24.200 €."
-source: "ChooseAuto"
-image: "/images/hyper-s600-gac-sport-suv-mit-660-km-ab-24200-chooseauto-4a862f.webp"
-category: "news"
-
-tags: ["MG", "Tesla", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  GAC Hyper startet den S600 als sportliches SUV-Coupé in China. Der EREV
+  leistet 370 kW, der BEV schafft 660 km CLTC. Einführungspreis ab ca. 24.200 €.
+source: ChooseAuto
+image: /images/hyper-s600-gac-sport-suv-mit-660-km-ab-24200-chooseauto-4a862f.webp
+category: news
+tags:
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/904866.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/904866.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - GAC
+  - Hyper
+confidence: 0.9
 ---
 
 # Hyper S600: GAC-Sport-SUV mit 660 km ab 24.200 €

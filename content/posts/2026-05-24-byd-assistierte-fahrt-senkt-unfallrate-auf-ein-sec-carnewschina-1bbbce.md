@@ -1,15 +1,33 @@
 ---
-title: "BYD: Assistierte Fahrt senkt Unfallrate auf ein Sechstel"
+title: 'BYD: Assistierte Fahrt senkt Unfallrate auf ein Sechstel'
 date: 2026-05-24T06:00:26.743Z
-description: "BYD meldet für seine Fahrassistenzsysteme in knapp drei Millionen Fahrzeugen eine drastische Reduzierung schwerer Unfälle auf ein Sechstel. Die KI-gestützten Systeme lernen ständig dazu – und kommen bald auch in Europa zum Einsatz."
-source: "CarNewsChina"
-image: "/images/byd-assistierte-fahrt-senkt-unfallrate-auf-ein-sec-carnewschina-1bbbce.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Reichweite", "EV"]
+description: >-
+  BYD meldet für seine Fahrassistenzsysteme in knapp drei Millionen Fahrzeugen
+  eine drastische Reduzierung schwerer Unfälle auf ein Sechstel. Die
+  KI-gestützten Systeme lernen ständig dazu – und kommen bald auch in Europa zum
+  Einsatz.
+source: CarNewsChina
+image: >-
+  /images/byd-assistierte-fahrt-senkt-unfallrate-auf-ein-sec-carnewschina-1bbbce.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/23/byd-assisted-driving-slashes-severe-accident-rate-to-one-sixth-across-3-million-vehicles/"
+original_url: >-
+  https://carnewschina.com/2026/05/23/byd-assisted-driving-slashes-severe-accident-rate-to-one-sixth-across-3-million-vehicles/
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: eu_planned
+brands:
+  - BYD
+  - NIO
+confidence: 0.95
 ---
 
 # BYD: Assistierte Fahrt senkt Unfallrate auf ein Sechstel

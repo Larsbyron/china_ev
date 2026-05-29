@@ -1,15 +1,29 @@
 ---
-title: "Skoda Epiq Sportline Erlkönig-Fotos"
+title: Skoda Epiq Sportline Erlkönig-Fotos
 date: 2026-05-09T23:13:10.707Z
-description: "[Autohome Erlkönig-Fotos] Nur noch 12 Tage bis zur Weltpremiere von Skodas neuem kleinen Elektro-SUV – dem Epiq (Parameter | Preis) – (offizielle Enthüllung am 19. Mai). Nun sind Erlkönig-Fotos eines ..."
-source: "Autohome NewEnergy"
-image: "/images/skoda-epiq-sportline-erlknig-fotos-autohome-newenergy-4908a3.webp"
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Zoll", "Elektroauto"]
+description: >-
+  [Autohome Erlkönig-Fotos] Nur noch 12 Tage bis zur Weltpremiere von Skodas
+  neuem kleinen Elektro-SUV – dem Epiq (Parameter | Preis) – (offizielle
+  Enthüllung am 19. Mai). Nun sind Erlkönig-Fotos eines ...
+source: Autohome NewEnergy
+image: /images/skoda-epiq-sportline-erlknig-fotos-autohome-newenergy-4908a3.webp
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Zoll
+  - Elektroauto
 draft: false
-original_url: "https://www.autohome.com.cn/news/202605/1314152.html"
+original_url: 'https://www.autohome.com.cn/news/202605/1314152.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - Skoda
+confidence: 0.9
 ---
 
 # Skoda Epiq Sportline Erlkönig-Fotos

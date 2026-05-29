@@ -1,15 +1,30 @@
 ---
-title: "Denza B5/B8: Flash-Charge-Editions ab 38.400 € gestartet"
+title: 'Denza B5/B8: Flash-Charge-Editions ab 38.400 € gestartet'
 date: 2026-05-14T11:49:37.591Z
-description: "BYD bringt in China die überarbeiteten Denza B5 und B8 als Flash-Charge-Edition. Mit neuer Hydraulikfederung und bis zu 1.380 km Reichweite (CLTC) – ein Export nach Europa ist offen."
-source: "CarNewsChina"
-image: "/images/denza-b5b8-flash-charge-editions-ab-38400-gestarte-carnewschina-450c8e.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Reichweite"]
+description: >-
+  BYD bringt in China die überarbeiteten Denza B5 und B8 als
+  Flash-Charge-Edition. Mit neuer Hydraulikfederung und bis zu 1.380 km
+  Reichweite (CLTC) – ein Export nach Europa ist offen.
+source: CarNewsChina
+image: >-
+  /images/denza-b5b8-flash-charge-editions-ab-38400-gestarte-carnewschina-450c8e.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/14/byds-denza-b5-b8-flash-charge-editions-launched-with-yunnian-p-ultra-suspension-from-43900-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/14/byds-denza-b5-b8-flash-charge-editions-launched-with-yunnian-p-ultra-suspension-from-43900-usd-in-china/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Denza B5/B8: Flash-Charge-Editions ab 38.400 € gestartet

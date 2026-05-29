@@ -1,15 +1,31 @@
 ---
-title: "BYD Sea Lion 06 DM-i: ab 16.600 € mit 310 km E-Reichweite"
+title: 'BYD Sea Lion 06 DM-i: ab 16.600 € mit 310 km E-Reichweite'
 date: 2026-05-26T06:09:40.926Z
-description: "BYD (比亚迪) bringt den überarbeiteten Sea Lion 06 DM-i als 2026er-Modell in China. Der Plug-in-Hybrid bietet bis zu 310 km CLTC-Reichweite (ca. 260 km WLTP) und moderne Assistenzsysteme."
-source: "ChooseAuto"
-image: "/images/byd-sea-lion-06-dm-i-ab-16600-mit-310-km-e-reichwe-chooseauto-86906c.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  BYD (比亚迪) bringt den überarbeiteten Sea Lion 06 DM-i als 2026er-Modell in
+  China. Der Plug-in-Hybrid bietet bis zu 310 km CLTC-Reichweite (ca. 260 km
+  WLTP) und moderne Assistenzsysteme.
+source: ChooseAuto
+image: >-
+  /images/byd-sea-lion-06-dm-i-ab-16600-mit-310-km-e-reichwe-chooseauto-86906c.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/912956.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/912956.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Sea Lion 06 DM-i: ab 16.600 € mit 310 km E-Reichweite

@@ -1,16 +1,39 @@
 ---
-title: "Chinesische SUV-Flut: Zehn neue Riesen-Modelle ab 2026"
+title: 'Chinesische SUV-Flut: Zehn neue Riesen-Modelle ab 2026'
 date: 2026-05-10T20:48:46.610Z
-description: "Der chinesische Markt für große SUV erlebt 2026 einen Ansturm neuer Modelle. Über zehn Hersteller bringen Premium-Fahrzeuge, die auch für Europa interessant sein könnten."
-source: "OFweek NEV"
-image: "/images/ai-chinesische-suv-flut-zehn-neue-riesen-modelle-ab-2-ofweek-nev-a469b4.webp"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "XPeng", "Li Auto", "Xiaomi SU", "Tesla", "Reichweite", "EV"]
+description: >-
+  Der chinesische Markt für große SUV erlebt 2026 einen Ansturm neuer Modelle.
+  Über zehn Hersteller bringen Premium-Fahrzeuge, die auch für Europa
+  interessant sein könnten.
+source: OFweek NEV
+image: >-
+  /images/ai-chinesische-suv-flut-zehn-neue-riesen-modelle-ab-2-ofweek-nev-a469b4.webp
+category: news
+tags:
+  - NIO
+  - XPeng
+  - XPeng
+  - Li Auto
+  - Xiaomi SU
+  - Tesla
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-02/ART-71000-8220-30681631.html"
+original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30681631.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - NIO
+  - XPeng
+  - Li Auto
+  - Xiaomi
+  - Tesla
+  - Voyah
+  - Luxeed
+confidence: 0.9
 ---
 
 # Chinesische SUV-Flut: Zehn neue Riesen-Modelle ab 2026

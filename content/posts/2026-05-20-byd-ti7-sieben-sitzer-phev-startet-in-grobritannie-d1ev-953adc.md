@@ -1,15 +1,29 @@
 ---
-title: "BYD Ti7: Sieben-Sitzer-PHEV startet in Großbritannien"
+title: 'BYD Ti7: Sieben-Sitzer-PHEV startet in Großbritannien'
 date: 2026-05-20T20:07:57.554Z
-description: "BYD bringt den siebensitzigen Plug-in-Hybrid Ti7 nach Großbritannien. Der SUV mit DM-p-Allradantrieb konkurriert mit dem Land Rover Defender. In China kostet er ab 18,98万元 (ca. 24.300 €). Ein Deutschland-Start ist offen."
-source: "D1EV"
-image: "/images/byd-ti7-sieben-sitzer-phev-startet-in-grobritannie-d1ev-953adc.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Reichweite", "EV"]
+description: >-
+  BYD bringt den siebensitzigen Plug-in-Hybrid Ti7 nach Großbritannien. Der SUV
+  mit DM-p-Allradantrieb konkurriert mit dem Land Rover Defender. In China
+  kostet er ab 18,98万元 (ca. 24.300 €). Ein Deutschland-Start ist offen.
+source: D1EV
+image: /images/byd-ti7-sieben-sitzer-phev-startet-in-grobritannie-d1ev-953adc.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299749"
+original_url: 'https://www.d1ev.com/news/qiye/299749'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_available
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Ti7: Sieben-Sitzer-PHEV startet in Großbritannien

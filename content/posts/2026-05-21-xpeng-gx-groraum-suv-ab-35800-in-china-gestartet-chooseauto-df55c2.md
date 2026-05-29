@@ -1,15 +1,31 @@
 ---
-title: "XPeng GX: Großraum-SUV ab 35.800 € in China gestartet"
+title: 'XPeng GX: Großraum-SUV ab 35.800 € in China gestartet'
 date: 2026-05-21T19:54:33.892Z
-description: "XPeng (小鹏) bringt sein Flaggschiff-SUV GX in China zum Startpreis von 279.800 Yuan (ca. 35.800 €). Der 5,28 Meter lange Sechssitzer bietet Platz für bis zu sechs Personen mit Gepäck und setzt auf Steer-by-Wire sowie 2250 TOPS Rechenleistung."
-source: "ChooseAuto"
-image: "/images/xpeng-gx-groraum-suv-ab-35800-in-china-gestartet-chooseauto-df55c2.webp"
-category: "news"
-brand: "XPeng"
-tags: ["XPeng", "Xpeng", "Reichweite", "EV"]
+description: >-
+  XPeng (小鹏) bringt sein Flaggschiff-SUV GX in China zum Startpreis von 279.800
+  Yuan (ca. 35.800 €). Der 5,28 Meter lange Sechssitzer bietet Platz für bis zu
+  sechs Personen mit Gepäck und setzt auf Steer-by-Wire sowie 2250 TOPS
+  Rechenleistung.
+source: ChooseAuto
+image: >-
+  /images/xpeng-gx-groraum-suv-ab-35800-in-china-gestartet-chooseauto-df55c2.webp
+category: news
+brand: XPeng
+tags:
+  - XPeng
+  - Xpeng
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/908886.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/908886.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.95
 ---
 
 # XPeng GX: Großraum-SUV ab 35.800 € in China gestartet

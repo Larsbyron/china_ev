@@ -1,15 +1,26 @@
 ---
-title: "Audi E7X vs. Xiaomi YU7: 900-Volt-Konter ab 37.100 €"
+title: 'Audi E7X vs. Xiaomi YU7: 900-Volt-Konter ab 37.100 €'
 date: 2026-05-18T06:10:41.828Z
-description: "Audi startet Vorverkauf des E7X in China ab 28,98万元 (ca. 37.100 €). Der elektrische SUV tritt gegen Xiaomis YU7 an – ein Duell zwischen klassischer Ingenieurskunst und Tech-Ökosystem. Marktstart in Deutschland noch offen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Reichweite", "Elektroauto"]
+description: >-
+  Audi startet Vorverkauf des E7X in China ab 28,98万元 (ca. 37.100 €). Der
+  elektrische SUV tritt gegen Xiaomis YU7 an – ein Duell zwischen klassischer
+  Ingenieurskunst und Tech-Ökosystem. Marktstart in Deutschland noch offen.
+source: OFweek NEV
+category: news
+tags:
+  - Reichweite
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Audi E7X vs. Xiaomi YU7: 900-Volt-Konter ab 37.100 €

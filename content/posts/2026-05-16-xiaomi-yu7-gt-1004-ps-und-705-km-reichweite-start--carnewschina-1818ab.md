@@ -1,15 +1,31 @@
 ---
-title: "Xiaomi YU7 GT: 1.004 PS und 705 km Reichweite – Start Ende Mai"
+title: 'Xiaomi YU7 GT: 1.004 PS und 705 km Reichweite – Start Ende Mai'
 date: 2026-05-16T19:05:38.515Z
-description: "Der Xiaomi YU7 GT bringt es auf 1.004 PS und 800-Volt-Schnellladung. Mit 705 km CLTC-Reichweite und einer Nordschleifen-Zeit von 7:32 Minuten startet das Performance-SUV Ende Mai in China."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-1004-ps-und-705-km-reichweite-start-carnewschina-1818ab.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Reichweite", "Zoll"]
+description: >-
+  Der Xiaomi YU7 GT bringt es auf 1.004 PS und 800-Volt-Schnellladung. Mit 705
+  km CLTC-Reichweite und einer Nordschleifen-Zeit von 7:32 Minuten startet das
+  Performance-SUV Ende Mai in China.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-gt-1004-ps-und-705-km-reichweite-start-carnewschina-1818ab.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7 GT: 1.004 PS und 705 km Reichweite – Start Ende Mai

@@ -1,15 +1,31 @@
 ---
-title: "NIO: Rekordumsatz von 3,27 Mrd. Euro im Q1"
+title: 'NIO: Rekordumsatz von 3,27 Mrd. Euro im Q1'
 date: 2026-05-22T12:16:33.357Z
-description: "NIO (蔚来) meldet für Q1 2026 einen Umsatz von 25,5 Mrd. Yuan (ca. 3,27 Mrd. €) und einen bereinigten Gewinn – das zweite Quartal in Folge profitabel. Der Durchschnittspreis liegt rund 6.400 € über BMW. Ausblick Q2: 110.000 bis 115.000 Auslieferungen."
-source: "D1EV"
-image: "/images/nio-rekordumsatz-von-327-mrd-euro-im-q1-d1ev-a09e6c.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Onvo", "MG", "Batterie", "EV"]
+description: >-
+  NIO (蔚来) meldet für Q1 2026 einen Umsatz von 25,5 Mrd. Yuan (ca. 3,27 Mrd. €)
+  und einen bereinigten Gewinn – das zweite Quartal in Folge profitabel. Der
+  Durchschnittspreis liegt rund 6.400 € über BMW. Ausblick Q2: 110.000 bis
+  115.000 Auslieferungen.
+source: D1EV
+image: /images/nio-rekordumsatz-von-327-mrd-euro-im-q1-d1ev-a09e6c.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - Onvo
+  - MG
+  - Batterie
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300073"
+original_url: 'https://www.d1ev.com/news/shichang/300073'
 read_time_minutes: 3
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: eu_available
+brands:
+  - NIO
+confidence: 0.95
 ---
 
 # NIO: Rekordumsatz von 3,27 Mrd. Euro im Q1

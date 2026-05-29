@@ -1,15 +1,31 @@
 ---
-title: "Voyah Passion S: 637 PS – Xiaomi YU7-Rivale vorgestellt"
+title: 'Voyah Passion S: 637 PS – Xiaomi YU7-Rivale vorgestellt'
 date: 2026-05-22T06:07:27.962Z
-description: "Voyah (岚图) zeigt den Passion S, ein Coupé-SUV mit 637 PS und 800-Volt-Technik. Das Fahrzeug tritt gegen den Xiaomi YU7 an. Ein Europa-Start über ein Stellantis-Joint Venture zeichnet sich ab."
-source: "CarNewsChina"
-image: "/images/voyah-passion-s-637-ps-xiaomi-yu7-rivale-vorgestel-carnewschina-48592c.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Reichweite", "Zoll"]
+description: >-
+  Voyah (岚图) zeigt den Passion S, ein Coupé-SUV mit 637 PS und 800-Volt-Technik.
+  Das Fahrzeug tritt gegen den Xiaomi YU7 an. Ein Europa-Start über ein
+  Stellantis-Joint Venture zeichnet sich ab.
+source: CarNewsChina
+image: >-
+  /images/voyah-passion-s-637-ps-xiaomi-yu7-rivale-vorgestel-carnewschina-48592c.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/22/voyah-passion-s-official-images-released-a-xiaomi-yu7-challenger-with-637-hp/"
+original_url: >-
+  https://carnewschina.com/2026/05/22/voyah-passion-s-official-images-released-a-xiaomi-yu7-challenger-with-637-hp/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - Voyah
+confidence: 0.9
 ---
 
 # Voyah Passion S: 637 PS – Xiaomi YU7-Rivale vorgestellt

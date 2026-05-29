@@ -1,16 +1,27 @@
 ---
-title: "Audi E7X vs. Xiaomi YU7: 30.000-Euro-SUV-Duell in China"
+title: 'Audi E7X vs. Xiaomi YU7: 30.000-Euro-SUV-Duell in China'
 date: 2026-05-11T11:26:32.748Z
-description: "Audi fordert mit dem E7X Xiaomis YU7 heraus – zwei Elektro-SUVs ab 32.500 €. Während Audi auf Quattro und 900V setzt, punktet Xiaomi mit 835 km Reichweite (CLTC) und vollem Tech-Ökosystem. Ein Showdown der Konzepte."
-source: "OFweek NEV"
-image: "/images/ai-audi-e7x-vs-xiaomi-yu7-30000-euro-suv-duell-in-chi-ofweek-nev-a6d17f.webp"
-
-category: "news"
-
-tags: ["Reichweite"]
+description: >-
+  Audi fordert mit dem E7X Xiaomis YU7 heraus – zwei Elektro-SUVs ab 32.500 €.
+  Während Audi auf Quattro und 900V setzt, punktet Xiaomi mit 835 km Reichweite
+  (CLTC) und vollem Tech-Ökosystem. Ein Showdown der Konzepte.
+source: OFweek NEV
+image: >-
+  /images/ai-audi-e7x-vs-xiaomi-yu7-30000-euro-suv-duell-in-chi-ofweek-nev-a6d17f.webp
+category: news
+tags:
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Audi E7X vs. Xiaomi YU7: 30.000-Euro-SUV-Duell in China

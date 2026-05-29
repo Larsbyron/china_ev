@@ -1,15 +1,36 @@
 ---
-title: "NIO-CEO: Premium kostet mindestens 51.000 €"
+title: 'NIO-CEO: Premium kostet mindestens 51.000 €'
 date: 2026-05-17T19:00:21.497Z
-description: "Auf dem Branchengipfel in Guangzhou betonte NIO-Chef Li Bin, dass Premiummarken Service und Erlebnis bieten müssen – nicht nur Technik. NIO startet in China ab umgerechnet 51.000 €. Konkrete Europastrategie bleibt jedoch vage."
-source: "ChooseAuto"
-image: "/images/nio-ceo-premium-kostet-mindestens-51000-chooseauto-cfa16b.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "XPeng", "Xpeng", "MG", "Tesla", "Batterie", "EV", "Marktanteil"]
+description: >-
+  Auf dem Branchengipfel in Guangzhou betonte NIO-Chef Li Bin, dass
+  Premiummarken Service und Erlebnis bieten müssen – nicht nur Technik. NIO
+  startet in China ab umgerechnet 51.000 €. Konkrete Europastrategie bleibt
+  jedoch vage.
+source: ChooseAuto
+image: /images/nio-ceo-premium-kostet-mindestens-51000-chooseauto-cfa16b.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - MG
+  - Tesla
+  - Batterie
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/905053.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/905053.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - NIO
+  - XPeng
+confidence: 0.9
 ---
 
 # NIO-CEO: Premium kostet mindestens 51.000 €

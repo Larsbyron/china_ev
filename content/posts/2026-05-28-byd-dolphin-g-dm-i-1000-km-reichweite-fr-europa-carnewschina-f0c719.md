@@ -1,15 +1,33 @@
 ---
-title: "BYD Dolphin G DM-i: 1.000 km Reichweite für Europa"
+title: 'BYD Dolphin G DM-i: 1.000 km Reichweite für Europa'
 date: 2026-05-28T06:18:42.162Z
-description: "BYD bringt den Dolphin G DM-i als Plug-in-Hybrid speziell für Europa. Der Kleinwagen kombiniert 1,5-Liter-Benziner und E-Motor, erreicht 1.000 km Gesamtreichweite. Marktstart im Herbst 2026, produziert in Ungarn."
-source: "CarNewsChina"
-image: "/images/byd-dolphin-g-dm-i-1000-km-reichweite-fr-europa-carnewschina-f0c719.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  BYD bringt den Dolphin G DM-i als Plug-in-Hybrid speziell für Europa. Der
+  Kleinwagen kombiniert 1,5-Liter-Benziner und E-Motor, erreicht 1.000 km
+  Gesamtreichweite. Marktstart im Herbst 2026, produziert in Ungarn.
+source: CarNewsChina
+image: >-
+  /images/byd-dolphin-g-dm-i-1000-km-reichweite-fr-europa-carnewschina-f0c719.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/byd-dolphin-g-plug-in-hybrid-hatchback-broke-cover-ahead-of-european-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/byd-dolphin-g-plug-in-hybrid-hatchback-broke-cover-ahead-of-european-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - industrie-produktion-lieferkette
+marketRelevance: eu_available
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Dolphin G DM-i: 1.000 km Reichweite für Europa

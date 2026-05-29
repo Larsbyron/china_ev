@@ -1,15 +1,28 @@
 ---
-title: "Voyah Taishan X8: Luxus-SUV ab 36.200 €"
+title: 'Voyah Taishan X8: Luxus-SUV ab 36.200 €'
 date: 2026-05-22T12:18:56.609Z
-description: "Voyah (岚图) bringt mit dem Taishan X8 ein fünfsitziges SUV-Premiummodell auf den chinesischen Markt. Preise ab 36.200 €, bis zu 1506 km Reichweite (CLTC) und vollelektrischer oder Hybridantrieb."
-source: "ChooseAuto"
-image: "/images/voyah-taishan-x8-luxus-suv-ab-36200-chooseauto-efa57b.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Voyah (岚图) bringt mit dem Taishan X8 ein fünfsitziges SUV-Premiummodell auf
+  den chinesischen Markt. Preise ab 36.200 €, bis zu 1506 km Reichweite (CLTC)
+  und vollelektrischer oder Hybridantrieb.
+source: ChooseAuto
+image: /images/voyah-taishan-x8-luxus-suv-ab-36200-chooseauto-efa57b.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/909782.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/909782.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Voyah
+confidence: 0.95
 ---
 
 # Voyah Taishan X8: Luxus-SUV ab 36.200 €

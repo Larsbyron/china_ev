@@ -1,13 +1,29 @@
 ---
-title: "Li Auto startet Expansion: Partnerschaften im Nahen Osten und Asien"
+title: 'Li Auto startet Expansion: Partnerschaften im Nahen Osten und Asien'
 date: 2026-04-25T10:00:00.000Z
-description: "Li Auto hat Partnerschaftsabkommen mit Händlern in den VAE und Saudi-Arabien unterzeichnet. Die L-Serie mit Range-Extender soll in den Nahen Osten expandieren, der Asia-Pazifik-Raum folgt ab Mai."
-source: "CnEVPost"
-image: "/images/li-auto-Expansion-nach-nahen-osten-und-asien-cnevpost-b7d523.webp"
-category: "news"
-tags: ["Li Auto", "Naher Osten", "VAE", "Saudi-Arabien", "Expansion"]
+description: >-
+  Li Auto hat Partnerschaftsabkommen mit Händlern in den VAE und Saudi-Arabien
+  unterzeichnet. Die L-Serie mit Range-Extender soll in den Nahen Osten
+  expandieren, der Asia-Pazifik-Raum folgt ab Mai.
+source: CnEVPost
+image: /images/li-auto-Expansion-nach-nahen-osten-und-asien-cnevpost-b7d523.webp
+category: news
+tags:
+  - Li Auto
+  - Naher Osten
+  - VAE
+  - Saudi-Arabien
+  - Expansion
 draft: false
-original_url: "https://cnevpost.com/2026/04/25/li-auto-global-push-new-middle-east-asia-partnerships/"
+original_url: >-
+  https://cnevpost.com/2026/04/25/li-auto-global-push-new-middle-east-asia-partnerships/
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto: Internationale Offensive startet im Nahen Osten

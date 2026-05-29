@@ -1,15 +1,31 @@
 ---
-title: "Li Auto vs. Huawei: Zwei Wege zum intelligenten Cockpit-Agenten"
+title: 'Li Auto vs. Huawei: Zwei Wege zum intelligenten Cockpit-Agenten'
 date: 2026-05-27T20:08:14.557Z
-description: "Auf der Auto China zeigten Li Auto und HIMA (Huawei) gegensätzliche KI-Agent-Architekturen. Während Li Auto auf eine ganzheitliche End-to-End-Lösung setzt, favorisiert Huawei ein cloudbasiertes Plattform-Ökosystem. Ein Technologievergleich."
-source: "Sina"
-image: "/images/li-auto-vs-huawei-zwei-wege-zum-intelligenten-cock-sina-cc7985.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "Reichweite", "EV"]
+description: >-
+  Auf der Auto China zeigten Li Auto und HIMA (Huawei) gegensätzliche
+  KI-Agent-Architekturen. Während Li Auto auf eine ganzheitliche
+  End-to-End-Lösung setzt, favorisiert Huawei ein cloudbasiertes
+  Plattform-Ökosystem. Ein Technologievergleich.
+source: Sina
+image: /images/li-auto-vs-huawei-zwei-wege-zum-intelligenten-cock-sina-cc7985.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 4
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.8
 ---
 
 # Li Auto vs. Huawei: Zwei Wege zum intelligenten Cockpit-Agenten

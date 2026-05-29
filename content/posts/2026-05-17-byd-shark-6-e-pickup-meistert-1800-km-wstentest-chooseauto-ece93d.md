@@ -1,15 +1,28 @@
 ---
-title: "BYD Shark 6: E-Pickup meistert 1.800-km-Wüstentest"
+title: 'BYD Shark 6: E-Pickup meistert 1.800-km-Wüstentest'
 date: 2026-05-17T19:04:36.204Z
-description: "Der BYD Shark 6 (EREV) durchquerte sechs Tage lang die Taklamakan-Wüste. Der Elektro-Pickup mit Range Extender trotzte Sandstürmen und Salzkrusten – bis zu 840 km Gesamtreichweite."
-source: "ChooseAuto"
-image: "/images/byd-shark-6-e-pickup-meistert-1800-km-wstentest-chooseauto-ece93d.webp"
-category: "news"
-
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der BYD Shark 6 (EREV) durchquerte sechs Tage lang die Taklamakan-Wüste. Der
+  Elektro-Pickup mit Range Extender trotzte Sandstürmen und Salzkrusten – bis zu
+  840 km Gesamtreichweite.
+source: ChooseAuto
+image: /images/byd-shark-6-e-pickup-meistert-1800-km-wstentest-chooseauto-ece93d.webp
+category: news
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/905032.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/905032.shtml'
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Shark 6: E-Pickup meistert 1.800-km-Wüstentest

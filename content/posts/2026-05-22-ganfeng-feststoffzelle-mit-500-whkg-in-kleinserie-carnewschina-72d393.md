@@ -1,15 +1,34 @@
 ---
-title: "Ganfeng: Feststoffzelle mit 500 Wh/kg in Kleinserie"
+title: 'Ganfeng: Feststoffzelle mit 500 Wh/kg in Kleinserie'
 date: 2026-05-22T19:30:47.944Z
-description: "Ganfeng Lithium meldet Durchbruch: 400‑Wh/kg-Zelle übersteht 1.100 Ladezyklen, 500‑Wh/kg-Zelle geht in Kleinserie. Zum Vergleich: Aktuelle E-Auto-Akkus erreichen 250–300 Wh/kg. Die Technologie könnte Reichweiten massiv steigern – relevant auch für den deutschen Markt."
-source: "CarNewsChina"
-image: "/images/ganfeng-feststoffzelle-mit-500-whkg-in-kleinserie-carnewschina-72d393.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Ganfeng Lithium meldet Durchbruch: 400‑Wh/kg-Zelle übersteht 1.100 Ladezyklen,
+  500‑Wh/kg-Zelle geht in Kleinserie. Zum Vergleich: Aktuelle E-Auto-Akkus
+  erreichen 250–300 Wh/kg. Die Technologie könnte Reichweiten massiv steigern –
+  relevant auch für den deutschen Markt.
+source: CarNewsChina
+image: >-
+  /images/ganfeng-feststoffzelle-mit-500-whkg-in-kleinserie-carnewschina-72d393.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/changan-backed-ganfengs-solid-state-battery-hits-1100-cycles-with-400-wh-kg-and-500-wh-kg-in-production/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/changan-backed-ganfengs-solid-state-battery-hits-1100-cycles-with-400-wh-kg-and-500-wh-kg-in-production/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: de_available
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Ganfeng: Feststoffzelle mit 500 Wh/kg in Kleinserie

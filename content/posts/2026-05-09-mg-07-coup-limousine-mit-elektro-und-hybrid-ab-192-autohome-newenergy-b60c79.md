@@ -1,15 +1,29 @@
 ---
-title: "MG 07: Coupé-Limousine mit Elektro und Hybrid ab 19.200 €"
+title: 'MG 07: Coupé-Limousine mit Elektro und Hybrid ab 19.200 €'
 date: 2026-05-09T23:49:45.502Z
-description: "MG hat offizielle Bilder des neuen MG 07 veröffentlicht. Die Coupé-Limousine kommt als BEV und Hybrid, startet in China ab ca. 19.200 € und soll 2025 auf den Markt kommen. Ein Europa-Start ist möglich."
-source: "Autohome NewEnergy"
-image: "/images/mg-07-coup-limousine-mit-elektro-und-hybrid-ab-192-autohome-newenergy-b60c79.webp"
-category: "news"
-brand: "MG"
-tags: ["MG", "Elektroauto", "EV"]
+description: >-
+  MG hat offizielle Bilder des neuen MG 07 veröffentlicht. Die Coupé-Limousine
+  kommt als BEV und Hybrid, startet in China ab ca. 19.200 € und soll 2025 auf
+  den Markt kommen. Ein Europa-Start ist möglich.
+source: Autohome NewEnergy
+image: >-
+  /images/mg-07-coup-limousine-mit-elektro-und-hybrid-ab-192-autohome-newenergy-b60c79.webp
+category: news
+brand: MG
+tags:
+  - MG
+  - Elektroauto
+  - EV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314172.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314172.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - MG
+confidence: 0.9
 ---
 
 # MG 07: Coupé-Limousine mit Elektro und Hybrid ab 19.200 €

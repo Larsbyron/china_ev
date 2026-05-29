@@ -1,15 +1,31 @@
 ---
-title: "VW ID. ERA 9X: Kampfansage an AITO M9 & Li Auto L9 ab 42.200 €"
+title: 'VW ID. ERA 9X: Kampfansage an AITO M9 & Li Auto L9 ab 42.200 €'
 date: 2026-05-14T00:09:57.930Z
-description: "Volkswagen startet den Vorverkauf des ID. ERA 9X in China ab ca. 42.200 €. Das 5,2-Meter-SUV tritt gegen AITO M9 und Li Auto L9 an. Serienausstattung: 800-Volt-Architektur, Lidar und adaptives Fahrwerk."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Li Auto", "Batterie", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  Volkswagen startet den Vorverkauf des ID. ERA 9X in China ab ca. 42.200 €. Das
+  5,2-Meter-SUV tritt gegen AITO M9 und Li Auto L9 an. Serienausstattung:
+  800-Volt-Architektur, Lidar und adaptives Fahrwerk.
+source: OFweek NEV
+category: news
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - VW
+  - AITO
+  - Li Auto
+confidence: 0.9
 ---
 
 # VW ID. ERA 9X: Kampfansage an AITO M9 & Li Auto L9 ab 42.200 €

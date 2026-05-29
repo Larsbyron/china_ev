@@ -1,15 +1,36 @@
 ---
-title: "VW ID.ERA 5S: 2000 km Reichweite ab ca. 19.200 €"
+title: 'VW ID.ERA 5S: 2000 km Reichweite ab ca. 19.200 €'
 date: 2026-05-25T13:06:35.577Z
-description: "Sieben neue Modelle im MIIT-Katalog: Mercedes GLE L, VW ID.ERA 5S mit 2000 km, XPeng MONA L03/L05, Hyundai IONIQ V und Fangchengbao 8. Eine Übersicht der wichtigsten China-Debüts."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Tesla", "Reichweite", "Zoll", "EV"]
+description: >-
+  Sieben neue Modelle im MIIT-Katalog: Mercedes GLE L, VW ID.ERA 5S mit 2000 km,
+  XPeng MONA L03/L05, Hyundai IONIQ V und Fangchengbao 8. Eine Übersicht der
+  wichtigsten China-Debüts.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Tesla
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - VW
+  - Mercedes
+  - XPeng
+  - Hyundai
+  - BYD
+confidence: 0.95
 ---
 
 # VW ID.ERA 5S: 2000 km Reichweite ab ca. 19.200 €

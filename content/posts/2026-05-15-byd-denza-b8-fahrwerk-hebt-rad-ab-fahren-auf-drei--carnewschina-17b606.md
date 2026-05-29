@@ -1,15 +1,31 @@
 ---
-title: "BYD Denza B8: Fahrwerk hebt Rad ab – Fahren auf drei Rädern"
+title: 'BYD Denza B8: Fahrwerk hebt Rad ab – Fahren auf drei Rädern'
 date: 2026-05-15T10:33:50.675Z
-description: "BYD Denza B8, AITO M9 und Li Auto L9 zeigen aktive Fahrwerke, die ein Rad anheben und auf drei Rädern weiterfahren können. Reifenwechsel in unter zwei Minuten. Marktstart in China ab ca. 53.700 € (Denza B8). Ein Europa-Start ist offen."
-source: "CarNewsChina"
-image: "/images/byd-denza-b8-fahrwerk-hebt-rad-ab-fahren-auf-drei-carnewschina-17b606.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Li Auto", "Reichweite"]
+description: >-
+  BYD Denza B8, AITO M9 und Li Auto L9 zeigen aktive Fahrwerke, die ein Rad
+  anheben und auf drei Rädern weiterfahren können. Reifenwechsel in unter zwei
+  Minuten. Marktstart in China ab ca. 53.700 € (Denza B8). Ein Europa-Start ist
+  offen.
+source: CarNewsChina
+image: >-
+  /images/byd-denza-b8-fahrwerk-hebt-rad-ab-fahren-auf-drei-carnewschina-17b606.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Li Auto
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/"
+original_url: >-
+  https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Denza B8: Fahrwerk hebt Rad ab – Fahren auf drei Rädern

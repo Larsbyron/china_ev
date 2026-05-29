@@ -1,15 +1,29 @@
 ---
-title: "WEY V9X: ab 44.800 €, 1700 km Reichweite (CLTC)"
+title: 'WEY V9X: ab 44.800 €, 1700 km Reichweite (CLTC)'
 date: 2026-05-18T13:50:44.157Z
-description: "Der WEY V9X startet in China ab 349.800 Yuan (ca. 44.800 €). Das AI-Luxus-Sechssitzer-SUV bietet 1700 km CLTC-Reichweite und einen 0-100 km/h-Sprint unter 5 Sekunden. Gründer Wei Jianjun wirbt persönlich für das Modell."
-source: "ChooseAuto"
-image: "/images/wey-v9x-ab-44800-1700-km-reichweite-cltc-chooseauto-76bb31.webp"
-category: "news"
-
-tags: ["Batterie", "Reichweite", "EV"]
+description: >-
+  Der WEY V9X startet in China ab 349.800 Yuan (ca. 44.800 €). Das
+  AI-Luxus-Sechssitzer-SUV bietet 1700 km CLTC-Reichweite und einen 0-100
+  km/h-Sprint unter 5 Sekunden. Gründer Wei Jianjun wirbt persönlich für das
+  Modell.
+source: ChooseAuto
+image: /images/wey-v9x-ab-44800-1700-km-reichweite-cltc-chooseauto-76bb31.webp
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/905866.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/905866.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - WEY
+confidence: 0.9
 ---
 
 # WEY V9X: ab 44.800 €, 1700 km Reichweite (CLTC)

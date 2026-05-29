@@ -1,15 +1,33 @@
 ---
-title: "Toyota bZ3X mit 65 % China-Teilen: BYD profitiert"
+title: 'Toyota bZ3X mit 65 % China-Teilen: BYD profitiert'
 date: 2026-05-28T06:29:44.379Z
-description: "Toyota, Nissan und Honda setzen bei E-Autos in China zunehmend auf heimische Zulieferer. Der bZ3X besteht zu 65 % aus chinesischen Komponenten. Die Kosten sinken – und BYD (比亚迪) profitiert als Nutznießer und Lieferant."
-source: "D1EV"
-image: "/images/toyota-bz3x-mit-65-china-teilen-byd-profitiert-d1ev-745a1f.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Toyota, Nissan und Honda setzen bei E-Autos in China zunehmend auf heimische
+  Zulieferer. Der bZ3X besteht zu 65 % aus chinesischen Komponenten. Die Kosten
+  sinken – und BYD (比亚迪) profitiert als Nutznießer und Lieferant.
+source: D1EV
+image: /images/toyota-bz3x-mit-65-china-teilen-byd-profitiert-d1ev-745a1f.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/300804"
+original_url: 'https://www.d1ev.com/news/qiye/300804'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Toyota
+  - BYD
+confidence: 0.95
 ---
 
 # Toyota bZ3X mit 65 % China-Teilen: BYD profitiert

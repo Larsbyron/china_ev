@@ -1,15 +1,31 @@
 ---
-title: "Neuer Zeekr 009 feiert Marktstart am 19. Mai – mit 900V, Thor-U-Chip und Naim-Sound"
-date: 2026-05-08T07:52:54+02:00
-description: "Der überarbeitete Zeekr 009 kommt mit 900V-Architektur, Thor-U-Rechenchip (700 TOPS), Naim-Audiosystem und drei Ausstattungslinien auf den Markt."
-source: "Autohome NewEnergy"
-image: "/images/ai-neuer-zeekr-009-marktstart-2026-autohome-NE-1314149.webp"
-category: "news"
-brand: "Zeekr"
-tags: ["Zeekr", "009", "MPV", "900V", "Thor"]
+title: >-
+  Neuer Zeekr 009 feiert Marktstart am 19. Mai – mit 900V, Thor-U-Chip und
+  Naim-Sound
+date: 2026-05-08T05:52:54.000Z
+description: >-
+  Der überarbeitete Zeekr 009 kommt mit 900V-Architektur, Thor-U-Rechenchip (700
+  TOPS), Naim-Audiosystem und drei Ausstattungslinien auf den Markt.
+source: Autohome NewEnergy
+image: /images/ai-neuer-zeekr-009-marktstart-2026-autohome-NE-1314149.webp
+category: news
+brand: Zeekr
+tags:
+  - Zeekr
+  - 009
+  - MPV
+  - 900V
+  - Thor
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314149.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314149.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Zeekr
+confidence: 0.95
 ---
 
 Der neue Zeekr 009 wird am 19. Mai in China offiziell eingeführt. Bereits auf der Beijing Auto Show war das überarbeitete Luxus-MPV als Vorbestellmodell zu sehen. Drei Varianten stehen zur Wahl: die Siebensitzer „Ultra“, die Siebensitzer „Ultra+ Familienedition“ sowie die Sechssitzer „Ultra+ Executive“.

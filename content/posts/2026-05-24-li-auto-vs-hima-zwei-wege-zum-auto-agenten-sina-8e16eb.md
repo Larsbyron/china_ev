@@ -1,15 +1,30 @@
 ---
-title: "Li Auto vs. HIMA: Zwei Wege zum Auto-Agenten"
+title: 'Li Auto vs. HIMA: Zwei Wege zum Auto-Agenten'
 date: 2026-05-24T06:02:57.398Z
-description: "Auf der Beijing Auto Show zeichnet sich ein strategischer Wettstreit ab: Während HIMA auf eine Cloud-basierte Verteilerarchitektur setzt, verfolgt Li Auto mit dem Livis einen ganzheitlichen, physisch integrierten Agent-Ansatz. Beide Lager pokern um die Zukunft der intelligenten Cockpits."
-source: "Sina"
-image: "/images/li-auto-vs-hima-zwei-wege-zum-auto-agenten-sina-8e16eb.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "NIO", "XPeng", "Xpeng", "MG", "EV"]
+description: >-
+  Auf der Beijing Auto Show zeichnet sich ein strategischer Wettstreit ab:
+  Während HIMA auf eine Cloud-basierte Verteilerarchitektur setzt, verfolgt Li
+  Auto mit dem Livis einen ganzheitlichen, physisch integrierten Agent-Ansatz.
+  Beide Lager pokern um die Zukunft der intelligenten Cockpits.
+source: Sina
+image: /images/li-auto-vs-hima-zwei-wege-zum-auto-agenten-sina-8e16eb.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - NIO
+  - XPeng
+  - Xpeng
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics: []
+brands: []
+confidence: 0.5
 ---
 
 # Li Auto vs. HIMA: Zwei Wege zum Auto-Agenten

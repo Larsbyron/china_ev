@@ -1,15 +1,34 @@
 ---
-title: "BYD Atto 3: Neue Generation ab 15.300 € mit 540 km CLTC"
+title: 'BYD Atto 3: Neue Generation ab 15.300 € mit 540 km CLTC'
 date: 2026-05-21T19:55:23.960Z
-description: "BYD hat in China den neuen Atto 3 vorgestellt. Das Elektro-SUV bietet bis zu 630 km CLTC (ca. 540 km WLTP) und startet ab 15.300 €. Ein Europa-Start ist wahrscheinlich."
-source: "CarNewsChina"
-image: "/images/byd-atto-3-neue-generation-ab-15300-mit-540-km-clt-carnewschina-c6540a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Reichweite", "Ladestation", "EV"]
+description: >-
+  BYD hat in China den neuen Atto 3 vorgestellt. Das Elektro-SUV bietet bis zu
+  630 km CLTC (ca. 540 km WLTP) und startet ab 15.300 €. Ein Europa-Start ist
+  wahrscheinlich.
+source: CarNewsChina
+image: >-
+  /images/byd-atto-3-neue-generation-ab-15300-mit-540-km-clt-carnewschina-c6540a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/new-byd-atto-3-with-120-km-extra-range-and-flash-charging-priced-from-16600-usd-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/new-byd-atto-3-with-120-km-extra-range-and-flash-charging-priced-from-16600-usd-in-china/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Atto 3: Neue Generation ab 15.300 € mit 540 km CLTC

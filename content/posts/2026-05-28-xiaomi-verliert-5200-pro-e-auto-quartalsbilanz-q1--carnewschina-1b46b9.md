@@ -1,15 +1,30 @@
 ---
-title: "Xiaomi verliert 5.200 € pro E-Auto – Quartalsbilanz Q1 2026"
+title: Xiaomi verliert 5.200 € pro E-Auto – Quartalsbilanz Q1 2026
 date: 2026-05-28T06:16:41.996Z
-description: "Xiaomi (小米) verkauft 80.856 Fahrzeuge in Q1 2026, erzielt 19,9 Mrd. Yuan Umsatz. Doch die E-Auto-Sparte schreibt weiter Verluste: 3,1 Mrd. Yuan operativer Verlust – umgerechnet 5.200 € pro Wagen."
-source: "CarNewsChina"
-image: "/images/xiaomi-verliert-5200-pro-e-auto-quartalsbilanz-q1-carnewschina-1b46b9.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "E-Auto", "EV"]
+description: >-
+  Xiaomi (小米) verkauft 80.856 Fahrzeuge in Q1 2026, erzielt 19,9 Mrd. Yuan
+  Umsatz. Doch die E-Auto-Sparte schreibt weiter Verluste: 3,1 Mrd. Yuan
+  operativer Verlust – umgerechnet 5.200 € pro Wagen.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-verliert-5200-pro-e-auto-quartalsbilanz-q1-carnewschina-1b46b9.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi verliert 5.200 € pro E-Auto – Quartalsbilanz Q1 2026

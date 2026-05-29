@@ -1,15 +1,33 @@
 ---
-title: "Li Auto L9 Livis: KI-Architektur gegen Huawei"
+title: 'Li Auto L9 Livis: KI-Architektur gegen Huawei'
 date: 2026-05-26T06:07:49.762Z
-description: "Auf der Auto China 2026 treiben Li Auto und Huawei die intelligente Cockpit-Entwicklung voran. Während Huawei auf eine zentrale Steuerung setzt, verfolgt Li Auto mit dem L9 Livis einen ganzheitlichen Ansatz – mit unterschiedlichen Konsequenzen für den Wettbewerb."
-source: "Sina"
-image: "/images/li-auto-l9-livis-ki-architektur-gegen-huawei-sina-f9fcf6.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "BYD", "NIO", "MG", "EV"]
+description: >-
+  Auf der Auto China 2026 treiben Li Auto und Huawei die intelligente
+  Cockpit-Entwicklung voran. Während Huawei auf eine zentrale Steuerung setzt,
+  verfolgt Li Auto mit dem L9 Livis einen ganzheitlichen Ansatz – mit
+  unterschiedlichen Konsequenzen für den Wettbewerb.
+source: Sina
+image: /images/li-auto-l9-livis-ki-architektur-gegen-huawei-sina-f9fcf6.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - BYD
+  - NIO
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.9
 ---
 
 # Li Auto L9 Livis: KI-Architektur gegen Huawei

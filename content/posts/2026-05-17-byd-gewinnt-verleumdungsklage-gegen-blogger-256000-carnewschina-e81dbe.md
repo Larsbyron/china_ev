@@ -1,15 +1,32 @@
 ---
-title: "BYD gewinnt Verleumdungsklage gegen Blogger – 256.000 € Schadensersatz"
+title: BYD gewinnt Verleumdungsklage gegen Blogger – 256.000 € Schadensersatz
 date: 2026-05-17T19:06:15.931Z
-description: "BYD (比亚迪) erstritt vor Gericht 2 Mio. Yuan (ca. 256.000 €) vom Blogger „Long Ge Talks EVs“. Dieser hatte unbelegte Behauptungen über BYD-Fahrzeuge verbreitet. Der Fall ist Teil einer Serie von Klagen gegen chinesische Online-Ersteller."
-source: "CarNewsChina"
-image: "/images/byd-gewinnt-verleumdungsklage-gegen-blogger-256000-carnewschina-e81dbe.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "XPeng", "Xpeng", "Batterie", "EV"]
+description: >-
+  BYD (比亚迪) erstritt vor Gericht 2 Mio. Yuan (ca. 256.000 €) vom Blogger „Long
+  Ge Talks EVs“. Dieser hatte unbelegte Behauptungen über BYD-Fahrzeuge
+  verbreitet. Der Fall ist Teil einer Serie von Klagen gegen chinesische
+  Online-Ersteller.
+source: CarNewsChina
+image: >-
+  /images/byd-gewinnt-verleumdungsklage-gegen-blogger-256000-carnewschina-e81dbe.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Batterie
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/"
+original_url: >-
+  https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD gewinnt Verleumdungsklage gegen Blogger – 256.000 € Schadensersatz

@@ -1,15 +1,27 @@
 ---
-title: "BYD E7X vs. Xiaomi YU7: Große E-SUVs ab 37.100 €"
+title: 'BYD E7X vs. Xiaomi YU7: Große E-SUVs ab 37.100 €'
 date: 2026-05-15T05:55:15.782Z
-description: "BYD E7X startet in China ab 289.800 Yuan (ca. 37.100 €) und tritt direkt gegen Xiaomi YU7 (ab 32.400 €) an. Beide bieten über 800 km Reichweite (CLTC) – ein Preiskampf im XXL-Format."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "MG", "Reichweite"]
+description: >-
+  BYD E7X startet in China ab 289.800 Yuan (ca. 37.100 €) und tritt direkt gegen
+  Xiaomi YU7 (ab 32.400 €) an. Beide bieten über 800 km Reichweite (CLTC) – ein
+  Preiskampf im XXL-Format.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - MG
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - Xiaomi
+confidence: 0.9
 ---
 
 # BYD E7X vs. Xiaomi YU7: Große E-SUVs ab 37.100 €

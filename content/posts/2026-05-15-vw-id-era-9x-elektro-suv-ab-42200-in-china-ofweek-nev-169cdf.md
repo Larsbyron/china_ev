@@ -1,15 +1,32 @@
 ---
-title: "VW ID. ERA 9X: Elektro-SUV ab 42.200 € in China"
+title: 'VW ID. ERA 9X: Elektro-SUV ab 42.200 € in China'
 date: 2026-05-15T12:06:55.798Z
-description: "Volkswagen startet den ID. ERA 9X in China zu Preisen von 32,98 bis 37,98 Zehntausend Yuan (ca. 42.200–48.600 €). Der 5,2-Meter-EREV-SUV bietet Hinterachslenkung, 192-Linien-Lidar und 800-Volt-Architektur."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Batterie", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  Volkswagen startet den ID. ERA 9X in China zu Preisen von 32,98 bis 37,98
+  Zehntausend Yuan (ca. 42.200–48.600 €). Der 5,2-Meter-EREV-SUV bietet
+  Hinterachslenkung, 192-Linien-Lidar und 800-Volt-Architektur.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - VW
+confidence: 0.95
 ---
 
 # VW ID. ERA 9X: Elektro-SUV ab 42.200 € in China

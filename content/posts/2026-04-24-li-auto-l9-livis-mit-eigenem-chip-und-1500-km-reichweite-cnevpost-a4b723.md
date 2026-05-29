@@ -1,13 +1,33 @@
 ---
-title: "Li Auto L9 Livis: Premium-SUV mit hauseigenem Chip und über 1.500 km Reichweite"
+title: >-
+  Li Auto L9 Livis: Premium-SUV mit hauseigenem Chip und über 1.500 km
+  Reichweite
 date: 2026-04-24T15:00:00.000Z
-description: "Li Auto hat auf der Peking Autoshow den L9 Livis vorgestellt. Das Flaggschiff-SUV nutzt zwei selbst entwickelte 5-nm-Chips mit 2.560 TOPS Rechenleistung und startet im Mai."
-source: "CnEVPost"
-image: "/images/li-auto-l9-livis-mit-eigenem-chip-und-1500-km-reichweite-cnevpost-a4b723.webp"
-category: "news"
-tags: ["Li Auto", "L9 Livis", "M100", "Chip", "Premium", "Peking Autoshow"]
+description: >-
+  Li Auto hat auf der Peking Autoshow den L9 Livis vorgestellt. Das
+  Flaggschiff-SUV nutzt zwei selbst entwickelte 5-nm-Chips mit 2.560 TOPS
+  Rechenleistung und startet im Mai.
+source: CnEVPost
+image: >-
+  /images/li-auto-l9-livis-mit-eigenem-chip-und-1500-km-reichweite-cnevpost-a4b723.webp
+category: news
+tags:
+  - Li Auto
+  - L9 Livis
+  - M100
+  - Chip
+  - Premium
+  - Peking Autoshow
 draft: false
-original_url: "https://cnevpost.com/2026/04/24/li-auto-to-officially-launch-l9-livis-may-15/"
+original_url: 'https://cnevpost.com/2026/04/24/li-auto-to-officially-launch-l9-livis-may-15/'
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.95
 ---
 
 # Li Auto L9 Livis: Das Flaggschiff mit dem ersten eigenen 5-nm-Chip

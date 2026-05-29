@@ -1,15 +1,34 @@
 ---
-title: "Onvo L80 debütiert: Camping-SUV mit Schiebetüren und variablem Innenraum"
+title: 'Onvo L80 debütiert: Camping-SUV mit Schiebetüren und variablem Innenraum'
 date: 2026-05-22T12:24:52.974Z
-description: "Der Onvo L80 (NIO-Submarke) wurde am 22. Mai 2026 präsentiert. Mit gegenläufigen Türen und variablem Doppelabteil zielt er auf Familien und Camper. Preis und Technik (NT3.0) sind noch nicht offiziell, der L80 erweitert die Onvo-Palette nach oben."
-source: "ChooseAuto"
-image: "/images/onvo-l80-debtiert-camping-suv-mit-schiebetren-und-chooseauto-ac3996.webp"
-category: "news"
-brand: "Onvo"
-tags: ["Onvo", "NIO", "Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der Onvo L80 (NIO-Submarke) wurde am 22. Mai 2026 präsentiert. Mit
+  gegenläufigen Türen und variablem Doppelabteil zielt er auf Familien und
+  Camper. Preis und Technik (NT3.0) sind noch nicht offiziell, der L80 erweitert
+  die Onvo-Palette nach oben.
+source: ChooseAuto
+image: >-
+  /images/onvo-l80-debtiert-camping-suv-mit-schiebetren-und-chooseauto-ac3996.webp
+category: news
+brand: Onvo
+tags:
+  - Onvo
+  - NIO
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/909764.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/909764.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Onvo
+  - NIO
+confidence: 0.9
 ---
 
 # Onvo L80 debütiert: Camping-SUV mit Schiebetüren und variablem Innenraum

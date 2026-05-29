@@ -1,15 +1,37 @@
 ---
-title: "VW ID.ERA 9X ab 42.200 €: Joint Ventures greifen an"
+title: 'VW ID.ERA 9X ab 42.200 €: Joint Ventures greifen an'
 date: 2026-05-18T06:15:06.017Z
-description: "Auto China 2026: BBA, Volkswagen und weitere Joint Ventures zeigen Elektro-Offensive. Highlights: Mercedes GLC L (703 km CLTC), BMW i7 mit Rimac-Batterie, VW ID.ERA 9X ab 42.200 € (ca.)."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "Li Auto", "Tesla", "Batterie", "Reichweite", "Zoll", "Elektroauto", "EV"]
+description: >-
+  Auto China 2026: BBA, Volkswagen und weitere Joint Ventures zeigen
+  Elektro-Offensive. Highlights: Mercedes GLC L (703 km CLTC), BMW i7 mit
+  Rimac-Batterie, VW ID.ERA 9X ab 42.200 € (ca.).
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - Li Auto
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - VW
+  - Mercedes
+  - BMW
+  - Audi
+  - Citroën
+  - Hyundai
+confidence: 0.9
 ---
 
 # VW ID.ERA 9X ab 42.200 €: Joint Ventures greifen an

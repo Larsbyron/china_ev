@@ -1,16 +1,37 @@
 ---
-title: "11 neue „9er“-Flaggschiffe: China startet 2026 die Luxus-Offensive"
+title: '11 neue „9er“-Flaggschiffe: China startet 2026 die Luxus-Offensive'
 date: 2026-05-10T20:49:04.070Z
-description: "BYD, AITO, Li Auto, XPeng und weitere Hersteller bringen 2026 insgesamt elf neue „9er“-Flaggschiffe auf den Markt. Die Preise liegen zwischen 30.000 und 50.000 Euro – der Kampf um Chinas Oberklasse eskaliert."
-source: "OFweek NEV"
-image: "/images/ai-11-neue-9er-flaggschiffe-china-startet-2026-die-lu-ofweek-nev-ecc328.webp"
-
-category: "news"
-
-tags: ["BYD", "XPeng", "XPeng", "Li Auto", "MG"]
+description: >-
+  BYD, AITO, Li Auto, XPeng und weitere Hersteller bringen 2026 insgesamt elf
+  neue „9er“-Flaggschiffe auf den Markt. Die Preise liegen zwischen 30.000 und
+  50.000 Euro – der Kampf um Chinas Oberklasse eskaliert.
+source: OFweek NEV
+image: >-
+  /images/ai-11-neue-9er-flaggschiffe-china-startet-2026-die-lu-ofweek-nev-ecc328.webp
+category: news
+tags:
+  - BYD
+  - XPeng
+  - XPeng
+  - Li Auto
+  - MG
 draft: false
-original_url: "https://nev.ofweek.com/2026-02/ART-71000-8220-30681401.html"
+original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30681401.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - AITO
+  - Li Auto
+  - XPeng
+  - Voyah
+  - Stelato
+  - Denza
+  - ID.ERA
+confidence: 0.9
 ---
 
 # 11 neue „9er“-Flaggschiffe: China startet 2026 die Luxus-Offensive

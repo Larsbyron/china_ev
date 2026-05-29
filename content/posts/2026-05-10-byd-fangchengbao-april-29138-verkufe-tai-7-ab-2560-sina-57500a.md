@@ -1,15 +1,29 @@
 ---
-title: "BYD Fangchengbao April: 29.138 Verkäufe, Tai 7 ab 25.600 €"
+title: 'BYD Fangchengbao April: 29.138 Verkäufe, Tai 7 ab 25.600 €'
 date: 2026-05-10T20:43:43.167Z
-description: "BYDs Submarke Fangchengbao meldet Rekord-April: 29.138 Einheiten (+190 % zum Vorjahr). Der Tai 7 (ab 25.600 €) bleibt mit 17.001 Verkäufen der Bestseller, während der neue Tai 3 mit 5.206 Einheiten an Fahrt gewinnt."
-source: "Sina"
-image: "/images/byd-fangchengbao-april-29138-verkufe-tai-7-ab-2560-sina-57500a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Elektroauto", "EV"]
+description: >-
+  BYDs Submarke Fangchengbao meldet Rekord-April: 29.138 Einheiten (+190 % zum
+  Vorjahr). Der Tai 7 (ab 25.600 €) bleibt mit 17.001 Verkäufen der Bestseller,
+  während der neue Tai 3 mit 5.206 Einheiten an Fahrt gewinnt.
+source: Sina
+image: /images/byd-fangchengbao-april-29138-verkufe-tai-7-ab-2560-sina-57500a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-05-02/detail-inhwpcha9630783.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-05-02/detail-inhwpcha9630783.shtml'
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Fangchengbao April: 29.138 Verkäufe, Tai 7 ab 25.600 €

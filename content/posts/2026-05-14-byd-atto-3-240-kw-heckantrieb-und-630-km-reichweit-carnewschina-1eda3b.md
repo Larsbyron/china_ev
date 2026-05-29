@@ -1,15 +1,31 @@
 ---
-title: "BYD Atto 3: 240-kW-Heckantrieb und 630 km Reichweite"
+title: 'BYD Atto 3: 240-kW-Heckantrieb und 630 km Reichweite'
 date: 2026-05-14T00:05:24.900Z
-description: "Der überarbeitete BYD Atto 3 kommt mit zweiter Generation der Blade-Batterie, Flash-Charging und wahlweise 200 oder 240 kW. Der Marktstart in China ist am 21. Mai 2026 – der kompakte Elektro-SUV könnte auch nach Europa kommen."
-source: "CarNewsChina"
-image: "/images/byd-atto-3-240-kw-heckantrieb-und-630-km-reichweit-carnewschina-1eda3b.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der überarbeitete BYD Atto 3 kommt mit zweiter Generation der Blade-Batterie,
+  Flash-Charging und wahlweise 200 oder 240 kW. Der Marktstart in China ist am
+  21. Mai 2026 – der kompakte Elektro-SUV könnte auch nach Europa kommen.
+source: CarNewsChina
+image: >-
+  /images/byd-atto-3-240-kw-heckantrieb-und-630-km-reichweit-carnewschina-1eda3b.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/12/byd-atto-3-lands-in-showrooms-with-240-kw-rwd-and-flash-charging-ahead-of-may-21-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/12/byd-atto-3-lands-in-showrooms-with-240-kw-rwd-and-flash-charging-ahead-of-may-21-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Atto 3: 240-kW-Heckantrieb und 630 km Reichweite

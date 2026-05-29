@@ -1,15 +1,29 @@
 ---
-title: "NIO ES8: 110.000 Auslieferungen – Firefly bleibt Einzelmodell"
+title: 'NIO ES8: 110.000 Auslieferungen – Firefly bleibt Einzelmodell'
 date: 2026-05-19T06:02:51.073Z
-description: "NIO liefert den 110.000sten ES8 aus. Zugleich erklärt CEO Li Bin, dass die Submarke Firefly vorerst kein zweites Modell erhält – der Fokus liege auf Effizienz."
-source: "D1EV"
-image: "/images/nio-es8-110000-auslieferungen-firefly-bleibt-einze-d1ev-5e19b7.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Onvo", "EV", "Marktanteil"]
+description: >-
+  NIO liefert den 110.000sten ES8 aus. Zugleich erklärt CEO Li Bin, dass die
+  Submarke Firefly vorerst kein zweites Modell erhält – der Fokus liege auf
+  Effizienz.
+source: D1EV
+image: /images/nio-es8-110000-auslieferungen-firefly-bleibt-einze-d1ev-5e19b7.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - Onvo
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299565"
+original_url: 'https://www.d1ev.com/news/shichang/299565'
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: de_available
+brands:
+  - NIO
+confidence: 0.95
 ---
 
 # NIO ES8: 110.000 Auslieferungen – Firefly bleibt Einzelmodell

@@ -1,15 +1,29 @@
 ---
-title: "Xiaomi Auto Q1: 80.856 Fahrzeuge, 397 Mio. € Verlust"
+title: 'Xiaomi Auto Q1: 80.856 Fahrzeuge, 397 Mio. € Verlust'
 date: 2026-05-27T06:30:10.239Z
-description: "Xiaomi liefert im ersten Quartal 2026 80.856 E-Autos aus. Der Umsatz steigt auf 19 Mrd. Yuan (ca. 2,43 Mrd. €), der operative Verlust beträgt 3,1 Mrd. Yuan (ca. 397 Mio. €). Die SU7 ist Bestseller ab 200.000 Yuan (ca. 25.600 €)*. Der Export nach Deutschland ist für 2027 geplant."
-source: "D1EV"
-image: "/images/xiaomi-auto-q1-80856-fahrzeuge-397-mio-verlust-d1ev-819991.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "EV"]
+description: >-
+  Xiaomi liefert im ersten Quartal 2026 80.856 E-Autos aus. Der Umsatz steigt
+  auf 19 Mrd. Yuan (ca. 2,43 Mrd. €), der operative Verlust beträgt 3,1 Mrd.
+  Yuan (ca. 397 Mio. €). Die SU7 ist Bestseller ab 200.000 Yuan (ca. 25.600 €)*.
+  Der Export nach Deutschland ist für 2027 geplant.
+source: D1EV
+image: /images/xiaomi-auto-q1-80856-fahrzeuge-397-mio-verlust-d1ev-819991.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/300687"
+original_url: 'https://www.d1ev.com/news/qiye/300687'
 read_time_minutes: 4
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - modelle-marktstarts
+  - markt-absatz-zulassungen
+marketRelevance: eu_planned
+brands:
+  - Xiaomi
+confidence: 0.5
 ---
 
 # Xiaomi Auto Q1: 80.856 Fahrzeuge, 397 Mio. € Verlust

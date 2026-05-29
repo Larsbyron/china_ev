@@ -1,15 +1,28 @@
 ---
-title: "Huawei-Chef besucht Dongfeng: Yijing X9 kommt im Herbst 2026"
+title: 'Huawei-Chef besucht Dongfeng: Yijing X9 kommt im Herbst 2026'
 date: 2026-05-22T06:09:35.717Z
-description: "Huawei und Dongfeng vertiefen ihre Partnerschaft: Das neue E-SUV Yijing X9 feierte auf der Auto China 2026 Premiere. Der Flaggschiff-BEV rollt im dritten Quartal 2026 in China an – eine Europa-Perspektive fehlt."
-source: "ChooseAuto"
-image: "/images/huawei-chef-besucht-dongfeng-yijing-x9-kommt-im-he-chooseauto-b5eb85.webp"
-category: "news"
-
-tags: ["Batterie"]
+description: >-
+  Huawei und Dongfeng vertiefen ihre Partnerschaft: Das neue E-SUV Yijing X9
+  feierte auf der Auto China 2026 Premiere. Der Flaggschiff-BEV rollt im dritten
+  Quartal 2026 in China an – eine Europa-Perspektive fehlt.
+source: ChooseAuto
+image: >-
+  /images/huawei-chef-besucht-dongfeng-yijing-x9-kommt-im-he-chooseauto-b5eb85.webp
+category: news
+tags:
+  - Batterie
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/909322.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/909322.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Dongfeng
+  - Huawei
+  - Yijing
+confidence: 0.95
 ---
 
 # Huawei-Chef besucht Dongfeng: Yijing X9 kommt im Herbst 2026

@@ -1,15 +1,30 @@
 ---
-title: "Li Auto eröffnet Europa-Zentrale in Braunschweig mit VW-Pilotprojekt"
+title: Li Auto eröffnet Europa-Zentrale in Braunschweig mit VW-Pilotprojekt
 date: 2026-05-28T13:43:25.000Z
-description: "Li Auto (理想汽车) hat in Braunschweig sein Europa-Hauptquartier eröffnet. Gemeinsam mit Volkswagen startet das Unternehmen einen ADAS-Pilotversuch am ID. Buzz und bringt sein multimodales KI-Modell nach Europa."
-source: "Sina"
-image: "/images/li-auto-erffnet-europa-zentrale-in-braunschweig-mi-sina-291624.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "E-Auto"]
+description: >-
+  Li Auto (理想汽车) hat in Braunschweig sein Europa-Hauptquartier eröffnet.
+  Gemeinsam mit Volkswagen startet das Unternehmen einen ADAS-Pilotversuch am
+  ID. Buzz und bringt sein multimodales KI-Modell nach Europa.
+source: Sina
+image: /images/li-auto-erffnet-europa-zentrale-in-braunschweig-mi-sina-291624.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - E-Auto
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-28/detail-inhzmyen0091396.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-28/detail-inhzmyen0091396.shtml
 read_time_minutes: 2
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+  - industrie-produktion-lieferkette
+marketRelevance: eu_planned
+brands:
+  - Li Auto
+  - Volkswagen
+confidence: 0.9
 ---
 
 # Li Auto eröffnet Europa-Zentrale in Braunschweig mit VW-Pilotprojekt

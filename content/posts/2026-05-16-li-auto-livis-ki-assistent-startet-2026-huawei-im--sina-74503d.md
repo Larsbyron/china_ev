@@ -1,15 +1,31 @@
 ---
-title: "Li Auto Livis: KI-Assistent startet 2026 – Huawei im Visier"
+title: 'Li Auto Livis: KI-Assistent startet 2026 – Huawei im Visier'
 date: 2026-05-16T05:28:47.442Z
-description: "Li Auto stellt mit Livis einen KI-Assistenten fürs Cockpit vor – Marktstart 2026. Die StreamingClaw-Architektur setzt auf Echtzeit-Sensorfusion, während Huawei mit dem Ökosystem aus 10 Milliarden Geräten punktet. Ein Marktstart in Europa ist nicht absehbar."
-source: "Sina"
-image: "/images/li-auto-livis-ki-assistent-startet-2026-huawei-im-sina-74503d.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Li Auto stellt mit Livis einen KI-Assistenten fürs Cockpit vor – Marktstart
+  2026. Die StreamingClaw-Architektur setzt auf Echtzeit-Sensorfusion, während
+  Huawei mit dem Ökosystem aus 10 Milliarden Geräten punktet. Ein Marktstart in
+  Europa ist nicht absehbar.
+source: Sina
+image: /images/li-auto-livis-ki-assistent-startet-2026-huawei-im-sina-74503d.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.9
 ---
 
 # Li Auto Livis: KI-Assistent startet 2026 – Huawei im Visier

@@ -1,15 +1,30 @@
 ---
-title: "Volkswagen ID.Polo: Der Klassiker wird elektrisch"
-date: 2026-05-04T07:00:00
-description: "Volkswagen enthüllt den ID.Polo — den elektrischen Nachfolger des beliebtesten VW-Modells. Mit bis zu 454 km Reichweite, drei Leistungsstufen und retro-inspiriertem Cockpit."
-source: "D1EV"
-image: "/images/ai-volkswagen-id-polo-elektro-d1ev-297609.webp"
-category: "news"
-brand: "Volkswagen"
-tags: ["Volkswagen ID.Polo", "Elektro-Kleinwagen", "MEB+", "V2L", "ID.2all"]
+title: 'Volkswagen ID.Polo: Der Klassiker wird elektrisch'
+date: 2026-05-04T07:00:00.000Z
+description: >-
+  Volkswagen enthüllt den ID.Polo — den elektrischen Nachfolger des beliebtesten
+  VW-Modells. Mit bis zu 454 km Reichweite, drei Leistungsstufen und
+  retro-inspiriertem Cockpit.
+source: D1EV
+image: /images/ai-volkswagen-id-polo-elektro-d1ev-297609.webp
+category: news
+brand: Volkswagen
+tags:
+  - Volkswagen ID.Polo
+  - Elektro-Kleinwagen
+  - MEB+
+  - V2L
+  - ID.2all
 draft: false
-original_url: "https://www.d1ev.com/carnews/xinche/297609"
+original_url: 'https://www.d1ev.com/carnews/xinche/297609'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: de_available
+brands:
+  - Volkswagen
+confidence: 0.95
 ---
 
 Volkswagen hat den ID.Polo offiziell vorgestellt — den elektrischen Erben des meistverkauften VW-Modells überhaupt. Das batterieelektrische Kompaktmodell kommt in drei Ausstattungsvarianten: Trend, Life und Style und basiert auf der MEB+-Plattform.

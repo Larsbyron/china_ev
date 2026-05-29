@@ -1,15 +1,32 @@
 ---
-title: "Audi E7X startet ab 37.100 € – direkter Konkurrent für Xiaomi YU7"
+title: Audi E7X startet ab 37.100 € – direkter Konkurrent für Xiaomi YU7
 date: 2026-05-22T19:33:38.924Z
-description: "Audi China bringt den vollelektrischen SUV E7X in den Vorverkauf – ab 28,98 万元 (ca. 37.100 €). Der E7X trifft auf den Xiaomi YU7 (ab ca. 32.400 €) und markiert den ersten direkten Schlagabtausch zwischen Traditionsmarke und Tech-Startup im Premium-SUV-Segment."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "MG", "Reichweite", "EV"]
+description: >-
+  Audi China bringt den vollelektrischen SUV E7X in den Vorverkauf – ab 28,98 万元
+  (ca. 37.100 €). Der E7X trifft auf den Xiaomi YU7 (ab ca. 32.400 €) und
+  markiert den ersten direkten Schlagabtausch zwischen Traditionsmarke und
+  Tech-Startup im Premium-SUV-Segment.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - MG
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Audi E7X startet ab 37.100 € – direkter Konkurrent für Xiaomi YU7

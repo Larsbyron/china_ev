@@ -1,15 +1,30 @@
 ---
-title: "Beijing Off-road BJ40 EREV: 1300 km Reichweite ab 23.000 €"
+title: 'Beijing Off-road BJ40 EREV: 1300 km Reichweite ab 23.000 €'
 date: 2026-05-25T19:27:57.312Z
-description: "Der Beijing Off-road BJ40 als Range-Extender startet in China ab ca. 23.000 €. Mit 252 km elektrischer Reichweite und 5,1 Sekunden auf 100 km/h kombiniert er Offroad-Tauglichkeit mit Alltagskomfort. Ein Europa-Start ist nicht geplant."
-source: "ChooseAuto"
-image: "/images/beijing-off-road-bj40-erev-1300-km-reichweite-ab-2-chooseauto-622301.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der Beijing Off-road BJ40 als Range-Extender startet in China ab ca. 23.000 €.
+  Mit 252 km elektrischer Reichweite und 5,1 Sekunden auf 100 km/h kombiniert er
+  Offroad-Tauglichkeit mit Alltagskomfort. Ein Europa-Start ist nicht geplant.
+source: ChooseAuto
+image: >-
+  /images/beijing-off-road-bj40-erev-1300-km-reichweite-ab-2-chooseauto-622301.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/912649.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/912649.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Beijing Off-road
+confidence: 0.95
 ---
 
 # Beijing Off-road BJ40 EREV: 1300 km Reichweite ab 23.000 €

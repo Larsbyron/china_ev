@@ -1,15 +1,31 @@
 ---
-title: "Arcfox Beta S3 startet in China: Batterietausch ab 7.700 €"
+title: 'Arcfox Beta S3 startet in China: Batterietausch ab 7.700 €'
 date: 2026-05-23T05:40:13.187Z
-description: "Arcfox (极狐) bringt den Beta S3 als Mittelklasse-Limousine auf den Markt – mit CATL-Batterietausch und Einstiegspreis ab ca. 7.700 €. Über 30.000 Bestellungen, Reichweite bis 660 km (CLTC)."
-source: "CarNewsChina"
-image: "/images/arcfox-beta-s3-startet-in-china-batterietausch-ab-carnewschina-94d22f.webp"
-category: "news"
-
-tags: ["MG", "Tesla", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Arcfox (极狐) bringt den Beta S3 als Mittelklasse-Limousine auf den Markt – mit
+  CATL-Batterietausch und Einstiegspreis ab ca. 7.700 €. Über 30.000
+  Bestellungen, Reichweite bis 660 km (CLTC).
+source: CarNewsChina
+image: >-
+  /images/arcfox-beta-s3-startet-in-china-batterietausch-ab-carnewschina-94d22f.webp
+category: news
+tags:
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/23/arcfox-beta-s3-launches-in-china-leveraging-catls-battery-swapping-network-with-entry-level-baas-pricing-of-8800-usd/"
+original_url: >-
+  https://carnewschina.com/2026/05/23/arcfox-beta-s3-launches-in-china-leveraging-catls-battery-swapping-network-with-entry-level-baas-pricing-of-8800-usd/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Arcfox
+confidence: 0.9
 ---
 
 # Arcfox Beta S3 startet in China: Batterietausch ab 7.700 €

@@ -1,15 +1,30 @@
 ---
-title: "Lotus Emira 420 Sport: 420 PS, leichter – ab ca. 114.000 €"
+title: 'Lotus Emira 420 Sport: 420 PS, leichter – ab ca. 114.000 €'
 date: 2026-05-27T06:13:44.221Z
-description: "Geelys Sportwagentochter Lotus enthüllt den Emira 420 Sport. 25 kg weniger Gewicht, mehr Abtrieb und 420 PS – der Mittelmotor-Sportler ist ab sofort vorbestellbar."
-source: "CarNewsChina"
-image: "/images/lotus-emira-420-sport-420-ps-leichter-ab-ca-114000-carnewschina-570afc.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Zoll"]
+description: >-
+  Geelys Sportwagentochter Lotus enthüllt den Emira 420 Sport. 25 kg weniger
+  Gewicht, mehr Abtrieb und 420 PS – der Mittelmotor-Sportler ist ab sofort
+  vorbestellbar.
+source: CarNewsChina
+image: >-
+  /images/lotus-emira-420-sport-420-ps-leichter-ab-ca-114000-carnewschina-570afc.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/27/lotus-emira-420-sport-debuts-with-performance-upgrades-and-weight-reduction/"
+original_url: >-
+  https://carnewschina.com/2026/05/27/lotus-emira-420-sport-debuts-with-performance-upgrades-and-weight-reduction/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_available
+brands:
+  - Lotus
+  - Geely
+confidence: 0.9
 ---
 
 # Lotus Emira 420 Sport: 420 PS, leichter – ab ca. 114.000 €

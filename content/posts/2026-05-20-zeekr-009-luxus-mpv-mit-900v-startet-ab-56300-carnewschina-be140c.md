@@ -1,15 +1,32 @@
 ---
-title: "Zeekr 009: Luxus-MPV mit 900V startet ab 56.300 €"
+title: 'Zeekr 009: Luxus-MPV mit 900V startet ab 56.300 €'
 date: 2026-05-20T06:03:02.994Z
-description: "Geelys Premiummarke Zeekr bringt den überarbeiteten 009 auf den Markt. Das Luxus-MPV bietet 900‑Volt-Architektur, bis zu 740 km CLTC-Reichweite und ein Premium-Interieur. Preise in China ab 56.300 €."
-source: "CarNewsChina"
-image: "/images/zeekr-009-luxus-mpv-mit-900v-startet-ab-56300-carnewschina-be140c.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Zeekr", "Reichweite", "Zoll"]
+description: >-
+  Geelys Premiummarke Zeekr bringt den überarbeiteten 009 auf den Markt. Das
+  Luxus-MPV bietet 900‑Volt-Architektur, bis zu 740 km CLTC-Reichweite und ein
+  Premium-Interieur. Preise in China ab 56.300 €.
+source: CarNewsChina
+image: /images/zeekr-009-luxus-mpv-mit-900v-startet-ab-56300-carnewschina-be140c.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Zeekr
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/20/2026-zeekr-009-launches-with900v-architecture-in-china-starting-from-64700-usd/"
+original_url: >-
+  https://carnewschina.com/2026/05/20/2026-zeekr-009-launches-with900v-architecture-in-china-starting-from-64700-usd/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Zeekr
+  - Geely
+confidence: 0.95
 ---
 
 # Zeekr 009: Luxus-MPV mit 900V startet ab 56.300 €

@@ -1,15 +1,28 @@
 ---
-title: "Audi RS 5 Plug-in-Hybrid: Kann er Elektro-Sportler schlagen?"
+title: 'Audi RS 5 Plug-in-Hybrid: Kann er Elektro-Sportler schlagen?'
 date: 2026-05-26T20:11:59.046Z
-description: "Audi bringt den RS 5 Sportback als 400-V-Plug-in-Hybrid – mit 2,9-Liter-V6-Biturbo und E-Motor. Die Kombination aus Verbrenner-Kult und E-Antrieb soll gegen reine E-Performance-Fahrzeuge bestehen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Batterie"]
+description: >-
+  Audi bringt den RS 5 Sportback als 400-V-Plug-in-Hybrid – mit
+  2,9-Liter-V6-Biturbo und E-Motor. Die Kombination aus Verbrenner-Kult und
+  E-Antrieb soll gegen reine E-Performance-Fahrzeuge bestehen.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Batterie
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: de_available
+brands:
+  - Audi
+confidence: 0.9
 ---
 
 # Audi RS 5 Plug-in-Hybrid: Kann er Elektro-Sportler schlagen?

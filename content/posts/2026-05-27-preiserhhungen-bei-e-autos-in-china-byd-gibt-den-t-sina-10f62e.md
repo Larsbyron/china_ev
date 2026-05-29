@@ -1,15 +1,33 @@
 ---
-title: "Preiserhöhungen bei E-Autos in China: BYD gibt den Takt vor"
+title: 'Preiserhöhungen bei E-Autos in China: BYD gibt den Takt vor'
 date: 2026-05-27T06:16:56.984Z
-description: "Nach dem ruinösen Preiskampf der vergangenen Jahre erhöhen mindestens 15 chinesische E-Auto-Marken die Preise. BYD startete die Welle. Dahinter steckt weniger Kostendruck als der Versuch, die Margen zu stabilisieren."
-source: "Sina"
-image: "/images/preiserhhungen-bei-e-autos-in-china-byd-gibt-den-t-sina-10f62e.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Elektroauto", "E-Auto", "Marktanteil"]
+description: >-
+  Nach dem ruinösen Preiskampf der vergangenen Jahre erhöhen mindestens 15
+  chinesische E-Auto-Marken die Preise. BYD startete die Welle. Dahinter steckt
+  weniger Kostendruck als der Versuch, die Margen zu stabilisieren.
+source: Sina
+image: /images/preiserhhungen-bei-e-autos-in-china-byd-gibt-den-t-sina-10f62e.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Elektroauto
+  - E-Auto
+  - Marktanteil
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml
 read_time_minutes: 4
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+  - MG
+confidence: 0.9
 ---
 
 # Preiserhöhungen bei E-Autos in China: BYD gibt den Takt vor

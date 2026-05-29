@@ -1,15 +1,36 @@
 ---
-title: "BYD und Xiaomi: Preiserhöhungen in China – Lieferkosten steigen"
+title: 'BYD und Xiaomi: Preiserhöhungen in China – Lieferkosten steigen'
 date: 2026-05-15T11:53:37.842Z
-description: "BYD, Xiaomi und viele Joint Ventures erhöhen in China die Preise für E‑Autos. Grund: Lithium, Chips und Rohstoffe werden teurer. Die Industrie leidet unter sinkenden Margen."
-source: "CarNewsChina"
-image: "/images/byd-und-xiaomi-preiserhhungen-in-china-lieferkoste-carnewschina-8dc503.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Zeekr", "Leapmotor", "Aion", "MG", "Tesla", "Batterie", "Elektroauto"]
+description: >-
+  BYD, Xiaomi und viele Joint Ventures erhöhen in China die Preise für E‑Autos.
+  Grund: Lithium, Chips und Rohstoffe werden teurer. Die Industrie leidet unter
+  sinkenden Margen.
+source: CarNewsChina
+image: >-
+  /images/byd-und-xiaomi-preiserhhungen-in-china-lieferkoste-carnewschina-8dc503.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Zeekr
+  - Leapmotor
+  - Aion
+  - MG
+  - Tesla
+  - Batterie
+  - Elektroauto
 draft: false
-original_url: "https://carnewschina.com/2026/05/15/chinas-nev-sector-sees-price-hikes-as-supply-chain-costs-bite/"
+original_url: >-
+  https://carnewschina.com/2026/05/15/chinas-nev-sector-sees-price-hikes-as-supply-chain-costs-bite/
 read_time_minutes: 3
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+  - Xiaomi
+confidence: 0.95
 ---
 
 # BYD und Xiaomi: Preiserhöhungen in China – Lieferkosten steigen

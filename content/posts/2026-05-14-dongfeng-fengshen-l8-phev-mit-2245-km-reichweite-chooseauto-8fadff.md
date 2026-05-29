@@ -1,15 +1,30 @@
 ---
-title: "Dongfeng Fengshen L8: PHEV mit 2.245 km Reichweite"
+title: 'Dongfeng Fengshen L8: PHEV mit 2.245 km Reichweite'
 date: 2026-05-14T12:03:23.030Z
-description: "Auf der Wuhan Auto Show präsentiert Dongfeng Fengshen (东风风神) den L8 Plug-in-Hybrid mit 2.245 km Gesamtreichweite (chinesischer Prüfzyklus). Das Familienmodell bietet Komfortsitze und Null-Formaldehyd-Zertifikat. In China locken Sonderaktionen mit bis zu 400 € Zuschuss und 0-%-Finanzierung."
-source: "ChooseAuto"
-image: "/images/dongfeng-fengshen-l8-phev-mit-2245-km-reichweite-chooseauto-8fadff.webp"
-category: "news"
-
-tags: ["MG", "Reichweite", "EV"]
+description: >-
+  Auf der Wuhan Auto Show präsentiert Dongfeng Fengshen (东风风神) den L8
+  Plug-in-Hybrid mit 2.245 km Gesamtreichweite (chinesischer Prüfzyklus). Das
+  Familienmodell bietet Komfortsitze und Null-Formaldehyd-Zertifikat. In China
+  locken Sonderaktionen mit bis zu 400 € Zuschuss und 0-%-Finanzierung.
+source: ChooseAuto
+image: >-
+  /images/dongfeng-fengshen-l8-phev-mit-2245-km-reichweite-chooseauto-8fadff.webp
+category: news
+tags:
+  - MG
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/902595.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/902595.shtml'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Dongfeng Fengshen
+confidence: 0.95
 ---
 
 # Dongfeng Fengshen L8: PHEV mit 2.245 km Reichweite

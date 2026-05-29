@@ -1,15 +1,28 @@
 ---
-title: "Great Wall Motor: Werksmarathon als Statement gegen Preiskampf"
+title: 'Great Wall Motor: Werksmarathon als Statement gegen Preiskampf'
 date: 2026-05-10T20:35:26.207Z
-description: "Tausende liefen am Muttertag durch die intelligente Fertigung von Great Wall Motor in Baoding. Die Aktion zeigt: Der chinesische Autobauer setzt auf emotionale Kundenbindung und langfristige Technologie-Investitionen statt auf kurzfristige Rabattschlachten."
-source: "ChooseAuto"
-image: "/images/great-wall-motor-werksmarathon-als-statement-gegen-chooseauto-767cf3.webp"
-category: "news"
-
-tags: ["MG", "EV"]
+description: >-
+  Tausende liefen am Muttertag durch die intelligente Fertigung von Great Wall
+  Motor in Baoding. Die Aktion zeigt: Der chinesische Autobauer setzt auf
+  emotionale Kundenbindung und langfristige Technologie-Investitionen statt auf
+  kurzfristige Rabattschlachten.
+source: ChooseAuto
+image: >-
+  /images/great-wall-motor-werksmarathon-als-statement-gegen-chooseauto-767cf3.webp
+category: news
+tags:
+  - MG
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/899154.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/899154.shtml'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: global_industry
+brands:
+  - Great Wall Motor
+confidence: 0.9
 ---
 
 # Great Wall Motor: Werksmarathon als Statement gegen Preiskampf

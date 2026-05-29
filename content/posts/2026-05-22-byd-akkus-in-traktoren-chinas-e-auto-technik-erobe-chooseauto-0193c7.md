@@ -1,15 +1,32 @@
 ---
-title: "BYD-Akkus in Traktoren: Chinas E-Auto-Technik erobert Felder"
+title: 'BYD-Akkus in Traktoren: Chinas E-Auto-Technik erobert Felder'
 date: 2026-05-22T10:56:48.686Z
-description: "BYD und CATL beliefern E-Traktoren mit 800-Volt-Architektur und LFP-Akkus. Der Technologie-Transfer aus der E-Auto-Welt könnte Skaleneffekte bringen und langfristig die Batteriepreise für Pkw senken. Ein Blick auf eine unterschätzte Entwicklung."
-source: "ChooseAuto"
-
-category: "news"
-
-tags: ["BYD", "NIO", "MG", "Batterie", "E-Auto", "EV"]
+description: >-
+  BYD und CATL beliefern E-Traktoren mit 800-Volt-Architektur und LFP-Akkus. Der
+  Technologie-Transfer aus der E-Auto-Welt könnte Skaleneffekte bringen und
+  langfristig die Batteriepreise für Pkw senken. Ein Blick auf eine
+  unterschätzte Entwicklung.
+source: ChooseAuto
+category: news
+tags:
+  - BYD
+  - NIO
+  - MG
+  - Batterie
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/909741.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/909741.shtml'
 read_time_minutes: 3
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - BYD
+  - CATL
+confidence: 0.9
 ---
 
 # BYD-Akkus in Traktoren: Chinas E-Auto-Technik erobert Felder

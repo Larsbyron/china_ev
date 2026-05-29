@@ -1,15 +1,37 @@
 ---
-title: "XPeng GX: 399.800 Yuan (≈51.200 €) – 750 km CLTC, 6 Sitze"
+title: 'XPeng GX: 399.800 Yuan (≈51.200 €) – 750 km CLTC, 6 Sitze'
 date: 2026-05-19T06:05:52.275Z
-description: "XPeng startet den Vorverkauf des GX, seines ersten Fullsize-SUV. Der Sechssitzer ist als BEV und EREV verfügbar, kostet in China umgerechnet ca. 51.200 € und lockt mit 750 km CLTC-Reichweite. Ein Europa-Start ist noch offen."
-source: "Autohome NewEnergy"
-image: "/images/xpeng-gx-399800-yuan-51200-750-km-cltc-6-sitze-autohome-newenergy-65cfb6.webp"
-category: "news"
-brand: "XPeng"
-tags: ["XPeng", "Xpeng", "MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  XPeng startet den Vorverkauf des GX, seines ersten Fullsize-SUV. Der
+  Sechssitzer ist als BEV und EREV verfügbar, kostet in China umgerechnet ca.
+  51.200 € und lockt mit 750 km CLTC-Reichweite. Ein Europa-Start ist noch
+  offen.
+source: Autohome NewEnergy
+image: >-
+  /images/xpeng-gx-399800-yuan-51200-750-km-cltc-6-sitze-autohome-newenergy-65cfb6.webp
+category: news
+brand: XPeng
+tags:
+  - XPeng
+  - Xpeng
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314363.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314363.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - XPeng
+  - Mercedes
+  - BMW
+confidence: 0.9
 ---
 
 # XPeng GX: 399.800 Yuan (≈51.200 €) – 750 km CLTC, 6 Sitze

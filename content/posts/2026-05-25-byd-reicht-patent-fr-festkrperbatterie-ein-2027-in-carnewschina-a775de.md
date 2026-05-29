@@ -1,15 +1,31 @@
 ---
-title: "BYD reicht Patent für Festkörperbatterie ein – 2027 in Serie?"
+title: BYD reicht Patent für Festkörperbatterie ein – 2027 in Serie?
 date: 2026-05-25T06:21:08.060Z
-description: "BYD (比亚迪) hat ein Patent für eine Sulfid-Festkörperbatterie angemeldet. China treibt die Technologie massiv voran – doch BYD-Chefwissenschaftler nennt noch zentrale Hürden. Pilotproduktion ab 2027 angestrebt."
-source: "CarNewsChina"
-image: "/images/byd-reicht-patent-fr-festkrperbatterie-ein-2027-in-carnewschina-a775de.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "E-Auto", "Marktanteil"]
+description: >-
+  BYD (比亚迪) hat ein Patent für eine Sulfid-Festkörperbatterie angemeldet. China
+  treibt die Technologie massiv voran – doch BYD-Chefwissenschaftler nennt noch
+  zentrale Hürden. Pilotproduktion ab 2027 angestrebt.
+source: CarNewsChina
+image: >-
+  /images/byd-reicht-patent-fr-festkrperbatterie-ein-2027-in-carnewschina-a775de.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - E-Auto
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production/"
+original_url: >-
+  https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD reicht Patent für Festkörperbatterie ein – 2027 in Serie?

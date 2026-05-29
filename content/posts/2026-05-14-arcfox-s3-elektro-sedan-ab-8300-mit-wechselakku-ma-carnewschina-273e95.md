@@ -1,15 +1,34 @@
 ---
-title: "Arcfox S3: Elektro-Sedan ab 8.300 € mit Wechselakku – Marktstart Mai 2026"
+title: 'Arcfox S3: Elektro-Sedan ab 8.300 € mit Wechselakku – Marktstart Mai 2026'
 date: 2026-05-14T01:13:15.918Z
-description: "BAICs Elektromarke Arcfox bringt den S3 am 22. Mai 2026 in China auf den Markt. Die Preise starten bei 64.800 Yuan (ca. 8.300 €). Die Mittelklasse-Limousine ist optional mit Wechselakku und bis zu 660 km Reichweite erhältlich. Hinweis: Preise beziehen sich auf den chinesischen Markt und können in Eu"
-source: "CarNewsChina"
-image: "/images/arcfox-s3-elektro-sedan-ab-8300-mit-wechselakku-ma-carnewschina-273e95.webp"
-category: "news"
-
-tags: ["Tesla", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  BAICs Elektromarke Arcfox bringt den S3 am 22. Mai 2026 in China auf den
+  Markt. Die Preise starten bei 64.800 Yuan (ca. 8.300 €). Die
+  Mittelklasse-Limousine ist optional mit Wechselakku und bis zu 660 km
+  Reichweite erhältlich. Hinweis: Preise beziehen sich auf den chinesischen
+  Markt und können in Eu
+source: CarNewsChina
+image: >-
+  /images/arcfox-s3-elektro-sedan-ab-8300-mit-wechselakku-ma-carnewschina-273e95.webp
+category: news
+tags:
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/13/arcfox-s3-to-officially-launch-on-may-22-with-swappable-battery-option/"
+original_url: >-
+  https://carnewschina.com/2026/05/13/arcfox-s3-to-officially-launch-on-may-22-with-swappable-battery-option/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Arcfox
+confidence: 0.9
 ---
 
 # Arcfox S3: Elektro-Sedan ab 8.300 € mit Wechselakku – Marktstart Mai 2026

@@ -1,15 +1,28 @@
 ---
-title: "Audi E7X und XPeng YU7: Elektro-SUVs ab 37.100 Euro im Vergleich"
+title: 'Audi E7X und XPeng YU7: Elektro-SUVs ab 37.100 Euro im Vergleich'
 date: 2026-05-24T06:05:56.699Z
-description: "Der Audi E7X startet in China bei 289.800 Yuan (ca. 37.100 €), der XPeng YU7 bei 253.500 Yuan (ca. 32.400 €). Beide Elektro-SUVs zielen auf die 30.000-Euro-Klasse und zeigen unterschiedliche Markenphilosophien."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["XPeng", "Xpeng", "MG", "Reichweite"]
+description: >-
+  Der Audi E7X startet in China bei 289.800 Yuan (ca. 37.100 €), der XPeng YU7
+  bei 253.500 Yuan (ca. 32.400 €). Beide Elektro-SUVs zielen auf die
+  30.000-Euro-Klasse und zeigen unterschiedliche Markenphilosophien.
+source: OFweek NEV
+category: news
+tags:
+  - XPeng
+  - Xpeng
+  - MG
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - XPeng
+confidence: 0.9
 ---
 
 # Audi E7X und XPeng YU7: Elektro-SUVs ab 37.100 Euro im Vergleich

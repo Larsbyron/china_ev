@@ -1,13 +1,35 @@
 ---
-title: "Kanada wirbt um chinesische E-Auto-Investitionen: Handelsminister zu Besuch bei BYD und XPeng"
+title: >-
+  Kanada wirbt um chinesische E-Auto-Investitionen: Handelsminister zu Besuch
+  bei BYD und XPeng
 date: 2026-04-17T10:00:00.000Z
-description: "Kanadas Handelsminister Maninder Sidhu besucht Guangzhou und führt Gespräche mit BYD und XPeng über Marktzugangsmöglichkeiten im Rahmen des neuen Zollabkommens."
-source: "CnEVPost"
-image: "/images/ai-kanadischer-handelsminister-zu-besuch-bei-byd-und-xpeng-cnevpost-d8a523.webp"
-category: "news"
-tags: ["Kanada", "BYD", "XPeng", "Handel", "Zoll", "Investition"]
+description: >-
+  Kanadas Handelsminister Maninder Sidhu besucht Guangzhou und führt Gespräche
+  mit BYD und XPeng über Marktzugangsmöglichkeiten im Rahmen des neuen
+  Zollabkommens.
+source: CnEVPost
+image: >-
+  /images/ai-kanadischer-handelsminister-zu-besuch-bei-byd-und-xpeng-cnevpost-d8a523.webp
+category: news
+tags:
+  - Kanada
+  - BYD
+  - XPeng
+  - Handel
+  - Zoll
+  - Investition
 draft: false
-original_url: "https://cnevpost.com/2026/04/17/canada-trade-minister-meets-byd-xpeng-during-china-visit/"
+original_url: >-
+  https://cnevpost.com/2026/04/17/canada-trade-minister-meets-byd-xpeng-during-china-visit/
+primaryTopic: politik-zoelle-regulierung
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: global_industry
+brands:
+  - BYD
+  - XPeng
+  - GAC
+confidence: 0.9
 ---
 
 # Kanada wirbt für E-Auto-Investitionen: Handelsminister besucht Guangzhou

@@ -1,15 +1,36 @@
 ---
-title: "BYD Seal 08: 900 km CLTC und Blitzladen ab Q2 2026"
+title: 'BYD Seal 08: 900 km CLTC und Blitzladen ab Q2 2026'
 date: 2026-05-21T12:42:18.104Z
-description: "BYD enthüllt den Seal 08, das neue Flaggschiff der Ocean-Serie. Mit 900 km CLTC-Reichweite, 800-Volt-Technik und Hinterachslenkung startet die Limousine im zweiten Quartal 2026 in China."
-source: "CarNewsChina"
-image: "/images/byd-seal-08-900-km-cltc-und-blitzladen-ab-q2-2026-carnewschina-f0318b.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Tesla", "Batterie", "Reichweite", "Ladestation", "EV"]
+description: >-
+  BYD enthüllt den Seal 08, das neue Flaggschiff der Ocean-Serie. Mit 900 km
+  CLTC-Reichweite, 800-Volt-Technik und Hinterachslenkung startet die Limousine
+  im zweiten Quartal 2026 in China.
+source: CarNewsChina
+image: >-
+  /images/byd-seal-08-900-km-cltc-und-blitzladen-ab-q2-2026-carnewschina-f0318b.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+  - NIO
+  - Tesla
+confidence: 0.95
 ---
 
 # BYD Seal 08: 900 km CLTC und Blitzladen ab Q2 2026

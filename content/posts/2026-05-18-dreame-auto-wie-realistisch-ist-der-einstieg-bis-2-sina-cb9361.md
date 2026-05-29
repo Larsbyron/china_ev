@@ -1,15 +1,32 @@
 ---
-title: "Dreame-Auto: Wie realistisch ist der Einstieg bis 2027?"
+title: 'Dreame-Auto: Wie realistisch ist der Einstieg bis 2027?'
 date: 2026-05-18T13:49:59.637Z
-description: "Der Hausgerätehersteller Dreame will mit einer Luxus-Submarke ins Automobilgeschäft einsteigen. Bislang fehlen Serienfahrzeuge und eine realistische Technikbasis. Eine kritische Analyse der Pläne."
-source: "Sina"
-image: "/images/dreame-auto-wie-realistisch-ist-der-einstieg-bis-2-sina-cb9361.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Li Auto", "Tesla", "Batterie", "EV"]
+description: >-
+  Der Hausgerätehersteller Dreame will mit einer Luxus-Submarke ins
+  Automobilgeschäft einsteigen. Bislang fehlen Serienfahrzeuge und eine
+  realistische Technikbasis. Eine kritische Analyse der Pläne.
+source: Sina
+image: /images/dreame-auto-wie-realistisch-ist-der-einstieg-bis-2-sina-cb9361.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - Li Auto
+  - Tesla
+  - Batterie
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml
 read_time_minutes: 4
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Dreame
+  - NIO
+confidence: 0.8
 ---
 
 # Dreame-Auto: Wie realistisch ist der Einstieg bis 2027?

@@ -1,15 +1,31 @@
 ---
-title: "Fangchengbao: Bao 8 & 5 Flash-Charge ab 39.100 €"
+title: 'Fangchengbao: Bao 8 & 5 Flash-Charge ab 39.100 €'
 date: 2026-05-14T01:11:08.972Z
-description: "BYD-Tochter Fangchengbao bringt die Flash‑Charge-Editionen von Bao 8 und Bao 5. Mit 200 km E‑Reichweite (CLTC) und 5‑Minuten‑Schnellladung sowie dem adaptiven Fahrwerk Yünnian‑P Ultra zielen sie auf anspruchsvolle Offroader. Preise ab 39.100 € (China)."
-source: "D1EV"
-image: "/images/fangchengbao-bao-8-5-flash-charge-ab-39100-d1ev-b4dd7e.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  BYD-Tochter Fangchengbao bringt die Flash‑Charge-Editionen von Bao 8 und
+  Bao 5. Mit 200 km E‑Reichweite (CLTC) und 5‑Minuten‑Schnellladung sowie dem
+  adaptiven Fahrwerk Yünnian‑P Ultra zielen sie auf anspruchsvolle Offroader.
+  Preise ab 39.100 € (China).
+source: D1EV
+image: /images/fangchengbao-bao-8-5-flash-charge-ab-39100-d1ev-b4dd7e.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299053"
+original_url: 'https://www.d1ev.com/news/shichang/299053'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # Fangchengbao: Bao 8 & 5 Flash-Charge ab 39.100 €

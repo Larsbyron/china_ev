@@ -1,15 +1,30 @@
 ---
-title: "VW ID. ERA 9X: Flaggschiff-SUV ab 42.200 € mit 406 km"
+title: 'VW ID. ERA 9X: Flaggschiff-SUV ab 42.200 € mit 406 km'
 date: 2026-05-19T06:22:25.095Z
-description: "Volkswagen bringt in China das Topmodell ID. ERA 9X zum Preis von umgerechnet 42.200 €. Der 5,20 Meter lange SUV bietet 800 Volt, Laserradar und Allradlenkung – aber die Konkurrenz von Li Auto und AITO ist hart."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Li Auto", "Batterie", "Reichweite", "EV"]
+description: >-
+  Volkswagen bringt in China das Topmodell ID. ERA 9X zum Preis von umgerechnet
+  42.200 €. Der 5,20 Meter lange SUV bietet 800 Volt, Laserradar und
+  Allradlenkung – aber die Konkurrenz von Li Auto und AITO ist hart.
+source: OFweek NEV
+category: news
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - VW
+  - Li Auto
+  - AITO
+confidence: 0.9
 ---
 
 # VW ID. ERA 9X: Flaggschiff-SUV ab 42.200 € mit 406 km

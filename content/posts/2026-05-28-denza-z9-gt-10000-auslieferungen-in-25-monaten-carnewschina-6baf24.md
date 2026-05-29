@@ -1,15 +1,33 @@
 ---
-title: "Denza Z9 GT: 10.000 Auslieferungen in 2,5 Monaten"
+title: 'Denza Z9 GT: 10.000 Auslieferungen in 2,5 Monaten'
 date: 2026-05-28T13:50:45.015Z
-description: "Mit der zweiten Generation der Blade-Batterie und Schnellladetechnik erreicht BYDs (比亚迪) Premiummarke Denza den Meilenstein von 10.000 ausgelieferten Z9 GT. Der Einstiegspreis liegt bei umgerechnet ca. 34.500 €."
-source: "CarNewsChina"
-image: "/images/denza-z9-gt-10000-auslieferungen-in-25-monaten-carnewschina-6baf24.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  Mit der zweiten Generation der Blade-Batterie und Schnellladetechnik erreicht
+  BYDs (比亚迪) Premiummarke Denza den Meilenstein von 10.000 ausgelieferten Z9 GT.
+  Der Einstiegspreis liegt bei umgerechnet ca. 34.500 €.
+source: CarNewsChina
+image: >-
+  /images/denza-z9-gt-10000-auslieferungen-in-25-monaten-carnewschina-6baf24.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/28/byds-first-flash-charging-model-denza-z9-gt-surpasses-10000-deliveries-in-2-5-months/"
+original_url: >-
+  https://carnewschina.com/2026/05/28/byds-first-flash-charging-model-denza-z9-gt-surpasses-10000-deliveries-in-2-5-months/
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # Denza Z9 GT: 10.000 Auslieferungen in 2,5 Monaten

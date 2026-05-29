@@ -1,15 +1,32 @@
 ---
-title: "Xiaomi YU7 GT: 1.003 PS und Nürburgring-Rekord ab 57.600 €"
+title: 'Xiaomi YU7 GT: 1.003 PS und Nürburgring-Rekord ab 57.600 €'
 date: 2026-05-20T12:17:59.710Z
-description: "Xiaomi enthüllt am 21. Mai den YU7 GT mit 1.003 PS, Nürburgring-Rekord und einem Einstiegspreis ab ca. 57.600 €. Auch eine günstigere Standardversion mit 73-kWh-Akku und ein neues großes SUV („Skynomad“) werden erwartet."
-source: "Autohome NewEnergy"
-image: "/images/xiaomi-yu7-gt-1003-ps-und-nrburgring-rekord-ab-576-autohome-newenergy-849986.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Reichweite", "Zoll", "EV"]
+description: >-
+  Xiaomi enthüllt am 21. Mai den YU7 GT mit 1.003 PS, Nürburgring-Rekord und
+  einem Einstiegspreis ab ca. 57.600 €. Auch eine günstigere Standardversion mit
+  73-kWh-Akku und ein neues großes SUV („Skynomad“) werden erwartet.
+source: Autohome NewEnergy
+image: >-
+  /images/xiaomi-yu7-gt-1003-ps-und-nrburgring-rekord-ab-576-autohome-newenergy-849986.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314374.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314374.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: global_industry
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi YU7 GT: 1.003 PS und Nürburgring-Rekord ab 57.600 €

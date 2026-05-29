@@ -1,15 +1,30 @@
 ---
-title: "BYD-Batterie Q1: 33,5 GWh, minus 8 % – Markt wächst nur 9,1 %"
+title: 'BYD-Batterie Q1: 33,5 GWh, minus 8 % – Markt wächst nur 9,1 %'
 date: 2026-05-26T06:04:10.678Z
-description: "Der weltweite Batteriemarkt für E-Autos wuchs im Q1 2026 nur 9,1 %. BYD (比亚迪) als Nummer zwei verzeichnet einen Rückgang von 8 % auf 33,5 GWh. Die chinesischen Hersteller dominieren weiterhin den globalen Markt."
-source: "D1EV"
-image: "/images/byd-batterie-q1-335-gwh-minus-8-markt-wchst-nur-91-d1ev-1d18d3.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Li Auto", "MG", "Tesla", "Batterie", "E-Auto", "EV"]
+description: >-
+  Der weltweite Batteriemarkt für E-Autos wuchs im Q1 2026 nur 9,1 %. BYD (比亚迪)
+  als Nummer zwei verzeichnet einen Rückgang von 8 % auf 33,5 GWh. Die
+  chinesischen Hersteller dominieren weiterhin den globalen Markt.
+source: D1EV
+image: /images/byd-batterie-q1-335-gwh-minus-8-markt-wchst-nur-91-d1ev-1d18d3.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - MG
+  - Tesla
+  - Batterie
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300429"
+original_url: 'https://www.d1ev.com/news/shichang/300429'
 read_time_minutes: 3
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics: []
+brands: []
+confidence: 0.5
 ---
 
 # BYD-Batterie Q1: 33,5 GWh, minus 8 % – Markt wächst nur 9,1 %

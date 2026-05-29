@@ -1,15 +1,30 @@
 ---
-title: "Lotus Emira 420 Sport: 420 PS, 25 kg leichter"
+title: 'Lotus Emira 420 Sport: 420 PS, 25 kg leichter'
 date: 2026-05-27T12:54:58.302Z
-description: "Der neue Lotus Emira 420 Sport von Geely (吉利) legt an Leistung und Dynamik zu: 420 PS, 25 kg weniger Gewicht, mehr Abtrieb. Vorbestellungen laufen ab 122.900 USD."
-source: "CarNewsChina"
-image: "/images/lotus-emira-420-sport-420-ps-25-kg-leichter-carnewschina-5f7203.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "MG", "Zoll"]
+description: >-
+  Der neue Lotus Emira 420 Sport von Geely (吉利) legt an Leistung und Dynamik zu:
+  420 PS, 25 kg weniger Gewicht, mehr Abtrieb. Vorbestellungen laufen ab 122.900
+  USD.
+source: CarNewsChina
+image: /images/lotus-emira-420-sport-420-ps-25-kg-leichter-carnewschina-5f7203.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - MG
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/27/lotus-emira-420-sport-debuts-with-performance-upgrades-and-weight-reduction/"
+original_url: >-
+  https://carnewschina.com/2026/05/27/lotus-emira-420-sport-debuts-with-performance-upgrades-and-weight-reduction/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: de_available
+brands:
+  - Lotus
+  - Geely
+confidence: 0.8
 ---
 
 # Lotus Emira 420 Sport: 420 PS, 25 kg leichter

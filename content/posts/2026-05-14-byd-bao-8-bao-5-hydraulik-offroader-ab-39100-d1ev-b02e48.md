@@ -1,15 +1,30 @@
 ---
-title: "BYD Bao 8 & Bao 5: Hydraulik-Offroader ab 39.100 €"
+title: 'BYD Bao 8 & Bao 5: Hydraulik-Offroader ab 39.100 €'
 date: 2026-05-14T00:59:25.997Z
-description: "BYDs Geländewagenmarke Fangchengbao bringt die Flash-Charge-Versionen von Bao 8 und Bao 5. Beide erhalten das neue Cloud-P-Ultra-Hydraulikfahrwerk. Preise: ab ca. 53.700 € bzw. 39.100 € – ein China-Debüt."
-source: "D1EV"
-image: "/images/byd-bao-8-bao-5-hydraulik-offroader-ab-39100-d1ev-b02e48.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  BYDs Geländewagenmarke Fangchengbao bringt die Flash-Charge-Versionen von Bao
+  8 und Bao 5. Beide erhalten das neue Cloud-P-Ultra-Hydraulikfahrwerk. Preise:
+  ab ca. 53.700 € bzw. 39.100 € – ein China-Debüt.
+source: D1EV
+image: /images/byd-bao-8-bao-5-hydraulik-offroader-ab-39100-d1ev-b02e48.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299058"
+original_url: 'https://www.d1ev.com/news/qiye/299058'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Bao 8 & Bao 5: Hydraulik-Offroader ab 39.100 €

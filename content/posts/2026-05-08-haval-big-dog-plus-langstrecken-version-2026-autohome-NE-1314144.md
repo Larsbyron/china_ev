@@ -1,15 +1,30 @@
 ---
-title: "Haval Big Dog PLUS Langstreckenversion mit 200 km E-Reichweite ab 152.800 Yuan"
-date: 2026-05-08T07:52:56+02:00
-description: "Die Haval Big Dog PLUS Hi4 200km-Version bietet 200 km elektrische Reichweite (CLTC), über 1.000 km kombiniert und einen Einstiegspreis von 152.800 Yuan."
-source: "Autohome NewEnergy"
-image: "/images/ai-haval-big-dog-plus-langstrecken-version-2026-autohome-NE-1314144.webp"
-category: "news"
-brand: "Haval"
-tags: ["Haval", "Big Dog", "PHEV", "SUV", "Hi4"]
+title: Haval Big Dog PLUS Langstreckenversion mit 200 km E-Reichweite ab 152.800 Yuan
+date: 2026-05-08T05:52:56.000Z
+description: >-
+  Die Haval Big Dog PLUS Hi4 200km-Version bietet 200 km elektrische Reichweite
+  (CLTC), über 1.000 km kombiniert und einen Einstiegspreis von 152.800 Yuan.
+source: Autohome NewEnergy
+image: >-
+  /images/ai-haval-big-dog-plus-langstrecken-version-2026-autohome-NE-1314144.webp
+category: news
+brand: Haval
+tags:
+  - Haval
+  - Big Dog
+  - PHEV
+  - SUV
+  - Hi4
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314144.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314144.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Haval
+confidence: 0.95
 ---
 
 Am 8. Mai hat Haval die Big Dog PLUS Hi4 200km Long Range Electric Edition offiziell in China eingeführt. Der Listenpreis beträgt 165.800 Yuan, zeitlich befristet wird das SUV für 152.800 Yuan (ca. 19.500 Euro) angeboten.

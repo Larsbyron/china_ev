@@ -1,15 +1,27 @@
 ---
-title: "Audi RS 5 Hybrid: 612 PS V6-Biturbo mit E-Motor"
+title: 'Audi RS 5 Hybrid: 612 PS V6-Biturbo mit E-Motor'
 date: 2026-05-16T19:01:33.266Z
-description: "Audi (奥迪) bringt den neuen RS 5 Sportback als Plug-in-Hybrid. 2,9-Liter-V6-Biturbo plus P2-E-Motor ergeben 450 kW (612 PS) und unter 3,5 Sekunden auf 100 km/h. Marktstart in China Frühjahr 2025."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "Elektroauto"]
+description: >-
+  Audi (奥迪) bringt den neuen RS 5 Sportback als Plug-in-Hybrid.
+  2,9-Liter-V6-Biturbo plus P2-E-Motor ergeben 450 kW (612 PS) und unter 3,5
+  Sekunden auf 100 km/h. Marktstart in China Frühjahr 2025.
+source: OFweek NEV
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Audi
+confidence: 0.9
 ---
 
 # Audi RS 5 Hybrid: 612 PS V6-Biturbo mit E-Motor

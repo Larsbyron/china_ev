@@ -1,15 +1,27 @@
 ---
-title: "Sieben chinesische Neuwagen starten Vorverkauf ab 16.400 €"
+title: Sieben chinesische Neuwagen starten Vorverkauf ab 16.400 €
 date: 2026-05-14T01:26:41.265Z
-description: "Am 20. März 2026 gingen gleich sieben Modelle in den Vorverkauf: Vom kompakten SUV bis zur Luxuslimousine, Preise von 127.900 Yuan (ca. 16.400 €) bis 439.900 Yuan (ca. 56.300 €). Die wichtigsten Daten."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Geely", "Batterie", "Reichweite", "EV"]
+description: >-
+  Am 20. März 2026 gingen gleich sieben Modelle in den Vorverkauf: Vom kompakten
+  SUV bis zur Luxuslimousine, Preise von 127.900 Yuan (ca. 16.400 €) bis 439.900
+  Yuan (ca. 56.300 €). Die wichtigsten Daten.
+source: OFweek NEV
+category: news
+tags:
+  - Geely
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30683949.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30683949.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.9
 ---
 
 # Sieben chinesische Neuwagen starten Vorverkauf ab 16.400 €

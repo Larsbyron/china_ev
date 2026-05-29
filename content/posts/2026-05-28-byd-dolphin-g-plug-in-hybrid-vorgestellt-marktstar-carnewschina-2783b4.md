@@ -1,15 +1,31 @@
 ---
-title: "BYD Dolphin G: Plug-in-Hybrid vorgestellt – Marktstart im Herbst 2026"
+title: 'BYD Dolphin G: Plug-in-Hybrid vorgestellt – Marktstart im Herbst 2026'
 date: 2026-05-28T13:47:18.830Z
-description: "BYD (比亚迪) bringt den Dolphin G als Plug-in-Hybrid für Europa. Der 4,16 Meter kurze Fünftürer bietet eine kombinierte Reichweite von 1.000 km und soll im Herbst 2026 ausgeliefert werden. Preise werden im Juni genannt."
-source: "CarNewsChina"
-image: "/images/byd-dolphin-g-plug-in-hybrid-vorgestellt-marktstar-carnewschina-2783b4.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  BYD (比亚迪) bringt den Dolphin G als Plug-in-Hybrid für Europa. Der 4,16 Meter
+  kurze Fünftürer bietet eine kombinierte Reichweite von 1.000 km und soll im
+  Herbst 2026 ausgeliefert werden. Preise werden im Juni genannt.
+source: CarNewsChina
+image: >-
+  /images/byd-dolphin-g-plug-in-hybrid-vorgestellt-marktstar-carnewschina-2783b4.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/byd-dolphin-g-plug-in-hybrid-hatchback-broke-cover-ahead-of-european-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/byd-dolphin-g-plug-in-hybrid-hatchback-broke-cover-ahead-of-european-launch/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_available
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Dolphin G: Plug-in-Hybrid vorgestellt – Marktstart im Herbst 2026

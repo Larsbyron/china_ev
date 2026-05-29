@@ -1,15 +1,30 @@
 ---
-title: "Geely Galaxy Xingyao 7 MAX: Allrad-PHEV ab 12.600 €"
+title: 'Geely Galaxy Xingyao 7 MAX: Allrad-PHEV ab 12.600 €'
 date: 2026-05-23T19:02:32.382Z
-description: "Geely bringt den Galaxy Xingyao 7 MAX als ersten 2-Liter-Allrad-PHEV in China. Preis ab 12.600 €, 220 km E-Reichweite (CLTC), 5,4 s auf 100 km/h und Verbrauch von 2,98 L/100 km."
-source: "D1EV"
-image: "/images/geely-galaxy-xingyao-7-max-allrad-phev-ab-12600-d1ev-8c3a24.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Batterie", "Reichweite", "EV"]
+description: >-
+  Geely bringt den Galaxy Xingyao 7 MAX als ersten 2-Liter-Allrad-PHEV in China.
+  Preis ab 12.600 €, 220 km E-Reichweite (CLTC), 5,4 s auf 100 km/h und
+  Verbrauch von 2,98 L/100 km.
+source: D1EV
+image: /images/geely-galaxy-xingyao-7-max-allrad-phev-ab-12600-d1ev-8c3a24.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/300199"
+original_url: 'https://www.d1ev.com/news/qiye/300199'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.95
 ---
 
 # Geely Galaxy Xingyao 7 MAX: Allrad-PHEV ab 12.600 €

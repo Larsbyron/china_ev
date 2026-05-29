@@ -1,13 +1,31 @@
 ---
-title: "Onvo L90: Fahrzeuge für den Vorverkauf erreichen nationale Händlernetze"
+title: 'Onvo L90: Fahrzeuge für den Vorverkauf erreichen nationale Händlernetze'
 date: 2026-04-19T09:00:00.000Z
-description: "Nios Submarke Onvo hat mit der landesweiten Auslieferung des überarbeiteten L90 begonnen. Die ersten Ausstellungs- und Testfahrzeuge sollen am 21. April in den Stores eintreffen."
-source: "CnEVPost"
-image: "/images/ai-onvo-l90-auslieferung-an-haendler-im-ganzen-land-cnevpost-c3a721.webp"
-category: "news"
-tags: ["Onvo", "NIO", "L90", "Auslieferung", "Vorverkauf"]
+description: >-
+  Nios Submarke Onvo hat mit der landesweiten Auslieferung des überarbeiteten
+  L90 begonnen. Die ersten Ausstellungs- und Testfahrzeuge sollen am 21. April
+  in den Stores eintreffen.
+source: CnEVPost
+image: >-
+  /images/ai-onvo-l90-auslieferung-an-haendler-im-ganzen-land-cnevpost-c3a721.webp
+category: news
+tags:
+  - Onvo
+  - NIO
+  - L90
+  - Auslieferung
+  - Vorverkauf
 draft: false
-original_url: "https://cnevpost.com/2026/04/19/nio-onvo-starts-nationwide-shipping-of-2026-l90/"
+original_url: >-
+  https://cnevpost.com/2026/04/19/nio-onvo-starts-nationwide-shipping-of-2026-l90/
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Onvo
+  - NIO
+confidence: 0.95
 ---
 
 # Onvo L90: Fahrzeuge erreichen die Händler – Vorverkauf startet in zwei Tagen

@@ -1,15 +1,31 @@
 ---
-title: "Li Auto L9 Livis: KI-Agent als Marken-Kern bis 2026"
+title: 'Li Auto L9 Livis: KI-Agent als Marken-Kern bis 2026'
 date: 2026-05-22T11:05:42.844Z
-description: "Auf der Auto China in Peking zeigte Li Auto mit dem L9 Livis eine KI-Strategie, die auf einen „ganzheitlichen Agenten“ setzt. Anders als HIMA (HARMONY Intelligent Mobility Alliance) will Li Auto nicht nur ein Ökosystem, sondern ein physisch intelligentes Fahrzeug bauen – ein riskanter Wettlauf gegen"
-source: "Sina"
-image: "/images/li-auto-l9-livis-ki-agent-als-marken-kern-bis-2026-sina-008559.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "EV"]
+description: >-
+  Auf der Auto China in Peking zeigte Li Auto mit dem L9 Livis eine
+  KI-Strategie, die auf einen „ganzheitlichen Agenten“ setzt. Anders als HIMA
+  (HARMONY Intelligent Mobility Alliance) will Li Auto nicht nur ein Ökosystem,
+  sondern ein physisch intelligentes Fahrzeug bauen – ein riskanter Wettlauf
+  gegen
+source: Sina
+image: /images/li-auto-l9-livis-ki-agent-als-marken-kern-bis-2026-sina-008559.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - Li Auto
+confidence: 0.9
 ---
 
 # Li Auto L9 Livis: KI-Agent als Marken-Kern bis 2026

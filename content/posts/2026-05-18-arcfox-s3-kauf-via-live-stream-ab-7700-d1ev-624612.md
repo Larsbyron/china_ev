@@ -1,15 +1,28 @@
 ---
-title: "Arcfox S3: Kauf via Live-Stream ab 7.700 €"
+title: 'Arcfox S3: Kauf via Live-Stream ab 7.700 €'
 date: 2026-05-18T19:34:53.944Z
-description: "Arcfox vertreibt den S3 ausschließlich online – auch direkt über Live-Streams. Der reine Stromer (BEV) startet bei 60.000 Yuan (ca. 7.700 €). Dank CATL-Wechselakku ist in 99 Sekunden ein frischer Akku drin. Ein Europa-Start ist nicht vorgesehen."
-source: "D1EV"
-image: "/images/arcfox-s3-kauf-via-live-stream-ab-7700-d1ev-624612.webp"
-category: "news"
-
-tags: ["Reichweite", "EV"]
+description: >-
+  Arcfox vertreibt den S3 ausschließlich online – auch direkt über Live-Streams.
+  Der reine Stromer (BEV) startet bei 60.000 Yuan (ca. 7.700 €). Dank
+  CATL-Wechselakku ist in 99 Sekunden ein frischer Akku drin. Ein Europa-Start
+  ist nicht vorgesehen.
+source: D1EV
+image: /images/arcfox-s3-kauf-via-live-stream-ab-7700-d1ev-624612.webp
+category: news
+tags:
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299524"
+original_url: 'https://www.d1ev.com/news/qiye/299524'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Arcfox
+confidence: 0.95
 ---
 
 # Arcfox S3: Kauf via Live-Stream ab 7.700 €

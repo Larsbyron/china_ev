@@ -1,15 +1,34 @@
 ---
-title: "Embodied AI: 2000 Roboter für BYD und NIO in China"
+title: 'Embodied AI: 2000 Roboter für BYD und NIO in China'
 date: 2026-05-14T00:05:12.577Z
-description: "Bosch, Schaeffler und Valeo treiben den Einsatz humanoider Roboter in der E-Auto-Fertigung voran. BYD, NIO und Li Auto profitieren von schnelleren Produktionszyklen und höherer Präzision. Für deutsche Käufer bedeutet das kürzere Lieferzeiten und bessere Verarbeitung."
-source: "D1EV"
-image: "/images/embodied-ai-2000-roboter-fr-byd-und-nio-in-china-d1ev-e6d02a.webp"
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Batterie", "E-Auto"]
+description: >-
+  Bosch, Schaeffler und Valeo treiben den Einsatz humanoider Roboter in der
+  E-Auto-Fertigung voran. BYD, NIO und Li Auto profitieren von schnelleren
+  Produktionszyklen und höherer Präzision. Für deutsche Käufer bedeutet das
+  kürzere Lieferzeiten und bessere Verarbeitung.
+source: D1EV
+image: /images/embodied-ai-2000-roboter-fr-byd-und-nio-in-china-d1ev-e6d02a.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Batterie
+  - E-Auto
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299065"
+original_url: 'https://www.d1ev.com/news/shichang/299065'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: de_available
+brands:
+  - BYD
+  - NIO
+  - Li Auto
+confidence: 0.9
 ---
 
 # Embodied AI: 2000 Roboter für BYD und NIO in China

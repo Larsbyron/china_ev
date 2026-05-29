@@ -1,15 +1,31 @@
 ---
-title: "Audi RS 5 Hybrid: 375 kW V6-PHEV für China"
+title: 'Audi RS 5 Hybrid: 375 kW V6-PHEV für China'
 date: 2026-05-14T19:36:31.321Z
-description: "Audi rüstet den RS 5 Sportback als Plug-in-Hybrid für den chinesischen Markt. Der 2,9-Liter-V6-Biturbo kombiniert mit einem 130-kW-E-Motor leistet 375 kW. Er tritt gegen New-Energy-Sportler wie Nio ET5 an."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "Xiaomi SU", "Tesla", "Batterie", "Elektroauto", "EV"]
+description: >-
+  Audi rüstet den RS 5 Sportback als Plug-in-Hybrid für den chinesischen Markt.
+  Der 2,9-Liter-V6-Biturbo kombiniert mit einem 130-kW-E-Motor leistet 375 kW.
+  Er tritt gegen New-Energy-Sportler wie Nio ET5 an.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - Xiaomi SU
+  - Tesla
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - NIO
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Audi RS 5 Hybrid: 375 kW V6-PHEV für China

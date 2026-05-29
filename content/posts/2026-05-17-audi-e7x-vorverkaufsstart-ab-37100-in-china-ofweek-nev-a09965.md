@@ -1,15 +1,30 @@
 ---
-title: "Audi E7X: Vorverkaufsstart ab 37.100 € in China"
+title: 'Audi E7X: Vorverkaufsstart ab 37.100 € in China'
 date: 2026-05-17T18:59:07.090Z
-description: "Audi eröffnet den Vorverkauf für den E7X in China – Preis: 289.800–379.800 Yuan (ca. 37.100–48.600 €). Der E-SUV tritt gegen Xiaomi YU7 an. Technik, Preise und Zielgruppen im Vergleich."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Reichweite", "EV"]
+description: >-
+  Audi eröffnet den Vorverkauf für den E7X in China – Preis: 289.800–379.800
+  Yuan (ca. 37.100–48.600 €). Der E-SUV tritt gegen Xiaomi YU7 an. Technik,
+  Preise und Zielgruppen im Vergleich.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Audi E7X: Vorverkaufsstart ab 37.100 € in China

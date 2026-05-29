@@ -1,15 +1,30 @@
 ---
-title: "Wuling Bingo Pro ab 7.300 €: 403 km Reichweite, 3C-Schnellladung"
+title: 'Wuling Bingo Pro ab 7.300 €: 403 km Reichweite, 3C-Schnellladung'
 date: 2026-05-22T19:27:53.498Z
-description: "Wuling (五菱) hat den elektrischen Kleinwagen Bingo Pro in China gestartet. Preise: 7.300–9.100 €. Serienmäßig 80+ Features inklusive Parkassistent, elektrischer Heckklappe und KI-Sprachassistent. Der Bingo Pro ist aktuell nur für China bestätigt."
-source: "D1EV"
-image: "/images/wuling-bingo-pro-ab-7300-403-km-reichweite-3c-schn-d1ev-dfa3f4.webp"
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Ladestation", "Zoll"]
+description: >-
+  Wuling (五菱) hat den elektrischen Kleinwagen Bingo Pro in China gestartet.
+  Preise: 7.300–9.100 €. Serienmäßig 80+ Features inklusive Parkassistent,
+  elektrischer Heckklappe und KI-Sprachassistent. Der Bingo Pro ist aktuell nur
+  für China bestätigt.
+source: D1EV
+image: /images/wuling-bingo-pro-ab-7300-403-km-reichweite-3c-schn-d1ev-dfa3f4.webp
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - Zoll
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300200"
+original_url: 'https://www.d1ev.com/news/shichang/300200'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Wuling
+confidence: 0.95
 ---
 
 # Wuling Bingo Pro ab 7.300 €: 403 km Reichweite, 3C-Schnellladung

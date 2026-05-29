@@ -1,15 +1,31 @@
 ---
-title: "BYD Great Tang: 100.000 Vorbestellungen verzögern Marktstart auf Juni"
+title: 'BYD Great Tang: 100.000 Vorbestellungen verzögern Marktstart auf Juni'
 date: 2026-05-18T13:51:38.722Z
-description: "Der vollelektrische Siebensitzer Great Tang von BYD kommt wegen überwältigender Nachfrage erst am 8. Juni 2026 auf den chinesischen Markt. Die zweite Generation der Blade Battery stößt an Kapazitätsgrenzen."
-source: "CarNewsChina"
-image: "/images/byd-great-tang-100000-vorbestellungen-verzgern-mar-carnewschina-acf03e.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Ladestation", "EV"]
+description: >-
+  Der vollelektrische Siebensitzer Great Tang von BYD kommt wegen
+  überwältigender Nachfrage erst am 8. Juni 2026 auf den chinesischen Markt. Die
+  zweite Generation der Blade Battery stößt an Kapazitätsgrenzen.
+source: CarNewsChina
+image: >-
+  /images/byd-great-tang-100000-vorbestellungen-verzgern-mar-carnewschina-acf03e.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/byd-great-tang-launch-delayed-as-100000-orders-strain-blade-battery-2-0-supply-report-says/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/byd-great-tang-launch-delayed-as-100000-orders-strain-blade-battery-2-0-supply-report-says/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 1
 ---
 
 # BYD Great Tang: 100.000 Vorbestellungen verzögern Marktstart auf Juni

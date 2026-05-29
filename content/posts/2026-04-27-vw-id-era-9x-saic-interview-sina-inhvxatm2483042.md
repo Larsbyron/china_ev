@@ -1,15 +1,36 @@
 ---
-title: "Fabio Stoelzel: ID. ERA 9X führt die NEV-Offensive an – SAIC Volkswagen blickt zuversichtlich auf das Gesamtjahr"
-date: 2026-04-27T12:00:00
-description: "Im exklusiven Interview auf der Beijing Auto Show 2026 spricht Fabio Stoelzel, stellvertretender Generalmanager von SAIC Volkswagen, über den neuen ID. ERA 9X, die ePro-Modellreihe und die Strategie „In China, für China“."
-source: "Sina"
-image: "/images/vw-id-era-9x-saic-interview-sina-inhvxatm2483042.webp"
-category: "news"
-brand: "Volkswagen"
-tags: ["Volkswagen", "SAIC Volkswagen", "ID. ERA 9X", "Passat ePro", "Tiguan L ePro", "PHEV", "Beijing Auto Show 2026", "Interview", "NEV"]
+title: >-
+  Fabio Stoelzel: ID. ERA 9X führt die NEV-Offensive an – SAIC Volkswagen blickt
+  zuversichtlich auf das Gesamtjahr
+date: 2026-04-27T12:00:00.000Z
+description: >-
+  Im exklusiven Interview auf der Beijing Auto Show 2026 spricht Fabio Stoelzel,
+  stellvertretender Generalmanager von SAIC Volkswagen, über den neuen ID. ERA
+  9X, die ePro-Modellreihe und die Strategie „In China, für China“.
+source: Sina
+image: /images/vw-id-era-9x-saic-interview-sina-inhvxatm2483042.webp
+category: news
+brand: Volkswagen
+tags:
+  - Volkswagen
+  - SAIC Volkswagen
+  - ID. ERA 9X
+  - Passat ePro
+  - Tiguan L ePro
+  - PHEV
+  - Beijing Auto Show 2026
+  - Interview
+  - NEV
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-04-27/detail-inhvxatm2483042.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-04-27/detail-inhvxatm2483042.shtml'
 read_time_minutes: 7
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Volkswagen
+confidence: 0.9
 ---
 
 Am 24. April 2026 öffnete die Beijing Auto Show ihre Tore — erstmals dual am China International Exhibition Center Shunyi und am Capital International Exhibition Center. Über 1.500 Aussteller präsentierten 181 Weltpremieren und 71 Konzeptfahrzeuge. Neue Energien und intelligent vernetzte Fahrzeuge standen im Mittelpunkt der Messe.

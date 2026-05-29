@@ -1,15 +1,28 @@
 ---
-title: "Audi RS 5 Hybrid: 2,9l V6 mit 130-kW-E-Motor"
+title: 'Audi RS 5 Hybrid: 2,9l V6 mit 130-kW-E-Motor'
 date: 2026-05-22T12:23:21.993Z
-description: "Der neue RS 5 Sportback kombiniert 2,9l V6 Biturbo (375 kW) mit P2-Hybrid (130 kW) und 22 kWh Akku. Gegenüber vollelektrischen Rivalen setzt Audi weiter auf Verbrennerkompetenz."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Der neue RS 5 Sportback kombiniert 2,9l V6 Biturbo (375 kW) mit P2-Hybrid (130
+  kW) und 22 kWh Akku. Gegenüber vollelektrischen Rivalen setzt Audi weiter auf
+  Verbrennerkompetenz.
+source: OFweek NEV
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: de_available
+brands:
+  - Audi
+confidence: 0.95
 ---
 
 # Audi RS 5 Hybrid: 2,9l V6 mit 130-kW-E-Motor

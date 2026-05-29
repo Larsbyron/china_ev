@@ -1,15 +1,34 @@
 ---
-title: "BYD Song Ultra EV: 9-Minuten-Ladung, ab 19.200 €"
+title: 'BYD Song Ultra EV: 9-Minuten-Ladung, ab 19.200 €'
 date: 2026-05-16T05:25:36.471Z
-description: "BYD testet den neuen Song Ultra EV auf einer 4.244 km langen Fahrt quer durch China. Das SUV lädt in neun Minuten von 10 auf 80 % und kostet umgerechnet ab 19.200 €. Marktstart in Europa weiter unklar."
-source: "CarNewsChina"
-image: "/images/byd-song-ultra-ev-9-minuten-ladung-ab-19200-carnewschina-882f86.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Onvo", "Reichweite", "Ladestation", "EV", "Marktanteil"]
+description: >-
+  BYD testet den neuen Song Ultra EV auf einer 4.244 km langen Fahrt quer durch
+  China. Das SUV lädt in neun Minuten von 10 auf 80 % und kostet umgerechnet ab
+  19.200 €. Marktstart in Europa weiter unklar.
+source: CarNewsChina
+image: /images/byd-song-ultra-ev-9-minuten-ladung-ab-19200-carnewschina-882f86.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Onvo
+  - Reichweite
+  - Ladestation
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/byd-song-ultra-ev-kicks-off-4244-km-cross-china-drive-flash-network-hits-5979-stations/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/byd-song-ultra-ev-kicks-off-4244-km-cross-china-drive-flash-network-hits-5979-stations/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Song Ultra EV: 9-Minuten-Ladung, ab 19.200 €

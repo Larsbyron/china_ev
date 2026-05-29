@@ -1,15 +1,25 @@
 ---
-title: "Audi E7X vs. Xiaomi YU7: 37.100 € gegen 32.400 €"
+title: 'Audi E7X vs. Xiaomi YU7: 37.100 € gegen 32.400 €'
 date: 2026-05-19T19:48:07.401Z
-description: "Audi bringt den vollelektrischen E7X ab ca. 37.100 € in den Vorverkauf – direkter Konkurrent zum Xiaomi YU7 ab ca. 32.400 €. Zwei Philosophien: klassische Fahrdynamik trifft auf Tech-Ökosystem."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Reichweite"]
+description: >-
+  Audi bringt den vollelektrischen E7X ab ca. 37.100 € in den Vorverkauf –
+  direkter Konkurrent zum Xiaomi YU7 ab ca. 32.400 €. Zwei Philosophien:
+  klassische Fahrdynamik trifft auf Tech-Ökosystem.
+source: OFweek NEV
+category: news
+tags:
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - AUDI
+  - XIAOMI
+confidence: 0.9
 ---
 
 # Audi E7X vs. Xiaomi YU7: 37.100 € gegen 32.400 €

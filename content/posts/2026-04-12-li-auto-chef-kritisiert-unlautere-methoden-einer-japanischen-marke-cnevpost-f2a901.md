@@ -1,13 +1,27 @@
 ---
-title: "Li Auto Chef wirft japanischer Marke organkierte Online-Attacken vor"
+title: Li Auto Chef wirft japanischer Marke organkierte Online-Attacken vor
 date: 2026-04-12T18:00:00.000Z
-description: "Li Xiang, Gründer von Li Auto, wirft einer japanischen Automarke vor, über ein organisiertes Netzwerk gezielt die Produkte seines Unternehmens im Netz verunglimpfen zu lassen."
-source: "CnEVPost"
-image: "/images/ai-li-auto-chef-kritisiert-unlautere-methoden-einer-japanischen-marke-cnevpost-f2a901.webp"
-category: "news"
-tags: ["Li Auto", "Nissan", "Dongfeng", "Wettbewerb", "Online-Kampagne"]
+description: >-
+  Li Xiang, Gründer von Li Auto, wirft einer japanischen Automarke vor, über ein
+  organisiertes Netzwerk gezielt die Produkte seines Unternehmens im Netz
+  verunglimpfen zu lassen.
+source: CnEVPost
+image: >-
+  /images/ai-li-auto-chef-kritisiert-unlautere-methoden-einer-japanischen-marke-cnevpost-f2a901.webp
+category: news
+tags:
+  - Li Auto
+  - Nissan
+  - Dongfeng
+  - Wettbewerb
+  - Online-Kampagne
 draft: false
-original_url: "https://cnevpost.com/2026/04/12/li-auto-ceo-slams-unfair-competition-nissan/"
+original_url: 'https://cnevpost.com/2026/04/12/li-auto-ceo-slams-unfair-competition-nissan/'
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - modelle-marktstarts
+brands: []
+confidence: 0.5
 ---
 
 # Li Auto Chef kritisiert unlautere Methoden: Japanische Marke unter Druck

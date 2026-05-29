@@ -1,16 +1,30 @@
 ---
-title: "ZEEKR liefert im April 31.787 neue Fahrzeuge aus – Anstieg um 132% im Jahresvergleich"
+title: >-
+  ZEEKR liefert im April 31.787 neue Fahrzeuge aus – Anstieg um 132% im
+  Jahresvergleich
 date: 2026-05-09T22:40:53.368Z
-description: "INHALT:
-ZEEKR liefert im April 31.787 neue Fahrzeuge aus, ein Anstieg um 132% im Jahresvergleich. Bis zum 30. April hat ZEEKR weltweit über 750.000 Fahrzeuge ausgeliefert, mit einem durchschnittlichen..."
-source: "Sina"
-image: "/images/zeekr-liefert-im-april-31787-neue-fahrzeuge-aus-an-sina-b56d76.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Zeekr", "Reichweite"]
+description: >-
+  INHALT: ZEEKR liefert im April 31.787 neue Fahrzeuge aus, ein Anstieg um 132%
+  im Jahresvergleich. Bis zum 30. April hat ZEEKR weltweit über 750.000
+  Fahrzeuge ausgeliefert, mit einem durchschnittlichen...
+source: Sina
+image: /images/zeekr-liefert-im-april-31787-neue-fahrzeuge-aus-an-sina-b56d76.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Zeekr
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn/news/2026-05-01/detail-inhwkpti0669247.shtml"
+original_url: 'https://auto.sina.com.cn/news/2026-05-01/detail-inhwkpti0669247.shtml'
 read_time_minutes: 1
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
+brands:
+  - ZEEKR
+confidence: 0.9
 ---
 
 # ZEEKR liefert im April 31.787 neue Fahrzeuge aus – Anstieg um 132% im Jahresvergleich

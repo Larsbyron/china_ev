@@ -1,15 +1,29 @@
 ---
-title: "Li Auto und Huawei: Zwei KI-Agenten im Duell"
+title: 'Li Auto und Huawei: Zwei KI-Agenten im Duell'
 date: 2026-05-17T19:00:05.348Z
-description: "Auf der Auto China präsentierten Li Auto und Huawei ihre gegensätzlichen Visionen für den KI-Agenten im Auto. Der Wettlauf um den intelligentesten digitalen Begleiter wird zur strategischen Wette."
-source: "Sina"
-image: "/images/li-auto-und-huawei-zwei-ki-agenten-im-duell-sina-364176.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "EV"]
+description: >-
+  Auf der Auto China präsentierten Li Auto und Huawei ihre gegensätzlichen
+  Visionen für den KI-Agenten im Auto. Der Wettlauf um den intelligentesten
+  digitalen Begleiter wird zur strategischen Wette.
+source: Sina
+image: /images/li-auto-und-huawei-zwei-ki-agenten-im-duell-sina-364176.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Huawei
+confidence: 0.9
 ---
 
 # Li Auto und Huawei: Zwei KI-Agenten im Duell

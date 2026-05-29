@@ -1,15 +1,34 @@
 ---
-title: "Mercedes GLE L, VW ID.ERA 5S & Co.: Sechs neue Modelle in China"
+title: 'Mercedes GLE L, VW ID.ERA 5S & Co.: Sechs neue Modelle in China'
 date: 2026-05-24T11:12:58.198Z
-description: "Sechs neue Modelle von Mercedes, VW, XPeng, Hyundai und Deepal in der MIIT-Liste. Von Plug-in-Hybriden bis zum Hardcore-Offroader – die wichtigsten Neuheiten der zweiten Jahreshälfte 2026."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "XPeng", "Xpeng", "Li Auto", "Tesla", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Sechs neue Modelle von Mercedes, VW, XPeng, Hyundai und Deepal in der
+  MIIT-Liste. Von Plug-in-Hybriden bis zum Hardcore-Offroader – die wichtigsten
+  Neuheiten der zweiten Jahreshälfte 2026.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Mercedes
+  - VW
+  - XPeng
+  - Hyundai
+  - Deepal
+confidence: 0.9
 ---
 
 # Mercedes GLE L, VW ID.ERA 5S & Co.: Sechs neue Modelle in China

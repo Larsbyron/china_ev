@@ -1,15 +1,35 @@
 ---
-title: "BYD Denza B8: Dreirad-Fahrt und Reifenwechsel ohne Wagenheber"
+title: 'BYD Denza B8: Dreirad-Fahrt und Reifenwechsel ohne Wagenheber'
 date: 2026-05-15T11:54:55.019Z
-description: "BYDs Denza B8 kann mit drei Rädern weiterfahren und Reifen ohne Wagenheber wechseln. Auch AITO M9 und Li Auto L9 zeigen ähnliche Funktionen – der Wettbewerb um aktive Fahrwerke in China wird härter."
-source: "CarNewsChina"
-image: "/images/byd-denza-b8-dreirad-fahrt-und-reifenwechsel-ohne-carnewschina-be1761.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Li Auto", "MG", "Reichweite", "EV"]
+description: >-
+  BYDs Denza B8 kann mit drei Rädern weiterfahren und Reifen ohne Wagenheber
+  wechseln. Auch AITO M9 und Li Auto L9 zeigen ähnliche Funktionen – der
+  Wettbewerb um aktive Fahrwerke in China wird härter.
+source: CarNewsChina
+image: >-
+  /images/byd-denza-b8-dreirad-fahrt-und-reifenwechsel-ohne-carnewschina-be1761.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Li Auto
+  - MG
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/"
+original_url: >-
+  https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/
 read_time_minutes: 3
+primaryTopic: software-assistenz-autonomes-fahren
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - Denza
+  - AITO
+  - Li Auto
+confidence: 0.8
 ---
 
 # BYD Denza B8: Dreirad-Fahrt und Reifenwechsel ohne Wagenheber

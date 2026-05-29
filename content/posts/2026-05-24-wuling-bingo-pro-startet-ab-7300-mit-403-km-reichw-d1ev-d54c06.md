@@ -1,15 +1,30 @@
 ---
-title: "Wuling Bingo Pro startet ab 7.300 € mit 403 km Reichweite"
+title: Wuling Bingo Pro startet ab 7.300 € mit 403 km Reichweite
 date: 2026-05-24T05:57:21.383Z
-description: "Der Wuling Bingo Pro kommt als vollelektrischer Kleinwagen ab 56.800 Yuan (ca. 7.300 €) auf den Markt. Serienmäßig an Bord: über 80 Extras inklusive Kofferraum, E-Heckklappe und KI-Sprachassistent."
-source: "D1EV"
-image: "/images/wuling-bingo-pro-startet-ab-7300-mit-403-km-reichw-d1ev-d54c06.webp"
-category: "news"
-
-tags: ["BYD", "Batterie", "Zoll", "Elektroauto", "EV"]
+description: >-
+  Der Wuling Bingo Pro kommt als vollelektrischer Kleinwagen ab 56.800 Yuan (ca.
+  7.300 €) auf den Markt. Serienmäßig an Bord: über 80 Extras inklusive
+  Kofferraum, E-Heckklappe und KI-Sprachassistent.
+source: D1EV
+image: /images/wuling-bingo-pro-startet-ab-7300-mit-403-km-reichw-d1ev-d54c06.webp
+category: news
+tags:
+  - BYD
+  - Batterie
+  - Zoll
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300200"
+original_url: 'https://www.d1ev.com/news/shichang/300200'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Wuling
+confidence: 0.9
 ---
 
 # Wuling Bingo Pro startet ab 7.300 € mit 403 km Reichweite

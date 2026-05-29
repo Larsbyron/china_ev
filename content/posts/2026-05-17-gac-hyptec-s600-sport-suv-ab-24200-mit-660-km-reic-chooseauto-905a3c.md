@@ -1,15 +1,31 @@
 ---
-title: "GAC Hyptec S600: Sport-SUV ab 24.200 € mit 660 km Reichweite"
+title: 'GAC Hyptec S600: Sport-SUV ab 24.200 € mit 660 km Reichweite'
 date: 2026-05-17T11:14:01.935Z
-description: "GAC Hyptec startet den S600 (昊铂 S600) in China ab 188.900 Yuan (ca. 24.200 €). Der 370 kW Doppelmotor-Allradler bietet 660 km CLTC-Reichweite und eine Luftfederung. Marktstart in Europa noch offen."
-source: "ChooseAuto"
-image: "/images/gac-hyptec-s600-sport-suv-ab-24200-mit-660-km-reic-chooseauto-905a3c.webp"
-category: "news"
-
-tags: ["MG", "Reichweite", "Zoll", "EV"]
+description: >-
+  GAC Hyptec startet den S600 (昊铂 S600) in China ab 188.900 Yuan (ca. 24.200 €).
+  Der 370 kW Doppelmotor-Allradler bietet 660 km CLTC-Reichweite und eine
+  Luftfederung. Marktstart in Europa noch offen.
+source: ChooseAuto
+image: >-
+  /images/gac-hyptec-s600-sport-suv-ab-24200-mit-660-km-reic-chooseauto-905a3c.webp
+category: news
+tags:
+  - MG
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/904865.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/904865.shtml'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - GAC
+  - Hyptec
+confidence: 0.9
 ---
 
 # GAC Hyptec S600: Sport-SUV ab 24.200 € mit 660 km Reichweite

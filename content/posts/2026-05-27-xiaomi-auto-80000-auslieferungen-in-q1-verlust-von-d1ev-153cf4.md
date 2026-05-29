@@ -1,15 +1,30 @@
 ---
-title: "Xiaomi Auto: 80.000 Auslieferungen in Q1, Verlust von 3,1 Mrd. Yuan"
+title: 'Xiaomi Auto: 80.000 Auslieferungen in Q1, Verlust von 3,1 Mrd. Yuan'
 date: 2026-05-27T12:59:03.510Z
-description: "Xiaomi (小米) liefert im ersten Quartal 2026 über 80.000 E-Autos aus. Der operative Verlust der Autosparte liegt bei 3,1 Mrd. Yuan (ca. 400 Mio. €). Jahresziel bleibt 550.000 Fahrzeuge. Expansion nach Europa ab 2027 angekündigt."
-source: "D1EV"
-image: "/images/xiaomi-auto-80000-auslieferungen-in-q1-verlust-von-d1ev-153cf4.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "E-Auto", "EV"]
+description: >-
+  Xiaomi (小米) liefert im ersten Quartal 2026 über 80.000 E-Autos aus. Der
+  operative Verlust der Autosparte liegt bei 3,1 Mrd. Yuan (ca. 400 Mio. €).
+  Jahresziel bleibt 550.000 Fahrzeuge. Expansion nach Europa ab 2027
+  angekündigt.
+source: D1EV
+image: /images/xiaomi-auto-80000-auslieferungen-in-q1-verlust-von-d1ev-153cf4.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/300687"
+original_url: 'https://www.d1ev.com/news/qiye/300687'
 read_time_minutes: 4
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi Auto: 80.000 Auslieferungen in Q1, Verlust von 3,1 Mrd. Yuan

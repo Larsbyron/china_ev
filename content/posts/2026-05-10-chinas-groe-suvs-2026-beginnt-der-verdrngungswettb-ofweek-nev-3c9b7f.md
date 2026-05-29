@@ -1,16 +1,34 @@
 ---
-title: "Chinas große SUVs: 2026 beginnt der Verdrängungswettbewerb"
+title: 'Chinas große SUVs: 2026 beginnt der Verdrängungswettbewerb'
 date: 2026-05-10T20:37:01.195Z
-description: "Der Markt für große SUVs in China wächst rasant – über 120 Modelle bis 2026. Doch nur wenige werden sich im Überlebenskampf der Riesen behaupten. Ein Überblick."
-source: "OFweek NEV"
-image: "/images/ai-chinas-groe-suvs-2026-beginnt-der-verdrngungswettb-ofweek-nev-3c9b7f.webp"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "XPeng", "Li Auto", "Reichweite"]
+description: >-
+  Der Markt für große SUVs in China wächst rasant – über 120 Modelle bis 2026.
+  Doch nur wenige werden sich im Überlebenskampf der Riesen behaupten. Ein
+  Überblick.
+source: OFweek NEV
+image: >-
+  /images/ai-chinas-groe-suvs-2026-beginnt-der-verdrngungswettb-ofweek-nev-3c9b7f.webp
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - XPeng
+  - Li Auto
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-02/ART-71000-8220-30681631.html"
+original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30681631.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - markt-absatz-zulassungen
+marketRelevance: china_only
+brands:
+  - BYD
+  - NIO
+  - XPeng
+  - Li Auto
+confidence: 0.9
 ---
 
 # Chinas große SUVs: 2026 beginnt der Verdrängungswettbewerb

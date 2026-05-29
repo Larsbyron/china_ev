@@ -1,15 +1,31 @@
 ---
-title: "BYD: Batterie-Engpass durch Flash-Charge-Boom"
+title: 'BYD: Batterie-Engpass durch Flash-Charge-Boom'
 date: 2026-05-16T05:29:16.118Z
-description: "BYD-Chef Wang Chuanfu bestätigt Engpässe bei der Batterieproduktion. Grund: massive Nachfrage nach Flash-Charge-Modellen mit zweiter Generation der Blade-Batterie. BYD baut gleichzeitig sein Schnellladenetz massiv aus – 20.000 Stationen bis Ende 2026 geplant."
-source: "CarNewsChina"
-image: "/images/byd-batterie-engpass-durch-flash-charge-boom-carnewschina-b7cd2a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "EV", "Marktanteil"]
+description: >-
+  BYD-Chef Wang Chuanfu bestätigt Engpässe bei der Batterieproduktion. Grund:
+  massive Nachfrage nach Flash-Charge-Modellen mit zweiter Generation der
+  Blade-Batterie. BYD baut gleichzeitig sein Schnellladenetz massiv aus – 20.000
+  Stationen bis Ende 2026 geplant.
+source: CarNewsChina
+image: /images/byd-batterie-engpass-durch-flash-charge-boom-carnewschina-b7cd2a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production/
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: global_industry
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD: Batterie-Engpass durch Flash-Charge-Boom

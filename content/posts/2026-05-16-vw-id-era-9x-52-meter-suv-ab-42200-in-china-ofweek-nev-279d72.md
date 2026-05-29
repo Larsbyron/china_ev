@@ -1,15 +1,34 @@
 ---
-title: "VW ID. ERA 9X: 5,2-Meter-SUV ab 42.200 € in China"
+title: 'VW ID. ERA 9X: 5,2-Meter-SUV ab 42.200 € in China'
 date: 2026-05-16T11:15:48.225Z
-description: "Volkswagen bringt in China den 5,2 Meter langen ID. ERA 9X zum Preis ab 42.200 Euro. Das Flaggschiff-SUV tritt mit 800-Volt-Architektur, Lidar und bis zu 345 km WLTP-Reichweite gegen NIO, Li Auto und Huawei an."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Batterie", "Reichweite", "Elektroauto", "Marktanteil"]
+description: >-
+  Volkswagen bringt in China den 5,2 Meter langen ID. ERA 9X zum Preis ab 42.200
+  Euro. Das Flaggschiff-SUV tritt mit 800-Volt-Architektur, Lidar und bis zu 345
+  km WLTP-Reichweite gegen NIO, Li Auto und Huawei an.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - Marktanteil
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Volkswagen
+  - NIO
+  - Li Auto
+  - AITO
+confidence: 1
 ---
 
 # VW ID. ERA 9X: 5,2-Meter-SUV ab 42.200 € in China

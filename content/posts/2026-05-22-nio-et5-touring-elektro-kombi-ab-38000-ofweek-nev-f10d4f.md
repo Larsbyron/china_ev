@@ -1,15 +1,32 @@
 ---
-title: "NIO ET5 Touring: Elektro-Kombi ab 38.000 €"
+title: 'NIO ET5 Touring: Elektro-Kombi ab 38.000 €'
 date: 2026-05-22T06:18:28.555Z
-description: "NIO bringt den ET5 Touring in China auf den Markt. Der Kombi startet ab 38.000 €, bietet bis zu 476 km WLTP-Reichweite und setzt auf 800-Volt-Technik. Ein E-Auto für die ganze Familie."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Zeekr", "MG", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  NIO bringt den ET5 Touring in China auf den Markt. Der Kombi startet ab 38.000
+  €, bietet bis zu 476 km WLTP-Reichweite und setzt auf 800-Volt-Technik. Ein
+  E-Auto für die ganze Familie.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Zeekr
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - NIO
+confidence: 0.9
 ---
 
 # NIO ET5 Touring: Elektro-Kombi ab 38.000 €

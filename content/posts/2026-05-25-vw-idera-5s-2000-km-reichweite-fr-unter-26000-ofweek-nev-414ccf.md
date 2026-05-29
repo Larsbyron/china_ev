@@ -1,15 +1,35 @@
 ---
-title: "VW ID.ERA 5S: 2.000 km Reichweite für unter 26.000 €"
+title: 'VW ID.ERA 5S: 2.000 km Reichweite für unter 26.000 €'
 date: 2026-05-25T19:22:31.726Z
-description: "Die 407. MIIT-Zulassungsrunde bringt Highlights: VW ID.ERA 5S mit 2.000 km Reichweite, Mercedes GLE L, XPeng MONA L03/L05, Hyundai IONIQ 9 und Freelander 8. (145 Zeichen)"
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Tesla", "Reichweite", "Zoll"]
+description: >-
+  Die 407. MIIT-Zulassungsrunde bringt Highlights: VW ID.ERA 5S mit 2.000 km
+  Reichweite, Mercedes GLE L, XPeng MONA L03/L05, Hyundai IONIQ 9 und Freelander
+  8. (145 Zeichen)
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Tesla
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - VW
+  - Mercedes
+  - XPeng
+  - Hyundai
+  - Freelander
+confidence: 0.9
 ---
 
 # VW ID.ERA 5S: 2.000 km Reichweite für unter 26.000 €

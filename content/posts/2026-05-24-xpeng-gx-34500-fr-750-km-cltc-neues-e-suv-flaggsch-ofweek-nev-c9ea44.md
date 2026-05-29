@@ -1,15 +1,33 @@
 ---
-title: "XPeng GX: 34.500 € für 750 km (CLTC) – neues E-SUV-Flaggschiff"
+title: 'XPeng GX: 34.500 € für 750 km (CLTC) – neues E-SUV-Flaggschiff'
 date: 2026-05-24T06:01:30.236Z
-description: "XPeng startet den GX in China ab 26,98 万元 (ca. 34.500 €). Das 5,27 m lange E-SUV bietet bis zu 750 km CLTC (ca. 640 km WLTP) und 430 kW. Konkurrenz für Li Auto L9 und AITO M9."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  XPeng startet den GX in China ab 26,98 万元 (ca. 34.500 €). Das 5,27 m lange
+  E-SUV bietet bis zu 750 km CLTC (ca. 640 km WLTP) und 430 kW. Konkurrenz für
+  Li Auto L9 und AITO M9.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - XPeng
+  - Li Auto
+  - AITO
+confidence: 0.95
 ---
 
 # XPeng GX: 34.500 € für 750 km (CLTC) – neues E-SUV-Flaggschiff

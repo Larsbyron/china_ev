@@ -1,15 +1,27 @@
 ---
-title: "VW ID. ERA 9X: 42.000-Euro-Flaggschiff-SUV startet in China"
+title: 'VW ID. ERA 9X: 42.000-Euro-Flaggschiff-SUV startet in China'
 date: 2026-05-14T01:23:09.663Z
-description: "Volkswagen startet Vorverkauf des ID. ERA 9X in China. Der 5,2-Meter-Luxus-SUV kostet ab 32,98 万元 (ca. 42.200 €) und tritt gegen Li Auto L9 und AITO M9 an. Marktstart für Europa offen.*"
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Li Auto", "Batterie", "Elektroauto", "Marktanteil"]
+description: >-
+  Volkswagen startet Vorverkauf des ID. ERA 9X in China. Der 5,2-Meter-Luxus-SUV
+  kostet ab 32,98 万元 (ca. 42.200 €) und tritt gegen Li Auto L9 und AITO M9 an.
+  Marktstart für Europa offen.*
+source: OFweek NEV
+category: news
+tags:
+  - Li Auto
+  - Batterie
+  - Elektroauto
+  - Marktanteil
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - VW
+confidence: 0.95
 ---
 
 # VW ID. ERA 9X: 42.000-Euro-Flaggschiff-SUV startet in China

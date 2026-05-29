@@ -1,15 +1,30 @@
 ---
-title: "Fangchengbao Bao 5: Neuer Plug-in-Hybrid ab 39.100 €"
+title: 'Fangchengbao Bao 5: Neuer Plug-in-Hybrid ab 39.100 €'
 date: 2026-05-14T01:13:02.352Z
-description: "BYD-Tochter Fangchengbao bringt zwei neue Plug-in-Hybrid-Offroader auf den Markt: den Bao 8 (ab ca. 53.700 €) und den Bao 5 (ab ca. 39.100 €). Beide nutzen das hydraulische Fahrwerk Yunlin-P Ultra. Marktstart in China sofort."
-source: "D1EV"
-image: "/images/fangchengbao-bao-5-neuer-plug-in-hybrid-ab-39100-d1ev-3a08e4.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  BYD-Tochter Fangchengbao bringt zwei neue Plug-in-Hybrid-Offroader auf den
+  Markt: den Bao 8 (ab ca. 53.700 €) und den Bao 5 (ab ca. 39.100 €). Beide
+  nutzen das hydraulische Fahrwerk Yunlin-P Ultra. Marktstart in China sofort.
+source: D1EV
+image: /images/fangchengbao-bao-5-neuer-plug-in-hybrid-ab-39100-d1ev-3a08e4.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299058"
+original_url: 'https://www.d1ev.com/news/qiye/299058'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - Fangchengbao
+confidence: 0.95
 ---
 
 # Fangchengbao Bao 5: Neuer Plug-in-Hybrid ab 39.100 €

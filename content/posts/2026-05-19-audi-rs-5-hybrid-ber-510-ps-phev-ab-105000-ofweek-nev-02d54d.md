@@ -1,15 +1,32 @@
 ---
-title: "Audi RS 5 Hybrid: Über 510 PS PHEV ab 105.000 €"
+title: 'Audi RS 5 Hybrid: Über 510 PS PHEV ab 105.000 €'
 date: 2026-05-19T12:52:39.463Z
-description: "Audi RS 5 Hybrid (ab ca. 105.000 €): 510-PS-V6 plus 130-kW-P2-E-Motor. Im Vergleich zu chinesischen EVs wie BYD Seal oder NIO ET5 punktet er mit Verbrenner-Sound, aber geringerer E-Reichweite (ca. 70 km WLTP). Marktstart 2025."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "Batterie", "Reichweite", "EV"]
+description: >-
+  Audi RS 5 Hybrid (ab ca. 105.000 €): 510-PS-V6 plus 130-kW-P2-E-Motor. Im
+  Vergleich zu chinesischen EVs wie BYD Seal oder NIO ET5 punktet er mit
+  Verbrenner-Sound, aber geringerer E-Reichweite (ca. 70 km WLTP). Marktstart
+  2025.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: de_available
+brands:
+  - Audi
+  - BYD
+  - NIO
+confidence: 0.9
 ---
 
 # Audi RS 5 Hybrid: Über 510 PS PHEV ab 105.000 €

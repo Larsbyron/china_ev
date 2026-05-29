@@ -1,15 +1,32 @@
 ---
-title: "BYD löst Preiserhöhungswelle aus – ab 28. April steigen die Preise"
+title: BYD löst Preiserhöhungswelle aus – ab 28. April steigen die Preise
 date: 2026-05-26T20:06:31.572Z
-description: "Seit Ende April haben über ein Dutzend chinesische E-Auto-Marken die Preise angehoben. Den Anfang machte BYD am 28. April – Analysten sehen dahinter eine koordinierte Aktion zur Margenreparatur."
-source: "Sina"
-image: "/images/byd-lst-preiserhhungswelle-aus-ab-28-april-steigen-sina-4d8640.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "E-Auto", "Marktanteil"]
+description: >-
+  Seit Ende April haben über ein Dutzend chinesische E-Auto-Marken die Preise
+  angehoben. Den Anfang machte BYD am 28. April – Analysten sehen dahinter eine
+  koordinierte Aktion zur Margenreparatur.
+source: Sina
+image: /images/byd-lst-preiserhhungswelle-aus-ab-28-april-steigen-sina-4d8640.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - E-Auto
+  - Marktanteil
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml
 read_time_minutes: 2
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+  - MG
+confidence: 0.9
 ---
 
 # BYD löst Preiserhöhungswelle aus – ab 28. April steigen die Preise

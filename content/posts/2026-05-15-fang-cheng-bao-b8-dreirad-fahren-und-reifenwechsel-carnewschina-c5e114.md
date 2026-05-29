@@ -1,15 +1,32 @@
 ---
-title: "Fang Cheng Bao B8: Dreirad-Fahren und Reifenwechsel ohne Wagenheber"
+title: 'Fang Cheng Bao B8: Dreirad-Fahren und Reifenwechsel ohne Wagenheber'
 date: 2026-05-15T05:53:40.495Z
-description: "Chinesische Hersteller wie Fang Cheng Bao, AITO und Li Auto zeigen SUVs mit aktivem Fahrwerk: Rad anheben, auf drei Rädern weiterfahren, Reifenwechsel ohne Wagenheber. Die Technik könnte nach Europa kommen."
-source: "CarNewsChina"
-image: "/images/fang-cheng-bao-b8-dreirad-fahren-und-reifenwechsel-carnewschina-c5e114.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Li Auto", "Reichweite"]
+description: >-
+  Chinesische Hersteller wie Fang Cheng Bao, AITO und Li Auto zeigen SUVs mit
+  aktivem Fahrwerk: Rad anheben, auf drei Rädern weiterfahren, Reifenwechsel
+  ohne Wagenheber. Die Technik könnte nach Europa kommen.
+source: CarNewsChina
+image: >-
+  /images/fang-cheng-bao-b8-dreirad-fahren-und-reifenwechsel-carnewschina-c5e114.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Li Auto
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/"
+original_url: >-
+  https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - BYD
+  - Li Auto
+  - AITO
+confidence: 0.7
 ---
 
 # Fang Cheng Bao B8: Dreirad-Fahren und Reifenwechsel ohne Wagenheber

@@ -1,15 +1,32 @@
 ---
-title: "Audi RS 5 Hybrid: 510 PS starker PHEV ab 60.000 € greift BYD an"
+title: 'Audi RS 5 Hybrid: 510 PS starker PHEV ab 60.000 € greift BYD an'
 date: 2026-05-21T06:40:07.055Z
-description: "Audi bringt den RS 5 Hybrid als 510 PS starken Plug-in-Hybrid nach China. Der Preis liegt geschätzt über 60.000 €. Damit tritt der Deutsche gegen chinesische E-Sportler wie den BYD Seal DM-i an."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "MG", "Batterie", "EV"]
+description: >-
+  Audi bringt den RS 5 Hybrid als 510 PS starken Plug-in-Hybrid nach China. Der
+  Preis liegt geschätzt über 60.000 €. Damit tritt der Deutsche gegen
+  chinesische E-Sportler wie den BYD Seal DM-i an.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - NIO
+  - XPeng
+  - Xpeng
+  - MG
+  - Batterie
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - BYD
+  - Lynk & Co
+confidence: 0.9
 ---
 
 # Audi RS 5 Hybrid: 510 PS starker PHEV ab 60.000 € greift BYD an

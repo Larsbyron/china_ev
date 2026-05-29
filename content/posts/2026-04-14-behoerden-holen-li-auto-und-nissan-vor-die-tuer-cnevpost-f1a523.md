@@ -1,13 +1,31 @@
 ---
-title: "Streit um Schmutzkampagne: Chinas Behörden laden Li Auto und Nissan vor"
+title: 'Streit um Schmutzkampagne: Chinas Behörden laden Li Auto und Nissan vor'
 date: 2026-04-14T15:00:00.000Z
-description: "Nach der öffentlichen Anschuldigung von Li-Auto-Gründer Li Xiang hat das chinesische Industrieministerium beide Unternehmen zu Gesprächen gebeten. Der Ton im chinesischen Automarkt wird rauer."
-source: "CnEVPost"
-image: "/images/ai-behoerden-holen-li-auto-und-nissan-vor-die-tuer-cnevpost-f1a523.webp"
-category: "news"
-tags: ["Li Auto", "Nissan", "Dongfeng", "Ministerium", "Schmutzkampagne"]
+description: >-
+  Nach der öffentlichen Anschuldigung von Li-Auto-Gründer Li Xiang hat das
+  chinesische Industrieministerium beide Unternehmen zu Gesprächen gebeten. Der
+  Ton im chinesischen Automarkt wird rauer.
+source: CnEVPost
+image: >-
+  /images/ai-behoerden-holen-li-auto-und-nissan-vor-die-tuer-cnevpost-f1a523.webp
+category: news
+tags:
+  - Li Auto
+  - Nissan
+  - Dongfeng
+  - Ministerium
+  - Schmutzkampagne
 draft: false
-original_url: "https://cnevpost.com/2026/04/14/chinese-authorities-summon-li-auto-niss-smear-campaign-allegations/"
+original_url: >-
+  https://cnevpost.com/2026/04/14/chinese-authorities-summon-li-auto-niss-smear-campaign-allegations/
+primaryTopic: politik-zoelle-regulierung
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - Nissan
+confidence: 0.95
 ---
 
 # Schmutzkampagne-Vorwurf: Behörden schlichten im Nissan-Li-Auto-Streit

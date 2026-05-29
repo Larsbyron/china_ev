@@ -1,15 +1,30 @@
 ---
-title: "Hyper S600: 503 PS ab 24.200 € Aktionspreis"
+title: 'Hyper S600: 503 PS ab 24.200 € Aktionspreis'
 date: 2026-05-17T11:02:37.390Z
-description: "GAC Hyper eröffnet den Vorverkauf für den S600. Das vollelektrische und Range-Extender-SUV kostet im Aktionspreis ab 188.900 Yuan (ca. 24.200 €). Serienmäßig: Doppelmotor-Allrad, 370 kW, Luftfederung und 800-Volt-Architektur."
-source: "ChooseAuto"
-image: "/images/hyper-s600-503-ps-ab-24200-aktionspreis-chooseauto-2ad05f.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Zoll", "EV"]
+description: >-
+  GAC Hyper eröffnet den Vorverkauf für den S600. Das vollelektrische und
+  Range-Extender-SUV kostet im Aktionspreis ab 188.900 Yuan (ca. 24.200 €).
+  Serienmäßig: Doppelmotor-Allrad, 370 kW, Luftfederung und
+  800-Volt-Architektur.
+source: ChooseAuto
+image: /images/hyper-s600-503-ps-ab-24200-aktionspreis-chooseauto-2ad05f.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/904887.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/904887.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - GAC
+  - HYPER
+confidence: 0.95
 ---
 
 # Hyper S600: 503 PS ab 24.200 € Aktionspreis

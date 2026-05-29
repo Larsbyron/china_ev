@@ -1,15 +1,32 @@
 ---
-title: "BYD Atto 3: Dritte Generation startet in China ab 15.300 €"
+title: 'BYD Atto 3: Dritte Generation startet in China ab 15.300 €'
 date: 2026-05-21T12:46:28.094Z
-description: "BYD bringt die dritte Generation des Yuan Plus (international BYD Atto 3) in China ab 15.300 € auf den Markt. Mit 630 km Reichweite (CLTC), neuer Schnellladetechnik und optionalem Lidar-Assistenten."
-source: "ChooseAuto"
-image: "/images/byd-atto-3-dritte-generation-startet-in-china-ab-1-chooseauto-ee8ceb.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Ladestation", "EV"]
+description: >-
+  BYD bringt die dritte Generation des Yuan Plus (international BYD Atto 3) in
+  China ab 15.300 € auf den Markt. Mit 630 km Reichweite (CLTC), neuer
+  Schnellladetechnik und optionalem Lidar-Assistenten.
+source: ChooseAuto
+image: >-
+  /images/byd-atto-3-dritte-generation-startet-in-china-ab-1-chooseauto-ee8ceb.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/908691.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/908691.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Atto 3: Dritte Generation startet in China ab 15.300 €

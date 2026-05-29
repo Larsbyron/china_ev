@@ -1,15 +1,26 @@
 ---
-title: "MG 07 Offizielle Bilder veröffentlicht"
+title: MG 07 Offizielle Bilder veröffentlicht
 date: 2026-05-09T23:12:45.500Z
-description: "[Autohome | Offizielle Fahrzeugbilder] Kürzlich wurden offizielle Bilder des MG 07 (Parameter | Preisabfrage) veröffentlicht. Das Modell positioniert sich als New-Energy-Coupé, basiert auf einer völli..."
-source: "Autohome NewEnergy"
-image: "/images/mg-07-offizielle-bilder-verffentlicht-autohome-newenergy-1ce06a.webp"
-category: "news"
-brand: "MG"
-tags: ["MG"]
+description: >-
+  [Autohome | Offizielle Fahrzeugbilder] Kürzlich wurden offizielle Bilder des
+  MG 07 (Parameter | Preisabfrage) veröffentlicht. Das Modell positioniert sich
+  als New-Energy-Coupé, basiert auf einer völli...
+source: Autohome NewEnergy
+image: /images/mg-07-offizielle-bilder-verffentlicht-autohome-newenergy-1ce06a.webp
+category: news
+brand: MG
+tags:
+  - MG
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314172.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314172.html'
 read_time_minutes: 1
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - MG
+confidence: 0.9
 ---
 
 # MG 07 Offizielle Bilder veröffentlicht

@@ -1,15 +1,31 @@
 ---
-title: "Xiaomi YU7 GT: 7:34 auf der Nordschleife – SUV-Rekord"
+title: 'Xiaomi YU7 GT: 7:34 auf der Nordschleife – SUV-Rekord'
 date: 2026-05-19T19:55:06.405Z
-description: "Mit 990 PS und 7:34,931 Minuten unterbietet der Xiaomi YU7 GT den Audi RS Q8 performance am Nürburgring. Der Marktstart in China ist am 21. Mai 2026. Ein Europa-Import steht noch nicht fest."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-734-auf-der-nordschleife-suv-rekord-carnewschina-d49569.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Xiaomi SU", "Reichweite", "EV"]
+description: >-
+  Mit 990 PS und 7:34,931 Minuten unterbietet der Xiaomi YU7 GT den Audi RS Q8
+  performance am Nürburgring. Der Marktstart in China ist am 21. Mai 2026. Ein
+  Europa-Import steht noch nicht fest.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-gt-734-auf-der-nordschleife-suv-rekord-carnewschina-d49569.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Xiaomi SU
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/19/xiaomi-yu7-gt-breaks-nurburgring-suv-lap-record-with-734-931-ahead-of-may-21-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/19/xiaomi-yu7-gt-breaks-nurburgring-suv-lap-record-with-734-931-ahead-of-may-21-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7 GT: 7:34 auf der Nordschleife – SUV-Rekord

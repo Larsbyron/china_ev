@@ -1,15 +1,34 @@
 ---
-title: "MG 4X startet in China ab 11.900 € mit Semi-Solid-State-Batterie"
+title: MG 4X startet in China ab 11.900 € mit Semi-Solid-State-Batterie
 date: 2026-05-27T20:09:38.583Z
-description: "SAIC bringt mit dem MG 4X einen kompakten Elektro-SUV auf den Markt, der ab 92.800 Yuan (ca. 11.900 €) erhältlich ist. Das Modell überzeugt mit Heckantrieb, bis zu 610 km CLTC-Reichweite und modernem Infotainment – eine Europa-Premiere steht noch aus."
-source: "CarNewsChina"
-image: "/images/mg-4x-startet-in-china-ab-11900-mit-semi-solid-sta-carnewschina-533a54.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  SAIC bringt mit dem MG 4X einen kompakten Elektro-SUV auf den Markt, der ab
+  92.800 Yuan (ca. 11.900 €) erhältlich ist. Das Modell überzeugt mit
+  Heckantrieb, bis zu 610 km CLTC-Reichweite und modernem Infotainment – eine
+  Europa-Premiere steht noch aus.
+source: CarNewsChina
+image: >-
+  /images/mg-4x-startet-in-china-ab-11900-mit-semi-solid-sta-carnewschina-533a54.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/27/mg-launches-compact-electric-suv-mg-4x-in-china-starting-from-13600-usd/"
+original_url: >-
+  https://carnewschina.com/2026/05/27/mg-launches-compact-electric-suv-mg-4x-in-china-starting-from-13600-usd/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - MG
+confidence: 0.95
 ---
 
 # MG 4X startet in China ab 11.900 € mit Semi-Solid-State-Batterie

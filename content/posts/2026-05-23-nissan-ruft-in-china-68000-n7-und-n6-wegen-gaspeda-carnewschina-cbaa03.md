@@ -1,15 +1,28 @@
 ---
-title: "Nissan ruft in China 68.000 N7 und N6 wegen Gaspedal-Fehlers zurück"
+title: Nissan ruft in China 68.000 N7 und N6 wegen Gaspedal-Fehlers zurück
 date: 2026-05-23T05:41:57.342Z
-description: "Ein Konstruktionsfehler an der Gaspedaleinheit zwingt Nissan zu einem Großrückruf von Elektro-Limousine N7 und Plug-in-Hybrid N6. Betroffen sind fast 70.000 Fahrzeuge. Der kostenlose Austausch startet am 25. Mai 2026."
-source: "CarNewsChina"
-image: "/images/nissan-ruft-in-china-68000-n7-und-n6-wegen-gaspeda-carnewschina-cbaa03.webp"
-category: "news"
-
-tags: ["Reichweite", "EV"]
+description: >-
+  Ein Konstruktionsfehler an der Gaspedaleinheit zwingt Nissan zu einem
+  Großrückruf von Elektro-Limousine N7 und Plug-in-Hybrid N6. Betroffen sind
+  fast 70.000 Fahrzeuge. Der kostenlose Austausch startet am 25. Mai 2026.
+source: CarNewsChina
+image: >-
+  /images/nissan-ruft-in-china-68000-n7-und-n6-wegen-gaspeda-carnewschina-cbaa03.webp
+category: news
+tags:
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/23/nissan-recalls-nearly-70000-n7-and-n6-vehicles-in-china-over-accelerator-pedal-defect/"
+original_url: >-
+  https://carnewschina.com/2026/05/23/nissan-recalls-nearly-70000-n7-and-n6-vehicles-in-china-over-accelerator-pedal-defect/
 read_time_minutes: 3
+primaryTopic: politik-zoelle-regulierung
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - Nissan
+confidence: 0.9
 ---
 
 # Nissan ruft in China 68.000 N7 und N6 wegen Gaspedal-Fehlers zurück

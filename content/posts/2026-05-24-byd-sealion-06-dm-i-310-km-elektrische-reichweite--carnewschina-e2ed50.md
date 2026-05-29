@@ -1,15 +1,33 @@
 ---
-title: "BYD Sealion 06 DM-i: 310 km elektrische Reichweite ab 19.200 €"
+title: 'BYD Sealion 06 DM-i: 310 km elektrische Reichweite ab 19.200 €'
 date: 2026-05-24T11:14:40.039Z
-description: "Der neue BYD Sealion 06 DM-i kommt am 26. Mai 2026 in China auf den Markt. Der Plug-in-Hybrid bietet bis zu 310 km rein elektrische Reichweite (CLTC) und optional Lidar-Assistent. Preis in China ab 150.000 Yuan (ca. 19.200 €)."
-source: "CarNewsChina"
-image: "/images/byd-sealion-06-dm-i-310-km-elektrische-reichweite-carnewschina-e2ed50.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Li Auto", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der neue BYD Sealion 06 DM-i kommt am 26. Mai 2026 in China auf den Markt. Der
+  Plug-in-Hybrid bietet bis zu 310 km rein elektrische Reichweite (CLTC) und
+  optional Lidar-Assistent. Preis in China ab 150.000 Yuan (ca. 19.200 €).
+source: CarNewsChina
+image: >-
+  /images/byd-sealion-06-dm-i-310-km-elektrische-reichweite-carnewschina-e2ed50.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Li Auto
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/24/byd-sealion-06-dm-i-arrives-at-dealerships-ahead-of-26-may-launch-with-up-to-310-km-ev-range/"
+original_url: >-
+  https://carnewschina.com/2026/05/24/byd-sealion-06-dm-i-arrives-at-dealerships-ahead-of-26-may-launch-with-up-to-310-km-ev-range/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Sealion 06 DM-i: 310 km elektrische Reichweite ab 19.200 €

@@ -1,15 +1,31 @@
 ---
-title: "BYD-Feststoffakku: Gerüchte um 1.218 km Reichweite"
+title: 'BYD-Feststoffakku: Gerüchte um 1.218 km Reichweite'
 date: 2026-05-17T05:47:01.010Z
-description: "Bei Chinas ersten „Golden Lithium Awards' wurden BYD und CATL ausgezeichnet. Unbestätigte Medienberichte spekulieren über einen Feststoffakku mit 1.218 km (CLTC) – eine offizielle Bestätigung fehlt."
-source: "CarNewsChina"
-image: "/images/byd-feststoffakku-gerchte-um-1218-km-reichweite-carnewschina-36be23.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  Bei Chinas ersten „Golden Lithium Awards' wurden BYD und CATL ausgezeichnet.
+  Unbestätigte Medienberichte spekulieren über einen Feststoffakku mit 1.218 km
+  (CLTC) – eine offizielle Bestätigung fehlt.
+source: CarNewsChina
+image: >-
+  /images/byd-feststoffakku-gerchte-um-1218-km-reichweite-carnewschina-36be23.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.8
 ---
 
 # BYD-Feststoffakku: Gerüchte um 1.218 km Reichweite

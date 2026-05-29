@@ -1,15 +1,33 @@
 ---
-title: "BYD Great Tang: Start wegen 100.000 Vorbestellungen verschoben"
+title: 'BYD Great Tang: Start wegen 100.000 Vorbestellungen verschoben'
 date: 2026-05-20T06:08:43.849Z
-description: "BYD verschiebt den Marktstart des vollelektrischen Great Tang auf den 8. Juni 2026. Grund: 100.000 Vorbestellungen überlasten die Produktion der zweiten Blade-Battery-Generation. Der Siebensitzer kostet in China umgerechnet ab ca. 32.000 €."
-source: "CarNewsChina"
-image: "/images/byd-great-tang-start-wegen-100000-vorbestellungen-carnewschina-2c475d.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Li Auto", "Batterie", "Reichweite"]
+description: >-
+  BYD verschiebt den Marktstart des vollelektrischen Great Tang auf den 8. Juni
+  2026. Grund: 100.000 Vorbestellungen überlasten die Produktion der zweiten
+  Blade-Battery-Generation. Der Siebensitzer kostet in China umgerechnet ab ca.
+  32.000 €.
+source: CarNewsChina
+image: >-
+  /images/byd-great-tang-start-wegen-100000-vorbestellungen-carnewschina-2c475d.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Li Auto
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/byd-great-tang-launch-delayed-as-100000-orders-strain-blade-battery-2-0-supply-report-says/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/byd-great-tang-launch-delayed-as-100000-orders-strain-blade-battery-2-0-supply-report-says/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Great Tang: Start wegen 100.000 Vorbestellungen verschoben

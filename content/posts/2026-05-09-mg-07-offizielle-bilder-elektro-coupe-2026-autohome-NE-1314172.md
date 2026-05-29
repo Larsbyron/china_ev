@@ -1,15 +1,30 @@
 ---
-title: "MG 07: Offizielle Bilder des neuen Elektro-Coupés veröffentlicht"
-date: 2026-05-09T07:00:00+02:00
-description: "MG enthüllt das MG 07 – ein Elektro-Coupé mit Momenta R7 World Model, LiDAR und Preisen ab 150.000 RMB für 2026."
-source: "Autohome NewEnergy"
-image: "/images/ai-mg-07-offizielle-bilder-elektro-coupe-2026-autohome-NE-1314172.webp"
-category: "news"
-brand: "MG"
-tags: ["MG", "MG-07", "Elektro-Coupé", "Momenta", "Autonomes-Fahren"]
+title: 'MG 07: Offizielle Bilder des neuen Elektro-Coupés veröffentlicht'
+date: 2026-05-09T05:00:00.000Z
+description: >-
+  MG enthüllt das MG 07 – ein Elektro-Coupé mit Momenta R7 World Model, LiDAR
+  und Preisen ab 150.000 RMB für 2026.
+source: Autohome NewEnergy
+image: /images/ai-mg-07-offizielle-bilder-elektro-coupe-2026-autohome-NE-1314172.webp
+category: news
+brand: MG
+tags:
+  - MG
+  - MG-07
+  - Elektro-Coupé
+  - Momenta
+  - Autonomes-Fahren
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314172.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314172.html'
 read_time_minutes: 1
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - MG
+confidence: 0.9
 ---
 
 MG hat die offiziellen Bilder des **MG 07** veröffentlicht – ein vollelektrisches Coupé auf einer völlig neuen Plattform. Das Modell nutzt das Momenta R7 Enhanced World Model für autonomes Fahren und zielt auf das Preissegment von 150.000 bis 200.000 RMB (ca. 19.000–25.000 Euro). Es wird sowohl als reines Elektroauto als auch als Plug-in-Hybrid erhältlich sein, die Markteinführung ist noch in diesem Jahr geplant.

@@ -1,15 +1,35 @@
 ---
-title: "BYD und CATL räumen bei Golden Lithium Awards ab"
+title: BYD und CATL räumen bei Golden Lithium Awards ab
 date: 2026-05-16T10:57:58.830Z
-description: "Chinas erste Golden Lithium Awards zeichnen BYD, CATL und weitere für Festkörperbatterien, Natrium-Ionen-Zellen und Trockenelektroden aus. BYD erhält einen Award für die zweite Generation der Blade-Batterie sowie für Festkörperdurchbrüche – inoffizielle Gerüchte sprechen von über 1.000 km Reichweite"
-source: "CarNewsChina"
-image: "/images/byd-und-catl-rumen-bei-golden-lithium-awards-ab-carnewschina-897849.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  Chinas erste Golden Lithium Awards zeichnen BYD, CATL und weitere für
+  Festkörperbatterien, Natrium-Ionen-Zellen und Trockenelektroden aus. BYD
+  erhält einen Award für die zweite Generation der Blade-Batterie sowie für
+  Festkörperdurchbrüche – inoffizielle Gerüchte sprechen von über 1.000 km
+  Reichweite
+source: CarNewsChina
+image: >-
+  /images/byd-und-catl-rumen-bei-golden-lithium-awards-ab-carnewschina-897849.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/catl-byd-headline-chinas-inaugural-golden-lithium-awards-with-next-gen-battery-wins/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+  - CATL
+confidence: 0.95
 ---
 
 # BYD und CATL räumen bei Golden Lithium Awards ab

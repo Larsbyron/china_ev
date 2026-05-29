@@ -1,15 +1,33 @@
 ---
-title: "BYD Atto 3: 240 kW und Flash Charging – Marktstart 21. Mai"
+title: 'BYD Atto 3: 240 kW und Flash Charging – Marktstart 21. Mai'
 date: 2026-05-14T01:08:19.962Z
-description: "Der neue BYD Atto 3 startet am 21. Mai 2026 in China. Mit 240 kW RWD, Flash Charging und bis zu 630 km CLTC (ca. 540 km WLTP) soll er das kompakte SUV-Segment neu aufrollen."
-source: "CarNewsChina"
-image: "/images/byd-atto-3-240-kw-und-flash-charging-marktstart-21-carnewschina-36968e.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der neue BYD Atto 3 startet am 21. Mai 2026 in China. Mit 240 kW RWD, Flash
+  Charging und bis zu 630 km CLTC (ca. 540 km WLTP) soll er das kompakte
+  SUV-Segment neu aufrollen.
+source: CarNewsChina
+image: >-
+  /images/byd-atto-3-240-kw-und-flash-charging-marktstart-21-carnewschina-36968e.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/12/byd-atto-3-lands-in-showrooms-with-240-kw-rwd-and-flash-charging-ahead-of-may-21-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/12/byd-atto-3-lands-in-showrooms-with-240-kw-rwd-and-flash-charging-ahead-of-may-21-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Atto 3: 240 kW und Flash Charging – Marktstart 21. Mai

@@ -1,15 +1,35 @@
 ---
-title: "China-Neuheiten: XPeng MONA L03 ab 12.800 €, VW ID.ERA 5S & IONIQ 6"
+title: 'China-Neuheiten: XPeng MONA L03 ab 12.800 €, VW ID.ERA 5S & IONIQ 6'
 date: 2026-05-23T05:42:09.039Z
-description: "MIIT-Liste zeigt sieben neue Modelle: Mercedes GLE L mit langem Radstand, VW ID.ERA 5S als erste Limousine mit Stadtpilot, XPeng MONA L03/L05 als Limousinen und Hyundai IONIQ 6 für China."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "XPeng", "Xpeng", "Li Auto", "Tesla", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  MIIT-Liste zeigt sieben neue Modelle: Mercedes GLE L mit langem Radstand, VW
+  ID.ERA 5S als erste Limousine mit Stadtpilot, XPeng MONA L03/L05 als
+  Limousinen und Hyundai IONIQ 6 für China.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Mercedes
+  - VW
+  - XPeng
+  - Hyundai
+  - Changan
+confidence: 0.95
 ---
 
 # China-Neuheiten: XPeng MONA L03 ab 12.800 €, VW ID.ERA 5S & IONIQ 6

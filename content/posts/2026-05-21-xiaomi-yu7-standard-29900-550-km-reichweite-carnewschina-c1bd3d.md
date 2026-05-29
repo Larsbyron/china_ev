@@ -1,15 +1,33 @@
 ---
-title: "Xiaomi YU7 Standard: 29.900 € – 550 km Reichweite"
+title: 'Xiaomi YU7 Standard: 29.900 € – 550 km Reichweite'
 date: 2026-05-21T19:57:31.432Z
-description: "Xiaomi bringt die neue YU7 Standard Edition für umgerechnet 29.900 € in China an den Start. Mit 643 km CLTC (ca. 550 km WLTP) und 315 PS soll sie dem Tesla Model Y Paroli bieten."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-standard-29900-550-km-reichweite-carnewschina-c1bd3d.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Tesla", "Reichweite", "Zoll", "EV"]
+description: >-
+  Xiaomi bringt die neue YU7 Standard Edition für umgerechnet 29.900 € in China
+  an den Start. Mit 643 km CLTC (ca. 550 km WLTP) und 315 PS soll sie dem Tesla
+  Model Y Paroli bieten.
+source: CarNewsChina
+image: /images/xiaomi-yu7-standard-29900-550-km-reichweite-carnewschina-c1bd3d.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - MG
+  - Tesla
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/xiaomi-launches-new-yu7-standard-edition-at-34300-usd-to-challenge-tesla-model-y-in-china/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/xiaomi-launches-new-yu7-standard-edition-at-34300-usd-to-challenge-tesla-model-y-in-china/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Xiaomi YU7 Standard: 29.900 € – 550 km Reichweite

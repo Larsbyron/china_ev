@@ -1,15 +1,29 @@
 ---
-title: "Audi RS 5 Hybrid: 375 kW V6 mit 130 kW E-Motor"
+title: 'Audi RS 5 Hybrid: 375 kW V6 mit 130 kW E-Motor'
 date: 2026-05-15T19:28:08.612Z
-description: "Audi (奥迪) rüstet den RS 5 mit Plug-in-Hybrid aus: 2,9-Liter-V6-Biturbo mit 375 kW und 130 kW E-Motor. Die Kombination aus 400-Volt-Architektur und mechanischem Quattro verspricht Sportlichkeit und Effizienz. Ein Statement gegen die Elektro-Konkurrenz aus China."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "Li Auto", "MG", "Reichweite"]
+description: >-
+  Audi (奥迪) rüstet den RS 5 mit Plug-in-Hybrid aus: 2,9-Liter-V6-Biturbo mit 375
+  kW und 130 kW E-Motor. Die Kombination aus 400-Volt-Architektur und
+  mechanischem Quattro verspricht Sportlichkeit und Effizienz. Ein Statement
+  gegen die Elektro-Konkurrenz aus China.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - Li Auto
+  - MG
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Audi
+confidence: 0.9
 ---
 
 # Audi RS 5 Hybrid: 375 kW V6 mit 130 kW E-Motor

@@ -1,15 +1,29 @@
 ---
-title: "WEY V9X debütiert: 44.800 €, 1700 km (CLTC), 4‑s‑Sprint"
+title: 'WEY V9X debütiert: 44.800 €, 1700 km (CLTC), 4‑s‑Sprint'
 date: 2026-05-18T13:47:26.397Z
-description: "Der neue WEY V9X startet in China ab 34,98 万元 (ca. 44.800 €). Der Sechssitzer bietet 1700 km CLTC-Reichweite, 4-Sekunden-Sprint und eine lebenslange Garantie des Gründers. Ein Europa-Start ist offen."
-source: "ChooseAuto"
-image: "/images/wey-v9x-debtiert-44800-1700-km-cltc-4ssprint-chooseauto-b10aa3.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der neue WEY V9X startet in China ab 34,98 万元 (ca. 44.800 €). Der Sechssitzer
+  bietet 1700 km CLTC-Reichweite, 4-Sekunden-Sprint und eine lebenslange
+  Garantie des Gründers. Ein Europa-Start ist offen.
+source: ChooseAuto
+image: /images/wey-v9x-debtiert-44800-1700-km-cltc-4ssprint-chooseauto-b10aa3.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/905867.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/905867.shtml'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - WEY
+confidence: 0.95
 ---
 
 # WEY V9X debütiert: 44.800 €, 1700 km (CLTC), 4‑s‑Sprint

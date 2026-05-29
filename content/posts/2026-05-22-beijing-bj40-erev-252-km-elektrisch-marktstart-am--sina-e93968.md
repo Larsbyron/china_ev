@@ -1,15 +1,29 @@
 ---
-title: "Beijing BJ40 EREV: 252 km elektrisch, Marktstart am 21. Mai"
+title: 'Beijing BJ40 EREV: 252 km elektrisch, Marktstart am 21. Mai'
 date: 2026-05-22T06:08:44.690Z
-description: "Der Beijing BJ40 EREV Long Range startet am 21. Mai in China. Der Range-Extender bietet 252 km rein elektrische Reichweite und 1.300 km gesamt – für Stadt und Gelände optimiert. Preis noch offen."
-source: "Sina"
-image: "/images/beijing-bj40-erev-252-km-elektrisch-marktstart-am-sina-e93968.webp"
-category: "news"
-
-tags: ["MG", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Der Beijing BJ40 EREV Long Range startet am 21. Mai in China. Der
+  Range-Extender bietet 252 km rein elektrische Reichweite und 1.300 km gesamt –
+  für Stadt und Gelände optimiert. Preis noch offen.
+source: Sina
+image: /images/beijing-bj40-erev-252-km-elektrisch-marktstart-am-sina-e93968.webp
+category: news
+tags:
+  - MG
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Beijing
+confidence: 0.95
 ---
 
 # Beijing BJ40 EREV: 252 km elektrisch, Marktstart am 21. Mai

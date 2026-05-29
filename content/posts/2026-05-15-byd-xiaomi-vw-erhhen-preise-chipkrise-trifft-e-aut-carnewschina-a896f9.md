@@ -1,15 +1,38 @@
 ---
-title: "BYD, Xiaomi & VW erhöhen Preise – Chipkrise trifft E-Autos"
+title: 'BYD, Xiaomi & VW erhöhen Preise – Chipkrise trifft E-Autos'
 date: 2026-05-15T19:32:39.421Z
-description: "Über 15 chinesische Hersteller ziehen die Preise an – Grund sind massiv gestiegene Kosten für Speicherchips und Rohstoffe. BYD, Xiaomi und Volkswagen sind betroffen. Tesla dementiert Gerüchte. Die Erhöhungen gelten nur für China, Deutschland bleibt außen vor."
-source: "CarNewsChina"
-image: "/images/byd-xiaomi-vw-erhhen-preise-chipkrise-trifft-e-aut-carnewschina-a896f9.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Zeekr", "Leapmotor", "Aion", "Tesla", "Batterie", "E-Auto", "EV"]
+description: >-
+  Über 15 chinesische Hersteller ziehen die Preise an – Grund sind massiv
+  gestiegene Kosten für Speicherchips und Rohstoffe. BYD, Xiaomi und Volkswagen
+  sind betroffen. Tesla dementiert Gerüchte. Die Erhöhungen gelten nur für
+  China, Deutschland bleibt außen vor.
+source: CarNewsChina
+image: >-
+  /images/byd-xiaomi-vw-erhhen-preise-chipkrise-trifft-e-aut-carnewschina-a896f9.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Zeekr
+  - Leapmotor
+  - Aion
+  - Tesla
+  - Batterie
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/15/chinas-nev-sector-sees-price-hikes-as-supply-chain-costs-bite/"
+original_url: >-
+  https://carnewschina.com/2026/05/15/chinas-nev-sector-sees-price-hikes-as-supply-chain-costs-bite/
 read_time_minutes: 3
+primaryTopic: preise-rabatte-wettbewerb
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: china_only
+brands:
+  - BYD
+  - Xiaomi
+  - VW
+confidence: 0.95
 ---
 
 # BYD, Xiaomi & VW erhöhen Preise – Chipkrise trifft E-Autos

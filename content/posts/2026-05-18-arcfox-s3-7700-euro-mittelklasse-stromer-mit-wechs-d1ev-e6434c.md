@@ -1,15 +1,27 @@
 ---
-title: "Arcfox S3: 7.700-Euro-Mittelklasse-Stromer mit Wechselakku"
+title: 'Arcfox S3: 7.700-Euro-Mittelklasse-Stromer mit Wechselakku'
 date: 2026-05-18T13:48:30.885Z
-description: "Arcfox startet den Online-Vertrieb des S3 – inklusive Bestellung per Douyin-Livestream. Der chinesische Mittelklasse-Stromer (vergleichbar mit Passat/Camry) kostet umgerechnet 7.700 € und setzt auf CATL-Wechselakkus."
-source: "D1EV"
-image: "/images/arcfox-s3-7700-euro-mittelklasse-stromer-mit-wechs-d1ev-e6434c.webp"
-category: "news"
-
-tags: ["Batterie", "EV"]
+description: >-
+  Arcfox startet den Online-Vertrieb des S3 – inklusive Bestellung per
+  Douyin-Livestream. Der chinesische Mittelklasse-Stromer (vergleichbar mit
+  Passat/Camry) kostet umgerechnet 7.700 € und setzt auf CATL-Wechselakkus.
+source: D1EV
+image: /images/arcfox-s3-7700-euro-mittelklasse-stromer-mit-wechs-d1ev-e6434c.webp
+category: news
+tags:
+  - Batterie
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299524"
+original_url: 'https://www.d1ev.com/news/qiye/299524'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Arcfox
+confidence: 0.9
 ---
 
 # Arcfox S3: 7.700-Euro-Mittelklasse-Stromer mit Wechselakku

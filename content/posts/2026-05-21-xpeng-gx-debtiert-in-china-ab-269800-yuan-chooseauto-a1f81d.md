@@ -1,15 +1,32 @@
 ---
-title: "XPeng GX debütiert in China ab 269.800 Yuan"
+title: XPeng GX debütiert in China ab 269.800 Yuan
 date: 2026-05-21T19:49:05.229Z
-description: "Das neue Flaggschiff-SUV von XPeng startet in China als BEV und EREV ab 269.800 Yuan (ca. 34.500 €). Mit 750 km CLTC-Reichweite und 5C-Schnellladung tritt es gegen den Mercedes GLS an. Ein Europa-Start ist noch nicht bestätigt."
-source: "ChooseAuto"
-image: "/images/xpeng-gx-debtiert-in-china-ab-269800-yuan-chooseauto-a1f81d.webp"
-category: "news"
-brand: "XPeng"
-tags: ["XPeng", "NIO", "Xpeng", "MG", "Batterie", "Reichweite", "Zoll", "E-Auto"]
+description: >-
+  Das neue Flaggschiff-SUV von XPeng startet in China als BEV und EREV ab
+  269.800 Yuan (ca. 34.500 €). Mit 750 km CLTC-Reichweite und 5C-Schnellladung
+  tritt es gegen den Mercedes GLS an. Ein Europa-Start ist noch nicht bestätigt.
+source: ChooseAuto
+image: /images/xpeng-gx-debtiert-in-china-ab-269800-yuan-chooseauto-a1f81d.webp
+category: news
+brand: XPeng
+tags:
+  - XPeng
+  - NIO
+  - Xpeng
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - E-Auto
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/908909.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/908909.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.9
 ---
 
 # XPeng GX debütiert in China ab 269.800 Yuan

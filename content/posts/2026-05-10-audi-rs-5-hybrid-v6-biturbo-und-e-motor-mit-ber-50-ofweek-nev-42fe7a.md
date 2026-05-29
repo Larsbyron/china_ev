@@ -1,16 +1,27 @@
 ---
-title: "Audi RS 5 Hybrid: V6-Biturbo und E-Motor mit über 500 PS"
+title: 'Audi RS 5 Hybrid: V6-Biturbo und E-Motor mit über 500 PS'
 date: 2026-05-10T20:43:04.349Z
-description: "Der neue Audi RS 5 setzt auf einen Hybridantrieb: 2,9-Liter-V6-Biturbo plus P2-E-Motor. Das System kombiniert klassische Quattro-Mechanik mit elektrischer Unterstützung und bietet eine beeindruckende Leistungsentfaltung."
-source: "OFweek NEV"
-image: "/images/ai-audi-rs-5-hybrid-v6-biturbo-und-e-motor-mit-ber-50-ofweek-nev-42fe7a.webp"
-
-category: "news"
-
-tags: ["Batterie", "Elektroauto"]
+description: >-
+  Der neue Audi RS 5 setzt auf einen Hybridantrieb: 2,9-Liter-V6-Biturbo plus
+  P2-E-Motor. Das System kombiniert klassische Quattro-Mechanik mit elektrischer
+  Unterstützung und bietet eine beeindruckende Leistungsentfaltung.
+source: OFweek NEV
+image: >-
+  /images/ai-audi-rs-5-hybrid-v6-biturbo-und-e-motor-mit-ber-50-ofweek-nev-42fe7a.webp
+category: news
+tags:
+  - Batterie
+  - Elektroauto
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Audi
+confidence: 0.85
 ---
 
 # Audi RS 5 Hybrid: V6-Biturbo und E-Motor mit über 500 PS

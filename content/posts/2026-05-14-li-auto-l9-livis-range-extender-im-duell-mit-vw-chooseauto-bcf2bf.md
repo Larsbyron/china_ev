@@ -1,15 +1,30 @@
 ---
-title: "Li Auto L9 Livis: Range Extender im Duell mit VW"
+title: 'Li Auto L9 Livis: Range Extender im Duell mit VW'
 date: 2026-05-14T11:49:34.243Z
-description: "Der Li Auto L9 Livis startet mit dem hauseigenen Drittgenerations-Range-Extender und 40,5 % thermischem Wirkungsgrad. Ein Vergleich mit VWs EA211 zeigt: Zwei Philosophien, kein Generationsvorsprung."
-source: "ChooseAuto"
-
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der Li Auto L9 Livis startet mit dem hauseigenen
+  Drittgenerations-Range-Extender und 40,5 % thermischem Wirkungsgrad. Ein
+  Vergleich mit VWs EA211 zeigt: Zwei Philosophien, kein Generationsvorsprung.
+source: ChooseAuto
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - MG
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/902616.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/902616.shtml'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - Li Auto
+  - VW
+confidence: 0.9
 ---
 
 # Li Auto L9 Livis: Range Extender im Duell mit VW

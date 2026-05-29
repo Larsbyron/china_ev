@@ -1,15 +1,34 @@
 ---
-title: "MIIT-Liste: 5 neue China-Stromer von VW, XPeng & mehr"
+title: 'MIIT-Liste: 5 neue China-Stromer von VW, XPeng & mehr'
 date: 2026-05-26T20:06:59.013Z
-description: "Mercedes GLE L, VW ID.ERA 5S, XPeng MONA L03/L05, Hyundai IONIQ V und Yuanhang 8: Die neue MIIT-Zulassungsliste zeigt fünf wichtige Neuheiten für den chinesischen Markt. Ein Überblick."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "XPeng", "Xpeng", "Li Auto", "Tesla", "Reichweite", "Zoll", "EV"]
+description: >-
+  Mercedes GLE L, VW ID.ERA 5S, XPeng MONA L03/L05, Hyundai IONIQ V und Yuanhang
+  8: Die neue MIIT-Zulassungsliste zeigt fünf wichtige Neuheiten für den
+  chinesischen Markt. Ein Überblick.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Tesla
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 5
+primaryTopic: modelle-marktstarts
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - Mercedes
+  - Volkswagen
+  - XPeng
+  - Hyundai
+  - Yuanhang
+confidence: 0.9
 ---
 
 # MIIT-Liste: 5 neue China-Stromer von VW, XPeng & mehr

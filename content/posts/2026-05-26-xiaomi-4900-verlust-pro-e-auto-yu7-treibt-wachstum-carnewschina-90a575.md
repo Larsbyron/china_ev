@@ -1,15 +1,29 @@
 ---
-title: "Xiaomi: 4.900 € Verlust pro E-Auto – YU7 treibt Wachstum"
+title: 'Xiaomi: 4.900 € Verlust pro E-Auto – YU7 treibt Wachstum'
 date: 2026-05-26T20:01:30.522Z
-description: "Xiaomi verliert pro E-Auto 4.900 €. Trotz 80.856 verkaufter YU7 steigt der operative Verlust. Der neue SU7 verbucht 80.000 Bestellungen – Markteintritt in Europa noch offen."
-source: "CarNewsChina"
-image: "/images/xiaomi-4900-verlust-pro-e-auto-yu7-treibt-wachstum-carnewschina-90a575.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "EV"]
+description: >-
+  Xiaomi verliert pro E-Auto 4.900 €. Trotz 80.856 verkaufter YU7 steigt der
+  operative Verlust. Der neue SU7 verbucht 80.000 Bestellungen – Markteintritt
+  in Europa noch offen.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-4900-verlust-pro-e-auto-yu7-treibt-wachstum-carnewschina-90a575.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi: 4.900 € Verlust pro E-Auto – YU7 treibt Wachstum

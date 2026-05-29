@@ -1,15 +1,33 @@
 ---
-title: "Auto China 2026: BBA und VW starten E-Offensive mit vielen Neuheiten"
+title: 'Auto China 2026: BBA und VW starten E-Offensive mit vielen Neuheiten'
 date: 2026-05-21T19:52:19.963Z
-description: "Die Peking Auto Show 2026 ist eröffnet. BMW, Mercedes, Audi und VW präsentieren zahlreiche Elektro-Weltpremieren. Von Luxuslimousinen bis zum günstigen JETTA X – die deutschen Hersteller greifen chinesische Konkurrenten an."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Batterie", "Reichweite", "E-Auto", "EV"]
+description: >-
+  Die Peking Auto Show 2026 ist eröffnet. BMW, Mercedes, Audi und VW
+  präsentieren zahlreiche Elektro-Weltpremieren. Von Luxuslimousinen bis zum
+  günstigen JETTA X – die deutschen Hersteller greifen chinesische Konkurrenten
+  an.
+source: OFweek NEV
+category: news
+tags:
+  - Batterie
+  - Reichweite
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - software-assistenz-autonomes-fahren
+marketRelevance: eu_planned
+brands:
+  - Mercedes-Benz
+  - BMW
+  - Audi
+  - Volkswagen
+  - JETTA
+confidence: 0.9
 ---
 
 # Auto China 2026: BBA und VW starten E-Offensive mit vielen Neuheiten

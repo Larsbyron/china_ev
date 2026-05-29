@@ -1,15 +1,28 @@
 ---
-title: "Aion: 32.727 Verkäufe im April – N60 und Haobo S600 neu"
+title: 'Aion: 32.727 Verkäufe im April – N60 und Haobo S600 neu'
 date: 2026-05-19T06:10:26.273Z
-description: "Aion (广汽埃安) meldet 32.727 Verkäufe im April (+15,6 %). Die Limousine N60 mit Lidar und L4-Fahrassistenz startet, Premiummarke Haobo zeigt SUV S600. Euro-Start offen."
-source: "Sina"
-image: "/images/aion-32727-verkufe-im-april-n60-und-haobo-s600-neu-sina-23ba14.webp"
-category: "news"
-brand: "Aion"
-tags: ["Aion", "Reichweite"]
+description: >-
+  Aion (广汽埃安) meldet 32.727 Verkäufe im April (+15,6 %). Die Limousine N60 mit
+  Lidar und L4-Fahrassistenz startet, Premiummarke Haobo zeigt SUV S600.
+  Euro-Start offen.
+source: Sina
+image: /images/aion-32727-verkufe-im-april-n60-und-haobo-s600-neu-sina-23ba14.webp
+category: news
+brand: Aion
+tags:
+  - Aion
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml
 read_time_minutes: 2
+primaryTopic: markt-absatz-zulassungen
+secondaryTopics:
+  - modelle-marktstarts
+marketRelevance: china_only
+brands:
+  - Aion
+confidence: 0.9
 ---
 
 # Aion: 32.727 Verkäufe im April – N60 und Haobo S600 neu

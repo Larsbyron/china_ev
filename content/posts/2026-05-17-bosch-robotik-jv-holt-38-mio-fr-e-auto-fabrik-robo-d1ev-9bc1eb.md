@@ -1,15 +1,30 @@
 ---
-title: "Bosch-Robotik-JV holt 38 Mio. € für E-Auto-Fabrik-Roboter"
+title: Bosch-Robotik-JV holt 38 Mio. € für E-Auto-Fabrik-Roboter
 date: 2026-05-17T11:08:36.534Z
-description: "Boyin Hechuang, ein Joint Venture von Bosch und Galaxy General, entwickelt Industrieroboter für die E-Auto-Fertigung. Nach einer Pre-A-Runde über 300 Mio. Yuan (ca. 38,4 Mio. €) startet die Serienproduktion – mit einem Großauftrag über 2.000 Einheiten."
-source: "D1EV"
-image: "/images/bosch-robotik-jv-holt-38-mio-fr-e-auto-fabrik-robo-d1ev-9bc1eb.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Boyin Hechuang, ein Joint Venture von Bosch und Galaxy General, entwickelt
+  Industrieroboter für die E-Auto-Fertigung. Nach einer Pre-A-Runde über 300
+  Mio. Yuan (ca. 38,4 Mio. €) startet die Serienproduktion – mit einem
+  Großauftrag über 2.000 Einheiten.
+source: D1EV
+image: /images/bosch-robotik-jv-holt-38-mio-fr-e-auto-fabrik-robo-d1ev-9bc1eb.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - Elektroauto
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299253"
+original_url: 'https://www.d1ev.com/news/shichang/299253'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+brands: []
+confidence: 0.5
 ---
 
 # Bosch-Robotik-JV holt 38 Mio. € für E-Auto-Fabrik-Roboter

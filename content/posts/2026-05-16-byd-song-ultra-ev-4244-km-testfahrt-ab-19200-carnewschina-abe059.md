@@ -1,15 +1,33 @@
 ---
-title: "BYD Song Ultra EV: 4.244-km-Testfahrt, ab 19.200 €"
+title: 'BYD Song Ultra EV: 4.244-km-Testfahrt, ab 19.200 €'
 date: 2026-05-16T19:06:16.734Z
-description: "BYD schickt den Song Ultra EV auf eine 4.244 km lange Testfahrt durch Westchina. Der vollelektrische SUV bietet 710 km CLTC-Reichweite und lädt in 9 Minuten fast voll. Preis in China ab 149.800 Yuan (ca. 19.200 €)."
-source: "CarNewsChina"
-image: "/images/byd-song-ultra-ev-4244-km-testfahrt-ab-19200-carnewschina-abe059.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Onvo", "Tesla", "Reichweite", "EV", "Marktanteil"]
+description: >-
+  BYD schickt den Song Ultra EV auf eine 4.244 km lange Testfahrt durch
+  Westchina. Der vollelektrische SUV bietet 710 km CLTC-Reichweite und lädt in 9
+  Minuten fast voll. Preis in China ab 149.800 Yuan (ca. 19.200 €).
+source: CarNewsChina
+image: /images/byd-song-ultra-ev-4244-km-testfahrt-ab-19200-carnewschina-abe059.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Onvo
+  - Tesla
+  - Reichweite
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/byd-song-ultra-ev-kicks-off-4244-km-cross-china-drive-flash-network-hits-5979-stations/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/byd-song-ultra-ev-kicks-off-4244-km-cross-china-drive-flash-network-hits-5979-stations/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.95
 ---
 
 # BYD Song Ultra EV: 4.244-km-Testfahrt, ab 19.200 €

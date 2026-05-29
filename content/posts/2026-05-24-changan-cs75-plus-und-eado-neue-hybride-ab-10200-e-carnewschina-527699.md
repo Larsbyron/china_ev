@@ -1,15 +1,33 @@
 ---
-title: "Changan CS75 Plus und Eado: Neue Hybride ab 10.200 Euro"
+title: 'Changan CS75 Plus und Eado: Neue Hybride ab 10.200 Euro'
 date: 2026-05-24T05:59:00.303Z
-description: "Changan bringt zwei neue HEV-Modelle auf den Markt: den CS75 Plus BlueCore HEV ab 14.100 € und den Eado HEV ab 10.200 €. Beide kombinieren Verbrenner mit 160–180 kW E-Motor und 1,7-kWh-Akku. Marktstart in Europa noch offen."
-source: "CarNewsChina"
-image: "/images/changan-cs75-plus-und-eado-neue-hybride-ab-10200-e-carnewschina-527699.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Geely", "Batterie", "Zoll", "EV", "Marktanteil"]
+description: >-
+  Changan bringt zwei neue HEV-Modelle auf den Markt: den CS75 Plus BlueCore HEV
+  ab 14.100 € und den Eado HEV ab 10.200 €. Beide kombinieren Verbrenner mit
+  160–180 kW E-Motor und 1,7-kWh-Akku. Marktstart in Europa noch offen.
+source: CarNewsChina
+image: >-
+  /images/changan-cs75-plus-und-eado-neue-hybride-ab-10200-e-carnewschina-527699.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Geely
+  - Batterie
+  - Zoll
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://carnewschina.com/2026/05/24/changan-joins-chinas-hev-push-with-cs75-plus-and-eado-bluecore-hybrid-launches/"
+original_url: >-
+  https://carnewschina.com/2026/05/24/changan-joins-chinas-hev-push-with-cs75-plus-and-eado-bluecore-hybrid-launches/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Changan
+confidence: 0.9
 ---
 
 # Changan CS75 Plus und Eado: Neue Hybride ab 10.200 Euro

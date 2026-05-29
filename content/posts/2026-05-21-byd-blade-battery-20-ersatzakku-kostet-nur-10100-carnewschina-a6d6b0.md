@@ -1,15 +1,33 @@
 ---
-title: "BYD Blade Battery 2.0: Ersatzakku kostet nur 10.100 €"
+title: 'BYD Blade Battery 2.0: Ersatzakku kostet nur 10.100 €'
 date: 2026-05-21T19:48:26.479Z
-description: "Ein Denza Z9 GT-Besitzer zeigte einen Kostenvoranschlag für den Akkutausch: 78.700 Yuan (ca. 10.100 €) für das 122,5-kWh-Blade-Battery-2.0-Paket. BYDs Vertikale Integration drückt den Preis – das ist günstiger als beim kleineren N7."
-source: "CarNewsChina"
-image: "/images/byd-blade-battery-20-ersatzakku-kostet-nur-10100-carnewschina-a6d6b0.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Ein Denza Z9 GT-Besitzer zeigte einen Kostenvoranschlag für den Akkutausch:
+  78.700 Yuan (ca. 10.100 €) für das 122,5-kWh-Blade-Battery-2.0-Paket. BYDs
+  Vertikale Integration drückt den Preis – das ist günstiger als beim kleineren
+  N7.
+source: CarNewsChina
+image: >-
+  /images/byd-blade-battery-20-ersatzakku-kostet-nur-10100-carnewschina-a6d6b0.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - MG
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/byd-blade-battery-2-0-replacement-less-than-11600-usd-in-china-says-denza-z9-gt-ev-owner/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/byd-blade-battery-2-0-replacement-less-than-11600-usd-in-china-says-denza-z9-gt-ev-owner/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Blade Battery 2.0: Ersatzakku kostet nur 10.100 €

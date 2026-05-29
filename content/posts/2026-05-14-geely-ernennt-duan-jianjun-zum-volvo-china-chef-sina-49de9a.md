@@ -1,15 +1,27 @@
 ---
-title: "Geely ernennt Duan Jianjun zum Volvo-China-Chef"
+title: Geely ernennt Duan Jianjun zum Volvo-China-Chef
 date: 2026-05-14T01:11:00.372Z
-description: "Geely-Marke Volvo Cars ernennt Duan Jianjun zum neuen President & CEO für die Region Greater China. Der 30-Jahre-Veteran folgt auf Yuan Xiaolin, der nach 16 Jahren das Unternehmen verlässt."
-source: "Sina"
-image: "/images/geely-ernennt-duan-jianjun-zum-volvo-china-chef-sina-49de9a.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely"]
+description: >-
+  Geely-Marke Volvo Cars ernennt Duan Jianjun zum neuen President & CEO für die
+  Region Greater China. Der 30-Jahre-Veteran folgt auf Yuan Xiaolin, der nach 16
+  Jahren das Unternehmen verlässt.
+source: Sina
+image: /images/geely-ernennt-duan-jianjun-zum-volvo-china-chef-sina-49de9a.webp
+category: news
+brand: Geely
+tags:
+  - Geely
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: global_industry
+brands:
+  - Geely
+  - Volvo
+confidence: 0.9
 ---
 
 # Geely ernennt Duan Jianjun zum Volvo-China-Chef

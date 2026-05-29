@@ -1,15 +1,29 @@
 ---
-title: "BEIJING EU8: 535-km-E‑Limousine für Taxi & Fahrdienst"
+title: 'BEIJING EU8: 535-km-E‑Limousine für Taxi & Fahrdienst'
 date: 2026-05-26T20:04:32.658Z
-description: "BEIJING (北汽) bringt mit dem EU8 eine B-Klasse-Elektrolimousine speziell für Taxi- und Fahrdienste. Bis zu 535 km Reichweite (CLTC), zwei Versionen (Swap/Charge), Flottenverträge über 10.000 Fahrzeuge. Ein Marktstart in Europa ist nicht in Sicht."
-source: "ChooseAuto"
-image: "/images/beijing-eu8-535-km-elimousine-fr-taxi-fahrdienst-chooseauto-1908e6.webp"
-category: "news"
-
-tags: ["Reichweite", "Zoll", "EV"]
+description: >-
+  BEIJING (北汽) bringt mit dem EU8 eine B-Klasse-Elektrolimousine speziell für
+  Taxi- und Fahrdienste. Bis zu 535 km Reichweite (CLTC), zwei Versionen
+  (Swap/Charge), Flottenverträge über 10.000 Fahrzeuge. Ein Marktstart in Europa
+  ist nicht in Sicht.
+source: ChooseAuto
+image: >-
+  /images/beijing-eu8-535-km-elimousine-fr-taxi-fahrdienst-chooseauto-1908e6.webp
+category: news
+tags:
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/913560.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/913560.shtml'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: china_only
+brands:
+  - BEIJING
+confidence: 0.9
 ---
 
 # BEIJING EU8: 535-km-E‑Limousine für Taxi & Fahrdienst

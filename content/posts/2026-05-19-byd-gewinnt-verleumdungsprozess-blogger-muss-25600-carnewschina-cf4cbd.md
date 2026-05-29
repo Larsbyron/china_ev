@@ -1,15 +1,32 @@
 ---
-title: "BYD gewinnt Verleumdungsprozess: Blogger muss 256.000 € zahlen"
+title: 'BYD gewinnt Verleumdungsprozess: Blogger muss 256.000 € zahlen'
 date: 2026-05-19T12:39:56.178Z
-description: "Der chinesische EV-Hersteller BYD hat im Berufungsverfahren gegen einen Blogger recht bekommen. Dieser muss sich öffentlich entschuldigen und 2 Millionen Yuan (ca. 256.000 €) zahlen. Ein zweiter Fall brachte 20.500 €."
-source: "CarNewsChina"
-image: "/images/byd-gewinnt-verleumdungsprozess-blogger-muss-25600-carnewschina-cf4cbd.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "XPeng", "Xpeng", "Batterie", "Elektroauto", "EV"]
+description: >-
+  Der chinesische EV-Hersteller BYD hat im Berufungsverfahren gegen einen
+  Blogger recht bekommen. Dieser muss sich öffentlich entschuldigen und 2
+  Millionen Yuan (ca. 256.000 €) zahlen. Ein zweiter Fall brachte 20.500 €.
+source: CarNewsChina
+image: >-
+  /images/byd-gewinnt-verleumdungsprozess-blogger-muss-25600-carnewschina-cf4cbd.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/"
+original_url: >-
+  https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/
 read_time_minutes: 2
+primaryTopic: unternehmen-finanzen-kooperationen
+secondaryTopics: []
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.7
 ---
 
 # BYD gewinnt Verleumdungsprozess: Blogger muss 256.000 € zahlen

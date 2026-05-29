@@ -1,15 +1,36 @@
 ---
-title: "BYD Great Han: Neue Flaggschiff-Limousine mit 1.000 km Reichweite"
+title: 'BYD Great Han: Neue Flaggschiff-Limousine mit 1.000 km Reichweite'
 date: 2026-05-22T12:14:38.884Z
-description: "BYD testet die neue Oberklasse-Limousine Great Han. Mit bis zu 1.000 km CLTC-Reichweite und Blade-Batterie 2.0 soll sie 2026 in China starten – ein Konkurrent für Mercedes EQS und NIO ET7."
-source: "CarNewsChina"
-image: "/images/byd-great-han-neue-flaggschiff-limousine-mit-1000-carnewschina-12a3e8.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  BYD testet die neue Oberklasse-Limousine Great Han. Mit bis zu 1.000 km
+  CLTC-Reichweite und Blade-Batterie 2.0 soll sie 2026 in China starten – ein
+  Konkurrent für Mercedes EQS und NIO ET7.
+source: CarNewsChina
+image: >-
+  /images/byd-great-han-neue-flaggschiff-limousine-mit-1000-carnewschina-12a3e8.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - NIO
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/22/byd-great-han-spotted-a-new-flagship-sibling-to-the-great-tang/"
+original_url: >-
+  https://carnewschina.com/2026/05/22/byd-great-han-spotted-a-new-flagship-sibling-to-the-great-tang/
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - BYD
+  - Mercedes
+  - NIO
+confidence: 0.9
 ---
 
 # BYD Great Han: Neue Flaggschiff-Limousine mit 1.000 km Reichweite

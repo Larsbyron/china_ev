@@ -1,15 +1,30 @@
 ---
-title: "XPeng GX: 269.800 Yuan (ca. 34.500 €) – 24.863 Bestellungen in 12h"
+title: 'XPeng GX: 269.800 Yuan (ca. 34.500 €) – 24.863 Bestellungen in 12h'
 date: 2026-05-26T06:08:23.788Z
-description: "XPeng startet den GX in China zu einem aggressiven Preis von effektiv 269.800 Yuan (ca. 34.500 €). Der 5,27 Meter lange SUV erzielte binnen zwölf Stunden einen Rekord an Vorbestellungen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Reichweite", "Zoll", "EV"]
+description: >-
+  XPeng startet den GX in China zu einem aggressiven Preis von effektiv 269.800
+  Yuan (ca. 34.500 €). Der 5,27 Meter lange SUV erzielte binnen zwölf Stunden
+  einen Rekord an Vorbestellungen.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html'
 read_time_minutes: 4
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - XPeng
+confidence: 0.95
 ---
 
 # XPeng GX: 269.800 Yuan (ca. 34.500 €) – 24.863 Bestellungen in 12h

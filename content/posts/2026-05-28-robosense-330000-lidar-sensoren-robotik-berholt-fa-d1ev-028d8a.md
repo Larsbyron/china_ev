@@ -1,15 +1,32 @@
 ---
-title: "RoboSense: 330.000 Lidar-Sensoren – Robotik überholt Fahrassistenz"
+title: 'RoboSense: 330.000 Lidar-Sensoren – Robotik überholt Fahrassistenz'
 date: 2026-05-28T06:35:32.426Z
-description: "Der Lidar-Spezialist RoboSense (速腾聚创) steigert den Umsatz im ersten Quartal 2025 um 40 %. Roboter-Lidar überholt erstmals die ADAS-Sparte – angetrieben durch Rasenmäher-Roboter."
-source: "D1EV"
-image: "/images/robosense-330000-lidar-sensoren-robotik-berholt-fa-d1ev-028d8a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Geely", "Zeekr", "EV"]
+description: >-
+  Der Lidar-Spezialist RoboSense (速腾聚创) steigert den Umsatz im ersten Quartal
+  2025 um 40 %. Roboter-Lidar überholt erstmals die ADAS-Sparte – angetrieben
+  durch Rasenmäher-Roboter.
+source: D1EV
+image: /images/robosense-330000-lidar-sensoren-robotik-berholt-fa-d1ev-028d8a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Geely
+  - Zeekr
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300793"
+original_url: 'https://www.d1ev.com/news/shichang/300793'
 read_time_minutes: 3
+primaryTopic: industrie-produktion-lieferkette
+secondaryTopics:
+  - markt-absatz-zulassungen
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - BYD
+  - Geely
+  - Zeekr
+confidence: 0.9
 ---
 
 # RoboSense: 330.000 Lidar-Sensoren – Robotik überholt Fahrassistenz

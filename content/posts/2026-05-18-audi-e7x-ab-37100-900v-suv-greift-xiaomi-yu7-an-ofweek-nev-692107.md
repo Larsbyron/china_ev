@@ -1,15 +1,27 @@
 ---
-title: "Audi E7X ab 37.100 €: 900V-SUV greift Xiaomi YU7 an"
+title: 'Audi E7X ab 37.100 €: 900V-SUV greift Xiaomi YU7 an'
 date: 2026-05-18T13:47:58.520Z
-description: "Audi startet in China den vollelektrischen E7X zum Preis ab 28,98 万元 (ca. 37.100 €) – direkte Konkurrenz zum Xiaomi YU7. Mit 900-Volt-Architektur, 430 PS und bis zu 700 km CLTC-Reichweite (ca. 600 km WLTP) setzt Audi auf traditionelle Ingenieurskunst gegen das Tech-Ökosystem von Xiaomi."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Reichweite", "EV"]
+description: >-
+  Audi startet in China den vollelektrischen E7X zum Preis ab 28,98 万元 (ca.
+  37.100 €) – direkte Konkurrenz zum Xiaomi YU7. Mit 900-Volt-Architektur, 430
+  PS und bis zu 700 km CLTC-Reichweite (ca. 600 km WLTP) setzt Audi auf
+  traditionelle Ingenieurskunst gegen das Tech-Ökosystem von Xiaomi.
+source: OFweek NEV
+category: news
+tags:
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Audi
+  - Xiaomi
+confidence: 0.95
 ---
 
 # Audi E7X ab 37.100 €: 900V-SUV greift Xiaomi YU7 an

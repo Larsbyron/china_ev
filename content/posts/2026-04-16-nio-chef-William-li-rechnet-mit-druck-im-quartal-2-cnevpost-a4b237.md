@@ -1,13 +1,33 @@
 ---
-title: "Nio-Chef William Li: Zweites Quartal bleibt anspruchsvoll – ES9 und L80 als Hoffnungsträger"
+title: >-
+  Nio-Chef William Li: Zweites Quartal bleibt anspruchsvoll – ES9 und L80 als
+  Hoffnungsträger
 date: 2026-04-16T09:00:00.000Z
-description: "Nio-Gründer William Li sieht im zweiten Quartal 2026 erheblichen Gegenwind für die gesamte Branche. Der ES9 und der L80 sollen das Wachstum im Mai und Juni wieder ankurbeln."
-source: "CnEVPost"
-image: "/images/nio-chef-William-li-rechnet-mit-druck-im-quartal-2-cnevpost-a4b237.webp"
-category: "news"
-tags: ["NIO", "William Li", "ES9", "L80", "Quartal 2"]
+description: >-
+  Nio-Gründer William Li sieht im zweiten Quartal 2026 erheblichen Gegenwind für
+  die gesamte Branche. Der ES9 und der L80 sollen das Wachstum im Mai und Juni
+  wieder ankurbeln.
+source: CnEVPost
+image: >-
+  /images/nio-chef-William-li-rechnet-mit-druck-im-quartal-2-cnevpost-a4b237.webp
+category: news
+tags:
+  - NIO
+  - William Li
+  - ES9
+  - L80
+  - Quartal 2
 draft: false
-original_url: "https://cnevpost.com/2026/04/17/nio-ceo-sees-q2-pressure-bets-on-es9-l80-drive-growth/"
+original_url: >-
+  https://cnevpost.com/2026/04/17/nio-ceo-sees-q2-pressure-bets-on-es9-l80-drive-growth/
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - markt-absatz-zulassungen
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - NIO
+confidence: 0.9
 ---
 
 # Nio-Chef William Li: Herausforderndes Quartal voraus

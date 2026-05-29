@@ -1,15 +1,32 @@
 ---
-title: "BYD-Konkurrent Ganfeng: Feststoffakku mit 500 Wh/kg in Serie"
+title: 'BYD-Konkurrent Ganfeng: Feststoffakku mit 500 Wh/kg in Serie'
 date: 2026-05-22T12:16:01.721Z
-description: "Ganfeng Lithium meldet einen Meilenstein: Die 400-Wh/kg-Feststoffbatterie schafft über 1.100 Zyklen, die 500-Wh/kg-Zelle geht in Kleinserie. BYD und CATL sind ebenfalls im Rennen."
-source: "CarNewsChina"
-image: "/images/byd-konkurrent-ganfeng-feststoffakku-mit-500-whkg-carnewschina-cc9fff.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Elektroauto", "EV"]
+description: >-
+  Ganfeng Lithium meldet einen Meilenstein: Die 400-Wh/kg-Feststoffbatterie
+  schafft über 1.100 Zyklen, die 500-Wh/kg-Zelle geht in Kleinserie. BYD und
+  CATL sind ebenfalls im Rennen.
+source: CarNewsChina
+image: >-
+  /images/byd-konkurrent-ganfeng-feststoffakku-mit-500-whkg-carnewschina-cc9fff.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/changan-backed-ganfengs-solid-state-battery-hits-1100-cycles-with-400-wh-kg-and-500-wh-kg-in-production/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/changan-backed-ganfengs-solid-state-battery-hits-1100-cycles-with-400-wh-kg-and-500-wh-kg-in-production/
 read_time_minutes: 2
+primaryTopic: batterie-laden-reichweite
+secondaryTopics:
+  - industrie-produktion-lieferkette
+marketRelevance: global_industry
+brands:
+  - BYD
+  - CATL
+confidence: 0.9
 ---
 
 # BYD-Konkurrent Ganfeng: Feststoffakku mit 500 Wh/kg in Serie

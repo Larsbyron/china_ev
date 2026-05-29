@@ -1,15 +1,30 @@
 ---
-title: "Geely Galaxy Xingyao 7 MAX: Allrad-PHEV ab 12.600 €"
+title: 'Geely Galaxy Xingyao 7 MAX: Allrad-PHEV ab 12.600 €'
 date: 2026-05-24T11:12:34.914Z
-description: "Geely Galaxy Xingyao 7 MAX startet in China ab 12.600 €. Der Plug-in-Hybrid bietet Allradantrieb, 312 kW Systemleistung und 5,4 s Sprint. Ein Marktstart in Europa ist nicht vorgesehen."
-source: "D1EV"
-image: "/images/geely-galaxy-xingyao-7-max-allrad-phev-ab-12600-d1ev-8c3a24.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "BYD", "Batterie", "Reichweite", "EV"]
+description: >-
+  Geely Galaxy Xingyao 7 MAX startet in China ab 12.600 €. Der Plug-in-Hybrid
+  bietet Allradantrieb, 312 kW Systemleistung und 5,4 s Sprint. Ein Marktstart
+  in Europa ist nicht vorgesehen.
+source: D1EV
+image: /images/geely-galaxy-xingyao-7-max-allrad-phev-ab-12600-d1ev-8c3a24.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - BYD
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300201"
+original_url: 'https://www.d1ev.com/news/shichang/300201'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - Geely
+confidence: 0.95
 ---
 
 # Geely Galaxy Xingyao 7 MAX: Allrad-PHEV ab 12.600 €

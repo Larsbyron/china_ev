@@ -1,15 +1,33 @@
 ---
-title: "BYD Seal 08: Flaggschiff-Limousine mit Blitzladung ab Q2 2026"
+title: 'BYD Seal 08: Flaggschiff-Limousine mit Blitzladung ab Q2 2026'
 date: 2026-05-22T10:59:58.871Z
-description: "Das neue Topmodell Seal 08 von BYD kommt im zweiten Quartal 2026 in China auf den Markt. Mit 800-Volt-Architektur, 900 km CLTC-Reichweite und Hinterachslenkung. Ein Marktstart in Deutschland ist noch nicht bestätigt."
-source: "CarNewsChina"
-image: "/images/byd-seal-08-flaggschiff-limousine-mit-blitzladung-carnewschina-52bd42.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Das neue Topmodell Seal 08 von BYD kommt im zweiten Quartal 2026 in China auf
+  den Markt. Mit 800-Volt-Architektur, 900 km CLTC-Reichweite und
+  Hinterachslenkung. Ein Marktstart in Deutschland ist noch nicht bestätigt.
+source: CarNewsChina
+image: >-
+  /images/byd-seal-08-flaggschiff-limousine-mit-blitzladung-carnewschina-52bd42.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+  - software-assistenz-autonomes-fahren
+marketRelevance: china_only
+brands:
+  - BYD
+confidence: 0.9
 ---
 
 # BYD Seal 08: Flaggschiff-Limousine mit Blitzladung ab Q2 2026

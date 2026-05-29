@@ -1,15 +1,25 @@
 ---
-title: "Audi RS 5 Plug-in-Hybrid: 375 kW V6 mit E-Motor"
+title: 'Audi RS 5 Plug-in-Hybrid: 375 kW V6 mit E-Motor'
 date: 2026-05-19T06:13:35.027Z
-description: "Der neue Audi RS 5 Plug-in-Hybrid kombiniert einen 2,9-Liter-V6-Biturbo (375 kW) mit einem 130 kW starken E-Motor und 22-kWh-Akku. Das quattro-System bleibt mechanisch. Ein Marktstart in Europa ist noch offen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Tesla", "Batterie"]
+description: >-
+  Der neue Audi RS 5 Plug-in-Hybrid kombiniert einen 2,9-Liter-V6-Biturbo (375
+  kW) mit einem 130 kW starken E-Motor und 22-kWh-Akku. Das quattro-System
+  bleibt mechanisch. Ein Marktstart in Europa ist noch offen.
+source: OFweek NEV
+category: news
+tags:
+  - Tesla
+  - Batterie
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - batterie-laden-reichweite
+marketRelevance: eu_planned
+brands:
+  - Audi
+confidence: 0.9
 ---
 
 # Audi RS 5 Plug-in-Hybrid: 375 kW V6 mit E-Motor

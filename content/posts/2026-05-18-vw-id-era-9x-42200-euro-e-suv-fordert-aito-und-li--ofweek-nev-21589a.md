@@ -1,15 +1,30 @@
 ---
-title: "VW ID. ERA 9X: 42.200-Euro-E-SUV fordert AITO und Li Auto"
+title: 'VW ID. ERA 9X: 42.200-Euro-E-SUV fordert AITO und Li Auto'
 date: 2026-05-18T14:02:59.544Z
-description: "Der neue VW ID. ERA 9X startet in China ab 329.800 Yuan (ca. 42.200 €). Das 5,20 m große Elektro-SUV tritt serienmäßig mit Hinterachslenkung und Lidar gegen AITO M9 und Li Auto L9 an. Marktstart in Europa noch offen."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Li Auto", "Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Der neue VW ID. ERA 9X startet in China ab 329.800 Yuan (ca. 42.200 €). Das
+  5,20 m große Elektro-SUV tritt serienmäßig mit Hinterachslenkung und Lidar
+  gegen AITO M9 und Li Auto L9 an. Marktstart in Europa noch offen.
+source: OFweek NEV
+category: news
+tags:
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html"
+original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: china_only
+brands:
+  - VW
+  - AITO
+  - Li Auto
+confidence: 0.95
 ---
 
 # VW ID. ERA 9X: 42.200-Euro-E-SUV fordert AITO und Li Auto

@@ -1,15 +1,32 @@
 ---
-title: "Xiaomi SU7 Ultra: 2.600 € Rückzahlung nach Werbepanne"
+title: 'Xiaomi SU7 Ultra: 2.600 € Rückzahlung nach Werbepanne'
 date: 2026-05-14T19:34:57.656Z
-description: "Ein Gericht in China verurteilt Xiaomi zur Rückzahlung von 20.000 Yuan (ca. 2.600 €) Kaution wegen übertriebener Werbung für die Carbon-Motorhaube des SU7 Ultra. Betrugsvorwürfe wurden abgewiesen. Der Sportler ist nicht in Europa erhältlich."
-source: "CarNewsChina"
-image: "/images/xiaomi-su7-ultra-2600-rckzahlung-nach-werbepanne-carnewschina-d799ea.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Xiaomi SU", "MG", "Elektroauto"]
+description: >-
+  Ein Gericht in China verurteilt Xiaomi zur Rückzahlung von 20.000 Yuan (ca.
+  2.600 €) Kaution wegen übertriebener Werbung für die Carbon-Motorhaube des SU7
+  Ultra. Betrugsvorwürfe wurden abgewiesen. Der Sportler ist nicht in Europa
+  erhältlich.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-su7-ultra-2600-rckzahlung-nach-werbepanne-carnewschina-d799ea.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Xiaomi SU
+  - MG
+  - Elektroauto
 draft: false
-original_url: "https://carnewschina.com/2026/05/14/xiaomi-su7-ultra-ducted-hood-saga-court-rejects-fraud-claim-orders-2940-usd-refund/"
+original_url: >-
+  https://carnewschina.com/2026/05/14/xiaomi-su7-ultra-ducted-hood-saga-court-rejects-fraud-claim-orders-2940-usd-refund/
 read_time_minutes: 2
+primaryTopic: politik-zoelle-regulierung
+secondaryTopics:
+  - unternehmen-finanzen-kooperationen
+marketRelevance: china_only
+brands:
+  - Xiaomi
+confidence: 0.9
 ---
 
 # Xiaomi SU7 Ultra: 2.600 € Rückzahlung nach Werbepanne

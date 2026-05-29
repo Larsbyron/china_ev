@@ -1,15 +1,30 @@
 ---
-title: "Stellantis E-Car 2028: Leapmotor-Technik für günstiges E-Auto"
+title: 'Stellantis E-Car 2028: Leapmotor-Technik für günstiges E-Auto'
 date: 2026-05-19T12:47:08.328Z
-description: "Stellantis startet das E-Car-Projekt für kompakte E-Autos ab 2028. Die Technik kommt vom chinesischen Partner Leapmotor. Ziel: bezahlbare Elektromobilität in Europa – doch der Markt schrumpft rapide."
-source: "D1EV"
-image: "/images/stellantis-e-car-2028-leapmotor-technik-fr-gnstige-d1ev-401214.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "Batterie", "EU-Import", "Marktanteil"]
+description: >-
+  Stellantis startet das E-Car-Projekt für kompakte E-Autos ab 2028. Die Technik
+  kommt vom chinesischen Partner Leapmotor. Ziel: bezahlbare Elektromobilität in
+  Europa – doch der Markt schrumpft rapide.
+source: D1EV
+image: /images/stellantis-e-car-2028-leapmotor-technik-fr-gnstige-d1ev-401214.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - Batterie
+  - EU-Import
+  - Marktanteil
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299670"
+original_url: 'https://www.d1ev.com/news/shichang/299670'
 read_time_minutes: 3
+primaryTopic: modelle-marktstarts
+secondaryTopics:
+  - preise-rabatte-wettbewerb
+marketRelevance: eu_planned
+brands:
+  - Stellantis
+  - Leapmotor
+confidence: 0.9
 ---
 
 # Stellantis E-Car 2028: Leapmotor-Technik für günstiges E-Auto
