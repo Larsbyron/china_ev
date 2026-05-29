@@ -8,7 +8,6 @@ Automated blog for German car enthusiasts featuring the latest Chinese EV news, 
 
 - **Framework:** Next.js 15 (Vercel-hosted, ISR via `export const revalidate` — not static export)
 - **Styling:** CSS Modules + CSS Custom Properties, dark-first theme
-- **Charts:** Recharts (client-side only)
 - **Search:** Pagefind (post-build indexing)
 - **Comments:** Giscus (GitHub Discussions)
 - **Hosting:** Vercel (auto-deploy from main)
@@ -22,17 +21,14 @@ src/
 │   ├── page.tsx            # Homepage
 │   ├── articles/           # Article listing + [slug] detail pages
 │   ├── brands/             # Brand overview
-│   ├── daten/              # EV data with Recharts
 │   ├── suche/              # Pagefind search
 │   ├── weekly/             # Weekly top 5
 │   ├── about/              # About page
 │   ├── impressum/          # Legal (TMG)
 │   └── datenschutz/        # Privacy (GDPR)
 ├── components/             # React components
-│   ├── charts/             # Recharts visualizations
-│   └── comparison/         # Comparison tool
 ├── lib/                    # Utilities, scraper, markdown
-└── data/                   # ev-specs.json
+└── data/                   # ev-specs.json (used by QuickFacts on article pages)
 scripts/
 ├── fetch-translate.ts      # Main pipeline entry (used by CI): scrape → translate → QA → editorial review
 ├── generate-rss.ts         # RSS feed generation

@@ -130,14 +130,6 @@ export default function SiteHeader() {
           </Link>
 
           <Link
-            href="/daten"
-            className={`${styles.navLink} ${isActive('/daten') ? styles.navLinkActive : ''}`}
-            aria-current={isActive('/daten') ? 'page' : undefined}
-          >
-            Daten
-          </Link>
-
-          <Link
             href="/weekly"
             className={`${styles.navLink} ${isActive('/weekly') ? styles.navLinkActive : ''}`}
             aria-current={isActive('/weekly') ? 'page' : undefined}
@@ -202,7 +194,6 @@ export default function SiteHeader() {
             In Deutschland
           </Link>
           <Link href="/brands" className={`${styles.mobileNavLink} ${isActive('/brands') ? styles.mobileNavActive : ''}`}>Marken</Link>
-          <Link href="/daten" className={`${styles.mobileNavLink} ${isActive('/daten') ? styles.mobileNavActive : ''}`}>Daten</Link>
           <Link href="/weekly" className={`${styles.mobileNavLink} ${isActive('/weekly') ? styles.mobileNavActive : ''}`}>Weekly</Link>
           <Link href="/about" className={`${styles.mobileNavLink} ${isActive('/about') ? styles.mobileNavActive : ''}`}>Über</Link>
         </nav>
