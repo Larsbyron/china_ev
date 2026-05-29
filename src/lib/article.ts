@@ -8,6 +8,7 @@ export interface Article {
   date: string // ISO8601
   author?: string
   image?: string
+  images?: string[]   // additional article images (beyond the hero)
   source: SourceName
   originalUrl: string
   description?: string

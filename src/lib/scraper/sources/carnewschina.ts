@@ -76,7 +76,26 @@ function parseArticleList(html: string): Array<{ title: string; url: string; ima
   return links
 }
 
-function extractArticleContent(html: string): { text: string; image?: string; date?: string } {
+// URL fragments that indicate non-article images (ads, tracking, UI chrome).
+// Use path-segment forms (/ad/, /ads/) to avoid false matches on words like "uploads".
+const SKIP_IMAGE_PATTERNS = [
+  'avatar', 'logo', 'icon', 'emoji', 'banner', '/ad/', '/ads/',
+  'sponsor', 'pixel', 'track', 'beacon', 'analytics',
+  'button', 'arrow', 'placeholder', 'blank', 'spacer', 'separator',
+]
+
+function isArticleImage(src: string): boolean {
+  const lower = src.toLowerCase()
+  return SKIP_IMAGE_PATTERNS.every((pat) => !lower.includes(pat))
+}
+
+function resolveUrl(src: string): string {
+  if (src.startsWith('http')) return src
+  if (src.startsWith('//')) return 'https:' + src
+  return BASE_URL + src
+}
+
+function extractArticleContent(html: string): { text: string; image?: string; images: string[]; date?: string } {
   const $ = load(html)
 
   $('script, style, nav, header, footer, aside, iframe, .ad, .comment, .share, .sidebar, .related, .block__newsletter, .block__popular_topics, .block__popular_col_wrapper').remove()
@@ -96,25 +115,37 @@ function extractArticleContent(html: string): { text: string; image?: string; da
     bestText = $('article, .post, .article_detail__main_area').text().trim().replace(/\s+/g, ' ')
   }
 
-  let image: string | undefined
+  // Collect all article images (deduplicated, filtered, capped at 6)
+  const seenUrls = new Set<string>()
+  const allImages: string[] = []
+
   $('img').each((_, el) => {
-    if (image) return
-    const src = $(el).attr('src') || $(el).attr('data-src') || $(el).attr('data-lazy-src')
-    if (src && !src.includes('avatar') && !src.includes('logo') && !src.includes('icon') && !src.includes('emoji') && !src.includes('fly-images')) {
-      image = src.startsWith('http') ? src : (src.startsWith('//') ? 'https:' + src : BASE_URL + src)
+    if (allImages.length >= 6) return
+    const src = $(el).attr('src') || $(el).attr('data-src') || $(el).attr('data-lazy-src') || ''
+    if (!src || !isArticleImage(src)) return
+    const resolved = resolveUrl(src)
+    if (!seenUrls.has(resolved)) {
+      seenUrls.add(resolved)
+      allImages.push(resolved)
     }
   })
 
-  // 如果没有找到大图，也接受 fly-images 缩略图
-  if (!image) {
+  // Fallback: accept fly-images thumbnails if nothing found
+  if (allImages.length === 0) {
     $('img').each((_, el) => {
-      if (image) return
-      const src = $(el).attr('src') || $(el).attr('data-src')
+      if (allImages.length >= 6) return
+      const src = $(el).attr('src') || $(el).attr('data-src') || ''
       if (src && (src.includes('fly-images') || src.includes('wp-content'))) {
-        image = src.startsWith('http') ? src : (src.startsWith('//') ? 'https:' + src : BASE_URL + src)
+        const resolved = resolveUrl(src)
+        if (!seenUrls.has(resolved)) {
+          seenUrls.add(resolved)
+          allImages.push(resolved)
+        }
       }
     })
   }
+
+  const [image, ...extraImages] = allImages
 
   let date: string | undefined
   $('time, .article_detail_meta__date, .entry-date, .post-date, [datetime]').each((_, el) => {
@@ -123,7 +154,7 @@ function extractArticleContent(html: string): { text: string; image?: string; da
     if (text) date = text
   })
 
-  return { text: bestText, image, date }
+  return { text: bestText, image, images: extraImages, date }
 }
 
 export async function scrapeCarNewsChina(maxArticles = 5): Promise<Article[]> {
@@ -156,12 +187,13 @@ export async function scrapeCarNewsChina(maxArticles = 5): Promise<Article[]> {
         content: extracted.text,
         date: extracted.date || toISODateString(new Date()),
         image: extracted.image || link.image,
+        images: extracted.images,
         source: SOURCE_NAME,
         originalUrl: link.url,
         brand: extractBrand(link.title, extracted.text),
       })
 
-      console.log(`[${SOURCE_NAME}] OK (${extracted.text.length} chars)`)
+      console.log(`[${SOURCE_NAME}] OK (${extracted.text.length} chars, imgs: ${1 + extracted.images.length})`)
     } catch (error) {
       console.error(`[${SOURCE_NAME}] Error scraping ${link.url}:`, error)
     }

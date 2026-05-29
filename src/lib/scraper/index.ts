@@ -102,6 +102,22 @@ async function saveArticle(article: Article, draft = false): Promise<string> {
     }
   }
 
+  // Download additional article images and build a gallery markdown block
+  let galleryMarkdown = ''
+  if (article.images && article.images.length > 0) {
+    const localPaths: string[] = []
+    for (let i = 0; i < article.images.length; i++) {
+      const url = article.images[i]
+      const imgSlug = `${slug}-img${i + 2}`
+      const localPath = await downloadAndSaveImage(url, imgSlug)
+      if (localPath) localPaths.push(localPath)
+    }
+    if (localPaths.length > 0) {
+      const lines = localPaths.map((p) => `![Bild](${p})`).join('\n\n')
+      galleryMarkdown = `\n\n---\n\n${lines}`
+    }
+  }
+
   // Sanitize description to remove markdown artifacts and scraping residue
   const cleanDescription = article.description
     ? sanitizeDescription(article.description, article.content)
@@ -155,7 +171,7 @@ ${frontmatter.marketRelevance ? `marketRelevance: "${frontmatter.marketRelevance
 
 # ${frontmatter.title}
 
-${article.content}
+${article.content}${galleryMarkdown}
 `
 
   const targetDir = draft ? DRAFTS_DIR : CONTENT_DIR

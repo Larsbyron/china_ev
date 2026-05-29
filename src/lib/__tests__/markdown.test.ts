@@ -7,11 +7,11 @@ describe('markdownToHtml', () => {
     expect(html).toContain('<p>Hello World</p>')
   })
 
-  it('converts headers', async () => {
+  it('converts headers (h1 demoted to h2 to avoid duplicate page h1)', async () => {
     const h1 = await markdownToHtml('# Title')
     const h2 = await markdownToHtml('## Subtitle')
     const h3 = await markdownToHtml('### Section')
-    expect(h1).toContain('<h1>Title</h1>')
+    expect(h1).toContain('<h2>Title</h2>')
     expect(h2).toContain('<h2>Subtitle</h2>')
     expect(h3).toContain('<h3>Section</h3>')
   })
@@ -76,9 +76,18 @@ describe('markdownToHtml', () => {
   it('handles mixed content', async () => {
     const md = `# Title\n\nParagraph with **bold**.\n\n- list item\n\n> quote`
     const html = await markdownToHtml(md)
-    expect(html).toContain('<h1>Title</h1>')
+    expect(html).toContain('<h2>Title</h2>')
     expect(html).toContain('<strong>bold</strong>')
     expect(html).toContain('<li>list item</li>')
     expect(html).toContain('<blockquote>')
+  })
+
+  it('converts GFM tables to HTML', async () => {
+    const md = `| Variante | Yuan | ca. Euro |\n|---|---|---|\n| Pioneer | 269.800 | 34.500 € |\n| Pioneer Pro | 299.800 | 38.400 € |`
+    const html = await markdownToHtml(md)
+    expect(html).toContain('<table>')
+    expect(html).toContain('<th>Variante</th>')
+    expect(html).toContain('<td>Pioneer Pro</td>')
+    expect(html).toContain('<td>38.400 €</td>')
   })
 })
