@@ -7,25 +7,14 @@ import styles from './page.module.css'
 
 export const metadata: Metadata = {
   title: 'Marken',
-  description: 'Alle Marken im Überblick — BYD, NIO, XPeng, Li Auto, MG, Geely und weitere chinesische EV-Hersteller.',
-}
-
-const BRAND_NAMES: Record<string, string> = {
-  byd: 'BYD',
-  nio: 'NIO',
-  xpeng: 'XPeng',
-  'li-auto': 'Li Auto',
-  mg: 'MG',
-  geely: 'Geely',
-  zeekr: 'Zeekr',
-  xiaomi: 'Xiaomi',
+  description: 'Alle Marken im Überblick — chinesische EV-Hersteller wie BYD, NIO, XPeng und internationale Marken wie VW, Audi und Mercedes-Benz.',
 }
 
 export default function BrandsPage() {
   const brands = getAllBrands()
 
   const brandsWithLatest = brands.map((brand) => {
-    const brandArticles = getArticlesByBrand(brand.slug)
+    const brandArticles = getArticlesByBrand(brand.name)
     return {
       ...brand,
       latestHeadline: brandArticles[0]?.title,
@@ -41,7 +30,7 @@ export default function BrandsPage() {
           <header className={styles.header}>
             <h1 className={styles.title}>Marken</h1>
             <p className={styles.subtitle}>
-              Alle chinesischen EV-Marken mit aktuellen Artikeln
+              Chinesische und internationale Marken mit aktuellen Artikeln
             </p>
           </header>
 

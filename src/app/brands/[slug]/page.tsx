@@ -4,19 +4,8 @@ import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import ArticleCard from '@/components/ArticleCard'
 import ArticleListItem from '@/components/ArticleListItem'
-import { getAllBrands, getArticlesByBrand } from '@/lib/articles'
+import { getAllBrands, getArticlesByBrand, getBrandBySlug } from '@/lib/articles'
 import styles from './page.module.css'
-
-const BRAND_NAMES: Record<string, string> = {
-  byd: 'BYD',
-  nio: 'NIO',
-  xpeng: 'XPeng',
-  'li-auto': 'Li Auto',
-  mg: 'MG',
-  geely: 'Geely',
-  zeekr: 'Zeekr',
-  xiaomi: 'Xiaomi',
-}
 
 export async function generateStaticParams() {
   const brands = getAllBrands()
@@ -29,7 +18,7 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>
 }): Promise<Metadata> {
   const { slug } = await params
-  const name = BRAND_NAMES[slug] || slug
+  const name = getBrandBySlug(slug)?.name ?? slug
   return {
     title: `${name} — E-AUTOS`,
     description: `Alle ${name}-Artikel auf E-AUTOS — Nachrichten, Modelle und Neuheiten.`,
@@ -42,7 +31,7 @@ export default async function BrandDetailPage({
   params: Promise<{ slug: string }>
 }) {
   const { slug } = await params
-  const brandName = BRAND_NAMES[slug] || slug
+  const brandName = getBrandBySlug(slug)?.name ?? slug
   const articles = getArticlesByBrand(brandName)
 
   const withImage = articles.filter((a) => a.image)

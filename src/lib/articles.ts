@@ -201,29 +201,42 @@ export function getDeutschlandArticles(): ArticleMeta[] {
   )
 }
 
+// URL slug for a brand name. Lowercase, diacritics stripped (Škoda → skoda),
+// non-alphanumeric runs collapsed to hyphens. Reproduces the legacy slugs
+// (BYD→byd, Li Auto→li-auto, XPeng→xpeng) so existing links keep working.
+export function slugifyBrand(name: string): string {
+  return name
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+}
+
+// Brand list derived from the dominant `brand` field (one canonical brand per
+// article — clean, unlike the fragmented brands[] mention array). Count and
+// detail page both use getArticlesByBrand, so the tile number matches the page.
 export function getAllBrands(): { name: string; slug: string; articleCount: number }[] {
-  const brands = [
-    { name: 'BYD', slug: 'byd' },
-    { name: 'NIO', slug: 'nio' },
-    { name: 'XPeng', slug: 'xpeng' },
-    { name: 'Li Auto', slug: 'li-auto' },
-    { name: 'MG', slug: 'mg' },
-    { name: 'Geely', slug: 'geely' },
-    { name: 'Zeekr', slug: 'zeekr' },
-    { name: 'Xiaomi', slug: 'xiaomi' },
-  ]
+  const slugToName = new Map<string, string>()
+  for (const article of getAllArticles()) {
+    if (!article.brand) continue
+    const slug = slugifyBrand(article.brand)
+    if (slug && !slugToName.has(slug)) slugToName.set(slug, article.brand)
+  }
 
-  const articles = getAllArticles()
+  return Array.from(slugToName, ([slug, name]) => ({
+    name,
+    slug,
+    articleCount: getArticlesByBrand(name).length,
+  }))
+    .filter((b) => b.articleCount > 0)
+    .sort((a, b) => b.articleCount - a.articleCount)
+}
 
-  return brands.map((brand) => {
-    const brandArticles = articles.filter(
-      (a) => a.brand?.toLowerCase() === brand.name.toLowerCase()
-    )
-    return {
-      ...brand,
-      articleCount: brandArticles.length,
-    }
-  }).filter((b) => b.articleCount > 0)
+export function getBrandBySlug(
+  slug: string
+): { name: string; slug: string; articleCount: number } | null {
+  return getAllBrands().find((b) => b.slug === slug) ?? null
 }
 
 export function getFeaturedArticle(): ArticleMeta | null {
