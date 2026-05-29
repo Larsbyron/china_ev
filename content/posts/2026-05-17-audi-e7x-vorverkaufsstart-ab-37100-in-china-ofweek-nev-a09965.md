@@ -25,6 +25,7 @@ brands:
   - Audi
   - Xiaomi
 confidence: 0.95
+brand: Audi
 ---
 
 # Audi E7X: Vorverkaufsstart ab 37.100 € in China

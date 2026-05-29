@@ -26,6 +26,7 @@ brands:
   - Deepal
   - Changan
 confidence: 0.9
+brand: Deepal
 ---
 
 # Deepal will jedes zweite Auto exportieren – Europa im Visier

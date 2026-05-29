@@ -23,6 +23,7 @@ marketRelevance: china_only
 brands:
   - Nissan
 confidence: 0.9
+brand: Nissan
 ---
 
 # Nissan ruft in China 68.000 N7 und N6 wegen Gaspedal-Fehlers zurück

@@ -27,6 +27,7 @@ brands:
   - Buick
   - Nio
 confidence: 0.9
+brand: NIO
 ---
 
 # Buick kontert Nio: „Man sollte MPVs nicht vergessen"

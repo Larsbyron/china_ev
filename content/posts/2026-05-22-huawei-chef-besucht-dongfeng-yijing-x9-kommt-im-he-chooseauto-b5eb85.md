@@ -23,6 +23,7 @@ brands:
   - Huawei
   - Yijing
 confidence: 0.95
+brand: Huawei
 ---
 
 # Huawei-Chef besucht Dongfeng: Yijing X9 kommt im Herbst 2026

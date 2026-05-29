@@ -28,6 +28,7 @@ brands:
   - Li Auto
   - AITO
 confidence: 0.95
+brand: XPeng
 ---
 
 # XPeng GX: 34.500 € für 750 km (CLTC) – neues E-SUV-Flaggschiff

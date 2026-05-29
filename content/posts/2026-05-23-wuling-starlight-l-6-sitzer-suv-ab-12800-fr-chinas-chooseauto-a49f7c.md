@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - Wuling
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # Wuling Starlight L: 6-Sitzer-SUV ab 12.800 € für Chinas Familien

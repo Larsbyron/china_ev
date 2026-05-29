@@ -20,6 +20,7 @@ marketRelevance: eu_planned
 brands:
   - Audi
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid: 2,9L V6 plus 130 kW E-Motor

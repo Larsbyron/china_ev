@@ -26,6 +26,7 @@ brands:
   - Li Auto
   - AITO
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: EREV-SUV ab 42.200 € in China

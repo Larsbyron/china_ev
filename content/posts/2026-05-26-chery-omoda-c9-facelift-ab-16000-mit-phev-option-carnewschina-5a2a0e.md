@@ -9,7 +9,7 @@ source: CarNewsChina
 image: >-
   /images/chery-omoda-c9-facelift-ab-16000-mit-phev-option-carnewschina-5a2a0e.webp
 category: news
-brand: Xiaomi
+brand: Chery
 tags:
   - Xiaomi
   - Tesla

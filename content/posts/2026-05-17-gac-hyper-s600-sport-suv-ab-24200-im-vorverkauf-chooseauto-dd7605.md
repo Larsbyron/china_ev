@@ -21,6 +21,7 @@ marketRelevance: china_only
 brands:
   - GAC
 confidence: 0.95
+brand: GAC
 ---
 
 # GAC Hyper S600: Sport-SUV ab 24.200 € im Vorverkauf

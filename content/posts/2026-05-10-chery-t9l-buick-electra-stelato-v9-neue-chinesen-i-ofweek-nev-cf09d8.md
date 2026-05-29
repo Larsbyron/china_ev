@@ -28,6 +28,7 @@ brands:
   - Buick
   - Stelato
 confidence: 0.95
+brand: Chery
 ---
 
 # Chery T9L, Buick Electra & Stelato V9: Neue Chinesen im Anmarsch

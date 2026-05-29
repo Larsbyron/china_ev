@@ -24,6 +24,7 @@ brands:
   - Buick
   - GM
 confidence: 0.95
+brand: Great Wall
 ---
 
 # Buick Electra E7: GM startet Offensive im chinesischen Plug-in-Hybrid-Markt

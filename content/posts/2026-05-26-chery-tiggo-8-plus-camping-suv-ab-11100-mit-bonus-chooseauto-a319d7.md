@@ -23,6 +23,7 @@ marketRelevance: china_only
 brands:
   - CHERY
 confidence: 0.9
+brand: Chery
 ---
 
 # Chery Tiggo 8 Plus: Camping-SUV ab 11.100 € (mit Bonus)

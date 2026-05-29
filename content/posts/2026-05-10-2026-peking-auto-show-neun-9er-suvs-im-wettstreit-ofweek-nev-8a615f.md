@@ -29,6 +29,7 @@ brands:
   - AITO
   - VW
 confidence: 0.9
+brand: Li Auto
 ---
 
 # 2026 Peking Auto Show: Neun 9er-SUVs im Wettstreit

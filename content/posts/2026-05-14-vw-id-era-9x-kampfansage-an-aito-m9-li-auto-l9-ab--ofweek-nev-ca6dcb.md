@@ -26,6 +26,7 @@ brands:
   - AITO
   - Li Auto
 confidence: 0.9
+brand: Li Auto
 ---
 
 # VW ID. ERA 9X: Kampfansage an AITO M9 & Li Auto L9 ab 42.200 €

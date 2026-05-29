@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - BAIC
 confidence: 0.9
+brand: BAIC
 ---
 
 # BAIC BJ40 EREV: 252 km rein elektrisch, ab 21. Mai

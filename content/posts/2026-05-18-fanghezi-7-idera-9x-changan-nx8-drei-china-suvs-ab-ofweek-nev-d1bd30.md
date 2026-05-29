@@ -23,6 +23,7 @@ secondaryTopics:
   - preise-rabatte-wettbewerb
 brands: []
 confidence: 0.5
+brand: Volkswagen
 ---
 
 # Fanghezi 7, ID.ERA 9X, Chang'an NX8: Drei China-SUVs ab 19.200 € im Vergleichstest

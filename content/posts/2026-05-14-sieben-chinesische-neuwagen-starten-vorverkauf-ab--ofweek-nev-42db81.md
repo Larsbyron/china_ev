@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Geely
 confidence: 0.9
+brand: Geely
 ---
 
 # Sieben chinesische Neuwagen starten Vorverkauf ab 16.400 €

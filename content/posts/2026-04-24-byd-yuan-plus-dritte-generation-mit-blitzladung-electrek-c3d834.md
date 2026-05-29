@@ -26,6 +26,7 @@ marketRelevance: eu_planned
 brands:
   - BYD
 confidence: 0.8
+brand: BYD
 ---
 
 # BYD Yuan Plus: Blitzladung kommt in der Kompaktklasse an

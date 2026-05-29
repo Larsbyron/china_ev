@@ -25,6 +25,7 @@ brands:
   - GWM
   - Haval
 confidence: 0.95
+brand: Great Wall
 ---
 
 # GWM Menglong PLUS: Boxy-SUV ab 20.700 € in China gestartet

@@ -26,6 +26,7 @@ brands:
   - NIO
   - Li Auto
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: China-Flaggschiff ab 42.200 € startet

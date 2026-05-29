@@ -22,6 +22,7 @@ marketRelevance: eu_planned
 brands:
   - Dreame
 confidence: 0.9
+brand: Porsche
 ---
 
 # Dreame plant Supersportwagen für 2027 ab 128.000 Euro

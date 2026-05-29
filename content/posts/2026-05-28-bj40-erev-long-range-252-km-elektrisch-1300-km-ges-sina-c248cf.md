@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - Beijing Off-road
 confidence: 0.95
+brand: Great Wall
 ---
 
 # BJ40 EREV Long Range: 252 km elektrisch, 1.300 km gesamt

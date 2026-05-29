@@ -20,6 +20,7 @@ marketRelevance: china_only
 brands:
   - Avita
 confidence: 0.9
+brand: Huawei
 ---
 
 # Offizielle Bilder des Avita 07L veröffentlicht

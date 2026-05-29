@@ -26,6 +26,7 @@ brands:
   - Arcfox
   - Stelato
 confidence: 0.9
+brand: BAIC
 ---
 
 # BAIC BluePark: Arcfox & Stelato – 800V ab 19.200 €

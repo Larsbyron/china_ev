@@ -25,6 +25,7 @@ marketRelevance: de_available
 brands:
   - Skoda
 confidence: 0.9
+brand: Škoda
 ---
 
 # Skoda Epiq Sportline: Sport-E-SUV ab 26.000 Euro gesichtet

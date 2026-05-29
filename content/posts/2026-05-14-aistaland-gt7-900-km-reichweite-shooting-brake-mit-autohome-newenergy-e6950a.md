@@ -24,6 +24,7 @@ brands:
   - AISTALAND
   - GAC
 confidence: 0.9
+brand: Huawei
 ---
 
 # AISTALAND GT7: 900 km Reichweite – Shooting Brake mit Huawei-Technik

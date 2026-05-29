@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - XPeng
 confidence: 0.95
+brand: XPeng
 ---
 
 # XPeng GX: 269.800 Yuan (ca. 34.500 €) – 24.863 Bestellungen in 12h

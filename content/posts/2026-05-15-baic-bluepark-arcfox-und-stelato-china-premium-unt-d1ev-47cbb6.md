@@ -23,6 +23,7 @@ brands:
   - ArcFox
   - Stelato
 confidence: 0.9
+brand: BAIC
 ---
 
 # BAIC BluePark: ArcFox und Stelato – China-Premium unter 20.000 Euro

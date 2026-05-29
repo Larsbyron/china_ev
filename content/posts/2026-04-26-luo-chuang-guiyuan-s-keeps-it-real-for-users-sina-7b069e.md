@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Great Wall Motors
 confidence: 0.9
+brand: Great Wall
 ---
 
 # Luo Chuang: Guiyuan S setzt nicht auf Ausstattungswahn, sondern auf das Wesentliche für Nutzer

@@ -10,7 +10,7 @@ description: >-
 source: Sina
 image: /images/zeekr-liefert-im-april-31787-neue-fahrzeuge-aus-an-sina-b56d76.webp
 category: news
-brand: Geely
+brand: Zeekr
 tags:
   - Geely
   - Zeekr

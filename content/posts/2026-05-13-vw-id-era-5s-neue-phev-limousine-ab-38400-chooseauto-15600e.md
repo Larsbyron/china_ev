@@ -1,15 +1,22 @@
 ---
-title: "VW ID. ERA 5S: Neue PHEV-Limousine ab 38.400 €"
+title: 'VW ID. ERA 5S: Neue PHEV-Limousine ab 38.400 €'
 date: 2026-05-13T23:39:24.040Z
-description: "Der VW ID. ERA 5S ist die zweite Modellvariante der ID. ERA-Familie. Die PHEV-Limousine bietet 160 km elektrische Reichweite (CLTC) und über 2.000 km Gesamtreichweite. Preis in China ab unter 300.000 Yuan (ca. 38.400 €)*. Mit modernem Fahrassistenzsystem und blauen LED-Leuchten zielt er auf junge Kä"
-source: "ChooseAuto"
-image: "/images/vw-id-era-5s-neue-phev-limousine-ab-38400-chooseauto-15600e.webp"
-category: "news"
-
-tags: ["Tesla", "Reichweite", "EV"]
+description: >-
+  Der VW ID. ERA 5S ist die zweite Modellvariante der ID. ERA-Familie. Die
+  PHEV-Limousine bietet 160 km elektrische Reichweite (CLTC) und über 2.000 km
+  Gesamtreichweite. Preis in China ab unter 300.000 Yuan (ca. 38.400 €)*. Mit
+  modernem Fahrassistenzsystem und blauen LED-Leuchten zielt er auf junge Kä
+source: ChooseAuto
+image: /images/vw-id-era-5s-neue-phev-limousine-ab-38400-chooseauto-15600e.webp
+category: news
+tags:
+  - Tesla
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/901861.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/901861.shtml'
 read_time_minutes: 2
+brand: Volkswagen
 ---
 
 # VW ID. ERA 5S: Neue PHEV-Limousine ab 38.400 €

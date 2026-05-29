@@ -23,6 +23,7 @@ marketRelevance: global_industry
 brands:
   - Great Wall Motor
 confidence: 0.9
+brand: Great Wall
 ---
 
 # Great Wall Motor: Werksmarathon als Statement gegen Preiskampf

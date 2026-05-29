@@ -26,6 +26,7 @@ brands:
   - Audi
   - Volkswagen
 confidence: 0.9
+brand: BMW
 ---
 
 # BMW i3: 900 km WLTP, 800V auf Peking Auto Show

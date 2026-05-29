@@ -29,6 +29,7 @@ brands:
   - Toyota
   - BYD
 confidence: 0.5
+brand: Toyota
 ---
 
 # Toyota Corolla 2027: 13. Generation mit BEV – 60. Jubiläum

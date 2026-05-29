@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - Changan
 confidence: 0.95
+brand: Changan
 ---
 
 # Changan CS75PLUS Hybrid: ab 14.100 € als HEV-Familien-SUV

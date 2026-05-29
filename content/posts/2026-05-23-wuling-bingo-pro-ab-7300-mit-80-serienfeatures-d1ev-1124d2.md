@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - Wuling
 confidence: 0.9
+brand: SAIC
 ---
 
 # Wuling Bingo Pro: Ab 7.300 € mit 80 Serienfeatures

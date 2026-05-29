@@ -31,6 +31,7 @@ brands:
   - Hyundai
   - BYD
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # VW ID.ERA 5S: 2000 km Reichweite ab ca. 19.200 €

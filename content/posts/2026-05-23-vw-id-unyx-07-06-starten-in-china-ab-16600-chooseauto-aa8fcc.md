@@ -1,15 +1,24 @@
 ---
-title: "VW ID. UNYX 07 & 06 starten in China ab 16.600 €"
+title: VW ID. UNYX 07 & 06 starten in China ab 16.600 €
 date: 2026-05-23T11:08:13.911Z
-description: "Volkswagen Anhui bringt das Coupé ID. UNYX 07 und den überarbeiteten ID. UNYX 06 in China auf den Markt. Einstiegspreise: 12,99 und 14,99 万元 (ca. 16.600 und 19.200 €). Aktionspreise bis 1. Juni 2026 sogar ab 10,99 万元 (ca. 14.100 €). Neue CEA-Architektur und Highway-NOA serienmäßig."
-source: "ChooseAuto"
-image: "/images/vw-id-unyx-07-06-starten-in-china-ab-16600-chooseauto-aa8fcc.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Volkswagen Anhui bringt das Coupé ID. UNYX 07 und den überarbeiteten ID. UNYX
+  06 in China auf den Markt. Einstiegspreise: 12,99 und 14,99 万元 (ca. 16.600 und
+  19.200 €). Aktionspreise bis 1. Juni 2026 sogar ab 10,99 万元 (ca. 14.100 €).
+  Neue CEA-Architektur und Highway-NOA serienmäßig.
+source: ChooseAuto
+image: /images/vw-id-unyx-07-06-starten-in-china-ab-16600-chooseauto-aa8fcc.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/910776.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/910776.shtml'
 read_time_minutes: 4
+brand: Volkswagen
 ---
 
 # VW ID. UNYX 07 & 06 starten in China ab 16.600 €

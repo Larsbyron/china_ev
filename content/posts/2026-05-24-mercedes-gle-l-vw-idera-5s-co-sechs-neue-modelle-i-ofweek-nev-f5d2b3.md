@@ -29,6 +29,7 @@ brands:
   - Hyundai
   - Deepal
 confidence: 0.9
+brand: Mercedes-Benz
 ---
 
 # Mercedes GLE L, VW ID.ERA 5S & Co.: Sechs neue Modelle in China

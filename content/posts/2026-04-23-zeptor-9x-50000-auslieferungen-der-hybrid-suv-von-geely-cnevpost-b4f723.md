@@ -26,6 +26,7 @@ brands:
   - Zeekr
   - Geely
 confidence: 0.95
+brand: Zeekr
 ---
 
 # Zeekr 9X: 50.000 Auslieferungen für Geelys Hybrid-Flaggschiff

@@ -22,6 +22,7 @@ brands:
   - BYD
   - Xiaomi
 confidence: 0.9
+brand: BYD
 ---
 
 # BYD E7X vs. Xiaomi YU7: Große E-SUVs ab 37.100 €

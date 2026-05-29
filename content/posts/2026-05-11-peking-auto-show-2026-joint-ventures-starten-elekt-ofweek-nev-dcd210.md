@@ -29,6 +29,7 @@ brands:
   - Volkswagen
   - Audi
 confidence: 0.95
+brand: BMW
 ---
 
 # Peking Auto Show 2026: Joint-Ventures starten Elektro-Offensive

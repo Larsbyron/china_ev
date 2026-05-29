@@ -7,7 +7,7 @@ description: >-
 source: Autohome NewEnergy
 image: /images/ai-luxeed-v9-marktstart-mai-2026-autohome-NE-1314143.webp
 category: news
-brand: Luxeed
+brand: Huawei
 tags:
   - Luxeed
   - V9

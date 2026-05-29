@@ -23,6 +23,7 @@ brands:
   - BYD
   - Xiaomi
 confidence: 0.95
+brand: BYD
 ---
 
 # BYD E7X ab 37.100 € vs. Xiaomi YU7 ab 32.400 € – Preisduell

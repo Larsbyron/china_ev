@@ -1,14 +1,19 @@
 ---
-title: "Volvo China: 16 Jahre – neuer Chef Duan Jianjun übernimmt"
+title: 'Volvo China: 16 Jahre – neuer Chef Duan Jianjun übernimmt'
 date: 2026-05-18T13:54:26.603Z
-description: "Volvo Cars tauscht die China-Führung aus: Nach 16 Jahren verlässt Yuan Xiaolin den Chefposten. Duan Jianjun, Ex-Mercedes-Manager, übernimmt ab sofort."
-source: "Sina"
-image: "/images/volvo-china-16-jahre-neuer-chef-duan-jianjun-berni-sina-004d9b.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "EV"]
+description: >-
+  Volvo Cars tauscht die China-Führung aus: Nach 16 Jahren verlässt Yuan Xiaolin
+  den Chefposten. Duan Jianjun, Ex-Mercedes-Manager, übernimmt ab sofort.
+source: Sina
+image: /images/volvo-china-16-jahre-neuer-chef-duan-jianjun-berni-sina-004d9b.webp
+category: news
+brand: Volvo
+tags:
+  - Geely
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 2
 ---
 

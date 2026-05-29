@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Galaxy (吉利银河)
 confidence: 0.8
+brand: Huawei
 ---
 
 # China-News: 7 neue Modelle von 16.000 bis 56.000 Euro

@@ -22,6 +22,7 @@ marketRelevance: eu_available
 brands:
   - Audi
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 PHEV: 2.9-Liter-V6 mit 505 PS Systemleistung

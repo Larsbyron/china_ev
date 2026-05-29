@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - Beijing Off-road
 confidence: 0.9
+brand: BAIC
 ---
 
 # BJ40 EREV: 252 km elektrisch, 1.300 km gesamt

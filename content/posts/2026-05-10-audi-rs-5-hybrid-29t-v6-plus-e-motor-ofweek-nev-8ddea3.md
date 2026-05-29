@@ -23,6 +23,7 @@ marketRelevance: de_available
 brands:
   - Audi
 confidence: 0.8
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid: 2.9T V6 plus E-Motor

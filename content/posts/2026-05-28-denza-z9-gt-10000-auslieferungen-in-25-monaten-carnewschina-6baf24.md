@@ -9,7 +9,7 @@ source: CarNewsChina
 image: >-
   /images/denza-z9-gt-10000-auslieferungen-in-25-monaten-carnewschina-6baf24.webp
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - Tesla

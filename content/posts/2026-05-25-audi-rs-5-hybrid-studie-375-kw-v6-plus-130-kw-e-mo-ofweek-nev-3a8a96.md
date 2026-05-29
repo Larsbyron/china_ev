@@ -29,6 +29,7 @@ brands:
   - NIO
   - MG
 confidence: 0.85
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid-Studie: 375 kW V6 plus 130 kW E-Motor

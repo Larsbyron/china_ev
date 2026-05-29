@@ -31,6 +31,7 @@ brands:
   - Li Auto
   - Lynk & Co
 confidence: 0.9
+brand: Zeekr
 ---
 
 # 8er-SUV-Krieg: Zeekr, AITO & Co. starten 2026 unter 51.000 €

@@ -19,6 +19,7 @@ brands:
   - GWM
   - Tank
 confidence: 0.7
+brand: Great Wall
 ---
 
 # GWM dominiert Taklimakan-Rallye: Dreifachsieg in T2.E

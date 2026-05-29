@@ -1,15 +1,23 @@
 ---
-title: "Fangchengbao Bao 7, ID.ERA 9X & NX8: Drei neue Elektro-SUVs im Test"
+title: 'Fangchengbao Bao 7, ID.ERA 9X & NX8: Drei neue Elektro-SUVs im Test'
 date: 2026-05-19T12:59:08.453Z
-description: "Die chinesischen Joint Ventures FAW-Volkswagen, GAC Toyota und BYDs SUV-Marke Fangchengbao bringen drei neue Elektro-SUVs auf den Markt. Preise von 19.200 bis 44.800 Euro – mit Fahrassistenz von Momenta."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "Leapmotor", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Die chinesischen Joint Ventures FAW-Volkswagen, GAC Toyota und BYDs SUV-Marke
+  Fangchengbao bringen drei neue Elektro-SUVs auf den Markt. Preise von 19.200
+  bis 44.800 Euro – mit Fahrassistenz von Momenta.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - Leapmotor
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 4
+brand: Volkswagen
 ---
 
 # Fangchengbao Bao 7, ID.ERA 9X & NX8: Drei neue Elektro-SUVs im Test

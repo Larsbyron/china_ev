@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - WEY
 confidence: 0.95
+brand: Great Wall
 ---
 
 # WEY V9X: Chinesischer Luxus-PHEV ab 44.800 €

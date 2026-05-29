@@ -26,6 +26,7 @@ marketRelevance: china_only
 brands:
   - Voyah
 confidence: 0.95
+brand: Voyah
 ---
 
 # Voyah Tye X8: Chinesisches Top-SUV ab 36.200 € mit 727 km Reichweite

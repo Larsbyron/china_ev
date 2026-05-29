@@ -22,6 +22,7 @@ marketRelevance: de_available
 brands:
   - Audi
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid: 500+ PS Plug-in-Sportler ab 108.800 €

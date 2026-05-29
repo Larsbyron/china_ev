@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - Volkswagen
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # Volkswagen ID. ERA 9X: 5,20-Meter-E-SUV ab 42.200 €

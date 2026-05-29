@@ -30,6 +30,7 @@ brands:
   - XPeng
   - MG
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid mit 640 PS: V6-Quattro gegen chinesische E-Autos

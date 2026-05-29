@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - XPeng
 confidence: 0.9
+brand: XPeng
 ---
 
 # XPeng GX: Das Flaggschiff-SUV mit Range-Rover-Proportionen und L4-Ambitionen

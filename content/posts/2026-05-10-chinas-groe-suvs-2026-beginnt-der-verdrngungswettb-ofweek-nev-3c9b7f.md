@@ -29,6 +29,7 @@ brands:
   - XPeng
   - Li Auto
 confidence: 0.9
+brand: Huawei
 ---
 
 # Chinas große SUVs: 2026 beginnt der Verdrängungswettbewerb

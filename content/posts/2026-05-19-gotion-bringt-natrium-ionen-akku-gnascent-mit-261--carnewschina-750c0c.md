@@ -9,7 +9,7 @@ source: CarNewsChina
 image: >-
   /images/gotion-bringt-natrium-ionen-akku-gnascent-mit-261-carnewschina-750c0c.webp
 category: news
-brand: BYD
+brand: Volkswagen
 tags:
   - BYD
   - NIO

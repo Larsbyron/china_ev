@@ -28,6 +28,7 @@ brands:
   - XPeng
   - Li Auto
 confidence: 0.95
+brand: NIO
 ---
 
 # VW ID. ERA 9X startet ab 42.200 € – Kampfansage an Nio & Co.

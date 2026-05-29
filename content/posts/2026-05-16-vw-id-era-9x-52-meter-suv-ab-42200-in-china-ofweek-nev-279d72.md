@@ -29,6 +29,7 @@ brands:
   - Li Auto
   - AITO
 confidence: 1
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: 5,2-Meter-SUV ab 42.200 € in China

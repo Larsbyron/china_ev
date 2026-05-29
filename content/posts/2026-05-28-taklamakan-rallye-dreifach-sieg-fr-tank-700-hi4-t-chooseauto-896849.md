@@ -1,15 +1,18 @@
 ---
-title: "Taklamakan-Rallye: Dreifach-Sieg für Tank 700 Hi4-T"
+title: 'Taklamakan-Rallye: Dreifach-Sieg für Tank 700 Hi4-T'
 date: 2026-05-28T20:10:23.571Z
-description: "Bei der 2026er Taklamakan-Rallye dominiert GWM das Serienwagen-Klassement: T2.E-Klasse komplett mit Tank 700 Hi4-T abgeräumt, plus Sieg in T2.1."
-source: "ChooseAuto"
-image: "/images/taklamakan-rallye-dreifach-sieg-fr-tank-700-hi4-t-chooseauto-896849.webp"
-category: "news"
-
+description: >-
+  Bei der 2026er Taklamakan-Rallye dominiert GWM das Serienwagen-Klassement:
+  T2.E-Klasse komplett mit Tank 700 Hi4-T abgeräumt, plus Sieg in T2.1.
+source: ChooseAuto
+image: >-
+  /images/taklamakan-rallye-dreifach-sieg-fr-tank-700-hi4-t-chooseauto-896849.webp
+category: news
 tags: []
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/915163.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/915163.shtml'
 read_time_minutes: 2
+brand: Great Wall
 ---
 
 # Taklamakan-Rallye: Dreifach-Sieg für Tank 700 Hi4-T

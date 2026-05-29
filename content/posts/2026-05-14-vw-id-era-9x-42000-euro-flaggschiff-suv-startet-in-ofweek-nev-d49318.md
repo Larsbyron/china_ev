@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - VW
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: 42.000-Euro-Flaggschiff-SUV startet in China

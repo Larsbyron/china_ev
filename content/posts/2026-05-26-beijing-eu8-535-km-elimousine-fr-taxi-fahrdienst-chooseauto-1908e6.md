@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - BEIJING
 confidence: 0.9
+brand: BAIC
 ---
 
 # BEIJING EU8: 535-km-E‑Limousine für Taxi & Fahrdienst

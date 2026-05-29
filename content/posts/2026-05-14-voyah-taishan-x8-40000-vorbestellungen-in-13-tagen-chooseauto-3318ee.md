@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Voyah
 confidence: 0.9
+brand: Voyah
 ---
 
 # Voyah Taishan X8: 40.000 Vorbestellungen in 13 Tagen

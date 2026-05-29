@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - Beijing Offroad
 confidence: 0.9
+brand: Great Wall
 ---
 
 # BJ40 EREV Long Range startet am 21. Mai in China

@@ -29,6 +29,7 @@ brands:
   - Toyota
   - BYD
 confidence: 0.9
+brand: BYD
 ---
 
 # BYD-Gegner aus Japan: Neuer Toyota Corolla kommt 2026 als BEV

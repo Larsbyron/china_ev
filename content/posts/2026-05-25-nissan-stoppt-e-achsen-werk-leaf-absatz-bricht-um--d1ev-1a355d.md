@@ -22,6 +22,7 @@ marketRelevance: eu_available
 brands:
   - Nissan
 confidence: 0.9
+brand: Nissan
 ---
 
 # Nissan stoppt E-Achsen-Werk: Leaf-Absatz bricht um 99 % ein

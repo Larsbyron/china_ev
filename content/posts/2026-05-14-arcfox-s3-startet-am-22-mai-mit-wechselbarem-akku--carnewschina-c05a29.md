@@ -1,15 +1,23 @@
 ---
-title: "Arcfox S3 startet am 22. Mai mit wechselbarem Akku ab 8.300 €"
+title: Arcfox S3 startet am 22. Mai mit wechselbarem Akku ab 8.300 €
 date: 2026-05-14T01:04:42.726Z
-description: "Arcfox (极狐) bringt am 22. Mai 2026 die Mittelklasse-Limousine S3 in China auf den Markt. Preise ab ca. 8.300 €, Reichweiten bis 660 km (CLTC) – und eine Version mit tauschbarem Akku."
-source: "CarNewsChina"
-image: "/images/arcfox-s3-startet-am-22-mai-mit-wechselbarem-akku-carnewschina-c05a29.webp"
-category: "news"
-
-tags: ["Tesla", "Reichweite", "Zoll"]
+description: >-
+  Arcfox (极狐) bringt am 22. Mai 2026 die Mittelklasse-Limousine S3 in China auf
+  den Markt. Preise ab ca. 8.300 €, Reichweiten bis 660 km (CLTC) – und eine
+  Version mit tauschbarem Akku.
+source: CarNewsChina
+image: >-
+  /images/arcfox-s3-startet-am-22-mai-mit-wechselbarem-akku-carnewschina-c05a29.webp
+category: news
+tags:
+  - Tesla
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://carnewschina.com/2026/05/13/arcfox-s3-to-officially-launch-on-may-22-with-swappable-battery-option/"
+original_url: >-
+  https://carnewschina.com/2026/05/13/arcfox-s3-to-officially-launch-on-may-22-with-swappable-battery-option/
 read_time_minutes: 2
+brand: BAIC
 ---
 
 # Arcfox S3 startet am 22. Mai mit wechselbarem Akku ab 8.300 €

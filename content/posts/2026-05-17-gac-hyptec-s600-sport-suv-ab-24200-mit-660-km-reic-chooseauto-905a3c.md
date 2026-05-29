@@ -26,6 +26,7 @@ brands:
   - GAC
   - Hyptec
 confidence: 0.9
+brand: GAC
 ---
 
 # GAC Hyptec S600: Sport-SUV ab 24.200 € mit 660 km Reichweite

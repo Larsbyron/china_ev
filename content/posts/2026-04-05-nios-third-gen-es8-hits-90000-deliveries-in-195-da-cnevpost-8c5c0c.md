@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - NIO
 confidence: 0.9
+brand: NIO
 ---
 
 # Nios dritte Generation ES8 erreicht 90.000 Auslieferungen in 195 Tagen

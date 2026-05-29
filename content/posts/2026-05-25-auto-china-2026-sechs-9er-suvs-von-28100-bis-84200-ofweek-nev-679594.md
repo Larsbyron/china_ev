@@ -31,6 +31,7 @@ brands:
   - Volkswagen
   - GAC
 confidence: 0.95
+brand: Li Auto
 ---
 
 # Auto China 2026: Sechs 9er-SUVs von 28.100 € bis 84.200 €

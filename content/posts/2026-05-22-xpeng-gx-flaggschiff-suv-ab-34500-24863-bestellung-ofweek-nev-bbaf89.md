@@ -30,6 +30,7 @@ brands:
   - NIO
   - Li Auto
 confidence: 0.9
+brand: XPeng
 ---
 
 # XPeng GX: Flaggschiff-SUV ab 34.500 € – 24.863 Bestellungen in 12h

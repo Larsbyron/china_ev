@@ -26,6 +26,7 @@ marketRelevance: china_only
 brands:
   - Arcfox
 confidence: 0.95
+brand: BAIC
 ---
 
 # Arcfox Beta S3: Einstieg ab 7.700 € mit Akkutausch

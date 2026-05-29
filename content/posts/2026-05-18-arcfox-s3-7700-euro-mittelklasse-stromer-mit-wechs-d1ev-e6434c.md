@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Arcfox
 confidence: 0.9
+brand: BAIC
 ---
 
 # Arcfox S3: 7.700-Euro-Mittelklasse-Stromer mit Wechselakku

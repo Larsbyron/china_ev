@@ -20,6 +20,7 @@ brands:
   - Audi
   - Xiaomi
 confidence: 0.9
+brand: Xiaomi
 ---
 
 # Audi E7X vs. Xiaomi YU7: 37.000 € kostet der E-Anti-XP

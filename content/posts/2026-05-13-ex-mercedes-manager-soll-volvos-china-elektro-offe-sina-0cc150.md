@@ -8,7 +8,7 @@ description: >-
 source: Sina
 image: /images/ex-mercedes-manager-soll-volvos-china-elektro-offe-sina-0cc150.webp
 category: news
-brand: Geely
+brand: Mercedes-Benz
 tags:
   - Geely
 draft: false

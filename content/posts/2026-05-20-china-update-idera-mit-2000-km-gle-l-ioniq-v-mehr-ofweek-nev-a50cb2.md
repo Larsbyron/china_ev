@@ -31,6 +31,7 @@ brands:
   - Hyundai
   - Bestune
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # China-Update: ID.ERA mit 2.000 km, GLE L, IONIQ V & mehr

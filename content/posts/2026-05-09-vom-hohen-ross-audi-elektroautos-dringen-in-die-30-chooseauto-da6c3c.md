@@ -12,7 +12,7 @@ source: ChooseAuto
 image: >-
   /images/ai-vom-hohen-ross-audi-elektroautos-dringen-in-die-30-chooseauto-da6c3c.webp
 category: news
-brand: NIO
+brand: Audi
 tags:
   - NIO
   - Li Auto

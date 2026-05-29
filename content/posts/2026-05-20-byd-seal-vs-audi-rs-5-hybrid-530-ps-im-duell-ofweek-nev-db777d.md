@@ -1,15 +1,20 @@
 ---
-title: "BYD Seal vs. Audi RS 5 Hybrid: 530 PS im Duell"
+title: 'BYD Seal vs. Audi RS 5 Hybrid: 530 PS im Duell'
 date: 2026-05-20T20:08:49.220Z
-description: "Audi setzt beim RS 5 auf V6-Biturbo und P2-Hybrid. Chinesische E-Autos wie der BYD Seal kontern mit 800‑Volt‑Technik und über 500 PS. Ein Technikvergleich zeigt, wer die Nase vorn hat."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "Batterie", "Reichweite"]
+description: >-
+  Audi setzt beim RS 5 auf V6-Biturbo und P2-Hybrid. Chinesische E-Autos wie der
+  BYD Seal kontern mit 800‑Volt‑Technik und über 500 PS. Ein Technikvergleich
+  zeigt, wer die Nase vorn hat.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+brand: BYD
 ---
 
 # BYD Seal vs. Audi RS 5 Hybrid: 530 PS im Duell

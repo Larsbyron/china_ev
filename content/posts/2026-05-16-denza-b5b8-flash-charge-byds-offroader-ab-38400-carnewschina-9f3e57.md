@@ -9,7 +9,7 @@ source: CarNewsChina
 image: >-
   /images/denza-b5b8-flash-charge-byds-offroader-ab-38400-carnewschina-9f3e57.webp
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - Reichweite

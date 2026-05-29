@@ -10,7 +10,7 @@ source: CarNewsChina
 image: >-
   /images/zeekr-8x-885-ps-hybrid-suv-ab-42200-europa-start-2-carnewschina-3940be.webp
 category: news
-brand: Li Auto
+brand: Zeekr
 tags:
   - Li Auto
   - Zeekr

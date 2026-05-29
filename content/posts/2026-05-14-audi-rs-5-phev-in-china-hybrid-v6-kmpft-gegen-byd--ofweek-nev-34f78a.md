@@ -30,6 +30,7 @@ brands:
   - XPeng
   - Li Auto
 confidence: 0.95
+brand: BYD
 ---
 
 # Audi RS 5 PHEV in China: Hybrid-V6 kämpft gegen BYD & Co.

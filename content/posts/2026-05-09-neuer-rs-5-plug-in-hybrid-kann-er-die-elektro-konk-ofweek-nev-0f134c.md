@@ -23,6 +23,7 @@ marketRelevance: eu_available
 brands:
   - Audi
 confidence: 0.9
+brand: BMW
 ---
 
 # Neuer RS 5 Plug-in-Hybrid: Kann er die Elektro-Konkurrenz herausfordern?

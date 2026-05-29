@@ -27,6 +27,7 @@ brands:
   - BYD
   - Linghui
 confidence: 0.95
+brand: BYD
 ---
 
 # BYD Linghui E7: Neue Marke für den Fahrdienstmarkt

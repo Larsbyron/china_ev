@@ -8,7 +8,7 @@ description: >-
 source: CarNewsChina
 image: /images/zeekr-009-luxus-mpv-mit-900v-startet-ab-56300-carnewschina-be140c.webp
 category: news
-brand: Geely
+brand: Zeekr
 tags:
   - Geely
   - Zeekr

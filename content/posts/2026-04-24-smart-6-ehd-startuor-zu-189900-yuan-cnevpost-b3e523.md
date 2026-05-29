@@ -25,6 +25,7 @@ brands:
   - Mercedes-Benz
   - Geely
 confidence: 0.95
+brand: Geely
 ---
 
 # Smart #6 EHD: Das größte Modell der Marke startet in den Vorverkauf

@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Beijing
 confidence: 0.9
+brand: Great Wall
 ---
 
 # BJ40 EREV startet ab 27.500 €, Beijing 81 blind buchbar

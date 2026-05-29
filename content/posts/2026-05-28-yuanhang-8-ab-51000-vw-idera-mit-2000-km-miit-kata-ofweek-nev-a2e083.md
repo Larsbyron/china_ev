@@ -1,15 +1,26 @@
 ---
-title: "Yuanhang 8 ab 51.000 €, VW ID.ERA mit 2.000 km – MIIT-Katalog 407"
+title: 'Yuanhang 8 ab 51.000 €, VW ID.ERA mit 2.000 km – MIIT-Katalog 407'
 date: 2026-05-28T20:17:21.694Z
-description: "Der 407. MIIT-Katalog zeigt: Chinesische Hersteller starten eine Modelloffensive. Yuanhang 8 (Fullsize-SUV ab 51.000 €), VW ID.ERA (erster China-VW mit Stadtpilot) und der verlängerte Mercedes GLE L sind die Highlights."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "XPeng", "Xpeng", "Li Auto", "Tesla", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Der 407. MIIT-Katalog zeigt: Chinesische Hersteller starten eine
+  Modelloffensive. Yuanhang 8 (Fullsize-SUV ab 51.000 €), VW ID.ERA (erster
+  China-VW mit Stadtpilot) und der verlängerte Mercedes GLE L sind die
+  Highlights.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 4
+brand: Volkswagen
 ---
 
 # Yuanhang 8 ab 51.000 €, VW ID.ERA mit 2.000 km – MIIT-Katalog 407

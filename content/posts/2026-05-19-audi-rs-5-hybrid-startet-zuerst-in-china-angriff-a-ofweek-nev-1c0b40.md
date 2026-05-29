@@ -25,6 +25,7 @@ brands:
   - BYD
   - NIO
 confidence: 0.9
+brand: BYD
 ---
 
 # Audi RS 5 Hybrid startet zuerst in China – Angriff auf BYD & Nio

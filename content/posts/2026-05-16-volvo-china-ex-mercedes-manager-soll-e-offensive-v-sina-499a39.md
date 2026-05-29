@@ -8,7 +8,7 @@ description: >-
 source: Sina
 image: /images/volvo-china-ex-mercedes-manager-soll-e-offensive-v-sina-499a39.webp
 category: news
-brand: Geely
+brand: Mercedes-Benz
 tags:
   - Geely
 draft: false

@@ -25,6 +25,7 @@ brands:
   - Zeekr
   - Geely
 confidence: 0.95
+brand: Zeekr
 ---
 
 # Zeekr 8X: Überraschend günstiger Startpreis für den neuen Hybrid-SUV

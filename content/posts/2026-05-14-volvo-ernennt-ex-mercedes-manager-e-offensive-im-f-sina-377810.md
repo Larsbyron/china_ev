@@ -8,7 +8,7 @@ description: >-
 source: Sina
 image: /images/volvo-ernennt-ex-mercedes-manager-e-offensive-im-f-sina-377810.webp
 category: news
-brand: Geely
+brand: Mercedes-Benz
 tags:
   - Geely
   - BYD

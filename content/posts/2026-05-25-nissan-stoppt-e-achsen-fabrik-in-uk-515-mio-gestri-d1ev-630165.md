@@ -22,6 +22,7 @@ marketRelevance: eu_available
 brands:
   - Nissan
 confidence: 0.95
+brand: Nissan
 ---
 
 # Nissan stoppt E-Achsen-Fabrik in UK: 515 Mio. € gestrichen

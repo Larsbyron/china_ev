@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - BYD
 confidence: 0.95
+brand: BYD
 ---
 
 # BYD Sealion 05: Aktualisierte Modellpalette mit neuen Technologiehöhepunkten

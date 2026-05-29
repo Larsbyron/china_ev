@@ -25,6 +25,7 @@ brands:
   - GAC
   - HYPER
 confidence: 0.95
+brand: GAC
 ---
 
 # Hyper S600: 503 PS ab 24.200 € Aktionspreis

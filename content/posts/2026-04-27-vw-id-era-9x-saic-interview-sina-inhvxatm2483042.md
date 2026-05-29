@@ -10,7 +10,7 @@ description: >-
 source: Sina
 image: /images/vw-id-era-9x-saic-interview-sina-inhvxatm2483042.webp
 category: news
-brand: Volkswagen
+brand: SAIC
 tags:
   - Volkswagen
   - SAIC Volkswagen

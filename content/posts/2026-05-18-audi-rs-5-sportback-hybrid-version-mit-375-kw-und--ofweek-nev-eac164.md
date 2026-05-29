@@ -21,6 +21,7 @@ marketRelevance: china_only
 brands:
   - Audi
 confidence: 0.95
+brand: Audi
 ---
 
 # Audi RS 5 Sportback: Hybrid-Version mit 375 kW und E-Boost

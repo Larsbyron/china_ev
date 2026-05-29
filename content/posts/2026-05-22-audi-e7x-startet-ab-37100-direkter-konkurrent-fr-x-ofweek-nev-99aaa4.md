@@ -27,6 +27,7 @@ brands:
   - Audi
   - Xiaomi
 confidence: 0.9
+brand: Xiaomi
 ---
 
 # Audi E7X startet ab 37.100 € – direkter Konkurrent für Xiaomi YU7

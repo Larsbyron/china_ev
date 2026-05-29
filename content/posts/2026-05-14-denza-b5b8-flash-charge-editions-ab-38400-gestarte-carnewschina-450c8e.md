@@ -9,7 +9,7 @@ source: CarNewsChina
 image: >-
   /images/denza-b5b8-flash-charge-editions-ab-38400-gestarte-carnewschina-450c8e.webp
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - Reichweite

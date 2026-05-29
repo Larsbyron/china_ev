@@ -26,6 +26,7 @@ brands:
   - Onvo
   - NIO
 confidence: 0.95
+brand: Onvo
 ---
 
 # Onvo L90: Fahrzeuge erreichen die Händler – Vorverkauf startet in zwei Tagen

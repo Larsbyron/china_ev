@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Beijing
 confidence: 0.9
+brand: BAIC
 ---
 
 # Beijing BJ40 EREV: 252 km E-Reichweite, 21. Mai Start

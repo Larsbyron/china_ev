@@ -8,7 +8,7 @@ description: >-
 source: Autohome NewEnergy
 image: /images/ai-fangchengbao-bao5-bao8-flash-charge-autohome-NE-1314127.webp
 category: news
-brand: BYD
+brand: null
 tags:
   - FangChengBao
   - BYD

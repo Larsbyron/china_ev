@@ -1,15 +1,24 @@
 ---
-title: "Toyota bZ7 & VW ID.ERA: Joint-Venture-EVs ab 19.500 € im Test"
+title: 'Toyota bZ7 & VW ID.ERA: Joint-Venture-EVs ab 19.500 € im Test'
 date: 2026-05-21T06:44:36.909Z
-description: "Toyota bZ7, VW ID.ERA 9X und GAC NX8: Drei Joint-Venture-EVs aus China zeigen, wie etablierte Hersteller aufholen. Mit Preisen ab 19.500 € und überraschend starker Fahrassistenz."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Leapmotor", "Zoll", "E-Auto", "EV"]
+description: >-
+  Toyota bZ7, VW ID.ERA 9X und GAC NX8: Drei Joint-Venture-EVs aus China zeigen,
+  wie etablierte Hersteller aufholen. Mit Preisen ab 19.500 € und überraschend
+  starker Fahrassistenz.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Leapmotor
+  - Zoll
+  - E-Auto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 4
+brand: Volkswagen
 ---
 
 # Toyota bZ7 & VW ID.ERA: Joint-Venture-EVs ab 19.500 € im Test

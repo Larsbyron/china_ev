@@ -24,6 +24,7 @@ primaryTopic: modelle-marktstarts
 secondaryTopics: []
 brands: []
 confidence: 0.5
+brand: Audi
 ---
 
 # Audi RS 5 PHEV: 510 PS Hybrid-Sportler mit 22-kWh-Batterie

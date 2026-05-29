@@ -10,7 +10,7 @@ description: >-
 source: Sina
 image: /images/ideal-vs-hongmeng-die-wette-auf-die-unterschiedlic-sina-f2e617.webp
 category: news
-brand: Li Auto
+brand: Huawei
 tags:
   - Li Auto
   - MG

@@ -30,6 +30,7 @@ brands:
   - Audi
   - Volkswagen
 confidence: 0.9
+brand: BMW
 ---
 
 # Auto China 2026: BMW i3 mit 900 km Reichweite, Mercedes und VW attackieren

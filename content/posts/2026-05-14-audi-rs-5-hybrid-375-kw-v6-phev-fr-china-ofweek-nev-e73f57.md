@@ -26,6 +26,7 @@ brands:
   - NIO
   - Xiaomi
 confidence: 0.95
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid: 375 kW V6-PHEV für China

@@ -32,6 +32,7 @@ brands:
   - BYD
   - Li Auto
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 PHEV: Deutscher V6-Hybrid im Visier chinesischer Premium-Konkurrenten

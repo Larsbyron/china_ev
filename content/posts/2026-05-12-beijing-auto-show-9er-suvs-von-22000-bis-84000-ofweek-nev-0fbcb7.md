@@ -1,15 +1,23 @@
 ---
-title: "Beijing Auto Show: 9er-SUVs von 22.000 bis 84.000 €"
+title: 'Beijing Auto Show: 9er-SUVs von 22.000 bis 84.000 €'
 date: 2026-05-12T10:35:23.619Z
-description: "Sechs chinesische Top-SUVs mit „9' im Namen kämpfen um die Krone: Preise von 21,98 bis 65,8 Mio. Yuan (ca. 28.100 bis 84.200 €). Reichweiten bis 1.500 km (CLTC). Europa vorerst ohne diese Modelle."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "Li Auto", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  Sechs chinesische Top-SUVs mit „9' im Namen kämpfen um die Krone: Preise von
+  21,98 bis 65,8 Mio. Yuan (ca. 28.100 bis 84.200 €). Reichweiten bis 1.500 km
+  (CLTC). Europa vorerst ohne diese Modelle.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - Li Auto
+  - Tesla
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 4
+brand: Li Auto
 ---
 
 # Beijing Auto Show: 9er-SUVs von 22.000 bis 84.000 €

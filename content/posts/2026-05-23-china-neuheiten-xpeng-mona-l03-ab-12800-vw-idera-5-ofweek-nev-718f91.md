@@ -30,6 +30,7 @@ brands:
   - Hyundai
   - Changan
 confidence: 0.95
+brand: XPeng
 ---
 
 # China-Neuheiten: XPeng MONA L03 ab 12.800 €, VW ID.ERA 5S & IONIQ 6

@@ -1,15 +1,18 @@
 ---
-title: "GAC Qijing GT7: PR-Desaster nach 11 Tagen – Vorverkauf startet am 29. Mai"
+title: 'GAC Qijing GT7: PR-Desaster nach 11 Tagen – Vorverkauf startet am 29. Mai'
 date: 2026-05-28T20:15:27.417Z
-description: "Der GAC Qijing GT7 startet am 29. Mai in den Vorverkauf – doch zuvor sorgte eine Designbotschafterin für einen Shitstorm. Nach nur elf Tagen wurde die Zusammenarbeit mit Su Mang beendet. Jetzt wehrt sie sich juristisch."
-source: "D1EV"
-image: "/images/gac-qijing-gt7-pr-desaster-nach-11-tagen-vorverkau-d1ev-e23c55.webp"
-category: "news"
-
+description: >-
+  Der GAC Qijing GT7 startet am 29. Mai in den Vorverkauf – doch zuvor sorgte
+  eine Designbotschafterin für einen Shitstorm. Nach nur elf Tagen wurde die
+  Zusammenarbeit mit Su Mang beendet. Jetzt wehrt sie sich juristisch.
+source: D1EV
+image: /images/gac-qijing-gt7-pr-desaster-nach-11-tagen-vorverkau-d1ev-e23c55.webp
+category: news
 tags: []
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300876"
+original_url: 'https://www.d1ev.com/news/shichang/300876'
 read_time_minutes: 3
+brand: GAC
 ---
 
 # GAC Qijing GT7: PR-Desaster nach 11 Tagen – Vorverkauf startet am 29. Mai

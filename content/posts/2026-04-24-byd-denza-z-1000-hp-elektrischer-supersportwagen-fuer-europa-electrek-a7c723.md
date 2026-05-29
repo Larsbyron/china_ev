@@ -27,6 +27,7 @@ brands:
   - BYD
   - Denza
 confidence: 0.9
+brand: BYD
 ---
 
 # BYD Denza Z: Der Elektro-Supersportwagen aus China für Europa

@@ -20,6 +20,7 @@ marketRelevance: global_industry
 brands:
   - Chery
 confidence: 0.9
+brand: Chery
 ---
 
 # Chery erneut zu „Chinas beliebtestem Unternehmen“ gewählt

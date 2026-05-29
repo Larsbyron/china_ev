@@ -30,6 +30,7 @@ brands:
   - Mercedes
   - BMW
 confidence: 0.9
+brand: BMW
 ---
 
 # VW, Mercedes, BMW: China-Offensive auf der Auto Shanghai 2026

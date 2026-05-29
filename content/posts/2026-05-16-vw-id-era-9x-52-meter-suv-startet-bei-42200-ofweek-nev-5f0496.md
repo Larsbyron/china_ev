@@ -28,6 +28,7 @@ brands:
   - AITO
   - Li Auto
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: 5,2-Meter-SUV startet bei 42.200 €

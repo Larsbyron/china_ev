@@ -28,6 +28,7 @@ marketRelevance: china_only
 brands:
   - NIO
 confidence: 0.9
+brand: NIO
 ---
 
 # Nio-Chef William Li: Herausforderndes Quartal voraus

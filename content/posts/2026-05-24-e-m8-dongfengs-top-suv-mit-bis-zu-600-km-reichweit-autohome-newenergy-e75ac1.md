@@ -27,6 +27,7 @@ brands:
   - Dongfeng
   - Huawei
 confidence: 0.9
+brand: Huawei
 ---
 
 # eπ M8: Dongfengs Top-SUV mit bis zu 600 km Reichweite

@@ -28,6 +28,7 @@ brands:
   - Li Auto
   - AITO
 confidence: 0.95
+brand: NIO
 ---
 
 # Peking 2026: 9 SUV-Flaggschiffe von 28.100 bis 84.200 €

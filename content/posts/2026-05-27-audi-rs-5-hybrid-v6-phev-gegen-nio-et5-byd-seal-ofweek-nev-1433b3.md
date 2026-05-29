@@ -28,6 +28,7 @@ brands:
   - BYD
   - NIO
 confidence: 0.9
+brand: BYD
 ---
 
 # Audi RS 5 Hybrid: V6-PHEV gegen NIO ET5 & BYD Seal

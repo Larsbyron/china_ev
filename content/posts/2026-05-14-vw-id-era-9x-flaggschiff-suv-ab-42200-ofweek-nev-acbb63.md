@@ -27,6 +27,7 @@ brands:
   - NIO
   - Li Auto
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: Flaggschiff-SUV ab 42.200 €

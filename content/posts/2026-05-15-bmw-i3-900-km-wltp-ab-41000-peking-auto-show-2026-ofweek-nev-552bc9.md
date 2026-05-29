@@ -30,6 +30,7 @@ brands:
   - Audi
   - Volkswagen
 confidence: 0.9
+brand: BMW
 ---
 
 # BMW i3: 900 km WLTP ab 41.000 € – Peking Auto Show 2026

@@ -26,6 +26,7 @@ brands:
   - Volkswagen
   - Jetta
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # Peking Auto Show 2026: BBA und VW starten Elektro-Offensive

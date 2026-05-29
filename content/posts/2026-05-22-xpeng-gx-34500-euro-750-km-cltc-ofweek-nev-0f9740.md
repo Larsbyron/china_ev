@@ -27,6 +27,7 @@ marketRelevance: china_only
 brands:
   - XPeng
 confidence: 0.9
+brand: XPeng
 ---
 
 # XPeng GX: 34.500 Euro, 750 km CLTC

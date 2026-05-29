@@ -8,7 +8,7 @@ description: >-
 source: Sina
 image: /images/volvo-china-duan-jianjun-folgt-auf-yuan-xiaolin-we-sina-a51008.webp
 category: news
-brand: Geely
+brand: Volvo
 tags:
   - Geely
 draft: false

@@ -27,6 +27,7 @@ brands:
   - BYD
   - NIO
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid: Über 510 PS PHEV ab 105.000 €

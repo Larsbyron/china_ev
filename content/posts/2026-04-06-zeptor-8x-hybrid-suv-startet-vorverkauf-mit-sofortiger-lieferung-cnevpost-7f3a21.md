@@ -27,6 +27,7 @@ brands:
   - Zeekr
   - Geely
 confidence: 0.9
+brand: Zeekr
 ---
 
 # Zeekr 8X: Geelys Premium-Marke startet Vorverkauf des Hybrid-SUVs

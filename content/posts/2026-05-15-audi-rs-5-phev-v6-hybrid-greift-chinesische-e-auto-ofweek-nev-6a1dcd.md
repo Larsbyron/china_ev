@@ -29,6 +29,7 @@ brands:
   - NIO
   - XPeng
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 PHEV: V6-Hybrid greift chinesische E-Autos an

@@ -10,7 +10,7 @@ description: >-
 source: Autohome NewEnergy
 image: /images/ai-lantu-fe-erlkoenig-huawei-ads5-2026-autohome-NE-1314145.webp
 category: news
-brand: Lantu
+brand: Huawei
 tags:
   - Lantu
   - FE

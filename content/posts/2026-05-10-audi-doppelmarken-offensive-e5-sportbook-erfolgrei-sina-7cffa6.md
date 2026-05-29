@@ -20,6 +20,7 @@ marketRelevance: china_only
 brands:
   - Audi
 confidence: 0.95
+brand: Audi
 ---
 
 # Audi Doppelmarken-Offensive: E5 Sportbook erfolgreich, E7X kommt

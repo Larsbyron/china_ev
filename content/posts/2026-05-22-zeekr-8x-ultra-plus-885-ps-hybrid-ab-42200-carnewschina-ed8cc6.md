@@ -8,7 +8,7 @@ description: >-
 source: CarNewsChina
 image: /images/zeekr-8x-ultra-plus-885-ps-hybrid-ab-42200-carnewschina-ed8cc6.webp
 category: news
-brand: Li Auto
+brand: Zeekr
 tags:
   - Li Auto
   - Geely

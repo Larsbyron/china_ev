@@ -8,7 +8,7 @@ description: >-
 source: Sina
 image: /images/volvo-china-neuer-chef-duan-jianjun-von-mercedes-sina-80c370.webp
 category: news
-brand: Geely
+brand: Mercedes-Benz
 tags:
   - Geely
   - NIO

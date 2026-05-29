@@ -22,6 +22,7 @@ marketRelevance: de_available
 brands:
   - Audi
 confidence: 0.95
+brand: Audi
 ---
 
 # Audi RS 5 PHEV: Sportlimousine mit Hybrid-Boost

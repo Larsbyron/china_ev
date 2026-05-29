@@ -25,6 +25,7 @@ brands:
   - VW
   - GAC
 confidence: 0.9
+brand: BYD
 ---
 
 # BYD vs. VW vs. GAC: Drei China-SUVs ab 16.600 € im Test

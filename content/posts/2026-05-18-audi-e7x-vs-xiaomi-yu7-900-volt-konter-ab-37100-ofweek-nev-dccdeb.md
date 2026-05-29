@@ -21,6 +21,7 @@ brands:
   - Audi
   - Xiaomi
 confidence: 0.9
+brand: Xiaomi
 ---
 
 # Audi E7X vs. Xiaomi YU7: 900-Volt-Konter ab 37.100 €

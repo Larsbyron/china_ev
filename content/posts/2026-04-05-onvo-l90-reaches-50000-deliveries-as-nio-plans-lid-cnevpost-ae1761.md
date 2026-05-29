@@ -25,6 +25,7 @@ brands:
   - NIO
   - ONVO
 confidence: 0.8
+brand: NIO
 ---
 
 # Onvo L90 erreicht 50.000 Auslieferungen, während Nio ein LiDAR-Upgrade plant

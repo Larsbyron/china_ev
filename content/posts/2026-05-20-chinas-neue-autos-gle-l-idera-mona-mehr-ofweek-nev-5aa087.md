@@ -1,15 +1,25 @@
 ---
-title: "Chinas neue Autos: GLE L, ID.ERA, MONA & mehr"
+title: 'Chinas neue Autos: GLE L, ID.ERA, MONA & mehr'
 date: 2026-05-20T12:18:15.789Z
-description: "Mercedes GLE L verlängert um 12 cm, VW ID.ERA 5S mit 2000 km Reichweite, XPeng MONA L03/L05, Hyundai V und Tank 8: die neuesten MIIT-Anmeldungen im Überblick."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "XPeng", "Xpeng", "Li Auto", "Tesla", "Reichweite", "Zoll", "EV"]
+description: >-
+  Mercedes GLE L verlängert um 12 cm, VW ID.ERA 5S mit 2000 km Reichweite, XPeng
+  MONA L03/L05, Hyundai V und Tank 8: die neuesten MIIT-Anmeldungen im
+  Überblick.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - Tesla
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 4
+brand: Mercedes-Benz
 ---
 
 # Chinas neue Autos: GLE L, ID.ERA, MONA & mehr

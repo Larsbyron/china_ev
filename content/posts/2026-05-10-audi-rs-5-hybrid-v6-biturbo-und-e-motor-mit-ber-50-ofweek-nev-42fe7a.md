@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Audi
 confidence: 0.85
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid: V6-Biturbo und E-Motor mit über 500 PS

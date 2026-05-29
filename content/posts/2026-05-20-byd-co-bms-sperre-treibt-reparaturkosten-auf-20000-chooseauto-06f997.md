@@ -31,6 +31,7 @@ brands:
   - NIO
   - Xpeng
 confidence: 0.9
+brand: BYD
 ---
 
 # BYD & Co.: BMS-Sperre treibt Reparaturkosten auf 20.000 €

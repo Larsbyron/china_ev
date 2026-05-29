@@ -29,6 +29,7 @@ brands:
   - XPeng
   - BYD
 confidence: 0.95
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid: 600 PS für China – Preis umgerechnet 108.800 €

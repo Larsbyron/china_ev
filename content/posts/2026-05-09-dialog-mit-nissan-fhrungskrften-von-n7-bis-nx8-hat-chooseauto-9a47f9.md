@@ -28,6 +28,7 @@ marketRelevance: china_only
 brands:
   - Nissan
 confidence: 0.9
+brand: Nissan
 ---
 
 # Dialog mit Nissan-Führungskräften: Von N7 bis NX8 – hat Nissan endlich den chinesischen Rhythmus getroffen?

@@ -10,7 +10,7 @@ source: Autohome NewEnergy
 image: >-
   /images/denza-n9-flash-edition-mit-420-km-reichweite-start-autohome-newenergy-b1208d.webp
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - Batterie

@@ -27,6 +27,7 @@ marketRelevance: china_only
 brands:
   - Great Wall
 confidence: 0.85
+brand: Great Wall
 ---
 
 # Great Wall Menglong PLUS: 255 km E-Reichweite + Allrad ab 20.700 €

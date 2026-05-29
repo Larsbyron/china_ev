@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - Wuling
 confidence: 0.95
+brand: Huawei
 ---
 
 # Wuling Bingo Pro ab 7.300 €: 403 km Reichweite, 3C-Schnellladung

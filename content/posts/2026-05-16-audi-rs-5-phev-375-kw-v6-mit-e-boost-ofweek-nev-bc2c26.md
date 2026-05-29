@@ -26,6 +26,7 @@ marketRelevance: china_only
 brands:
   - Audi
 confidence: 0.95
+brand: Audi
 ---
 
 # Audi RS 5 PHEV: 375 kW V6 mit E-Boost

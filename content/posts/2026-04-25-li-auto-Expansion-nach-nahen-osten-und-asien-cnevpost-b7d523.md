@@ -24,6 +24,7 @@ marketRelevance: global_industry
 brands:
   - Li Auto
 confidence: 0.9
+brand: Li Auto
 ---
 
 # Li Auto: Internationale Offensive startet im Nahen Osten

@@ -18,6 +18,7 @@ marketRelevance: china_only
 brands:
   - Qijing
 confidence: 0.95
+brand: GAC
 ---
 
 # Qijing GT7: Botschafterin raus, Pre-Sale trotzdem am 29. Mai

@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - AVATR
 confidence: 0.9
+brand: Avatr
 ---
 
 # AVATR 07L: Längere Version mit 2.990 mm Radstand vorgestellt

@@ -1,15 +1,21 @@
 ---
-title: "Ab 19.200 €: Chery NX8, BYD Seal 07 & VW ID.ERA im Familiencheck"
+title: 'Ab 19.200 €: Chery NX8, BYD Seal 07 & VW ID.ERA im Familiencheck'
 date: 2026-05-13T23:42:24.062Z
-description: "Drei chinesische Familien-SUVs im Detailtest: Chery NX8 (ab 19.200 €), BYD Seal 07 (ab ca. 23.000 €) und VW ID.ERA 9X (ab 44.800 €). Mit Fahreindrücken und Assistenzsystemen – kommen die Modelle nach Europa?"
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "Reichweite", "Zoll", "EV"]
+description: >-
+  Drei chinesische Familien-SUVs im Detailtest: Chery NX8 (ab 19.200 €), BYD
+  Seal 07 (ab ca. 23.000 €) und VW ID.ERA 9X (ab 44.800 €). Mit Fahreindrücken
+  und Assistenzsystemen – kommen die Modelle nach Europa?
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 3
+brand: BYD
 ---
 
 # Ab 19.200 €: Chery NX8, BYD Seal 07 & VW ID.ERA im Familiencheck

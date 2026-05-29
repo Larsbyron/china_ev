@@ -1,15 +1,22 @@
 ---
-title: "Arcfox und Stelato: BAICs Elektro-Zweig mit 800V und Huawei"
+title: 'Arcfox und Stelato: BAICs Elektro-Zweig mit 800V und Huawei'
 date: 2026-05-17T05:47:09.171Z
-description: "BAIC BluePark setzt auf zwei Marken: Arcfox für die Mittelklasse und Stelato (mit Huawei) für Luxus. Modelle wie der Alpha T5 bieten 800V und CATL-Batterien ab 19.200 €. Ein Europa-Start ist offen."
-source: "D1EV"
-image: "/images/arcfox-und-stelato-baics-elektro-zweig-mit-800v-un-d1ev-f662f5.webp"
-category: "news"
-
-tags: ["MG", "Batterie", "Elektroauto", "EV"]
+description: >-
+  BAIC BluePark setzt auf zwei Marken: Arcfox für die Mittelklasse und Stelato
+  (mit Huawei) für Luxus. Modelle wie der Alpha T5 bieten 800V und
+  CATL-Batterien ab 19.200 €. Ein Europa-Start ist offen.
+source: D1EV
+image: /images/arcfox-und-stelato-baics-elektro-zweig-mit-800v-un-d1ev-f662f5.webp
+category: news
+tags:
+  - MG
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299271"
+original_url: 'https://www.d1ev.com/news/shichang/299271'
 read_time_minutes: 2
+brand: Huawei
 ---
 
 # Arcfox und Stelato: BAICs Elektro-Zweig mit 800V und Huawei

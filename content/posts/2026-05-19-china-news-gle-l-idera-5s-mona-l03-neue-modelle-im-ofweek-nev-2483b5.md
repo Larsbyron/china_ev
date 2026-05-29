@@ -1,15 +1,25 @@
 ---
-title: "China-News: GLE L, ID.ERA 5S, MONA L03 – neue Modelle im Anmarsch"
+title: 'China-News: GLE L, ID.ERA 5S, MONA L03 – neue Modelle im Anmarsch'
 date: 2026-05-19T06:05:49.081Z
-description: "Die chinesische Zulassungsbehörde zeigt sieben neue Modelle: Mercedes GLE L, VW ID.ERA 5S, XPeng MONA L03/L05, Hyundai IONIQ V und FAW Toyota 8. Alle Infos zu Preisen und Reichweiten."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["XPeng", "Xpeng", "Li Auto", "MG", "Tesla", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  Die chinesische Zulassungsbehörde zeigt sieben neue Modelle: Mercedes GLE L,
+  VW ID.ERA 5S, XPeng MONA L03/L05, Hyundai IONIQ V und FAW Toyota 8. Alle Infos
+  zu Preisen und Reichweiten.
+source: OFweek NEV
+category: news
+tags:
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - MG
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 5
+brand: Mercedes-Benz
 ---
 
 # China-News: GLE L, ID.ERA 5S, MONA L03 – neue Modelle im Anmarsch

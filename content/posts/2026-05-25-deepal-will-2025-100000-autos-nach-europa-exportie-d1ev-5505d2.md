@@ -18,6 +18,7 @@ primaryTopic: modelle-marktstarts
 secondaryTopics: []
 brands: []
 confidence: 0.5
+brand: Deepal
 ---
 
 # Deepal will 2025 100.000 Autos nach Europa exportieren

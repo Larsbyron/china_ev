@@ -9,7 +9,7 @@ source: CarNewsChina
 image: >-
   /images/denza-z9-gt-batterietausch-fr-unter-10200-euro-carnewschina-c5778e.webp
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - MG

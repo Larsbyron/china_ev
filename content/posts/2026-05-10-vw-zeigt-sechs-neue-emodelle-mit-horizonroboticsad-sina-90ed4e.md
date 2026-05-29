@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - VW
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # VW zeigt sechs neue E‑Modelle mit Horizon‑Robotics‑ADAS

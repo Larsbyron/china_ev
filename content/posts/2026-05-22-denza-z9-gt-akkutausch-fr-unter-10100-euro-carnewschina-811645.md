@@ -1,14 +1,22 @@
 ---
-title: "Denza Z9 GT: Akkutausch für unter 10.100 Euro"
+title: 'Denza Z9 GT: Akkutausch für unter 10.100 Euro'
 date: 2026-05-22T11:05:20.740Z
-description: "BYDs Luxus-Submarke Denza zeigt, wie günstig ein Batteriewechsel sein kann: 78.700 Yuan (ca. 10.100 €) für den 122,5-kWh-Blade-2.0-Akku. Der Z9 GT kommt 2026 nach Europa – zum doppelten Preis."
-source: "CarNewsChina"
-image: "/images/denza-z9-gt-akkutausch-fr-unter-10100-euro-carnewschina-811645.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "EV"]
+description: >-
+  BYDs Luxus-Submarke Denza zeigt, wie günstig ein Batteriewechsel sein kann:
+  78.700 Yuan (ca. 10.100 €) für den 122,5-kWh-Blade-2.0-Akku. Der Z9 GT kommt
+  2026 nach Europa – zum doppelten Preis.
+source: CarNewsChina
+image: /images/denza-z9-gt-akkutausch-fr-unter-10100-euro-carnewschina-811645.webp
+category: news
+brand: Denza
+tags:
+  - BYD
+  - MG
+  - Batterie
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/21/byd-blade-battery-2-0-replacement-less-than-11600-usd-in-china-says-denza-z9-gt-ev-owner/"
+original_url: >-
+  https://carnewschina.com/2026/05/21/byd-blade-battery-2-0-replacement-less-than-11600-usd-in-china-says-denza-z9-gt-ev-owner/
 read_time_minutes: 2
 ---
 

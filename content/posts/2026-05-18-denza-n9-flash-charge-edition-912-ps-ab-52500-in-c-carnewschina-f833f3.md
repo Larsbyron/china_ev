@@ -9,7 +9,7 @@ source: CarNewsChina
 image: >-
   /images/denza-n9-flash-charge-edition-912-ps-ab-52500-in-c-carnewschina-f833f3.webp
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - Batterie

@@ -8,7 +8,7 @@ description: >-
 source: CarNewsChina
 image: /images/zeekr-8x-885-ps-hybrid-suv-startet-bei-42200-carnewschina-9c6979.webp
 category: news
-brand: Li Auto
+brand: Zeekr
 tags:
   - Li Auto
   - Geely

@@ -23,6 +23,7 @@ brands:
   - Audi
   - XPeng
 confidence: 0.9
+brand: XPeng
 ---
 
 # Audi E7X und XPeng YU7: Elektro-SUVs ab 37.100 Euro im Vergleich

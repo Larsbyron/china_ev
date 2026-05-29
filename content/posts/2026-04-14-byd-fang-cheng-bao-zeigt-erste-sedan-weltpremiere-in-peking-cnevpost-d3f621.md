@@ -26,6 +26,7 @@ brands:
   - BYD
   - Fang Cheng Bao
 confidence: 0.9
+brand: BYD
 ---
 
 # BYD Submarke Fang Cheng Bao zeigt erste Limousine

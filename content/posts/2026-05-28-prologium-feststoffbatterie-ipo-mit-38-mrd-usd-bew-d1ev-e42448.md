@@ -23,6 +23,7 @@ marketRelevance: eu_planned
 brands:
   - ProLogium
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # ProLogium: Feststoffbatterie-IPO mit 3,8 Mrd. USD Bewertung

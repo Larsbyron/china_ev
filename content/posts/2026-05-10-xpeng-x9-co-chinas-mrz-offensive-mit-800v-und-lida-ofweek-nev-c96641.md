@@ -31,6 +31,7 @@ brands:
   - BYD
   - MG
 confidence: 0.9
+brand: XPeng
 ---
 
 # XPeng X9 & Co.: Chinas März-Offensive mit 800V und Lidar

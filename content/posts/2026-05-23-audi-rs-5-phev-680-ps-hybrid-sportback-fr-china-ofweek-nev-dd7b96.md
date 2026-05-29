@@ -29,6 +29,7 @@ brands:
   - XPeng
   - Li Auto
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 PHEV: 680 PS Hybrid-Sportback für China

@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - NIO
 confidence: 0.95
+brand: NIO
 ---
 
 # Nio ES8: 100.000 Einheiten in Rekordzeit

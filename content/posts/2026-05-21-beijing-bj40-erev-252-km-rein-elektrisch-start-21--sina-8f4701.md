@@ -23,6 +23,7 @@ marketRelevance: china_only
 brands:
   - Beijing (BAIC)
 confidence: 0.95
+brand: BAIC
 ---
 
 # Beijing BJ40 EREV: 252 km rein elektrisch, Start 21. Mai

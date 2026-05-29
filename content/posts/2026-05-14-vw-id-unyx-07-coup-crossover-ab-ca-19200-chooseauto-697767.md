@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - VW
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # VW ID. UNYX 07: Coupé-Crossover ab ca. 19.200 €

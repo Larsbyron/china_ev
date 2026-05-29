@@ -20,6 +20,7 @@ brands:
   - Audi
   - Xiaomi
 confidence: 0.95
+brand: Xiaomi
 ---
 
 # Audi E7X gegen Xiaomi YU7: 30.000-Euro-SUV-Duell

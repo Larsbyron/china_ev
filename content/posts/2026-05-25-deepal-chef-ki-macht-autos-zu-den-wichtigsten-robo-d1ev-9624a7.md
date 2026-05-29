@@ -21,6 +21,7 @@ brands:
   - Deepal
   - Changan
 confidence: 0.8
+brand: Deepal
 ---
 
 # Deepal-Chef: „KI macht Autos zu den wichtigsten Robotern“

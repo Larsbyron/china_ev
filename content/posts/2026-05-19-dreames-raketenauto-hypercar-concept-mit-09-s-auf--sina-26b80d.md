@@ -1,14 +1,24 @@
 ---
-title: "Dreames Raketenauto: Hypercar-Concept mit 0,9 s auf 100 km/h"
+title: 'Dreames Raketenauto: Hypercar-Concept mit 0,9 s auf 100 km/h'
 date: 2026-05-19T19:52:48.238Z
-description: "Dreame, bisher bekannt für Staubsauger-Roboter, präsentiert ein Hypercar-Concept mit Raketenantrieb. Die 0,9-Sekunden-Beschleunigung soll eine neue Ära einläuten – doch Branchenexperten bezweifeln die Serienreife des Projekts."
-source: "Sina"
-image: "/images/dreames-raketenauto-hypercar-concept-mit-09-s-auf-sina-26b80d.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Li Auto", "Tesla", "Batterie", "EV"]
+description: >-
+  Dreame, bisher bekannt für Staubsauger-Roboter, präsentiert ein
+  Hypercar-Concept mit Raketenantrieb. Die 0,9-Sekunden-Beschleunigung soll eine
+  neue Ära einläuten – doch Branchenexperten bezweifeln die Serienreife des
+  Projekts.
+source: Sina
+image: /images/dreames-raketenauto-hypercar-concept-mit-09-s-auf-sina-26b80d.webp
+category: news
+brand: Xiaomi
+tags:
+  - NIO
+  - Li Auto
+  - Tesla
+  - Batterie
+  - EV
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml
 read_time_minutes: 3
 ---
 

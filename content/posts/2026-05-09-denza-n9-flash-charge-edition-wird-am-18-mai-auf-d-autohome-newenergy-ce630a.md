@@ -11,7 +11,7 @@ source: Autohome NewEnergy
 image: >-
   /images/denza-n9-flash-charge-edition-wird-am-18-mai-auf-d-autohome-newenergy-ce630a.webp
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - Batterie

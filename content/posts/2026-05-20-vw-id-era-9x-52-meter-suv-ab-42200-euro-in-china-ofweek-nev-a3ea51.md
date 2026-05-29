@@ -28,6 +28,7 @@ brands:
   - NIO
   - Li Auto
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: 5,2-Meter-SUV ab 42.200 Euro in China

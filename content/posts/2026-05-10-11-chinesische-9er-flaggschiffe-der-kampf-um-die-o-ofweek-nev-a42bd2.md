@@ -34,6 +34,7 @@ brands:
   - AITO
   - Stelato
 confidence: 0.9
+brand: BYD
 ---
 
 # 11 chinesische 9er-Flaggschiffe: Der Kampf um die Oberklasse beginnt

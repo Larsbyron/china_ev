@@ -32,6 +32,7 @@ brands:
   - Citroën
   - Hyundai
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # VW ID.ERA 9X ab 42.200 €: Joint Ventures greifen an

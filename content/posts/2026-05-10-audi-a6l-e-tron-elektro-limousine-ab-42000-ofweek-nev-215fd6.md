@@ -32,6 +32,7 @@ brands:
   - XPeng
   - MG
 confidence: 0.95
+brand: Audi
 ---
 
 # Audi A6L e-tron: Elektro-Limousine ab 42.000 €

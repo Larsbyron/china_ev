@@ -27,6 +27,7 @@ brands:
   - BYD
   - CALB
 confidence: 0.95
+brand: BYD
 ---
 
 # Batteriemarkt China: CATL dominiert weiter, BYD gewinnt Anteile

@@ -19,6 +19,7 @@ marketRelevance: china_only
 brands:
   - GWM
 confidence: 0.2
+brand: Smart
 ---
 
 # GWM-Smart-Factory-Marathon: 1:06:45-Stunden-Sieg

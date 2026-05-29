@@ -26,6 +26,7 @@ brands:
   - BYD
   - Geely
 confidence: 0.9
+brand: BYD
 ---
 
 # Mazda CX-3: Hybrid-Comeback 2027 gegen China-EVs

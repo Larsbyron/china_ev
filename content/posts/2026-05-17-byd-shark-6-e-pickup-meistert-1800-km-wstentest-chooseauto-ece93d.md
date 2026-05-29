@@ -23,6 +23,7 @@ marketRelevance: china_only
 brands:
   - BYD
 confidence: 0.9
+brand: BYD
 ---
 
 # BYD Shark 6: E-Pickup meistert 1.800-km-Wüstentest

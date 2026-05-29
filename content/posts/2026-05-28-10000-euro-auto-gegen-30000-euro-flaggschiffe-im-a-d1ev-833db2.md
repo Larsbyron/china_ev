@@ -8,7 +8,7 @@ description: >-
 source: D1EV
 image: /images/10000-euro-auto-gegen-30000-euro-flaggschiffe-im-a-d1ev-833db2.webp
 category: news
-brand: XPeng
+brand: Avatr
 tags:
   - XPeng
   - Xpeng

@@ -10,7 +10,7 @@ source: CarNewsChina
 image: >-
   /images/mg-4x-startet-in-china-ab-11900-mit-semi-solid-sta-carnewschina-533a54.webp
 category: news
-brand: BYD
+brand: MG
 tags:
   - BYD
   - MG

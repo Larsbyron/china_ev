@@ -1,15 +1,24 @@
 ---
-title: "Audi RS 6 Avant Performance: Mildhybrid gegen E-Auto-Übermacht"
+title: 'Audi RS 6 Avant Performance: Mildhybrid gegen E-Auto-Übermacht'
 date: 2026-05-27T20:12:12.339Z
-description: "Der Audi RS 6 Avant performance kombiniert einen 4.0‑Liter‑V8‑Biturbo mit 48‑Volt‑Mildhybrid und Sportdifferenzial. Gegenüber chinesischen Elektro‑Sportlern setzt er auf klassische Ingenieurskunst – verfügbar ab rund 125.000 €."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der Audi RS 6 Avant performance kombiniert einen 4.0‑Liter‑V8‑Biturbo mit
+  48‑Volt‑Mildhybrid und Sportdifferenzial. Gegenüber chinesischen
+  Elektro‑Sportlern setzt er auf klassische Ingenieurskunst – verfügbar ab rund
+  125.000 €.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Batterie
+  - Reichweite
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 3
+brand: Audi
 ---
 
 # Audi RS 6 Avant Performance: Mildhybrid gegen E-Auto-Übermacht

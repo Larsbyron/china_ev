@@ -27,6 +27,7 @@ brands:
   - BYD
   - Lynk & Co
 confidence: 0.9
+brand: BYD
 ---
 
 # Audi RS 5 Hybrid: 510 PS starker PHEV ab 60.000 € greift BYD an

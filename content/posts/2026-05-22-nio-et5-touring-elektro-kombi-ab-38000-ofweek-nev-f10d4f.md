@@ -27,6 +27,7 @@ marketRelevance: china_only
 brands:
   - NIO
 confidence: 0.9
+brand: NIO
 ---
 
 # NIO ET5 Touring: Elektro-Kombi ab 38.000 €

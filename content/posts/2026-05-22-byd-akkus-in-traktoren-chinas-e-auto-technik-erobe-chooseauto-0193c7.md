@@ -27,6 +27,7 @@ brands:
   - BYD
   - CATL
 confidence: 0.9
+brand: BYD
 ---
 
 # BYD-Akkus in Traktoren: Chinas E-Auto-Technik erobert Felder

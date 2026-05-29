@@ -9,7 +9,7 @@ description: >-
 source: D1EV
 image: /images/exeed-sterra-es-dominiert-adas-test-1055-punkte-vo-d1ev-369e0d.webp
 category: news
-brand: BYD
+brand: Aion
 tags:
   - BYD
   - NIO

@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - Voyah
 confidence: 0.95
+brand: Voyah
 ---
 
 # Voyah Tay X8: Chinesisches Top-SUV ab ca. 36.200 €

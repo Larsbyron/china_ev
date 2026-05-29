@@ -27,6 +27,7 @@ marketRelevance: de_available
 brands:
   - Audi
 confidence: 0.8
+brand: Audi
 ---
 
 # Audi RS 5 Hybrid: V6-Biturbo mit E-Motor gegen Elektro-Übermacht

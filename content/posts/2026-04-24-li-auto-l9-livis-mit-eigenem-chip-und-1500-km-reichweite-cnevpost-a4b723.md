@@ -28,6 +28,7 @@ marketRelevance: china_only
 brands:
   - Li Auto
 confidence: 0.95
+brand: Li Auto
 ---
 
 # Li Auto L9 Livis: Das Flaggschiff mit dem ersten eigenen 5-nm-Chip

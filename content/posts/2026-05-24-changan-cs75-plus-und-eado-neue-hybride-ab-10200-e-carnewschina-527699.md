@@ -9,7 +9,7 @@ source: CarNewsChina
 image: >-
   /images/changan-cs75-plus-und-eado-neue-hybride-ab-10200-e-carnewschina-527699.webp
 category: news
-brand: BYD
+brand: Changan
 tags:
   - BYD
   - Geely

@@ -30,6 +30,7 @@ brands:
   - NIO
   - Trumpchi
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # Fangbao, ID.ERA, Trumpchi: Drei chinesische SUV im Test

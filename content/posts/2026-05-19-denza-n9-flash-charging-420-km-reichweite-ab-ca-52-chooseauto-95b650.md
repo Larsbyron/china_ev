@@ -7,7 +7,7 @@ description: >-
   kommen.
 source: ChooseAuto
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - Tesla

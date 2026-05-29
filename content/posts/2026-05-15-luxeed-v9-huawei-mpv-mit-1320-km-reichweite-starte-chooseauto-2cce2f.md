@@ -1,15 +1,22 @@
 ---
-title: "Luxeed V9: Huawei-MPV mit 1.320 km Reichweite startet in China"
+title: 'Luxeed V9: Huawei-MPV mit 1.320 km Reichweite startet in China'
 date: 2026-05-15T10:36:15.513Z
-description: "HIMA bringt den Luxeed V9 als Range-Extender-MPV auf den Markt. Der Siebensitzer bietet bis zu 1.320 km CLTC-Reichweite, 13 Airbags und 800-Volt-Technik – ab 49.900 € (China-Preis)."
-source: "ChooseAuto"
-
-category: "news"
-
-tags: ["MG", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  HIMA bringt den Luxeed V9 als Range-Extender-MPV auf den Markt. Der
+  Siebensitzer bietet bis zu 1.320 km CLTC-Reichweite, 13 Airbags und
+  800-Volt-Technik – ab 49.900 € (China-Preis).
+source: ChooseAuto
+category: news
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/903527.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/903527.shtml'
 read_time_minutes: 3
+brand: Huawei
 ---
 
 # Luxeed V9: Huawei-MPV mit 1.320 km Reichweite startet in China

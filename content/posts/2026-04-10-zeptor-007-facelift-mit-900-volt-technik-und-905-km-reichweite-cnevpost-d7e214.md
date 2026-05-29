@@ -23,6 +23,7 @@ marketRelevance: china_only
 brands:
   - Zeekr
 confidence: 0.95
+brand: Zeekr
 ---
 
 # Zeekr 007 Facelift: 900-Volt-Architektur und bis zu 905 Kilometer Reichweite

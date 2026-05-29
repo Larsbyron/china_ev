@@ -22,6 +22,7 @@ marketRelevance: eu_available
 brands:
   - Audi
 confidence: 0.8
+brand: Audi
 ---
 
 # Audi RS 5 PHEV: 2,9-Liter-V6-Biturbo mit 130-kW-E-Motor

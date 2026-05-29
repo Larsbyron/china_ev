@@ -1,13 +1,24 @@
 ---
-title: "BYD Submarke Fang Cheng Bao: Vom Offroad-Spezialisten zum Sportwagenbauer"
+title: 'BYD Submarke Fang Cheng Bao: Vom Offroad-Spezialisten zum Sportwagenbauer'
 date: 2026-04-24T09:00:00.000Z
-description: "Fang Cheng Bao, bislang bekannt für hochwertige Offroad-SUV, zeigt auf der Peking Autoshow seine ersten Elektro-Sportwagen. Die neue Formula-S-Reihe und ein Formula-X-Coupé erweitern das Portfolio."
-source: "Electrek"
-image: "/images/ai-byd-fang-cheng-bao-erdebaut-von-suv-zu-sportwagen-und-sedan-electrek-b2f834.webp"
-category: "news"
-tags: ["BYD", "Fang Cheng Bao", "Sportwagen", "Formula S", "Peking Autoshow"]
+description: >-
+  Fang Cheng Bao, bislang bekannt für hochwertige Offroad-SUV, zeigt auf der
+  Peking Autoshow seine ersten Elektro-Sportwagen. Die neue Formula-S-Reihe und
+  ein Formula-X-Coupé erweitern das Portfolio.
+source: Electrek
+image: >-
+  /images/ai-byd-fang-cheng-bao-erdebaut-von-suv-zu-sportwagen-und-sedan-electrek-b2f834.webp
+category: news
+tags:
+  - BYD
+  - Fang Cheng Bao
+  - Sportwagen
+  - Formula S
+  - Peking Autoshow
 draft: false
-original_url: "https://electrek.co/2026/04/24/byds-off-road-brand-debuts-first-ev-sedan-and-sports-car-images/"
+original_url: >-
+  https://electrek.co/2026/04/24/byds-off-road-brand-debuts-first-ev-sedan-and-sports-car-images/
+brand: BYD
 ---
 
 # Fang Cheng Bao: BYDs Offroad-Marke wagt sich ins Sportwagensegment

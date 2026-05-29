@@ -1,15 +1,21 @@
 ---
-title: "Dongfeng: 400-kW-Brennstoffzelle für 49-Tonner enthüllt"
+title: 'Dongfeng: 400-kW-Brennstoffzelle für 49-Tonner enthüllt'
 date: 2026-05-28T20:14:30.353Z
-description: "Dongfeng (东风) präsentiert einen weltweit ersten 400-kW-Brennstoffzellen-Einzelstack für schwere Lkw. Mit 1.700 km Reichweite und 15 Minuten Tankzeit – ein vielversprechender Ansatz für den Schwerlastverkehr."
-source: "Sina"
-image: "/images/dongfeng-400-kw-brennstoffzelle-fr-49-tonner-enthl-sina-b6048e.webp"
-category: "news"
-
-tags: ["Reichweite"]
+description: >-
+  Dongfeng (东风) präsentiert einen weltweit ersten
+  400-kW-Brennstoffzellen-Einzelstack für schwere Lkw. Mit 1.700 km Reichweite
+  und 15 Minuten Tankzeit – ein vielversprechender Ansatz für den
+  Schwerlastverkehr.
+source: Sina
+image: /images/dongfeng-400-kw-brennstoffzelle-fr-49-tonner-enthl-sina-b6048e.webp
+category: news
+tags:
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-28/detail-inhznkuk1299412.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-28/detail-inhznkuk1299412.shtml
 read_time_minutes: 2
+brand: Mercedes-Benz
 ---
 
 # Dongfeng: 400-kW-Brennstoffzelle für 49-Tonner enthüllt

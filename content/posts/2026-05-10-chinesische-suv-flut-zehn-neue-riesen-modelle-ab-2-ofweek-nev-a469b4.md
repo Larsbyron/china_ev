@@ -34,6 +34,7 @@ brands:
   - Voyah
   - Luxeed
 confidence: 0.9
+brand: NIO
 ---
 
 # Chinesische SUV-Flut: Zehn neue Riesen-Modelle ab 2026

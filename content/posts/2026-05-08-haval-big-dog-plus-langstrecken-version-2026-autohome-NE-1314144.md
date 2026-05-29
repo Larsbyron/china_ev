@@ -8,7 +8,7 @@ source: Autohome NewEnergy
 image: >-
   /images/ai-haval-big-dog-plus-langstrecken-version-2026-autohome-NE-1314144.webp
 category: news
-brand: Haval
+brand: Great Wall
 tags:
   - Haval
   - Big Dog

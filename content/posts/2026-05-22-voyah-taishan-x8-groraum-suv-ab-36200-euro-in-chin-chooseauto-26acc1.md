@@ -26,6 +26,7 @@ marketRelevance: china_only
 brands:
   - Voyah
 confidence: 0.95
+brand: Voyah
 ---
 
 # Voyah Taishan X8: Großraum-SUV ab 36.200 Euro in China

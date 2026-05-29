@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Arcfox
 confidence: 0.9
+brand: BAIC
 ---
 
 # Arcfox Alpha T5/S5: 800-Volt-Stromer ab 19.200 €

@@ -7,7 +7,7 @@ description: >-
   E-Antriebstechnik mit Schweizer Uhrmacherkunst.
 source: ChooseAuto
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - MG

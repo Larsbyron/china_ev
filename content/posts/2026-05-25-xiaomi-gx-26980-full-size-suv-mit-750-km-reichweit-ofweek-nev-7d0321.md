@@ -24,6 +24,7 @@ brands:
   - Xiaomi
   - NIO
 confidence: 0.9
+brand: Xiaomi
 ---
 
 # Xiaomi GX: 26.980 € – Full-Size-SUV mit 750 km Reichweite

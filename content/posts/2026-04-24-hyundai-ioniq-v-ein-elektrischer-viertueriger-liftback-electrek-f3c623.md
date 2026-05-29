@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - Hyundai
 confidence: 0.9
+brand: Hyundai
 ---
 
 # Hyundai IONIQ V: Serienversion des Venus-Konzepts startet in China

@@ -26,6 +26,7 @@ brands:
   - Yipai
   - Huawei
 confidence: 0.9
+brand: Huawei
 ---
 
 # Yipai M8: 600-km-SUV mit Huawei-Technik debütiert

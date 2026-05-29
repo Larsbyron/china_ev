@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Trumpchi
 confidence: 0.9
+brand: Mercedes-Benz
 ---
 
 # Trumpchi Yue 7: 38.000 Nm/° Karosserie für Stadt und Gelände

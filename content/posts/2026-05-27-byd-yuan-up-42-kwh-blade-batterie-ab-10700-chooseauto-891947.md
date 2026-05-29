@@ -1,15 +1,23 @@
 ---
-title: "BYD Yuan Up: 42-kWh-Blade-Batterie, ab 10.700 €"
+title: 'BYD Yuan Up: 42-kWh-Blade-Batterie, ab 10.700 €'
 date: 2026-05-27T06:16:57.739Z
-description: "Der rein elektrische Kompakt-SUV BYD Yuan Up startet in China ab 83.900 Yuan (ca. 10.700 €). Mit 42-kWh-Blade-Batterie und 400 km CLTC-Reichweite ist er der ideale Stadtflitzer – Marktstart in Europa noch offen."
-source: "ChooseAuto"
-image: "/images/byd-yuan-up-42-kwh-blade-batterie-ab-10700-chooseauto-891947.webp"
-category: "news"
-
-tags: ["BYD", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der rein elektrische Kompakt-SUV BYD Yuan Up startet in China ab 83.900 Yuan
+  (ca. 10.700 €). Mit 42-kWh-Blade-Batterie und 400 km CLTC-Reichweite ist er
+  der ideale Stadtflitzer – Marktstart in Europa noch offen.
+source: ChooseAuto
+image: /images/byd-yuan-up-42-kwh-blade-batterie-ab-10700-chooseauto-891947.webp
+category: news
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/913818.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/913818.shtml'
 read_time_minutes: 2
+brand: BYD
 ---
 
 # BYD Yuan Up: 42-kWh-Blade-Batterie, ab 10.700 €

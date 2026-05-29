@@ -24,6 +24,7 @@ brands:
   - Audi
   - Xiaomi
 confidence: 0.9
+brand: Xiaomi
 ---
 
 # Audi E7X ab 37.100 €: Starkes Signal gegen Xiaomi YU7

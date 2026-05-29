@@ -24,6 +24,7 @@ marketRelevance: eu_planned
 brands:
   - Skoda
 confidence: 0.9
+brand: Škoda
 ---
 
 # Skoda Epiq Sportline Erlkönig-Fotos

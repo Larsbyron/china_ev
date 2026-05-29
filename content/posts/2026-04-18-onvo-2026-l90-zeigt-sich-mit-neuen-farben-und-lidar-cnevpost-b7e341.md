@@ -28,6 +28,7 @@ brands:
   - Onvo
   - NIO
 confidence: 0.9
+brand: Onvo
 ---
 
 # Onvo L90: Überarbeitetes Modell zeigt sich mit LiDAR und neuen Farben

@@ -27,6 +27,7 @@ brands:
   - SAIC-GM-Wuling
   - Huawei
 confidence: 0.95
+brand: SAIC
 ---
 
 # HuaJing S auf den Markt gebracht: Super-Umtauschpreis ab 149.800 Yuan

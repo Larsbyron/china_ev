@@ -8,7 +8,7 @@ description: >-
 source: Sina
 image: /images/dreame-auto-wie-realistisch-ist-der-einstieg-bis-2-sina-cb9361.webp
 category: news
-brand: NIO
+brand: Xiaomi
 tags:
   - NIO
   - Li Auto

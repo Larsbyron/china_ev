@@ -28,6 +28,7 @@ brands:
   - Huawei
   - Shangjie
 confidence: 0.95
+brand: SAIC
 ---
 
 # Yang Siyao: Shangjie will die modischste Marke im HarmonyOS Intelligent Driving Portfolio werden

@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - Beijing Off-Road
 confidence: 0.95
+brand: Great Wall
 ---
 
 # Beijing Off-Road BJ40 EREV: 252 km rein elektrisch ab Mai

@@ -1,15 +1,21 @@
 ---
-title: "Bao 7, ID.ERA 9X, Haobo NX8: Drei China-SUVs ab 17.900 € im Test"
+title: 'Bao 7, ID.ERA 9X, Haobo NX8: Drei China-SUVs ab 17.900 € im Test'
 date: 2026-05-23T11:17:45.435Z
-description: "Fangchengbao Bao 7 (BYD), ID.ERA 9X (VW/JAC) und Haobo NX8 (GAC) liefern sich einen Dreikampf. Preis, Komfort und Technik unter der Lupe – mit überraschendem Ausgang für deutsche Autofahrer."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["BYD", "Leapmotor", "MG", "Zoll"]
+description: >-
+  Fangchengbao Bao 7 (BYD), ID.ERA 9X (VW/JAC) und Haobo NX8 (GAC) liefern sich
+  einen Dreikampf. Preis, Komfort und Technik unter der Lupe – mit
+  überraschendem Ausgang für deutsche Autofahrer.
+source: OFweek NEV
+category: news
+tags:
+  - BYD
+  - Leapmotor
+  - MG
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 4
+brand: BYD
 ---
 
 # Bao 7, ID.ERA 9X, Haobo NX8: Drei China-SUVs ab 17.900 € im Test

@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - BYD
 confidence: 0.9
+brand: BYD
 ---
 
 # BYDs neues E‑Auto lockt Käufer mit 5‑minütiger Ladung und Preisen ab 22.000 Dollar

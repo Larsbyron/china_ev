@@ -27,6 +27,7 @@ brands:
   - NIO
   - Zeekr
 confidence: 0.95
+brand: BYD
 ---
 
 # Audi RS 5 Hybrid: China-Duell mit BYD Seal & Co.

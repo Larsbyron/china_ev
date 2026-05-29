@@ -1,15 +1,24 @@
 ---
-title: "6 China-9er-SUVs ab 28.100 €: NIO ES9, AITO M9 & mehr im Vergleich"
+title: '6 China-9er-SUVs ab 28.100 €: NIO ES9, AITO M9 & mehr im Vergleich'
 date: 2026-05-28T20:24:32.408Z
-description: "Die Beijing Auto Show wird zur Bühne für sechs neue Top-SUVs der „9er“-Reihe aus China. Die Preise starten bei ca. 28.100 € für den JAC D19, die Spitze bildet der NIO ES9 mit bis zu 84.200 €. Alle Modelle bieten teils über 1.500 km kombinierte Reichweite."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "Li Auto", "Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Die Beijing Auto Show wird zur Bühne für sechs neue Top-SUVs der „9er“-Reihe
+  aus China. Die Preise starten bei ca. 28.100 € für den JAC D19, die Spitze
+  bildet der NIO ES9 mit bis zu 84.200 €. Alle Modelle bieten teils über 1.500
+  km kombinierte Reichweite.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - Li Auto
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 5
+brand: NIO
 ---
 
 # 6 China-9er-SUVs ab 28.100 €: NIO ES9, AITO M9 & mehr im Vergleich

@@ -10,7 +10,7 @@ source: ChooseAuto
 image: >-
   /images/arcfox-wendao-v9-luxus-mpv-ab-194800-yuan-ca-24900-chooseauto-d3c7e7.webp
 category: news
-brand: Li Auto
+brand: BAIC
 tags:
   - Li Auto
   - Batterie

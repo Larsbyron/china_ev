@@ -27,6 +27,7 @@ brands:
   - NIO
   - Li Auto
 confidence: 0.5
+brand: NIO
 ---
 
 # 5 China-SUVs mit „9": Peking Show ab 28.000 €

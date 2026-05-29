@@ -20,6 +20,7 @@ brands:
   - Audi
   - Xiaomi
 confidence: 0.9
+brand: Xiaomi
 ---
 
 # Audi E7X vs. Xiaomi YU7: E-SUVs ab 253.500 Yuan

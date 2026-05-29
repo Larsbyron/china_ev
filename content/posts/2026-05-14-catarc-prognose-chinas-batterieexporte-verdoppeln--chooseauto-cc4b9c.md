@@ -1,15 +1,24 @@
 ---
-title: "CATARC-Prognose: Chinas Batterieexporte verdoppeln sich bis 2030"
+title: 'CATARC-Prognose: Chinas Batterieexporte verdoppeln sich bis 2030'
 date: 2026-05-14T01:10:48.431Z
-description: "Auf dem Teda Auto Forum 2026 prognostiziert der chinesische Batterieverband eine Verdopplung der Exporte bis 2030. Derzeit liegt der Exportanteil bei 20 Prozent. Auch L3-Autonomie und Flugtaxis stehen auf der Agenda."
-source: "ChooseAuto"
-image: "/images/catarc-prognose-chinas-batterieexporte-verdoppeln-chooseauto-cc4b9c.webp"
-category: "news"
-
-tags: ["BYD", "Batterie", "E-Auto", "EV", "Marktanteil"]
+description: >-
+  Auf dem Teda Auto Forum 2026 prognostiziert der chinesische Batterieverband
+  eine Verdopplung der Exporte bis 2030. Derzeit liegt der Exportanteil bei 20
+  Prozent. Auch L3-Autonomie und Flugtaxis stehen auf der Agenda.
+source: ChooseAuto
+image: >-
+  /images/catarc-prognose-chinas-batterieexporte-verdoppeln-chooseauto-cc4b9c.webp
+category: news
+tags:
+  - BYD
+  - Batterie
+  - E-Auto
+  - EV
+  - Marktanteil
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/901919.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/901919.shtml'
 read_time_minutes: 2
+brand: BYD
 ---
 
 # CATARC-Prognose: Chinas Batterieexporte verdoppeln sich bis 2030

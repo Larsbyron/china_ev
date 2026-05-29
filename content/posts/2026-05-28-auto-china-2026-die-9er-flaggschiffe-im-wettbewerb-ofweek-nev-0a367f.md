@@ -31,6 +31,7 @@ brands:
   - VW
   - GAC
 confidence: 0.9
+brand: NIO
 ---
 
 # Auto China 2026: Die „9er“-Flaggschiffe im Wettbewerb

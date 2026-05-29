@@ -20,6 +20,7 @@ marketRelevance: eu_planned
 brands:
   - Audi
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 Plug-in-Hybrid: 375 kW V6 mit E-Motor

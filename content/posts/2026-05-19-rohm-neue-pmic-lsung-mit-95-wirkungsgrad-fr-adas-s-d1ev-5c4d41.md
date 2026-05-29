@@ -28,6 +28,7 @@ brands:
   - NIO
   - XPeng
 confidence: 0.9
+brand: BYD
 ---
 
 # ROHM: Neue PMIC-Lösung mit 95 % Wirkungsgrad für ADAS-SoCs

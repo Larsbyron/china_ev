@@ -8,7 +8,7 @@ description: >-
 source: CarNewsChina
 image: /images/omoda-c9-refresh-mittelklasse-suv-ab-16000-carnewschina-89d36a.webp
 category: news
-brand: Xiaomi
+brand: Chery
 tags:
   - Xiaomi
   - Tesla

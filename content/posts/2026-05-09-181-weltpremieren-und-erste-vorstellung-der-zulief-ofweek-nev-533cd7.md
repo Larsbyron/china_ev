@@ -11,7 +11,7 @@ source: OFweek NEV
 image: >-
   /images/ai-181-weltpremieren-und-erste-vorstellung-der-zulief-ofweek-nev-533cd7.webp
 category: news
-brand: Aion
+brand: BYD
 tags:
   - Aion
   - BYD

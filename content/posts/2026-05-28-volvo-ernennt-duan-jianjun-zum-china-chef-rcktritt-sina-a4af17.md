@@ -8,7 +8,7 @@ description: >-
 source: Sina
 image: /images/volvo-ernennt-duan-jianjun-zum-china-chef-rcktritt-sina-a4af17.webp
 category: news
-brand: Geely
+brand: Volvo
 tags:
   - Geely
   - NIO

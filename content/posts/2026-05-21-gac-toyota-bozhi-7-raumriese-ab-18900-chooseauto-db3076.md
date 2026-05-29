@@ -22,6 +22,7 @@ brands:
   - GAC
   - Toyota
 confidence: 0.95
+brand: GAC
 ---
 
 # GAC Toyota BoZhi 7: Raumriese ab 18.900 €

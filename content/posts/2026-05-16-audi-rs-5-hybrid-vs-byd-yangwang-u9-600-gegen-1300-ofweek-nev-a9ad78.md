@@ -25,6 +25,7 @@ brands:
   - Audi
   - BYD
 confidence: 0.95
+brand: BYD
 ---
 
 # Audi RS 5 Hybrid vs. BYD Yangwang U9: 600 gegen 1.300 PS

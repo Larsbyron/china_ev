@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - Tesla
 confidence: 0.95
+brand: Tesla
 ---
 
 # Tesla in der Krise: Inlandabsatz in China bricht um 16 Prozent ein

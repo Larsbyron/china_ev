@@ -10,7 +10,7 @@ source: ChooseAuto
 image: >-
   /images/denza-n9-flash-charge-420-km-reichweite-5-minuten-chooseauto-140b4c.webp
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - Batterie

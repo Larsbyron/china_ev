@@ -22,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Voyah
 confidence: 0.95
+brand: Voyah
 ---
 
 # Voyah Dreamer: MPV-Bestseller ab 38.400 Euro in China

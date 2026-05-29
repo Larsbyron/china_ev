@@ -27,6 +27,7 @@ brands:
   - Tesla
   - VW
 confidence: 0.95
+brand: GAC
 ---
 
 # Hyptec S600: 800V-SUV ab 24.200 € mit Lidar-Serienausstattung

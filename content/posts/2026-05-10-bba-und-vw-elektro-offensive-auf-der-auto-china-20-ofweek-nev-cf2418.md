@@ -27,6 +27,7 @@ brands:
   - Audi
   - VW
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # BBA und VW: Elektro-Offensive auf der Auto China 2026

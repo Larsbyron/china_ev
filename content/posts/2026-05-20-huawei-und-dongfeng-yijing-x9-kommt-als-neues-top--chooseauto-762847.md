@@ -20,6 +20,7 @@ brands:
   - Huawei
   - Dongfeng
 confidence: 0.9
+brand: Huawei
 ---
 
 # Huawei und Dongfeng: Yijing X9 kommt als neues Top-SUV 2026

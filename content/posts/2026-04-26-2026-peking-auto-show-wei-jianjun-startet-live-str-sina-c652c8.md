@@ -1,16 +1,19 @@
 ---
-title: "2026 Peking Auto Show: Wei Jianjun startet Live-Stream mit dem Thema „Vertrag'"
+title: '2026 Peking Auto Show: Wei Jianjun startet Live-Stream mit dem Thema „Vertrag'''
 date: 2026-04-26T22:22:10.982Z
-description: "INHALT:
-Die chinesische Automobilindustrie befindet sich an einem entscheidenden Wendepunkt beim Sprung von „groß' zu „stark'. Inmitten einer komplexen Phase, in der die globale Expansion beschleunigt..."
-source: "Sina"
-image: "/images/2026-peking-auto-show-wei-jianjun-startet-live-str-sina-c652c8.webp"
-category: "news"
-
-tags: ["MG"]
+description: >-
+  INHALT: Die chinesische Automobilindustrie befindet sich an einem
+  entscheidenden Wendepunkt beim Sprung von „groß' zu „stark'. Inmitten einer
+  komplexen Phase, in der die globale Expansion beschleunigt...
+source: Sina
+image: /images/2026-peking-auto-show-wei-jianjun-startet-live-str-sina-c652c8.webp
+category: news
+tags:
+  - MG
 draft: false
-original_url: "https://auto.sina.com.cn/news/hy/2026-04-26/detail-inhvvuya9791693.shtml"
+original_url: 'https://auto.sina.com.cn/news/hy/2026-04-26/detail-inhvvuya9791693.shtml'
 read_time_minutes: 4
+brand: Great Wall
 ---
 
 # 2026 Peking Auto Show: Wei Jianjun startet Live-Stream mit dem Thema „Vertrag"

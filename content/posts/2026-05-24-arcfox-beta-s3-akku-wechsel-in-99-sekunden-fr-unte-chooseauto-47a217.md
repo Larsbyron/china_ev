@@ -26,6 +26,7 @@ marketRelevance: china_only
 brands:
   - Arcfox
 confidence: 0.95
+brand: BAIC
 ---
 
 # Arcfox Beta S3: Akku-Wechsel in 99 Sekunden für unter 8.000 €

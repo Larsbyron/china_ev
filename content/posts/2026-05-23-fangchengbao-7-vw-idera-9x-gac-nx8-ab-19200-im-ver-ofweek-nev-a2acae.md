@@ -28,6 +28,7 @@ brands:
   - VW
   - GAC
 confidence: 0.85
+brand: GAC
 ---
 
 # Fangchengbao 7, VW ID.ERA 9X, GAC NX8: Ab 19.200 € im Vergleich

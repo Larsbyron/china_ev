@@ -20,6 +20,7 @@ marketRelevance: global_industry
 brands:
   - MG
 confidence: 0.8
+brand: Volkswagen
 ---
 
 # Horizon Robotics: Starry-Chip vereint Fahren und Cockpit

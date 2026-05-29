@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - XPeng
 confidence: 0.95
+brand: XPeng
 ---
 
 # XPeng richtet Technik-Event für das neue Flaggschiff GX aus

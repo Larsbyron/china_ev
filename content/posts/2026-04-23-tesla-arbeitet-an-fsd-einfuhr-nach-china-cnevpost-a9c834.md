@@ -24,6 +24,7 @@ marketRelevance: global_industry
 brands:
   - Tesla
 confidence: 0.9
+brand: Tesla
 ---
 
 # Tesla: FSD-Einfuhr nach China offiziell bestätigt

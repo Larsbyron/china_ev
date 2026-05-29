@@ -1,15 +1,22 @@
 ---
-title: "STLA One: Stellantis-Plattform für Leapmotor & Co. ab 2026"
+title: 'STLA One: Stellantis-Plattform für Leapmotor & Co. ab 2026'
 date: 2026-05-23T11:11:46.516Z
-description: "Stellantis stellt die modulare Plattform STLA One vor – sie soll Kostenvorteile von 20 % bringen und auch vom chinesischen Partner Leapmotor genutzt werden. Marktstart erster Modelle ab 2026."
-source: "D1EV"
-image: "/images/stla-one-stellantis-plattform-fr-leapmotor-co-ab-2-d1ev-adff83.webp"
-category: "news"
-
-tags: ["Leapmotor", "Batterie", "Elektroauto", "EV"]
+description: >-
+  Stellantis stellt die modulare Plattform STLA One vor – sie soll
+  Kostenvorteile von 20 % bringen und auch vom chinesischen Partner Leapmotor
+  genutzt werden. Marktstart erster Modelle ab 2026.
+source: D1EV
+image: /images/stla-one-stellantis-plattform-fr-leapmotor-co-ab-2-d1ev-adff83.webp
+category: news
+tags:
+  - Leapmotor
+  - Batterie
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300189"
+original_url: 'https://www.d1ev.com/news/shichang/300189'
 read_time_minutes: 2
+brand: Leapmotor
 ---
 
 # STLA One: Stellantis-Plattform für Leapmotor & Co. ab 2026

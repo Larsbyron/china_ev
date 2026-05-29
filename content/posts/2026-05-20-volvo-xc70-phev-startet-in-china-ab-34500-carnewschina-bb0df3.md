@@ -8,7 +8,7 @@ description: >-
 source: CarNewsChina
 image: /images/volvo-xc70-phev-startet-in-china-ab-34500-carnewschina-bb0df3.webp
 category: news
-brand: BYD
+brand: Volvo
 tags:
   - BYD
   - Li Auto

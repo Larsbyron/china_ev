@@ -23,6 +23,7 @@ brands:
   - Mercedes-Benz
   - VW
 confidence: 0.9
+brand: BMW
 ---
 
 # Beijing Auto Show: BMW i7 (900 km) & VW ID. ERA 9X (ab 42.200 €)

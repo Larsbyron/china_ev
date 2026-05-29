@@ -24,6 +24,7 @@ marketRelevance: eu_available
 brands:
   - Audi
 confidence: 0.9
+brand: Audi
 ---
 
 # Neuer Audi RS 5: V6-Biturbo-Hybrid mit 375 kW

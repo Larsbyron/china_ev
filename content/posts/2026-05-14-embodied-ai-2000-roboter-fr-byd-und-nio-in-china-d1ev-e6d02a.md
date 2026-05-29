@@ -29,6 +29,7 @@ brands:
   - NIO
   - Li Auto
 confidence: 0.9
+brand: BYD
 ---
 
 # Embodied AI: 2000 Roboter für BYD und NIO in China

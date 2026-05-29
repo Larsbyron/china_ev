@@ -1,15 +1,19 @@
 ---
-title: "Audi RS 5 PHEV: V6-Biturbo mit 130-kW-E-Motor kommt"
+title: 'Audi RS 5 PHEV: V6-Biturbo mit 130-kW-E-Motor kommt'
 date: 2026-05-28T20:28:17.039Z
-description: "Der neue Audi RS 5 Sportback TFSI e kombiniert einen 2,9-Liter-V6-Biturbo (375 kW) mit einem 130 kW starken Elektromotor. Die rein elektrische Reichweite liegt bei etwa 100 km (CLTC). Marktstart in China noch 2025."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["MG", "Reichweite"]
+description: >-
+  Der neue Audi RS 5 Sportback TFSI e kombiniert einen 2,9-Liter-V6-Biturbo (375
+  kW) mit einem 130 kW starken Elektromotor. Die rein elektrische Reichweite
+  liegt bei etwa 100 km (CLTC). Marktstart in China noch 2025.
+source: OFweek NEV
+category: news
+tags:
+  - MG
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html"
+original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2
+brand: Audi
 ---
 
 # Audi RS 5 PHEV: V6-Biturbo mit 130-kW-E-Motor kommt

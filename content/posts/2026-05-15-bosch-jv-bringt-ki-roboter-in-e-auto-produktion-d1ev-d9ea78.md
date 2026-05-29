@@ -9,7 +9,7 @@ description: >-
 source: D1EV
 image: /images/bosch-jv-bringt-ki-roboter-in-e-auto-produktion-d1ev-d9ea78.webp
 category: news
-brand: BYD
+brand: BMW
 tags:
   - BYD
   - MG

@@ -39,6 +39,7 @@ brands:
   - Toyota
   - Honda
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # Der Verteidigungskampf der Joint Ventures: Vorschau auf die neuen Modelle der Shanghai Auto Show 2026

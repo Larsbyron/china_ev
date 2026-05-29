@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - Maextro
 confidence: 0.95
+brand: Huawei
 ---
 
 # Maextro S800 Grand Design: Luxus-Limousine ab 192.000 €

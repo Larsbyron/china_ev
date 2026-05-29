@@ -27,6 +27,7 @@ brands:
   - AITO
   - NIO
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: China-Elektro-SUV ab 42.200 € mit 800V

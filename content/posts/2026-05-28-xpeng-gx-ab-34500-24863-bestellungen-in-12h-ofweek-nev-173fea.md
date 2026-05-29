@@ -1,15 +1,26 @@
 ---
-title: "XPeng GX: Ab 34.500 € – 24.863 Bestellungen in 12h"
+title: 'XPeng GX: Ab 34.500 € – 24.863 Bestellungen in 12h'
 date: 2026-05-28T20:13:36.405Z
-description: "XPeng bringt mit dem GX ein großes SUV ab umgerechnet 34.500 € auf den Markt. In den ersten 12 Stunden gingen 24.863 Bestellungen ein. Das Fahrzeug bietet je nach Version bis zu 638 km WLTP-Reichweite und tritt gegen Modelle wie Li Auto L9 an."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "MG", "Tesla", "Reichweite", "Zoll"]
+description: >-
+  XPeng bringt mit dem GX ein großes SUV ab umgerechnet 34.500 € auf den Markt.
+  In den ersten 12 Stunden gingen 24.863 Bestellungen ein. Das Fahrzeug bietet
+  je nach Version bis zu 638 km WLTP-Reichweite und tritt gegen Modelle wie Li
+  Auto L9 an.
+source: OFweek NEV
+category: news
+tags:
+  - NIO
+  - XPeng
+  - Xpeng
+  - Li Auto
+  - MG
+  - Tesla
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html'
 read_time_minutes: 3
+brand: XPeng
 ---
 
 # XPeng GX: Ab 34.500 € – 24.863 Bestellungen in 12h

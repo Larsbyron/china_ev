@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - Beijing Off-Road
 confidence: 0.9
+brand: Great Wall
 ---
 
 # Beijing Off-Road BJ40 EREV: 1.300 km Reichweite ab 25.600 €

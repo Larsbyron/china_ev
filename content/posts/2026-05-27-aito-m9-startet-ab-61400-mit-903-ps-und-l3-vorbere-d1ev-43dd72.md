@@ -26,6 +26,7 @@ brands:
   - Li Auto
   - Zeekr
 confidence: 0.9
+brand: Huawei
 ---
 
 # AITO M9 startet ab 61.400 € mit 903 PS und L3-Vorbereitung

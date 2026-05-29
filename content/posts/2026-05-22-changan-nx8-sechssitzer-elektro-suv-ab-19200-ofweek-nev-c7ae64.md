@@ -27,6 +27,7 @@ brands:
   - BYD
   - Volkswagen
 confidence: 0.9
+brand: Changan
 ---
 
 # Changan NX8: Sechssitzer-Elektro-SUV ab 19.200 €

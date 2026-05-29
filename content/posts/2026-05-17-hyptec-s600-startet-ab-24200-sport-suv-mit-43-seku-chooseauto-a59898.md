@@ -27,6 +27,7 @@ brands:
   - BYD
   - VW
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # Hyptec S600 startet ab 24.200 € – Sport-SUV mit 4,3 Sekunden

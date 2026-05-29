@@ -27,6 +27,7 @@ brands:
   - Hongqi
   - Luxeed
 confidence: 0.95
+brand: Geely
 ---
 
 # 7 Modelle im Vorverkauf: Von 16.400 bis 56.300 €

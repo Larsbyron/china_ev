@@ -27,6 +27,7 @@ brands:
   - BYD
   - Denza
 confidence: 0.9
+brand: BYD
 ---
 
 # BYD: 16 Millionen NEV vom Band – schnellster Millionen-Sprung der Geschichte

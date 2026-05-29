@@ -31,6 +31,7 @@ brands:
   - XPeng
   - Li Auto
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: Elektro-SUV ab 42.200 € in China vorbestellbar

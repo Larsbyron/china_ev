@@ -28,6 +28,7 @@ brands:
   - Li Auto
   - AITO
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: Chinas neues EREV-Flaggschiff ab 42.200 €

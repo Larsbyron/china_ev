@@ -23,6 +23,7 @@ marketRelevance: eu_planned
 brands:
   - CATL
 confidence: 0.9
+brand: BMW
 ---
 
 # CATL platziert 6,4-Mrd-€-Anleihe für Batteriefabriken

@@ -28,6 +28,7 @@ brands:
   - Volkswagen
   - JETTA
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # Auto China 2026: BBA und VW starten E-Offensive mit vielen Neuheiten

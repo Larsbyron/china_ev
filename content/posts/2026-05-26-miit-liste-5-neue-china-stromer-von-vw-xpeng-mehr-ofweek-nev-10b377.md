@@ -29,6 +29,7 @@ brands:
   - Hyundai
   - Yuanhang
 confidence: 0.9
+brand: XPeng
 ---
 
 # MIIT-Liste: 5 neue China-Stromer von VW, XPeng & mehr

@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - XPeng
 confidence: 0.95
+brand: XPeng
 ---
 
 # XPeng GX: Vorverkauf gestartet – teuerstes Modell der Firmengeschichte

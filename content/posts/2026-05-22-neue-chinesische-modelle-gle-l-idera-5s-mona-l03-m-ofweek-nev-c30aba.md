@@ -30,6 +30,7 @@ brands:
   - XPeng
   - Hyundai
 confidence: 0.95
+brand: Mercedes-Benz
 ---
 
 # Neue chinesische Modelle: GLE L, ID.ERA 5S, MONA L03 & mehr

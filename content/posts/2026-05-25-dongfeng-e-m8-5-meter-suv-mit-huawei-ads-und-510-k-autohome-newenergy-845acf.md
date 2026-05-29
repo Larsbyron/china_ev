@@ -27,6 +27,7 @@ brands:
   - Dongfeng
   - Huawei
 confidence: 0.95
+brand: Huawei
 ---
 
 # Dongfeng Eπ M8: 5-Meter-SUV mit Huawei-ADS und 510 km WLTP debütiert

@@ -7,7 +7,7 @@ description: >-
 source: Sina
 image: /images/ai-wen-fei-nutzererfahrung-und-markenwerte-sina-a40117.webp
 category: news
-brand: ''
+brand: Chery
 tags:
   - FREELANDER
   - Chery

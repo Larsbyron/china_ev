@@ -26,6 +26,7 @@ brands:
   - NIO
   - Onvo
 confidence: 0.95
+brand: NIO
 ---
 
 # Nio Onvo soll 2026 L90 SUV am 21. April auf den Markt bringen

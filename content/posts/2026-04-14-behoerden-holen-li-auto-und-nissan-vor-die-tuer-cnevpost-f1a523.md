@@ -26,6 +26,7 @@ brands:
   - Li Auto
   - Nissan
 confidence: 0.95
+brand: Li Auto
 ---
 
 # Schmutzkampagne-Vorwurf: Behörden schlichten im Nissan-Li-Auto-Streit

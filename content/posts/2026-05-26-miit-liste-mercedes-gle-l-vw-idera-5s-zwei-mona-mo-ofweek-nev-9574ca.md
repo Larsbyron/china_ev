@@ -30,6 +30,7 @@ brands:
   - Hyundai
   - Enpeng
 confidence: 0.9
+brand: Mercedes-Benz
 ---
 
 # MIIT-Liste: Mercedes GLE L, VW ID.ERA 5S & zwei MONA-Modelle

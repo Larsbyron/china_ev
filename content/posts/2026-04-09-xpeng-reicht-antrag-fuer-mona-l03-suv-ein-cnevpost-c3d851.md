@@ -23,6 +23,7 @@ marketRelevance: china_only
 brands:
   - XPeng
 confidence: 0.9
+brand: XPeng
 ---
 
 # XPeng Mona L03: Neuer SUV unter dem Budget-Label eingereicht

@@ -25,6 +25,7 @@ brands:
   - GAC
   - Hyper
 confidence: 0.9
+brand: GAC
 ---
 
 # Hyper S600: GAC-Sport-SUV mit 660 km ab 24.200 €

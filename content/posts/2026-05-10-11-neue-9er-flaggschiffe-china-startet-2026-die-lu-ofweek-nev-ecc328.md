@@ -32,6 +32,7 @@ brands:
   - Denza
   - ID.ERA
 confidence: 0.9
+brand: Huawei
 ---
 
 # 11 neue „9er“-Flaggschiffe: China startet 2026 die Luxus-Offensive

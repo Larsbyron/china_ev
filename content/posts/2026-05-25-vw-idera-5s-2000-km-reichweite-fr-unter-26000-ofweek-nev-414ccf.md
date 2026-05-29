@@ -30,6 +30,7 @@ brands:
   - Hyundai
   - Freelander
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # VW ID.ERA 5S: 2.000 km Reichweite für unter 26.000 €

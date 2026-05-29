@@ -9,7 +9,7 @@ source: OFweek NEV
 image: >-
   /images/ai-tesla-roadster-0100-in-21-s-enthllung-im-april-ofweek-nev-dc2e74.webp
 category: news
-brand: Xiaomi
+brand: Tesla
 tags:
   - Xiaomi
   - BYD

@@ -23,6 +23,7 @@ marketRelevance: china_only
 brands:
   - Arcfox
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # Arcfox S3: Kauf via Live-Stream ab 7.700 €

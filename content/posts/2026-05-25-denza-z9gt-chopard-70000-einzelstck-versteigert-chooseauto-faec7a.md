@@ -8,7 +8,7 @@ description: >-
 source: ChooseAuto
 image: /images/denza-z9gt-chopard-70000-einzelstck-versteigert-chooseauto-faec7a.webp
 category: news
-brand: BYD
+brand: Denza
 tags:
   - BYD
   - Batterie

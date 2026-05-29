@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - XPeng
 confidence: 0.95
+brand: XPeng
 ---
 
 # XPeng GX: Neue Bilder zeigen Luxus-SUV mit Range-Rover-Proportionen

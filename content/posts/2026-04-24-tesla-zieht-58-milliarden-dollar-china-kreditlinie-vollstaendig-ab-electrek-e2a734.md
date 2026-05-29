@@ -25,6 +25,7 @@ marketRelevance: global_industry
 brands:
   - Tesla
 confidence: 0.9
+brand: Tesla
 ---
 
 # Tesla: 5,8 Milliarden Dollar Kreditlinie in China vollständig ausgeschöpft

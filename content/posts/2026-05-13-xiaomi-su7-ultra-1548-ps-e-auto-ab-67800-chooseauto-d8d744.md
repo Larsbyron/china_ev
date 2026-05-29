@@ -28,6 +28,7 @@ brands:
   - Xiaomi
   - Tesla
 confidence: 0.9
+brand: Xiaomi
 ---
 
 # Xiaomi SU7 Ultra: 1.548-PS-E-Auto ab 67.800 €

@@ -22,6 +22,7 @@ secondaryTopics:
   - modelle-marktstarts
 brands: []
 confidence: 0.5
+brand: Li Auto
 ---
 
 # Li Auto Chef kritisiert unlautere Methoden: Japanische Marke unter Druck

@@ -23,6 +23,7 @@ marketRelevance: de_available
 brands:
   - Mercedes-Benz
 confidence: 0.9
+brand: Mercedes-Benz
 ---
 
 # Mercedes bestätigt Steer-by-Wire für 2026 EQS mit fragwürdigem Lenkrad

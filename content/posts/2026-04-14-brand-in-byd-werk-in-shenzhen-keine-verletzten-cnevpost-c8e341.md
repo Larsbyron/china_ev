@@ -26,6 +26,7 @@ marketRelevance: global_industry
 brands:
   - BYD
 confidence: 0.9
+brand: BYD
 ---
 
 # Brand in BYD-Testzentrum: Feuer schnell gelöscht, keine Verletzten

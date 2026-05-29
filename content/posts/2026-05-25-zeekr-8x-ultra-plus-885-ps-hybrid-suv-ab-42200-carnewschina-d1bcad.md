@@ -9,7 +9,7 @@ source: CarNewsChina
 image: >-
   /images/zeekr-8x-ultra-plus-885-ps-hybrid-suv-ab-42200-carnewschina-d1bcad.webp
 category: news
-brand: Li Auto
+brand: Zeekr
 tags:
   - Li Auto
   - BYD

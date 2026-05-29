@@ -25,6 +25,7 @@ brands:
   - Onvo
   - Firefly
 confidence: 0.9
+brand: NIO
 ---
 
 # Nio auf der Peking Autoshow: Premiere für drei Marken unter einem Dach

@@ -30,6 +30,7 @@ brands:
   - XPeng
   - GAC
 confidence: 0.9
+brand: BYD
 ---
 
 # Kanada wirbt für E-Auto-Investitionen: Handelsminister besucht Guangzhou

@@ -25,6 +25,7 @@ brands:
   - AITO
   - Li Auto
 confidence: 0.95
+brand: Li Auto
 ---
 
 # VW ID. ERA 9X: 42.200-Euro-E-SUV fordert AITO und Li Auto

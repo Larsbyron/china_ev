@@ -25,6 +25,7 @@ brands:
   - Li Auto
   - AITO
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: Flaggschiff-SUV ab 42.200 € mit 406 km

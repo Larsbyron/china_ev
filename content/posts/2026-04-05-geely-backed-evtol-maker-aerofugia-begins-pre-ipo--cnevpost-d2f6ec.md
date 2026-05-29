@@ -26,6 +26,7 @@ brands:
   - Geely
   - Aerofugia
 confidence: 0.9
+brand: Geely
 ---
 
 # Der von Geely unterstützte eVTOL-Hersteller Aerofugia beginnt mit dem vorbörslichen Coaching für die A-Aktien-Notierung in China

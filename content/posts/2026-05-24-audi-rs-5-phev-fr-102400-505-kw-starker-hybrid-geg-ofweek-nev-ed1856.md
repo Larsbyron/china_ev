@@ -30,6 +30,7 @@ brands:
   - NIO
   - XPeng
 confidence: 0.95
+brand: BYD
 ---
 
 # Audi RS 5 PHEV für 102.400 €: 505 kW starker Hybrid gegen BYD & NIO

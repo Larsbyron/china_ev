@@ -30,6 +30,7 @@ brands:
   - Stellantis
   - Leapmotor
 confidence: 0.9
+brand: Leapmotor
 ---
 
 # Stellantis möchte chinesische Leapmotor-Elektrofahrzeuge in seinem stillgelegten kanadischen Werk bauen

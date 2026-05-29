@@ -1,14 +1,23 @@
 ---
-title: "Audi E7X: 900-Volt-SUV ab 37.100 € in China"
+title: 'Audi E7X: 900-Volt-SUV ab 37.100 € in China'
 date: 2026-05-28T20:10:39.320Z
-description: "Der Audi E7X startet als 900-Volt-SUV in China. Mit bis zu 751 km CLTC-Reichweite, Luftfederung und Hinterachslenkung tritt er gegen Tesla Model Y und NIO ES6 an – ab ca. 37.100 €."
-source: "Autohome NewEnergy"
-image: "/images/audi-e7x-900-volt-suv-ab-37100-in-china-autohome-newenergy-d00949.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Tesla", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  Der Audi E7X startet als 900-Volt-SUV in China. Mit bis zu 751 km
+  CLTC-Reichweite, Luftfederung und Hinterachslenkung tritt er gegen Tesla Model
+  Y und NIO ES6 an – ab ca. 37.100 €.
+source: Autohome NewEnergy
+image: /images/audi-e7x-900-volt-suv-ab-37100-in-china-autohome-newenergy-d00949.webp
+category: news
+brand: Audi
+tags:
+  - NIO
+  - Tesla
+  - Batterie
+  - Reichweite
+  - Zoll
+  - EV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314520.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314520.html'
 read_time_minutes: 4
 ---
 

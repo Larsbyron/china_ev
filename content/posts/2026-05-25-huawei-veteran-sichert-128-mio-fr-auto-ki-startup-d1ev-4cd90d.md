@@ -22,6 +22,7 @@ secondaryTopics:
 marketRelevance: global_industry
 brands: []
 confidence: 0.9
+brand: Huawei
 ---
 
 # Huawei-Veteran sichert 128 Mio. € für Auto-KI-Startup

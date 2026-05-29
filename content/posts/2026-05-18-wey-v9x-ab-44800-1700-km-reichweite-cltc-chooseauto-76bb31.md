@@ -24,6 +24,7 @@ marketRelevance: china_only
 brands:
   - WEY
 confidence: 0.9
+brand: Great Wall
 ---
 
 # WEY V9X: ab 44.800 €, 1700 km Reichweite (CLTC)

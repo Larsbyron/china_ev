@@ -23,6 +23,7 @@ brands:
   - GAC Toyota
   - Toyota
 confidence: 0.9
+brand: GAC
 ---
 
 # 100.000 Budget für ein neues Energie-SUV – ist der 2026er GAC Toyota BZ3X die beste Wahl?

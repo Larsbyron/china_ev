@@ -1,15 +1,21 @@
 ---
-title: "Audi E7X vs. Xiaomi YU7: Deutscher Premiumhersteller fordert Tech-Riesen heraus"
+title: >-
+  Audi E7X vs. Xiaomi YU7: Deutscher Premiumhersteller fordert Tech-Riesen
+  heraus
 date: 2026-05-28T20:20:46.543Z
-description: "Audi E7X (28,98–37,98 Mio. Yuan / ca. 37.100–48.600 €) und Xiaomi YU7 (25,35–32,99 Mio. Yuan / ca. 32.400–42.200 €) liefern sich in China einen intensiven Wettbewerb. Während Audi auf klassische Fahrdynamik setzt, punktet Xiaomi mit Ökosystem und KI."
-source: "OFweek NEV"
-
-category: "news"
-
-tags: ["Reichweite"]
+description: >-
+  Audi E7X (28,98–37,98 Mio. Yuan / ca. 37.100–48.600 €) und Xiaomi YU7
+  (25,35–32,99 Mio. Yuan / ca. 32.400–42.200 €) liefern sich in China einen
+  intensiven Wettbewerb. Während Audi auf klassische Fahrdynamik setzt, punktet
+  Xiaomi mit Ökosystem und KI.
+source: OFweek NEV
+category: news
+tags:
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3
+brand: Xiaomi
 ---
 
 # Audi E7X vs. Xiaomi YU7: Deutscher Premiumhersteller fordert Tech-Riesen heraus

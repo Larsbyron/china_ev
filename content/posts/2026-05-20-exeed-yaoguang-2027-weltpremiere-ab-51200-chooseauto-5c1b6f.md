@@ -22,6 +22,7 @@ marketRelevance: eu_planned
 brands:
   - Exeed
 confidence: 0.95
+brand: Chery
 ---
 
 # Exeed Yaoguang 2027: Weltpremiere ab 51.200 €

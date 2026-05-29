@@ -1,14 +1,24 @@
 ---
-title: "Denza Z9 GT: 5-Minuten-Ladung, 10.000 Auslieferungen"
+title: 'Denza Z9 GT: 5-Minuten-Ladung, 10.000 Auslieferungen'
 date: 2026-05-28T20:18:42.295Z
-description: "Der Denza Z9 GT, BYDs erstes Flash-Charging-Modell, knackt 10.000 Auslieferungen in 2,5 Monaten. Mit 1.140 PS, 2,7 s auf 100 km/h und 880 km WLTP-Reichweite ist er ein Hightech-Kombi. Preis in China ab ca. 34.500 €."
-source: "CarNewsChina"
-image: "/images/denza-z9-gt-5-minuten-ladung-10000-auslieferungen-carnewschina-bb20c6.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Der Denza Z9 GT, BYDs erstes Flash-Charging-Modell, knackt 10.000
+  Auslieferungen in 2,5 Monaten. Mit 1.140 PS, 2,7 s auf 100 km/h und 880 km
+  WLTP-Reichweite ist er ein Hightech-Kombi. Preis in China ab ca. 34.500 €.
+source: CarNewsChina
+image: >-
+  /images/denza-z9-gt-5-minuten-ladung-10000-auslieferungen-carnewschina-bb20c6.webp
+category: news
+brand: Denza
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Elektroauto
+  - EV
 draft: false
-original_url: "https://carnewschina.com/2026/05/28/byds-first-flash-charging-model-denza-z9-gt-surpasses-10000-deliveries-in-2-5-months/"
+original_url: >-
+  https://carnewschina.com/2026/05/28/byds-first-flash-charging-model-denza-z9-gt-surpasses-10000-deliveries-in-2-5-months/
 read_time_minutes: 2
 ---
 

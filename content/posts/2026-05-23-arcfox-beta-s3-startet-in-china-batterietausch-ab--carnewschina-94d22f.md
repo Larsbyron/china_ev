@@ -26,6 +26,7 @@ marketRelevance: china_only
 brands:
   - Arcfox
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # Arcfox Beta S3 startet in China: Batterietausch ab 7.700 €

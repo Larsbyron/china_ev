@@ -9,7 +9,7 @@ source: CarNewsChina
 image: >-
   /images/aistaland-gt7-innenraum-enthllt-marktstart-juni-carnewschina-b89013.webp
 category: news
-brand: BYD
+brand: GAC
 tags:
   - BYD
   - Aion

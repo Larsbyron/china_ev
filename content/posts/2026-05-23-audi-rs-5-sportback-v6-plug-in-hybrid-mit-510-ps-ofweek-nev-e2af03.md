@@ -20,6 +20,7 @@ marketRelevance: eu_planned
 brands:
   - Audi
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 Sportback: V6-Plug-in-Hybrid mit 510 PS

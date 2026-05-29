@@ -23,6 +23,7 @@ marketRelevance: china_only
 brands:
   - Volkswagen
 confidence: 0.95
+brand: Volkswagen
 ---
 
 # VW ID. ERA 9X: E-SUV ab 42.200 € – einsamer Kämpfer in China

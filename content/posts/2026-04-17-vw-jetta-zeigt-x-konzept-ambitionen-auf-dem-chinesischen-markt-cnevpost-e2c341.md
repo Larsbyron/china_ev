@@ -27,6 +27,7 @@ brands:
   - Volkswagen
   - Jetta
 confidence: 0.9
+brand: Volkswagen
 ---
 
 # Volkswagen Jetta X: Konzept gibt Ausblick auf Elektrostrategie

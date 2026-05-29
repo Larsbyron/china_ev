@@ -8,7 +8,7 @@ source: CarNewsChina
 image: >-
   /images/zeekr-8x-ultra-plus-885-ps-hybrid-suv-ab-51200-carnewschina-3351b5.webp
 category: news
-brand: Li Auto
+brand: Zeekr
 tags:
   - Li Auto
   - Zeekr

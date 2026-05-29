@@ -23,6 +23,7 @@ marketRelevance: de_available
 brands:
   - Audi
 confidence: 0.9
+brand: Audi
 ---
 
 # Audi RS 5 Plug-in-Hybrid: Kann er Elektro-Sportler schlagen?

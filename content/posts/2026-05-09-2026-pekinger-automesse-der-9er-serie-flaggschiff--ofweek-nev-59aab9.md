@@ -32,6 +32,7 @@ brands:
   - VW Anhui
   - Leapmotor
 confidence: 0.95
+brand: Li Auto
 ---
 
 # 2026 Pekinger Automesse: Der „9er-Serie“-Flaggschiff-Kampf der SUV-Giganten

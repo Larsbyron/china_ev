@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - Wuling
 confidence: 0.9
+brand: SAIC
 ---
 
 # Wuling Bingo Pro startet ab 7.300 € mit 403 km Reichweite
