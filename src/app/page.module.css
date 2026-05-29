@@ -114,11 +114,17 @@
   display: grid;
   grid-template-columns: 1.4fr 1fr;
   gap: var(--space-6);
-  align-items: start;
+  align-items: stretch;
 }
 
 .heuteFeatured {
-  /* Featured card takes full height of the grid */
+  display: flex;
+  flex-direction: column;
+}
+
+/* Ensure the card inside stretches to full column height */
+.heuteFeatured > * {
+  flex: 1;
 }
 
 .heuteSecondary {

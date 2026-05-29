@@ -65,12 +65,14 @@ export default async function HomePage() {
     .filter((a) => a.slug !== featured?.slug)
     .slice(0, DEUTSCHLAND_SHELF_COUNT)
 
-  // Topic shelves — only show if ≥ MIN_SHELF_ARTICLES
+  // Topic shelves — only show if ≥ MIN_SHELF_ARTICLES.
+  // Snap article count down to the nearest multiple of 4 so the grid rows are always full.
   const topicShelves = TOPICS
-    .map((topic) => ({
-      topic,
-      articles: getArticlesByTopic(topic.slug).slice(0, SHELF_ARTICLES_PER_TOPIC),
-    }))
+    .map((topic) => {
+      const raw = getArticlesByTopic(topic.slug).slice(0, SHELF_ARTICLES_PER_TOPIC)
+      const snapped = Math.floor(raw.length / 4) * 4
+      return { topic, articles: raw.slice(0, Math.max(snapped, 0)) }
+    })
     .filter((shelf) => shelf.articles.length >= MIN_SHELF_ARTICLES)
 
   // "Neueste Meldungen" — compact list of remaining articles
