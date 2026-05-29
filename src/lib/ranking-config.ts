@@ -24,11 +24,11 @@ export const RANKING_WEIGHTS = {
 // Minimum articles before a topic shelf renders on the homepage
 export const MIN_SHELF_ARTICLES = 3
 
-// Number of articles per topic shelf on homepage
-export const SHELF_ARTICLES_PER_TOPIC = 5
+// Number of articles per topic shelf on homepage (4 cols × 2 rows = 8, symmetrical)
+export const SHELF_ARTICLES_PER_TOPIC = 8
 
 // Target total articles visible on homepage
-export const HOMEPAGE_ARTICLE_TARGET = 50
+export const HOMEPAGE_ARTICLE_TARGET = 60
 
 // Deutschland shelf article count
-export const DEUTSCHLAND_SHELF_COUNT = 6
+export const DEUTSCHLAND_SHELF_COUNT = 8
