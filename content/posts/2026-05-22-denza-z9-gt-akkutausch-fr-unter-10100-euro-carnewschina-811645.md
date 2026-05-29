@@ -10,10 +10,10 @@ image: /images/denza-z9-gt-akkutausch-fr-unter-10100-euro-carnewschina-811645.we
 category: news
 brand: Denza
 tags:
-  - BYD
-  - MG
+  - Denza
   - Batterie
-  - EV
+  - PHEV
+  - Absatz
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/21/byd-blade-battery-2-0-replacement-less-than-11600-usd-in-china-says-denza-z9-gt-ev-owner/

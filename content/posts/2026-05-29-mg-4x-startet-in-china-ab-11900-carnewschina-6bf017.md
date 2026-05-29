@@ -1,18 +1,28 @@
 ---
-title: "MG 4X startet in China ab 11.900 €"
+title: MG 4X startet in China ab 11.900 €
 date: 2026-05-29T20:14:22.464Z
-description: "MG bringt den kompakten E-SUV 4X in China ab ca. 11.900 € auf den Markt. Mit bis zu 610 km CLTC-Reichweite und L2+-Assistenz. Ein Europa-Start ist noch nicht bestätigt."
-source: "CarNewsChina"
-image: "/images/mg-4x-startet-in-china-ab-11900-carnewschina-6bf017.webp"
-category: "news"
-brand: "MG"
-brands: ["MG"]
-tags: ["MG", "BYD", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  MG bringt den kompakten E-SUV 4X in China ab ca. 11.900 € auf den Markt. Mit
+  bis zu 610 km CLTC-Reichweite und L2+-Assistenz. Ein Europa-Start ist noch
+  nicht bestätigt.
+source: CarNewsChina
+image: /images/mg-4x-startet-in-china-ab-11900-carnewschina-6bf017.webp
+category: news
+brand: MG
+brands:
+  - MG
+tags:
+  - MG
+  - Batterie
+  - Reichweite
+  - Zoll
+  - PHEV
 draft: false
-original_url: "https://carnewschina.com/2026/05/27/mg-launches-compact-electric-suv-mg-4x-in-china-starting-from-13600-usd/"
+original_url: >-
+  https://carnewschina.com/2026/05/27/mg-launches-compact-electric-suv-mg-4x-in-china-starting-from-13600-usd/
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # MG 4X startet in China ab 11.900 €

@@ -11,11 +11,9 @@ image: /images/dreames-raketenauto-hypercar-concept-mit-09-s-auf-sina-26b80d.web
 category: news
 brand: Xiaomi
 tags:
-  - NIO
-  - Li Auto
-  - Tesla
+  - Xiaomi
   - Batterie
-  - EV
+  - Börse
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml

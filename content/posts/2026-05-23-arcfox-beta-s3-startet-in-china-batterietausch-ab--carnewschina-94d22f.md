@@ -10,12 +10,11 @@ image: >-
   /images/arcfox-beta-s3-startet-in-china-batterietausch-ab-carnewschina-94d22f.webp
 category: news
 tags:
-  - MG
-  - Tesla
+  - Volkswagen
   - Batterie
   - Reichweite
+  - Schnellladen
   - Zoll
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/23/arcfox-beta-s3-launches-in-china-leveraging-catls-battery-swapping-network-with-entry-level-baas-pricing-of-8800-usd/

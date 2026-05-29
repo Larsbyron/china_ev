@@ -9,10 +9,11 @@ source: ChooseAuto
 image: /images/wey-v9x-debtiert-44800-1700-km-cltc-4ssprint-chooseauto-b10aa3.webp
 category: news
 tags:
-  - MG
+  - Great Wall
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/905867.shtml'
 read_time_minutes: 4

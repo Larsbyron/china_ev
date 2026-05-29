@@ -9,11 +9,12 @@ source: D1EV
 image: /images/wuling-bingo-pro-startet-ab-7300-mit-403-km-reichw-d1ev-d54c06.webp
 category: news
 tags:
-  - BYD
+  - SAIC
   - Batterie
+  - Reichweite
   - Zoll
   - Elektroauto
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300200'
 read_time_minutes: 3

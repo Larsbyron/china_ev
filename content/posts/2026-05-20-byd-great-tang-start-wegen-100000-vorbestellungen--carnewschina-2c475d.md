@@ -13,8 +13,6 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
-  - Li Auto
   - Batterie
   - Reichweite
 draft: false

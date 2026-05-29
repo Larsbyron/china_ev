@@ -11,7 +11,6 @@ category: news
 brand: Geely
 tags:
   - Geely
-  - MG
   - Zoll
 draft: false
 original_url: >-

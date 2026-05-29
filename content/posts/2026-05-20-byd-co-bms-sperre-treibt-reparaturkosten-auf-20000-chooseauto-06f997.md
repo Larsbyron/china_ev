@@ -11,13 +11,10 @@ image: >-
 category: news
 tags:
   - BYD
-  - NIO
-  - XPeng
-  - Xpeng
   - Batterie
   - Elektroauto
-  - E-Auto
-  - EV
+  - Absatz
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/907312.shtml'
 read_time_minutes: 2

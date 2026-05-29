@@ -8,7 +8,10 @@ description: >-
 source: ChooseAuto
 category: news
 tags:
+  - Huawei
   - Batterie
+  - Absatz
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/907313.shtml'
 read_time_minutes: 2

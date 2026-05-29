@@ -11,13 +11,11 @@ image: >-
 category: news
 tags:
   - BYD
-  - NIO
-  - XPeng
-  - Xpeng
-  - Li Auto
   - Batterie
   - Reichweite
   - Elektroauto
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/901866.shtml'
 read_time_minutes: 3

@@ -1,14 +1,20 @@
 ---
-title: "Li Auto vs. HIMA: Zwei KI-Philosophien fürs Auto-Cockpit"
+title: 'Li Auto vs. HIMA: Zwei KI-Philosophien fürs Auto-Cockpit'
 date: 2026-05-10T20:31:38.424Z
-description: "Li Auto und HIMA liefern sich auf der Peking Auto Show einen Wettkampf um die smarte Innenraum-KI. Während HIMA auf einen cloudbasierten Befehlsverteiler setzt, verfolgt Li Auto mit dem Li L9 Livis den „physischen Gesamt-Assistenten“ – ein strategischer Richtungsstreit."
-source: "Sina"
-image: "/images/li-auto-vs-hima-zwei-ki-philosophien-frs-auto-cock-sina-e9e0dc.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "NIO", "XPeng", "XPeng", "MG", "EV"]
+description: >-
+  Li Auto und HIMA liefern sich auf der Peking Auto Show einen Wettkampf um die
+  smarte Innenraum-KI. Während HIMA auf einen cloudbasierten Befehlsverteiler
+  setzt, verfolgt Li Auto mit dem Li L9 Livis den „physischen
+  Gesamt-Assistenten“ – ein strategischer Richtungsstreit.
+source: Sina
+image: /images/li-auto-vs-hima-zwei-ki-philosophien-frs-auto-cock-sina-e9e0dc.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Sicherheit
 draft: false
-original_url: "https://auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml"
+original_url: 'https://auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml'
 read_time_minutes: 3
 ---
 

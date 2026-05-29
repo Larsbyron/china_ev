@@ -12,13 +12,9 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - XPeng
-  - XPeng
-  - Li Auto
-  - MG
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/899187.shtml'
 read_time_minutes: 3

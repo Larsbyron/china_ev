@@ -9,9 +9,11 @@ source: D1EV
 image: /images/arcfox-alpha-t5s5-800-volt-stromer-ab-19200-d1ev-e9c1b3.webp
 category: news
 tags:
+  - BAIC
   - Batterie
   - Elektroauto
-  - EV
+  - Absatz
+  - Börse
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299271'
 read_time_minutes: 2

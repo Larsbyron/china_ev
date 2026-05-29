@@ -8,10 +8,9 @@ description: >-
 source: ChooseAuto
 category: news
 tags:
-  - MG
+  - Porsche
   - Batterie
   - Elektroauto
-  - EV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/909342.shtml'
 read_time_minutes: 2

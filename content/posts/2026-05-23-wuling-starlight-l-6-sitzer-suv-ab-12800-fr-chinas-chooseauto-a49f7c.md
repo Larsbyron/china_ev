@@ -11,9 +11,8 @@ image: >-
   /images/wuling-starlight-l-6-sitzer-suv-ab-12800-fr-chinas-chooseauto-a49f7c.webp
 category: news
 tags:
-  - Li Auto
+  - Volkswagen
   - Reichweite
-  - EV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/910506.shtml'
 read_time_minutes: 3

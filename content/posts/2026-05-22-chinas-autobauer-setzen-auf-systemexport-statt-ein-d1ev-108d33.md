@@ -10,10 +10,7 @@ source: D1EV
 image: /images/chinas-autobauer-setzen-auf-systemexport-statt-ein-d1ev-108d33.webp
 category: news
 tags:
-  - MG
   - Batterie
-  - E-Auto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300075'
 read_time_minutes: 3
@@ -28,6 +25,7 @@ brands:
   - Gecko New Energy
   - Baolong Technology
 confidence: 0.8
+brand: null
 ---
 
 # Chinas Autobauer setzen auf Systemexport statt Einzelverkauf

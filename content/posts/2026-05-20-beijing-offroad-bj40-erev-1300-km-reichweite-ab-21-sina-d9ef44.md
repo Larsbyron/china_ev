@@ -9,9 +9,9 @@ source: Sina
 image: /images/beijing-offroad-bj40-erev-1300-km-reichweite-ab-21-sina-d9ef44.webp
 category: news
 tags:
-  - MG
   - Reichweite
-  - EV
+  - Schnellladen
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
@@ -23,6 +23,7 @@ marketRelevance: china_only
 brands:
   - Beijing Off‑road
 confidence: 0.5
+brand: null
 ---
 
 # Beijing Off‑road BJ40 EREV: 1.300 km Reichweite ab 21. Mai

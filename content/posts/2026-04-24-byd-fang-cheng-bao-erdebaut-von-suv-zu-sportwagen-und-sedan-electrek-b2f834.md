@@ -11,10 +11,6 @@ image: >-
 category: news
 tags:
   - BYD
-  - Fang Cheng Bao
-  - Sportwagen
-  - Formula S
-  - Peking Autoshow
 draft: false
 original_url: >-
   https://electrek.co/2026/04/24/byds-off-road-brand-debuts-first-ev-sedan-and-sports-car-images/

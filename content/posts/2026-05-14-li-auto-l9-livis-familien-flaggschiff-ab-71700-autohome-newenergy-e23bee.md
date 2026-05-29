@@ -16,7 +16,7 @@ tags:
   - Reichweite
   - Ladestation
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314180.html'
 read_time_minutes: 3

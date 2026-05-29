@@ -13,9 +13,9 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - MG
   - Batterie
   - Reichweite
+  - Schnellladen
   - Elektroauto
 draft: false
 original_url: >-

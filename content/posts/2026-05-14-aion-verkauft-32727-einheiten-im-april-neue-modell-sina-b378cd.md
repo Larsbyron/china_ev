@@ -11,6 +11,7 @@ category: news
 brand: Aion
 tags:
   - Aion
+  - Autonomes Fahren
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml

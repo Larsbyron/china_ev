@@ -10,10 +10,11 @@ source: ChooseAuto
 image: /images/hyper-s600-503-ps-ab-24200-aktionspreis-chooseauto-2ad05f.webp
 category: news
 tags:
-  - MG
+  - GAC
   - Batterie
   - Zoll
-  - EV
+  - Autonomes Fahren
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/904887.shtml'
 read_time_minutes: 3

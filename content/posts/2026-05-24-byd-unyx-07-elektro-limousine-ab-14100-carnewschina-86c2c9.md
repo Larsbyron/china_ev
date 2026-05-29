@@ -11,9 +11,6 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - XPeng
-  - Xpeng
-  - MG
   - Batterie
   - Reichweite
   - Zoll

@@ -1,14 +1,21 @@
 ---
-title: "Ex-BYD-Team gründet Robotik-Startup – 38 Mio. € für E-Auto-Fertigung"
+title: Ex-BYD-Team gründet Robotik-Startup – 38 Mio. € für E-Auto-Fertigung
 date: 2026-05-17T05:50:39.201Z
-description: "Das Joint Venture BoYin HeChuang von Bosch und Galaxy General sammelt 38 Mio. € ein. Der KI-Roboter BW10-Lite soll in der E-Auto-Produktion bei Bosch-JV United Automotive Electronic Systems eingesetzt werden – Team mit BYD-Erfahrung."
-source: "D1EV"
-image: "/images/ex-byd-team-grndet-robotik-startup-38-mio-fr-e-aut-d1ev-f6c621.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Elektroauto", "E-Auto", "EV"]
+description: >-
+  Das Joint Venture BoYin HeChuang von Bosch und Galaxy General sammelt 38 Mio.
+  € ein. Der KI-Roboter BW10-Lite soll in der E-Auto-Produktion bei Bosch-JV
+  United Automotive Electronic Systems eingesetzt werden – Team mit
+  BYD-Erfahrung.
+source: D1EV
+image: /images/ex-byd-team-grndet-robotik-startup-38-mio-fr-e-aut-d1ev-f6c621.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Elektroauto
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299253"
+original_url: 'https://www.d1ev.com/news/shichang/299253'
 read_time_minutes: 3
 ---
 

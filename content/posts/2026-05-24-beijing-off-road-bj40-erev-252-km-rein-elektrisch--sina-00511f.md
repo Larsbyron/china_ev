@@ -10,9 +10,9 @@ source: Sina
 image: /images/beijing-off-road-bj40-erev-252-km-rein-elektrisch-sina-00511f.webp
 category: news
 tags:
-  - MG
+  - Great Wall
   - Reichweite
-  - EV
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml

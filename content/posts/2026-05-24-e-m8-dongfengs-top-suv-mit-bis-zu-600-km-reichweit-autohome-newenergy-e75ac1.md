@@ -10,11 +10,11 @@ image: >-
   /images/e-m8-dongfengs-top-suv-mit-bis-zu-600-km-reichweit-autohome-newenergy-e75ac1.webp
 category: news
 tags:
-  - MG
+  - Huawei
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Autonomes Fahren
 draft: false
 original_url: 'https://www.autohome.com.cn/news/202605/1314459.html'
 read_time_minutes: 3

@@ -10,12 +10,7 @@ image: >-
   /images/ai-buick-verteidigt-mpv-wertegerade-nach-nio-es9-attacke-cnevpost-b2e341.webp
 category: news
 tags:
-  - Buick
-  - GM
-  - MPV
   - NIO
-  - ES9
-  - China
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/15/buick-defends-mpv-legacy-against-nio-es9-threat/

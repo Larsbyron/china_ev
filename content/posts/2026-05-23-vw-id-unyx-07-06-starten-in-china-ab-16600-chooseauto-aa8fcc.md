@@ -10,11 +10,11 @@ source: ChooseAuto
 image: /images/vw-id-unyx-07-06-starten-in-china-ab-16600-chooseauto-aa8fcc.webp
 category: news
 tags:
-  - MG
+  - Volkswagen
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/910776.shtml'
 read_time_minutes: 4

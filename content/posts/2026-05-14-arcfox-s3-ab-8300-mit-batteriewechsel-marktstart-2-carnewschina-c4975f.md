@@ -14,6 +14,8 @@ tags:
   - Batterie
   - Reichweite
   - Zoll
+  - Autonomes Fahren
+  - Autopilot
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/13/arcfox-s3-to-officially-launch-on-may-22-with-swappable-battery-option/
@@ -27,6 +29,7 @@ brands:
   - Arcfox
   - BAIC
 confidence: 0.95
+brand: null
 ---
 
 # Arcfox S3: Ab 8.300 € mit Batteriewechsel – Marktstart 22. Mai

@@ -11,8 +11,9 @@ image: >-
   /images/chery-tiggo-8-plus-camping-suv-ab-11100-mit-bonus-chooseauto-a319d7.webp
 category: news
 tags:
-  - MG
+  - Chery
   - Zoll
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/912993.shtml'
 read_time_minutes: 2

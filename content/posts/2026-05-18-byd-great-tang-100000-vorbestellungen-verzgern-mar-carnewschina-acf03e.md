@@ -14,7 +14,6 @@ tags:
   - BYD
   - Batterie
   - Ladestation
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/18/byd-great-tang-launch-delayed-as-100000-orders-strain-blade-battery-2-0-supply-report-says/

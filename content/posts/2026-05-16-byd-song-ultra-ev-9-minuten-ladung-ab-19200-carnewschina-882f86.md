@@ -11,11 +11,8 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
-  - Onvo
   - Reichweite
   - Ladestation
-  - EV
   - Marktanteil
 draft: false
 original_url: >-

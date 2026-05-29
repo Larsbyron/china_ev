@@ -10,10 +10,8 @@ image: >-
   /images/beijing-off-road-bj40-erev-1300-km-reichweite-ab-2-chooseauto-622301.webp
 category: news
 tags:
-  - MG
   - Batterie
   - Reichweite
-  - EV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/912649.shtml'
 read_time_minutes: 2
@@ -25,6 +23,7 @@ marketRelevance: china_only
 brands:
   - Beijing Off-road
 confidence: 0.95
+brand: null
 ---
 
 # Beijing Off-road BJ40 EREV: 1300 km Reichweite ab 23.000 €

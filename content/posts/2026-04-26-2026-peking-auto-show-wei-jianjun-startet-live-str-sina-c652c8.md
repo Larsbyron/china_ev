@@ -9,7 +9,8 @@ source: Sina
 image: /images/2026-peking-auto-show-wei-jianjun-startet-live-str-sina-c652c8.webp
 category: news
 tags:
-  - MG
+  - Great Wall
+  - Sicherheit
 draft: false
 original_url: 'https://auto.sina.com.cn/news/hy/2026-04-26/detail-inhvvuya9791693.shtml'
 read_time_minutes: 4

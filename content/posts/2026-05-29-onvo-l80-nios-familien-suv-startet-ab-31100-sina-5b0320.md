@@ -13,14 +13,10 @@ brands:
   - NIO
   - Onvo
 tags:
-  - BYD
-  - NIO
-  - Li Auto
   - Onvo
-  - MG
   - Batterie
   - Elektroauto
-  - E-Auto
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-16/detail-inhyawym4377936.shtml

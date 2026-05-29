@@ -12,7 +12,6 @@ image: /images/zeekr-liefert-im-april-31787-neufahrzeuge-aus-ein-sina-6e0168.web
 category: news
 brand: Zeekr
 tags:
-  - Geely
   - Zeekr
 draft: false
 original_url: 'https://auto.sina.com.cn/news/2026-05-01/detail-inhwkpti0669247.shtml'

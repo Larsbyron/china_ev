@@ -8,8 +8,7 @@ description: >-
 source: D1EV
 image: /images/bosch-co-deutsche-zulieferer-setzen-in-china-auf-e-d1ev-4ff817.webp
 category: news
-tags:
-  - MG
+tags: []
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299065'
 read_time_minutes: 2
@@ -23,6 +22,7 @@ brands:
   - Valeo
   - Aptiv
 confidence: 0.9
+brand: null
 ---
 
 # Bosch & Co.: Deutsche Zulieferer setzen in China auf Embodied AI

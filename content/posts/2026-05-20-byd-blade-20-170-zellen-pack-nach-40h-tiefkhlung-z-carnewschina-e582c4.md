@@ -12,10 +12,7 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - Tesla
   - Batterie
-  - E-Auto
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/18/byd-blade-battery-teardown-reveals-170-cell-pack-after-40-hour-freeze-team-defends-8-hour-dismantling/

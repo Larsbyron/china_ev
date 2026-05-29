@@ -1,14 +1,23 @@
 ---
-title: "BYD: 140.000 Bestellungen durch Blade-2.0-Engpass"
+title: 'BYD: 140.000 Bestellungen durch Blade-2.0-Engpass'
 date: 2026-05-18T13:48:25.129Z
-description: "BYD (比亚迪) kämpft mit Lieferengpässen bei der Blade-Batterie 2.0 – 140.000 unerfüllte Bestellungen für Schnellladermodelle. In Europa sucht BYD derweil nach Produktionspartnern."
-source: "CarNewsChina"
-image: "/images/byd-140000-bestellungen-durch-blade-20-engpass-carnewschina-be725f.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Ladestation", "EV"]
+description: >-
+  BYD (比亚迪) kämpft mit Lieferengpässen bei der Blade-Batterie 2.0 – 140.000
+  unerfüllte Bestellungen für Schnellladermodelle. In Europa sucht BYD derweil
+  nach Produktionspartnern.
+source: CarNewsChina
+image: >-
+  /images/byd-140000-bestellungen-durch-blade-20-engpass-carnewschina-be725f.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Ladestation
+  - Schnellladen
 draft: false
-original_url: "https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production/"
+original_url: >-
+  https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production/
 read_time_minutes: 3
 ---
 

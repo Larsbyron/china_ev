@@ -9,10 +9,9 @@ source: Sina
 image: /images/bj40-erev-long-range-252-km-elektrisch-1300-km-ges-sina-c248cf.webp
 category: news
 tags:
-  - BYD
+  - Great Wall
   - Reichweite
-  - E-Auto
-  - EV
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml

@@ -10,8 +10,7 @@ description: >-
 source: Sina
 image: /images/he-zhaopeng-212-offroad-brand-global-expansion-sina-c87fb6.webp
 category: news
-tags:
-  - EV
+tags: []
 draft: false
 original_url: 'https://auto.sina.com.cn/news/2026-04-26/detail-inhvvuye8438228.shtml'
 read_time_minutes: 9
@@ -21,6 +20,7 @@ marketRelevance: china_only
 brands:
   - '212'
 confidence: 0.6
+brand: null
 ---
 
 # He Zhaopeng: 212 verschwendet keine Emotionen, sondern bringt Geländewagen mit echtem Charakter auf die Welt

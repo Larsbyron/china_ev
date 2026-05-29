@@ -12,11 +12,8 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - XPeng
-  - Xpeng
   - Batterie
   - Elektroauto
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/17/byd-crushes-blogger-in-court-second-instance-ruling-forces-apology-after-293000-usd-verdict/

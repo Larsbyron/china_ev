@@ -10,7 +10,9 @@ image: >-
   /images/huawei-chef-besucht-dongfeng-yijing-x9-kommt-im-he-chooseauto-b5eb85.webp
 category: news
 tags:
+  - Huawei
   - Batterie
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/909322.shtml'
 read_time_minutes: 2

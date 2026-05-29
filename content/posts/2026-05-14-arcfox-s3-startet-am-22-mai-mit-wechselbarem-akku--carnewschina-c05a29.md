@@ -10,9 +10,10 @@ image: >-
   /images/arcfox-s3-startet-am-22-mai-mit-wechselbarem-akku-carnewschina-c05a29.webp
 category: news
 tags:
-  - Tesla
+  - BAIC
   - Reichweite
   - Zoll
+  - Absatz
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/13/arcfox-s3-to-officially-launch-on-may-22-with-swappable-battery-option/

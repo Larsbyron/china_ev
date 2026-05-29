@@ -1,14 +1,20 @@
 ---
-title: "Xiaomi YU7 Standard kehrt zurück – ab 29.900 €"
+title: Xiaomi YU7 Standard kehrt zurück – ab 29.900 €
 date: 2026-05-28T20:17:43.476Z
-description: "Xiaomi bringt das Standardmodell des YU7 zurück, um direkt mit dem Tesla Model Y zu konkurrieren. Der Einstiegspreis liegt in China bei ca. 29.900 €. Der Marktstart in Deutschland bleibt ungewiss."
-source: "Sina"
-image: "/images/xiaomi-yu7-standard-kehrt-zurck-ab-29900-sina-87f71a.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "Xiaomi SU", "Tesla", "Reichweite", "E-Auto", "EV"]
+description: >-
+  Xiaomi bringt das Standardmodell des YU7 zurück, um direkt mit dem Tesla Model
+  Y zu konkurrieren. Der Einstiegspreis liegt in China bei ca. 29.900 €. Der
+  Marktstart in Deutschland bleibt ungewiss.
+source: Sina
+image: /images/xiaomi-yu7-standard-kehrt-zurck-ab-29900-sina-87f71a.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml
 read_time_minutes: 5
 ---
 

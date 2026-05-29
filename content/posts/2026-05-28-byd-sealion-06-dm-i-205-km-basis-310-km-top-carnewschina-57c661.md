@@ -1,14 +1,23 @@
 ---
-title: "BYD Sealion 06 DM-i: 205 km Basis, 310 km Top"
+title: 'BYD Sealion 06 DM-i: 205 km Basis, 310 km Top'
 date: 2026-05-28T20:13:14.802Z
-description: "BYDs neues Plug-in-Hybrid-SUV startet in China ab 16.600 €. Basisversion 205 km E-Reichweite (CLTC), Topversion 310 km – das entspricht ca. 174 bzw. 264 km nach WLTP."
-source: "CarNewsChina"
-image: "/images/byd-sealion-06-dm-i-205-km-basis-310-km-top-carnewschina-57c661.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Reichweite", "EV"]
+description: >-
+  BYDs neues Plug-in-Hybrid-SUV startet in China ab 16.600 €. Basisversion 205
+  km E-Reichweite (CLTC), Topversion 310 km – das entspricht ca. 174 bzw. 264 km
+  nach WLTP.
+source: CarNewsChina
+image: /images/byd-sealion-06-dm-i-205-km-basis-310-km-top-carnewschina-57c661.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
+  - Hybrid
+  - PHEV
+  - Sicherheit
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/byd-launches-2026-sealion-06-dm-i-with-its-fifth-gen-hybrid-tech-and-310-km-ev-range/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/byd-launches-2026-sealion-06-dm-i-with-its-fifth-gen-hybrid-tech-and-310-km-ev-range/
 read_time_minutes: 3
 ---
 

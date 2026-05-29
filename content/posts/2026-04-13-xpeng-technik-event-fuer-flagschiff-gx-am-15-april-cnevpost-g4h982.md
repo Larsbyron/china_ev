@@ -10,10 +10,10 @@ image: >-
 category: news
 tags:
   - XPeng
-  - GX
-  - SUV
-  - Technik
-  - Premium
+  - Batterie
+  - Reichweite
+  - Autonomes Fahren
+  - Sicherheit
 draft: false
 original_url: 'https://cnevpost.com/2026/04/13/xpeng-to-hold-tech-event-gx-apr-15/'
 primaryTopic: modelle-marktstarts

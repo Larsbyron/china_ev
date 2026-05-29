@@ -12,7 +12,6 @@ image: /images/zeekr-liefert-im-april-31787-neue-fahrzeuge-aus-an-sina-b56d76.we
 category: news
 brand: Zeekr
 tags:
-  - Geely
   - Zeekr
   - Reichweite
 draft: false

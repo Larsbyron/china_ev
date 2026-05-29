@@ -13,7 +13,6 @@ tags:
   - Xiaomi
   - Batterie
   - Reichweite
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/21/xiaomi-launches-yu7-gt-in-china-a-performance-suv-starting-at-57300-usd/

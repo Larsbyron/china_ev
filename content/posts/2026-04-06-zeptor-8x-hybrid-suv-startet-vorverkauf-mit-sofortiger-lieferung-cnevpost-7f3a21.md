@@ -11,10 +11,9 @@ image: >-
 category: news
 tags:
   - Zeekr
-  - Geely
+  - Batterie
+  - Reichweite
   - Hybrid
-  - SUV
-  - 8X
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/07/zeekr-to-launch-8x-apr-17-with-immediate-deliveries/

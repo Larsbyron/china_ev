@@ -12,15 +12,12 @@ image: /images/vw-id-era-9x-saic-interview-sina-inhvxatm2483042.webp
 category: news
 brand: SAIC
 tags:
-  - Volkswagen
-  - SAIC Volkswagen
-  - ID. ERA 9X
-  - Passat ePro
-  - Tiguan L ePro
+  - SAIC
+  - Batterie
+  - Reichweite
+  - Hybrid
   - PHEV
-  - Beijing Auto Show 2026
-  - Interview
-  - NEV
+  - Absatz
 draft: false
 original_url: 'https://auto.sina.com.cn/news/2026-04-27/detail-inhvxatm2483042.shtml'
 read_time_minutes: 7

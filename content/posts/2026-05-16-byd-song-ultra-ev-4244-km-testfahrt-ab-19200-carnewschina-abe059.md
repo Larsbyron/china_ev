@@ -11,11 +11,8 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
-  - Onvo
-  - Tesla
   - Reichweite
-  - EV
+  - Schnellladen
   - Marktanteil
 draft: false
 original_url: >-

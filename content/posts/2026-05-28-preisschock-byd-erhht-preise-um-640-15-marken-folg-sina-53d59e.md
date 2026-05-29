@@ -11,13 +11,11 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
-  - MG
-  - Tesla
   - Batterie
   - Reichweite
   - Elektroauto
-  - E-Auto
+  - Hybrid
+  - Marktanteil
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml

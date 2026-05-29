@@ -13,6 +13,7 @@ brand: Geely
 tags:
   - Geely
   - Zoll
+  - Sicherheit
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/27/lotus-emira-420-sport-debuts-with-performance-upgrades-and-weight-reduction/

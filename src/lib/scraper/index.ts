@@ -182,32 +182,34 @@ ${article.content}${galleryMarkdown}
 }
 
 /**
- * Extract relevant tags from content
+ * Extract relevant topic tags from content.
+ * Only topical keywords are scanned — brand names are intentionally excluded
+ * so that competitor brands mentioned in the article don't become tags.
+ * The primary brand is added separately as the first tag.
  */
 function extractTags(content: string, brand?: string): string[] {
-  const keywords = [
-    'BYD', 'NIO', 'XPeng', 'Xpeng', 'Li Auto', 'Xiaomi SU', 'Onvo',
-    'Geely', 'Zeekr', 'Leapmotor', 'Aion', 'MG', 'Tesla',
-    'Batterie', 'Reichweite', 'Ladestation', 'EU-Import', 'Zoll',
-    'Elektroauto', 'E-Auto', 'EV', 'Marktanteil'
+  const topicKeywords = [
+    'Batterie', 'Reichweite', 'Ladestation', 'Schnellladen',
+    'EU-Import', 'Zoll', 'Elektroauto', 'Hybrid', 'PHEV',
+    'Autonomes Fahren', 'Autopilot', 'Marktanteil', 'Absatz',
+    'Rückruf', 'Sicherheit', 'Börse', 'IPO',
   ]
 
   const tags: string[] = []
 
-  // Add brand as first tag if found
   if (brand) {
     tags.push(brand)
   }
 
   const upperContent = content.toUpperCase()
 
-  for (const keyword of keywords) {
+  for (const keyword of topicKeywords) {
     if (upperContent.includes(keyword.toUpperCase())) {
       tags.push(keyword)
     }
   }
 
-  return Array.from(new Set(tags)).slice(0, 8)
+  return Array.from(new Set(tags)).slice(0, 6)
 }
 
 /**

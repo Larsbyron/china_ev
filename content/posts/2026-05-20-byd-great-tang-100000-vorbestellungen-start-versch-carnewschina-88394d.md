@@ -1,14 +1,21 @@
 ---
-title: "BYD Great Tang: 100.000 Vorbestellungen, Start verschoben"
+title: 'BYD Great Tang: 100.000 Vorbestellungen, Start verschoben'
 date: 2026-05-20T12:18:40.338Z
-description: "Der BYD Great Tang, ein vollelektrisches Siebensitzer-SUV, startet in China erst am 8. Juni 2026. Grund: Engpässe bei der Blade Battery 2.0. Preis ab 250.000 Yuan (ca. 32.000 €). Reichweiten bis 950 km (CLTC)."
-source: "CarNewsChina"
-image: "/images/byd-great-tang-100000-vorbestellungen-start-versch-carnewschina-88394d.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Li Auto", "Reichweite"]
+description: >-
+  Der BYD Great Tang, ein vollelektrisches Siebensitzer-SUV, startet in China
+  erst am 8. Juni 2026. Grund: Engpässe bei der Blade Battery 2.0. Preis ab
+  250.000 Yuan (ca. 32.000 €). Reichweiten bis 950 km (CLTC).
+source: CarNewsChina
+image: >-
+  /images/byd-great-tang-100000-vorbestellungen-start-versch-carnewschina-88394d.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/byd-great-tang-launch-delayed-as-100000-orders-strain-blade-battery-2-0-supply-report-says/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/byd-great-tang-launch-delayed-as-100000-orders-strain-blade-battery-2-0-supply-report-says/
 read_time_minutes: 3
 ---
 

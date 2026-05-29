@@ -9,9 +9,10 @@ source: Sina
 image: /images/beijing-off-road-bj40-erev-1300-km-reichweite-ab-2-sina-ce28bb.webp
 category: news
 tags:
-  - BYD
+  - Great Wall
   - Reichweite
-  - EV
+  - Schnellladen
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml

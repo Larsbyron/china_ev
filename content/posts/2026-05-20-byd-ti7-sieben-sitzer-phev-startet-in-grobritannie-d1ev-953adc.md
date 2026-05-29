@@ -12,7 +12,8 @@ brand: BYD
 tags:
   - BYD
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299749'
 read_time_minutes: 2

@@ -11,8 +11,7 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - E-Auto
-  - EV
+  - Autonomes Fahren
   - Marktanteil
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300379'

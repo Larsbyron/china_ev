@@ -9,7 +9,9 @@ description: >-
 source: Sina
 image: /images/voyah-dreamer-mpv-bestseller-ab-38400-euro-in-chin-sina-acf333.webp
 category: news
-tags: []
+tags:
+  - Voyah
+  - Hybrid
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-12/detail-inhxrfsp8367662.shtml

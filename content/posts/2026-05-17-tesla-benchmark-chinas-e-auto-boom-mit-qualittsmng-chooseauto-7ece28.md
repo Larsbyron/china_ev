@@ -13,13 +13,10 @@ category: news
 brand: Tesla
 tags:
   - Tesla
-  - BYD
-  - NIO
-  - XPeng
-  - Xpeng
-  - MG
   - Batterie
   - Reichweite
+  - Elektroauto
+  - Marktanteil
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/904730.shtml'
 read_time_minutes: 3

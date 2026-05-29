@@ -9,10 +9,9 @@ source: OFweek NEV
 image: /images/ai-vw-id-era-9x-riesen-suv-ab-42000-in-china-ofweek-nev-78997f.webp
 category: news
 tags:
-  - NIO
+  - Volkswagen
   - Batterie
   - Reichweite
-  - EV
   - Marktanteil
 draft: false
 original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'

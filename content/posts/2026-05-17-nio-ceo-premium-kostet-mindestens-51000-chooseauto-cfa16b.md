@@ -12,12 +12,8 @@ category: news
 brand: NIO
 tags:
   - NIO
-  - XPeng
-  - Xpeng
-  - MG
-  - Tesla
   - Batterie
-  - EV
+  - Autonomes Fahren
   - Marktanteil
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/905053.shtml'

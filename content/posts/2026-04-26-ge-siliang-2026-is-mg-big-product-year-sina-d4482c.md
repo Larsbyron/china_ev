@@ -14,6 +14,8 @@ tags:
   - MG
   - Batterie
   - Reichweite
+  - Absatz
+  - Sicherheit
 draft: false
 original_url: 'https://auto.sina.com.cn/news/2026-04-26/detail-inhvveae9883143.shtml'
 read_time_minutes: 8

@@ -11,7 +11,8 @@ source: ChooseAuto
 image: >-
   /images/ai-100000-budget-fr-ein-neues-energie-suv-ist-der-202-chooseauto-d5a5a3.webp
 category: news
-tags: []
+tags:
+  - GAC
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/898891.shtml'
 read_time_minutes: 1

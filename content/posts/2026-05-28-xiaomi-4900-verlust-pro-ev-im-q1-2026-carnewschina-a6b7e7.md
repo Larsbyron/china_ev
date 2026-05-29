@@ -1,14 +1,20 @@
 ---
-title: "Xiaomi: 4.900 € Verlust pro EV im Q1 2026"
+title: 'Xiaomi: 4.900 € Verlust pro EV im Q1 2026'
 date: 2026-05-28T20:11:17.837Z
-description: "Xiaomis Autosparte fährt im ersten Quartal 2026 einen operativen Verlust von ca. 397 Mio. € ein. Bei 80.856 Auslieferungen ergibt das ein Minus von rund 4.900 € pro Fahrzeug."
-source: "CarNewsChina"
-image: "/images/xiaomi-4900-verlust-pro-ev-im-q1-2026-carnewschina-a6b7e7.webp"
-category: "news"
-brand: "Xiaomi"
-tags: ["Xiaomi", "MG", "Tesla", "Elektroauto", "EV"]
+description: >-
+  Xiaomis Autosparte fährt im ersten Quartal 2026 einen operativen Verlust von
+  ca. 397 Mio. € ein. Bei 80.856 Auslieferungen ergibt das ein Minus von rund
+  4.900 € pro Fahrzeug.
+source: CarNewsChina
+image: /images/xiaomi-4900-verlust-pro-ev-im-q1-2026-carnewschina-a6b7e7.webp
+category: news
+brand: Xiaomi
+tags:
+  - Xiaomi
+  - Elektroauto
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/
 read_time_minutes: 2
 ---
 

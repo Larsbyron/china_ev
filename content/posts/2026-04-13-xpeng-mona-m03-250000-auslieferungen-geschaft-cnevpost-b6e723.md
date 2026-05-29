@@ -10,10 +10,8 @@ image: /images/ai-xpeng-mona-m03-250000-auslieferungen-geschaft-cnevpost-b6e723.
 category: news
 tags:
   - XPeng
-  - Mona M03
+  - Reichweite
   - Absatz
-  - Meilenstein
-  - Jugend
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/13/xpeng-reaches-250000-mona-m03-deliveries-all-new-mona-suv-looms/

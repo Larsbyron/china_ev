@@ -8,11 +8,12 @@ description: >-
 source: ChooseAuto
 category: news
 tags:
-  - MG
+  - Voyah
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/909793.shtml'
 read_time_minutes: 4

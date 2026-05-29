@@ -9,11 +9,12 @@ source: ChooseAuto
 image: /images/voyah-taishan-x8-luxus-suv-ab-36200-chooseauto-efa57b.webp
 category: news
 tags:
-  - MG
+  - Voyah
   - Batterie
   - Reichweite
   - Elektroauto
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/909782.shtml'
 read_time_minutes: 2

@@ -10,9 +10,8 @@ image: /images/10000-euro-auto-gegen-30000-euro-flaggschiffe-im-a-d1ev-833db2.we
 category: news
 brand: Avatr
 tags:
-  - XPeng
-  - Xpeng
-  - Aion
+  - Avatr
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/300820'
 read_time_minutes: 5

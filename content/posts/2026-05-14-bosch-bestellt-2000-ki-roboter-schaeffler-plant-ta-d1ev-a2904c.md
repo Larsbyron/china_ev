@@ -9,10 +9,7 @@ description: >-
 source: D1EV
 image: /images/bosch-bestellt-2000-ki-roboter-schaeffler-plant-ta-d1ev-a2904c.webp
 category: news
-tags:
-  - MG
-  - E-Auto
-  - EV
+tags: []
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299065'
 read_time_minutes: 4
@@ -26,6 +23,7 @@ brands:
   - Valeo
   - Aptiv
 confidence: 0.95
+brand: null
 ---
 
 # Bosch bestellt 2.000 KI-Roboter – Schaeffler plant Tausende

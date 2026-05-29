@@ -11,11 +11,11 @@ image: >-
 category: news
 brand: Changan
 tags:
-  - BYD
-  - Geely
+  - Changan
   - Batterie
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
   - Marktanteil
 draft: false
 original_url: >-

@@ -11,8 +11,10 @@ image: >-
   /images/voyah-taishan-x8-40000-vorbestellungen-in-13-tagen-chooseauto-3318ee.webp
 category: news
 tags:
+  - Voyah
   - Zoll
-  - EV
+  - Hybrid
+  - Börse
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/902610.shtml'
 read_time_minutes: 2

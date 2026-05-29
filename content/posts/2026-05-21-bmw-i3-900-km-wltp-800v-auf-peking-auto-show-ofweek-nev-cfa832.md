@@ -9,10 +9,12 @@ description: >-
 source: OFweek NEV
 category: news
 tags:
+  - BMW
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 4

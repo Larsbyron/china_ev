@@ -12,11 +12,8 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - MG
-  - Tesla
   - Batterie
   - Reichweite
-  - EV
   - Marktanteil
 draft: false
 original_url: >-

@@ -13,11 +13,8 @@ category: news
 brand: Onvo
 tags:
   - Onvo
-  - NIO
-  - Li Auto
   - Batterie
   - Reichweite
-  - EV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/909764.shtml'
 read_time_minutes: 3

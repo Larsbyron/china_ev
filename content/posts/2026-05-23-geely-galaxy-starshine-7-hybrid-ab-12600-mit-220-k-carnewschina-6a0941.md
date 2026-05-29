@@ -13,11 +13,9 @@ category: news
 brand: Geely
 tags:
   - Geely
-  - BYD
   - Reichweite
   - Zoll
-  - E-Auto
-  - EV
+  - Hybrid
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/23/geely-galaxy-starshine-7-launched-with-312-kw-and-220-km-ev-range-from-14500-usd-in-china/

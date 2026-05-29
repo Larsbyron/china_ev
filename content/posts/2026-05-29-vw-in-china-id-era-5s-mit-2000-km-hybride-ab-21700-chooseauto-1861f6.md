@@ -13,10 +13,10 @@ brand: Volkswagen
 brands:
   - Volkswagen
 tags:
-  - SAIC
+  - Volkswagen
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/917272.shtml'
 read_time_minutes: 3

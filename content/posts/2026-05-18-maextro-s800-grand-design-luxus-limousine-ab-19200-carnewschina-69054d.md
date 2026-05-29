@@ -10,10 +10,9 @@ image: >-
   /images/maextro-s800-grand-design-luxus-limousine-ab-19200-carnewschina-69054d.webp
 category: news
 tags:
-  - MG
+  - Huawei
   - Reichweite
   - Zoll
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/18/maextro-s800-grand-design-official-images-released-a-luxury-sedan-with-a-potential-300000-usd-price-tag/

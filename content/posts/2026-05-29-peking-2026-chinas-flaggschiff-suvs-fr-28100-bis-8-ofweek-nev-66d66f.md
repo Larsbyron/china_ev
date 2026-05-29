@@ -15,11 +15,11 @@ brands:
   - BYD
   - Denza
 tags:
-  - BYD
   - Li Auto
   - Batterie
   - Reichweite
-  - EV
+  - PHEV
+  - Autonomes Fahren
 draft: false
 original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30686979.html'
 read_time_minutes: 3

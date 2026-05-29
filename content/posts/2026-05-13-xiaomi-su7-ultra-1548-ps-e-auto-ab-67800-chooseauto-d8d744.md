@@ -9,13 +9,9 @@ source: ChooseAuto
 image: /images/xiaomi-su7-ultra-1548-ps-e-auto-ab-67800-chooseauto-d8d744.webp
 category: news
 tags:
-  - NIO
-  - Xiaomi SU
-  - MG
-  - Tesla
+  - Xiaomi
   - Batterie
   - Reichweite
-  - EV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/901870.shtml'
 read_time_minutes: 3

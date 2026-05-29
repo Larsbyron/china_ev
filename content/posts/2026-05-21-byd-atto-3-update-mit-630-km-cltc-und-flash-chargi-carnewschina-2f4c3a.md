@@ -12,11 +12,10 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - Tesla
   - Batterie
   - Reichweite
   - Ladestation
-  - EV
+  - Autonomes Fahren
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/21/new-byd-atto-3-with-120-km-extra-range-and-flash-charging-priced-from-16600-usd-in-china/

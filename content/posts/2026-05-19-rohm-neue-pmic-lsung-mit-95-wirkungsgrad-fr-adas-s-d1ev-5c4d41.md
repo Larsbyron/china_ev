@@ -11,11 +11,6 @@ image: /images/rohm-neue-pmic-lsung-mit-95-wirkungsgrad-fr-adas-s-d1ev-5c4d41.we
 category: news
 tags:
   - BYD
-  - NIO
-  - XPeng
-  - Xpeng
-  - E-Auto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299663'
 read_time_minutes: 2

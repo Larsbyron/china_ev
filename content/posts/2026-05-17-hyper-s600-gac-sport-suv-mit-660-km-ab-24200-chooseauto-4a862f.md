@@ -8,12 +8,11 @@ source: ChooseAuto
 image: /images/hyper-s600-gac-sport-suv-mit-660-km-ab-24200-chooseauto-4a862f.webp
 category: news
 tags:
-  - MG
-  - Tesla
+  - GAC
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/904866.shtml'
 read_time_minutes: 3

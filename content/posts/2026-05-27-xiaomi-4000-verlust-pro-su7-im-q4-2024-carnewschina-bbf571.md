@@ -11,8 +11,6 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - MG
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/26/xiaomi-loses-5600-usd-for-every-car-sold-in-the-first-quarter-of-2026/

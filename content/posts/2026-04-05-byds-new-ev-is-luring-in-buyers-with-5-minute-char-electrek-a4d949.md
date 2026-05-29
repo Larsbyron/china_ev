@@ -13,7 +13,8 @@ image: >-
 category: news
 tag: E-Auto
 tags:
-  - News
+  - BYD
+  - Batterie
 draft: false
 original_url: >-
   https://electrek.co/2026/04/03/byds-new-ev-lures-buyers-with-5-min-charging-low-prices/

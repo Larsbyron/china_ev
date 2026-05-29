@@ -11,9 +11,6 @@ category: news
 brand: Li Auto
 tags:
   - Li Auto
-  - BYD
-  - NIO
-  - MG
   - Batterie
   - Reichweite
 draft: false

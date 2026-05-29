@@ -11,10 +11,7 @@ image: >-
 category: news
 tags:
   - Li Auto
-  - Nissan
-  - Dongfeng
-  - Wettbewerb
-  - Online-Kampagne
+  - Reichweite
 draft: false
 original_url: 'https://cnevpost.com/2026/04/12/li-auto-ceo-slams-unfair-competition-nissan/'
 primaryTopic: unternehmen-finanzen-kooperationen

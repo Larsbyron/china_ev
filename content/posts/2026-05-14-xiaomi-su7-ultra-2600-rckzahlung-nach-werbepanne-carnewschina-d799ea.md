@@ -13,8 +13,6 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - Xiaomi SU
-  - MG
   - Elektroauto
 draft: false
 original_url: >-

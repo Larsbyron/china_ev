@@ -10,10 +10,6 @@ image: /images/tesla-arbeitet-an-fsd-einfuhr-nach-china-cnevpost-a9c834.webp
 category: news
 tags:
   - Tesla
-  - FSD
-  - China
-  - Autonomes Fahren
-  - Niederlande
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/23/tesla-efforts-underway-launch-fsd-china-as-soon-as-possible/

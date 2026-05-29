@@ -14,7 +14,6 @@ brand: BYD
 tags:
   - BYD
   - Batterie
-  - EV
   - Marktanteil
 draft: false
 original_url: >-

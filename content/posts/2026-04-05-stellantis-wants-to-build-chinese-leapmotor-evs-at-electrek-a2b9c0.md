@@ -13,11 +13,7 @@ image: >-
 category: news
 tag: E-Auto
 tags:
-  - News
-  - canada
-  - canada post
-  - leapmotor
-  - stellantis
+  - Leapmotor
 draft: false
 original_url: >-
   https://electrek.co/2026/04/02/stellantis-leapmotor-chinese-evs-brampton-canada-plant/

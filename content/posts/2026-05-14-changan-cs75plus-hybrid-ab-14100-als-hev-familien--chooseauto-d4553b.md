@@ -10,11 +10,12 @@ image: >-
   /images/changan-cs75plus-hybrid-ab-14100-als-hev-familien-chooseauto-d4553b.webp
 category: news
 tags:
-  - MG
+  - Changan
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/902600.shtml'
 read_time_minutes: 3

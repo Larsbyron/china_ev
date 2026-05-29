@@ -12,7 +12,6 @@ category: news
 tags:
   - Reichweite
   - Elektroauto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300074'
 read_time_minutes: 2
@@ -26,6 +25,7 @@ brands:
   - Corning
   - KDPOF
 confidence: 0.9
+brand: null
 ---
 
 # Hinge Automotive: Glasfaser-Netzwerk revolutioniert Auto-Kommunikation

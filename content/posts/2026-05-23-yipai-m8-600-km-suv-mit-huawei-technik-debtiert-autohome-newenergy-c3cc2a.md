@@ -10,10 +10,10 @@ image: >-
   /images/yipai-m8-600-km-suv-mit-huawei-technik-debtiert-autohome-newenergy-c3cc2a.webp
 category: news
 tags:
-  - NIO
+  - Huawei
   - Batterie
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.autohome.com.cn/news/202605/1314459.html'
 read_time_minutes: 3

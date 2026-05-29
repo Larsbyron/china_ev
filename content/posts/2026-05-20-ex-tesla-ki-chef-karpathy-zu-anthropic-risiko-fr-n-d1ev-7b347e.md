@@ -1,14 +1,19 @@
 ---
-title: "Ex-Tesla-KI-Chef Karpathy zu Anthropic: Risiko für NIOs Autopilot?"
+title: 'Ex-Tesla-KI-Chef Karpathy zu Anthropic: Risiko für NIOs Autopilot?'
 date: 2026-05-20T06:15:33.115Z
-description: "Andrej Karpathy, Architekt von Teslas Autopilot, wechselt zum KI-Unternehmen Anthropic. Für chinesische Hersteller wie NIO und BYD könnte dies den Wettbewerb um KI-Fahrassistenten neu anheizen."
-source: "D1EV"
-image: "/images/ex-tesla-ki-chef-karpathy-zu-anthropic-risiko-fr-n-d1ev-7b347e.webp"
-category: "news"
-brand: "Tesla"
-tags: ["Tesla", "BYD", "NIO", "XPeng", "Xpeng", "E-Auto"]
+description: >-
+  Andrej Karpathy, Architekt von Teslas Autopilot, wechselt zum KI-Unternehmen
+  Anthropic. Für chinesische Hersteller wie NIO und BYD könnte dies den
+  Wettbewerb um KI-Fahrassistenten neu anheizen.
+source: D1EV
+image: /images/ex-tesla-ki-chef-karpathy-zu-anthropic-risiko-fr-n-d1ev-7b347e.webp
+category: news
+brand: Tesla
+tags:
+  - Tesla
+  - Autopilot
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299751"
+original_url: 'https://www.d1ev.com/news/qiye/299751'
 read_time_minutes: 2
 ---
 

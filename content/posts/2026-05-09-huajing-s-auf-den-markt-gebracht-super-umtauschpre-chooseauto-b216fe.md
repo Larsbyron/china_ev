@@ -11,11 +11,12 @@ image: >-
   /images/ai-huajing-s-auf-den-markt-gebracht-super-umtauschpre-chooseauto-b216fe.webp
 category: news
 tags:
-  - MG
+  - SAIC
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/898884.shtml'
 read_time_minutes: 6

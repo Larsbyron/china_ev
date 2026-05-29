@@ -9,8 +9,8 @@ source: D1EV
 image: /images/arcfox-s3-7700-euro-mittelklasse-stromer-mit-wechs-d1ev-e6434c.webp
 category: news
 tags:
+  - BAIC
   - Batterie
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299524'
 read_time_minutes: 2

@@ -11,11 +11,10 @@ image: >-
 category: news
 brand: Tesla
 tags:
-  - Xiaomi
-  - BYD
-  - Xiaomi SU
   - Tesla
   - Reichweite
+  - Absatz
+  - Sicherheit
 draft: false
 original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30683194.html'
 read_time_minutes: 3

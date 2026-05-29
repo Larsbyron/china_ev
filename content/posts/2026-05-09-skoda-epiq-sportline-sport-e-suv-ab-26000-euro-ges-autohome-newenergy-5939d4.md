@@ -10,7 +10,7 @@ image: >-
   /images/skoda-epiq-sportline-sport-e-suv-ab-26000-euro-ges-autohome-newenergy-5939d4.webp
 category: news
 tags:
-  - MG
+  - Škoda
   - Batterie
   - Reichweite
   - Ladestation

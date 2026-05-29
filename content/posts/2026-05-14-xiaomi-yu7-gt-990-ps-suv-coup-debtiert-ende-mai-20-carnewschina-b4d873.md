@@ -12,10 +12,8 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - Tesla
   - Batterie
   - Reichweite
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/12/xiaomi-yu7-gt-spotted-on-streets-a-990-hp-performance-suv-ready-for-launch/

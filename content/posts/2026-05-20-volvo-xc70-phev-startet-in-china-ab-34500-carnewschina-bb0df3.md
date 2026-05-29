@@ -10,13 +10,12 @@ image: /images/volvo-xc70-phev-startet-in-china-ab-34500-carnewschina-bb0df3.web
 category: news
 brand: Volvo
 tags:
-  - BYD
-  - Li Auto
-  - MG
+  - Volvo
   - Batterie
   - Reichweite
+  - Schnellladen
   - Zoll
-  - EV
+  - Hybrid
 draft: false
 original_url: >-
   https://carnewschina.com/2026/03/22/sunday-china-drive-volvo-xc70-phev-road-tested-in-china-global-model-bound-for-70-markets/

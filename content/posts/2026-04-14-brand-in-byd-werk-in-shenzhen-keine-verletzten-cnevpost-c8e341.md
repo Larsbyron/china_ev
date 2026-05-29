@@ -12,10 +12,7 @@ image: /images/ai-brand-in-byd-werk-in-shenzhen-keine-verletzten-cnevpost-c8e341
 category: news
 tags:
   - BYD
-  - Shenzhen
-  - Brand
-  - Werk
-  - Aktie
+  - Absatz
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/14/fire-at-byd-campus-garage-sparks-concern-stock-slips/

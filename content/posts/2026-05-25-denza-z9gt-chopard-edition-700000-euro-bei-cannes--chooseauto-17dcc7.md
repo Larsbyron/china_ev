@@ -9,9 +9,7 @@ source: ChooseAuto
 category: news
 brand: Denza
 tags:
-  - BYD
-  - MG
-  - EV
+  - Denza
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/912653.shtml'
 read_time_minutes: 2

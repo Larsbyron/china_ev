@@ -12,9 +12,6 @@ category: news
 tag: E-Auto
 tags:
   - NIO
-  - Milestones
-  - Onvo
-  - Onvo L90
 draft: false
 original_url: 'https://cnevpost.com/2026/04/03/onvo-l90-reaches-50000-deliveries/'
 primaryTopic: markt-absatz-zulassungen

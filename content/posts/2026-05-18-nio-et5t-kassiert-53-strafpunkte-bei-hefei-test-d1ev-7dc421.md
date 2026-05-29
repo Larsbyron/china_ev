@@ -11,12 +11,9 @@ category: news
 brand: NIO
 tags:
   - NIO
-  - XPeng
-  - Xpeng
-  - Li Auto
-  - Xiaomi SU
-  - Zeekr
-  - EV
+  - Autonomes Fahren
+  - Autopilot
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299479'
 read_time_minutes: 3

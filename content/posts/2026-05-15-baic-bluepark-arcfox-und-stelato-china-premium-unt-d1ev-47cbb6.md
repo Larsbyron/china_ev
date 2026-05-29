@@ -9,8 +9,9 @@ source: D1EV
 image: /images/baic-bluepark-arcfox-und-stelato-china-premium-unt-d1ev-47cbb6.webp
 category: news
 tags:
+  - BAIC
   - Batterie
-  - EV
+  - Absatz
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299271'
 read_time_minutes: 2

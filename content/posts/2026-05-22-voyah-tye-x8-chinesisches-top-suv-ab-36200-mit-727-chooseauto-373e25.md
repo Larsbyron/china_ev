@@ -10,11 +10,12 @@ image: >-
   /images/voyah-tye-x8-chinesisches-top-suv-ab-36200-mit-727-chooseauto-373e25.webp
 category: news
 tags:
-  - MG
-  - Tesla
+  - Voyah
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/909766.shtml'
 read_time_minutes: 3

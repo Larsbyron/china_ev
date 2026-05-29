@@ -8,12 +8,10 @@ description: >-
 source: OFweek NEV
 category: news
 tags:
-  - NIO
-  - Li Auto
-  - Tesla
+  - Volkswagen
   - Reichweite
   - Elektroauto
-  - EV
+  - Hybrid
 draft: false
 original_url: 'https://nev.ofweek.com/2026-03/ART-71000-8220-30684048.html'
 read_time_minutes: 3

@@ -11,11 +11,10 @@ image: >-
   /images/great-wall-menglong-plus-255-km-e-reichweite-allra-chooseauto-b59c02.webp
 category: news
 tags:
-  - BYD
-  - MG
+  - Great Wall
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/904702.shtml'
 read_time_minutes: 4

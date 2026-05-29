@@ -13,11 +13,11 @@ brands:
   - BYD
   - Denza
 tags:
-  - BYD
-  - Tesla
+  - Denza
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/28/byds-first-flash-charging-model-denza-z9-gt-surpasses-10000-deliveries-in-2-5-months/

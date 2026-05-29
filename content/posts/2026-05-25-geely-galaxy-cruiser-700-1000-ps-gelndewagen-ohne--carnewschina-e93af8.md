@@ -14,6 +14,7 @@ tags:
   - Geely
   - Batterie
   - Reichweite
+  - Hybrid
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/25/geely-galaxy-cruiser-700-plug-in-hybrid-suv-spotted-in-china-ahead-of-launch/

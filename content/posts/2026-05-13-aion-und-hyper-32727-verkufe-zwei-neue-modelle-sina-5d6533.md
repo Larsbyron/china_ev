@@ -1,14 +1,20 @@
 ---
-title: "Aion und Hyper: 32.727 Verkäufe, zwei neue Modelle"
+title: 'Aion und Hyper: 32.727 Verkäufe, zwei neue Modelle'
 date: 2026-05-13T10:32:52.155Z
-description: "Aion meldet 32.727 verkaufte Einheiten im April (+15,6 %) und präsentiert auf der Auto China 2025 die neue Doppelmarken-Strategie. Highlights: der Aion N60 mit Lidar und L4-Algorithmus sowie der Hyper S600 als Weltpremiere."
-source: "Sina"
-image: "/images/aion-und-hyper-32727-verkufe-zwei-neue-modelle-sina-5d6533.webp"
-category: "news"
-brand: "Aion"
-tags: ["Aion", "BYD", "EV"]
+description: >-
+  Aion meldet 32.727 verkaufte Einheiten im April (+15,6 %) und präsentiert auf
+  der Auto China 2025 die neue Doppelmarken-Strategie. Highlights: der Aion N60
+  mit Lidar und L4-Algorithmus sowie der Hyper S600 als Weltpremiere.
+source: Sina
+image: /images/aion-und-hyper-32727-verkufe-zwei-neue-modelle-sina-5d6533.webp
+category: news
+brand: Aion
+tags:
+  - Aion
+  - Autonomes Fahren
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-01/detail-inhwmeqw5340571.shtml
 read_time_minutes: 2
 ---
 

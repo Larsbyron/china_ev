@@ -1,14 +1,22 @@
 ---
-title: "BYD Xuanji A3: 700-TOPS-Chip für autonomes Fahren"
+title: 'BYD Xuanji A3: 700-TOPS-Chip für autonomes Fahren'
 date: 2026-05-28T20:10:08.586Z
-description: "BYD bringt den selbst entwickelten 4-Nanometer-Chip Xuanji A3 in Serie. Er unterstützt autonomes Fahren Stufe 3/4 und soll ab ca. 1.500 € auch in günstigen Modellen verfügbar sein – ein Schritt zur Vision unfallfreien Verkehrs."
-source: "CarNewsChina"
-image: "/images/byd-xuanji-a3-700-tops-chip-fr-autonomes-fahren-carnewschina-fc0bbe.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto"]
+description: >-
+  BYD bringt den selbst entwickelten 4-Nanometer-Chip Xuanji A3 in Serie. Er
+  unterstützt autonomes Fahren Stufe 3/4 und soll ab ca. 1.500 € auch in
+  günstigen Modellen verfügbar sein – ein Schritt zur Vision unfallfreien
+  Verkehrs.
+source: CarNewsChina
+image: >-
+  /images/byd-xuanji-a3-700-tops-chip-fr-autonomes-fahren-carnewschina-fc0bbe.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Autonomes Fahren
 draft: false
-original_url: "https://carnewschina.com/2026/05/28/byd-released-xuanji-a3-adas-chip-as-it-aims-at-accident-free-traffic/"
+original_url: >-
+  https://carnewschina.com/2026/05/28/byd-released-xuanji-a3-adas-chip-as-it-aims-at-accident-free-traffic/
 read_time_minutes: 2
 ---
 

@@ -11,11 +11,9 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - MG
-  - Tesla
   - Reichweite
   - Zoll
-  - EV
+  - Absatz
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/21/xiaomi-launches-new-yu7-standard-edition-at-34300-usd-to-challenge-tesla-model-y-in-china/

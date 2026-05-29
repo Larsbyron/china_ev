@@ -9,9 +9,10 @@ source: D1EV
 image: /images/nissan-stoppt-e-achsen-werk-leaf-absatz-bricht-um-d1ev-1a355d.webp
 category: news
 tags:
-  - MG
+  - Nissan
   - Elektroauto
   - Marktanteil
+  - Absatz
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300393'
 read_time_minutes: 2

@@ -1,14 +1,23 @@
 ---
-title: "Fangchengbao 5 & 8: Flash-Charge mit 1.380 km – in China günstig"
+title: 'Fangchengbao 5 & 8: Flash-Charge mit 1.380 km – in China günstig'
 date: 2026-05-14T00:57:25.469Z
-description: "BYDs Offroad-Submarke Fangchengbao bringt Bao 5 und Bao 8 als Flash-Charge-Edition. Kombinieren Cloud-Chassis-Fahrwerk mit Schnellladung. Preise in China ab umgerechnet ca. 39.000 € (zzgl. Steuern)."
-source: "D1EV"
-image: "/images/fangchengbao-5-8-flash-charge-mit-1380-km-in-china-d1ev-48893a.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Batterie", "Reichweite", "EU-Import", "Zoll", "EV"]
+description: >-
+  BYDs Offroad-Submarke Fangchengbao bringt Bao 5 und Bao 8 als
+  Flash-Charge-Edition. Kombinieren Cloud-Chassis-Fahrwerk mit Schnellladung.
+  Preise in China ab umgerechnet ca. 39.000 € (zzgl. Steuern).
+source: D1EV
+image: /images/fangchengbao-5-8-flash-charge-mit-1380-km-in-china-d1ev-48893a.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Schnellladen
+  - EU-Import
+  - Zoll
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299053"
+original_url: 'https://www.d1ev.com/news/shichang/299053'
 read_time_minutes: 3
 ---
 

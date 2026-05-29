@@ -11,10 +11,9 @@ image: >-
 category: news
 tags:
   - BYD
-  - Sealion 05
-  - Plug-in-Hybrid
-  - Blitzladung
-  - DM-i
+  - Batterie
+  - Reichweite
+  - Hybrid
 draft: false
 original_url: 'https://cnevpost.com/2026/04/20/byd-launches-2026-sealion-05-series/'
 primaryTopic: modelle-marktstarts

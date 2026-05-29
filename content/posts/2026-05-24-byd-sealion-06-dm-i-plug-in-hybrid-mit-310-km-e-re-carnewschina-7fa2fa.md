@@ -16,7 +16,7 @@ tags:
   - Reichweite
   - Ladestation
   - Zoll
-  - EV
+  - Hybrid
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/24/byd-sealion-06-dm-i-arrives-at-dealerships-ahead-of-26-may-launch-with-up-to-310-km-ev-range/

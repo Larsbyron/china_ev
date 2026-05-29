@@ -11,10 +11,7 @@ image: >-
 category: news
 tags:
   - Onvo
-  - NIO
-  - L90
-  - Auslieferung
-  - Vorverkauf
+  - Batterie
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/19/nio-onvo-starts-nationwide-shipping-of-2026-l90/

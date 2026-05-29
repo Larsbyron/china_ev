@@ -10,10 +10,7 @@ image: /images/xpeng-reicht-antrag-fuer-mona-l03-suv-ein-cnevpost-c3d851.webp
 category: news
 tags:
   - XPeng
-  - Mona
-  - L03
-  - SUV
-  - Elektro
+  - Absatz
 draft: false
 original_url: 'https://cnevpost.com/2026/04/09/xpeng-files-for-new-mona-l03-suv/'
 primaryTopic: modelle-marktstarts

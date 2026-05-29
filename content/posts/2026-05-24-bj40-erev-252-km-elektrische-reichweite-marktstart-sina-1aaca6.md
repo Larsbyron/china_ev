@@ -9,10 +9,8 @@ source: Sina
 image: /images/bj40-erev-252-km-elektrische-reichweite-marktstart-sina-1aaca6.webp
 category: news
 tags:
-  - MG
   - Batterie
   - Reichweite
-  - EV
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
@@ -24,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Beijing Off-road
 confidence: 0.9
+brand: null
 ---
 
 # BJ40 EREV: 252 km elektrische Reichweite, Marktstart 21. Mai

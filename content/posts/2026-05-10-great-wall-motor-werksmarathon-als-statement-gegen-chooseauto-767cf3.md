@@ -11,8 +11,8 @@ image: >-
   /images/great-wall-motor-werksmarathon-als-statement-gegen-chooseauto-767cf3.webp
 category: news
 tags:
-  - MG
-  - EV
+  - Great Wall
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/899154.shtml'
 read_time_minutes: 3

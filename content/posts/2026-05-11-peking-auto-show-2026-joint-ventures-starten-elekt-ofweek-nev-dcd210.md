@@ -10,12 +10,12 @@ image: >-
   /images/ai-peking-auto-show-2026-joint-ventures-starten-elekt-ofweek-nev-dcd210.webp
 category: news
 tags:
-  - Tesla
+  - BMW
   - Batterie
   - Reichweite
   - Zoll
-  - E-Auto
-  - EV
+  - Autonomes Fahren
+  - Sicherheit
 draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 5

@@ -12,10 +12,7 @@ image: /images/byd-16-millionen-nev-gebrauch-im-zeitraum-cnevpost-f3b842.webp
 category: news
 tags:
   - BYD
-  - Denza D9
-  - Produktion
-  - Meilenstein
-  - NEV
+  - Batterie
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/17/byd-reaches-16-millionth-nev-production-milestone/

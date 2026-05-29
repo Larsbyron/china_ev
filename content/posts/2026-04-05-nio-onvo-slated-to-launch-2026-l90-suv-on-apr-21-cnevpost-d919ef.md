@@ -11,10 +11,6 @@ category: news
 tag: E-Auto
 tags:
   - NIO
-  - BEV
-  - New EV Models
-  - Onvo
-  - Onvo L90
 draft: false
 original_url: 'https://cnevpost.com/2026/04/03/onvo-to-launch-2026-l90-apr-21/'
 primaryTopic: modelle-marktstarts

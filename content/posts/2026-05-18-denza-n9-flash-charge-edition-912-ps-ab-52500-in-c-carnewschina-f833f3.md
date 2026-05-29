@@ -11,11 +11,12 @@ image: >-
 category: news
 brand: Denza
 tags:
-  - BYD
+  - Denza
   - Batterie
   - Reichweite
   - Ladestation
   - Zoll
+  - Hybrid
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/18/byds-denza-n9-flash-charge-edition-launches-in-china-starting-at-60300-usd/

@@ -12,11 +12,9 @@ category: news
 brand: XPeng
 tags:
   - XPeng
-  - Xpeng
-  - MG
   - Reichweite
   - Zoll
-  - EV
+  - Autonomes Fahren
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314363.html'
 read_time_minutes: 3

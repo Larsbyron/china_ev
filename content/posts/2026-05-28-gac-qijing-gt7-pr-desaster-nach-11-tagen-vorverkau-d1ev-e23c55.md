@@ -8,7 +8,8 @@ description: >-
 source: D1EV
 image: /images/gac-qijing-gt7-pr-desaster-nach-11-tagen-vorverkau-d1ev-e23c55.webp
 category: news
-tags: []
+tags:
+  - GAC
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300876'
 read_time_minutes: 3

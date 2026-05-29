@@ -12,12 +12,9 @@ image: /images/ai-lantu-fe-erlkoenig-huawei-ads5-2026-autohome-NE-1314145.webp
 category: news
 brand: Huawei
 tags:
-  - Lantu
-  - FE
-  - SUV
   - Huawei
-  - ADS
-  - LiDAR
+  - Reichweite
+  - Zoll
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314145.html'
 read_time_minutes: 2

@@ -1,18 +1,30 @@
 ---
-title: "Denza Z9 GT: BYD peilt 10.000 Auslieferungen bis Mai 2026 an"
+title: 'Denza Z9 GT: BYD peilt 10.000 Auslieferungen bis Mai 2026 an'
 date: 2026-05-29T12:48:31.550Z
-description: "Der Denza Z9 GT, BYDs erstes Modell mit Flash-Charging, soll in China ab März 2026 ausgeliefert werden. Bis Mai 2026 rechnet die Marke mit 10.000 Einheiten. Die Preise starten bei umgerechnet ca. 34.500 €."
-source: "CarNewsChina"
-image: "/images/denza-z9-gt-byd-peilt-10000-auslieferungen-bis-mai-carnewschina-05f9b9.webp"
-category: "news"
-brand: "BYD"
-brands: ["BYD", "Denza"]
-tags: ["BYD", "Tesla", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der Denza Z9 GT, BYDs erstes Modell mit Flash-Charging, soll in China ab März
+  2026 ausgeliefert werden. Bis Mai 2026 rechnet die Marke mit 10.000 Einheiten.
+  Die Preise starten bei umgerechnet ca. 34.500 €.
+source: CarNewsChina
+image: >-
+  /images/denza-z9-gt-byd-peilt-10000-auslieferungen-bis-mai-carnewschina-05f9b9.webp
+category: news
+brand: BYD
+brands:
+  - BYD
+  - Denza
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Hybrid
+  - PHEV
 draft: false
-original_url: "https://carnewschina.com/2026/05/28/byds-first-flash-charging-model-denza-z9-gt-surpasses-10000-deliveries-in-2-5-months/"
+original_url: >-
+  https://carnewschina.com/2026/05/28/byds-first-flash-charging-model-denza-z9-gt-surpasses-10000-deliveries-in-2-5-months/
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "eu_available"
+primaryTopic: modelle-marktstarts
+marketRelevance: eu_available
 ---
 
 # Denza Z9 GT: BYD peilt 10.000 Auslieferungen bis Mai 2026 an

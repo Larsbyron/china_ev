@@ -13,7 +13,9 @@ tags:
   - Geely
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/300199'
 read_time_minutes: 3

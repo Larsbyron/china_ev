@@ -1,14 +1,22 @@
 ---
-title: "ONVO L80 ab 31.100 € – BYD verhandelt mit Stellantis"
+title: ONVO L80 ab 31.100 € – BYD verhandelt mit Stellantis
 date: 2026-05-17T18:59:55.673Z
-description: "BYD verhandelt über ein europäisches Werk, ONVO bringt den L80 ab 31.100 €, XPeng sucht mit VW einen Standort. Ein Überblick über die China-News der Woche."
-source: "D1EV"
-image: "/images/onvo-l80-ab-31100-byd-verhandelt-mit-stellantis-d1ev-9085a2.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Onvo", "MG", "Batterie"]
+description: >-
+  BYD verhandelt über ein europäisches Werk, ONVO bringt den L80 ab 31.100 €,
+  XPeng sucht mit VW einen Standort. Ein Überblick über die China-News der
+  Woche.
+source: D1EV
+image: /images/onvo-l80-ab-31100-byd-verhandelt-mit-stellantis-d1ev-9085a2.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Ladestation
+  - Zoll
+  - Elektroauto
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/299430"
+original_url: 'https://www.d1ev.com/news/shichang/299430'
 read_time_minutes: 3
 ---
 

@@ -1,14 +1,24 @@
 ---
-title: "BYD Seal 08: 900 km Reichweite, Blitzladung und Hinterradlenkung"
+title: 'BYD Seal 08: 900 km Reichweite, Blitzladung und Hinterradlenkung'
 date: 2026-05-21T06:29:41.302Z
-description: "Der BYD Seal 08 kommt im zweiten Quartal 2026 in China. Das Flaggschiff der Ocean-Serie bietet 900 km CLTC (ca. 770 km WLTP), 510 kW Systemleistung und 3,3 s auf 100 km/h. Ein Marktstart in Europa ist noch nicht bestätigt."
-source: "CarNewsChina"
-image: "/images/byd-seal-08-900-km-reichweite-blitzladung-und-hint-carnewschina-fef626.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "NIO", "Batterie", "Reichweite", "EV"]
+description: >-
+  Der BYD Seal 08 kommt im zweiten Quartal 2026 in China. Das Flaggschiff der
+  Ocean-Serie bietet 900 km CLTC (ca. 770 km WLTP), 510 kW Systemleistung und
+  3,3 s auf 100 km/h. Ein Marktstart in Europa ist noch nicht bestätigt.
+source: CarNewsChina
+image: >-
+  /images/byd-seal-08-900-km-reichweite-blitzladung-und-hint-carnewschina-fef626.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Hybrid
+  - PHEV
 draft: false
-original_url: "https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/
 read_time_minutes: 2
 ---
 

@@ -11,7 +11,6 @@ category: news
 brand: Li Auto
 tags:
   - Li Auto
-  - E-Auto
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-28/detail-inhzmyen0091396.shtml

@@ -9,9 +9,10 @@ source: D1EV
 image: /images/nissan-stoppt-e-achsen-fabrik-in-uk-515-mio-gestri-d1ev-630165.webp
 category: news
 tags:
+  - Nissan
   - Elektroauto
-  - EV
   - Marktanteil
+  - Absatz
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300393'
 read_time_minutes: 2

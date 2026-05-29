@@ -12,11 +12,11 @@ image: >-
 category: news
 brand: BAIC
 tags:
-  - Li Auto
+  - BAIC
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/914539.shtml'
 read_time_minutes: 3

@@ -13,9 +13,8 @@ category: news
 brand: XPeng
 tags:
   - XPeng
-  - Xpeng
   - Reichweite
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/908886.shtml'
 read_time_minutes: 3

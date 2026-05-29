@@ -1,14 +1,20 @@
 ---
-title: "Li Auto: Forschungszentrum für Luxus-SUV eröffnet"
+title: 'Li Auto: Forschungszentrum für Luxus-SUV eröffnet'
 date: 2026-05-28T13:46:54.420Z
-description: "Li Auto (理想) hat das Suzhou-Forschungsinstitut eröffnet, um hochwertige E-Modelle zu entwickeln. Der erste SUV „Freelander 8' kommt 2025 – geplant als globaler Luxus-Allradler."
-source: "Sina"
-image: "/images/li-auto-forschungszentrum-fr-luxus-suv-erffnet-sina-c08349.webp"
-category: "news"
-brand: "Li Auto"
-tags: ["Li Auto", "Reichweite", "EV"]
+description: >-
+  Li Auto (理想) hat das Suzhou-Forschungsinstitut eröffnet, um hochwertige
+  E-Modelle zu entwickeln. Der erste SUV „Freelander 8' kommt 2025 – geplant als
+  globaler Luxus-Allradler.
+source: Sina
+image: /images/li-auto-forschungszentrum-fr-luxus-suv-erffnet-sina-c08349.webp
+category: news
+brand: Li Auto
+tags:
+  - Li Auto
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-28/detail-inhzmtwn7868142.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-28/detail-inhzmtwn7868142.shtml
 read_time_minutes: 2
 ---
 

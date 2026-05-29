@@ -8,10 +8,7 @@ description: >-
 source: OFweek NEV
 category: news
 tags:
-  - BYD
-  - NIO
-  - Li Auto
-  - Tesla
+  - Volkswagen
   - Batterie
   - Reichweite
   - Marktanteil

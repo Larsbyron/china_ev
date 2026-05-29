@@ -10,14 +10,12 @@ image: /images/volvo-ernennt-ex-mercedes-manager-e-offensive-im-f-sina-377810.we
 category: news
 brand: Mercedes-Benz
 tags:
-  - Geely
-  - BYD
-  - NIO
+  - Mercedes-Benz
   - Batterie
   - Reichweite
   - Elektroauto
-  - E-Auto
   - Marktanteil
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml

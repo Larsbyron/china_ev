@@ -10,12 +10,12 @@ image: >-
   /images/ai-chery-t9l-buick-electra-stelato-v9-neue-chinesen-i-ofweek-nev-cf09d8.webp
 category: news
 tags:
-  - Li Auto
-  - MG
+  - Chery
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://nev.ofweek.com/2026-01/ART-71000-8220-30679602.html'
 read_time_minutes: 4

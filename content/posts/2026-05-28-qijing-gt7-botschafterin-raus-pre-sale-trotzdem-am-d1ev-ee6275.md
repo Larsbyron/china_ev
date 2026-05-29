@@ -8,7 +8,8 @@ description: >-
 source: D1EV
 image: /images/qijing-gt7-botschafterin-raus-pre-sale-trotzdem-am-d1ev-ee6275.webp
 category: news
-tags: []
+tags:
+  - GAC
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300876'
 read_time_minutes: 3

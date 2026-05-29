@@ -12,10 +12,7 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - Tesla
   - Batterie
-  - E-Auto
-  - EV
   - Marktanteil
 draft: false
 original_url: >-

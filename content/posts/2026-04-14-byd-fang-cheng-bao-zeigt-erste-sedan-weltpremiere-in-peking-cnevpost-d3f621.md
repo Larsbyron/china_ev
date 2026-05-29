@@ -11,10 +11,6 @@ image: >-
 category: news
 tags:
   - BYD
-  - Fang Cheng Bao
-  - Sedan
-  - Mei
-  - Peking Mobil World
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/14/byd-fang-cheng-bao-to-unveil-first-sedan-beijing-auto-show/

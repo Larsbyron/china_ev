@@ -10,9 +10,11 @@ source: OFweek NEV
 image: /images/ai-audi-rs-5-hybrid-29t-v6-plus-e-motor-ofweek-nev-8ddea3.webp
 category: news
 tags:
+  - Audi
   - Batterie
   - Reichweite
   - Elektroauto
+  - Hybrid
 draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2

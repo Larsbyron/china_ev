@@ -12,10 +12,8 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
-  - Aion
-  - Tesla
-  - EV
+  - Autonomes Fahren
+  - Autopilot
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300695'
 read_time_minutes: 5

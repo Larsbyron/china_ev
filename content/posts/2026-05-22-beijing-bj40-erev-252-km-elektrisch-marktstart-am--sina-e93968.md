@@ -9,10 +9,9 @@ source: Sina
 image: /images/beijing-bj40-erev-252-km-elektrisch-marktstart-am-sina-e93968.webp
 category: news
 tags:
-  - MG
   - Reichweite
   - Elektroauto
-  - EV
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
@@ -24,6 +23,7 @@ marketRelevance: china_only
 brands:
   - Beijing
 confidence: 0.95
+brand: null
 ---
 
 # Beijing BJ40 EREV: 252 km elektrisch, Marktstart am 21. Mai

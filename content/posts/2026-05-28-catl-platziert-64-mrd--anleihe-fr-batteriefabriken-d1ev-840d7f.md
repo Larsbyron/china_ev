@@ -9,10 +9,9 @@ source: D1EV
 image: /images/catl-platziert-64-mrd-anleihe-fr-batteriefabriken-d1ev-840d7f.webp
 category: news
 tags:
+  - BMW
   - Batterie
   - Ladestation
-  - E-Auto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300871'
 read_time_minutes: 3

@@ -11,11 +11,10 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - MG
   - Batterie
   - Reichweite
   - Ladestation
-  - EV
+  - Autonomes Fahren
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/22/byd-may-28-intelligent-driving-strategy-event-sparks-speculation-over-new-gods-eye-rollout/

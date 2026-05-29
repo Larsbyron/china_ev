@@ -11,14 +11,11 @@ image: >-
 category: news
 brand: Zeekr
 tags:
-  - Li Auto
-  - BYD
-  - Geely
   - Zeekr
-  - MG
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/03/sunday-china-drive-zeekr-8x-ultra-plus-tested-with-885-hp-hybrid-europe-entry-late-2026/

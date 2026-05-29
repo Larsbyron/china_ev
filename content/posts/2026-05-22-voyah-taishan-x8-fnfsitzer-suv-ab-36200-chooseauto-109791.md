@@ -9,8 +9,12 @@ source: ChooseAuto
 image: /images/voyah-taishan-x8-fnfsitzer-suv-ab-36200-chooseauto-109791.webp
 category: news
 tags:
+  - Voyah
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
+  - Sicherheit
+  - Börse
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/909792.shtml'
 read_time_minutes: 3

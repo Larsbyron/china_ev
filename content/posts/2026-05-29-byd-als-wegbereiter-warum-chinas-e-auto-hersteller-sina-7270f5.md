@@ -1,18 +1,27 @@
 ---
-title: "BYD als Wegbereiter: Warum Chinas E-Auto-Hersteller jetzt die Preise erhöhen"
+title: 'BYD als Wegbereiter: Warum Chinas E-Auto-Hersteller jetzt die Preise erhöhen'
 date: 2026-05-29T12:51:37.626Z
-description: "Seit Ende April 2024 haben über ein Dutzend chinesische E-Auto-Marken ihre Preise angehoben. Marktführer BYD (比亚迪) gab den Startschuss – eine strategische Offensive zur Profitabilität."
-source: "Sina"
-image: "/images/byd-als-wegbereiter-warum-chinas-e-auto-hersteller-sina-7270f5.webp"
-category: "news"
-brand: "BYD"
-brands: ["BYD"]
-tags: ["BYD", "NIO", "XPeng", "Xpeng", "Li Auto", "Batterie", "Elektroauto", "E-Auto"]
+description: >-
+  Seit Ende April 2024 haben über ein Dutzend chinesische E-Auto-Marken ihre
+  Preise angehoben. Marktführer BYD (比亚迪) gab den Startschuss – eine
+  strategische Offensive zur Profitabilität.
+source: Sina
+image: /images/byd-als-wegbereiter-warum-chinas-e-auto-hersteller-sina-7270f5.webp
+category: news
+brand: BYD
+brands:
+  - BYD
+tags:
+  - BYD
+  - Batterie
+  - Elektroauto
+  - Marktanteil
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml
 read_time_minutes: 3
-primaryTopic: "preise-rabatte-wettbewerb"
-marketRelevance: "global_industry"
+primaryTopic: preise-rabatte-wettbewerb
+marketRelevance: global_industry
 ---
 
 # BYD als Wegbereiter: Warum Chinas E-Auto-Hersteller jetzt die Preise erhöhen

@@ -10,10 +10,8 @@ image: >-
 category: news
 tags:
   - Zeekr
-  - '007'
-  - Facelift
-  - 900V
-  - Schnellladung
+  - Batterie
+  - Reichweite
 draft: false
 original_url: 'https://cnevpost.com/2026/04/10/zeekr-launches-updated-007-series/'
 primaryTopic: modelle-marktstarts

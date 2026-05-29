@@ -9,7 +9,8 @@ source: Autohome NewEnergy
 image: >-
   /images/offizielle-bilder-des-avita-07l-verffentlicht-autohome-newenergy-ab233f.webp
 category: news
-tags: []
+tags:
+  - Huawei
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314170.html'
 read_time_minutes: 2

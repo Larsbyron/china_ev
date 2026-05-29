@@ -11,9 +11,6 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - NIO
-  - MG
-  - Tesla
   - Reichweite
 draft: false
 original_url: >-

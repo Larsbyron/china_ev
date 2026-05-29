@@ -13,7 +13,7 @@ category: news
 brand: Geely
 tags:
   - Geely
-  - Zeekr
+  - Absatz
 draft: false
 original_url: 'https://auto.sina.com.cn/news/2026-05-01/detail-inhwktzf6594442.shtml'
 read_time_minutes: 2

@@ -10,10 +10,6 @@ image: /images/li-auto-Expansion-nach-nahen-osten-und-asien-cnevpost-b7d523.webp
 category: news
 tags:
   - Li Auto
-  - Naher Osten
-  - VAE
-  - Saudi-Arabien
-  - Expansion
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/25/li-auto-global-push-new-middle-east-asia-partnerships/

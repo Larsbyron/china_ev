@@ -10,10 +10,8 @@ image: /images/mazda-cx-3-hybrid-comeback-2027-gegen-china-evs-chooseauto-d2fa03
 category: news
 tags:
   - BYD
-  - NIO
-  - Geely
   - Elektroauto
-  - E-Auto
+  - Hybrid
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/901870.shtml'
 read_time_minutes: 3

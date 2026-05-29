@@ -10,9 +10,11 @@ source: D1EV
 image: /images/wuling-bingo-pro-ab-7300-mit-80-serienfeatures-d1ev-1124d2.webp
 category: news
 tags:
+  - SAIC
   - Batterie
   - Reichweite
   - Zoll
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300200'
 read_time_minutes: 3

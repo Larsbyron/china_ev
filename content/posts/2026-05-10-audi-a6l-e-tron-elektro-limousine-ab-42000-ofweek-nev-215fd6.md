@@ -9,13 +9,9 @@ source: OFweek NEV
 image: /images/ai-audi-a6l-e-tron-elektro-limousine-ab-42000-ofweek-nev-215fd6.webp
 category: news
 tags:
-  - BYD
-  - NIO
-  - XPeng
-  - XPeng
-  - MG
+  - Audi
   - Reichweite
-  - EV
+  - Hybrid
 draft: false
 original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30681834.html'
 read_time_minutes: 3

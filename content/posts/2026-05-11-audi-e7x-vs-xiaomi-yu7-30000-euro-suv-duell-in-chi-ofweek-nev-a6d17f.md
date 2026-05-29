@@ -10,7 +10,9 @@ image: >-
   /images/ai-audi-e7x-vs-xiaomi-yu7-30000-euro-suv-duell-in-chi-ofweek-nev-a6d17f.webp
 category: news
 tags:
+  - Xiaomi
   - Reichweite
+  - Autonomes Fahren
 draft: false
 original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 3

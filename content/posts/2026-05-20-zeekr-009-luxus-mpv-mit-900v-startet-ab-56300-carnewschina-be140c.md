@@ -10,10 +10,10 @@ image: /images/zeekr-009-luxus-mpv-mit-900v-startet-ab-56300-carnewschina-be140c
 category: news
 brand: Zeekr
 tags:
-  - Geely
   - Zeekr
   - Reichweite
   - Zoll
+  - Sicherheit
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/20/2026-zeekr-009-launches-with900v-architecture-in-china-starting-from-64700-usd/

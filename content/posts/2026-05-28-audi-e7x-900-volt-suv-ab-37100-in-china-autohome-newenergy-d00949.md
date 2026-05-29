@@ -10,12 +10,10 @@ image: /images/audi-e7x-900-volt-suv-ab-37100-in-china-autohome-newenergy-d00949
 category: news
 brand: Audi
 tags:
-  - NIO
-  - Tesla
+  - Audi
   - Batterie
   - Reichweite
   - Zoll
-  - EV
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314520.html'
 read_time_minutes: 4

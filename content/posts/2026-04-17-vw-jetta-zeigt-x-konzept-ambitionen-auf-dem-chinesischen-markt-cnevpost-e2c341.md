@@ -11,11 +11,8 @@ image: >-
 category: news
 tags:
   - Volkswagen
-  - Jetta
-  - 概念车
-  - Elektro
-  - FAW
-  - China
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://cnevpost.com/2026/04/17/vw-jetta-previews-jetta-x-concept/'
 primaryTopic: modelle-marktstarts

@@ -9,10 +9,11 @@ source: Sina
 image: /images/bj40-erev-long-range-startet-am-21-mai-in-china-sina-153f04.webp
 category: news
 tags:
-  - BYD
+  - Great Wall
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml

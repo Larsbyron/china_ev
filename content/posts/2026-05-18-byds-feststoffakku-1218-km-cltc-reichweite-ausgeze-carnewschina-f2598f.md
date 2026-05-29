@@ -14,7 +14,6 @@ tags:
   - BYD
   - Batterie
   - Reichweite
-  - EV
   - Marktanteil
 draft: false
 original_url: >-

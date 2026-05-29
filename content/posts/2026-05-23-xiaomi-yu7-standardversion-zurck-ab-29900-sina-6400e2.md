@@ -11,7 +11,6 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - Tesla
   - Reichweite
 draft: false
 original_url: >-

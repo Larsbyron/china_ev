@@ -10,8 +10,7 @@ image: /images/mercedes-confirms-steer-by-wire-for-2026-eqs-with-electrek-b7b8a1
 category: news
 tag: E-Auto
 tags:
-  - News
-  - mercedes-benz
+  - Mercedes-Benz
 draft: false
 original_url: >-
   https://electrek.co/2026/04/02/mercedes-steer-by-wire-yoke-steering-wheel-eqs-2026/

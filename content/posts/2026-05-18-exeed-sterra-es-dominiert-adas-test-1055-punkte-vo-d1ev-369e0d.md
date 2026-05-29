@@ -11,14 +11,10 @@ image: /images/exeed-sterra-es-dominiert-adas-test-1055-punkte-vo-d1ev-369e0d.we
 category: news
 brand: Aion
 tags:
-  - BYD
-  - NIO
-  - XPeng
-  - Xpeng
-  - Li Auto
-  - Xiaomi SU
-  - Geely
-  - Zeekr
+  - Aion
+  - Autonomes Fahren
+  - Autopilot
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299474'
 read_time_minutes: 4

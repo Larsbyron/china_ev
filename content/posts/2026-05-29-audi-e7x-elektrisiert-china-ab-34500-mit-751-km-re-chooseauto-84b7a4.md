@@ -12,9 +12,7 @@ category: news
 brands:
   - Audi
 tags:
-  - NIO
-  - Li Auto
-  - Tesla
+  - Audi
   - Batterie
   - Reichweite
   - Zoll

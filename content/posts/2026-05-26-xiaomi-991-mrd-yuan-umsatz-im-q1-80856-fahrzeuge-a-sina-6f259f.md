@@ -11,7 +11,6 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - EV
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-26/detail-inhzfshi2157467.shtml

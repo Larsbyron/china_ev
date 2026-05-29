@@ -1,14 +1,26 @@
 ---
-title: "BYD Dolphin G DM-i: Europa-PHEV mit 1.000 km Reichweite"
+title: 'BYD Dolphin G DM-i: Europa-PHEV mit 1.000 km Reichweite'
 date: 2026-05-28T20:16:23.661Z
-description: "BYD (比亚迪) bringt mit dem Dolphin G DM-i einen Plug-in-Hybrid speziell für Europa. Die kombinierte Reichweite gibt der Hersteller mit 1.000 km nach chinesischem CLTC-Standard an. Marktstart ist im Herbst 2026, die Preise werden im Juni 2026 bekannt gegeben."
-source: "CarNewsChina"
-image: "/images/byd-dolphin-g-dm-i-europa-phev-mit-1000-km-reichwe-carnewschina-5716a7.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "Batterie", "Reichweite", "Zoll", "EV"]
+description: >-
+  BYD (比亚迪) bringt mit dem Dolphin G DM-i einen Plug-in-Hybrid speziell für
+  Europa. Die kombinierte Reichweite gibt der Hersteller mit 1.000 km nach
+  chinesischem CLTC-Standard an. Marktstart ist im Herbst 2026, die Preise
+  werden im Juni 2026 bekannt gegeben.
+source: CarNewsChina
+image: >-
+  /images/byd-dolphin-g-dm-i-europa-phev-mit-1000-km-reichwe-carnewschina-5716a7.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Reichweite
+  - Zoll
+  - Hybrid
+  - PHEV
 draft: false
-original_url: "https://carnewschina.com/2026/05/26/byd-dolphin-g-plug-in-hybrid-hatchback-broke-cover-ahead-of-european-launch/"
+original_url: >-
+  https://carnewschina.com/2026/05/26/byd-dolphin-g-plug-in-hybrid-hatchback-broke-cover-ahead-of-european-launch/
 read_time_minutes: 2
 ---
 

@@ -10,7 +10,7 @@ image: >-
   /images/gwm-menglong-plus-boxy-suv-ab-20700-in-china-gesta-chooseauto-98b158.webp
 category: news
 tags:
-  - MG
+  - Great Wall
   - Batterie
   - Reichweite
 draft: false

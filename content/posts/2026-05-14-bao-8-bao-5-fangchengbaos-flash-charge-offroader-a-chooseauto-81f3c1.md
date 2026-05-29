@@ -11,7 +11,8 @@ brand: BYD
 tags:
   - BYD
   - Reichweite
-  - EV
+  - Hybrid
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/902169.shtml'
 read_time_minutes: 3

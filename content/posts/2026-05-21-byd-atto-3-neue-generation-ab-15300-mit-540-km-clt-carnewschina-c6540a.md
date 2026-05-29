@@ -12,11 +12,9 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - MG
   - Batterie
   - Reichweite
   - Ladestation
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/21/new-byd-atto-3-with-120-km-extra-range-and-flash-charging-priced-from-16600-usd-in-china/

@@ -11,10 +11,9 @@ image: >-
 category: news
 tags:
   - XPeng
-  - GX
-  - SUV
-  - Vorverkauf
-  - Premium
+  - Batterie
+  - Reichweite
+  - Elektroauto
 draft: false
 original_url: 'https://cnevpost.com/2026/04/15/xpeng-starts-pre-sales-new-gx-suv/'
 primaryTopic: modelle-marktstarts

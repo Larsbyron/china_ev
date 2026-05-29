@@ -12,11 +12,6 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - Zeekr
-  - Leapmotor
-  - Aion
-  - MG
-  - Tesla
   - Batterie
   - Elektroauto
 draft: false

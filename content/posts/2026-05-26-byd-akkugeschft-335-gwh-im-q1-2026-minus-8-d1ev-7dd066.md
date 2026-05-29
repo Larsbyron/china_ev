@@ -1,14 +1,24 @@
 ---
-title: "BYD-Akkugeschäft: 33,5 GWh im Q1 2026, minus 8 %"
+title: 'BYD-Akkugeschäft: 33,5 GWh im Q1 2026, minus 8 %'
 date: 2026-05-26T20:04:11.250Z
-description: "Im ersten Quartal 2026 verzeichnete BYD einen Rückgang der Batterieinstallationen um 8 % auf 33,5 GWh. Der chinesische Hersteller hält damit Platz 2 hinter CATL, während das globale Marktwachstum auf 9,1 % verlangsamt. Schwache Nachfrage in Europa und Nordamerika belastet den Markt."
-source: "D1EV"
-image: "/images/byd-akkugeschft-335-gwh-im-q1-2026-minus-8-d1ev-7dd066.webp"
-category: "news"
-brand: "BYD"
-tags: ["BYD", "MG", "Tesla", "Batterie", "Elektroauto", "EV", "Marktanteil"]
+description: >-
+  Im ersten Quartal 2026 verzeichnete BYD einen Rückgang der
+  Batterieinstallationen um 8 % auf 33,5 GWh. Der chinesische Hersteller hält
+  damit Platz 2 hinter CATL, während das globale Marktwachstum auf 9,1 %
+  verlangsamt. Schwache Nachfrage in Europa und Nordamerika belastet den Markt.
+source: D1EV
+image: /images/byd-akkugeschft-335-gwh-im-q1-2026-minus-8-d1ev-7dd066.webp
+category: news
+brand: BYD
+tags:
+  - BYD
+  - Batterie
+  - Elektroauto
+  - PHEV
+  - Marktanteil
+  - Absatz
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/300429"
+original_url: 'https://www.d1ev.com/news/shichang/300429'
 read_time_minutes: 2
 ---
 

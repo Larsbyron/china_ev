@@ -11,12 +11,7 @@ image: /images/embodied-ai-2000-roboter-fr-byd-und-nio-in-china-d1ev-e6d02a.webp
 category: news
 tags:
   - BYD
-  - NIO
-  - XPeng
-  - Xpeng
-  - Li Auto
   - Batterie
-  - E-Auto
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299065'
 read_time_minutes: 3

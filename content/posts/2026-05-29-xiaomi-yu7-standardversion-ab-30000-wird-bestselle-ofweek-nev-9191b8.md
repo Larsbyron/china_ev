@@ -1,18 +1,23 @@
 ---
-title: "Xiaomi YU7: Standardversion ab 30.000 € wird Bestseller"
+title: 'Xiaomi YU7: Standardversion ab 30.000 € wird Bestseller'
 date: 2026-05-29T12:46:24.222Z
-description: "Xiaomi stellt fünf YU7-Varianten vor: Der Standard startet bei ca. 30.000 € (643 km CLTC), der GT bei 50.000 €. Die hohe Reichweite macht den Standard zum Volumenmodell – Europa-Start noch offen."
-source: "OFweek NEV"
-
-category: "news"
-brand: "Xiaomi"
-brands: ["Xiaomi"]
-tags: ["Xiaomi", "Xiaomi SU", "MG", "Tesla", "Reichweite"]
+description: >-
+  Xiaomi stellt fünf YU7-Varianten vor: Der Standard startet bei ca. 30.000 €
+  (643 km CLTC), der GT bei 50.000 €. Die hohe Reichweite macht den Standard zum
+  Volumenmodell – Europa-Start noch offen.
+source: OFweek NEV
+category: news
+brand: Xiaomi
+brands:
+  - Xiaomi
+tags:
+  - Xiaomi
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688339.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688339.html'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # Xiaomi YU7: Standardversion ab 30.000 € wird Bestseller

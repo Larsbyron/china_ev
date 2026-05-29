@@ -12,13 +12,11 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
-  - MG
-  - Tesla
   - Batterie
   - Reichweite
   - Ladestation
   - Elektroauto
+  - Hybrid
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/

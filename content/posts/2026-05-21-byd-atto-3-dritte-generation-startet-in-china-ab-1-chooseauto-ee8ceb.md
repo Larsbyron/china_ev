@@ -15,7 +15,8 @@ tags:
   - Batterie
   - Reichweite
   - Ladestation
-  - EV
+  - Schnellladen
+  - Autonomes Fahren
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/908691.shtml'
 read_time_minutes: 3

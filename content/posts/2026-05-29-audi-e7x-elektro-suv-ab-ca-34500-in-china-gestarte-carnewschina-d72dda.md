@@ -14,7 +14,7 @@ brands:
   - AUDI
   - Xiaomi
 tags:
-  - Xiaomi
+  - Audi
   - Zoll
 draft: false
 original_url: >-

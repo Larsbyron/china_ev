@@ -12,7 +12,6 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - MG
   - Batterie
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299253'

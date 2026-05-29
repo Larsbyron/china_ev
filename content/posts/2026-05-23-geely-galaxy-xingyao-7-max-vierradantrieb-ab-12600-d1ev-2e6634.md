@@ -11,7 +11,7 @@ category: news
 brand: Geely
 tags:
   - Geely
-  - EV
+  - Hybrid
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/300199'
 read_time_minutes: 2

@@ -8,14 +8,12 @@ description: >-
 source: OFweek NEV
 category: news
 tags:
-  - BYD
-  - XPeng
-  - Xpeng
-  - Li Auto
-  - Tesla
+  - Mercedes-Benz
   - Batterie
   - Reichweite
   - Zoll
+  - Elektroauto
+  - Hybrid
 draft: false
 original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687767.html'
 read_time_minutes: 5

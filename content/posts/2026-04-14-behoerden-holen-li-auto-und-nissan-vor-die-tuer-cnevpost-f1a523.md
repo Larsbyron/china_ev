@@ -11,10 +11,6 @@ image: >-
 category: news
 tags:
   - Li Auto
-  - Nissan
-  - Dongfeng
-  - Ministerium
-  - Schmutzkampagne
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/14/chinese-authorities-summon-li-auto-niss-smear-campaign-allegations/

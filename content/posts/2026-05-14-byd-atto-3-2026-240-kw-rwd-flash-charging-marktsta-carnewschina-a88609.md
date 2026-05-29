@@ -13,11 +13,9 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - MG
   - Batterie
   - Reichweite
   - Ladestation
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/12/byd-atto-3-lands-in-showrooms-with-240-kw-rwd-and-flash-charging-ahead-of-may-21-launch/

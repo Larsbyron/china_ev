@@ -10,11 +10,10 @@ image: /images/ai-volkswagen-id-polo-elektro-d1ev-297609.webp
 category: news
 brand: Volkswagen
 tags:
-  - Volkswagen ID.Polo
-  - Elektro-Kleinwagen
-  - MEB+
-  - V2L
-  - ID.2all
+  - Volkswagen
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
 original_url: 'https://www.d1ev.com/carnews/xinche/297609'
 read_time_minutes: 5

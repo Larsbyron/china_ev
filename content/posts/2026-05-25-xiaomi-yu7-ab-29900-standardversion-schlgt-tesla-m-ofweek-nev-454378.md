@@ -11,8 +11,6 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - MG
-  - Tesla
   - Reichweite
   - Elektroauto
 draft: false

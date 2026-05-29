@@ -10,8 +10,6 @@ image: /images/onvo-l80-familien-suv-mit-900v-startet-ab-31100-sina-e22184.webp
 category: news
 brand: Onvo
 tags:
-  - BYD
-  - NIO
   - Onvo
   - Batterie
   - Reichweite

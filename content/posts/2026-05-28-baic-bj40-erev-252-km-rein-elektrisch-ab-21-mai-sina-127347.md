@@ -9,9 +9,10 @@ source: Sina
 image: /images/baic-bj40-erev-252-km-rein-elektrisch-ab-21-mai-sina-127347.webp
 category: news
 tags:
-  - MG
+  - BAIC
   - Reichweite
-  - EV
+  - Schnellladen
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml

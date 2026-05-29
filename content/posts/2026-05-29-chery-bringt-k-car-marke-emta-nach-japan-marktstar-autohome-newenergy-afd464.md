@@ -1,18 +1,25 @@
 ---
-title: "Chery bringt K-Car-Marke EMTA nach Japan – Marktstart 2027"
+title: Chery bringt K-Car-Marke EMTA nach Japan – Marktstart 2027
 date: 2026-05-29T20:15:49.301Z
-description: "Chery gründet mit japanischen Partnern die reine Elektro-Kleinwagenmarke EMTA. Die ersten K-Car-Modelle kommen 2027 auf den japanischen Markt – mit chinesischer Technik und Vertrieb über 1.200 Autobacs-Filialen."
-source: "Autohome NewEnergy"
-image: "/images/chery-bringt-k-car-marke-emta-nach-japan-marktstar-autohome-newenergy-afd464.webp"
-category: "news"
-brand: "Chery"
-brands: ["Chery"]
-tags: ["Chery", "BYD", "Batterie", "EV"]
+description: >-
+  Chery gründet mit japanischen Partnern die reine Elektro-Kleinwagenmarke EMTA.
+  Die ersten K-Car-Modelle kommen 2027 auf den japanischen Markt – mit
+  chinesischer Technik und Vertrieb über 1.200 Autobacs-Filialen.
+source: Autohome NewEnergy
+image: >-
+  /images/chery-bringt-k-car-marke-emta-nach-japan-marktstar-autohome-newenergy-afd464.webp
+category: news
+brand: Chery
+brands:
+  - Chery
+tags:
+  - Chery
+  - Batterie
 draft: false
-original_url: "https://www.autohome.com.cn/news/202605/1314532.html"
+original_url: 'https://www.autohome.com.cn/news/202605/1314532.html'
 read_time_minutes: 2
-primaryTopic: "unternehmen-finanzen-kooperationen"
-marketRelevance: "global_industry"
+primaryTopic: unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
 ---
 
 # Chery bringt K-Car-Marke EMTA nach Japan – Marktstart 2027

@@ -13,13 +13,8 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - Zeekr
-  - Leapmotor
-  - Aion
-  - Tesla
   - Batterie
-  - E-Auto
-  - EV
+  - Hybrid
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/15/chinas-nev-sector-sees-price-hikes-as-supply-chain-costs-bite/

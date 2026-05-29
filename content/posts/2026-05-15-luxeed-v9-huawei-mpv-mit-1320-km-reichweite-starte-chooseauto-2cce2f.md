@@ -8,11 +8,11 @@ description: >-
 source: ChooseAuto
 category: news
 tags:
-  - MG
+  - Huawei
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/903527.shtml'
 read_time_minutes: 3

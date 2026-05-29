@@ -9,8 +9,10 @@ source: Sina
 image: /images/beijing-bj40-erev-252-km-e-reichweite-21-mai-start-sina-dffa2a.webp
 category: news
 tags:
+  - BAIC
   - Reichweite
-  - EV
+  - Schnellladen
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml

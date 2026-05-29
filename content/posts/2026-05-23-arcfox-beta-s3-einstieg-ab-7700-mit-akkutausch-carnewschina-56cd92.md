@@ -10,10 +10,12 @@ image: >-
   /images/arcfox-beta-s3-einstieg-ab-7700-mit-akkutausch-carnewschina-56cd92.webp
 category: news
 tags:
+  - BAIC
   - Batterie
   - Reichweite
+  - Schnellladen
   - Zoll
-  - EV
+  - Autopilot
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/23/arcfox-beta-s3-launches-in-china-leveraging-catls-battery-swapping-network-with-entry-level-baas-pricing-of-8800-usd/

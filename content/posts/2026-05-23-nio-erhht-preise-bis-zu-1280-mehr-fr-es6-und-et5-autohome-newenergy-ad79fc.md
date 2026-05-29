@@ -12,11 +12,8 @@ category: news
 brand: NIO
 tags:
   - NIO
-  - MG
   - Batterie
   - Elektroauto
-  - E-Auto
-  - EV
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314442.html'
 read_time_minutes: 3

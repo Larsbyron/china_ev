@@ -11,11 +11,12 @@ image: >-
 category: news
 brand: Chery
 tags:
-  - Xiaomi
-  - Tesla
+  - Chery
   - Batterie
   - Reichweite
-  - EV
+  - Schnellladen
+  - Hybrid
+  - PHEV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/24/cherys-omoda-launches-c9-suv-refresh-ice-phev-starting-at-18400-usd-in-china/

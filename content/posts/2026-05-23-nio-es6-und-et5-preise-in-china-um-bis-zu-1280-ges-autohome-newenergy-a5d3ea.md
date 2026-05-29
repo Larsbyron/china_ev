@@ -12,9 +12,7 @@ category: news
 brand: NIO
 tags:
   - NIO
-  - Xiaomi SU
   - Elektroauto
-  - E-Auto
   - Marktanteil
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314442.html'

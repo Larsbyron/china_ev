@@ -12,10 +12,11 @@ image: /images/geely-backed-evtol-maker-aerofugia-begins-pre-ipo-cnevpost-d2f6ec
 category: news
 tag: E-Auto
 tags:
-  - eVTOL
   - Geely
-  - Aerofugia
-  - Listing
+  - Reichweite
+  - Sicherheit
+  - Börse
+  - IPO
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/03/geely-aerofugia-begins-pre-ipo-tutoring-china-a-share-listing/

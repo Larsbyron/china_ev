@@ -11,10 +11,9 @@ image: >-
 category: news
 tags:
   - XPeng
-  - GX
-  - SUV
-  - EREV
-  - Autonomes Fahren
+  - Batterie
+  - Reichweite
+  - Hybrid
 draft: false
 original_url: 'https://cnevpost.com/2026/04/08/xpeng-releases-more-official-images-gx-suv/'
 primaryTopic: modelle-marktstarts

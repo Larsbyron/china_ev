@@ -10,8 +10,8 @@ image: /images/volvo-china-neuer-chef-duan-jianjun-von-mercedes-sina-80c370.webp
 category: news
 brand: Mercedes-Benz
 tags:
-  - Geely
-  - NIO
+  - Mercedes-Benz
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml

@@ -13,14 +13,12 @@ image: >-
 category: news
 brand: BYD
 tags:
-  - Aion
   - BYD
-  - NIO
-  - XPeng
-  - XPeng
-  - Li Auto
-  - Geely
-  - Zeekr
+  - Batterie
+  - Reichweite
+  - PHEV
+  - Autonomes Fahren
+  - Marktanteil
 draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-77014-8220-30685799.html'
 read_time_minutes: 10

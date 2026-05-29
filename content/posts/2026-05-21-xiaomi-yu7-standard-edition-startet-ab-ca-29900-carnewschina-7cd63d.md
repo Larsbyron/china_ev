@@ -12,8 +12,6 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - MG
-  - Tesla
   - Batterie
   - Reichweite
   - Zoll

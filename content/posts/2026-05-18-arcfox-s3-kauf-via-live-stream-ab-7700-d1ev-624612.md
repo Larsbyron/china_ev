@@ -10,8 +10,8 @@ source: D1EV
 image: /images/arcfox-s3-kauf-via-live-stream-ab-7700-d1ev-624612.webp
 category: news
 tags:
+  - Volkswagen
   - Reichweite
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299524'
 read_time_minutes: 2

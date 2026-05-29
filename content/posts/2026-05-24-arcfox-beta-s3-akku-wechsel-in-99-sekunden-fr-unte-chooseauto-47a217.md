@@ -10,11 +10,12 @@ image: >-
   /images/arcfox-beta-s3-akku-wechsel-in-99-sekunden-fr-unte-chooseauto-47a217.webp
 category: news
 tags:
-  - MG
+  - BAIC
   - Batterie
   - Reichweite
+  - Schnellladen
   - Zoll
-  - E-Auto
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/911485.shtml'
 read_time_minutes: 3

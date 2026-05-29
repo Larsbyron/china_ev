@@ -1,14 +1,18 @@
 ---
-title: "NIO bei Fahrassistenz-Challenge in Peking: 400 € Prämie"
+title: 'NIO bei Fahrassistenz-Challenge in Peking: 400 € Prämie'
 date: 2026-05-27T12:53:35.327Z
-description: "NIO tritt am 28. Mai 2026 beim „Fahrassistenz-Teufelsstrecken-Wettbewerb“ in Peking gegen XPeng, Huawei & Co. an. Preisgelder bis zu 400 € für die besten autonomen Systeme im Stadtverkehr."
-source: "D1EV"
-image: "/images/nio-bei-fahrassistenz-challenge-in-peking-400-prmi-d1ev-803047.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "XPeng", "Xpeng", "Li Auto", "Aion", "EV"]
+description: >-
+  NIO tritt am 28. Mai 2026 beim „Fahrassistenz-Teufelsstrecken-Wettbewerb“ in
+  Peking gegen XPeng, Huawei & Co. an. Preisgelder bis zu 400 € für die besten
+  autonomen Systeme im Stadtverkehr.
+source: D1EV
+image: /images/nio-bei-fahrassistenz-challenge-in-peking-400-prmi-d1ev-803047.webp
+category: news
+brand: NIO
+tags:
+  - NIO
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/300690"
+original_url: 'https://www.d1ev.com/news/qiye/300690'
 read_time_minutes: 2
 ---
 

@@ -12,10 +12,6 @@ category: news
 tag: E-Auto
 tags:
   - NIO
-  - BEV
-  - Deliveries
-  - ES8
-  - SUV
 draft: false
 original_url: 'https://cnevpost.com/2026/04/03/nio-third-gen-es8-90000-deliveries/'
 primaryTopic: markt-absatz-zulassungen

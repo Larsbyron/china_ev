@@ -11,11 +11,11 @@ category: news
 brand: Geely
 tags:
   - Geely
-  - Zeekr
-  - Tesla
   - Batterie
   - Elektroauto
-  - EV
+  - Hybrid
+  - Autopilot
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300201'
 read_time_minutes: 3

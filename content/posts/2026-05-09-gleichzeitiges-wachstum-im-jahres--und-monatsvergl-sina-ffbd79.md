@@ -14,7 +14,8 @@ brand: BYD
 tags:
   - BYD
   - Batterie
-  - EV
+  - Hybrid
+  - Absatz
 draft: false
 original_url: 'https://auto.sina.com.cn/news/2026-05-02/detail-inhwpcha9630783.shtml'
 read_time_minutes: 2

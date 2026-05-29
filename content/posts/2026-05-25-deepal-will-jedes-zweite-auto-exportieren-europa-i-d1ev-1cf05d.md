@@ -10,10 +10,11 @@ source: D1EV
 image: /images/deepal-will-jedes-zweite-auto-exportieren-europa-i-d1ev-1cf05d.webp
 category: news
 tags:
-  - Tesla
+  - Deepal
   - Reichweite
   - Elektroauto
-  - EV
+  - Autonomes Fahren
+  - Absatz
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300376'
 read_time_minutes: 3

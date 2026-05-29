@@ -13,8 +13,7 @@ brands:
   - AUDI
   - Xiaomi
 tags:
-  - Xiaomi
-  - MG
+  - Audi
   - Reichweite
   - Zoll
 draft: false

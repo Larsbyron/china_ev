@@ -10,9 +10,8 @@ source: D1EV
 image: /images/huawei-veteran-sichert-128-mio-fr-auto-ki-startup-d1ev-4cd90d.webp
 category: news
 tags:
-  - MG
+  - Huawei
   - Elektroauto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300381'
 read_time_minutes: 2

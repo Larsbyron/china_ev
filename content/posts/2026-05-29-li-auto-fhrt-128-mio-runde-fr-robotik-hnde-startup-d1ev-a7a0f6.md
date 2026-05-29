@@ -1,18 +1,23 @@
 ---
-title: "Li Auto führt 128-Mio.‑€-Runde für Robotik-Hände-Startup an"
+title: Li Auto führt 128-Mio.‑€-Runde für Robotik-Hände-Startup an
 date: 2026-05-29T06:10:59.665Z
-description: "Li Auto und CITIC Securities führen eine A-Finanzierungsrunde für das Robotik-Startup Xynova an. Die Runde bringt insgesamt ca. 128 Mio. € für die Entwicklung intelligenter Roboterhände und deren Massenproduktion."
-source: "D1EV"
-image: "/images/li-auto-fhrt-128-mio-runde-fr-robotik-hnde-startup-d1ev-a7a0f6.webp"
-category: "news"
-brand: "Li Auto"
-brands: ["Li Auto"]
-tags: ["Li Auto", "EV"]
+description: >-
+  Li Auto und CITIC Securities führen eine A-Finanzierungsrunde für das
+  Robotik-Startup Xynova an. Die Runde bringt insgesamt ca. 128 Mio. € für die
+  Entwicklung intelligenter Roboterhände und deren Massenproduktion.
+source: D1EV
+image: /images/li-auto-fhrt-128-mio-runde-fr-robotik-hnde-startup-d1ev-a7a0f6.webp
+category: news
+brand: Li Auto
+brands:
+  - Li Auto
+tags:
+  - Li Auto
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/301056"
+original_url: 'https://www.d1ev.com/news/shichang/301056'
 read_time_minutes: 2
-primaryTopic: "unternehmen-finanzen-kooperationen"
-marketRelevance: "global_industry"
+primaryTopic: unternehmen-finanzen-kooperationen
+marketRelevance: global_industry
 ---
 
 # Li Auto führt 128-Mio.‑€-Runde für Robotik-Hände-Startup an

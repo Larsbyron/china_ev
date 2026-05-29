@@ -10,11 +10,10 @@ image: >-
 category: news
 brand: Great Wall
 tags:
-  - Haval
-  - Big Dog
-  - PHEV
-  - SUV
-  - Hi4
+  - Great Wall
+  - Reichweite
+  - Zoll
+  - Hybrid
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314144.html'
 read_time_minutes: 2

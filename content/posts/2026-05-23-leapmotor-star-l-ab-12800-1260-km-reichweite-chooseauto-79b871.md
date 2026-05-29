@@ -11,10 +11,10 @@ category: news
 brand: Leapmotor
 tags:
   - Leapmotor
-  - MG
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/910502.shtml'
 read_time_minutes: 2

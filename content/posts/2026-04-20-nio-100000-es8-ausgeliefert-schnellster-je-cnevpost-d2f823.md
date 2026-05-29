@@ -10,10 +10,6 @@ image: /images/nio-100000-es8-ausgeliefert-schnellster-je-cnevpost-d2f823.webp
 category: news
 tags:
   - NIO
-  - ES8
-  - Auslieferung
-  - Meilenstein
-  - Premium
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/20/nio-to-deliver-100000th-revamped-es8-this-week/

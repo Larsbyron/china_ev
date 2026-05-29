@@ -8,11 +8,12 @@ description: >-
 source: OFweek NEV
 category: news
 tags:
-  - NIO
-  - MG
+  - Xiaomi
   - Reichweite
   - Zoll
-  - EV
+  - Autonomes Fahren
+  - Absatz
+  - Sicherheit
 draft: false
 original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688222.html'
 read_time_minutes: 4

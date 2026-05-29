@@ -11,7 +11,7 @@ category: news
 brand: Li Auto
 tags:
   - Li Auto
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300770'
 read_time_minutes: 2

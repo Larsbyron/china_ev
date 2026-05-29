@@ -12,12 +12,6 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - XPeng
-  - Xpeng
-  - Li Auto
-  - MG
-  - Tesla
-  - E-Auto
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300800'
 read_time_minutes: 4

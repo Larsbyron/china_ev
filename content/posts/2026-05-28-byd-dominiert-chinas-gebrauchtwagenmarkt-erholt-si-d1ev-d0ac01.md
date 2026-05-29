@@ -11,13 +11,10 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
-  - Li Auto
-  - Onvo
-  - Zeekr
-  - Leapmotor
-  - Tesla
   - Reichweite
+  - Elektroauto
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300811'
 read_time_minutes: 3

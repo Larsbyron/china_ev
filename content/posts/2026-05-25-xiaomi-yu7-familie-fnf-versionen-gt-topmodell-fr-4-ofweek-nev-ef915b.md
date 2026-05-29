@@ -10,7 +10,6 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - Tesla
   - Reichweite
   - Elektroauto
 draft: false

@@ -1,18 +1,27 @@
 ---
-title: "Onvo L60 Facelift: 740 km Reichweite und neuer NIO-Chip"
+title: 'Onvo L60 Facelift: 740 km Reichweite und neuer NIO-Chip'
 date: 2026-05-29T12:46:15.292Z
-description: "NIO-Tochter Onvo überarbeitet den L60: Das Mittelklasse-SUV erhält einen Lidar, NIOs hauseigenen 5-nm-Chip und eine 740 km (CLTC) Reichweite. Der Vorverkauf in China startet."
-source: "Autohome NewEnergy"
-image: "/images/onvo-l60-facelift-740-km-reichweite-und-neuer-nio-autohome-newenergy-87661d.webp"
-category: "news"
-brand: "NIO"
-brands: ["NIO"]
-tags: ["NIO", "Onvo", "Geely", "Zeekr", "MG", "Batterie", "Reichweite", "Zoll"]
+description: >-
+  NIO-Tochter Onvo überarbeitet den L60: Das Mittelklasse-SUV erhält einen
+  Lidar, NIOs hauseigenen 5-nm-Chip und eine 740 km (CLTC) Reichweite. Der
+  Vorverkauf in China startet.
+source: Autohome NewEnergy
+image: >-
+  /images/onvo-l60-facelift-740-km-reichweite-und-neuer-nio-autohome-newenergy-87661d.webp
+category: news
+brand: NIO
+brands:
+  - NIO
+tags:
+  - NIO
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314562.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314562.html'
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # Onvo L60 Facelift: 740 km Reichweite und neuer NIO-Chip

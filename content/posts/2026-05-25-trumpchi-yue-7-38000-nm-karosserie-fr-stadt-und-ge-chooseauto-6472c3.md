@@ -11,7 +11,9 @@ image: >-
   /images/trumpchi-yue-7-38000-nm-karosserie-fr-stadt-und-ge-chooseauto-6472c3.webp
 category: news
 tags:
+  - Mercedes-Benz
   - Batterie
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/912501.shtml'
 read_time_minutes: 3

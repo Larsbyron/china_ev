@@ -10,8 +10,11 @@ image: >-
   /images/nissan-ruft-in-china-68000-n7-und-n6-wegen-gaspeda-carnewschina-cbaa03.webp
 category: news
 tags:
+  - Nissan
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
+  - Rückruf
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/23/nissan-recalls-nearly-70000-n7-and-n6-vehicles-in-china-over-accelerator-pedal-defect/

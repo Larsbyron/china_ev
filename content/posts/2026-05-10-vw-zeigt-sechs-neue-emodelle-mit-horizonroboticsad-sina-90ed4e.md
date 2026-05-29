@@ -10,9 +10,10 @@ source: Sina
 image: /images/vw-zeigt-sechs-neue-emodelle-mit-horizonroboticsad-sina-90ed4e.webp
 category: news
 tags:
-  - Tesla
+  - Volkswagen
   - Elektroauto
-  - EV
+  - Autopilot
+  - Sicherheit
 draft: false
 original_url: 'https://auto.sina.com.cn/news/hy/2026-04-29/detail-inhwesks7842568.shtml'
 read_time_minutes: 3

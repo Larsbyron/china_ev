@@ -10,8 +10,10 @@ image: >-
   /images/ai-neuer-rs-5-plug-in-hybrid-kann-er-die-elektro-konk-ofweek-nev-0f134c.webp
 category: news
 tags:
+  - BMW
   - Batterie
   - Elektroauto
+  - Hybrid
 draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 4

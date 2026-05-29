@@ -1,18 +1,26 @@
 ---
-title: "Chinesische EV-Exporte steigen um 40% – CATL baut Testzentrum"
+title: Chinesische EV-Exporte steigen um 40% – CATL baut Testzentrum
 date: 2026-05-29T11:35:32.409Z
-description: "Chinas Exporte von Elektroautos legten im April um 40 % auf 278.081 Fahrzeuge zu. Besonders stark stiegen die Ausfuhren nach Brasilien (+221 %). CATL investiert 384 Mio. € in ein riesiges Testzentrum für Energiespeicher."
-source: "D1EV"
-image: "/images/chinesische-ev-exporte-steigen-um-40-catl-baut-tes-d1ev-3da061.webp"
-category: "news"
-
-brands: ["CATL"]
-tags: ["Batterie", "Zoll", "Elektroauto", "E-Auto"]
+description: >-
+  Chinas Exporte von Elektroautos legten im April um 40 % auf 278.081 Fahrzeuge
+  zu. Besonders stark stiegen die Ausfuhren nach Brasilien (+221 %). CATL
+  investiert 384 Mio. € in ein riesiges Testzentrum für Energiespeicher.
+source: D1EV
+image: /images/chinesische-ev-exporte-steigen-um-40-catl-baut-tes-d1ev-3da061.webp
+category: news
+brands:
+  - CATL
+tags:
+  - Batterie
+  - Zoll
+  - Elektroauto
+  - Sicherheit
 draft: false
-original_url: "https://www.d1ev.com/news/shichang/301045"
+original_url: 'https://www.d1ev.com/news/shichang/301045'
 read_time_minutes: 2
-primaryTopic: "markt-absatz-zulassungen"
-marketRelevance: "global_industry"
+primaryTopic: markt-absatz-zulassungen
+marketRelevance: global_industry
+brand: null
 ---
 
 # Chinesische EV-Exporte steigen um 40% – CATL baut Testzentrum

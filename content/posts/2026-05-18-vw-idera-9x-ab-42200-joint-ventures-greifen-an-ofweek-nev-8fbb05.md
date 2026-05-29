@@ -8,14 +8,12 @@ description: >-
 source: OFweek NEV
 category: news
 tags:
-  - NIO
-  - Li Auto
-  - Tesla
+  - Volkswagen
   - Batterie
   - Reichweite
   - Zoll
   - Elektroauto
-  - EV
+  - Autonomes Fahren
 draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'
 read_time_minutes: 5

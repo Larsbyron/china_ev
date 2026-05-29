@@ -13,9 +13,8 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
   - Reichweite
-  - EV
+  - Sicherheit
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/23/byd-assisted-driving-slashes-severe-accident-rate-to-one-sixth-across-3-million-vehicles/

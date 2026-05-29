@@ -9,11 +9,8 @@ image: /images/ai-luxeed-v9-marktstart-mai-2026-autohome-NE-1314143.webp
 category: news
 brand: Huawei
 tags:
-  - Luxeed
-  - V9
-  - MPV
   - Huawei
-  - EREV
+  - Reichweite
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314143.html'
 read_time_minutes: 3

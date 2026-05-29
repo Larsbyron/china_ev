@@ -11,12 +11,11 @@ category: news
 brand: Geely
 tags:
   - Geely
-  - BYD
-  - MG
   - Batterie
   - Reichweite
   - Elektroauto
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300201'
 read_time_minutes: 3

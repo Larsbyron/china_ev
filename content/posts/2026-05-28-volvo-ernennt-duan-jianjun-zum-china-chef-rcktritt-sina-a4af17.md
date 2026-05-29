@@ -10,11 +10,7 @@ image: /images/volvo-ernennt-duan-jianjun-zum-china-chef-rcktritt-sina-a4af17.we
 category: news
 brand: Volvo
 tags:
-  - Geely
-  - NIO
-  - XPeng
-  - Xpeng
-  - EV
+  - Volvo
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml

@@ -13,11 +13,8 @@ image: >-
 category: news
 tags:
   - Li Auto
-  - L9 Livis
-  - M100
-  - Chip
-  - Premium
-  - Peking Autoshow
+  - Batterie
+  - Reichweite
 draft: false
 original_url: 'https://cnevpost.com/2026/04/24/li-auto-to-officially-launch-l9-livis-may-15/'
 primaryTopic: modelle-marktstarts

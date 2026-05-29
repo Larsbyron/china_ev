@@ -10,7 +10,7 @@ image: /images/ex-mercedes-manager-soll-volvos-china-elektro-offe-sina-0cc150.we
 category: news
 brand: Mercedes-Benz
 tags:
-  - Geely
+  - Mercedes-Benz
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml

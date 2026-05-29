@@ -11,10 +11,6 @@ image: >-
 category: news
 tags:
   - NIO
-  - Peking Autoshow
-  - ES9
-  - Onvo
-  - Firefly
 draft: false
 original_url: 'https://cnevpost.com/2026/04/23/nio-highlights-2026-beijing-auto-show/'
 primaryTopic: modelle-marktstarts

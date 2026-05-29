@@ -13,8 +13,7 @@ tags:
   - Leapmotor
   - Batterie
   - EU-Import
-  - E-Auto
-  - EV
+  - Absatz
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299670'
 read_time_minutes: 3

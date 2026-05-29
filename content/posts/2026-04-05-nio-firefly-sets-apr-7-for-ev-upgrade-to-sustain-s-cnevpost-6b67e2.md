@@ -13,8 +13,6 @@ category: news
 tag: E-Auto
 tags:
   - NIO
-  - Firefly
-  - New EV Models
 draft: false
 original_url: 'https://cnevpost.com/2026/04/03/nio-firefly-sets-apr-7-for-ev-upgrade/'
 primaryTopic: modelle-marktstarts

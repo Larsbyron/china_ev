@@ -10,14 +10,12 @@ image: >-
   /images/ai-8er-suv-krieg-zeekr-aito-co-starten-2026-unter-510-ofweek-nev-593e5e.webp
 category: news
 tags:
-  - BYD
-  - NIO
-  - Li Auto
   - Zeekr
-  - Tesla
   - Reichweite
+  - Schnellladen
   - Elektroauto
-  - E-Auto
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30680781.html'
 read_time_minutes: 5

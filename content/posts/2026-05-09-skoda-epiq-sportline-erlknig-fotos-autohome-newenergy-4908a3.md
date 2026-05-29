@@ -9,6 +9,7 @@ source: Autohome NewEnergy
 image: /images/skoda-epiq-sportline-erlknig-fotos-autohome-newenergy-4908a3.webp
 category: news
 tags:
+  - Škoda
   - Batterie
   - Reichweite
   - Zoll

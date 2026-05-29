@@ -12,9 +12,9 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - MG
   - Reichweite
   - Zoll
+  - Sicherheit
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/16/xiaomi-yu7-gt-arrives-at-dealerships-a-990-hp-performance-suv-set-for-late-may-launch/

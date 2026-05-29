@@ -11,12 +11,11 @@ image: >-
 category: news
 brand: Denza
 tags:
-  - BYD
-  - MG
+  - Denza
   - Batterie
   - Reichweite
-  - EV
   - Marktanteil
+  - Absatz
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/21/byd-blade-battery-2-0-replacement-less-than-11600-usd-in-china-says-denza-z9-gt-ev-owner/

@@ -10,9 +10,11 @@ source: D1EV
 image: /images/prologium-feststoffbatterie-ipo-mit-38-mrd-usd-bew-d1ev-e42448.webp
 category: news
 tags:
+  - Volkswagen
   - Batterie
-  - E-Auto
-  - EV
+  - Sicherheit
+  - Börse
+  - IPO
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300854'
 read_time_minutes: 3

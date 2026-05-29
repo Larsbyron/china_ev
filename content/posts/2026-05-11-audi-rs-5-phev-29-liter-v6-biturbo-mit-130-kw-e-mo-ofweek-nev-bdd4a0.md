@@ -10,8 +10,10 @@ image: >-
   /images/ai-audi-rs-5-phev-29-liter-v6-biturbo-mit-130-kw-e-mo-ofweek-nev-bdd4a0.webp
 category: news
 tags:
+  - Audi
   - Batterie
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71009-8330-30685150.html'
 read_time_minutes: 2

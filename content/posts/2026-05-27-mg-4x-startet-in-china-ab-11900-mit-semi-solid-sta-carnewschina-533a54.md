@@ -12,11 +12,12 @@ image: >-
 category: news
 brand: MG
 tags:
-  - BYD
   - MG
   - Batterie
   - Reichweite
   - Zoll
+  - Hybrid
+  - Absatz
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/27/mg-launches-compact-electric-suv-mg-4x-in-china-starting-from-13600-usd/

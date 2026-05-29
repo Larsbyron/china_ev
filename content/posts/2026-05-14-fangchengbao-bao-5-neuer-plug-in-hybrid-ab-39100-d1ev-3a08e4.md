@@ -13,7 +13,8 @@ tags:
   - BYD
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299058'
 read_time_minutes: 3

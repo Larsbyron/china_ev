@@ -11,10 +11,8 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - Tesla
   - Batterie
   - Reichweite
-  - EV
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml

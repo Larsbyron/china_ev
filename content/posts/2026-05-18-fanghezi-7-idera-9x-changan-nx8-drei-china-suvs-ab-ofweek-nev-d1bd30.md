@@ -11,10 +11,12 @@ description: >-
 source: OFweek NEV
 category: news
 tags:
+  - Volkswagen
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 4

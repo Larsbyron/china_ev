@@ -10,12 +10,12 @@ image: >-
   /images/hyptec-s600-800v-suv-ab-24200-mit-lidar-serienauss-chooseauto-61c276.webp
 category: news
 tags:
-  - Tesla
+  - GAC
   - Batterie
   - Reichweite
   - Zoll
   - Elektroauto
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/904884.shtml'
 read_time_minutes: 4

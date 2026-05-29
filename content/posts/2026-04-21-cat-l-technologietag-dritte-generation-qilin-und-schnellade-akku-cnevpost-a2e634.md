@@ -10,11 +10,9 @@ image: >-
   /images/ai-cat-l-technologietag-dritte-generation-qilin-und-schnellade-akku-cnevpost-a2e634.webp
 category: news
 tags:
-  - CATL
   - Batterie
-  - Qilin
-  - Schnellladung
-  - Technologie
+  - Reichweite
+  - Hybrid
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/21/catl-unveils-new-battery-products-2026-tech-day/
@@ -24,6 +22,7 @@ marketRelevance: global_industry
 brands:
   - CATL
 confidence: 0.95
+brand: null
 ---
 
 # CATL Technologietag 2026: Ladeleistung und Reichweite auf neuem Niveau

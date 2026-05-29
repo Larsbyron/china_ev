@@ -11,9 +11,7 @@ image: >-
 category: news
 brand: GAC
 tags:
-  - BYD
-  - Aion
-  - MG
+  - GAC
   - Batterie
   - Reichweite
   - Zoll

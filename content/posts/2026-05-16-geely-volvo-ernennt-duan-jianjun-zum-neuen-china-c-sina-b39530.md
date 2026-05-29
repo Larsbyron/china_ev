@@ -1,14 +1,22 @@
 ---
-title: "Geely: Volvo ernennt Duan Jianjun zum neuen China-Chef"
+title: 'Geely: Volvo ernennt Duan Jianjun zum neuen China-Chef'
 date: 2026-05-16T11:01:08.231Z
-description: "Volvo Car Greater China bekommt einen neuen Präsidenten: Duan Jianjun übernimmt den Posten von Yuan Xiaolin. Der Wechsel fällt in eine Phase forcierter Elektrifizierung – Duan soll die EV-Offensive in China vorantreiben."
-source: "Sina"
-image: "/images/geely-volvo-ernennt-duan-jianjun-zum-neuen-china-c-sina-b39530.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "BYD", "NIO", "XPeng", "Xpeng", "Elektroauto", "EV"]
+description: >-
+  Volvo Car Greater China bekommt einen neuen Präsidenten: Duan Jianjun
+  übernimmt den Posten von Yuan Xiaolin. Der Wechsel fällt in eine Phase
+  forcierter Elektrifizierung – Duan soll die EV-Offensive in China
+  vorantreiben.
+source: Sina
+image: /images/geely-volvo-ernennt-duan-jianjun-zum-neuen-china-c-sina-b39530.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Elektroauto
+  - Sicherheit
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml
 read_time_minutes: 3
 ---
 

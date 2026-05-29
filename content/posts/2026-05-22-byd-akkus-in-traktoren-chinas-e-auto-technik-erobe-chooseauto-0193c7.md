@@ -10,11 +10,8 @@ source: ChooseAuto
 category: news
 tags:
   - BYD
-  - NIO
-  - MG
   - Batterie
-  - E-Auto
-  - EV
+  - Absatz
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/909741.shtml'
 read_time_minutes: 3

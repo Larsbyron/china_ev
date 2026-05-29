@@ -10,9 +10,11 @@ source: ChooseAuto
 image: /images/wey-v9x-ab-44800-1700-km-reichweite-cltc-chooseauto-76bb31.webp
 category: news
 tags:
+  - Great Wall
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/905866.shtml'
 read_time_minutes: 3

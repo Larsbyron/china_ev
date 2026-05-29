@@ -13,8 +13,8 @@ tags:
   - BYD
   - Batterie
   - Elektroauto
-  - E-Auto
   - Marktanteil
+  - Absatz
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-26/detail-inhzffss1486786.shtml

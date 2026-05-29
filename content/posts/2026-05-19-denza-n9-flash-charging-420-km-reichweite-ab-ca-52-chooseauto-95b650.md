@@ -9,12 +9,12 @@ source: ChooseAuto
 category: news
 brand: Denza
 tags:
-  - BYD
-  - Tesla
+  - Denza
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/906974.shtml'
 read_time_minutes: 3

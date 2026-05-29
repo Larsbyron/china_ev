@@ -13,10 +13,6 @@ image: >-
 category: news
 tags:
   - NIO
-  - William Li
-  - ES9
-  - L80
-  - Quartal 2
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/17/nio-ceo-sees-q2-pressure-bets-on-es9-l80-drive-growth/

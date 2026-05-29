@@ -10,10 +10,9 @@ image: /images/ai-leapmotor-a05-elektro-kleinwagen-d1ev-297640.webp
 category: news
 brand: Leapmotor
 tags:
-  - Leapmotor A05
-  - Elektro-Kleinwagen
-  - LiDAR
-  - Kleinwagen
+  - Leapmotor
+  - Batterie
+  - Reichweite
 draft: false
 original_url: 'https://www.d1ev.com/carnews/xinche/297640'
 read_time_minutes: 3

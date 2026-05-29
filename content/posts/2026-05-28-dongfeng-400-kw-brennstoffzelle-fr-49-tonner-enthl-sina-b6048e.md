@@ -10,7 +10,9 @@ source: Sina
 image: /images/dongfeng-400-kw-brennstoffzelle-fr-49-tonner-enthl-sina-b6048e.webp
 category: news
 tags:
+  - Mercedes-Benz
   - Reichweite
+  - IPO
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-28/detail-inhznkuk1299412.shtml

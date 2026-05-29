@@ -10,11 +10,8 @@ image: >-
   /images/ai-11-neue-9er-flaggschiffe-china-startet-2026-die-lu-ofweek-nev-ecc328.webp
 category: news
 tags:
-  - BYD
-  - XPeng
-  - XPeng
-  - Li Auto
-  - MG
+  - Huawei
+  - Autonomes Fahren
 draft: false
 original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30681401.html'
 read_time_minutes: 2

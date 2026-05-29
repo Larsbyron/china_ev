@@ -10,11 +10,8 @@ image: /images/ai-tesla-semi-serienproduktion-nevada-d1ev-297637.webp
 category: news
 brand: Tesla
 tags:
-  - Tesla Semi
-  - Elektro-LKW
-  - Nevada Gigafactory
-  - Megacharger
-  - '4680'
+  - Tesla
+  - Reichweite
 draft: false
 original_url: 'https://www.d1ev.com/carnews/xinche/297637'
 read_time_minutes: 5

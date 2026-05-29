@@ -12,11 +12,12 @@ image: >-
   /images/arcfox-s3-elektro-sedan-ab-8300-mit-wechselakku-ma-carnewschina-273e95.webp
 category: news
 tags:
-  - Tesla
+  - BAIC
   - Batterie
   - Reichweite
+  - Schnellladen
   - Zoll
-  - EV
+  - Absatz
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/13/arcfox-s3-to-officially-launch-on-may-22-with-swappable-battery-option/

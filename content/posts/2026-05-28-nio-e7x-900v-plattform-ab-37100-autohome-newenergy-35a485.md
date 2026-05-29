@@ -12,11 +12,10 @@ category: news
 brand: NIO
 tags:
   - NIO
-  - MG
-  - Tesla
   - Batterie
   - Reichweite
   - Zoll
+  - Autonomes Fahren
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314520.html'
 read_time_minutes: 3

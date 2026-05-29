@@ -10,8 +10,9 @@ image: >-
   /images/bj40-erev-startet-ab-27500-beijing-81-blind-buchba-chooseauto-d4111f.webp
 category: news
 tags:
+  - Great Wall
   - Reichweite
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/895699.shtml'
 read_time_minutes: 2

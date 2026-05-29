@@ -1,18 +1,27 @@
 ---
-title: "Xiaomi YU7 GT: 990-PS-E-SUV ab 49.900 € ausgeliefert"
+title: 'Xiaomi YU7 GT: 990-PS-E-SUV ab 49.900 € ausgeliefert'
 date: 2026-05-29T11:32:26.294Z
-description: "Xiaomi-Chef Lei Jun hat die ersten sechs YU7 GT an Kunden übergeben. Der 990 PS starke E-SUV sprintet in 2,92 s auf 100 km/h und kostet umgerechnet ab ca. 49.900 €."
-source: "CarNewsChina"
-image: "/images/xiaomi-yu7-gt-990-ps-e-suv-ab-49900-ausgeliefert-carnewschina-6793ab.webp"
-category: "news"
-brand: "Xiaomi"
-brands: ["Xiaomi"]
-tags: ["Xiaomi", "MG", "Batterie", "Reichweite", "EV"]
+description: >-
+  Xiaomi-Chef Lei Jun hat die ersten sechs YU7 GT an Kunden übergeben. Der 990
+  PS starke E-SUV sprintet in 2,92 s auf 100 km/h und kostet umgerechnet ab ca.
+  49.900 €.
+source: CarNewsChina
+image: >-
+  /images/xiaomi-yu7-gt-990-ps-e-suv-ab-49900-ausgeliefert-carnewschina-6793ab.webp
+category: news
+brand: Xiaomi
+brands:
+  - Xiaomi
+tags:
+  - Xiaomi
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://carnewschina.com/2026/05/29/xiaomi-founder-lei-jun-delivered-six-yu7-gt-crossovers-to-the-first-clients/"
+original_url: >-
+  https://carnewschina.com/2026/05/29/xiaomi-founder-lei-jun-delivered-six-yu7-gt-crossovers-to-the-first-clients/
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # Xiaomi YU7 GT: 990-PS-E-SUV ab 49.900 € ausgeliefert

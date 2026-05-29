@@ -9,9 +9,9 @@ source: D1EV
 image: /images/aito-m9-startet-ab-61400-mit-903-ps-und-l3-vorbere-d1ev-43dd72.webp
 category: news
 tags:
-  - NIO
-  - Li Auto
-  - Zeekr
+  - Huawei
+  - Autonomes Fahren
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300789'
 read_time_minutes: 3

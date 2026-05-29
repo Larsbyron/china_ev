@@ -10,8 +10,9 @@ source: Sina
 image: /images/beijing-bj40-erev-252-km-rein-elektrisch-start-21-sina-8f4701.webp
 category: news
 tags:
+  - BAIC
   - Reichweite
-  - EV
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml

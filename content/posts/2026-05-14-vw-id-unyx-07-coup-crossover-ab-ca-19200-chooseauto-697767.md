@@ -9,8 +9,7 @@ source: ChooseAuto
 image: /images/vw-id-unyx-07-coup-crossover-ab-ca-19200-chooseauto-697767.webp
 category: news
 tags:
-  - BYD
-  - MG
+  - Volkswagen
   - Batterie
   - Reichweite
   - Zoll

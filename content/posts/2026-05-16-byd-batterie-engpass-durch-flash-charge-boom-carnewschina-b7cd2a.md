@@ -13,8 +13,8 @@ brand: BYD
 tags:
   - BYD
   - Batterie
-  - EV
   - Marktanteil
+  - Absatz
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/16/byd-admits-severe-battery-shortage-as-flash-charge-ev-demand-overwhelms-production/

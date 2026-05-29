@@ -12,7 +12,7 @@ tags:
   - BYD
   - Batterie
   - Reichweite
-  - EV
+  - Schnellladen
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/905032.shtml'
 read_time_minutes: 2

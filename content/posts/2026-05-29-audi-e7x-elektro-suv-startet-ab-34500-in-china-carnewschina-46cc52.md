@@ -14,7 +14,7 @@ brands:
   - AUDI
   - Xiaomi
 tags:
-  - Xiaomi
+  - Audi
   - Reichweite
   - Zoll
 draft: false

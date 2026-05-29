@@ -1,18 +1,26 @@
 ---
-title: "Xiaomi YU7: Standardversion ab 29.900 €, GT debütiert"
+title: 'Xiaomi YU7: Standardversion ab 29.900 €, GT debütiert'
 date: 2026-05-29T12:49:12.290Z
-description: "Xiaomi bringt die Basisversion seines Elektro-SUV zurück und zeigt den neuen GT. Der Einstiegspreis liegt bei ca. 29.900 €, der GT unterbietet den Nürburgring-SUV-Rekord."
-source: "Sina"
-image: "/images/xiaomi-yu7-standardversion-ab-29900-gt-debtiert-sina-e905ac.webp"
-category: "news"
-brand: "Xiaomi"
-brands: ["Xiaomi"]
-tags: ["Xiaomi", "Tesla", "Batterie", "Reichweite"]
+description: >-
+  Xiaomi bringt die Basisversion seines Elektro-SUV zurück und zeigt den neuen
+  GT. Der Einstiegspreis liegt bei ca. 29.900 €, der GT unterbietet den
+  Nürburgring-SUV-Rekord.
+source: Sina
+image: /images/xiaomi-yu7-standardversion-ab-29900-gt-debtiert-sina-e905ac.webp
+category: news
+brand: Xiaomi
+brands:
+  - Xiaomi
+tags:
+  - Xiaomi
+  - Batterie
+  - Reichweite
 draft: false
-original_url: "https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml"
+original_url: >-
+  https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-22/detail-inhysxpa5538775.shtml
 read_time_minutes: 2
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # Xiaomi YU7: Standardversion ab 29.900 €, GT debütiert

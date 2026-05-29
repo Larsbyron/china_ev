@@ -9,9 +9,11 @@ source: ChooseAuto
 image: /images/exeed-yaoguang-2027-weltpremiere-ab-51200-chooseauto-5c1b6f.webp
 category: news
 tags:
-  - MG
+  - Chery
   - Batterie
   - Reichweite
+  - Hybrid
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/907325.shtml'
 read_time_minutes: 3

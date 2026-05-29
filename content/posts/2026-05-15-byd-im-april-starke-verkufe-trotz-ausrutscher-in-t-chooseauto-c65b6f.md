@@ -10,10 +10,7 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - Li Auto
-  - Xiaomi SU
-  - Tesla
-  - E-Auto
+  - Hybrid
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/903564.shtml'
 read_time_minutes: 2

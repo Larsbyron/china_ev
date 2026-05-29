@@ -10,12 +10,9 @@ image: >-
   /images/ai-vw-mercedes-bmw-china-offensive-auf-der-auto-shang-ofweek-nev-b5678f.webp
 category: news
 tags:
-  - BYD
-  - NIO
+  - BMW
   - Reichweite
   - Zoll
-  - E-Auto
-  - EV
   - Marktanteil
 draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8220-30686126.html'

@@ -14,9 +14,8 @@ tags:
   - BYD
   - Batterie
   - Reichweite
-  - E-Auto
-  - EV
   - Marktanteil
+  - Sicherheit
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/21/chinese-researchers-unveil-451-5-wh-kg-solid-state-battery-with-3-minute-charging-capability/

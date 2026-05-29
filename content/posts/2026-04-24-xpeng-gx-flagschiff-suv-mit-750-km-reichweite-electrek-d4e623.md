@@ -10,11 +10,9 @@ image: /images/ai-xpeng-gx-flagschiff-suv-mit-750-km-reichweite-electrek-d4e623.
 category: news
 tags:
   - XPeng
-  - GX
-  - SUV
+  - Reichweite
+  - Zoll
   - Autonomes Fahren
-  - L4
-  - Peking Autoshow
 draft: false
 original_url: >-
   https://electrek.co/2026/04/24/xpeng-gx-flagship-suv-beijing-auto-show-750km-range-58000/

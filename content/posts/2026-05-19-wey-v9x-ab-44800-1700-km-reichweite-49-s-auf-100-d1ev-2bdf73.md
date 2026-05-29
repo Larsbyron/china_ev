@@ -9,8 +9,11 @@ source: D1EV
 image: /images/wey-v9x-ab-44800-1700-km-reichweite-49-s-auf-100-d1ev-2bdf73.webp
 category: news
 tags:
+  - Great Wall
   - Batterie
   - Reichweite
+  - Hybrid
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299553'
 read_time_minutes: 2

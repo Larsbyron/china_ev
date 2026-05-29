@@ -9,7 +9,8 @@ source: D1EV
 image: /images/deepal-chef-ki-macht-autos-zu-den-wichtigsten-robo-d1ev-9624a7.webp
 category: news
 tags:
-  - EV
+  - Deepal
+  - Absatz
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300376'
 read_time_minutes: 2

@@ -9,7 +9,7 @@ source: Sina
 image: /images/audi-doppelmarken-offensive-e5-sportbook-erfolgrei-sina-7cffa6.webp
 category: news
 tags:
-  - E-Auto
+  - Audi
 draft: false
 original_url: 'https://auto.sina.com.cn/news/2026-04-29/detail-inhwenax0867555.shtml'
 read_time_minutes: 2

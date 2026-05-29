@@ -14,9 +14,8 @@ tags:
   - BYD
   - Batterie
   - Reichweite
-  - E-Auto
-  - EV
   - Marktanteil
+  - Sicherheit
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/25/byd-files-new-sulfide-solid-state-battery-patent-as-china-targets-2027-pilot-production/

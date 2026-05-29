@@ -10,13 +10,12 @@ image: /images/aaa-test-hybriden-im-winter-ebenso-ineffizient-wie-d1ev-e38666.we
 category: news
 brand: Hyundai
 tags:
-  - Tesla
-  - MG
+  - Hyundai
   - Batterie
   - Reichweite
+  - Schnellladen
   - Elektroauto
-  - E-Auto
-  - EV
+  - Hybrid
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299544'
 read_time_minutes: 3

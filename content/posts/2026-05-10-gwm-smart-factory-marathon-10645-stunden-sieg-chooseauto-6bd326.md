@@ -9,7 +9,8 @@ source: ChooseAuto
 image: /images/gwm-smart-factory-marathon-10645-stunden-sieg-chooseauto-6bd326.webp
 category: news
 tags:
-  - EV
+  - Smart
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/899181.shtml'
 read_time_minutes: 2

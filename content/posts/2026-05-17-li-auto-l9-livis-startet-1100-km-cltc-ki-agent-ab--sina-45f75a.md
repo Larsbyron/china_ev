@@ -15,7 +15,6 @@ tags:
   - Batterie
   - Reichweite
   - Zoll
-  - EV
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-09/detail-inhxhzaz6706981.shtml

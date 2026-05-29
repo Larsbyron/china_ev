@@ -11,11 +11,8 @@ image: >-
 category: news
 tags:
   - BYD
-  - Linghui
-  - E7
-  - Taxi
-  - Ride-Hailing
-  - Blitzladung
+  - Batterie
+  - Reichweite
 draft: false
 original_url: 'https://cnevpost.com/2026/04/15/byd-sub-brand-linghui-launches-e7-sedan/'
 primaryTopic: modelle-marktstarts

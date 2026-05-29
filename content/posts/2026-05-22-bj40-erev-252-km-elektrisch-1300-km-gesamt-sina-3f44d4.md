@@ -9,11 +9,11 @@ source: Sina
 image: /images/bj40-erev-252-km-elektrisch-1300-km-gesamt-sina-3f44d4.webp
 category: news
 tags:
-  - MG
   - Batterie
   - Reichweite
+  - Schnellladen
   - Elektroauto
-  - EV
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
@@ -25,6 +25,7 @@ marketRelevance: china_only
 brands:
   - Beijing
 confidence: 0.95
+brand: null
 ---
 
 # BJ40 EREV: 252 km elektrisch, 1.300 km gesamt

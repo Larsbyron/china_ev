@@ -15,12 +15,11 @@ category: news
 brand: Geely
 tags:
   - Geely
-  - MG
   - Reichweite
   - Zoll
-  - E-Auto
-  - EV
   - Marktanteil
+  - Absatz
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/898903.shtml'
 read_time_minutes: 8

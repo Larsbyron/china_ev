@@ -10,11 +10,11 @@ image: /images/ai-audi-e7x-vorbestellung-mai-d1ev-297639.webp
 category: news
 brand: Audi
 tags:
-  - AUDI E7X
-  - Elektro-SUV
-  - 900V
-  - Vorbestellung
-  - Peking Auto Show
+  - Audi
+  - Batterie
+  - Reichweite
+  - Schnellladen
+  - Zoll
 draft: false
 original_url: 'https://www.d1ev.com/carnews/xinche/297639'
 read_time_minutes: 4

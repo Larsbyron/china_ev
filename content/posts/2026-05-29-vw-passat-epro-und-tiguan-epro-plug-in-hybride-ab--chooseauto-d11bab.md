@@ -1,18 +1,30 @@
 ---
-title: "VW Passat ePro und Tiguan ePro: Plug-in-Hybride ab ca. 21.700 €"
+title: 'VW Passat ePro und Tiguan ePro: Plug-in-Hybride ab ca. 21.700 €'
 date: 2026-05-29T20:19:17.225Z
-description: "Volkswagen bringt in China zwei neue Plug-in-Hybride auf den Markt: Passat ePro und Tiguan ePro. Beide bieten über 140 km elektrische Reichweite (CLTC) und starten mit einem Sonderpreis von umgerechnet ca. 21.700 €. Auch die ID. ERA 5S-Limousine wurde angekündigt."
-source: "ChooseAuto"
-image: "/images/vw-passat-epro-und-tiguan-epro-plug-in-hybride-ab-chooseauto-d11bab.webp"
-category: "news"
-brand: "Volkswagen"
-brands: ["Volkswagen"]
-tags: ["Volkswagen", "Batterie", "Reichweite", "EV"]
+description: >-
+  Volkswagen bringt in China zwei neue Plug-in-Hybride auf den Markt: Passat
+  ePro und Tiguan ePro. Beide bieten über 140 km elektrische Reichweite (CLTC)
+  und starten mit einem Sonderpreis von umgerechnet ca. 21.700 €. Auch die ID.
+  ERA 5S-Limousine wurde angekündigt.
+source: ChooseAuto
+image: >-
+  /images/vw-passat-epro-und-tiguan-epro-plug-in-hybride-ab-chooseauto-d11bab.webp
+category: news
+brand: Volkswagen
+brands:
+  - Volkswagen
+tags:
+  - Volkswagen
+  - Batterie
+  - Reichweite
+  - Hybrid
+  - Autonomes Fahren
+  - Sicherheit
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/917266.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/917266.shtml'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # VW Passat ePro und Tiguan ePro: Plug-in-Hybride ab ca. 21.700 €

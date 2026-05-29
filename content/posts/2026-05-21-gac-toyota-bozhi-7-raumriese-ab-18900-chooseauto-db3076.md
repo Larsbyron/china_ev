@@ -9,8 +9,9 @@ source: ChooseAuto
 image: /images/gac-toyota-bozhi-7-raumriese-ab-18900-chooseauto-db3076.webp
 category: news
 tags:
+  - GAC
   - Batterie
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/908268.shtml'
 read_time_minutes: 2

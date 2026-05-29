@@ -12,8 +12,7 @@ category: news
 tags:
   - BYD
   - Batterie
-  - E-Auto
-  - EV
+  - Autonomes Fahren
   - Marktanteil
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/901919.shtml'

@@ -11,7 +11,6 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - Tesla
   - Batterie
   - Reichweite
 draft: false

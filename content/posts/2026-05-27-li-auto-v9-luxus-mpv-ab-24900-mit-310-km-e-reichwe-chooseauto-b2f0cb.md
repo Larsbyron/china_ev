@@ -13,11 +13,10 @@ category: news
 brand: Li Auto
 tags:
   - Li Auto
-  - MG
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/914533.shtml'
 read_time_minutes: 4

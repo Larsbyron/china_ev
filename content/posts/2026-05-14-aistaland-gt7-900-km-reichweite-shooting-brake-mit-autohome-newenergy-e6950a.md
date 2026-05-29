@@ -10,6 +10,7 @@ image: >-
   /images/aistaland-gt7-900-km-reichweite-shooting-brake-mit-autohome-newenergy-e6950a.webp
 category: news
 tags:
+  - Huawei
   - Batterie
   - Reichweite
   - Zoll

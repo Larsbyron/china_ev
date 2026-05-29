@@ -9,10 +9,12 @@ source: D1EV
 image: /images/baic-bluepark-arcfox-stelato-800v-ab-19200-d1ev-0fceda.webp
 category: news
 tags:
+  - BAIC
   - Batterie
   - Reichweite
   - Elektroauto
-  - EV
+  - Autonomes Fahren
+  - Absatz
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299271'
 read_time_minutes: 2

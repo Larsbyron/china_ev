@@ -10,9 +10,11 @@ source: ChooseAuto
 image: /images/vw-id-era-5s-neue-phev-limousine-ab-38400-chooseauto-15600e.webp
 category: news
 tags:
-  - Tesla
+  - Volkswagen
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
+  - Autopilot
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/901861.shtml'
 read_time_minutes: 2

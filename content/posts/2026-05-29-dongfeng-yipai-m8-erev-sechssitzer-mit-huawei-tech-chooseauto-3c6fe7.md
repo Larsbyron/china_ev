@@ -11,10 +11,10 @@ brands:
   - Dongfeng Yipai
   - Huawei
 tags:
-  - Li Auto
+  - Huawei
   - Batterie
   - Reichweite
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/916860.shtml'
 read_time_minutes: 2

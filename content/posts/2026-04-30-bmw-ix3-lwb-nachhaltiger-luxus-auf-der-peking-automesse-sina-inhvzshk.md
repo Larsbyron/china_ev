@@ -12,11 +12,9 @@ category: news
 brand: BMW
 tags:
   - BMW
-  - iX3
-  - Peking Auto Show 2026
-  - Nachhaltigkeit
-  - Elektroauto
-  - Langversion
+  - Batterie
+  - Reichweite
+  - Sicherheit
 draft: false
 original_url: 'https://auto.sina.com.cn/news/2026-04-28/detail-inhvzshk7367448.shtml'
 read_time_minutes: 4

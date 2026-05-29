@@ -10,11 +10,9 @@ image: /images/dreame-auto-wie-realistisch-ist-der-einstieg-bis-2-sina-cb9361.we
 category: news
 brand: Xiaomi
 tags:
-  - NIO
-  - Li Auto
-  - Tesla
+  - Xiaomi
   - Batterie
-  - EV
+  - Börse
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml

@@ -11,9 +11,7 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - Li Auto
   - Reichweite
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/15/byd-and-huawei-show-off-three-wheel-driving-systems-in-chinas-suv-tech-war/

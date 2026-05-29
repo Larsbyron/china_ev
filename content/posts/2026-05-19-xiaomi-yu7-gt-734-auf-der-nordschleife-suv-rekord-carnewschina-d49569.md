@@ -12,9 +12,7 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - Xiaomi SU
   - Reichweite
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/19/xiaomi-yu7-gt-breaks-nurburgring-suv-lap-record-with-734-931-ahead-of-may-21-launch/

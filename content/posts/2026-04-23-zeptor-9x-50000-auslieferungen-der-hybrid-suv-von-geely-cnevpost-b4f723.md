@@ -11,10 +11,7 @@ image: >-
 category: news
 tags:
   - Zeekr
-  - Geely
-  - 9X
   - Hybrid
-  - Auslieferungen
 draft: false
 original_url: 'https://cnevpost.com/2026/04/23/zeekr-9x-suv-reaches-50000-delivery-milestone/'
 primaryTopic: markt-absatz-zulassungen

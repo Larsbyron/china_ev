@@ -7,7 +7,9 @@ description: >-
   im Überblick.
 source: ChooseAuto
 category: news
-tags: []
+tags:
+  - Great Wall
+  - Hybrid
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/915163.shtml'
 read_time_minutes: 2

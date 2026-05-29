@@ -11,10 +11,9 @@ image: >-
 category: news
 tags:
   - BYD
-  - Yuan Plus
-  - Atto 3
-  - Blitzladung
-  - Peking Autoshow
+  - Batterie
+  - Reichweite
+  - Sicherheit
 draft: false
 original_url: >-
   https://electrek.co/2026/04/24/byd-upgrades-top-selling-evs-5-min-flash-charging/

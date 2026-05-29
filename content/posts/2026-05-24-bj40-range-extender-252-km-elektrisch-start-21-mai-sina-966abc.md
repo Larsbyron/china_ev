@@ -12,7 +12,7 @@ tags:
   - Batterie
   - Reichweite
   - Elektroauto
-  - EV
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
@@ -25,6 +25,7 @@ brands:
   - Beijing
   - BAIC
 confidence: 0.9
+brand: null
 ---
 
 # BJ40 Range-Extender: 252 km elektrisch, Start 21. Mai

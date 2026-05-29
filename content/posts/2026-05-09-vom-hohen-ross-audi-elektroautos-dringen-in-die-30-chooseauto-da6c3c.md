@@ -14,12 +14,11 @@ image: >-
 category: news
 brand: Audi
 tags:
-  - NIO
-  - Li Auto
-  - Zeekr
+  - Audi
   - Reichweite
   - Zoll
   - Elektroauto
+  - Autonomes Fahren
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/898890.shtml'
 read_time_minutes: 6

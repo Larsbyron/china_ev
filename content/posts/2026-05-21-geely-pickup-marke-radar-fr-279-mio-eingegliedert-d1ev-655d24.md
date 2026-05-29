@@ -1,14 +1,21 @@
 ---
-title: "Geely: Pickup-Marke Radar für 27,9 Mio. € eingegliedert"
+title: 'Geely: Pickup-Marke Radar für 27,9 Mio. € eingegliedert'
 date: 2026-05-21T06:26:37.683Z
-description: "Geely übernimmt die Elektro-Pickup-Marke Radar (雷达汽车) komplett. Die Integration in die China-Star-Reihe kostet 218 Mio. Yuan (ca. 27,9 Mio. €) und schließt eine wichtige Lücke im Geely-Portfolio."
-source: "D1EV"
-image: "/images/geely-pickup-marke-radar-fr-279-mio-eingegliedert-d1ev-655d24.webp"
-category: "news"
-brand: "Geely"
-tags: ["Geely", "Zeekr", "EV"]
+description: >-
+  Geely übernimmt die Elektro-Pickup-Marke Radar (雷达汽车) komplett. Die
+  Integration in die China-Star-Reihe kostet 218 Mio. Yuan (ca. 27,9 Mio. €) und
+  schließt eine wichtige Lücke im Geely-Portfolio.
+source: D1EV
+image: /images/geely-pickup-marke-radar-fr-279-mio-eingegliedert-d1ev-655d24.webp
+category: news
+brand: Geely
+tags:
+  - Geely
+  - Hybrid
+  - Absatz
+  - Börse
 draft: false
-original_url: "https://www.d1ev.com/news/qiye/299911"
+original_url: 'https://www.d1ev.com/news/qiye/299911'
 read_time_minutes: 3
 ---
 

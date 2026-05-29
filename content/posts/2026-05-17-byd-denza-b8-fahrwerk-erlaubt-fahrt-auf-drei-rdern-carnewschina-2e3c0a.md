@@ -12,7 +12,6 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - Li Auto
   - Reichweite
 draft: false
 original_url: >-

@@ -11,10 +11,7 @@ category: news
 brand: Leapmotor
 tags:
   - Leapmotor
-  - NIO
   - Elektroauto
-  - E-Auto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299750'
 read_time_minutes: 2

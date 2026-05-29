@@ -14,7 +14,7 @@ tags:
   - Batterie
   - Reichweite
   - Ladestation
-  - EV
+  - Autopilot
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299661'
 read_time_minutes: 2

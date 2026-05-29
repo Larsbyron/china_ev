@@ -10,10 +10,10 @@ image: >-
   /images/gac-hyptec-s600-sport-suv-ab-24200-mit-660-km-reic-chooseauto-905a3c.webp
 category: news
 tags:
-  - MG
+  - GAC
   - Reichweite
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/904865.shtml'
 read_time_minutes: 4

@@ -10,9 +10,8 @@ image: /images/denza-z9gt-chopard-70000-einzelstck-versteigert-chooseauto-faec7a
 category: news
 brand: Denza
 tags:
-  - BYD
+  - Denza
   - Batterie
-  - EV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/912650.shtml'
 read_time_minutes: 2

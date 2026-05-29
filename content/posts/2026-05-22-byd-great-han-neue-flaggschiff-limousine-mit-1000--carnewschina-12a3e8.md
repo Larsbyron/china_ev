@@ -12,11 +12,8 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
-  - Tesla
   - Batterie
   - Reichweite
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/22/byd-great-han-spotted-a-new-flagship-sibling-to-the-great-tang/

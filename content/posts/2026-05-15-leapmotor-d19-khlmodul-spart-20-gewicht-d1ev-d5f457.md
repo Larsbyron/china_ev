@@ -12,7 +12,6 @@ brand: Leapmotor
 tags:
   - Leapmotor
   - Elektroauto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/qiye/299285'
 read_time_minutes: 3

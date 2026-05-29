@@ -10,11 +10,11 @@ image: >-
   /images/dongfeng-e-m8-5-meter-suv-mit-huawei-ads-und-510-k-autohome-newenergy-845acf.webp
 category: news
 tags:
-  - MG
+  - Huawei
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Autopilot
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314459.html'
 read_time_minutes: 3

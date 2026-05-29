@@ -11,9 +11,9 @@ category: news
 brand: NIO
 tags:
   - NIO
-  - Tesla
   - Batterie
-  - EV
+  - Autonomes Fahren
+  - Börse
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/hy/2026-05-16/detail-inhyassn2453310.shtml

@@ -11,10 +11,6 @@ image: >-
 category: news
 tags:
   - Tesla
-  - Kredit
-  - China
-  - Finanzen
-  - Giga Shanghai
 draft: false
 original_url: >-
   https://electrek.co/2026/04/23/tesla-tsla-maxes-out-5-8-billion-chinese-bank-debt-facility-10q/

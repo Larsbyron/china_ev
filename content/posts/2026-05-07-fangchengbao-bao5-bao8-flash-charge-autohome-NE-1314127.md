@@ -10,11 +10,8 @@ image: /images/ai-fangchengbao-bao5-bao8-flash-charge-autohome-NE-1314127.webp
 category: news
 brand: null
 tags:
-  - FangChengBao
-  - BYD
-  - Plug-in-Hybrid
-  - SUV
-  - China
+  - Batterie
+  - Reichweite
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314127.html'
 read_time_minutes: 2

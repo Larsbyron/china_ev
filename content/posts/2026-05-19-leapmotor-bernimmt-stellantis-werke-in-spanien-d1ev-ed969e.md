@@ -11,11 +11,8 @@ category: news
 brand: Leapmotor
 tags:
   - Leapmotor
-  - MG
   - Reichweite
   - Zoll
-  - E-Auto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299646'
 read_time_minutes: 2

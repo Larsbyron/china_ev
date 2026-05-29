@@ -11,9 +11,12 @@ category: news
 brands:
   - Volkswagen
 tags:
+  - Volkswagen
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - Autonomes Fahren
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/916793.shtml'
 read_time_minutes: 4

@@ -11,10 +11,9 @@ image: >-
 category: news
 tags:
   - Tesla
-  - China
-  - Verkauf
-  - Q1 2026
-  - Giga Shanghai
+  - Batterie
+  - Marktanteil
+  - Absatz
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/09/tesla-tsla-china-retail-sales-crash-q1-2026-wholesale-misleading/

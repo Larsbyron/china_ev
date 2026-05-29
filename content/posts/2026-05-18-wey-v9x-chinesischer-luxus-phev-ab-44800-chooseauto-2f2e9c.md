@@ -9,8 +9,11 @@ source: ChooseAuto
 image: /images/wey-v9x-chinesischer-luxus-phev-ab-44800-chooseauto-2f2e9c.webp
 category: news
 tags:
+  - Great Wall
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/905855.shtml'
 read_time_minutes: 2

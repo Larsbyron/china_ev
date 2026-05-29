@@ -11,8 +11,6 @@ category: news
 brand: NIO
 tags:
   - NIO
-  - Onvo
-  - EV
   - Marktanteil
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299565'

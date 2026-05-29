@@ -9,10 +9,11 @@ source: D1EV
 image: /images/arcfox-und-stelato-baics-elektro-zweig-mit-800v-un-d1ev-f662f5.webp
 category: news
 tags:
-  - MG
+  - Huawei
   - Batterie
   - Elektroauto
-  - EV
+  - Absatz
+  - Börse
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299271'
 read_time_minutes: 2

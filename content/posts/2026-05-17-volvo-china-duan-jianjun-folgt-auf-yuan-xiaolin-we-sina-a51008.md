@@ -10,7 +10,8 @@ image: /images/volvo-china-duan-jianjun-folgt-auf-yuan-xiaolin-we-sina-a51008.we
 category: news
 brand: Volvo
 tags:
-  - Geely
+  - Volvo
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml

@@ -12,8 +12,9 @@ category: news
 tags:
   - Batterie
   - Reichweite
+  - Schnellladen
   - Zoll
-  - EV
+  - Autopilot
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/23/arcfox-beta-s3-launches-in-china-leveraging-catls-battery-swapping-network-with-entry-level-baas-pricing-of-8800-usd/
@@ -26,6 +27,7 @@ marketRelevance: china_only
 brands:
   - Arcfox
 confidence: 0.9
+brand: null
 ---
 
 # Arcfox Beta S3 mit bis zu 660 km CLTC ab 7.700 €

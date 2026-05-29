@@ -11,10 +11,9 @@ image: >-
 category: news
 tags:
   - Hyundai
-  - IONIQ V
-  - Elektroauto
-  - Auto China
-  - 800V
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
 original_url: >-
   https://electrek.co/2026/04/24/hyundai-ioniq-v-china-600-km-range-auto-china-2026/

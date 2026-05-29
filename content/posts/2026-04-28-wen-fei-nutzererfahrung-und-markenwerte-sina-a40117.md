@@ -9,11 +9,8 @@ image: /images/ai-wen-fei-nutzererfahrung-und-markenwerte-sina-a40117.webp
 category: news
 brand: Chery
 tags:
-  - FREELANDER
   - Chery
-  - Jaguar Land Rover
-  - Luxus
-  - SUV
+  - Absatz
 draft: false
 original_url: 'https://auto.sina.com.cn/news/2026-04-28/detail-inhwaawa8401174.shtml'
 read_time_minutes: 8

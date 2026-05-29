@@ -11,9 +11,6 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
-  - E-Auto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299253'
 read_time_minutes: 3

@@ -14,7 +14,7 @@ tags:
   - Reichweite
   - Zoll
   - Elektroauto
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/911089.shtml'
 read_time_minutes: 2
@@ -26,6 +26,7 @@ marketRelevance: china_only
 brands:
   - Beijing Off-Road
 confidence: 0.9
+brand: null
 ---
 
 # BJ40 EREV Long Range: Ab 21.700 € mit 1.300 km Reichweite

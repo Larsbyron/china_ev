@@ -14,12 +14,10 @@ brands:
   - GAC
   - Huawei
 tags:
-  - BYD
-  - NIO
+  - Huawei
   - Batterie
   - Reichweite
   - Elektroauto
-  - EV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/916869.shtml'
 read_time_minutes: 2

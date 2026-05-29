@@ -1,18 +1,32 @@
 ---
-title: "MHERO M817: Neues Offroad-SUV ab 47.400 € im Vorverkauf"
+title: 'MHERO M817: Neues Offroad-SUV ab 47.400 € im Vorverkauf'
 date: 2026-05-29T20:14:06.258Z
-description: "MHERO (Dongfeng) bringt den M817 als Kooperation mit Huawei. Der große SUV startet in China ab ca. 47.400 €, bietet über 300 km CLTC-Reichweite und das Qiankun ADAS 5. Ein Marktstart in Europa ist nicht geplant."
-source: "Autohome NewEnergy"
-image: "/images/mhero-m817-neues-offroad-suv-ab-47400-im-vorverkau-autohome-newenergy-53cdb3.webp"
-category: "news"
-brand: "Huawei"
-brands: ["MHERO", "Huawei", "Denza", "Tank"]
-tags: ["Huawei", "Batterie", "Reichweite", "Ladestation", "EV"]
+description: >-
+  MHERO (Dongfeng) bringt den M817 als Kooperation mit Huawei. Der große SUV
+  startet in China ab ca. 47.400 €, bietet über 300 km CLTC-Reichweite und das
+  Qiankun ADAS 5. Ein Marktstart in Europa ist nicht geplant.
+source: Autohome NewEnergy
+image: >-
+  /images/mhero-m817-neues-offroad-suv-ab-47400-im-vorverkau-autohome-newenergy-53cdb3.webp
+category: news
+brand: Huawei
+brands:
+  - MHERO
+  - Huawei
+  - Denza
+  - Tank
+tags:
+  - Huawei
+  - Batterie
+  - Reichweite
+  - Ladestation
+  - Hybrid
+  - PHEV
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314563.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314563.html'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # MHERO M817: Neues Offroad-SUV ab 47.400 € im Vorverkauf

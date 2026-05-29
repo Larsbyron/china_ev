@@ -11,7 +11,6 @@ category: news
 tags:
   - Batterie
   - Reichweite
-  - EV
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-21/detail-inhyqiyi8676376.shtml
@@ -23,6 +22,7 @@ marketRelevance: china_only
 brands:
   - Beijing Off-Road
 confidence: 0.95
+brand: null
 ---
 
 # BJ40 EREV Long Range: 1.300 km, Start am 21. Mai

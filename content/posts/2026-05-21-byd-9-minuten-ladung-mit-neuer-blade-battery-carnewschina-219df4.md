@@ -12,7 +12,7 @@ brand: BYD
 tags:
   - BYD
   - Batterie
-  - EV
+  - Sicherheit
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/19/byd-battery-cto-defends-2nd-gen-blade-battery-70c-high-temperature-is-no-longer-a-barrier/

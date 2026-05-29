@@ -12,10 +12,7 @@ category: news
 brand: NIO
 tags:
   - NIO
-  - Onvo
-  - MG
   - Batterie
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300073'
 read_time_minutes: 3

@@ -9,7 +9,8 @@ source: ChooseAuto
 image: >-
   /images/chery-erneut-zu-chinas-beliebtestem-unternehmen-ge-chooseauto-3a4e56.webp
 category: news
-tags: []
+tags:
+  - Chery
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/914913.shtml'
 read_time_minutes: 2

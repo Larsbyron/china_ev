@@ -11,9 +11,9 @@ image: >-
   /images/ai-audi-e7x-vs-xiaomi-yu7-audi-geht-in-die-offensive-ofweek-nev-996f69.webp
 category: news
 tags:
+  - Xiaomi
   - Reichweite
   - Zoll
-  - EV
 draft: false
 original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 6

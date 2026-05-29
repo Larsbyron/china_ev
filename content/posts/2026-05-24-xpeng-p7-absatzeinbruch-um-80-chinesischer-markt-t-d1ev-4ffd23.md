@@ -14,13 +14,10 @@ category: news
 brand: XPeng
 tags:
   - XPeng
-  - NIO
-  - Xpeng
-  - Onvo
-  - MG
   - Batterie
   - Reichweite
-  - EV
+  - Absatz
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300304'
 read_time_minutes: 4

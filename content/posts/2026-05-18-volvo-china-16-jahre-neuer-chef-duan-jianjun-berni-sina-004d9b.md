@@ -9,8 +9,8 @@ image: /images/volvo-china-16-jahre-neuer-chef-duan-jianjun-berni-sina-004d9b.we
 category: news
 brand: Volvo
 tags:
-  - Geely
-  - EV
+  - Volvo
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml

@@ -10,7 +10,9 @@ image: /images/volvo-china-ex-mercedes-manager-soll-e-offensive-v-sina-499a39.we
 category: news
 brand: Mercedes-Benz
 tags:
-  - Geely
+  - Mercedes-Benz
+  - Absatz
+  - Sicherheit
 draft: false
 original_url: >-
   https://auto.sina.com.cn//auto.sina.com.cn/news/2026-05-11/detail-inhxpatp9094047.shtml

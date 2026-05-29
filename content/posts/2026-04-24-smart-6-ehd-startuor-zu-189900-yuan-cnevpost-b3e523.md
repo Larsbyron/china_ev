@@ -9,11 +9,10 @@ source: CnEVPost
 image: /images/smart-6-ehd-startuor-zu-189900-yuan-cnevpost-b3e523.webp
 category: news
 tags:
-  - Smart
-  - Mercedes-Benz
   - Geely
-  - Plug-in-Hybrid
-  - EHD
+  - Reichweite
+  - Hybrid
+  - Autopilot
 draft: false
 original_url: 'https://cnevpost.com/2026/04/24/smart-begins-6-ehd-pre-sales-in-china/'
 primaryTopic: modelle-marktstarts

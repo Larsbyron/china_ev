@@ -10,10 +10,12 @@ source: D1EV
 image: /images/wuling-bingo-pro-ab-7300-403-km-reichweite-3c-schn-d1ev-dfa3f4.webp
 category: news
 tags:
+  - Huawei
   - Batterie
   - Reichweite
   - Ladestation
   - Zoll
+  - Sicherheit
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300200'
 read_time_minutes: 3

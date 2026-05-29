@@ -1,14 +1,21 @@
 ---
-title: "NIO-Preiserhöhung: Bis zu 1.280 € für ES6 und ET5"
+title: 'NIO-Preiserhöhung: Bis zu 1.280 € für ES6 und ET5'
 date: 2026-05-24T05:56:43.422Z
-description: "NIO erhöht Preise für ES6 und ET5 um 5.000–10.000 Yuan (ca. 640–1.280 €). Grund: massive Kostensteigerungen bei Rohstoffen und Speicherchips. Verbrenner dagegen mit Rekordrabatten."
-source: "Autohome NewEnergy"
-image: "/images/nio-preiserhhung-bis-zu-1280-fr-es6-und-et5-autohome-newenergy-95cd78.webp"
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Xiaomi SU", "MG", "Elektroauto", "EV"]
+description: >-
+  NIO erhöht Preise für ES6 und ET5 um 5.000–10.000 Yuan (ca. 640–1.280 €).
+  Grund: massive Kostensteigerungen bei Rohstoffen und Speicherchips. Verbrenner
+  dagegen mit Rekordrabatten.
+source: Autohome NewEnergy
+image: >-
+  /images/nio-preiserhhung-bis-zu-1280-fr-es6-und-et5-autohome-newenergy-95cd78.webp
+category: news
+brand: NIO
+tags:
+  - NIO
+  - Elektroauto
+  - Absatz
 draft: false
-original_url: "http://www.autohome.com.cn/news/202605/1314442.html"
+original_url: 'http://www.autohome.com.cn/news/202605/1314442.html'
 read_time_minutes: 3
 ---
 

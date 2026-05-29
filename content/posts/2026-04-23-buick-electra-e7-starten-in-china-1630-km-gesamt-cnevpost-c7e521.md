@@ -9,11 +9,10 @@ source: CnEVPost
 image: /images/buick-electra-e7-starten-in-china-1630-km-gesamt-cnevpost-c7e521.webp
 category: news
 tags:
-  - Buick
-  - GM
-  - Electra E7
-  - Plug-in-Hybrid
-  - China
+  - Great Wall
+  - Batterie
+  - Reichweite
+  - Hybrid
 draft: false
 original_url: 'https://cnevpost.com/2026/04/23/buick-launches-electra-e7-hybrid-suv-china/'
 primaryTopic: modelle-marktstarts

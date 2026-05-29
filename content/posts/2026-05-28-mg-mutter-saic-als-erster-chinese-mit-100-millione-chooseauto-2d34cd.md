@@ -13,6 +13,9 @@ tags:
   - MG
   - Batterie
   - Reichweite
+  - Hybrid
+  - Autonomes Fahren
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/915146.shtml'
 read_time_minutes: 3

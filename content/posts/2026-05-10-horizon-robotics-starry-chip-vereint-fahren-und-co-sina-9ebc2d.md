@@ -9,7 +9,8 @@ source: Sina
 image: /images/horizon-robotics-starry-chip-vereint-fahren-und-co-sina-9ebc2d.webp
 category: news
 tags:
-  - MG
+  - Volkswagen
+  - Sicherheit
 draft: false
 original_url: 'https://auto.sina.com.cn/news/hy/2026-04-29/detail-inhwesks7846707.shtml'
 read_time_minutes: 3

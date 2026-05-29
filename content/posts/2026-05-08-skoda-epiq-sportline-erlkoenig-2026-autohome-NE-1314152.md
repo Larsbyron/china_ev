@@ -12,11 +12,10 @@ image: /images/ai-skoda-epiq-sportline-erlkoenig-2026-autohome-NE-1314152.webp
 category: news
 brand: Škoda
 tags:
-  - Skoda
-  - Epiq
-  - MEB
-  - Sportline
-  - Elektro-SUV
+  - Škoda
+  - Batterie
+  - Reichweite
+  - Zoll
 draft: false
 original_url: 'https://www.autohome.com.cn/news/202605/1314152.html'
 read_time_minutes: 2

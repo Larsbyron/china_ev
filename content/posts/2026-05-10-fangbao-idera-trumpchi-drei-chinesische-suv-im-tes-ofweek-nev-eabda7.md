@@ -10,14 +10,9 @@ image: >-
   /images/ai-fangbao-idera-trumpchi-drei-chinesische-suv-im-tes-ofweek-nev-eabda7.webp
 category: news
 tags:
-  - BYD
-  - NIO
-  - XPeng
-  - XPeng
+  - Volkswagen
   - Reichweite
   - Zoll
-  - E-Auto
-  - EV
 draft: false
 original_url: 'https://nev.ofweek.com/2026-04/ART-71008-8330-30685054.html'
 read_time_minutes: 5

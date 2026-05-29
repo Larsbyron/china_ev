@@ -10,8 +10,7 @@ image: >-
   /images/avatr-07l-lngere-version-mit-2990-mm-radstand-vorg-autohome-newenergy-8a7382.webp
 category: news
 tags:
-  - E-Auto
-  - EV
+  - Avatr
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314170.html'
 read_time_minutes: 2

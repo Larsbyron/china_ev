@@ -11,11 +11,8 @@ image: >-
 category: news
 tags:
   - BYD
-  - Denza
-  - Supersportwagen
-  - Elektro
-  - Europa
-  - Cabrio
+  - Batterie
+  - Reichweite
 draft: false
 original_url: >-
   https://electrek.co/2026/04/24/byd-denza-z-1000-hp-luxury-drop-top-ev-hypercar-images/

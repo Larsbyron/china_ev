@@ -12,9 +12,7 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - MG
   - Batterie
-  - E-Auto
   - Marktanteil
 draft: false
 original_url: >-

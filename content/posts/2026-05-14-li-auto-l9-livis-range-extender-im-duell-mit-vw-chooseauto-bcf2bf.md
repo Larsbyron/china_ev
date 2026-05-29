@@ -10,10 +10,8 @@ category: news
 brand: Li Auto
 tags:
   - Li Auto
-  - MG
   - Batterie
   - Reichweite
-  - EV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/902616.shtml'
 read_time_minutes: 4

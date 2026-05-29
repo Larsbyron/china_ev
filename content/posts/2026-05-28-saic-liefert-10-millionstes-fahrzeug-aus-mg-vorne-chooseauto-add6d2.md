@@ -1,14 +1,23 @@
 ---
-title: "SAIC liefert 10-millionstes Fahrzeug aus – MG vorne"
+title: SAIC liefert 10-millionstes Fahrzeug aus – MG vorne
 date: 2026-05-28T20:15:38.230Z
-description: "Der chinesische SAIC-Konzern, Mutter von MG, feiert die Auslieferung des zehnmillionsten Fahrzeugs. Das Jubiläumsmodell ist der rein elektrische IM LS9 Hyper. MG bleibt mit rund 305.000 Europa-Verkäufen 2025 die Zugpferd-Marke."
-source: "ChooseAuto"
-image: "/images/saic-liefert-10-millionstes-fahrzeug-aus-mg-vorne-chooseauto-add6d2.webp"
-category: "news"
-brand: "MG"
-tags: ["MG", "Batterie"]
+description: >-
+  Der chinesische SAIC-Konzern, Mutter von MG, feiert die Auslieferung des
+  zehnmillionsten Fahrzeugs. Das Jubiläumsmodell ist der rein elektrische IM LS9
+  Hyper. MG bleibt mit rund 305.000 Europa-Verkäufen 2025 die Zugpferd-Marke.
+source: ChooseAuto
+image: >-
+  /images/saic-liefert-10-millionstes-fahrzeug-aus-mg-vorne-chooseauto-add6d2.webp
+category: news
+brand: MG
+tags:
+  - MG
+  - Batterie
+  - Hybrid
+  - Autonomes Fahren
+  - Absatz
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/915146.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/915146.shtml'
 read_time_minutes: 2
 ---
 

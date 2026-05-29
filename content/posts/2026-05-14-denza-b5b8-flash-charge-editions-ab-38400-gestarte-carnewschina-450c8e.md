@@ -11,8 +11,9 @@ image: >-
 category: news
 brand: Denza
 tags:
-  - BYD
+  - Denza
   - Reichweite
+  - Hybrid
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/14/byds-denza-b5-b8-flash-charge-editions-launched-with-yunnian-p-ultra-suspension-from-43900-usd-in-china/

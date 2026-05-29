@@ -11,13 +11,8 @@ image: >-
 category: news
 tags:
   - NIO
-  - XPeng
-  - XPeng
-  - Li Auto
-  - Xiaomi SU
-  - Tesla
   - Reichweite
-  - EV
+  - Autonomes Fahren
 draft: false
 original_url: 'https://nev.ofweek.com/2026-02/ART-71000-8220-30681631.html'
 read_time_minutes: 3

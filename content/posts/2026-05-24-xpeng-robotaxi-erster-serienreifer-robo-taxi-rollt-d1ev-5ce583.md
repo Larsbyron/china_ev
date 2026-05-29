@@ -11,10 +11,9 @@ category: news
 brand: XPeng
 tags:
   - XPeng
-  - Xpeng
-  - Zeekr
   - Batterie
   - Reichweite
+  - Autonomes Fahren
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300323'
 read_time_minutes: 2

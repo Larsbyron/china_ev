@@ -14,8 +14,6 @@ category: news
 tags:
   - XPeng
   - Absatz
-  - März 2026
-  - Mona M03
 draft: false
 original_url: 'https://cnevpost.com/2026/04/01/xpeng-mar-2026-deliveries/'
 primaryTopic: markt-absatz-zulassungen

@@ -13,10 +13,9 @@ brands:
   - AISTALAND
   - HUAWEI
 tags:
-  - NIO
-  - MG
-  - Tesla
+  - Huawei
   - Reichweite
+  - Autonomes Fahren
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/916807.shtml'
 read_time_minutes: 2

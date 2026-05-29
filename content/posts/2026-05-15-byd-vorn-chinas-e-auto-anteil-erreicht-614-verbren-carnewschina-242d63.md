@@ -12,13 +12,9 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - Li Auto
-  - Xiaomi SU
-  - Geely
-  - Leapmotor
-  - Tesla
   - Elektroauto
-  - EV
+  - Hybrid
+  - Absatz
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/13/chinas-nev-penetration-hits-historic-61-4-in-april-as-ice-sales-collapse/

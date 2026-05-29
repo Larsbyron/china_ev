@@ -15,7 +15,7 @@ tags:
   - BYD
   - Batterie
   - Reichweite
-  - EV
+  - Sicherheit
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/14/pure-lithium-solid-state-battery-keeps-running-after-cut-test-as-startup-hits-500-mwh-output/

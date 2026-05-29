@@ -1,14 +1,18 @@
 ---
-title: "NIO ES8 vs. Zeekr 8X: Assistenzkrieg der 51.000-Euro-SUVs"
+title: 'NIO ES8 vs. Zeekr 8X: Assistenzkrieg der 51.000-Euro-SUVs'
 date: 2026-05-26T20:02:57.416Z
-description: "Im direkten Vergleich zwischen NIO ES8 und Zeekr 8X zeigt der chinesische Fahrassistenz-Test: Der Herausforderer Zeekr 8X liegt in puncto ADAS deutlich vorn – von Nahverkehr bis Landstraße."
-source: "ChooseAuto"
-
-category: "news"
-brand: "NIO"
-tags: ["NIO", "Zeekr"]
+description: >-
+  Im direkten Vergleich zwischen NIO ES8 und Zeekr 8X zeigt der chinesische
+  Fahrassistenz-Test: Der Herausforderer Zeekr 8X liegt in puncto ADAS deutlich
+  vorn – von Nahverkehr bis Landstraße.
+source: ChooseAuto
+category: news
+brand: NIO
+tags:
+  - NIO
+  - Sicherheit
 draft: false
-original_url: "https://www.chooseauto.com.cn/news/913565.shtml"
+original_url: 'https://www.chooseauto.com.cn/news/913565.shtml'
 read_time_minutes: 3
 ---
 

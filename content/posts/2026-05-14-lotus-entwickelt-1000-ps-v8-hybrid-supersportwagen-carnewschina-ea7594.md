@@ -12,9 +12,9 @@ category: news
 brand: Geely
 tags:
   - Geely
-  - MG
   - Elektroauto
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/12/lotus-announces-1000-hp-v8-hev-supercar-for-2028-pivoting-from-full-ev-strategy/

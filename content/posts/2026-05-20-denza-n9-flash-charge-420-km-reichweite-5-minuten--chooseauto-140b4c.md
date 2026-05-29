@@ -12,11 +12,11 @@ image: >-
 category: news
 brand: Denza
 tags:
-  - BYD
+  - Denza
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/907301.shtml'
 read_time_minutes: 3

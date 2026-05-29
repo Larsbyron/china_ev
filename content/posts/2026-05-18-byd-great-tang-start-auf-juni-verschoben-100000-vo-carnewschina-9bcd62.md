@@ -12,7 +12,6 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - NIO
   - Batterie
   - Reichweite
 draft: false

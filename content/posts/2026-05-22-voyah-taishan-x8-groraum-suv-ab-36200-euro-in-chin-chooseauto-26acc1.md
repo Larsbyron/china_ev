@@ -11,10 +11,12 @@ image: >-
   /images/voyah-taishan-x8-groraum-suv-ab-36200-euro-in-chin-chooseauto-26acc1.webp
 category: news
 tags:
-  - MG
+  - Voyah
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/909776.shtml'
 read_time_minutes: 4

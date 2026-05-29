@@ -1,14 +1,22 @@
 ---
-title: "Leapmotor D99: 700 km CLTC und drehbare Sitze"
+title: 'Leapmotor D99: 700 km CLTC und drehbare Sitze'
 date: 2026-05-18T06:11:45.496Z
-description: "Leapmotor enthüllt die Innenraumansichten seines Flaggschiff-Vans D99. Der 5,28 Meter lange Riese bietet 2+2+3-Sitze mit drehbaren zweiten Reihen, vollflachen Liegemöglichkeiten und wahlweise rein elektrisch mit 700 km CLTC (ca. 595 km WLTP) oder als Range-Extender."
-source: "CarNewsChina"
-image: "/images/leapmotor-d99-700-km-cltc-und-drehbare-sitze-carnewschina-0e7ed5.webp"
-category: "news"
-brand: "Leapmotor"
-tags: ["Leapmotor", "MG", "Reichweite", "Elektroauto", "EV"]
+description: >-
+  Leapmotor enthüllt die Innenraumansichten seines Flaggschiff-Vans D99. Der
+  5,28 Meter lange Riese bietet 2+2+3-Sitze mit drehbaren zweiten Reihen,
+  vollflachen Liegemöglichkeiten und wahlweise rein elektrisch mit 700 km CLTC
+  (ca. 595 km WLTP) oder als Range-Extender.
+source: CarNewsChina
+image: /images/leapmotor-d99-700-km-cltc-und-drehbare-sitze-carnewschina-0e7ed5.webp
+category: news
+brand: Leapmotor
+tags:
+  - Leapmotor
+  - Reichweite
+  - Elektroauto
 draft: false
-original_url: "https://carnewschina.com/2026/05/18/leapmotors-minivan-d99-interior-images-released-featuring-rotating-seats/"
+original_url: >-
+  https://carnewschina.com/2026/05/18/leapmotors-minivan-d99-interior-images-released-featuring-rotating-seats/
 read_time_minutes: 2
 ---
 

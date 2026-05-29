@@ -12,12 +12,11 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - MG
   - Batterie
   - Reichweite
   - Ladestation
   - Elektroauto
-  - EV
+  - Hybrid
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/20/byds-seal-08-flagship-sedan-brings-flash-charging-and-rear-wheel-steering-to-q2-launch/

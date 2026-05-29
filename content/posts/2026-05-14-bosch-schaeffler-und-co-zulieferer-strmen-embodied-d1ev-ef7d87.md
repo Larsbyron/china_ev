@@ -9,7 +9,7 @@ source: D1EV
 image: /images/bosch-schaeffler-und-co-zulieferer-strmen-embodied-d1ev-ef7d87.webp
 category: news
 tags:
-  - MG
+  - Autonomes Fahren
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299065'
 read_time_minutes: 4
@@ -23,6 +23,7 @@ brands:
   - Valeo
   - Aptiv
 confidence: 0.9
+brand: null
 ---
 
 # Bosch, Schaeffler und Co.: Zulieferer stürmen Embodied Intelligence

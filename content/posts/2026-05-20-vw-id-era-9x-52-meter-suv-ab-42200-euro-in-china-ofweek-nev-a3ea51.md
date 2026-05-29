@@ -9,9 +9,7 @@ description: >-
 source: OFweek NEV
 category: news
 tags:
-  - BYD
-  - NIO
-  - Li Auto
+  - Volkswagen
   - Batterie
   - Reichweite
 draft: false

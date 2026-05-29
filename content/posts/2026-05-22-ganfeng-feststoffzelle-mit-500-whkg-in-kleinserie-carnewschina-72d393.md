@@ -16,8 +16,6 @@ tags:
   - Batterie
   - Reichweite
   - Elektroauto
-  - E-Auto
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/21/changan-backed-ganfengs-solid-state-battery-hits-1100-cycles-with-400-wh-kg-and-500-wh-kg-in-production/

@@ -13,10 +13,10 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - MG
   - Reichweite
   - Elektroauto
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/21/byd-blade-battery-2-0-replacement-less-than-11600-usd-in-china-says-denza-z9-gt-ev-owner/

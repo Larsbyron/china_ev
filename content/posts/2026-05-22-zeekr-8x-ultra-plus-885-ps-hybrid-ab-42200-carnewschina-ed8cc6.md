@@ -10,13 +10,12 @@ image: /images/zeekr-8x-ultra-plus-885-ps-hybrid-ab-42200-carnewschina-ed8cc6.we
 category: news
 brand: Zeekr
 tags:
-  - Li Auto
-  - Geely
   - Zeekr
   - Batterie
   - Reichweite
   - Zoll
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/03/sunday-china-drive-zeekr-8x-ultra-plus-tested-with-885-hp-hybrid-europe-entry-late-2026/

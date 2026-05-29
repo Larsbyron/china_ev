@@ -11,6 +11,7 @@ category: news
 brand: MG
 tags:
   - MG
+  - Hybrid
 draft: false
 original_url: 'http://www.autohome.com.cn/news/202605/1314172.html'
 read_time_minutes: 1

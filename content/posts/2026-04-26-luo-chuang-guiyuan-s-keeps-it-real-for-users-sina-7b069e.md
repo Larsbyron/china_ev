@@ -11,7 +11,11 @@ source: Sina
 image: /images/luo-chuang-guiyuan-s-keeps-it-real-for-users-sina-7b069e.webp
 category: news
 tags:
-  - EV
+  - Great Wall
+  - Batterie
+  - Reichweite
+  - Hybrid
+  - Sicherheit
 draft: false
 original_url: 'https://auto.sina.com.cn/news/2026-04-26/detail-inhvvkkh9947001.shtml'
 read_time_minutes: 24

@@ -12,12 +12,8 @@ image: >-
   /images/ai-kanadischer-handelsminister-zu-besuch-bei-byd-und-xpeng-cnevpost-d8a523.webp
 category: news
 tags:
-  - Kanada
   - BYD
-  - XPeng
-  - Handel
   - Zoll
-  - Investition
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/17/canada-trade-minister-meets-byd-xpeng-during-china-visit/

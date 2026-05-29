@@ -11,13 +11,11 @@ image: >-
   /images/toyota-corolla-2027-13-generation-mit-bev-60-jubil-chooseauto-780111.webp
 category: news
 tags:
-  - BYD
-  - XPeng
-  - Xpeng
-  - MG
+  - Toyota
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/901866.shtml'
 read_time_minutes: 3

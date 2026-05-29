@@ -10,11 +10,10 @@ image: >-
   /images/hyptec-s600-startet-ab-24200-sport-suv-mit-43-seku-chooseauto-a59898.webp
 category: news
 tags:
-  - BYD
-  - MG
+  - Volkswagen
   - Batterie
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/905055.shtml'
 read_time_minutes: 3

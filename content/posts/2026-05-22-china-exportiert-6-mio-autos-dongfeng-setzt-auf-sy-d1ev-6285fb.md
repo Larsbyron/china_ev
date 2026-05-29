@@ -10,9 +10,7 @@ source: D1EV
 image: /images/china-exportiert-6-mio-autos-dongfeng-setzt-auf-sy-d1ev-6285fb.webp
 category: news
 tags:
-  - MG
   - Batterie
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300075'
 read_time_minutes: 3
@@ -25,6 +23,7 @@ brands:
   - Dongfeng
   - MG
 confidence: 0.85
+brand: null
 ---
 
 # China exportiert 6 Mio. Autos: Dongfeng setzt auf Systemexport

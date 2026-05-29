@@ -11,11 +11,8 @@ category: news
 brand: BYD
 tags:
   - BYD
-  - MG
   - Ladestation
   - Elektroauto
-  - E-Auto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299512'
 read_time_minutes: 3

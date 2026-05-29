@@ -12,7 +12,7 @@ tags:
   - Leapmotor
   - Batterie
   - Elektroauto
-  - EV
+  - Hybrid
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300189'
 read_time_minutes: 2

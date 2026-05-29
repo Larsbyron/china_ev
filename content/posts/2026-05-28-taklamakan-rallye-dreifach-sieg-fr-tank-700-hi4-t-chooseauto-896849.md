@@ -8,7 +8,9 @@ source: ChooseAuto
 image: >-
   /images/taklamakan-rallye-dreifach-sieg-fr-tank-700-hi4-t-chooseauto-896849.webp
 category: news
-tags: []
+tags:
+  - Great Wall
+  - Hybrid
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/915163.shtml'
 read_time_minutes: 2

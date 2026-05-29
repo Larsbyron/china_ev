@@ -15,7 +15,6 @@ tags:
   - Batterie
   - Reichweite
   - Zoll
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300795'
 read_time_minutes: 3

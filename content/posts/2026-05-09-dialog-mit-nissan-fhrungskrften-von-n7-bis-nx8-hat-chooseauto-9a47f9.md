@@ -12,11 +12,10 @@ image: >-
   /images/ai-dialog-mit-nissan-fhrungskrften-von-n7-bis-nx8-hat-chooseauto-9a47f9.webp
 category: news
 tags:
-  - NIO
-  - MG
-  - E-Auto
-  - EV
+  - Nissan
+  - Hybrid
   - Marktanteil
+  - Absatz
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/898893.shtml'
 read_time_minutes: 16

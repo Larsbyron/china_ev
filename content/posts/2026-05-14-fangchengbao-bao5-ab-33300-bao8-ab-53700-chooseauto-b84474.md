@@ -14,7 +14,8 @@ tags:
   - BYD
   - Batterie
   - Reichweite
-  - EV
+  - Autonomes Fahren
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/902805.shtml'
 read_time_minutes: 5

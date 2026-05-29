@@ -11,11 +11,11 @@ image: >-
 category: news
 brand: Volkswagen
 tags:
-  - BYD
-  - NIO
+  - Volkswagen
   - Batterie
   - Elektroauto
   - Marktanteil
+  - Sicherheit
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/17/volkswagen-backed-gotion-launches-gnascent-sodium-ion-battery-up-to-261-wh-kg-with-mass-production-ready/

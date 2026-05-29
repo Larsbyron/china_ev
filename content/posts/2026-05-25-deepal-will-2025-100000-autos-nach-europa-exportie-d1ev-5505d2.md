@@ -10,7 +10,8 @@ source: D1EV
 image: /images/deepal-will-2025-100000-autos-nach-europa-exportie-d1ev-5505d2.webp
 category: news
 tags:
-  - EV
+  - Deepal
+  - Autonomes Fahren
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300376'
 read_time_minutes: 2

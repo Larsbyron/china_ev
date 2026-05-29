@@ -12,11 +12,9 @@ category: news
 brand: Xiaomi
 tags:
   - Xiaomi
-  - Tesla
   - Batterie
   - Reichweite
   - Zoll
-  - EV
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/20/xiaomi-yu7-gt-performance-suv-to-enter-china-with-five-body-color-options/

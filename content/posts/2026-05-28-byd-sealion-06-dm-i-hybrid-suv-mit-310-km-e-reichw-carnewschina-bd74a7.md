@@ -14,7 +14,9 @@ brand: BYD
 tags:
   - BYD
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
+  - Sicherheit
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/26/byd-launches-2026-sealion-06-dm-i-with-its-fifth-gen-hybrid-tech-and-310-km-ev-range/

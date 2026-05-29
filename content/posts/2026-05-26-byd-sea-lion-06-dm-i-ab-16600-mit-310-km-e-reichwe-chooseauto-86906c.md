@@ -14,7 +14,9 @@ tags:
   - BYD
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/912956.shtml'
 read_time_minutes: 2

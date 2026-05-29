@@ -1,18 +1,23 @@
 ---
-title: "Xiaomi YU7 ab 29.900 €: 643-km-SUV unterbietet Tesla Model Y"
+title: 'Xiaomi YU7 ab 29.900 €: 643-km-SUV unterbietet Tesla Model Y'
 date: 2026-05-29T11:33:33.044Z
-description: "Fünf Varianten des Xiaomi YU7 starten in China ab 29.900 €. Der Standard lockt mit 643 km Reichweite (CLTC) und unterbietet das Tesla Model Y um 3.000 € – ein klarer Preiskampf."
-source: "OFweek NEV"
-
-category: "news"
-brand: "Xiaomi"
-brands: ["Xiaomi"]
-tags: ["Xiaomi", "MG", "Tesla", "Reichweite"]
+description: >-
+  Fünf Varianten des Xiaomi YU7 starten in China ab 29.900 €. Der Standard lockt
+  mit 643 km Reichweite (CLTC) und unterbietet das Tesla Model Y um 3.000 € –
+  ein klarer Preiskampf.
+source: OFweek NEV
+category: news
+brand: Xiaomi
+brands:
+  - Xiaomi
+tags:
+  - Xiaomi
+  - Reichweite
 draft: false
-original_url: "https://nev.ofweek.com/2026-05/ART-71008-8220-30688339.html"
+original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30688339.html'
 read_time_minutes: 3
-primaryTopic: "modelle-marktstarts"
-marketRelevance: "china_only"
+primaryTopic: modelle-marktstarts
+marketRelevance: china_only
 ---
 
 # Xiaomi YU7 ab 29.900 €: 643-km-SUV unterbietet Tesla Model Y

@@ -11,9 +11,10 @@ image: >-
   /images/beijing-eu8-535-km-elimousine-fr-taxi-fahrdienst-chooseauto-1908e6.webp
 category: news
 tags:
+  - BAIC
   - Reichweite
   - Zoll
-  - EV
+  - Sicherheit
 draft: false
 original_url: 'https://www.chooseauto.com.cn/news/913560.shtml'
 read_time_minutes: 3

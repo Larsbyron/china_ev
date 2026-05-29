@@ -13,10 +13,8 @@ image: >-
 category: news
 tags:
   - Onvo
-  - NIO
-  - L90
-  - LiDAR
-  - SUV
+  - Batterie
+  - Autonomes Fahren
 draft: false
 original_url: >-
   https://cnevpost.com/2026/04/18/onvo-reveals-exterior-highlights-updated-l90-ahead-apr-21-launch/

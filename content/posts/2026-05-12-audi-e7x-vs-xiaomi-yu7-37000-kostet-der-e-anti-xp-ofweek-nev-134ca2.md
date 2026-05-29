@@ -8,7 +8,8 @@ description: >-
 source: OFweek NEV
 category: news
 tags:
-  - EV
+  - Xiaomi
+  - Autonomes Fahren
 draft: false
 original_url: 'https://nev.ofweek.com/2026-05/ART-71008-8220-30687004.html'
 read_time_minutes: 2

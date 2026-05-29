@@ -11,8 +11,6 @@ image: /images/hinge-automotive-china-bringt-licht-in-auto-netzwe-d1ev-8b5c95.we
 category: news
 tags:
   - Reichweite
-  - E-Auto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/300074'
 read_time_minutes: 3
@@ -25,6 +23,7 @@ brands:
   - Corning
   - KDPOF
 confidence: 0.8
+brand: null
 ---
 
 # Hinge Automotive: China bringt Licht in Auto-Netzwerke

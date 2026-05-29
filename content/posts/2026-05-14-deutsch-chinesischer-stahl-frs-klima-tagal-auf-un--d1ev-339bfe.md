@@ -10,9 +10,7 @@ description: >-
 source: D1EV
 image: /images/deutsch-chinesischer-stahl-frs-klima-tagal-auf-un-d1ev-339bfe.webp
 category: news
-tags:
-  - E-Auto
-  - EV
+tags: []
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299048'
 read_time_minutes: 3
@@ -26,6 +24,7 @@ brands:
   - ThyssenKrupp
   - Ansteel
 confidence: 0.8
+brand: null
 ---
 
 # Deutsch-Chinesischer Stahl fürs Klima: TAGAL auf UN-Gipfel

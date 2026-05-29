@@ -11,11 +11,8 @@ image: /images/bosch-jv-bringt-ki-roboter-in-e-auto-produktion-d1ev-d9ea78.webp
 category: news
 brand: BMW
 tags:
-  - BYD
-  - MG
+  - BMW
   - Batterie
-  - E-Auto
-  - EV
 draft: false
 original_url: 'https://www.d1ev.com/news/shichang/299253'
 read_time_minutes: 3

@@ -10,11 +10,9 @@ image: >-
   /images/ai-batteriemarkt-china-cat-l-45-prozent-anteil-im-maerz-cnevpost-a8f372.webp
 category: news
 tags:
-  - CATL
   - BYD
   - Batterie
   - Marktanteil
-  - China
 draft: false
 original_url: 'https://cnevpost.com/2026/04/10/top-battery-makers-share-china-mar-2026/'
 primaryTopic: markt-absatz-zulassungen

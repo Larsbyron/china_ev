@@ -15,7 +15,9 @@ tags:
   - Geely
   - Batterie
   - Reichweite
-  - EV
+  - Hybrid
+  - PHEV
+  - Börse
 draft: false
 original_url: >-
   https://carnewschina.com/2026/05/19/geely-fully-takes-over-radar-as-global-nev-pickup-expansion-accelerates-in-32m-usd-deal/
