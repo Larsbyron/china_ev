@@ -5,6 +5,9 @@
   border: 1px solid var(--color-border);
   border-radius: 12px;
   overflow: hidden;
+  /* Let the card shrink inside grid/flex tracks instead of being sized by its
+     widest unbreakable word — prevents the right-column text from being clipped. */
+  min-width: 0;
   text-decoration: none;
   transition: transform var(--duration-normal) var(--ease-out),
               box-shadow var(--duration-normal) var(--ease-out),
@@ -93,6 +96,9 @@
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  /* Long German compound words (Fahrassistenz, Mutterkonzern) break instead of
+     forcing the card wider than its track. */
+  overflow-wrap: break-word;
 }
 
 .excerpt {
@@ -104,6 +110,7 @@
   -webkit-box-orient: vertical;
   overflow: hidden;
   margin-bottom: 0;
+  overflow-wrap: break-word;
 }
 
 .footer {

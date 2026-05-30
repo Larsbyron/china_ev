@@ -1,6 +1,6 @@
 import { z } from 'zod'
 
-const SOURCE_NAMES = ['Autohome', 'Autohome NewEnergy', 'Ifeng', 'Sina', 'PCauto', 'CnEVPost', 'Electrek', 'OFweek NEV', 'ChooseAuto', 'D1EV', 'CarNewsChina'] as const
+const SOURCE_NAMES = ['Autohome', 'Autohome NewEnergy', 'Ifeng', 'Sina', 'PCauto', 'CnEVPost', 'Electrek', 'OFweek NEV', 'ChooseAuto', 'D1EV', 'CarNewsChina', 'electrive', 'ADAC', 'MERICS', 'Reuters', 'Bruegel', 'Europäische Kommission', 'Euronews', 'CGTN', 'Bloomberg', 'CEPR', 'CER'] as const
 
 const TOPIC_SLUGS = [
   'modelle-marktstarts',
@@ -33,7 +33,7 @@ export const articleFrontmatterSchema = z.object({
     z.string().url(),
   ]).nullable().optional(),
   category: z.enum(['news', 'weekly']).default('news'),
-  brand: z.string().optional(),
+  brand: z.string().nullable().optional(),
   brands: z.array(z.string()).default([]),
   tags: z.array(z.string()).default([]),
   draft: z.boolean().default(false),

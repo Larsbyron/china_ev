@@ -216,7 +216,10 @@ a {
 }
 
 .article-content img {
-  max-width: 100%;
+  /* Uniform full-column width so every body image matches the hero's visual
+     weight (portrait/person images are stripped in the markdown pipeline, so
+     only landscape car/product shots reach here). */
+  width: 100%;
   height: auto;
   border-radius: 8px;
   margin: var(--space-8) 0;

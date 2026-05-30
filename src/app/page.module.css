@@ -120,6 +120,9 @@
 .heuteFeatured {
   display: flex;
   flex-direction: column;
+  /* Allow the grid track to shrink below the card's intrinsic content width
+     (defeats the grid min-width:auto trap that clips long German titles). */
+  min-width: 0;
 }
 
 /* Ensure the card inside stretches to full column height */
@@ -131,6 +134,9 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: var(--space-5);
+  /* Same trap: without min-width:0 the long-word content forces this 2-col
+     grid wider than its track, overflowing and clipping card text on the right. */
+  min-width: 0;
 }
 
 @media (max-width: 1024px) {

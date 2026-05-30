@@ -9,9 +9,12 @@ import styles from './ArticleCard.module.css'
 interface ArticleCardProps {
   article: ArticleMeta
   featured?: boolean
+  /** Force a text-only card even when the article has an image (used to keep
+      a shelf's lower rows uniform). */
+  hideImage?: boolean
 }
 
-export default function ArticleCard({ article, featured = false }: ArticleCardProps) {
+export default function ArticleCard({ article, featured = false, hideImage = false }: ArticleCardProps) {
   const topicLabel = article.primaryTopic
     ? TOPIC_BY_SLUG[article.primaryTopic]?.label
     : null
@@ -21,7 +24,7 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
       href={`/articles/${article.slug}`}
       className={`${styles.card} ${featured ? styles.featured : ''}`}
     >
-      {article.image && (
+      {article.image && !hideImage && (
         <div className={styles.imageWrapper}>
           <FallbackImage
             src={article.image}

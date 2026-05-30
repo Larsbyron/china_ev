@@ -6,6 +6,7 @@ import SiteFooter from '@/components/SiteFooter'
 import QuickFacts from '@/components/QuickFacts'
 import ShareButtons from '@/components/ShareButtons'
 import ReactionPanel from '@/components/ReactionPanel'
+import ArticleListItem from '@/components/ArticleListItem'
 import {
   getAllArticles,
   getArticleBySlug,
@@ -272,17 +273,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 {relatedByBrand.length > 0 && (
                   <div className={styles.relatedGroup}>
                     <h2 className={styles.relatedTitle}>Mehr von {article.brand}</h2>
-                    <div className={styles.relatedGrid}>
+                    <div className={styles.relatedList}>
                       {relatedByBrand.map((related) => (
-                        <Link key={related.slug} href={`/articles/${related.slug}`} className={styles.relatedCard}>
-                          {related.image && (
-                            <FallbackImage src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} />
-                          )}
-                          <div className={styles.relatedContent}>
-                            <h3 className={styles.relatedCardTitle}>{related.title}</h3>
-                            <time className={styles.relatedDate} dateTime={related.date}>{formatDate(related.date)}</time>
-                          </div>
-                        </Link>
+                        <ArticleListItem key={related.slug} article={related} />
                       ))}
                     </div>
                   </div>
@@ -293,17 +286,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     <h2 className={styles.relatedTitle}>
                       Mehr zu: {TOPIC_BY_SLUG[article.primaryTopic]?.label}
                     </h2>
-                    <div className={styles.relatedGrid}>
+                    <div className={styles.relatedList}>
                       {relatedByTopic.map((related) => (
-                        <Link key={related.slug} href={`/articles/${related.slug}`} className={styles.relatedCard}>
-                          {related.image && (
-                            <FallbackImage src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} />
-                          )}
-                          <div className={styles.relatedContent}>
-                            <h3 className={styles.relatedCardTitle}>{related.title}</h3>
-                            <time className={styles.relatedDate} dateTime={related.date}>{formatDate(related.date)}</time>
-                          </div>
-                        </Link>
+                        <ArticleListItem key={related.slug} article={related} />
                       ))}
                     </div>
                   </div>
@@ -314,17 +299,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     <h2 className={styles.relatedTitle}>
                       Auch interessant: <StatusBadge relevance={article.marketRelevance} size="md" />
                     </h2>
-                    <div className={styles.relatedGrid}>
+                    <div className={styles.relatedList}>
                       {relatedByStatus.map((related) => (
-                        <Link key={related.slug} href={`/articles/${related.slug}`} className={styles.relatedCard}>
-                          {related.image && (
-                            <FallbackImage src={related.image} alt="" width={480} height={270} loading="lazy" decoding="async" className={styles.relatedImage} />
-                          )}
-                          <div className={styles.relatedContent}>
-                            <h3 className={styles.relatedCardTitle}>{related.title}</h3>
-                            <time className={styles.relatedDate} dateTime={related.date}>{formatDate(related.date)}</time>
-                          </div>
-                        </Link>
+                        <ArticleListItem key={related.slug} article={related} />
                       ))}
                     </div>
                   </div>

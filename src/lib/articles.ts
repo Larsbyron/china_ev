@@ -113,7 +113,7 @@ function parseMarkdownFile(filePath: string): Article | null {
       source: validated.source,
       image: resolveImage(validated.image),
       category: validated.category,
-      brand: validated.brand,
+      brand: validated.brand ?? undefined,
       brands,
       tags: validated.tags,
       draft: validated.draft,

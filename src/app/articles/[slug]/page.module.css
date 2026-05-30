@@ -156,7 +156,7 @@
 /* Related Articles */
 .related {
   padding: var(--space-16) 0;
-  background: var(--color-bg-secondary);
+  background: var(--color-bg-primary);
   border-top: 1px solid var(--color-border);
 }
 
@@ -177,59 +177,14 @@
   margin-bottom: var(--space-6);
 }
 
-.relatedGrid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: var(--space-6);
-}
-
-.relatedCard {
+/* List form: shows every recommendation's title + subtitle (reuses ArticleListItem).
+   The bg-secondary items now sit on a bg-primary section, so they stand out
+   just like the homepage "Neueste Meldungen" list. */
+.relatedList {
   display: flex;
   flex-direction: column;
-  background: var(--color-bg-primary);
+  background: var(--color-bg-secondary);
   border: 1px solid var(--color-border);
   border-radius: 12px;
   overflow: hidden;
-  text-decoration: none;
-  transition: border-color var(--duration-fast),
-              transform var(--duration-fast);
-}
-
-.relatedCard:hover {
-  border-color: var(--color-text-secondary);
-  transform: translateY(-2px);
-}
-
-.relatedImage {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
-}
-
-.relatedContent {
-  padding: var(--space-4);
-}
-
-.relatedCardTitle {
-  font-size: var(--text-sm);
-  font-weight: 600;
-  line-height: 1.4;
-  color: var(--color-text-primary);
-  margin-bottom: var(--space-2);
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.relatedDate {
-  font-family: var(--font-mono);
-  font-size: var(--text-xs);
-  color: var(--color-text-secondary);
-}
-
-@media (max-width: 768px) {
-  .relatedGrid {
-    grid-template-columns: 1fr;
-  }
 }
