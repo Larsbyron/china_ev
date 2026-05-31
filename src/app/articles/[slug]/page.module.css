@@ -102,6 +102,12 @@
   align-items: flex-start;
 }
 
+/* Articles without a QuickFacts sidebar: cap the reading column so body text
+   isn't stretched to the full two-column width (keeps a comfortable line length). */
+.bodyLayoutNarrow {
+  max-width: var(--max-width-content);
+}
+
 .content {
   flex: 1;
   min-width: 0;

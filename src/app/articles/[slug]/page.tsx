@@ -214,7 +214,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
           {/* Article Body + Sidebar */}
           <div className={styles.body}>
-            <div className={styles.bodyLayout}>
+            <div className={`${styles.bodyLayout} ${article.ev_model ? '' : styles.bodyLayoutNarrow}`}>
               <div className={styles.content}>
                 <div
                   className="article-content"
