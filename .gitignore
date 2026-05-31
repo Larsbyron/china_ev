@@ -40,6 +40,9 @@ npm-debug.log*
 processed_articles.json
 .runlog.jsonl
 
+# Pagefind search index — regenerated every build (next build && pagefind ...)
+public/pagefind/
+
 # Python (legacy)
 __pycache__/
 *.py[cod]
