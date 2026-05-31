@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
+import { AUTHOR } from '@/lib/author'
 import styles from './about.module.css'
 
 export const metadata: Metadata = {
@@ -53,6 +54,12 @@ export default function AboutPage() {
           wie CnEVPost und Electrek übersetzt und für ein deutschsprachiges
           Publikum aufbereitet.
         </p>
+
+        <h2 style={{ fontSize: '1.5rem', marginTop: '2rem', marginBottom: '1rem' }}>Redaktion</h2>
+        <p style={{ lineHeight: 1.7 }}>
+          <strong>{AUTHOR.name}</strong> — {AUTHOR.role}
+        </p>
+        <p style={{ marginTop: '0.5rem', lineHeight: 1.7 }}>{AUTHOR.bio}</p>
 
         <h2 style={{ fontSize: '1.5rem', marginTop: '2rem', marginBottom: '1rem' }}>Kontakt</h2>
         <p style={{ lineHeight: 1.7 }}>

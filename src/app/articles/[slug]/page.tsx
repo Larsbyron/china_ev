@@ -17,6 +17,7 @@ import {
 } from '@/lib/articles'
 import type { ArticleMeta } from '@/lib/articles'
 import { TOPIC_BY_SLUG } from '@/lib/topics'
+import { AUTHOR } from '@/lib/author'
 import FallbackImage from '@/components/FallbackImage'
 import StatusBadge from '@/components/StatusBadge'
 import { buildAbsoluteImageUrl } from '@/lib/images'
@@ -59,7 +60,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       siteName: 'E-AUTOS',
       locale: 'de_DE',
       publishedTime: article.date,
-      authors: ['E-AUTOS Redaktion'],
+      authors: [AUTHOR.name],
       section: 'Elektroautos aus China',
       images: article.image ? [{ url: buildAbsoluteImageUrl(article.image, siteUrl), width: 1200, height: 630 }] : [],
     },
@@ -126,7 +127,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               image: article.image ? [buildAbsoluteImageUrl(article.image, siteUrl)] : [],
               datePublished: article.date,
               dateModified: article.date,
-              author: { '@type': 'Organization', name: 'E-AUTOS Redaktion' },
+              author: {
+                '@type': 'Person',
+                name: AUTHOR.name,
+                description: AUTHOR.bio,
+                url: `${siteUrl}/about/`,
+              },
               publisher: {
                 '@type': 'Organization',
                 name: 'E-AUTOS',
@@ -182,6 +188,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   <span className={styles.brand}>{article.brand}</span>
                 )}
                 <span className={styles.source}>{article.source}</span>
+                <span className={styles.source}>
+                  Von <Link href="/about/" rel="author">{AUTHOR.name}</Link>
+                </span>
                 <time className={styles.date} dateTime={article.date}>
                   {formatDate(article.date)}
                 </time>

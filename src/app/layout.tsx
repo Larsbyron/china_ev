@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   },
   description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng, Li Auto, MG und weiteren chinesischen E-Auto-Marken.',
   keywords: ['China EV', 'Elektroauto', 'BYD', 'NIO', 'XPeng', 'Li Auto', 'MG', 'E-Auto', 'Deutschland', 'chinesische Autos'],
-  authors: [{ name: 'E-AUTOS Redaktion' }],
+  authors: [{ name: 'Lars Bergmann' }],
   openGraph: {
     type: 'website',
     locale: 'de_DE',
@@ -77,6 +77,26 @@ export default function RootLayout({
               name: 'E-AUTOS',
               url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim(),
               description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng und weiteren Marken.',
+              inLanguage: 'de',
+            }),
+          }}
+        />
+        {/* JSON-LD NewsMediaOrganization — publisher identity for Google News/Discover */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'NewsMediaOrganization',
+              name: 'E-AUTOS',
+              url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim(),
+              logo: {
+                '@type': 'ImageObject',
+                url: `${(process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()}/logo.png`,
+                width: 336,
+                height: 112,
+              },
+              description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News.',
               inLanguage: 'de',
             }),
           }}
