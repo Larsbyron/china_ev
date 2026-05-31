@@ -17,7 +17,7 @@ interface PagefindResultData {
 
 interface PagefindInstance {
   init: () => Promise<void>
-  search: (query: string) => Promise<{ results: PagefindSearchResult[] }>
+  search: (query: string, options?: { sort?: Record<string, 'asc' | 'desc'> }) => Promise<{ results: PagefindSearchResult[] }>
 }
 
 declare global {
@@ -85,7 +85,7 @@ export default function SearchPage() {
           return
         }
 
-        const search = await pf.search(trimmed)
+        const search = await pf.search(trimmed, { sort: { date: 'desc' } })
         const settled = await Promise.allSettled(
           search.results.map((r: PagefindSearchResult) => r.data())
         )

@@ -21,12 +21,17 @@ for (const file of htmlFiles) {
   if (!html.includes('data-pagefind-body')) {
     console.error(`[VERIFY-PAGEFIND] MISSING data-pagefind-body: ${file}`)
     missing++
+    continue
+  }
+  if (!html.includes('data-pagefind-sort')) {
+    console.error(`[VERIFY-PAGEFIND] MISSING data-pagefind-sort: ${file}`)
+    missing++
   }
 }
 
 if (missing > 0) {
-  console.error(`\n[VERIFY-PAGEFIND] FAIL: ${missing} article(s) ohne data-pagefind-body`)
+  console.error(`\n[VERIFY-PAGEFIND] FAIL: ${missing} article(s) ohne data-pagefind-body oder data-pagefind-sort`)
   process.exit(1)
 }
 
-console.log(`[VERIFY-PAGEFIND] OK: ${htmlFiles.length} article(s) mit data-pagefind-body`)
+console.log(`[VERIFY-PAGEFIND] OK: ${htmlFiles.length} article(s) mit data-pagefind-body + data-pagefind-sort`)

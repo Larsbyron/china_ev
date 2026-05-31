@@ -171,7 +171,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             }),
           }}
         />
-        <article className={styles.article} data-pagefind-body>
+        <article className={styles.article} data-pagefind-body data-pagefind-sort={`date:${article.date}`}>
           {/* Article Header */}
           <header className={styles.header}>
             <div className={styles.container}>
