@@ -1,13 +1,13 @@
 ---
 title: "Smart #6 EHD: Erste Limousine startet in China ab 24.300 €"
-date: 2026-05-31T06:11:59.517Z
-description: "Smart bringt mit dem #6 EHD seine erste Limousine auf den Markt. Der Plug-in-Hybrid bietet bis zu 285 km elektrische Reichweite (CLTC) und startet in China bei umgerechnet ca. 24.300 €."
+date: 2026-05-31T19:06:00.046Z
+description: "Smart bringt mit dem #6 EHD seine erste Limousine auf den Markt. Der Plug-in-Hybrid bietet 285 km elektrische Reichweite (CLTC) und startet in China ab ca. 24.300 €."
 source: "CarNewsChina"
 image: "/images/smart-6-ehd-erste-limousine-startet-in-china-ab-24-carnewschina-3a168c.webp"
 category: "news"
 brand: "Smart"
 brands: ["Smart"]
-tags: ["Smart", "Batterie", "Reichweite", "Hybrid", "PHEV"]
+tags: ["Smart", "Batterie", "Reichweite", "Elektroauto", "Hybrid", "PHEV"]
 draft: false
 original_url: "https://carnewschina.com/2026/05/31/smarts-first-sedan-6-ehd-phev-launches-on-june-11-starting-from-28000-usd-in-china/"
 read_time_minutes: 3
@@ -17,42 +17,41 @@ marketRelevance: "china_only"
 
 # Smart #6 EHD: Erste Limousine startet in China ab 24.300 €
 
-Smart bringt am 11. Juni 2026 den #6 EHD in China auf den Markt. Es ist die erste Limousine der Marke und ein Plug-in-Hybrid (PHEV) mit einem 1,5-Liter-Turbomotor und einer elektrischen Reichweite von bis zu 285 km (CLTC)* – entspricht ca. 240 km (WLTP-Schätzwert). Der Einstiegspreis liegt bei 189.900 Yuan, umgerechnet ca. 24.300 € (ca. 189.900 Yuan).*
+Smart erweitert sein Portfolio: Am 11. Juni 2026 feiert die erste Limousine der Marke, der #6 EHD, in China Premiere. Der viertürige Liftback ist ein Plug-in-Hybrid (PHEV) und basiert auf der Geely-Plattform. Der Einstiegspreis liegt bei ca. 24.300 € (189.900 Yuan)*. Zuvor hatte Smart den Vorverkauf auf der Auto China (Peking Auto Show 2026) gestartet.
 
-*Hinweis: Preise beziehen sich auf den chinesischen Markt und können in Europa abweichen.*
-*CLTC (chinesischer Verbrauchszyklus, typischerweise 10–15 % höher als WLTP)*
+Der #6 ist das erste Modell aus der Ära des 50:50-Joint-Ventures von Mercedes-Benz und Geely, das ausschließlich als PHEV an den Start geht. Bisher waren der #1, #3 und #5 als reine Elektroautos (BEV) erschienen – der #5 erhielt später ein Facelift mit einer 1,5-Liter-PHEV-Variante.
 
-Der #6 ist nach der Neuausrichtung von Smart als 50:50-Joint Venture zwischen Mercedes-Benz und Geely das erste Modell, das ausschließlich als PHEV an den Start geht. Bisher bot die Marke die vollelektrischen SUVs #1, #3 und #5 an, wobei der #5 später eine PHEV-Version erhielt. Smart hatte die Vorbestellungen für den #6 bereits auf der Auto China (Peking Auto Show) im April 2026 eröffnet.
+## Design und Innenraum
 
-## Design und Interieur
-
-Optisch folgt der #6 der aktuellen Smart-Designsprache mit charakteristischer Front und einer großen Heckklappe als Schräghecklimousine. Ein optionaler aktiver Heckspoiler ist erhältlich. Im Innenraum setzt Smart auf ein Doppelbildschirm-Infotainmentsystem, das bereits aus dem #5 bekannt ist. Die Serienausstattung umfasst eine Sennheiser-Soundanlage mit 7.1.4-Konfiguration und einer Nennleistung von 2.000 Watt.
+Optisch folgt der #6 der aktuellen Smart-Formensprache mit markanter Front und großer Heckklappe. Wahlweise ist ein aktiver Heckspoiler erhältlich. Im Innenraum dominiert ein Doppelbildschirm-Infotainmentsystem, das bereits aus dem #5 bekannt ist. Ein Sennheiser-Soundsystem mit 7.1.4-Konfiguration und 2.000 Watt Spitzenleistung sorgt für hochwertigen Klang.
 
 ## Antrieb und Reichweite
 
-Der Antriebsstrang entspricht dem des #5 PHEV: Der 1,5-Liter-Turbomotor leistet 120 kW (161 PS), kombiniert mit einem 200 kW (268 PS) starken Elektromotor über ein 3-Gang-DHT-Getriebe. Die Systemleistung beträgt 320 kW (429 PS). Alle Versionen sind frontgetrieben.
+Der #6 EHD kombiniert einen 1,5-Liter-Turbobenziner mit 120 kW (161 PS) und einen Elektromotor mit 200 kW (268 PS). Die Systemleistung beträgt 320 kW (429 PS). Die Kraft wird über ein 3-stufiges Hybridgetriebe (DHT) an die Vorderräder geleitet. Zur Wahl stehen zwei LFP-Akkus:
 
-Käufer können zwischen zwei LFP-Batterien wählen:
-- 20 kWh von SVOLT mit 135 km CLTC (ca. 115 km WLTP)
-- 41 kWh von CATL mit 285 km CLTC (ca. 240 km WLTP)
+- 20 kWh (SVOLT) – 135 km elektrische Reichweite (CLTC) – entspricht ca. 115 km (WLTP-Schätzwert)
+- 41 kWh (CATL) – 285 km elektrische Reichweite (CLTC) – entspricht ca. 240 km (WLTP-Schätzwert)*
 
-Schnellladedaten wurden noch nicht veröffentlicht; beim #5 lädt die große Batterie in 15 Minuten von 30 auf 80 %. Smart gibt eine kombinierte Reichweite (Benzin + Strom) von bis zu 1.810 km an. Der Verbrauch bei leerer Batterie liegt laut MIIT (chinesischem Industrie- und Informationsministerium) bei 4,75–4,79 l/100 km.
+*Hinweis: Preise beziehen sich auf den chinesischen Markt und können in Europa abweichen.  
+*CLTC ist der chinesische Verbrauchszyklus, typischerweise 10–15 % höher als WLTP.
 
-## Fahrwerk und Maße
+Mit vollem Tank und voller Batterie soll der #6 bis zu 1.810 km weit kommen. Der Benzinverbrauch bei leerer Batterie liegt laut MIIT (chinesisches Ministerium) bei 4,75–4,79 L/100 km.
 
-Das Fahrwerk basiert vermutlich auf MacPherson-Federbeinen vorn und einer Mehrlenker-Hinterachse analog zum #5. Mercedes-Benz hat die Abstimmung übernommen; optional sind frequenzselektive Dämpfer (FSD) erhältlich. Smart verspricht, dass der Sprint von 0 auf 100 km/h selbst bei niedrigem Ladestand nie langsamer als 6,7 Sekunden ist.
+## Fahrwerk und Abmessungen
 
-Der #6 ist 4.906 mm lang, 1.922 mm breit und 1.508 mm hoch, der Radstand beträgt 2.926 mm. Das Leergewicht liegt zwischen 1.990 und 2.099 kg.
+Smart verspricht eine von Mercedes-Benz abgestimmte Fahrwerksabstimmung mit Frequenzselektiven Dämpfern (FSD) als Option. Erwartet werden vorne McPherson-Federbeine und hinten eine Mehrlenkerachse. Das Auto beschleunigt laut Hersteller selbst bei niedrigem Ladestand in 6,7 Sekunden von 0 auf 100 km/h.
+
+Die Abmessungen: 4.906 mm Länge, 1.922 mm Breite, 1.508 mm Höhe, Radstand 2.926 mm. Das Leergewicht liegt zwischen 1.990 kg und 2.099 kg.
 
 ## Marktsituation
 
-Smart hat in China mit schwachen Verkaufszahlen zu kämpfen: Im April 2026 wurden nur 1.703 Einheiten zugelassen, im gesamten Jahr 2025 waren es 30.799 Fahrzeuge. Der #6 EHD soll das Modellportfolio verbreitern und die Wende bringen – ob das gelingt, bleibt abzuwarten.
+Smart kämpft in China mit schwachen Verkaufszahlen. Im April 2026 wurden nur 1.703 Einheiten zugelassen. Der #6 EHD soll das Portfolio verbreitern und die Wende bringen, ob das gelingt, bleibt abzuwarten.
 
 ---
 
 ## In Deutschland
 
-*Zu diesem Hersteller liegen uns aktuell keine gesicherten Informationen über einen europäischen Markteintritt vor. Das Modell ist derzeit auf dem chinesischen Markt erhältlich.*
+Smart ist in Deutschland als Marke etabliert (z. B. #1, #3), der #6 EHD ist jedoch bislang nur für den chinesischen Markt bestätigt. Ein Europa-Start wurde noch nicht angekündigt.
 
 ---
 
