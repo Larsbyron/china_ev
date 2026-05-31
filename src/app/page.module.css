@@ -54,6 +54,9 @@
 .sectionHeader {
   display: flex;
   align-items: center;
+  /* Wrap on narrow screens so the "Alle ansehen →" link drops to a new line
+     instead of overflowing the viewport (caused mobile horizontal scroll). */
+  flex-wrap: wrap;
   gap: var(--space-4);
   margin-bottom: var(--space-10);
 }
@@ -170,6 +173,7 @@
 .shelfHeader {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: var(--space-3);
   margin-bottom: var(--space-6);
 }
