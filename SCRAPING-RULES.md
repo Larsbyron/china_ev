@@ -17,6 +17,13 @@
 | 6 | ChooseAuto 🆕 | `chooseauto.com.cn/list/channel_1.shtml` | UTF-8 | 选车网新车频道 |
 | 7 | OFweek NEV 🆕 | `nev.ofweek.com/CATList-71000-8200-nev.html` | UTF-8 | 维科新能源新品 |
 
+### 非抓取来源（手工策划文章用）
+
+除上述中文抓取源外，`src/lib/schemas.ts` 的 `source` 枚举还允许一批德语/国际权威源，
+用于**手工撰写的欧盟政策/关税类文章**（如"Politik, Zölle & Regulierung"主题）：
+`electrive`、`ADAC`、`MERICS`、`Reuters`、`Bloomberg`、`Euronews`、`CGTN`、`Bruegel`、`CEPR`、`CER`、`Europäische Kommission`。
+这类文章带真实 `original_url`，为忠于原报道的德语摘要，不走自动翻译流水线。
+
 ---
 
 ## 二、链接抓取规则
@@ -194,7 +201,17 @@ EQS, EQB, EQC, EQE, EQA, 新势力, Robotaxi,
 - **摘要（description）**：1-2句概括，含品牌+核心亮点
 - **正文**：HTML 格式，保留原文段落结构，适当分段
   - H2 标题用于新车各板块（设计、内饰、动力、智驾、价格）
-  - 图片保留（img 标签带 alt 描述）
+  - 图片：抓取时保留（img 标签带 alt 描述），但**渲染期会过滤**（见下方规则）
+
+### 正文图片渲染规则（render 期，`src/lib/markdown.ts`）
+
+正文图片统一拉满正文栏宽（`.article-content img { width: 100% }`），因此构建时会用 `sharp` 读取每张图尺寸并**丢弃不适合满宽展示的图**：
+
+- **竖图**（高 > 宽）：基本是人物/肖像照，对德国读者无意义 → 删除
+- **小图**（宽 < 400px 或 高 < 225px）：来源 logo、小图标、方形头像，满宽会被放大模糊 → 删除
+- 保留的横向内容图（车图/产品图）统一栏宽，删图后空 `<p>` 一并清除
+
+> 原则：宁可少图也要统一。某文若没有合格内容图，正文就纯文字。
 
 ---
 
@@ -246,4 +263,4 @@ scraper 抓取 → API 自动翻译 → POST /api/articles → 存 Vercel Blob �
 
 ---
 
-*最后更新：2026-05-09*
+*最后更新：2026-05-31*

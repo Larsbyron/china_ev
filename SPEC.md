@@ -179,7 +179,7 @@ Light mode variants:
 - 8px base grid
 - Sections: 80px vertical rhythm
 - Cards: 24px padding
-- Content max-width: 720px (article), 1200px (listing)
+- Content max-width: 720px (article), 1280px (listing)
 
 ### Motion
 

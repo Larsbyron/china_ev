@@ -22,7 +22,7 @@ Updated after Phase 1.5 implementation (2026-04-26).
 13. **Define EV specs JSON schema** — Data contract needed before Phase 3 (Recharts) and Phase 4 (comparison tool) ✅
 
 ### P2 — Medium (from prior QA, deferred)
-14. **Add search** — Pagefind integration for full-text search (Phase 5)
+14. **Add search** — Pagefind integration for full-text search (Phase 5) ✅ (verified live 2026-05-31: `pagefind.search` returns results; index now gitignored + rebuilt each deploy)
 15. **Fix pagination** — Add "Previous" link in Next.js templates (Phase 2)
 
 ## Phase 3+ Deferred
@@ -40,3 +40,15 @@ Updated after Phase 1.5 implementation (2026-04-26).
 - ~~Fix content-brand mismatch~~ — sources.json is dead code (deleted), scraper only uses Chinese sources
 - ~~Phase 1.5 all 13 tasks~~ — Build passes, 100 tests passing
 - ~~Design doc contradictions~~ — Tailwind → CSS Modules, dark mode → dark-first, API route removed
+
+### Session 2026-05-31 — Homepage/article polish, content, QA (shipped to prod)
+- ~~Homepage "Heute wichtig" right-column text clipping~~ — grid `min-width:0` + `overflow-wrap` (`514ab28`)
+- ~~Shelf image rows ragged (image + no-image cards mixed)~~ — order image-first, render whole rows uniformly; same logic applied to "Heute wichtig" secondary 2×2 (`514ab28`, `fe4afdf`)
+- ~~In-article images small/inconsistent + person photos~~ — drop portrait + undersized images (`<400w`/`<225h`), render rest full column width (`514ab28`, `f11c9b1`); regression test added (`827e87e`)
+- ~~Related articles as card grid~~ — switched to list (title + subtitle, no thumbnails) via `ArticleListItem` (`514ab28`)
+- ~~"Politik, Zölle & Regulierung" too thin~~ — added 10 sourced German articles (5 → 15); extended `source` enum for non-scraped sources (`514ab28`)
+- ~~`brand: null` frontmatter silently dropped articles~~ — schema accepts null; recovered 24 articles (741 → 765 loaded) (`514ab28`)
+- ~~Content width too narrow on desktop~~ — `--max-width-listing` 1200 → 1280px (1920 screen: 320px/side for future ad rails) (`11d3d11`)
+- ~~Mobile horizontal scroll from section header overflow~~ — `flex-wrap` on section/shelf headers (`6f1231f`)
+- ~~Article body too wide without QuickFacts sidebar~~ — cap reading column at 720px (`3edc253`)
+- ~~Pagefind index committed to git~~ — gitignored, untracked 714 files; rebuilt every deploy, search verified live (`1d1046c`)

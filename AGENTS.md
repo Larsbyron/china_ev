@@ -12,7 +12,7 @@ Automated blog for German car enthusiasts featuring the latest Chinese EV news, 
 - **Search:** Pagefind (post-build indexing)
 - **Comments:** Giscus (GitHub Discussions)
 - **Hosting:** Vercel (auto-deploy from main)
-- **Tests:** Vitest (100 tests)
+- **Tests:** Vitest (174 tests)
 
 ## Project Structure
 
@@ -48,7 +48,7 @@ prompts, brand glossary, editorial review, quality check) and is orchestrated by
 ```bash
 npm run dev          # Dev server
 npm run build        # Production build (+ Pagefind + RSS)
-npm test             # Run 100 tests
+npm test             # Run 174 tests
 npm run lint         # ESLint
 ```
 

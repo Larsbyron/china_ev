@@ -8,10 +8,10 @@ Automated blog for German car enthusiasts featuring the latest Chinese EV news, 
 
 - **Framework:** Next.js 15 (Vercel-hosted, ISR via `export const revalidate` — not static export)
 - **Styling:** CSS Modules + CSS Custom Properties, dark-first theme
-- **Search:** Pagefind (post-build indexing)
+- **Search:** Pagefind (built after `next build`; the `public/pagefind/` index is gitignored and regenerated every deploy, so `npm run dev` alone has no search index)
 - **Comments:** Giscus (GitHub Discussions)
 - **Hosting:** Vercel (auto-deploy from main)
-- **Tests:** Vitest (100 tests)
+- **Tests:** Vitest (174 tests)
 
 ## Project Structure
 
@@ -44,7 +44,7 @@ prompts, brand glossary, editorial review, quality check) and is orchestrated by
 ```bash
 npm run dev          # Dev server
 npm run build        # Production build (+ Pagefind + RSS)
-npm test             # Run 100 tests
+npm test             # Run 174 tests
 npm run lint         # ESLint
 ```
 
