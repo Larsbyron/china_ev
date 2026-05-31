@@ -92,9 +92,17 @@ export default function SearchPage() {
         const validResults: PagefindResultData[] = []
         for (const s of settled) {
           if (s.status === 'fulfilled' && typeof s.value?.url === 'string' && s.value.url.length > 0) {
-            // Pagefind 从 .html 文件索引，生成的 URL 缺少尾部斜杠，
-            // 但 next.config 配置了 trailingSlash: true，需要补齐
-            const url = s.value.url.endsWith('/') ? s.value.url : `${s.value.url}/`
+            // Pagefind 从 .next/server/app/articles/slug.html 索引，
+            // 生成的 URL 形如 /articles/slug.html：
+            // 1. 去掉 .html 扩展名
+            // 2. 补齐尾部斜杠（next.config 配置了 trailingSlash: true）
+            let url = s.value.url
+            if (url.endsWith('.html')) {
+              url = url.slice(0, -5)
+            }
+            if (!url.endsWith('/')) {
+              url = `${url}/`
+            }
             validResults.push({ ...s.value, url })
           }
         }

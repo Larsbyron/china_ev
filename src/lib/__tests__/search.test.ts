@@ -1,13 +1,22 @@
 import { describe, it, expect } from 'vitest'
 
 // ---------------------------------------------------------------------------
-// URL 尾部斜杠规范化（与 SearchPage.tsx 中的逻辑一致）
-// Pagefind 从 .html 文件索引，生成的 URL 缺少尾部斜杠，
-// 但 next.config 配置了 trailingSlash: true，需要补齐。
+// URL 规范化（与 SearchPage.tsx 中的逻辑一致）
+// Pagefind 从 .next/server/app/articles/slug.html 索引，
+// 生成的 URL 形如 /articles/slug.html：
+// 1. 去掉 .html 扩展名
+// 2. 补齐尾部斜杠（next.config 配置了 trailingSlash: true）
 // ---------------------------------------------------------------------------
 function normalizeSearchUrl(raw: string): string | null {
   if (typeof raw !== 'string' || raw.length === 0) return null
-  return raw.endsWith('/') ? raw : `${raw}/`
+  let url = raw
+  if (url.endsWith('.html')) {
+    url = url.slice(0, -5)
+  }
+  if (!url.endsWith('/')) {
+    url = `${url}/`
+  }
+  return url
 }
 
 // ---------------------------------------------------------------------------
@@ -68,6 +77,19 @@ describe('normalizeSearchUrl', () => {
   it('非字符串类型返回 null', () => {
     expect(normalizeSearchUrl(undefined as unknown as string)).toBeNull()
     expect(normalizeSearchUrl(null as unknown as string)).toBeNull()
+  })
+
+  it('去掉 .html 扩展名后再补斜杠', () => {
+    expect(normalizeSearchUrl('/articles/some-slug.html')).toBe('/articles/some-slug/')
+  })
+
+  it('中间的 .html 不会被错误截断', () => {
+    // 只有末尾的 .html 才去掉，路径中间的保持不变
+    expect(normalizeSearchUrl('/articles/some-slug.html/')).toBe('/articles/some-slug.html/')
+  })
+
+  it('只有 .html 没有路径的情况', () => {
+    expect(normalizeSearchUrl('.html')).toBe('/')
   })
 })
 
@@ -147,7 +169,7 @@ describe('processSearchResults', () => {
     expect(results).toHaveLength(1)
   })
 
-  it('所有 URL 都补上尾部斜杠', () => {
+  it('所有 URL 都补上尾部斜杠，且去掉 .html', () => {
     const settled: PromiseSettledResult<PagefindResultData>[] = [
       {
         status: 'fulfilled',
@@ -159,11 +181,12 @@ describe('processSearchResults', () => {
       },
       {
         status: 'fulfilled',
-        value: { url: '/weekly/', meta: { title: 'T3' }, excerpt: 'x' },
+        value: { url: '/articles/has-dot-html.html', meta: { title: 'T3' }, excerpt: 'x' },
       },
     ]
     const results = processSearchResults(settled)
     expect(results.every((r) => r.url.endsWith('/'))).toBe(true)
+    expect(results.find((r) => r.meta.title === 'T3')?.url).toBe('/articles/has-dot-html/')
   })
 
   it('空输入返回空数组', () => {
