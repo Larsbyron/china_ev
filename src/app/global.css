@@ -49,7 +49,9 @@
 
   /* Layout */
   --max-width-content: 720px;
-  --max-width-listing: 1200px;
+  /* Site-wide content cap. 1280px leaves ~320px per side on a 1920px screen —
+     room for a standard 300px ad rail later, while reducing desktop whitespace. */
+  --max-width-listing: 1280px;
   --max-width-sidebar: 320px;
 
   /* Transitions */
