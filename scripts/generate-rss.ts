@@ -48,18 +48,26 @@ function generateRss(): void {
     .sort((a, b) => new Date(b!.date).getTime() - new Date(a!.date).getTime())
 
   const items = articles
-    .map(
-      (article) => `    <item>
-      <title>${escapeXml(article!.title)}</title>
-      <link>${BASE_URL}/articles/${article!.slug}/</link>
-      <guid isPermaLink="true">${BASE_URL}/articles/${article!.slug}/</guid>
-      <description>${escapeXml(article!.description)}</description>
-      <pubDate>${new Date(article!.date).toUTCString()}</pubDate>
-      <category>${escapeXml(article!.source)}</category>
-      ${article!.brand ? `<category>${escapeXml(article!.brand)}</category>` : ''}
-      ${article!.image ? `<enclosure url="${escapeXml(BASE_URL + article!.image)}" type="image/webp" length="0" />` : ''}
-    </item>`
-    )
+    .map((article) => {
+      const optionalLines = [
+        article!.brand ? `<category>${escapeXml(article!.brand)}</category>` : null,
+        article!.image
+          ? `<enclosure url="${escapeXml(BASE_URL + article!.image)}" type="image/webp" length="0" />`
+          : null,
+      ].filter(Boolean)
+
+      return [
+        '    <item>',
+        `      <title>${escapeXml(article!.title)}</title>`,
+        `      <link>${BASE_URL}/articles/${article!.slug}/</link>`,
+        `      <guid isPermaLink="true">${BASE_URL}/articles/${article!.slug}/</guid>`,
+        `      <description>${escapeXml(article!.description)}</description>`,
+        `      <pubDate>${new Date(article!.date).toUTCString()}</pubDate>`,
+        `      <category>${escapeXml(article!.source)}</category>`,
+        ...optionalLines.map((line) => `      ${line}`),
+        '    </item>',
+      ].join('\n')
+    })
     .join('\n')
 
   const rss = `<?xml version="1.0" encoding="UTF-8"?>
