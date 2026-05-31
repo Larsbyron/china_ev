@@ -31,23 +31,26 @@ export const metadata: Metadata = {
   description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng und weiteren Marken.',
 }
 
-// Shelf grid is 4 columns on desktop (2 / 1 on smaller screens).
+// Shelf grid is 4 columns on desktop (2 / 1 on smaller screens). The "Heute
+// wichtig" secondary block is a 2-column grid.
 const SHELF_COLUMNS = 4
+const HEUTE_SECONDARY_COLUMNS = 2
 
-// Reorder shelf articles image-first, then tag each with whether to show its
-// image. Only *whole rows* (multiples of the column count) show images, so
-// every rendered row is uniform — no image card ever sits next to a text card.
-// A shelf with fewer than one full row of images goes fully text-only, which
+// Reorder articles image-first, then tag each with whether to show its image.
+// Only *whole rows* (multiples of the column count) show images, so every
+// rendered row is uniform — no image card ever sits next to a text card.
+// A group with fewer than one full row of images goes fully text-only, which
 // looks cleaner than a ragged partial image row (uniform over decorative).
-// Multiples of 4 are also multiples of 2 and 1, so rows stay uniform at every
-// breakpoint. Stable partition preserves ranking order within each group.
+// Multiples of the column count stay uniform at narrower breakpoints too.
+// Stable partition preserves ranking order within each group.
 function shelfCards(
   articles: ArticleMeta[],
+  columns: number = SHELF_COLUMNS,
 ): { article: ArticleMeta; showImage: boolean }[] {
   const withImage = articles.filter((a) => a.image)
   const withoutImage = articles.filter((a) => !a.image)
   const ordered = [...withImage, ...withoutImage]
-  const imageCards = Math.floor(withImage.length / SHELF_COLUMNS) * SHELF_COLUMNS
+  const imageCards = Math.floor(withImage.length / columns) * columns
   return ordered.map((article, i) => ({ article, showImage: i < imageCards }))
 }
 
@@ -133,8 +136,8 @@ export default async function HomePage() {
                   </div>
                 )}
                 <div className={styles.heuteSecondary}>
-                  {heuteWichtig.slice(1).map((article) => (
-                    <ArticleCard key={article.slug} article={article} />
+                  {shelfCards(heuteWichtig.slice(1), HEUTE_SECONDARY_COLUMNS).map(({ article, showImage }) => (
+                    <ArticleCard key={article.slug} article={article} hideImage={!showImage} />
                   ))}
                 </div>
               </div>
