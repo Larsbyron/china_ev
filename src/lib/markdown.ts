@@ -11,6 +11,12 @@ import type { Root, Element, ElementContent, RootContent } from 'hast'
 
 const PUBLIC_DIR = path.join(process.cwd(), 'public')
 
+// Body images are rendered full column width, so anything below a real
+// content-photo size (logos, source marks, tiny square headshots) would be
+// upscaled into a blurry mess. Drop images smaller than this.
+const MIN_CONTENT_WIDTH = 400
+const MIN_CONTENT_HEIGHT = 225
+
 // Demote all h1 elements in article body to h2 to avoid duplicate H1
 // (the page already renders an <h1> from the frontmatter title)
 const demoteH1: Plugin<[], Root> = () => (tree) => {
@@ -19,13 +25,15 @@ const demoteH1: Plugin<[], Root> = () => (tree) => {
   })
 }
 
-// Remove portrait-orientation body images. Every body image shares the generic
-// alt text "Bild", so orientation is the only reliable signal: portrait images
-// (height > width) are person/portrait shots that aren't useful for readers.
-// Landscape images (car/product shots) are kept and uniformly sized to the
-// content column width via the `.article-content img` rule. After dropping an
-// image, an emptied wrapping <p> is removed so it leaves no vertical gap.
-const removePortraitImages: Plugin<[], Root> = () => async (tree) => {
+// Remove non-content body images. Every body image shares the generic alt text
+// "Bild", so the image's own dimensions are the only reliable signal. We drop:
+//   - portrait images (height > width): person/portrait shots, not useful here
+//   - undersized images (logos, source marks, tiny square headshots): they would
+//     be upscaled to full column width by `.article-content img` and look blurry
+// The remaining landscape, content-sized images (car/product shots) are kept and
+// uniformly sized to the content column. After dropping an image, an emptied
+// wrapping <p> is removed so it leaves no vertical gap.
+const removeNonContentImages: Plugin<[], Root> = () => async (tree) => {
   const imgNodes: Element[] = []
   visit(tree, 'element', (node: Element) => {
     if (node.tagName !== 'img') return
@@ -42,8 +50,8 @@ const removePortraitImages: Plugin<[], Root> = () => async (tree) => {
     imgNodes.map(async (node) => {
       const src = node.properties?.src as string
       try {
-        const meta = await sharp(path.join(PUBLIC_DIR, src)).metadata()
-        if (meta.width && meta.height && meta.height > meta.width) {
+        const { width: w, height: h } = await sharp(path.join(PUBLIC_DIR, src)).metadata()
+        if (w && h && (h > w || w < MIN_CONTENT_WIDTH || h < MIN_CONTENT_HEIGHT)) {
           toRemove.add(node)
         }
       } catch {
@@ -81,7 +89,7 @@ export async function markdownToHtml(markdown: string): Promise<string> {
     .use(remarkGfm)
     .use(remarkRehype)
     .use(demoteH1)
-    .use(removePortraitImages)
+    .use(removeNonContentImages)
     .use(rehypeStringify)
     .process(markdown)
 
