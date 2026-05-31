@@ -33,22 +33,27 @@ export default function SearchPage() {
   const [searched, setSearched] = useState(false)
   const [pagefindLoaded, setPagefindLoaded] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
+  const loadingRef = useRef(false)
 
   useEffect(() => {
     inputRef.current?.focus()
   }, [])
 
   const loadPagefind = useCallback(async () => {
-    const pf = window.pagefind as PagefindInstance | undefined
-    if (pf) {
-      if (!pagefindLoaded) {
-        await pf.init()
-        setPagefindLoaded(true)
-      }
-      return pf
-    }
+    // 防止并发调用导致 pagefind.init() 被执行多次
+    if (loadingRef.current) return null
+    loadingRef.current = true
 
     try {
+      const pf = window.pagefind as PagefindInstance | undefined
+      if (pf) {
+        if (!pagefindLoaded) {
+          await pf.init()
+          setPagefindLoaded(true)
+        }
+        return pf
+      }
+
       // @ts-expect-error - external runtime ES module
       const pagefind = await import(/* webpackIgnore: true */ '/pagefind/pagefind.js')
       await pagefind.init()
@@ -57,8 +62,10 @@ export default function SearchPage() {
       return pagefind
     } catch {
       console.warn('Pagefind konnte nicht geladen werden (vermutlich dev-Modus)')
+      return null
+    } finally {
+      loadingRef.current = false
     }
-    return null
   }, [pagefindLoaded])
 
   const handleSearch = useCallback(
@@ -79,10 +86,18 @@ export default function SearchPage() {
         }
 
         const search = await pf.search(trimmed)
-        const loaded = await Promise.all(search.results.map((r: PagefindSearchResult) => r.data()))
-        const validResults = loaded.filter(
-          (r) => typeof r.url === 'string' && r.url.length > 0
+        const settled = await Promise.allSettled(
+          search.results.map((r: PagefindSearchResult) => r.data())
         )
+        const validResults: PagefindResultData[] = []
+        for (const s of settled) {
+          if (s.status === 'fulfilled' && typeof s.value?.url === 'string' && s.value.url.length > 0) {
+            // Pagefind 从 .html 文件索引，生成的 URL 缺少尾部斜杠，
+            // 但 next.config 配置了 trailingSlash: true，需要补齐
+            const url = s.value.url.endsWith('/') ? s.value.url : `${s.value.url}/`
+            validResults.push({ ...s.value, url })
+          }
+        }
         setResults(validResults)
       } catch (err) {
         console.error('Suche fehlgeschlagen:', err)
