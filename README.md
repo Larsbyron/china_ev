@@ -10,7 +10,7 @@ Ein automatisiertes Nachrichtenportal für deutsche Auto-Enthusiasten mit den ne
 
 - **Chinesische Primärquellen** — Electrek, CnEVPost und weitere
 - **KI-Übersetzung** — DeepSeek API übersetzt Artikel ins Deutsche
-- **Modernes Design** — Next.js 15 Static Export mit Dark-First Theme
+- **Modernes Design** — Next.js 15 mit Dark-First Theme
 - **Volltextsuche** — Pagefind für client-side Suche
 - **EV-Daten** — Recharts Diagramme für Reichweite, Preise, Batterie
 - **Wöchentliche Kuratierung** — Top 5 chinesische E-Autos jede Woche
@@ -21,7 +21,7 @@ Ein automatisiertes Nachrichtenportal für deutsche Auto-Enthusiasten mit den ne
 
 ## Tech Stack
 
-- **Framework:** Next.js 15 (Static Export)
+- **Framework:** Next.js 15 (ISR via `revalidate`, Vercel-hosted — kein Static Export)
 - **Styling:** CSS Modules + CSS Custom Properties
 - **Charts:** Recharts
 - **Search:** Pagefind
@@ -76,7 +76,7 @@ src/
 
 ### Vercel Deployment
 Automatisch via GitHub Push. Benötigt:
-- Vercel Projekt mit `outputDirectory: "out"`
+- Vercel Projekt mit Next.js Framework-Preset (kein `outputDirectory` nötig)
 - Deployment Protection deaktiviert
 
 ## Lizenz

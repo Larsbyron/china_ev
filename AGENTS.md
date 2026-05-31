@@ -6,7 +6,7 @@ Automated blog for German car enthusiasts featuring the latest Chinese EV news, 
 
 ## Tech Stack
 
-- **Framework:** Next.js 15 (Static Export, `output: 'export'`)
+- **Framework:** Next.js 15 (ISR via `export const revalidate` — Vercel-hosted, not static export)
 - **Styling:** CSS Modules + CSS Custom Properties, dark-first theme
 - **Charts:** Recharts (client-side only)
 - **Search:** Pagefind (post-build indexing)
@@ -64,7 +64,7 @@ npm run lint         # ESLint
 
 ### Vercel
 - Auto-deploys from `main` on push
-- `outputDirectory: "out"` in vercel.json
+- Next.js framework preset (no `outputDirectory`); `vercel.json` only sets `ignoreCommand` + security headers
 - Deployment Protection must be disabled for public access
 
 ## Web Scraping Routing (via Scrapling MCP)

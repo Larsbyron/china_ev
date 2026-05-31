@@ -60,7 +60,7 @@ npm run lint         # ESLint
 
 ### Vercel
 - Auto-deploys from `main` on push
-- `outputDirectory: "out"` in vercel.json
+- Next.js framework preset (no `outputDirectory`); `vercel.json` only sets `ignoreCommand` (`vercel-ignore-build.sh` skips builds for log-only commits) + security headers
 - Deployment Protection must be disabled for public access
 
 ## Web Scraping Routing (via Scrapling MCP)

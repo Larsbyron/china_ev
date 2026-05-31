@@ -33,7 +33,7 @@ Updated after Phase 1.5 implementation (2026-04-26).
 
 ### Future — Content & Features
 16. **Newsletter form backend** — NewsletterForm renders but submissions go nowhere. Need email service (ConvertKit, Mailchimp) or remove the form. Depends on choosing a provider. (Phase 6)
-17. **Image optimization strategy** — `unoptimized: true` in next.config.ts means no Next.js image optimization. External article images load at full size. Options: image CDN (Cloudinary, imgix) or build-time sharp processing. Blocked by static export constraint.
+17. **Image optimization strategy** — `unoptimized: true` in next.config.ts means no Next.js image optimization. External article images load at full size. Options: image CDN (Cloudinary, imgix) or build-time sharp processing. Note: the app is ISR (not static export), so dropping `unoptimized: true` would re-enable Next.js optimization for local `/images/` — remote images still need a loader/CDN.
 18. **Content index for getAllArticles()** — Synchronous filesystem reads don't scale past ~500 articles. Build-time JSON manifest would help. Not urgent at current scale.
 
 ## Completed
