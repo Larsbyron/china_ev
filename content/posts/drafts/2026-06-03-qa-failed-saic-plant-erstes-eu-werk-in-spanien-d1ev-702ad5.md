@@ -1,13 +1,13 @@
 ---
 title: "[QA FAILED] SAIC plant erstes EU-Werk in Spanien"
-date: 2026-06-03T14:24:15.520Z
-description: "SAIC Motor baut in Galicien (Nordspanien) ein Werk für Elektroautos. Ab 2028 sollen dort MG-Modelle vom Band laufen. Investition: rund 200 Mio. €."
+date: 2026-06-03T20:49:57.114Z
+description: "SAIC Motor baut für rund 200 Mio. € ein Elektroauto-Werk im spanischen Ferrol. Ab 2028 sollen dort Fahrzeuge für den europäischen Markt produziert werden – auch MG-Modelle."
 source: "D1EV"
 image: "/images/qa-failed-saic-plant-erstes-eu-werk-in-spanien-d1ev-702ad5.webp"
 category: "news"
 brand: "SAIC"
-brands: ["SAIC Motor", "MG"]
-tags: ["SAIC", "Zoll", "Elektroauto", "Marktanteil"]
+brands: ["SAIC", "MG", "Chery"]
+tags: ["SAIC", "Zoll", "Elektroauto", "Hybrid"]
 draft: true
 original_url: "https://www.d1ev.com/news/qiye/301659"
 read_time_minutes: 2
@@ -17,22 +17,22 @@ marketRelevance: "global_industry"
 
 # [QA FAILED] SAIC plant erstes EU-Werk in Spanien
 
-SAIC Motor (上汽集团), Mutterkonzern der europäischen Erfolgsmarke MG, plant den Bau seines ersten EU-Produktionswerks in der nordwestspanischen Region Galicien. Die Anlage soll künftig Fahrzeuge mit elektrischem Antrieb fertigen und wird am Hafen von Ferrol entstehen. Die galicische Regionalregierung hat das Projekt als strategisch eingestuft; die Anfangsinvestition beläuft sich auf rund 200 Mio. € (ca. 1,56 Mrd. Yuan*). Noch steht die Genehmigung der spanischen Zentralregierung für die ausländische Direktinvestition aus.
+Der chinesische Automobilkonzern SAIC Motor (上汽集团) treibt seine Europa-Offensive voran und plant den Bau seines ersten Werks in der Europäischen Union. Wie die Regionalregierung der spanischen Autonomen Gemeinschaft Galicien am 2. Juni 2026 mitteilte, soll die Produktionsstätte im Hafen von Ferrol entstehen. Das Projekt umfasst neben der Fahrzeugmontage auch einen Logistikknotenpunkt.
 
-## Bau ab 2027, Produktion 2028
+Laut dem galicischen Regionalpräsidenten Alfonso Rueda hat die lokale Regierung das Vorhaben als strategisches Projekt eingestuft. Die anfängliche Investition beträgt rund 200 Millionen Euro (ca. 1,56 Milliarden Yuan). Der Bau könnte im kommenden Jahr beginnen, sobald alle erforderlichen Genehmigungen – insbesondere die Zustimmung der spanischen Zentralregierung für ausländische Direktinvestitionen – vorliegen.
 
-Sobald alle behördlichen Hürden genommen sind, soll der Bau im kommenden Jahr beginnen, sodass die Produktion 2028 anlaufen kann. In der ersten Ausbaustufe entstehen rund 1.000 direkte Arbeitsplätze und zahlreiche weitere indirekte Stellen. Ein Großteil der Komponenten soll lokal bezogen werden. Nach Abschluss der zweiten Phase ist eine Jahreskapazität von 120.000 Fahrzeugen vorgesehen. Parallel ist ein Logistikzentrum am Standort geplant.
+## Produktion ab 2028
 
-## SAIC vertieft Europa-Lokalisierung
+Die Fertigung soll 2028 anlaufen. In der ersten Ausbauphase entstehen etwa 1.000 direkte Arbeitsplätze sowie zahlreiche indirekte Stellen. Das Werk wird in hohem Maße lokal produzierte Komponenten nutzen. Nach Abschluss der zweiten Ausbaustufe ist eine Jahreskapazität von 120.000 Fahrzeugen geplant.
 
-SAIC ist mit der Marke MG bereits in vielen europäischen Ländern präsent, darunter auch in Deutschland. Der Schritt in die lokale Fertigung ist Teil einer Strategie, um Zollrisiken zu mindern und die Lieferkette zu verkürzen. Neben SAIC baut auch Chery (奇瑞) sein Europa-Engagement in Spanien aus: Gemeinsam mit dem spanischen Hersteller EBRO entsteht in Barcelona eine Fertigung in einer ehemaligen Nissan-Fabrik. Das Joint Venture strebt bis 2029 eine Jahreskapazität von 150.000 Fahrzeugen an.
+SAIC Motor ist Mutterkonzern der in Europa bereits etablierten Marke MG (ehemals Morris Garages). MG fährt hier vor allem mit Elektro- und Hybridmodellen Erfolge. Der Fabrikbau in Spanien ist ein zentraler Schritt, um die europäische Lieferkette zu lokalisieren und Zollrisiken zu mindern.
 
-Spanien gehört zu den größten Automobilproduzenten Europas. Chinesische Hersteller gewinnen dort dank aggressiver Preispolitik zunehmend Marktanteile – auch bedingt durch den globalen Preiskampf unter den Elektroauto-Herstellern.
+## Weitere chinesische Hersteller in Spanien
 
-*Hinweis: Die Umrechnung basiert auf der im Original genannten Angabe (1 € ≈ 7,8 Yuan).*
+Spanien mit seiner starken Automobilindustrie zieht zunehmend chinesische Hersteller an. So plant auch Chery (奇瑞) gemeinsam mit dem spanischen Partner EBRO ein Joint Venture in Barcelona – am Standort des ehemaligen Nissan-Werks. Die Produktion soll Ende 2026 oder im ersten Quartal 2027 starten. Bis 2029 peilt das Joint Venture eine Jahreskapazität von 150.000 Einheiten an.
+
+Derzeit verschärft sich der Wettbewerb auf dem weltweiten Elektroautomarkt, nicht zuletzt durch aggressive Preispolitik chinesischer Anbieter. SAIC und andere setzen daher auf lokale Fertigung in Europa, um flexibler auf Marktentwicklungen reagieren zu können.
 
 ---
 
-## In Deutschland
-
-SAIC ist mit der Marke MG bereits in Deutschland vertreten – der Fokus liegt aktuell auf Elektro-Kompakt-SUVs wie dem MG4 und dem MG ZS EV. Das geplante Werk in Spanien könnte künftig auch Fahrzeuge für den deutschen Markt liefern. Ein konkreter Termin für den Marktstart zusätzlicher Modelle steht noch nicht fest.
+**MG** (zur SAIC-Gruppe gehörend) ist in Deutschland und ganz Europa bereits als Automarke erhältlich. Das geplante Werk in Spanien soll die Produktion von MG-Modellen für den europäischen Markt lokalisieren und die Abhängigkeit von Importen verringern.
