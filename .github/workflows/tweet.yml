@@ -4,8 +4,6 @@ name: Tweet Drip
 # scripts/tweet-latest.ts. Runs every hour on the :15 to stay clear of the
 # Daily Pipeline schedule at :00.
 on:
-  schedule:
-    - cron: '15 * * * *'
   workflow_dispatch:
 
 concurrency:
