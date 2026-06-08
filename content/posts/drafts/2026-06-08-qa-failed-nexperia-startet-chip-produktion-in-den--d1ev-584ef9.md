@@ -1,7 +1,7 @@
 ---
 title: "[QA FAILED] Nexperia startet Chip-Produktion in den USA"
-date: 2026-06-08T14:08:08.727Z
-description: "Nexperia fertigt erstmals Chips in den USA – in Kooperation mit Polar Semiconductor in Minnesota. Die Bauteile werden unter anderem in Fahrzeugen verbaut. Hintergrund sind Spannungen mit der chinesischen Muttergesellschaft."
+date: 2026-06-08T20:08:00.692Z
+description: "Der niederländische Chip-Hersteller Nexperia produziert erstmals in den USA. Die Kooperation mit Polar Semiconductor sichert die Lieferkette – Nexperia-Chips stecken in Bremsen, Fensterhebern von Nissan, Honda und Bosch."
 source: "D1EV"
 image: "/images/qa-failed-nexperia-startet-chip-produktion-in-den-d1ev-584ef9.webp"
 category: "news"
@@ -17,26 +17,21 @@ marketRelevance: "global_industry"
 
 # [QA FAILED] Nexperia startet Chip-Produktion in den USA
 
-Der niederländische Chip-Hersteller Nexperia (安世半导体) hat eine Partnerschaft mit Polar Semiconductor geschlossen. Erstmals werden damit Chips in den USA produziert – in der Fabrik von Polar in Bloomington, Minnesota. Gefertigt werden neue Metall-Oxid-Halbleiter-Feldeffekttransistoren (MOSFETs), die in digitalen Schaltungen zum Schalten oder Verstärken elektronischer Signale dienen.
+Der niederländische Chip-Hersteller Nexperia (安世半导体) baut seine globale Präsenz aus: Erstmals wird das Unternehmen in den USA eigene Halbleiter fertigen. Dafür hat Nexperia eine Partnerschaft mit der US-amerikanischen Foundry Polar Semiconductor geschlossen. In deren Werk in Bloomington, Minnesota, sollen künftig MOSFETs (Metall-Oxid-Halbleiter-Feldeffekttransistoren) produziert werden – zentrale Schaltelemente für digitale Schaltungen.
 
-## Produktionsausbau in den USA
+## Strategische Partnerschaft für stabile Versorgung
 
-Nexperias Interims-CEO Stefan Tilger erklärte: „Diese Zusammenarbeit ist ein wichtiger Schritt zur Optimierung unserer langfristigen Produktions- und Lieferkettenstrategie. Durch die enge Kooperation mit Polar Semiconductor sichern wir uns stabile Kapazitäten und schaffen eine belastbare, zuverlässige Versorgung für unsere Kunden." Das Unternehmen unterhält bereits mehrere Büros in den USA sowie ein Technologiezentrum in Dallas, Texas.
+Nexperias Interims-CEO Stefan Tilger erklärte: „Diese Zusammenarbeit ist ein wichtiger Schritt, um unsere langfristige Produktions- und Lieferkettenstrategie zu vervollständigen. In enger Kooperation mit Polar Semiconductor sichern wir uns stabile Kapazitäten und schaffen eine belastbare, krisenfeste Versorgung für unsere Kunden.“ Bisher unterhielt Nexperia in den USA nur Vertriebsbüros und ein Technologiezentrum in Dallas. Die Wafer-Fertigung lag bislang in Deutschland und Großbritannien, während ein Großteil der Endmontage und des Testens in China erfolgt.
 
-Bislang lag der Schwerpunkt der Wafer-Produktion in Deutschland und Großbritannien. Ein Großteil der Endfertigung und des Testings für die weltweite Auslieferung erfolgt jedoch in China.
+## Geopolitische Spannungen belasten Lieferkette
 
-## Konflikt mit der chinesischen Muttergesellschaft
+Nexperia hat seinen Hauptsitz in den Niederlanden, ist aber eine Tochter des chinesischen Mischkonzerns Wingtech (闻泰科技). Im September 2024 stellte die niederländische Regierung das Unternehmen unter Zwangsverwaltung – offiziell wegen Bedenken zum Schutz geistigen Eigentums. China reagierte darauf mit einem Exportstopp für fertige Nexperia-Chips. Die Blockade betrifft vor allem einfache, aber massenhaft verbaute Chips, die in Fahrzeugsystemen wie Bremsen und elektrischen Fensterhebern zum Einsatz kommen. Der Lieferengpass hat bereits zu Produktionskürzungen bei Nissan und Honda geführt, auch Bosch musste die Fertigung in einigen Werken drosseln.
 
-Nexperia mit Hauptsitz in den Niederlanden gehört mehrheitlich zum chinesischen Konzern Wingtech (闻泰科技). Ende September 2024 entzog die niederländische Regierung Nexperia die Kontrolle mit Verweis auf den Schutz geistigen Eigentums. Als Reaktion stoppte China den Export fertiger Nexperia-Chips. Die Fronten zwischen dem niederländischen Unternehmen und der chinesischen Mutter sind weiterhin verhärtet.
+## Chinesischer Arm rüstet sich für Eigenständigkeit
 
-Die in Nexperias Werk in Dongguan (China) produzierten Chips werden unter anderem in Fahrzeugbauteilen wie Bremsen, elektrischen Fensterhebern und anderen Steuergeräten eingesetzt. Lieferengpässe dieser vergleichsweise günstigen Grundbauteile hatten in der Vergangenheit bereits zu Produktionskürzungen bei Nissan und Honda geführt, auch der deutsche Zulieferer Bosch musste Kapazitäten in einigen Werken reduzieren.
-
-## Eigenständigkeit der China-Aktivitäten
-
-Unterdessen bemüht sich die chinesische Seite um Verselbstständigung. Wingtech-Chef Yang Mu erklärte auf einer Veranstaltung in Shanghai, die eigenständige Unternehmensstruktur von Nexperia China sei weitgehend fertiggestellt. Das chinesische Management- und Entwicklungsteam sei lokal verankert und treffe operative Entscheidungen eigenständig. Zudem habe man Kooperationen mit mehreren heimischen Zulieferern geschlossen, wie Reuters berichtet.
+Die Fronten zwischen Nexperia und seiner chinesischen Mutter verhärten sich. Wingtech-Chef Yang Mu (杨沐) erklärte auf einer Veranstaltung in Shanghai, der chinesische Geschäftsbereich von Nexperia sei nun organisatorisch eigenständig aufgestellt. Das Führungs- und Entwicklungsteam agiere lokal und treffe eigene Entscheidungen. Man habe bereits mit mehreren chinesischen Zulieferern Verträge geschlossen, um die Versorgung unabhängig von der niederländischen Zentrale zu gestalten.
 
 ---
 
 ## In Deutschland
-
-Nexperia ist ein niederländischer Halbleiterhersteller mit Produktionsstandorten auch in Deutschland. Die Expansion in die USA zielt auf die Sicherung globaler Lieferketten ab – insbesondere für die Automobilindustrie, die auf stabile Chip-Lieferungen angewiesen ist.
+Nexperia ist ein etablierter Zulieferer der deutschen Automobilindustrie. Das Unternehmen betreibt Wafer-Fabriken in Deutschland (Hamburg) und Großbritannien. Die neue US-Produktion ergänzt die globale Fertigungsstrategie – für deutsche Abnehmer wie Bosch bleibt die Versorgung vorerst angespannt.
