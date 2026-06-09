@@ -4,11 +4,15 @@ import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { TOPICS } from '@/lib/topics'
 import { getArticlesByTopic } from '@/lib/articles'
+import { canonicalUrl } from '@/lib/site'
 import styles from './page.module.css'
 
 export const metadata: Metadata = {
   title: 'Themen — China EV News',
   description: 'Alle Themenbereiche: Modelle, Preise, Markt, Politik, Batterie, Software, Industrie und Unternehmen.',
+  alternates: {
+    canonical: canonicalUrl('/themen/'),
+  },
 }
 
 export const revalidate = 600

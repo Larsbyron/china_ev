@@ -22,6 +22,7 @@ import {
   HOMEPAGE_ARTICLE_TARGET,
   DEUTSCHLAND_SHELF_COUNT,
 } from '@/lib/ranking-config'
+import { canonicalUrl } from '@/lib/site'
 import styles from './page.module.css'
 
 export const revalidate = 600
@@ -29,6 +30,9 @@ export const revalidate = 600
 export const metadata: Metadata = {
   title: 'E-AUTOS | China EV News auf Deutsch',
   description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng und weiteren Marken.',
+  alternates: {
+    canonical: canonicalUrl('/'),
+  },
 }
 
 // Shelf grid is 4 columns on desktop (2 / 1 on smaller screens). The "Heute

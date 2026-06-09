@@ -3,11 +3,15 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { getAllArticles, formatDate } from '@/lib/articles'
+import { canonicalUrl } from '@/lib/site'
 import styles from './page.module.css'
 
 export const metadata: Metadata = {
   title: 'Top 5 diese Woche',
   description: 'Die kuratierten Top 5 China-EV-News der Woche — handverlesen und kommentiert.',
+  alternates: {
+    canonical: canonicalUrl('/weekly/'),
+  },
 }
 
 export default function WeeklyPage() {

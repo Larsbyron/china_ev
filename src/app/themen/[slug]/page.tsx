@@ -6,6 +6,7 @@ import ArticleCard from '@/components/ArticleCard'
 import { TOPICS, TOPIC_BY_SLUG, isValidTopicSlug } from '@/lib/topics'
 import { getArticlesByTopic } from '@/lib/articles'
 import { MIN_SHELF_ARTICLES } from '@/lib/ranking-config'
+import { canonicalUrl } from '@/lib/site'
 import styles from './page.module.css'
 
 interface Props {
@@ -23,6 +24,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${topic.label} — China EV News`,
     description: topic.description,
+    alternates: {
+      canonical: canonicalUrl(`/themen/${slug}/`),
+    },
   }
 }
 

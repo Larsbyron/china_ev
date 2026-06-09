@@ -1,5 +1,18 @@
 {
   "ignoreCommand": "bash vercel-ignore-build.sh",
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.china-autonews.de"
+        }
+      ],
+      "destination": "https://china-autonews.de/:path*",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",

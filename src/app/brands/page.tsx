@@ -3,11 +3,15 @@ import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import BrandCard from '@/components/BrandCard'
 import { getAllBrands, getArticlesByBrand } from '@/lib/articles'
+import { canonicalUrl } from '@/lib/site'
 import styles from './page.module.css'
 
 export const metadata: Metadata = {
   title: 'Marken',
   description: 'Alle Marken im Überblick — chinesische EV-Hersteller wie BYD, NIO, XPeng und internationale Marken wie VW, Audi und Mercedes-Benz.',
+  alternates: {
+    canonical: canonicalUrl('/brands/'),
+  },
 }
 
 export default function BrandsPage() {

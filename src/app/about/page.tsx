@@ -2,11 +2,15 @@ import type { Metadata } from 'next'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { AUTHOR } from '@/lib/author'
+import { canonicalUrl } from '@/lib/site'
 import styles from './about.module.css'
 
 export const metadata: Metadata = {
   title: 'Über E-AUTOS',
   description: 'E-AUTOS ist die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng und weiteren Marken.',
+  alternates: {
+    canonical: canonicalUrl('/about/'),
+  },
 }
 
 export default function AboutPage() {

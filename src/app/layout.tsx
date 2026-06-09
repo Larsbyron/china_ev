@@ -3,6 +3,7 @@ import { Inter, JetBrains_Mono } from 'next/font/google'
 import './global.css'
 import { Analytics } from '@vercel/analytics/react'
 import ThemeProvider from '@/components/ThemeProvider'
+import { SITE_URL } from '@/lib/site'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -17,7 +18,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de'),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: 'E-AUTOS | China EV News auf Deutsch',
     template: '%s | E-AUTOS',
@@ -28,7 +29,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'de_DE',
-    url: process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de',
+    url: SITE_URL,
     siteName: 'E-AUTOS',
     title: 'E-AUTOS | China EV News auf Deutsch',
     description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News.',
@@ -75,7 +76,7 @@ export default function RootLayout({
               '@context': 'https://schema.org',
               '@type': 'WebSite',
               name: 'E-AUTOS',
-              url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim(),
+              url: SITE_URL,
               description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng und weiteren Marken.',
               inLanguage: 'de',
             }),
@@ -89,10 +90,10 @@ export default function RootLayout({
               '@context': 'https://schema.org',
               '@type': 'NewsMediaOrganization',
               name: 'E-AUTOS',
-              url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim(),
+              url: SITE_URL,
               logo: {
                 '@type': 'ImageObject',
-                url: `${(process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()}/logo.png`,
+                url: `${SITE_URL}/logo.png`,
                 width: 336,
                 height: 112,
               },

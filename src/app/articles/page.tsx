@@ -3,11 +3,15 @@ import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import ArticlesListing from '@/components/ArticlesListing'
 import { getAllArticles } from '@/lib/articles'
+import { canonicalUrl } from '@/lib/site'
 import styles from './page.module.css'
 
 export const metadata: Metadata = {
   title: 'Alle Artikel | E-AUTOS',
   description: 'Alle Artikel zu chinesischen E-Autos auf Deutsch. Nachrichten, Tests, Vergleiche und mehr.',
+  alternates: {
+    canonical: canonicalUrl('/articles/'),
+  },
 }
 
 function getAllTags(): string[] {

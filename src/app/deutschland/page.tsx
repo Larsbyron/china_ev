@@ -4,11 +4,15 @@ import SiteFooter from '@/components/SiteFooter'
 import ArticleCard from '@/components/ArticleCard'
 import StatusBadge from '@/components/StatusBadge'
 import { getDeutschlandArticles, getArticlesByMarketRelevance } from '@/lib/articles'
+import { canonicalUrl } from '@/lib/site'
 import styles from './page.module.css'
 
 export const metadata: Metadata = {
   title: 'In Deutschland — China EV News',
   description: 'Chinesische Elektroautos, die in Deutschland erhältlich sind oder kommen — BYD, NIO, MG und mehr.',
+  alternates: {
+    canonical: canonicalUrl('/deutschland/'),
+  },
 }
 
 export const revalidate = 600

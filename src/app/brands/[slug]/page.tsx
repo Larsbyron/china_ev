@@ -5,6 +5,7 @@ import SiteFooter from '@/components/SiteFooter'
 import ArticleCard from '@/components/ArticleCard'
 import ArticleListItem from '@/components/ArticleListItem'
 import { getAllBrands, getArticlesByBrand, getBrandBySlug } from '@/lib/articles'
+import { canonicalUrl } from '@/lib/site'
 import styles from './page.module.css'
 
 export async function generateStaticParams() {
@@ -22,6 +23,9 @@ export async function generateMetadata({
   return {
     title: `${name} — E-AUTOS`,
     description: `Alle ${name}-Artikel auf E-AUTOS — Nachrichten, Modelle und Neuheiten.`,
+    alternates: {
+      canonical: canonicalUrl(`/brands/${slug}/`),
+    },
   }
 }
 

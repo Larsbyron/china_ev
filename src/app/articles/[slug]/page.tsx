@@ -21,6 +21,7 @@ import { AUTHOR } from '@/lib/author'
 import FallbackImage from '@/components/FallbackImage'
 import StatusBadge from '@/components/StatusBadge'
 import { buildAbsoluteImageUrl } from '@/lib/images'
+import { SITE_URL, canonicalUrl } from '@/lib/site'
 import styles from './page.module.css'
 
 interface ArticlePageProps {
@@ -37,13 +38,13 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
   const { slug } = await params
   const article = await getArticleBySlug(slug)
-  const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()
+  const siteUrl = SITE_URL
 
   if (!article) {
     return { title: 'Artikel nicht gefunden' }
   }
 
-  const articleUrl = `${siteUrl}/articles/${slug}/`
+  const articleUrl = canonicalUrl(`/articles/${slug}/`)
 
   return {
     title: article.title,
@@ -81,7 +82,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     notFound()
   }
 
-  const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || 'https://china-autonews.de').trim()
+  const siteUrl = SITE_URL
 
   // Related articles: same brand + same topic + same DE status (E2)
   const seenSlugs = new Set([slug])
