@@ -1,12 +1,12 @@
 ---
 title: "[QA FAILED] Infineon: Neue Gate-Treiber-ICs für E-Auto-Wechselrichter"
-date: 2026-06-13T06:12:59.670Z
-description: "Infineon bringt neue EiceDRIVER™-Gate-Treiber-ICs für E-Auto-Wechselrichter. Sie unterstützen IGBT und SiC, reduzieren externe Bauteile und senken die Stücklisten-Kosten."
+date: 2026-06-13T19:13:47.819Z
+description: "Infineon stellt die EiceDRIVER-1EDI3040AS/-1EDI3041AS vor. Die ICs unterstützen IGBT und SiC-MOSFET, steigern die Leistung und reduzieren die Anzahl externer Bauteile in Traktionswechselrichtern."
 source: "D1EV"
 image: "/images/qa-failed-infineon-neue-gate-treiber-ics-fr-e-auto-d1ev-844d87.webp"
 category: "news"
 
-brands: ["Infineon"]
+brands: ["Infineon Technologies"]
 tags: []
 draft: true
 original_url: "https://www.d1ev.com/news/shichang/302953"
@@ -17,16 +17,12 @@ marketRelevance: "global_industry"
 
 # [QA FAILED] Infineon: Neue Gate-Treiber-ICs für E-Auto-Wechselrichter
 
-Infineon Technologies (Infineon), der deutsche Halbleiterkonzern, hat mit den Bausteinen EiceDRIVER™ 1EDI3040AS und 1EDI3041AS eine neue Familie isolierter Gate-Treiber-ICs für Traktionswechselrichter in reinen Elektrofahrzeugen (BEV) vorgestellt. Die Treiber-ICs sind sowohl für IGBT- als auch für SiC-MOSFET-Leistungshalbleiter ausgelegt und sollen im Vergleich zu marktüblichen Lösungen eine höhere nutzbare Leistung bei gegebener Leistungsstufe bieten.
+Infineon Technologies (英飞凌) hat die neuen EiceDRIVER™-Gate-Treiber-ICs 1EDI3040AS und 1EDI3041AS vorgestellt. Die Bausteine sind für den Einsatz in Traktionswechselrichtern reiner Elektrofahrzeuge (BEV) optimiert und unterstützen sowohl IGBT- als auch SiC-MOSFET-Leistungshalbleiter.
 
-## Kompakte Integration senkt Kosten
+Laut Infineon ermöglichen die ICs im Vergleich zu marktüblichen Lösungen eine höhere nutzbare Leistung bei gegebener Leistungsstufe. Zudem integrieren sie umfangreiche Funktionen in einem einzigen Baustein, sodass OEMs und Tier-1-Zulieferer die Anzahl externer Komponenten reduzieren und die Materialkosten (BOM) der Wechselrichter-Steuerelektronik senken können.
 
-Die neuen ICs integrieren zahlreiche Schutz- und Diagnosefunktionen in einem einzigen Gehäuse. Dadurch können OEMs (Erstausrüster) und Tier-1-Zulieferer die Anzahl externer Bauteile reduzieren und die Materialkosten (BOM – Bill of Materials) der Wechselrichter-Steuerelektronik senken. Infineon zielt damit auf die wachsende Nachfrage nach hocheffizienten und kompakten Traktionswechselrichtern in der Elektromobilität ab.
-
-## Verfügbarkeit
-
-Die Muster der EiceDRIVER™ 1EDI3040AS und 1EDI3041AS sind ab sofort verfügbar. Eine detaillierte technische Dokumentation wird auf der Infineon-Webseite bereitgestellt.
+Die EiceDRIVER-Serie richtet sich an Hersteller von Elektroantrieben, die sowohl auf Silizium-IGBT als auch auf die effizientere Siliziumcarbid-Technologie setzen. Durch die flexible Treiberauslegung lassen sich Wechselrichterplattformen vereinheitlichen, was Entwicklungszeit und Systemkosten spart.
 
 ---
 
-Infineon ist ein deutscher Halbleiterhersteller mit Hauptsitz in Neubiberg bei München. Die neuen EiceDRIVER™-ICs sind ab sofort weltweit verfügbar, auch in Deutschland.
+Die Technologie ist nicht an ein bestimmtes Fahrzeugmodell gebunden und wird global angeboten. Deutsche Automobilhersteller und Zulieferer können die ICs direkt beziehen.
