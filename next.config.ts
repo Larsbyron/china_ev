@@ -5,6 +5,14 @@ const nextConfig: NextConfig = {
     unoptimized: true
   },
   trailingSlash: true,
+  experimental: {
+    outputFileTracingExcludes: {
+      '*': [
+        'content/posts/drafts/**',
+        'node_modules/@img/sharp-libvips-linuxmusl-x64/**',
+      ],
+    },
+  },
 }
 
 export default nextConfig
