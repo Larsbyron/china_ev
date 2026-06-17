@@ -40,6 +40,9 @@ npm-debug.log*
 processed_articles.json
 .runlog.jsonl
 
+# Draft articles (translation failures) — only needed during CI run, not persisted
+content/posts/drafts/
+
 # Pagefind search index — regenerated every build (next build && pagefind ...)
 public/pagefind/
 
