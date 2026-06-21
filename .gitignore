@@ -44,9 +44,13 @@ processed_articles.json
 content/posts/drafts/
 
 # Failed-draft images must never be committed (the pipeline no longer writes them,
-# this is a guard against regressions): QA-failed / translation-failed leftovers
+# this is a guard against regressions). One pattern per failure title prefix in
+# saveArticle's draft paths: [QA FAILED] / [TRANSLATION FAILED] /
+# [EDITORIAL REJECTED] / [TRANSLATION ERROR].
 public/images/qa-failed-*
 public/images/translation-failed-*
+public/images/editorial-rejected-*
+public/images/translation-error-*
 
 # Pagefind search index — regenerated every build (next build && pagefind ...)
 public/pagefind/
