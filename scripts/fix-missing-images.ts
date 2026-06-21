@@ -33,17 +33,22 @@ function parseFrontmatter(content: string): { brand: string | null; title: strin
   const brandMatch = content.match(/^brand:\s*"?([^"\n]+)"?/m)
   const titleMatch = content.match(/^title:\s*"([^"]+)"/m)
   const imageMatch = content.match(/^image:\s*(.+)$/m)
+  const draftMatch = content.match(/^draft:\s*(true|false)/m)
 
   const brand = brandMatch ? brandMatch[1].trim() : null
   const title = titleMatch ? titleMatch[1].trim() : ''
   const imageRaw = imageMatch ? imageMatch[1].trim().replace(/"/g, '') : ''
+  const isDraft = draftMatch ? draftMatch[1] === 'true' : false
 
   const isHotlink = imageRaw.startsWith('http')
   const isMissing = !imageRaw || imageRaw === '' || imageRaw === 'null' || imageRaw.startsWith('/images/pexels-')
   const isLocalBroken = imageRaw.startsWith('/images/') && !existsSync(resolve(process.cwd(), 'public', imageRaw.slice(1)))
 
+  // Never fetch/generate images for drafts (translation/QA/editorial failures) —
+  // their images would leak into the committed public/images/ dir. Mirrors the
+  // !draft gate in saveArticle.
   // --hotlinks-only mode: only process external URLs; skip missing/null articles
-  const needsImage = HOTLINKS_ONLY ? isHotlink : (isMissing || isHotlink || isLocalBroken)
+  const needsImage = isDraft ? false : (HOTLINKS_ONLY ? isHotlink : (isMissing || isHotlink || isLocalBroken))
 
   return { brand, title, needsImage, currentImage: isHotlink ? imageRaw : '' }
 }
