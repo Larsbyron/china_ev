@@ -295,7 +295,9 @@ read_time_minutes: 4
 
 ## 11. Error Handling
 
-- **Translation fails:** Save to drafts/, retry next day
+- **Translation fails:** Save to drafts/, retry next day (drafts are gitignored and
+  do **not** fetch images — `saveArticle` skips image downloads when `draft === true`,
+  so failed QA/translation/editorial drafts never leak images into `public/images/`)
 - **Scraping fails:** Log error, continue with other sources
 - **Rate limited:** Exponential backoff (1s, 2s, 4s)
 - **Missing content:** Fall back to title-only translation

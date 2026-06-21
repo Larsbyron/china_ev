@@ -12,7 +12,7 @@ Automated blog for German car enthusiasts featuring the latest Chinese EV news, 
 - **Search:** Pagefind (post-build indexing)
 - **Comments:** Giscus (GitHub Discussions)
 - **Hosting:** Vercel (auto-deploy from main)
-- **Tests:** Vitest (174 tests)
+- **Tests:** Vitest (191 tests)
 
 ## Project Structure
 
@@ -48,8 +48,8 @@ prompts, brand glossary, editorial review, quality check) and is orchestrated by
 ```bash
 npm run dev          # Dev server
 npm run build        # Production build (+ Pagefind + RSS)
-npm test             # Run 174 tests
-npm run lint         # ESLint
+npm test             # Run 191 tests
+npm run lint         # ESLint 9 flat config (eslint.config.mjs); CI blocks on errors
 ```
 
 ## Configuration
@@ -66,6 +66,16 @@ npm run lint         # ESLint
 - Auto-deploys from `main` on push
 - Next.js framework preset (no `outputDirectory`); `vercel.json` only sets `ignoreCommand` + security headers
 - Deployment Protection must be disabled for public access
+
+### Serverless function size (250 MB limit — watch this)
+The serverless functions have a 250 MB unzipped cap. Because the app reads `public/`
+and `content/` at runtime via `path.join(process.cwd(), ...)` (`src/lib/articles.ts`,
+`src/lib/markdown.ts`), Next.js traces those whole directories into **every** function,
+so `public/images/` and the published markdown count against the limit.
+- Failed-draft images used to leak here: `saveArticle` now skips image downloads when
+  `draft === true`; `.gitignore` blocks `public/images/{qa-failed,translation-failed,editorial-rejected,translation-error}-*`.
+- On a `function_size_exceeded` deploy, pull the build log (`VERCEL_TOKEN` in `.env`)
+  and read the per-function "All dependencies" size.
 
 ## Web Scraping Routing (via Scrapling MCP)
 

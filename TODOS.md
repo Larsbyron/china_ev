@@ -52,3 +52,16 @@ Updated after Phase 1.5 implementation (2026-04-26).
 - ~~Mobile horizontal scroll from section header overflow~~ — `flex-wrap` on section/shelf headers (`6f1231f`)
 - ~~Article body too wide without QuickFacts sidebar~~ — cap reading column at 720px (`3edc253`)
 - ~~Pagefind index committed to git~~ — gitignored, untracked 714 files; rebuilt every deploy, search verified live (`1d1046c`)
+
+### Session 2026-06-22 — Deploy fix, image-leak root cause, ESLint, CI gate (shipped to prod)
+- ~~Vercel `function_size_exceeded` (251 MB > 250 MB cap)~~ — root cause: `public/` is traced
+  into every serverless function (runtime `process.cwd()/public` reads). Failed-draft images
+  (`qa-failed-*`, `translation-failed-*`, `editorial-rejected-*`) had piled up to ~117 MB.
+- ~~Failed-draft images leaking into committed `public/images/`~~ — `saveArticle` now skips
+  image downloads when `draft === true`; removed ~2,700 leaked images; `.gitignore` guards all
+  4 failure prefixes; `fix-missing-images.ts` also gated on `draft` (`9707bb0`, `01ae522`, `6bfbd7f`)
+- ~~No ESLint config (`next lint` dropped into interactive setup)~~ — added Next 15 flat config
+  (`eslint.config.mjs`, ESLint 9), fixed all 8 errors, `lint` script → `eslint .` (`dbfb073`, `de6e03c`)
+- ~~CI didn't gate on lint~~ — `ci.yml` quality job now runs `npm run lint` (blocks on errors) (`b5d4894`)
+- QA (2026-06-22): homepage, article, themen, search all 200/no errors; article images load;
+  Pagefind returns 1038 results for "BYD". No regressions.

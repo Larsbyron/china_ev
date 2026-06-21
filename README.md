@@ -43,6 +43,9 @@ npm run build
 
 # 4. Tests laufen lassen
 npm test
+
+# 5. Linting (ESLint 9 Flat Config)
+npm run lint
 ```
 
 ## Projektstruktur
