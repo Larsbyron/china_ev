@@ -57,7 +57,7 @@ export default function SearchPage() {
       // @ts-expect-error - external runtime ES module
       const pagefind = await import(/* webpackIgnore: true */ '/pagefind/pagefind.js')
       await pagefind.init()
-      ;(window as any).pagefind = pagefind
+      window.pagefind = pagefind
       setPagefindLoaded(true)
       return pagefind
     } catch {

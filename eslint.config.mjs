@@ -21,6 +21,13 @@ const eslintConfig = [
     ],
   },
   ...compat.extends('next/core-web-vitals', 'next/typescript'),
+  {
+    rules: {
+      // This site serves pre-optimized WebP via plain <img> on purpose
+      // (next.config images.unoptimized = true), so next/image is not used.
+      '@next/next/no-img-element': 'off',
+    },
+  },
 ]
 
 export default eslintConfig

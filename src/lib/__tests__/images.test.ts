@@ -30,7 +30,7 @@ beforeEach(() => {
   vi.clearAllMocks()
   mockMkdir.mockResolvedValue(undefined)
   mockWriteFile.mockResolvedValue(undefined)
-  mockSharp.mockReturnValue(makeSharpChain() as any)
+  mockSharp.mockReturnValue(makeSharpChain() as unknown as ReturnType<typeof sharp>)
 })
 
 afterEach(() => {
@@ -88,7 +88,7 @@ describe('convertToWebP', () => {
   it('calls sharp with correct defaults (1200px wide, quality 80)', async () => {
     const input = Buffer.from('raw-image')
     const chain = makeSharpChain(Buffer.from('webp-out'))
-    mockSharp.mockReturnValue(chain as any)
+    mockSharp.mockReturnValue(chain as unknown as ReturnType<typeof sharp>)
 
     const result = await convertToWebP(input)
 
@@ -100,7 +100,7 @@ describe('convertToWebP', () => {
 
   it('respects custom maxWidth', async () => {
     const chain = makeSharpChain()
-    mockSharp.mockReturnValue(chain as any)
+    mockSharp.mockReturnValue(chain as unknown as ReturnType<typeof sharp>)
 
     await convertToWebP(Buffer.from('img'), { maxWidth: 800 })
     expect(chain.resize).toHaveBeenCalledWith(800, undefined, { withoutEnlargement: true })
@@ -108,7 +108,7 @@ describe('convertToWebP', () => {
 
   it('respects custom quality', async () => {
     const chain = makeSharpChain()
-    mockSharp.mockReturnValue(chain as any)
+    mockSharp.mockReturnValue(chain as unknown as ReturnType<typeof sharp>)
 
     await convertToWebP(Buffer.from('img'), { quality: 60 })
     expect(chain.webp).toHaveBeenCalledWith({ quality: 60 })
@@ -116,7 +116,7 @@ describe('convertToWebP', () => {
 
   it('never upscales images smaller than maxWidth', async () => {
     const chain = makeSharpChain()
-    mockSharp.mockReturnValue(chain as any)
+    mockSharp.mockReturnValue(chain as unknown as ReturnType<typeof sharp>)
 
     await convertToWebP(Buffer.from('small'))
     const [, , resizeOpts] = chain.resize.mock.calls[0]
@@ -210,7 +210,7 @@ describe('downloadAndSaveImage', () => {
       arrayBuffer: vi.fn().mockResolvedValue(raw.buffer.slice(raw.byteOffset, raw.byteOffset + raw.byteLength)),
     }))
     const chain = makeSharpChain(webp)
-    mockSharp.mockReturnValue(chain as any)
+    mockSharp.mockReturnValue(chain as unknown as ReturnType<typeof sharp>)
 
     const result = await downloadAndSaveImage('https://example.com/img.jpg', 'test-article')
     expect(result).toBe('/images/test-article.webp')

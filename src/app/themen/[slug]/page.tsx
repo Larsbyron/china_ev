@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
@@ -49,7 +50,7 @@ export default async function TopicPage({ params }: Props) {
         <div className={styles.container}>
           <header className={styles.pageHeader}>
             <div className={styles.breadcrumb}>
-              <a href="/themen" className={styles.breadcrumbLink}>Themen</a>
+              <Link href="/themen" className={styles.breadcrumbLink}>Themen</Link>
               <span className={styles.breadcrumbSep} aria-hidden="true">›</span>
               <span>{topic.label}</span>
             </div>
