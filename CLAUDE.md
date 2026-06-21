@@ -127,6 +127,12 @@ skill has multi-step workflows, checklists, and quality gates that produce bette
 results than an ad-hoc answer. When in doubt, invoke the skill. A false positive is
 cheaper than a false negative.
 
+**After every /qa run, update the project docs.** Once QA passes, bring the docs in
+line with the current code/behavior before finishing: refresh stale numbers and
+commands (test count, scripts), record what changed, and append a `### Session
+YYYY-MM-DD` entry to TODOS.md. Touch only the docs the changes affect — keep it
+surgical. Docs to check: CLAUDE.md, AGENTS.md, README.md, SPEC.md, TODOS.md.
+
 Key routing rules:
 - Product ideas, "is this worth building", brainstorming → invoke /office-hours
 - Strategy, scope, "think bigger", "what should we build" → invoke /plan-ceo-review
