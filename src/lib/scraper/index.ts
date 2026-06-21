@@ -90,9 +90,12 @@ async function saveArticle(article: Article, draft = false): Promise<string> {
   const date = toISODateString(new Date())
   const readTime = estimateReadTime(article.content)
 
+  // Drafts (translation/QA failures) are never published and get gitignored, but
+  // their images would still land in the committed public/images/ dir and pile up
+  // forever. Skip all image downloads for drafts — keep the remote URL as-is.
   // Download remote image; if unavailable, leave null (logo placeholder shown in UI)
   let imageValue: string | null = article.image || null
-  if (imageValue && imageValue.startsWith('http')) {
+  if (!draft && imageValue && imageValue.startsWith('http')) {
     const localPath = await downloadAndSaveImage(imageValue, slug)
     if (localPath) {
       imageValue = localPath
@@ -104,7 +107,7 @@ async function saveArticle(article: Article, draft = false): Promise<string> {
 
   // Download additional article images and build a gallery markdown block
   let galleryMarkdown = ''
-  if (article.images && article.images.length > 0) {
+  if (!draft && article.images && article.images.length > 0) {
     const localPaths: string[] = []
     for (let i = 0; i < article.images.length; i++) {
       const url = article.images[i]

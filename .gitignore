@@ -43,6 +43,11 @@ processed_articles.json
 # Draft articles (translation failures) — only needed during CI run, not persisted
 content/posts/drafts/
 
+# Failed-draft images must never be committed (the pipeline no longer writes them,
+# this is a guard against regressions): QA-failed / translation-failed leftovers
+public/images/qa-failed-*
+public/images/translation-failed-*
+
 # Pagefind search index — regenerated every build (next build && pagefind ...)
 public/pagefind/
 
