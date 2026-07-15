@@ -13783,3 +13783,51 @@
 {"ts":"2026-07-14T19:13:49.195Z","source":"Sina","title":"[QA FAILED] Fangchengbao: Juni-Absatz steigt um 88 % auf 35.607 Einheiten","action":"draft_qa_failed","translation_ok":true}
 {"ts":"2026-07-14T19:14:07.311Z","source":"Sina","title":"[QA FAILED] VW China: 971.000 Fahrzeuge in H1 2026, 20+ neue E-Modelle","action":"draft_qa_failed","translation_ok":true}
 {"ts":"2026-07-14T19:14:27.776Z","source":"Sina","title":"[QA FAILED] Porsche eröffnet Pop-up-Store in Peking","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:43:45.541Z","source":"OFweek NEV","title":"","action":"error","translation_ok":false}
+{"ts":"2026-07-15T04:44:15.191Z","source":"D1EV","title":"[QA FAILED] Japan plant 10.000 fahrerlose Fahrzeuge bis 2030","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:44:31.678Z","source":"Sina","title":"[QA FAILED] 70 Jahre chinesische Autoindustrie: FAW feiert mit Geely und NIO","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:44:34.204Z","source":"D1EV","title":"[QA FAILED] Xingji Guangnian: Roboterhand für 2.170 € auf der WAIC","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:44:45.672Z","source":"ChooseAuto","title":"BYD Seal 08: Neue Flaggschiff-Limousine ab 25.200 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-07-15T04:44:46.564Z","source":"Autohome NewEnergy","title":"TANK 300L: Ab 33.300 € mit Hybrid und 1.122 km Reichweite","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-07-15T04:45:29.672Z","source":"ChooseAuto","title":"BYD Seal 08: 905-km-Stromer mit 800V ab 25.200 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-07-15T04:45:29.771Z","source":"D1EV","title":"[QA FAILED] Achtung, KI-Test: Bestwert nur 86 Punkte, tiefste je 28","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:45:39.013Z","source":"Autohome NewEnergy","title":"TANK 300L: Länger, stärker, ab 33.300 € in China","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-07-15T04:45:47.780Z","source":"D1EV","title":"[QA FAILED] Neue Kunststoff-Isolierung: Forscher entwickeln Leichtbaumaterial für Autos","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:45:49.237Z","source":"Sina","title":"Fangchengbao verkauft im Juni 35.607 Fahrzeuge","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-07-15T04:45:50.909Z","source":"Sina","title":"Fangchengbao verkauft im Juni 35.607 Fahrzeuge","action":"published","translation_ok":true}
+{"ts":"2026-07-15T04:46:09.316Z","source":"D1EV","title":"[QA FAILED] Chinas E-Autos im Schnitt nur 1,8 Jahre alt – Studie zeigt Diskrepanz","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:46:14.599Z","source":"Sina","title":"[QA FAILED] BYD und Co.: Chinesische Hersteller wagen vorsichtige Preiserhöhungen","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:46:21.186Z","source":"ChooseAuto","title":"BYD Seal 08: 905-km-Limousine ab 25.200 € in China","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-07-15T04:46:23.165Z","source":"ChooseAuto","title":"BYD Seal 08: 905-km-Limousine ab 25.200 € in China","action":"published","translation_ok":true}
+{"ts":"2026-07-15T04:46:25.539Z","source":"Autohome NewEnergy","title":"TANK 300L: Langversion mit bis zu 200 km WLTC-Reichweite","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-07-15T04:46:27.711Z","source":"Autohome NewEnergy","title":"TANK 300L: Langversion mit bis zu 200 km WLTC-Reichweite","action":"published","translation_ok":true}
+{"ts":"2026-07-15T04:46:32.575Z","source":"D1EV","title":"[QA FAILED] BMW iX4: Elektro-Coupé-SUV auf dem Nürburgring gesichtet","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:46:41.701Z","source":"Autohome NewEnergy","title":"[QA FAILED] BMW X5 M60 Erlkönig: 608 PS V8 ab 2027","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:46:47.133Z","source":"ChooseAuto","title":"[QA FAILED] Denza Z: 1600‑PS‑Supersportwagen startet Vorverkauf","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:46:52.223Z","source":"Sina","title":"[QA FAILED] BMW iX3 Neue Klasse: 800 km Reichweite im Test","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:47:06.286Z","source":"ChooseAuto","title":"[QA FAILED] Haval H6L Hi2: 1.5T-Hybrid-SUV ab 8.400 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:47:07.875Z","source":"D1EV","title":"[QA FAILED] Malaysia startet Produktion eigener Graphen-Batterien","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:47:08.688Z","source":"Autohome NewEnergy","title":"[QA FAILED] Lynk & Co 07GT startet als Plug-in-Hybrid ab 21.200 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:47:19.116Z","source":"D1EV","title":"[QA FAILED] Mercedes-Händler verkaufen jetzt humanoide Roboter in China","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:47:31.453Z","source":"Autohome NewEnergy","title":"[QA FAILED] ===TITEL===","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:47:49.175Z","source":"Autohome NewEnergy","title":"[QA FAILED] Polestar 4 SUV: Neue Raumwunder-Variante im September","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:47:52.123Z","source":"ChooseAuto","title":"XPeng X9: Luftfederung fällt bei Hitze aus – Kunden unzufrieden","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-07-15T04:47:57.340Z","source":"Sina","title":"Chery führt Export-Boom: Chinas Autobranche im Wandel","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-07-15T04:48:15.076Z","source":"Autohome NewEnergy","title":"[QA FAILED] VW Nivus: Neue Generation mit T-Roc-Look und Hybrid","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:48:33.585Z","source":"Autohome NewEnergy","title":"[QA FAILED] Hongqi H7 PHEV: Blindbestellung in China gestartet","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:48:47.643Z","source":"Sina","title":"Chery exportiert 70%: Exportboom verändert Chinas Automarkt","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-07-15T04:48:50.214Z","source":"Sina","title":"Chery exportiert 70%: Exportboom verändert Chinas Automarkt","action":"published","translation_ok":true}
+{"ts":"2026-07-15T04:49:12.922Z","source":"ChooseAuto","title":"XPeng X9: Luftfeder-Probleme trotz Facelift – Inverter-Schäden entdeckt","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-07-15T04:49:34.228Z","source":"Sina","title":"Mercedes setzt in China auf Stabilität – Neue Modelle ab Sommer","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-07-15T04:49:35.950Z","source":"Sina","title":"Mercedes setzt in China auf Stabilität – Neue Modelle ab Sommer","action":"published","translation_ok":true}
+{"ts":"2026-07-15T04:50:19.039Z","source":"ChooseAuto","title":"XPeng X9: Luftfederung fällt aus – Kompressor-Überhitzung?","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-07-15T04:50:20.805Z","source":"ChooseAuto","title":"XPeng X9: Luftfederung fällt aus – Kompressor-Überhitzung?","action":"published","translation_ok":true}
+{"ts":"2026-07-15T04:50:38.058Z","source":"Sina","title":"XPeng MONA L03 feiert Weltpremiere am 16. Juli in München","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-07-15T04:51:11.443Z","source":"Sina","title":"XPeng MONA L03: Weltpremiere am 16. Juli in München – Einstieg unter 45.000 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-07-15T04:51:12.541Z","source":"Sina","title":"XPeng MONA L03: Weltpremiere am 16. Juli in München – Einstieg unter 45.000 €","action":"published","translation_ok":true}
+{"ts":"2026-07-15T04:51:32.662Z","source":"ChooseAuto","title":"BYD: Abgerissener E-Motor am Tang – kein Qualitätsmangel","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-07-15T04:51:34.857Z","source":"ChooseAuto","title":"BYD: Abgerissener E-Motor am Tang – kein Qualitätsmangel","action":"published","translation_ok":true}
+{"ts":"2026-07-15T04:51:39.184Z","source":"Sina","title":"[QA FAILED] VW China: 971.000 Einheiten, 20 neue E-Modelle 2026","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:51:52.892Z","source":"ChooseAuto","title":"[QA FAILED] Haval Big Dog PLUS Hybrid: 1.5T + 2810 mm Achsstand vorgestellt","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:52:10.351Z","source":"ChooseAuto","title":"[QA FAILED] Geely Galaxy TT: C-Klasse Elektro-Limousine mit Mode-Partnerschaft","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-07-15T04:52:34.548Z","source":"ChooseAuto","title":"[QA FAILED] Chinas Autoindustrie: Marge von 1,5 % alarmiert Experten","action":"draft_qa_failed","translation_ok":true}
