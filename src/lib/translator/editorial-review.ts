@@ -171,13 +171,19 @@ async function callEditorialAPI(
       }
 
       const data = await response.json()
-      const content = data?.choices?.[0]?.message?.content
+      const message = data?.choices?.[0]?.message
+      const content = message?.content
+      const reasoningContent = message?.reasoning_content
 
-      if (!content || content.trim().length === 0) {
+      // reasoning 模型兜底：content 为空时回退到 reasoning_content
+      const finalContent =
+        content && content.trim().length > 0 ? content : reasoningContent
+
+      if (!finalContent || finalContent.trim().length === 0) {
         throw new Error('Empty response from editorial API')
       }
 
-      return content.trim()
+      return finalContent.trim()
     } catch (err) {
       lastError = err instanceof Error ? err : new Error(String(err))
       if (attempt < delays.length && !signal?.aborted) {

@@ -201,13 +201,20 @@ async function callDeepSeekAPI(
   }
 
   const data = await response.json()
-  const content = data?.choices?.[0]?.message?.content
+  const message = data?.choices?.[0]?.message
+  const content = message?.content
+  const reasoningContent = message?.reasoning_content
 
-  if (!content || content.trim().length === 0) {
+  // deepseek-flash 是 reasoning 模型：偶尔把最终结果放在 reasoning_content，
+  // 此时 content 为空。回退到 reasoning_content 兜底，避免 "Empty response" 失败。
+  const finalContent =
+    content && content.trim().length > 0 ? content : reasoningContent
+
+  if (!finalContent || finalContent.trim().length === 0) {
     throw new Error('Empty response from DeepSeek API')
   }
 
-  return content.trim()
+  return finalContent.trim()
 }
 
 // ============================================================================

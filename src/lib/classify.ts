@@ -123,6 +123,10 @@ export async function classifyArticle(
   }
 
   const data = await response.json()
-  const raw: string = data?.choices?.[0]?.message?.content ?? ''
+  const message = data?.choices?.[0]?.message
+  const messageContent = message?.content ?? ''
+  // deepseek-flash 是 reasoning 模型：content 为空时回退到 reasoning_content 兜底
+  const raw: string =
+    messageContent.trim().length > 0 ? messageContent : (message?.reasoning_content ?? '')
   return parseClassification(raw)
 }
