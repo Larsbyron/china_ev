@@ -15,7 +15,7 @@
 import { isValidTopicSlug, isValidMarketRelevance } from './topics'
 
 const DEEPSEEK_BASE_URL = 'https://api.deepseek.com'
-export const CLASSIFY_MODEL = 'deepseek-v4-flash'
+export const CLASSIFY_MODEL = 'deepseek-flash'
 
 export interface ClassificationResult {
   primaryTopic?: string

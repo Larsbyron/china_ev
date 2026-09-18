@@ -2,7 +2,7 @@
  * DeepSeek Translation Module
  *
  * Translates Chinese articles to German using DeepSeek API (OpenAI-compatible).
- * Model: deepseek-v4-flash
+ * Model: deepseek-flash
  * Rules: SCRAPING-RULES.md (brand glossary, currency, CLTC→WLTP, etc.)
  */
 
@@ -52,7 +52,7 @@ export interface TranslateBatchOptions {
 const DEEPSEEK_BASE_URL = 'https://api.deepseek.com'
 const API_KEY = process.env.DEEPSEEK_API_KEY
 
-const MODEL = 'deepseek-v4-flash'
+const MODEL = 'deepseek-flash'
 const MAX_TOKENS = 8192
 const TEMPERATURE = 0.3
 
