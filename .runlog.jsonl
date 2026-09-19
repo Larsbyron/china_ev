@@ -23322,3 +23322,90 @@
 {"ts":"2026-09-18T23:19:12.790Z","source":"CarNewsChina","title":"ArcFox Alpha T7 ab 17.000 €: 30.000 Bestellungen in 1 Stunde","action":"editorial_revision","translation_ok":true}
 {"ts":"2026-09-18T23:20:01.069Z","source":"CarNewsChina","title":"ArcFox Alpha T7: 30.000 Bestellungen in 60 Minuten","action":"editorial_revision","translation_ok":true}
 {"ts":"2026-09-18T23:20:01.069Z","source":"CarNewsChina","title":"ArcFox Alpha T7: 30.000 Bestellungen in 60 Minuten","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T06:53:53.982Z","source":"D1EV","title":"[QA FAILED] ≤60 chars, marke + value. E.g. \"Leapmotor: Zweitmarke ab 38.400 € geplant\" — hmm. Or \"Le","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:53:57.570Z","source":"OFweek NEV","title":"[QA FAILED] The original text appears garbled (encoding issues). Let me try to decode. The title: \"�","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:53:57.914Z","source":"CarNewsChina","title":"XPeng G9L: Weltpremiere in Paris, ab ca. 31.000 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:54:12.833Z","source":"Autohome NewEnergy","title":"Voyah Dreamer 9: Huawei-MPV ab 57.600 € mit 560 kW","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:54:13.572Z","source":"Sina","title":"XPeng G9L: Großer E-SUV startet ab ca. 29.700 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:54:16.951Z","source":"D1EV","title":"[QA FAILED] BYD plant vier Werke in Europa: 3 Auto- und 1 Batteriewerk","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:54:19.014Z","source":"ChooseAuto","title":"Dongfeng Forthing Xinghai V6: Huawei-ADS ab 12.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:54:39.653Z","source":"OFweek NEV","title":"Li-Auto L9: OTA 9.1 fällt im Fahrassistenz-Test durch","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:54:45.222Z","source":"D1EV","title":"[QA FAILED] Audi klagt gegen Parallelimporte: E5 Sportback aus China","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:54:50.263Z","source":"Sina","title":"XPeng G9L: Globales Fünf-Sitzer-SUV ab ca. 29.700 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:54:52.229Z","source":"CarNewsChina","title":"XPeng G9L: 5,1-Meter-SUV startet ab ca. 31.000 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:55:11.273Z","source":"D1EV","title":"[QA FAILED] Bosch will Umsatz mit Lkw-Technik bis 2035 verdoppeln","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:55:11.761Z","source":"Autohome NewEnergy","title":"Voyah Dreamer 9 startet ab 57.600 € als Luxus-MPV","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:55:21.476Z","source":"ChooseAuto","title":"Xinghai V6: Sechssitzer mit Huawei-ADAS ab 12.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:55:27.479Z","source":"D1EV","title":"[QA FAILED] Gasgoo-CEO: 5 Tage Führungstraining in Shanghai","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:55:31.409Z","source":"CarNewsChina","title":"XPeng G9L: 5,1-Meter-SUV ab 31.000 € für Europa","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:55:31.409Z","source":"CarNewsChina","title":"XPeng G9L: 5,1-Meter-SUV ab 31.000 € für Europa","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T06:55:31.557Z","source":"Sina","title":"XPeng G9L startet ab 29.700 € — Paris-Debüt am 12. Oktober","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:55:31.557Z","source":"Sina","title":"XPeng G9L startet ab 29.700 € — Paris-Debüt am 12. Oktober","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T06:55:36.351Z","source":"OFweek NEV","title":"Li Auto L9 Livis: OTA 9.1.0 fällt auf 71 Punkte","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:55:44.532Z","source":"Sina","title":"[QA FAILED] BYD sponsert Schulfußball: 352 Schulen, 4.000 Talente","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:56:03.629Z","source":"D1EV","title":"Welt-Akkumarkt: CATL 289,6 GWh, BYD 106,7 GWh","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:56:09.070Z","source":"ChooseAuto","title":"Xinghai V6: Sechssitzer mit Huawei-ADAS ab 12.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:56:09.071Z","source":"ChooseAuto","title":"Xinghai V6: Sechssitzer mit Huawei-ADAS ab 12.800 €","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T06:56:10.727Z","source":"Autohome NewEnergy","title":"Voyah Dreamer 9: Huawei-MPV ab 57.600 € startet im September","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:56:10.728Z","source":"Autohome NewEnergy","title":"Voyah Dreamer 9: Huawei-MPV ab 57.600 € startet im September","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T06:56:16.642Z","source":"CarNewsChina","title":"BYD Atto 2: 501 km Reichweite, ab 9.600 € in China","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:56:20.345Z","source":"Autohome NewEnergy","title":"[QA FAILED] Maxus Starry X: 520-Nm-Pickup startet am 21. September","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:56:28.930Z","source":"OFweek NEV","title":"Li Auto L9: Software-Update 9.1.0 enttäuscht im ADAS-Test","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:56:28.930Z","source":"OFweek NEV","title":"Li Auto L9: Software-Update 9.1.0 enttäuscht im ADAS-Test","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T06:56:30.647Z","source":"ChooseAuto","title":"[QA FAILED] 16 Jahre Honda CR-V: So rostig ist der Unterboden","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:56:34.732Z","source":"Sina","title":"WeRide erhält Spaniens erste L4-Robotaxi-Lizenz","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:56:41.146Z","source":"Autohome NewEnergy","title":"[QA FAILED] Geely Boyue L: i-HEV-Facelift startet am 24. September","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:56:44.904Z","source":"D1EV","title":"Batteriemarkt: CATL und BYD dominieren mit 54,6 Prozent","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:56:46.113Z","source":"ChooseAuto","title":"[QA FAILED] China will Tuning-Regeln lockern: Mehr Umbauten erlaubt","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:57:00.404Z","source":"CarNewsChina","title":"BYD Atto 2: 501-km-Version startet ab ca. 9.600 € in China","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:57:09.700Z","source":"OFweek NEV","title":"[QA FAILED] ������ʤ����M7������װ����26.8���vala pro��������","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:57:11.399Z","source":"Sina","title":"WeRide: Spaniens erste L4-Lizenz, Robotaxi ab 2026","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:57:19.354Z","source":"Autohome NewEnergy","title":"[QA FAILED] Toyota Land Cruiser: Hybrid-V6 mit 457 PS ab ca. 37.200 €\n\nCount: \"Toyota Land Cruiser: ","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:57:20.723Z","source":"ChooseAuto","title":"[QA FAILED] The user wants me to localize this Chinese auto news article. Let me analyze it.","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:57:34.664Z","source":"D1EV","title":"CATL und BYD dominieren: 72,8 % für Chinas Batteriebauer","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:57:34.665Z","source":"D1EV","title":"CATL und BYD dominieren: 72,8 % für Chinas Batteriebauer","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T06:57:39.370Z","source":"Autohome NewEnergy","title":"[QA FAILED] Tank 300 Hooke Road: Starrachsen-Offroader mit 231 PS","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:57:39.546Z","source":"CarNewsChina","title":"BYD Atto 2: 501 km Reichweite ab ca. 9.600 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:57:39.546Z","source":"CarNewsChina","title":"BYD Atto 2: 501 km Reichweite ab ca. 9.600 €","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T06:57:48.836Z","source":"OFweek NEV","title":"[QA FAILED] The original text appears to be in a corrupted encoding (GBK displayed as mojibake). Let","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:57:54.665Z","source":"ChooseAuto","title":"[QA FAILED] Forthing Xinghai V6: Huawei-ADAS ab 12.800 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:58:01.607Z","source":"Sina","title":"WeRide erhält Spaniens erste L4-Robotaxi-Lizenz für Madrid","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:58:01.608Z","source":"Sina","title":"WeRide erhält Spaniens erste L4-Robotaxi-Lizenz für Madrid","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T06:58:07.185Z","source":"Autohome NewEnergy","title":"[QA FAILED] Volvo XC60/XC90: PHEV mit bis zu 200 km E-Reichweite","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:58:11.065Z","source":"ChooseAuto","title":"[QA FAILED] Foton Cavan Lefu V7: Neuer MPVAN-Mix aus Van und MPV","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:58:14.888Z","source":"D1EV","title":"Changan setzt auf humanoide Roboter im Autowerk","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:58:17.760Z","source":"CarNewsChina","title":"[QA FAILED] Let me analyze this article.","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:58:31.151Z","source":"OFweek NEV","title":"[QA FAILED] The original content is garbled (encoding issue), but I can decode it partially. Let me ","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:58:35.129Z","source":"ChooseAuto","title":"[QA FAILED] Seres übernimmt AITO – 300 € günstiger ohne CATL-Akku","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:58:42.418Z","source":"Sina","title":"Cockpit-Kongress Suzhou: KI-Agenten als neuer Standard","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:58:43.677Z","source":"Autohome NewEnergy","title":"[QA FAILED] Haval Raptor PLUS: Marktstart am 21. September mit 330 kW","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:58:52.471Z","source":"CarNewsChina","title":"[QA FAILED] ArcFox Alpha T7: BAIC’s half-priced Xiaomi YU7 secures 30,000 orders in 60 minutes","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:59:01.262Z","source":"D1EV","title":"Changan setzt humanoide Roboter in der Autoproduktion ein","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:59:04.643Z","source":"ChooseAuto","title":"[QA FAILED] 2 % Marge: Chinas Autobauer drängen CATL zurück","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:59:10.871Z","source":"OFweek NEV","title":"[QA FAILED] The original text is garbled (encoding issues - mojibake). Let me try to decode. The tex","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T06:59:22.276Z","source":"Sina","title":"Smart-Cockpit-Kongress: KI-Agenten erobern 2,8 Mio. Autos","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:59:35.912Z","source":"CarNewsChina","title":"CATL und DHL: 2-MWh-Speicher für E-Lkw in Europa","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:59:38.593Z","source":"D1EV","title":"Changan testet humanoide Roboter in sechs Werksprozessen","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T06:59:38.593Z","source":"D1EV","title":"Changan testet humanoide Roboter in sechs Werksprozessen","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T06:59:48.294Z","source":"OFweek NEV","title":"[QA FAILED] �ս�糵�����ؾ��������¹����£���ĳ�������·��","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T07:00:09.197Z","source":"D1EV","title":"[QA FAILED] Leju Robotics: 2.000 Datensätze für humanoide Roboter","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T07:00:16.601Z","source":"Sina","title":"Suzhou: Huawei und Great Wall treiben KI-Cockpits voran","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T07:00:16.601Z","source":"Sina","title":"Suzhou: Huawei und Great Wall treiben KI-Cockpits voran","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T07:00:20.181Z","source":"CarNewsChina","title":"CATL und DHL: 2-MWh-Speicher für E-Lkw-Logistik","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T07:00:28.106Z","source":"OFweek NEV","title":"[QA FAILED] The original content is garbled/mojibake. Let me try to decode it. It appears to be GBK-","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T07:00:53.593Z","source":"Sina","title":"[QA FAILED] Leapmotor: 103.129 Auslieferungen, 65 % Eigenfertigung","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T07:01:08.546Z","source":"CarNewsChina","title":"CATL und DHL: 2-MWh-Schnelllader für Europas Lkw-Flotten","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T07:01:08.547Z","source":"CarNewsChina","title":"CATL und DHL: 2-MWh-Schnelllader für Europas Lkw-Flotten","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T07:01:36.248Z","source":"Sina","title":"Audi und SAIC: Vier neue China-Modelle ab 2028","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-09-19T07:01:39.035Z","source":"Sina","title":"Audi und SAIC: Vier neue China-Modelle ab 2028","action":"published","translation_ok":true}
+{"ts":"2026-09-19T07:01:58.832Z","source":"CarNewsChina","title":"Tesla Model Y L: Federung sackt ab, 3 mm weniger Höhe","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T07:02:29.292Z","source":"Sina","title":"GAC Honda: 3,2 Mio. € für Mangrovenschutz in China","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T07:02:43.987Z","source":"CarNewsChina","title":"Tesla Model Y L: Bodenfreiheit heimlich um 3 mm gesenkt","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T07:03:23.863Z","source":"Sina","title":"GAC Honda: 3,2 Mio € für Mangrovenschutz in China","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T07:03:26.396Z","source":"CarNewsChina","title":"Tesla Model Y L: Bodenfreiheit von 169 auf 166 mm","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-19T07:03:26.397Z","source":"CarNewsChina","title":"Tesla Model Y L: Bodenfreiheit von 169 auf 166 mm","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-19T07:03:49.148Z","source":"CarNewsChina","title":"[QA FAILED] Aito: Seres übernimmt – Huawei kassierte 6.400 € je Auto","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T07:03:57.176Z","source":"Sina","title":"GAC Honda: 3,2 Mio. € für Mangrovenschutz","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-09-19T07:03:59.271Z","source":"Sina","title":"GAC Honda: 3,2 Mio. € für Mangrovenschutz","action":"published","translation_ok":true}
+{"ts":"2026-09-19T07:04:22.792Z","source":"CarNewsChina","title":"[QA FAILED] ===TITEL===","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-19T07:04:35.565Z","source":"Sina","title":"[QA FAILED] Leapmotor LEAP 5.0: Plattform, 1.280-TOPS-ADAS, Hybrid","action":"draft_qa_failed","translation_ok":true}
