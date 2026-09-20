@@ -1,12 +1,12 @@
 ---
 title: "Maserati plant zwei E-Modelle mit Huawei und JAC"
-date: 2026-09-20T07:23:53.025Z
-description: "Maserati setzt bei zwei neuen E-Modellen auf Huawei-Technik und JAC-Fertigung. Deutschland zählt zu den ersten Zielmärkten für E-GT und E-SUV."
+date: 2026-09-20T20:08:43.339Z
+description: "Maserati will mit Huawei-Technik und JAC-Fertigung zwei neue Elektromodelle auflegen. Deutschland zählt zu den ersten Zielmärkten des Comeback-Plans."
 source: "CarNewsChina"
 image: "/images/maserati-plant-zwei-e-modelle-mit-huawei-und-jac-carnewschina-e08d80.webp"
 category: "news"
 brand: "Huawei"
-brands: ["Maserati", "Huawei", "JAC", "Maextro", "HIMA", "Stellantis"]
+brands: ["Maserati", "Huawei", "JAC", "Maextro", "Stellantis"]
 tags: ["Huawei"]
 draft: false
 original_url: "https://carnewschina.com/2026/09/17/maserati-turns-to-huawei-tech-and-chinese-manufacturing-for-brand-revival-report-says/"
@@ -17,31 +17,24 @@ marketRelevance: "eu_planned"
 
 # Maserati plant zwei E-Modelle mit Huawei und JAC
 
-Maserati steht vor einem grundlegenden Umbau. Der italienische Luxushersteller will künftig Technik von Huawei und Fertigungskapazitäten des chinesischen Autobauers JAC nutzen, um seine Elektromodelle neu aufzustellen. Nach Informationen des Branchenportals Future Cars Daily sind zwei neue Stromer bereits in konkreter Planung: ein mittelgroßes bis großes Elektro-SUV sowie ein großer Elektro-GT.
+Maserati steht vor einem radikalen Umbau. Um die traditionsreiche Marke wieder auf Kurs zu bringen, plant der italienische Luxushersteller einem Medienbericht zufolge eine Dreier-Allianz mit dem chinesischen Technologiekonzern Huawei (华为) und dem Fahrzeugbauer JAC (江淮). Zwei neue Elektromodelle sollen entstehen: ein mittelgroßes bis großes Elektro-SUV und ein großer Elektro-GT.
 
-## Zwei neue Modelle auf Huawei-Basis
+## Zwei neue Stromer auf HIMA-Basis
 
-- Das Elektro-SUV soll das bestehende Grecale Folgore ergänzen und die Lücke im volumenstarken Premium-Segment schließen.
-- Der große Elektro-GT soll auf dem Erbe des GranTurismo Folgore aufbauen und die sportliche Markenidentität stärken.
-- Intern, so die zitierten Quellen, hat der Elektro-GT derzeit die besten Chancen, als erstes Produkt der Kooperation an den Start zu gehen.
+Das SUV soll die bestehende Grecale Folgore ergänzen, während der GT die sportliche DNA der Marke auf Basis des GranTurismo Folgore fortführen soll. Internen Informationen zufolge favorisiert Maserati derzeit, den rein elektrischen GT als erstes Produkt der Kooperation auf den Markt zu bringen.
 
-## Ein Dreier-Bündnis aus Technik, Fertigung und Marke
+Die Aufgabenteilung ist klar geregelt:
+- Huawei: liefert die Plattform der HIMA (Harmony Intelligent Mobility Alliance, 鸿蒙智行) samt intelligentem Cockpit, dem Fahrassistenzsystem Qiankun ADS und der Elektroantriebstechnik.
+- JAC Motors: übernimmt im Maextro-Werk (尊界) Fahrzeugentwicklung und Fertigung.
+- Maserati: steuert seine über hundertjährige Designsprache und das weltweite Vertriebsnetz bei.
 
-Die Aufgaben sind klar verteilt:
+## Zwei Marken, ein Modell
 
-- **Huawei**: liefert die Plattform der HIMA (Harmony Intelligent Mobility Alliance), darunter das intelligente Cockpit, das Fahrassistenzsystem Qiankun ADS und die E-Antriebstechnik.
-- **JAC**: übernimmt im Maextro-Werk die Fahrzeugentwicklung und Fertigung.
-- **Maserati**: steuert die über 100-jährige Designsprache und das weltweite Vertriebsnetz bei.
+Nach der „Dual-Brand"-Strategie werden die Fahrzeuge in China unter der Marke Maextro verkauft, während sie international das Maserati-Logo tragen. Um Kosten und Luxusanspruch in Einklang zu bringen, setzt Maserati auf ein SKD-Exportmodell (Semi Knocked Down): Die unlackierten Rohkarosserien entstehen im JAC-Werk in Hefei, anschließend werden sie nach Italien verschifft und dort endmontiert – inklusive Luxusausstattung und Fahrwerksabstimmung. Deutschland, Italien, Frankreich und der Nahe Osten gelten als erste Zielmärkte.
 
-Unter einer „Dual-Brand"-Strategie laufen die Fahrzeuge in China unter der Marke Maextro, im Export behalten sie dagegen das Maserati-Logo.
+## Ein Traditionshersteller in der Krise
 
-## SKD-Produktion zwischen China und Italien
-
-Um Kosteneffizienz und Luxusanspruch auszubalancieren, plant Maserati ein SKD-Modell (Semi Knocked Down). Dabei werden die unlackierten Rohkarosserien („White Bodies") im JAC-Werk im chinesischen Hefei gefertigt und anschließend nach Italien verschifft. Dort erfolgen Endmontage, Innenraumausbau und Fahrwerksabstimmung. Als erste Zielmärkte gelten laut den Quellen der Nahe Osten, Italien, Frankreich und Deutschland. Zugleich soll die Strategie die traditionsreichen Produktionsstandorte Cassino und Modena wiederbeleben.
-
-## Ein Umbau aus der Not
-
-Die Kooperation trifft Maserati in einer schwierigen Lage. 2025 sanken die weltweiten Auslieferungen auf unter 8.000 Fahrzeuge — ein Rückgang von 80 Prozent gegenüber dem Höchststand von 2017 und der niedrigste Wert seit über einem Jahrzehnt. Der bereinigte operative Verlust lag bei 198 Millionen Euro, die Marge bei -27,3 Prozent. Stellantis-Chef Antonio Filosa hatte zuvor eingeräumt, dass Industriepartner nötig seien, um die Zukunft der Marke zu sichern, ohne sie verkaufen zu müssen. Mit Huaweis intelligenter Technik und JACs Fertigungskapazität will Maserati seine Schwächen in Entwicklung und digitaler Transformation ausgleichen und den alten Glanz im globalen Luxusmarkt zurückgewinnen.
+Die Kooperation kommt zu einem kritischen Zeitpunkt. 2025 fielen die weltweiten Auslieferungen von Maserati auf unter 8.000 Einheiten – ein Rückgang von 80 Prozent gegenüber dem Höchststand von 2017 und der niedrigste Wert seit über einem Jahrzehnt. Der bereinigte operative Verlust lag bei 198 Millionen Euro, die Marge bei minus 27,3 Prozent. Stellantis-Chef Antonio Filosa hatte zuvor eingeräumt, dass Industriepartner nötig seien, um die Zukunft der Marke zu sichern – ohne sie zu verkaufen. Mit Huaweis Technologie und JACs Fertigungskapazität will Maserati seine Defizite in Entwicklung und Digitalisierung ausgleichen und der Marke neuen Glanz im globalen Luxussegment verleihen.
 
 ---
 
