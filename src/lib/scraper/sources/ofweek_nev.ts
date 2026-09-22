@@ -28,7 +28,23 @@ async function fetchPage(url: string): Promise<string> {
     }
   })
   if (!response.ok) throw new Error(`HTTP ${response.status}`)
-  return response.text()
+
+  // 本站返回 GBK/GB18030 页面，undici 的 response.text() 对 charset 处理不可靠：
+  // 实测标题整片变成 U+FFFD（CI 日志 12 次运行 192/384 行），进而迫使模型去“解读乱码”，
+  // 这是 CoT 泄漏的直接诱因之一。显式解码。
+  const buf = Buffer.from(await response.arrayBuffer())
+  const declared = (response.headers.get('content-type') || '').toLowerCase()
+  const sniff = buf.slice(0, 4096).toString('latin1').toLowerCase()
+  const gbRe = /charset=["']?(gbk|gb2312|gb18030)/
+  if (gbRe.test(declared) || gbRe.test(sniff)) {
+    return new TextDecoder('gb18030').decode(buf)
+  }
+  const utf8 = new TextDecoder('utf-8', { fatal: false }).decode(buf)
+  const bad = (utf8.match(/\uFFFD/g) || []).length
+  if (bad > 0 && bad / Math.max(utf8.length, 1) > 0.005) {
+    return new TextDecoder('gb18030').decode(buf)
+  }
+  return utf8
 }
 
 function parseArticleList(html: string): { title: string; url: string }[] {

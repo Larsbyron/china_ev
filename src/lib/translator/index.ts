@@ -14,6 +14,16 @@ import {
 } from './prompts'
 import { lookupBrand, buildInDeutschlandSection } from './brand-glossary'
 import { buildRevisionPrompt } from './editorial-review'
+import { appendRunLog } from '../runlog'
+
+/**
+ * 账户欠费（HTTP 402）标记：置位后调用方应中断整轮，避免继续做无意义的调用。
+ * 历史事故：一次欠费导致连续 62 天 0 发布、约 8,500 次无效调用。
+ */
+export let fatalApiError = false
+export function resetFatalApiError(): void {
+  fatalApiError = false
+}
 
 // ============================================================================
 // Types
@@ -195,6 +205,12 @@ async function callDeepSeekAPI(
     }
   }
 
+  // 账户欠费时本轮所有调用都无意义：快速失败，由调用方中断整轮（P1-7）
+  if (response.status === 402) {
+    fatalApiError = true
+    throw new Error('DeepSeek API error: 402 - Insufficient Balance（账户欠费，本轮调用无意义）')
+  }
+
   if (!response.ok) {
     const errorText = await response.text().catch(() => 'Unknown error')
     throw new Error(`DeepSeek API error: ${response.status} - ${errorText}`)
@@ -203,18 +219,34 @@ async function callDeepSeekAPI(
   const data = await response.json()
   const message = data?.choices?.[0]?.message
   const content = message?.content
-  const reasoningContent = message?.reasoning_content
+  const finishReason = data?.choices?.[0]?.finish_reason
 
-  // deepseek-flash 是 reasoning 模型：偶尔把最终结果放在 reasoning_content，
-  // 此时 content 为空。回退到 reasoning_content 兜底，避免 "Empty response" 失败。
-  const finalContent =
-    content && content.trim().length > 0 ? content : reasoningContent
+  // 用量埋点（P1-1）：本地没有任何 token 记录，没有基线就无法评估任何后续优化
+  appendRunLog({
+    kind: 'llm',
+    model: MODEL,
+    phase: 'translate',
+    finish_reason: finishReason ?? null,
+    max_tokens: MAX_TOKENS,
+    prompt_tokens: data?.usage?.prompt_tokens ?? null,
+    completion_tokens: data?.usage?.completion_tokens ?? null,
+    cache_hit_tokens: data?.usage?.prompt_cache_hit_tokens ?? null,
+    cache_miss_tokens: data?.usage?.prompt_cache_miss_tokens ?? null,
+    reasoning_chars: (message?.reasoning_content ?? '').length,
+    content_chars: (content ?? '').length,
+  })
 
-  if (!finalContent || finalContent.trim().length === 0) {
-    throw new Error('Empty response from DeepSeek API')
+  // 不再回退 reasoning_content（P1-3，等价于 revert b3d2b71）：
+  // 思考模式下 max_tokens 被推理耗尽时，reasoning_content 是一段不完整的思维链，
+  // 曾导致一篇 24,205 字符的英文 CoT 被当作译文发布上线。
+  if (!content || content.trim().length === 0) {
+    throw new Error(
+      `Empty response from DeepSeek API (finish_reason=${finishReason}, ` +
+        `reasoning_chars=${message?.reasoning_content?.length ?? 0})`
+    )
   }
 
-  return finalContent.trim()
+  return content.trim()
 }
 
 // ============================================================================

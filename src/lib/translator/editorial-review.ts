@@ -6,6 +6,8 @@
  * 不通过的文章退回重翻（最多 2 次）
  */
 
+import { appendRunLog } from '../runlog'
+
 // ============================================================================
 // Types
 // ============================================================================
@@ -23,6 +25,8 @@ export interface EditorialReviewResult {
   scores: EditorialScores
   feedback: string
   averageScore: number
+  /** 五维评分与 ===URTEIL=== 是否都成功解析；false = 模型输出不可用（不等于译文有问题） */
+  parseOk: boolean
 }
 
 // ============================================================================
@@ -97,16 +101,18 @@ function parseReviewOutput(raw: string): EditorialReviewResult {
     ['factCheck', /Faktenprüfung:\s*(\d)/i],
   ]
 
+  let scoresFound = 0
   for (const [key, regex] of scorePatterns) {
     const match = raw.match(regex)
     if (match) {
       scores[key] = Math.min(5, Math.max(1, parseInt(match[1], 10)))
+      scoresFound++
     }
   }
 
-  // Extract verdict
+  // Extract verdict —— 不再缺省为 APPROVE：解析不到就是解析不到
   const verdictMatch = raw.match(/===URTEIL===\s*\n\s*(APPROVE|REVISION)/i)
-  const verdict = verdictMatch ? verdictMatch[1].toUpperCase() : 'APPROVE'
+  const verdict = verdictMatch ? verdictMatch[1].toUpperCase() : null
 
   // Extract feedback
   const feedbackMatch = raw.match(/===FEEDBACK===\s*\n([\s\S]+?)$/)
@@ -118,9 +124,13 @@ function parseReviewOutput(raw: string): EditorialReviewResult {
 
   // Determine approval
   const hasLowScore = values.some(v => v <= 2)
-  const approved = verdict === 'APPROVE' && !hasLowScore && average >= 3.5
+  const parseOk = scoresFound === 5 && verdict !== null
+  // parseOk=false（模型输出根本不可解析）时不能凭默认分 3 判 REVISION——
+  // 实测 531 次复审里 356 次(67%) 都是这种「avg 恰好 3.0 + 空 feedback」，
+  // 直接触发了 334 次没有具体意见的整篇重翻。把它标明出来交给调用方决策。
+  const approved = parseOk && verdict === 'APPROVE' && !hasLowScore && average >= 3.5
 
-  return { approved, scores, feedback, averageScore: average }
+  return { approved, scores, feedback, averageScore: average, parseOk }
 }
 
 // ============================================================================
@@ -139,8 +149,12 @@ async function callEditorialAPI(
 
   const body = JSON.stringify({
     model: REVIEW_MODEL,
-    max_tokens: 2048,
+    // 2048 太紧：思考 token 也计入 max_tokens，实测把预算吃满导致返回空/不可解析
+    max_tokens: Number(process.env.EDITORIAL_MAX_TOKENS ?? 4096),
     temperature: 0.2,
+    // 默认降档：v4-pro 默认开启思考且默认 effort=high；实测 67% 的复审输出不可解析。
+    // 不设 EDITORIAL_REASONING_EFFORT 即用 low（要回滚可设为 high）。
+    reasoning_effort: process.env.EDITORIAL_REASONING_EFFORT ?? 'low',
     messages: [
       { role: 'system', content: EDITORIAL_SYSTEM_PROMPT },
       { role: 'user', content: userPrompt },
@@ -173,17 +187,31 @@ async function callEditorialAPI(
       const data = await response.json()
       const message = data?.choices?.[0]?.message
       const content = message?.content
-      const reasoningContent = message?.reasoning_content
+      const finishReason = data?.choices?.[0]?.finish_reason
 
-      // reasoning 模型兜底：content 为空时回退到 reasoning_content
-      const finalContent =
-        content && content.trim().length > 0 ? content : reasoningContent
+      // 用量埋点（P1-1）：复审占本流水线约一半花费，此前完全没有本地记录
+      appendRunLog({
+        kind: 'llm',
+        model: REVIEW_MODEL,
+        phase: 'editorial',
+        finish_reason: finishReason ?? null,
+        max_tokens: Number(process.env.EDITORIAL_MAX_TOKENS ?? 4096),
+        prompt_tokens: data?.usage?.prompt_tokens ?? null,
+        completion_tokens: data?.usage?.completion_tokens ?? null,
+        reasoning_chars: (message?.reasoning_content ?? '').length,
+        content_chars: (content ?? '').length,
+      })
 
-      if (!finalContent || finalContent.trim().length === 0) {
-        throw new Error('Empty response from editorial API')
+      // 不再回退 reasoning_content：思考预算被吃满时那是不完整的思维链，
+      // 拿它去解析只会得到「五维默认 3 分 + 空反馈」，再触发无意义的重翻。
+      if (!content || content.trim().length === 0) {
+        throw new Error(
+          `Empty response from editorial API (finish_reason=${finishReason}, ` +
+            `reasoning_chars=${message?.reasoning_content?.length ?? 0})`
+        )
       }
 
-      return finalContent.trim()
+      return content.trim()
     } catch (err) {
       lastError = err instanceof Error ? err : new Error(String(err))
       if (attempt < delays.length && !signal?.aborted) {
@@ -232,18 +260,56 @@ ${content}
 ---
 Prüfe diesen Artikel nach den 5 Kriterien. Gib Bewertung, Urteil und Feedback.`
 
+  // 复审不可用（API 报错 / 输出不可解析）时的行为开关：默认 approve = 保持既有行为
+  // （避免故障期间丢稿）；设 EDITORIAL_ON_UNAVAILABLE=revision 即改为不放行。
+  // 无论哪种，都不再静默——每次都会落一条 runlog 记录。
+  const onUnavailable = (process.env.EDITORIAL_ON_UNAVAILABLE ?? 'approve').toLowerCase()
+  const unavailableApproved = onUnavailable !== 'revision'
+
   try {
     const raw = await callEditorialAPI(userPrompt, signal)
-    return parseReviewOutput(raw)
+    const parsed = parseReviewOutput(raw)
+    if (!parsed.parseOk) {
+      console.error(
+        `[Editorial] Unparseable review output (avg=${parsed.averageScore.toFixed(1)}, ` +
+          `raw=${raw.length} chars) — onUnavailable=${onUnavailable}`
+      )
+      appendRunLog({
+        kind: 'editorial',
+        model: REVIEW_MODEL,
+        parse_ok: false,
+        on_unavailable: onUnavailable,
+        raw_chars: raw.length,
+        approved: unavailableApproved,
+      })
+      return unavailableApproved
+        ? {
+            ...parsed,
+            approved: true,
+            feedback:
+              parsed.feedback ||
+              `Review output unparseable (auto-approved by EDITORIAL_ON_UNAVAILABLE=${onUnavailable})`,
+          }
+        : { ...parsed, approved: false }
+    }
+    return parsed
   } catch (err) {
     const msg = err instanceof Error ? err.message : 'Unknown editorial review error'
-    console.error(`[Editorial] Review failed: ${msg}`)
-    // On API failure, approve to avoid blocking the pipeline
+    console.error(`[Editorial] Review failed: ${msg} — onUnavailable=${onUnavailable}`)
+    appendRunLog({
+      kind: 'editorial',
+      model: REVIEW_MODEL,
+      parse_ok: null,
+      error: msg,
+      on_unavailable: onUnavailable,
+      approved: unavailableApproved,
+    })
     return {
-      approved: true,
+      approved: unavailableApproved,
       scores: { translationQuality: 3, newsValue: 3, titleAppeal: 3, structure: 3, factCheck: 3 },
-      feedback: `Review API error (auto-approved): ${msg}`,
+      feedback: `Review API error (${unavailableApproved ? 'auto-approved' : 'blocked'}): ${msg}`,
       averageScore: 3,
+      parseOk: false,
     }
   }
 }

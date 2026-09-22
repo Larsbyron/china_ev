@@ -123,10 +123,8 @@ export async function classifyArticle(
   }
 
   const data = await response.json()
-  const message = data?.choices?.[0]?.message
-  const messageContent = message?.content ?? ''
-  // deepseek-flash 是 reasoning 模型：content 为空时回退到 reasoning_content 兜底
-  const raw: string =
-    messageContent.trim().length > 0 ? messageContent : (message?.reasoning_content ?? '')
+  // 不再回退 reasoning_content（与 translator/index.ts 一致）：思维链不是结果，
+  // 拿它去解析会得出错误分类。content 为空时交给 parseClassification 处理空串。
+  const raw: string = data?.choices?.[0]?.message?.content ?? ''
   return parseClassification(raw)
 }

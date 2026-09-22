@@ -14,7 +14,7 @@ import { scrapeOfweekNev } from './sources/ofweek_nev'
 import { scrapeChooseAuto } from './sources/chooseauto'
 import { scrapeD1EV } from './sources/d1ev'
 import { scrapeCarNewsChina } from './sources/carnewschina'
-import { translateArticle } from '../translator'
+import { translateArticle, fatalApiError, resetFatalApiError } from '../translator'
 import { lookupBrand } from '../translator/brand-glossary'
 import { runQualityCheck, formatQualityReport } from '../translator/quality-check'
 import { editorialReview, MAX_RETRANSLATION_ATTEMPTS } from '../translator/editorial-review'
@@ -235,7 +235,16 @@ async function processSource(
     const articles = await scraperFn(8)
 
     for (const article of articles) {
+      // 账户欠费（402）之后再翻译毫无意义：立刻停下本源的循环（P1-7）。
+      // 历史事故：一次欠费导致连续 62 天 0 发布、约 8,500 次无效调用。
+      if (fatalApiError) {
+        console.log(`[${sourceName}] Fatal API error (insufficient balance) — stopping this source`)
+        logRun(sourceName, '', 'api_insufficient_balance', false)
+        break
+      }
+
       // Check for duplicate
+      // 键 = 源文内容哈希（与保存成功时的写入侧保持同一段文本，否则去重永远不命中）
       const fingerprint = computeFingerprint(article.content)
       if (fingerprint in fingerprints) {
         console.log(`[${sourceName}] Duplicate: ${article.title.slice(0, 40)}...`)
@@ -370,6 +379,24 @@ async function processSource(
               const reFullContent = retranslation.inDeutschland
                 ? `${retranslation.content}\n\n---\n\n${retranslation.inDeutschland}`
                 : retranslation.content
+
+              // 初翻通过 QA ≠ 重翻版本合格：2026-09-20 那篇 24,205 字符的英文 CoT
+              // 正是从这里绕开 QA 被 published:true 的。重翻后必须重跑 QA。
+              const reBrandInfo = lookupBrand(article.brand || '')
+              const reQc = runQualityCheck({
+                title: retranslation.title,
+                description: retranslation.description || '',
+                content: reFullContent,
+                originalContent: article.content,
+                brandOfficialName: reBrandInfo?.officialName,
+              })
+              if (!reQc.passed) {
+                console.log(`[${sourceName}] Re-translation QA FAILED (${reQc.errorCount} errors) — aborting this article`)
+                console.log(formatQualityReport(reQc))
+                logRun(sourceName, retranslation.title, 'draft_qa_failed_retranslation')
+                break
+              }
+
               currentTitle = retranslation.title
               currentContent = reFullContent
               currentDescription = retranslation.description || ''
@@ -414,10 +441,12 @@ async function processSource(
         const filename = await saveArticle(translatedArticle, false)
         result.articles.push(translatedArticle)
 
-        // Record fingerprint (use translated content for uniqueness)
-        const translatedFingerprint = computeFingerprint(translatedArticle.content)
-        fingerprints[translatedFingerprint] = {
-          title: translatedArticle.title,
+        // 去重键必须与读侧（:239）使用同一段文本：article.content（源文），而不是德文译文。
+        // 此前写译文哈希 / 读源文哈希，两个 key 空间永不相交 → 去重自 2026-04-14 起失效
+        // （24,417 条 runlog 里 skipped_dupe 仅 9 条，同一篇文章被反复重译，最高 162 次）。
+        const sourceFingerprint = computeFingerprint(article.content)
+        fingerprints[sourceFingerprint] = {
+          title: article.title,
           source: sourceName,
           date: new Date().toISOString()
         }
@@ -451,6 +480,7 @@ export async function scrapeAll(options: ScraperOptions = {}): Promise<void> {
   console.log('='.repeat(60))
 
   const fingerprints = loadFingerprints()
+  resetFatalApiError() // 每轮干净开始（P1-7）
   const results: ScraperResult[] = []
 
   const sourcesToRun = options.sources?.length
