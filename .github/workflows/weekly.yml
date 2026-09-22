@@ -2,7 +2,7 @@ name: Weekly Top 5
 
 on:
   schedule:
-    - cron: '0 8 * * 5'  # Friday at 08:00 UTC
+    - cron: '0 12 * * 5'  # Friday at 12:00 UTC（原 08:00 落在 DeepSeek peak 里，token 双倍价）
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}

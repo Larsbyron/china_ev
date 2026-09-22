@@ -3,7 +3,10 @@ name: Daily Pipeline
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2,10,18 * * *'  # 02:00, 10:00, 18:00 UTC
+    - cron: '0 4,10,18 * * *'  # 04:00, 10:00, 18:00 UTC
+    # 注意：DeepSeek 的贵时段(peak) = 周一~五 UTC 01:00-04:00 与 06:00-10:00。
+    # 原 02:00 落在 peak 里，token 按双倍价计费 → 挪到 04:00（04:00-06:00 是空档，留足余量）。
+    # 10:00 是 peak 结束的那一刻、18:00 本来就在空闲时段。周末与国内法定节假日全天都算空闲时段。
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
