@@ -24140,3 +24140,96 @@
 {"ts":"2026-09-21T21:40:32.836Z","source":"CarNewsChina","title":"CATL und DHL planen Batteriewechsel für Europas Lkw","action":"editorial_revision","translation_ok":true}
 {"ts":"2026-09-21T21:41:16.742Z","source":"CarNewsChina","title":"CATL und DHL: 2-MWh-Lader und Batteriewechsel für Lkw","action":"editorial_revision","translation_ok":true}
 {"ts":"2026-09-21T21:41:16.743Z","source":"CarNewsChina","title":"CATL und DHL: 2-MWh-Lader und Batteriewechsel für Lkw","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:06:34.444Z","source":"D1EV","title":"[QA FAILED] TEDA-Forum 2026: KI soll Chinas Auto-Marketing neu ordnen","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:06:40.776Z","source":"Autohome NewEnergy","title":"[QA FAILED] Luxeed RX startet ab 34.500 € mit bis zu 852 km (CLTC)","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:06:41.191Z","source":"ChooseAuto","title":"[QA FAILED] Alibaba will bis 2032 über 20 GW Rechenzentrumsleistung","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:06:51.727Z","source":"Autohome NewEnergy","title":"[QA FAILED] Peugeot 4008: 170 PS, Marktstart am 23. September","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:06:52.151Z","source":"OFweek NEV","title":"[QA FAILED] The original text is mojibake (garbled). I need to decode it. It's GBK-encoded text disp","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:07:06.705Z","source":"Autohome NewEnergy","title":"[QA FAILED] Hyundai IONIQ V: China-Limousine ab 15.300 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:07:09.700Z","source":"CarNewsChina","title":"BYD Seagull: Zweite Generation mit 420 km und Lidar","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-09-22T07:07:10.180Z","source":"CarNewsChina","title":"BYD Seagull: Zweite Generation mit 420 km und Lidar","action":"published","translation_ok":true}
+{"ts":"2026-09-22T07:07:11.062Z","source":"Sina","title":"Dongfeng Xinghai V6: Huawei-ADS-SUV ab ca. 12.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:07:19.222Z","source":"ChooseAuto","title":"[QA FAILED] \"Roewe Jiayue 07: 17.600 € für KI-SUV mit 1.480 km\" — hmm, the 1.480 km is combined CLTC","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:07:33.825Z","source":"Autohome NewEnergy","title":"[QA FAILED] Aion Ray7 zeigt Innenraum: 700 km, Lidar, Huawei-Antrieb","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:07:47.042Z","source":"ChooseAuto","title":"[QA FAILED] China: 64 Euro für einen umgefahrenen Plastikpoller","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:07:49.558Z","source":"OFweek NEV","title":"XPeng G9L ab 29.700 €: Groß-SUV mit Preisproblem","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:07:53.329Z","source":"D1EV","title":"VW T-Roc vorn: 12.185 Neuzulassungen in Europa","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:08:03.939Z","source":"ChooseAuto","title":"[QA FAILED] Geely Xingrui L PLUS: Hybrid-Flaggschiff ab 14.800 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:08:09.208Z","source":"CarNewsChina","title":"Geely EX5: 329 PS und 635 km – Marktstart am 23. September","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:08:15.059Z","source":"Sina","title":"Forthing Xinghai V6: Huawei-ADAS ab 12.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:08:15.332Z","source":"Autohome NewEnergy","title":"[QA FAILED] Hyundai Tucson XRT: Offroad-Look mit 242 PS Hybrid\nCount characters: \"Hyundai Tucson XRT","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:08:45.315Z","source":"Autohome NewEnergy","title":"[QA FAILED] Toyota Land Cruiser 300: Hybrid-Update ab 52.000 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:08:58.636Z","source":"CarNewsChina","title":"Geely EX5: 329 PS, 800 Volt, Marktstart am 23. September","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:09:08.801Z","source":"OFweek NEV","title":"�����ѿ�����С��G9L�ļ۸��Ǹ���","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:09:12.066Z","source":"D1EV","title":"\"GAC plant Europa-Fertigung in sechs Ländern\" — 42 chars. Contains brand + value (sechs Länder). Hmm","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:09:15.579Z","source":"ChooseAuto","title":"China-Medtech-ETFs: Biotech-Sektor erholt sich kräftig","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:09:19.439Z","source":"Sina","title":"Dongfeng Xinghai V6: Huawei-ADAS für 12.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:09:19.439Z","source":"Sina","title":"Dongfeng Xinghai V6: Huawei-ADAS für 12.800 €","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:09:38.028Z","source":"Sina","title":"[QA FAILED] AITO M9 Ultimate: Luxus-SUV mit 800-Volt startet in China","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:09:46.708Z","source":"Autohome NewEnergy","title":"Ceer EXOBOT: Saudi-EV mit 850 PS und 670 km Reichweite","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:09:54.081Z","source":"CarNewsChina","title":"Geely EX5: 329 PS und 635 km — Marktstart am 23. September","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-09-22T07:09:56.981Z","source":"CarNewsChina","title":"Geely EX5: 329 PS und 635 km — Marktstart am 23. September","action":"published","translation_ok":true}
+{"ts":"2026-09-22T07:10:00.636Z","source":"Sina","title":"[QA FAILED] Xiaomi-Akku: 8.000 Prüfpunkte, lebenslange Garantie","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:10:05.636Z","source":"ChooseAuto","title":"Kein Autothema: Chinesische Gesundheits-ETFs im Fokus","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:10:27.398Z","source":"OFweek NEV","title":"XPeng G9L: Ab 29.700 € – ein Problem für den GX","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:10:27.399Z","source":"OFweek NEV","title":"XPeng G9L: Ab 29.700 € – ein Problem für den GX","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:10:33.912Z","source":"D1EV","title":"Tesla Model Y: 10.281 Zulassungen – zurück an Europas Spitze","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:10:33.913Z","source":"D1EV","title":"Tesla Model Y: 10.281 Zulassungen – zurück an Europas Spitze","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:10:53.302Z","source":"Autohome NewEnergy","title":"CEER EXOBOT: Saudi-Marke zeigt 850-PS-Elektro-Duo","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:10:59.059Z","source":"D1EV","title":"[QA FAILED] Porsche-CEO: Keine 4.000 weiteren Stellenstreichungen","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:11:01.845Z","source":"Sina","title":"FREELANDER 8: 5.000 Bestellungen am ersten Tag","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-09-22T07:11:02.350Z","source":"CarNewsChina","title":"BYD Great Seagull: 127 PS, Lidar und 2.650 mm Radstand","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:11:03.678Z","source":"Sina","title":"FREELANDER 8: 5.000 Bestellungen am ersten Tag","action":"published","translation_ok":true}
+{"ts":"2026-09-22T07:11:06.605Z","source":"ChooseAuto","title":"Absage: Chinesischer Medizin-ETF ohne Auto-Bezug","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:11:06.606Z","source":"ChooseAuto","title":"Absage: Chinesischer Medizin-ETF ohne Auto-Bezug","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:11:14.434Z","source":"Sina","title":"[QA FAILED] BYD sponsert Jugendfußball: 352 Schulen, 4.000 Talente","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:11:19.223Z","source":"OFweek NEV","title":"Huawei ADS 5: 80 Modelle, 99,9 % ohne Eingriff","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:11:30.489Z","source":"D1EV","title":"[QA FAILED] Hongqi Tiangong 07: ab ca. 21.700 € mit 8397-Chip","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:11:49.301Z","source":"ChooseAuto","title":"[QA FAILED] Audi vs. AUDI: China-Marke ohne Ringe drängt nach Deutschland\n\nCount: \"Audi vs. AUDI: Ch","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:11:51.818Z","source":"Sina","title":"[QA FAILED] XPeng G9L startet ab 29.700 € – Weltpremiere in Paris","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:11:54.010Z","source":"Autohome NewEnergy","title":"CEER EXOBOT: Saudi-Marke zeigt zwei 850-PS-Elektroautos","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:11:54.011Z","source":"Autohome NewEnergy","title":"CEER EXOBOT: Saudi-Marke zeigt zwei 850-PS-Elektroautos","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:11:56.334Z","source":"CarNewsChina","title":"BYD Great Seagull: Lidar-Kleinwagen mit 2.650 mm Radstand","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-09-22T07:11:58.587Z","source":"D1EV","title":"[QA FAILED] Jiushi Intelligent: RoboVan-Teststart in Belgien 2026","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:12:01.837Z","source":"CarNewsChina","title":"BYD Great Seagull: Lidar-Kleinwagen mit 2.650 mm Radstand","action":"published","translation_ok":true}
+{"ts":"2026-09-22T07:12:13.518Z","source":"ChooseAuto","title":"[QA FAILED] TianGong 07: Vorverkauf in China ab ca. 21.700 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:12:21.840Z","source":"D1EV","title":"[QA FAILED] QCraft startet L4-Robovan-Flotte in Guangzhou","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:12:31.631Z","source":"Autohome NewEnergy","title":"[QA FAILED] Jetour Traveler 7: Offroader mit 575 kW ab 23. September","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:12:33.293Z","source":"OFweek NEV","title":"Huawei ADS 5: 99,9 % Fahrten ohne Eingriff ab 2026","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:12:36.023Z","source":"D1EV","title":"[QA FAILED] Tesla: 360-Grad-Sound per OTA für Model 3 und Model Y","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:12:36.165Z","source":"ChooseAuto","title":"[QA FAILED] Changan Qiyuan tritt vierten Mal bei CCTV-Gala auf","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:12:43.748Z","source":"Sina","title":"WeRide erhält Spaniens erste L4-Robotaxi-Lizenz","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-09-22T07:12:45.523Z","source":"Sina","title":"WeRide erhält Spaniens erste L4-Robotaxi-Lizenz","action":"published","translation_ok":true}
+{"ts":"2026-09-22T07:13:00.675Z","source":"CarNewsChina","title":"Chery iCaur V27: EREV-SUV startet mit 1.230 km Reichweite","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:13:18.352Z","source":"D1EV","title":"[QA FAILED] China: 121 Mio. Rückrufe — neue Regeln für Smart-EVs","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:13:47.355Z","source":"Sina","title":"Huawei & Co: Cockpit-KI wird zum Herzstück des Autos","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:13:54.491Z","source":"OFweek NEV","title":"Huawei ADS 5 vs ADS 4.1: Fehlerquote sinkt um 95 %","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:13:54.493Z","source":"OFweek NEV","title":"Huawei ADS 5 vs ADS 4.1: Fehlerquote sinkt um 95 %","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:14:00.995Z","source":"CarNewsChina","title":"Chery iCaur V27 Long Range: 1.230 km ab 30. September","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:14:54.990Z","source":"OFweek NEV","title":"Li Auto L9 Livis: OTA 9.1.0 fällt im ADAS-Test zurück","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:15:03.987Z","source":"Sina","title":"Huawei & Great Wall: 1.000 Experten auf Cockpit-Gipfel","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:15:17.529Z","source":"CarNewsChina","title":"Chery iCaur V27: EREV-SUV ab 21.700 € mit 1.230 km","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:15:17.529Z","source":"CarNewsChina","title":"Chery iCaur V27: EREV-SUV ab 21.700 € mit 1.230 km","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:15:50.867Z","source":"Sina","title":"Huawei und GWM: KI-Cockpits definieren das Auto neu","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:15:50.868Z","source":"Sina","title":"Huawei und GWM: KI-Cockpits definieren das Auto neu","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:15:57.974Z","source":"OFweek NEV","title":"Li Auto L9 Livis: OTA 9.1 erreicht nur 71 Punkte","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:16:15.254Z","source":"CarNewsChina","title":"Hyundai Ioniq V startet in China ab 15.300 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:16:59.967Z","source":"OFweek NEV","title":"Li Auto L9 im ADAS-Test: Nur 71 von 100 Punkten","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:16:59.968Z","source":"OFweek NEV","title":"Li Auto L9 im ADAS-Test: Nur 71 von 100 Punkten","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:17:12.309Z","source":"CarNewsChina","title":"The user wants me to localize a Chinese auto news article about Hyundai Ioniq V launching in China. ","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:17:35.604Z","source":"OFweek NEV","title":"[QA FAILED] BAW Ruisheng M7: E-Camping-Van startet ab 34.300 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:18:10.075Z","source":"CarNewsChina","title":"Hyundai Ioniq V startet in China ab 15.300 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:18:10.076Z","source":"CarNewsChina","title":"Hyundai Ioniq V startet in China ab 15.300 €","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:18:16.117Z","source":"OFweek NEV","title":"[QA FAILED] (≤60 Zeichen): \"Great Wall H10: 5,3-Meter-SUV ab 25.800 €\" — count: let's count: \"Great ","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:19:05.871Z","source":"CarNewsChina","title":"Hongqi Tiangong 07: 800-Volt-Limousine ab ca. 21.700 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-09-22T07:19:14.670Z","source":"CarNewsChina","title":"Hongqi Tiangong 07: 800-Volt-Limousine ab ca. 21.700 €","action":"published","translation_ok":true}
+{"ts":"2026-09-22T07:19:34.725Z","source":"OFweek NEV","title":"China: Toyota führt 17 Verbrenner über 10.000 Einheiten","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:19:48.230Z","source":"CarNewsChina","title":"[QA FAILED] Geely Galaxy M9: 858 PS, ab 23.500 €, jetzt in den VAE","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-09-22T07:20:37.568Z","source":"CarNewsChina","title":"Zeekr 009: Sitzschaum übersteht 20-Tonnen-Lkw","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:21:08.724Z","source":"OFweek NEV","title":"���ⲻ��6��17��ȼ�ͳ���������","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:21:50.350Z","source":"CarNewsChina","title":"Zeekr 009: Sitzschaum übersteht 20-Tonnen-Lkw","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:22:31.856Z","source":"OFweek NEV","title":"China: 17 Verbrenner in Top 10 – Corolla mit 17.114\n\nHmm let me count precisely: \"China: 17 Verbrenn","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:22:31.857Z","source":"OFweek NEV","title":"China: 17 Verbrenner in Top 10 – Corolla mit 17.114\n\nHmm let me count precisely: \"China: 17 Verbrenn","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:22:46.198Z","source":"CarNewsChina","title":"Zeekr 009: Sitzschaum übersteht 20-Tonnen-Lkw","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-09-22T07:22:46.198Z","source":"CarNewsChina","title":"Zeekr 009: Sitzschaum übersteht 20-Tonnen-Lkw","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-09-22T07:23:11.274Z","source":"OFweek NEV","title":"[QA FAILED] The original title and content are garbled (encoding issues - mojibake). Let me try to d","action":"draft_qa_failed","translation_ok":true}
