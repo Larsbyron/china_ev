@@ -35,7 +35,11 @@ export interface EditorialReviewResult {
 
 const DEEPSEEK_BASE_URL = 'https://api.deepseek.com'
 const API_KEY = process.env.DEEPSEEK_API_KEY
-const REVIEW_MODEL = 'deepseek-v4-pro'
+// 复审模型：与翻译同为 deepseek-flash，但它是【独立的一次 API 调用、独立的 system prompt、
+// 独立的上下文】——复审只看德文成稿与站内规范，看不到翻译过程、也看不到中文原文，
+// 所以不存在「自己审自己」的自我确认偏差。两个 agent 的分工在 prompts 层就分开了。
+// 要临时回滚到 v4-pro：设 EDITORIAL_MODEL=deepseek-v4-pro 即可（无需改代码）。
+const REVIEW_MODEL = process.env.EDITORIAL_MODEL ?? 'deepseek-flash'
 const MAX_RETRIES = 2
 
 // ============================================================================
@@ -152,7 +156,7 @@ async function callEditorialAPI(
     // 2048 太紧：思考 token 也计入 max_tokens，实测把预算吃满导致返回空/不可解析
     max_tokens: Number(process.env.EDITORIAL_MAX_TOKENS ?? 4096),
     temperature: 0.2,
-    // 默认降档：v4-pro 默认开启思考且默认 effort=high；实测 67% 的复审输出不可解析。
+    // 默认降档：DeepSeek 系列默认开启思考且默认 effort=high；实测 67% 的复审输出不可解析。
     // 不设 EDITORIAL_REASONING_EFFORT 即用 low（要回滚可设为 high）。
     reasoning_effort: process.env.EDITORIAL_REASONING_EFFORT ?? 'low',
     messages: [
