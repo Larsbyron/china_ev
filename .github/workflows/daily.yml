@@ -37,6 +37,12 @@ jobs:
       - name: Run scraper
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          # 思考档位灰度（2026-09-23 起）：实测输出 token 约 80% 是思考过程，且约 20%
+          # 的调用因思考吃满 8192 被截断(finish_reason=length)。降到 low 以同时省 token
+          # 和减少截断。到期日后代码里的过期阀会自动失效（不用怕忘了回滚）；
+          # 回滚=删这两行 / 续期=改 UNTIL 日期。
+          TRANSLATION_REASONING_EFFORT: low
+          TRANSLATION_EFFORT_UNTIL: '2026-10-07'
         run: npx tsx scripts/fetch-translate.ts
 
       - name: Commit fingerprints and new articles

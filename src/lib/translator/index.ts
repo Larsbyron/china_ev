@@ -66,6 +66,18 @@ const MODEL = 'deepseek-flash'
 const MAX_TOKENS = 8192
 const TEMPERATURE = 0.3
 
+// 思考档位灰度（2026-09-23 起）：埋点实测输出 token 里约 80% 是思考过程，
+// 且约 20% 的调用因思考吃满 8192 预算被截断（finish_reason=length）。
+// 设 TRANSLATION_REASONING_EFFORT=low 即降档；**不设 = 完全保持原行为**（默认高档思考），
+// 所以代码本身是零风险改动，开关只在 CI 环境里。
+// TRANSLATION_EFFORT_UNTIL=YYYY-MM-DD 是自动过期阀：到期后本开关自动失效，
+// 避免灰度实验被遗忘（要续期就把日期往后推；要回滚就删掉这两个变量）。
+const REASONING_EFFORT = process.env.TRANSLATION_REASONING_EFFORT
+const EFFORT_UNTIL = process.env.TRANSLATION_EFFORT_UNTIL
+const EFFORT_ACTIVE = Boolean(
+  REASONING_EFFORT && (!EFFORT_UNTIL || new Date().toISOString().slice(0, 10) <= EFFORT_UNTIL)
+)
+
 const RATE_LIMIT_DELAY_MS = 500
 const MAX_CHUNK_CHARS = 8000
 const CHUNK_OVERLAP_CHARS = 100
@@ -174,6 +186,9 @@ async function callDeepSeekAPI(
     model: MODEL,
     max_tokens: MAX_TOKENS,
     temperature: TEMPERATURE,
+    // 思考档位：不带该字段 = 保持 DeepSeek 默认（thinking 开、effort high）。
+    // 注意 temperature 在思考模式下被静默忽略，降档后它才真正生效（0.3）。
+    ...(EFFORT_ACTIVE ? { reasoning_effort: REASONING_EFFORT } : {}),
     messages: [
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userPrompt },
@@ -226,6 +241,7 @@ async function callDeepSeekAPI(
     kind: 'llm',
     model: MODEL,
     phase: 'translate',
+    reasoning_effort: EFFORT_ACTIVE ? REASONING_EFFORT : null,
     finish_reason: finishReason ?? null,
     max_tokens: MAX_TOKENS,
     prompt_tokens: data?.usage?.prompt_tokens ?? null,
