@@ -41,11 +41,11 @@ const SHELF_COLUMNS = 4
 const HEUTE_SECONDARY_COLUMNS = 2
 
 // Reorder articles image-first, then tag each with whether to show its image.
-// Only *whole rows* (multiples of the column count) show images, so every
-// rendered row is uniform — no image card ever sits next to a text card.
-// A group with fewer than one full row of images goes fully text-only, which
-// looks cleaner than a ragged partial image row (uniform over decorative).
-// Multiples of the column count stay uniform at narrower breakpoints too.
+// Whole *rows* (multiples of the column count) show images, so every rendered
+// row stays uniform where possible — but a shelf with fewer images than one
+// full row used to go completely text-only, which left shelves (and on some
+// days the whole homepage) without a single picture. Guarantee that at least
+// the first row shows its images, and add further whole rows on top.
 // Stable partition preserves ranking order within each group.
 function shelfCards(
   articles: ArticleMeta[],
@@ -54,7 +54,8 @@ function shelfCards(
   const withImage = articles.filter((a) => a.image)
   const withoutImage = articles.filter((a) => !a.image)
   const ordered = [...withImage, ...withoutImage]
-  const imageCards = Math.floor(withImage.length / columns) * columns
+  const fullRows = Math.floor(withImage.length / columns) * columns
+  const imageCards = Math.min(withImage.length, Math.max(columns, fullRows))
   return ordered.map((article, i) => ({ article, showImage: i < imageCards }))
 }
 
