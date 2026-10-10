@@ -60,3 +60,11 @@ jobs:
 
       - name: Build Next.js
         run: npm run build
+
+      # 把新文章即时通知 Bing 系索引（Bing/DuckDuckGo/Ecosia/Yahoo 共用 Bing 索引）。
+      # 实测 30 天被推荐访客里的 43% 来自 Bing 系、Google 仅 1.5%，所以先把 Bing 收录做快。
+      # 只提交最新 60 条（IndexNow 礼仪：只推新增/变更 URL），失败不阻断流水线。
+      - name: Notify IndexNow
+        if: always()
+        continue-on-error: true
+        run: npx tsx scripts/indexnow.ts --limit 60
