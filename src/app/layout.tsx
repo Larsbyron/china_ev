@@ -19,6 +19,9 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  verification: {
+    google: 'tUP6GvnNBXXpPyeyNmqjP_AzmWayt-9kP-6ecdwmHaM',
+  },
   title: {
     default: 'E-AUTOS | China EV News auf Deutsch',
     template: '%s | E-AUTOS',
@@ -68,6 +71,13 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" title="E-AUTOS RSS Feed" href="/feed.xml" />
         {/* Plausible Analytics — privacy-friendly, no cookies */}
         <script defer data-domain="china-autonews.de" src="https://plausible.io/js/script.js" />
+        {/* Google AdSense — pub-6277933970818179 (Verifizierung + Anzeigen) */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6277933970818179"
+          crossOrigin="anonymous"
+        />
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
         {/* JSON-LD WebSite */}
         <script
           type="application/ld+json"
