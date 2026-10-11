@@ -51,17 +51,37 @@ function checkNoChinese(content: string, title: string, description: string): Qu
 }
 
 /**
- * 检测译文长度是否在合理范围内（原文 60%-200%）
+ * 检测译文长度是否在合理范围内
+ *
+ * 原文语种不同，合理区间也不同（2026-10-11 修正，见 SCRAPING-RULES 第十节）：
+ * - 拉丁语系原文（英/德）→ 德语译文长度 ≈ 原文，区间 60%–200%。
+ * - 中文原文 → 德语每个汉字约展开成 2.5–4 个字符，再加上固定的结构化开销
+ *   （小标题、来源行、In Deutschland 模块），实测 5 个源的中位数比值 ≈ 323%。
+ *   旧版对中文原文也套用 200% 上限 → 2026-10-10 那轮 29 个 QA 失败里 24 个（83%）
+ *   都是「译文过长」，等于把已经付过翻译费的合格文章整批丢掉。
+ *   因此中文原文改用「比例 + 固定余量」上界：3.5 × 原文长度 + 1500 字符。
+ *   下界保持 60% 不变（抓「译文变成摘要」的真问题）。
  */
+const CJK_CHAR_REGEX = /[\u4e00-\u9fff]/
+const CJK_SHARE_THRESHOLD = 0.15
+const CJK_MAX_RATIO = 3.5
+const CJK_LENGTH_ALLOWANCE = 1500
+
 function checkLengthRatio(translatedContent: string, originalContent: string): QualityCheckItem {
+  const originalText = originalContent.replace(HTML_TAG_REGEX, '').trim()
   const translatedLen = translatedContent.replace(HTML_TAG_REGEX, '').trim().length
-  const originalLen = originalContent.replace(HTML_TAG_REGEX, '').trim().length
+  const originalLen = originalText.length
 
   if (originalLen === 0) {
     return { name: '长度比例', passed: true, severity: 'error', message: '原文为空，跳过长度检查' }
   }
 
+  const cjkChars = (originalText.match(new RegExp(CJK_CHAR_REGEX.source, 'g')) || []).length
+  const cjkShare = cjkChars / originalLen
+  const isCjkSource = cjkShare >= CJK_SHARE_THRESHOLD
+
   const ratio = translatedLen / originalLen
+  const maxLen = isCjkSource ? originalLen * CJK_MAX_RATIO + CJK_LENGTH_ALLOWANCE : originalLen * 2.0
   if (ratio < 0.6) {
     return {
       name: '长度比例',
@@ -70,12 +90,12 @@ function checkLengthRatio(translatedContent: string, originalContent: string): Q
       message: `译文过短：${translatedLen} 字符 vs 原文 ${originalLen} 字符（${(ratio * 100).toFixed(0)}%）`,
     }
   }
-  if (ratio > 2.0) {
+  if (translatedLen > maxLen) {
     return {
       name: '长度比例',
       passed: false,
       severity: 'error',
-      message: `译文过长：${translatedLen} 字符 vs 原文 ${originalLen} 字符（${(ratio * 100).toFixed(0)}%）`,
+      message: `译文过长：${translatedLen} 字符 vs 原文 ${originalLen} 字符（${(ratio * 100).toFixed(0)}%，上限 ${(isCjkSource ? '中文原文 3.5×+1500' : '200%')}）`,
     }
   }
   return { name: '长度比例', passed: true, severity: 'error', message: '' }

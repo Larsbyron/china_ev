@@ -85,6 +85,37 @@ describe('runQualityCheck', () => {
     expect(ratioCheck?.passed).toBe(false)
   })
 
+  // 语种感知的长度区间（2026-10-11）：中文原文 → 德语正常展开到 250%–400%，
+  // 旧版 200% 上限会把合格文章判死（实测 2026-10-10 那轮 24/29 个 QA 失败都是这个原因）。
+  describe('长度比例按原文语种区分', () => {
+    const ratioOf = (content: string, originalContent: string) =>
+      runQualityCheck(makeInput({ content, originalContent })).checks.find((c) => c.name === '长度比例')
+
+    it('中文原文 647 字 → 德语 2009 字符（311%，实测样本）判为合格', () => {
+      expect(ratioOf('D'.repeat(2009), '中'.repeat(647))?.passed).toBe(true)
+    })
+
+    it('中文原文 215 字 → 德语 1757 字符（817%，实测最短样本）判为合格', () => {
+      expect(ratioOf('D'.repeat(1757), '中'.repeat(215))?.passed).toBe(true)
+    })
+
+    it('中文原文 1485 字 → 德语 4791 字符（323%）判为合格', () => {
+      expect(ratioOf('D'.repeat(4791), '中'.repeat(1485))?.passed).toBe(true)
+    })
+
+    it('中文原文 647 字 → 德语 8000 字符（1236%，疑似扩写/编造）仍判为不合格', () => {
+      expect(ratioOf('D'.repeat(8000), '中'.repeat(647))?.passed).toBe(false)
+    })
+
+    it('英文原文仍用 200% 上限：1000 字符 → 2600 字符判为不合格', () => {
+      expect(ratioOf('D'.repeat(2600), 'E'.repeat(1000))?.passed).toBe(false)
+    })
+
+    it('中文原文译文过短（<60%）仍判为不合格', () => {
+      expect(ratioOf('D'.repeat(300), '中'.repeat(5738))?.passed).toBe(false)
+    })
+  })
+
   it('检测品牌名未出现', () => {
     const result = runQualityCheck(makeInput({
       brandOfficialName: 'XPeng',
