@@ -3,6 +3,7 @@ import path from 'path'
 import matter from 'gray-matter'
 import { articleFrontmatterSchema } from '@/lib/schemas'
 import { markdownToHtml } from '@/lib/markdown'
+import imageManifest from './image-manifest.json'
 
 import type { TopicSlug, MarketRelevance } from '@/lib/topics'
 
@@ -59,6 +60,10 @@ export type Brand = {
 const POSTS_DIR = path.join(process.cwd(), 'content', 'posts')
 const PUBLIC_DIR = path.join(process.cwd(), 'public')
 
+// Set of internal image paths verified to exist at build time
+// (scripts/generate-image-manifest.ts). See resolveImage() below.
+const IMAGE_MANIFEST: Set<string> = new Set(imageManifest.paths)
+
 // Module-level memo — avoids re-reading 694 files per call during a single request
 let _articlesCache: ArticleMeta[] | null = null
 let _articlesCacheTime = 0
@@ -70,15 +75,25 @@ function calculateReadTime(content: string): number {
   return Math.max(1, Math.ceil(wordCount / wordsPerMinute))
 }
 
-// Resolves an article image path to null if the file is missing on disk.
+// Resolves an article image path to null if the file is missing.
 // External URLs (http/https) pass through unchanged — they can only be
 // validated at runtime via FallbackImage.onError.
+//
+// In production, `public/images/**` is excluded from the serverless function
+// bundle (next.config.ts -> experimental.outputFileTracingExcludes), so
+// fs.existsSync() on those paths is always false at runtime. ISR revalidation
+// (~600s after deploy) would therefore blank out every internal article image.
+// Instead we consult the build-time manifest of verified paths. In dev/test the
+// files are on disk, so the original existence check still applies.
 function resolveImage(image: string | null | undefined): string | null {
   if (!image) return null
   if (/^https?:\/\//i.test(image)) return image
   if (!image.startsWith('/')) return null
-  const diskPath = path.join(PUBLIC_DIR, image)
-  return fs.existsSync(diskPath) ? image : null
+  if (process.env.NODE_ENV !== 'production') {
+    const diskPath = path.join(PUBLIC_DIR, image)
+    return fs.existsSync(diskPath) ? image : null
+  }
+  return IMAGE_MANIFEST.has(image) ? image : null
 }
 
 function parseMarkdownFile(filePath: string): Article | null {
