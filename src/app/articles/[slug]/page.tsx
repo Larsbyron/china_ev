@@ -6,6 +6,7 @@ import SiteFooter from '@/components/SiteFooter'
 import QuickFacts from '@/components/QuickFacts'
 import ShareButtons from '@/components/ShareButtons'
 import ReactionPanel from '@/components/ReactionPanel'
+import AffiliateBox from '@/components/AffiliateBox'
 import ArticleListItem from '@/components/ArticleListItem'
 import {
   getAllArticles,
@@ -266,6 +267,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     </a>
                   </div>
                 )}
+
+                {/* Amazon.de Zubehör — affiliate box (Anzeige) */}
+                <AffiliateBox />
               </div>
 
               {/* Quick Facts Sidebar */}

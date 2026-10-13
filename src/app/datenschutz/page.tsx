@@ -76,6 +76,65 @@ export default function DatenschutzPage() {
             Datenschutzerklärung von Vercel
           </a>.
         </p>
+
+        <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
+          6. Amazon-Partnerprogramm
+        </h2>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Diese Website nimmt am Amazon-Partnerprogramm teil. Mit „Anzeige“
+          gekennzeichnete Links sind Partner-Links: Wenn Sie darauf klicken, werden
+          Sie auf die Website von Amazon.de weitergeleitet. Erst dort setzt Amazon
+          eigene Cookies und verarbeitet Daten, um einen Verkauf beziehungsweise
+          eine Vermittlung nachzuvollziehen. Wir selbst setzen im Zusammenhang mit
+          den Partner-Links keine Cookies und legen keine Nutzerprofile an. Für Sie
+          ändert sich der Preis nicht: Eine Provision, die wir bei einem
+          qualifizierten Kauf erhalten, hat keinen Einfluss auf den von Ihnen
+          gezahlten Preis.
+        </p>
+
+        <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
+          7. Erfassung von Klicks auf Partner-Links
+        </h2>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Wenn Sie einen Partner-Link anklicken, sendet Ihr Browser eine kurze
+          Anfrage an unseren Server. Dabei speichern wir den angeklickten
+          Werbeplatz (Slot), das Tagesdatum als Zeitstempel sowie eine mit
+          SHA-256 gehashte Kennung Ihrer IP-Adresse. Die gehashte Kennung dient
+          ausschließlich der Begrenzung der Anfragen pro Tag (Missbrauchsschutz);
+          Ihre IP-Adresse wird nicht im Klartext gespeichert. Diese Daten nutzen
+          wir nur zur statistischen Auswertung der Klickzahlen und löschen sie
+          automatisch nach 90 Tagen. Eine Zusammenführung mit anderen
+          Datenquellen oder eine Identifizierung Ihrer Person findet nicht statt.
+        </p>
+
+        <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
+          8. Google AdSense
+        </h2>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Diese Website nutzt Google AdSense, einen Dienst der Google Ireland
+          Limited, um Werbeanzeigen auszuliefern. Google AdSense verwendet Cookies
+          und vergleichbare Technologien (einschließlich Speicherung auf Ihrem
+          Endgerät), um Anzeigen anzuzeigen und auszuwerten. Dabei können unter
+          anderem Ihre IP-Adresse, Angaben zu Browser und Gerät sowie Ihr
+          Nutzungsverhalten verarbeitet und an Google übertragen werden. Die
+          Einbindung erfolgt nur auf Grundlage Ihrer Einwilligung nach Art. 6
+          Abs. 1 lit. a DSGVO; diese Einwilligung können Sie jederzeit mit Wirkung
+          für die Zukunft widerrufen. Weitere Informationen finden Sie in der{' '}
+          <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">
+            Datenschutzerklärung von Google
+          </a>.
+        </p>
+
+        <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
+          9. Plausible und Vercel Web Analytics
+        </h2>
+        <p style={{ lineHeight: 1.7 }}>
+          Zur Reichweitenmessung setzen wir Plausible Analytics (Plausible
+          Insights OÜ, Estland) sowie Vercel Web Analytics ein. Beide Dienste
+          arbeiten ohne Cookies und setzen keine Kennungen auf Ihrem Endgerät. Es
+          werden keine personenbezogenen Daten gespeichert und keine Nutzerprofile
+          gebildet; die erfassten Angaben sind aggregiert und anonymisiert.
+        </p>
       </main>
 
       <SiteFooter />
