@@ -7,6 +7,8 @@ import QuickFacts from '@/components/QuickFacts'
 import ShareButtons from '@/components/ShareButtons'
 import ReactionPanel from '@/components/ReactionPanel'
 import AffiliateBox from '@/components/AffiliateBox'
+import AdUnit from '@/components/AdUnit'
+import { splitArticleHtml } from '@/lib/article-ad-split'
 import ArticleListItem from '@/components/ArticleListItem'
 import {
   getAllArticles,
@@ -84,6 +86,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   }
 
   const siteUrl = SITE_URL
+
+  // AdSense slot IDs come from the AdSense UI (Vercel env, build-time inlined).
+  // Both empty ⇒ AdUnit renders nothing and the page output is unchanged.
+  const adSlotInArticle = process.env.NEXT_PUBLIC_ADSENSE_SLOT_IN_ARTICLE ?? ''
+  const adSlotBottom = process.env.NEXT_PUBLIC_ADSENSE_SLOT_BOTTOM ?? ''
+  const adParts = adSlotInArticle ? splitArticleHtml(article.content) : null
 
   // Related articles: same brand + same topic + same DE status (E2)
   const seenSlugs = new Set([slug])
@@ -227,10 +235,31 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <div className={styles.body}>
             <div className={`${styles.bodyLayout} ${article.ev_model ? '' : styles.bodyLayoutNarrow}`}>
               <div className={styles.content}>
-                <div
-                  className="article-content"
-                  dangerouslySetInnerHTML={{ __html: article.content }}
-                />
+                {adParts ? (
+                  <>
+                    <div
+                      className="article-content"
+                      dangerouslySetInnerHTML={{ __html: adParts.before }}
+                    />
+                    <AdUnit slot={adSlotInArticle} variant="in-article" />
+                    <div
+                      className="article-content"
+                      dangerouslySetInnerHTML={{ __html: adParts.after }}
+                    />
+                  </>
+                ) : (
+                  <>
+                    <div
+                      className="article-content"
+                      dangerouslySetInnerHTML={{ __html: article.content }}
+                    />
+                    {/* Split unavailable (too short / unexpected markup) → the
+                        in-article unit degrades to an end-of-body unit. */}
+                    {adSlotInArticle ? (
+                      <AdUnit slot={adSlotInArticle} variant="bottom" />
+                    ) : null}
+                  </>
+                )}
 
                 {/* Tags */}
                 {article.tags.length > 0 && (
@@ -240,6 +269,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     ))}
                   </div>
                 )}
+
+                {/* Google AdSense — bottom slot (Anzeige), before Share, never
+                    adjacent to the Amazon affiliate box below. */}
+                {adSlotBottom ? <AdUnit slot={adSlotBottom} variant="bottom" /> : null}
 
                 {/* Share */}
                 <ShareButtons
