@@ -253,11 +253,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       className="article-content"
                       dangerouslySetInnerHTML={{ __html: article.content }}
                     />
-                    {/* Split unavailable (too short / unexpected markup) → the
-                        in-article unit degrades to an end-of-body unit. */}
-                    {adSlotInArticle ? (
-                      <AdUnit slot={adSlotInArticle} variant="bottom" />
-                    ) : null}
+                    {/* Split unavailable (too short / unexpected markup) → no
+                        in-article unit at all. Never push an In-article slot
+                        with Display attributes (unit-type mismatch), and never
+                        stack it on top of the bottom slot. */}
                   </>
                 )}
 

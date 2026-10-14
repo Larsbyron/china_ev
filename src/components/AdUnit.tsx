@@ -41,14 +41,17 @@ export default function AdUnit({ slot, variant = 'bottom' }: AdUnitProps) {
   if (!slot) return null
 
   return (
-    // data-pagefind-ignore: without it the "Anzeige" label would be indexed by
+    // data-pagefind-ignore: without it the "Anzeigen" label would be indexed by
     // the build-time pagefind run and pollute the on-site search index.
+    // Label wording: Google's ad placement policy allows Google ads to be
+    // labelled only "Anzeigen"/"Werbung" (never the singular "Anzeige"), so this
+    // deliberately differs from the affiliate box label.
     <aside
       className={variant === 'in-article' ? styles.wrapInline : styles.wrapBottom}
       data-pagefind-ignore
-      aria-label="Anzeige"
+      aria-label="Anzeigen"
     >
-      <span className={styles.badge}>Anzeige</span>
+      <span className={styles.badge}>Anzeigen</span>
       <ins
         ref={insRef}
         className="adsbygoogle"
