@@ -257,3 +257,26 @@ export function buildInDeutschlandSection(brandName: string): string {
   const noteLine = info.euNote || `${name} ist ausschließlich auf dem chinesischen Markt erhältlich. Es gibt aktuell keine offiziellen Pläne für einen Markteintritt in Deutschland oder Europa.`
   return `## In Deutschland nicht erhältlich\n\n${noteLine}`
 }
+
+/**
+ * 确定性兜底：保证"本地化模块"一定带标准标题。
+ *
+ * 为什么需要：
+ * - QA 硬门槛 checkInDeutschlandSection()（quality-check.ts）要求 final content 里出现
+ *   `## In Deutschland` 或 `## In Europa`，缺少即 error → 整篇被丢进 drafts。
+ * - 代码模板 buildInDeutschlandSection() 生成的段**总是**带标题；只有"模型自写的段"
+ *   可能不带标题（语料中见过 `## In Deutschland / Europa (IN_DEUTSCHLAND)` 之类畸形标题）。
+ * - 实测：2026-10-14 那轮 CI 的 10 例 QA 失败全部是这一条规则，每篇白烧 3 次 API 调用。
+ *   因此对模型自写的段补标题，而不是放宽 QA 判定。
+ *
+ * 规则：
+ * - section 去空白后为空 → 返回 fallback
+ * - 已含 `## In Deutschland` / `## In Europa`（允许 `##` 与文字之间有空格）→ 原样返回
+ * - 否则补上标准标题 `## In Deutschland`
+ */
+export function ensureModuleHeading(section: string | undefined, fallback: string): string {
+  const trimmed = (section ?? '').trim()
+  if (!trimmed) return fallback
+  if (/##\s*In\s+(?:Deutschland|Europa)/.test(trimmed)) return section as string
+  return `## In Deutschland\n\n${section}`
+}

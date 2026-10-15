@@ -132,7 +132,7 @@ export async function scrapeChooseAuto(maxArticles = 5): Promise<Article[]> {
       const articleHtml = await fetchPage(link.url)
       const extracted = extractContent(articleHtml)
 
-      if (!extracted.text || extracted.text.length < 200) {
+      if (!extracted.text || extracted.text.length < 400) {
         console.log(`[${SOURCE_NAME}] Skipping (insufficient content: ${extracted.text?.length || 0} chars)`)
         continue
       }

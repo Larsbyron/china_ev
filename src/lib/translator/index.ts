@@ -12,7 +12,7 @@ import {
   buildChunkTranslationPrompt,
   parseTranslationOutput,
 } from './prompts'
-import { lookupBrand, buildInDeutschlandSection } from './brand-glossary'
+import { lookupBrand, buildInDeutschlandSection, ensureModuleHeading } from './brand-glossary'
 import { buildRevisionPrompt } from './editorial-review'
 import { appendRunLog } from '../runlog'
 
@@ -323,7 +323,7 @@ export async function translateArticle(
           title: parsed.titel,
           description: parsed.beschreibung,
           content: parsed.inhalt,
-          inDeutschland: parsed.inDeutschland || (inDeutschlandText ?? ''),
+          inDeutschland: ensureModuleHeading(parsed.inDeutschland, inDeutschlandText ?? ''),
           primaryTopic: parsed.primaryTopic,
           marketRelevance: parsed.marketRelevance,
           brands: parsed.brands,
@@ -359,7 +359,7 @@ export async function translateArticle(
         title: parsed.titel,
         description: parsed.beschreibung,
         content: parsed.inhalt,
-        inDeutschland: parsed.inDeutschland || (inDeutschlandText ?? ''),
+        inDeutschland: ensureModuleHeading(parsed.inDeutschland, inDeutschlandText ?? ''),
         primaryTopic: parsed.primaryTopic,
         marketRelevance: parsed.marketRelevance,
         brands: parsed.brands,
@@ -448,7 +448,7 @@ async function translateChunked(
         if (parsed && parsed.titel && parsed.inhalt) {
           translatedTitle = parsed.titel
           translatedDescription = parsed.beschreibung
-          inDeutschland = parsed.inDeutschland || (inDeutschlandText ?? '')
+          inDeutschland = ensureModuleHeading(parsed.inDeutschland, inDeutschlandText ?? '')
           primaryTopic = parsed.primaryTopic
           marketRelevance = parsed.marketRelevance
           brands = parsed.brands
