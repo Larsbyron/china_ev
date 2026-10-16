@@ -5,6 +5,7 @@ import { resolve, join } from 'path'
 import type { Article, ScraperOptions, ScraperResult, ProcessedArticles, SourceName } from '../article'
 import { generateSlug, estimateReadTime, toISODateString, sanitizeDescription, truncateText } from '../article'
 import { loadFingerprints, saveFingerprints, computeFingerprint, rebuildFingerprintsFromDisk } from './dedup'
+import { dedupeBatchTitles, findCrossDayDuplicates, loadRecentPublishedTitles } from './title-dedup'
 import { scrapeAutohome } from './sources/autohome'
 import { scrapeIfeng } from './sources/ifeng'
 import { scrapeSina } from './sources/sina'
@@ -232,9 +233,33 @@ async function processSource(
 
   try {
     console.log(`\n[${sourceName}] Starting scrape...`)
-    const articles = await scraperFn(8)
+    const scraped = await scraperFn(8)
 
-    for (const article of articles) {
+    // 同批次近重复标题抑制（翻译前）：同一批候选里，同一件事只翻信息量最大的一篇。
+    // 只作用于本轮这个 source 抓到的候选；跨天行为不变（跨天只做 dry-run 日志）。
+    const batch = dedupeBatchTitles(scraped)
+    for (const dup of batch.skipped) {
+      console.log(
+        `[Dedup] skip (batch): "${dup.skipped.title}" ~ "${dup.kept.title}" ` +
+          `(sim=${dup.jaccard.toFixed(2)} anchor=${dup.anchor} via ${dup.reason})`
+      )
+      logRun(sourceName, dup.skipped.title, 'skipped_title_dupe')
+    }
+
+    // 跨天 dry-run 参照集（最近已发布文章标题）。已发布 .md 里存的是德文译文，
+    // 与中文候选通常撞不上，所以这条链路只在日志里标记 would-skip、绝不跳过。
+    const recentPublished = batch.enabled ? loadRecentPublishedTitles() : []
+
+    for (const article of batch.kept) {
+      // 跨天 dry-run：与最近已发布文章比标题，只记日志、不跳过。
+      const crossDay = findCrossDayDuplicates(article.title, recentPublished)
+      if (crossDay) {
+        console.log(
+          `[Dedup] would-skip (dry-run): "${article.title}" ~ "${crossDay.published.title}" ` +
+            `(sim=${crossDay.jaccard.toFixed(2)} anchor=${crossDay.anchor} via ${crossDay.reason}, ${crossDay.published.date})`
+        )
+      }
+
       // 账户欠费（402）之后再翻译毫无意义：立刻停下本源的循环（P1-7）。
       // 历史事故：一次欠费导致连续 62 天 0 发布、约 8,500 次无效调用。
       if (fatalApiError) {
