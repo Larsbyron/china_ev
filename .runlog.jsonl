@@ -29940,3 +29940,100 @@
 {"ts":"2026-10-15T20:19:43.343Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1835,"completion_tokens":1572,"reasoning_chars":4409,"content_chars":826}
 {"ts":"2026-10-15T20:19:43.343Z","source":"ChooseAuto","title":"Huawei HIMA: Fünf Marken von 29.400 € bis über 128.000 €","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-10-15T20:19:45.112Z","source":"ChooseAuto","title":"Huawei HIMA: Fünf Marken von 29.400 € bis über 128.000 €","action":"published","translation_ok":true}
+{"ts":"2026-10-16T05:03:04.980Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:04.991Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:05.000Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:05.014Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:05.026Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:05.044Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:05.056Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:05.064Z","source":"OFweek NEV","title":"意外不！6月17款燃油车销量过万","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:09.229Z","source":"ChooseAuto","title":"颜值空间智能全面拉满，MONA L05定义年轻大五座SUV新选择","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-16T05:03:09.229Z","source":"ChooseAuto","title":"小鹏MONA L05开启预售 16.98万起 三口之家刚刚好！","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-16T05:03:09.764Z","source":"Sina","title":"第六代动力电池沈阳正式投产下线 宝马新世代电动产品蓄势起航","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:09.774Z","source":"Sina","title":"通用汽车第三季度表现稳定 在华销量超35.8万辆","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:09.784Z","source":"Sina","title":"独家专访宝马M范梅尔：宝马M不追千匹，也不为圈速造车","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:09.793Z","source":"Sina","title":"不在华卖车的雷诺，两年后要和中国品牌比肩","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:09.803Z","source":"Sina","title":"首台量产车下线 猛士 X700迈入交付新阶段 10月底即将上市","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:17.613Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4498,"completion_tokens":2037,"cache_hit_tokens":2816,"cache_miss_tokens":1682,"reasoning_chars":2514,"content_chars":3519}
+{"ts":"2026-10-16T05:03:17.617Z","source":"CarNewsChina","title":"[QA FAILED] GWM Tank 700 LWB: 5,45-Meter-SUV mit sechs Sitzen","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-16T05:03:17.632Z","source":"CarNewsChina","title":"BMW China’s new i3 delivers 1,213 km range with 8.8 kWh/100km efficiency in an endurance test","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:17.652Z","source":"CarNewsChina","title":"Chery’s Jetour Traveller 7 launches in China with ICE and PHEV options, starting from 20,900 USD","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:17.666Z","source":"CarNewsChina","title":"Changan and CATL to collaborate on 1,500 km solid state cells, establish 75 GWh battery lines","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:17.679Z","source":"CarNewsChina","title":"BYD Ti 7 PHEV crossover gets bigger, long wheelbase trim spotted in China","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:17.705Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4295,"completion_tokens":2322,"cache_hit_tokens":2816,"cache_miss_tokens":1479,"reasoning_chars":3744,"content_chars":3726}
+{"ts":"2026-10-16T05:03:19.766Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3377,"completion_tokens":1415,"cache_hit_tokens":2816,"cache_miss_tokens":561,"reasoning_chars":2414,"content_chars":2319}
+{"ts":"2026-10-16T05:03:21.239Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":6179,"completion_tokens":1524,"cache_hit_tokens":6016,"cache_miss_tokens":163,"reasoning_chars":2548,"content_chars":3183}
+{"ts":"2026-10-16T05:03:21.241Z","source":"Sina","title":"[QA FAILED] Aston Martin verschiebt Elektro-Strategie auf 2030","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-16T05:03:21.254Z","source":"Sina","title":"ID. ERA 8X上市背后，上汽大众重建新能源竞争坐标","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:21.264Z","source":"Sina","title":"李传海：银河战舰700是越野2.0时代","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:23.114Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1888,"completion_tokens":745,"reasoning_chars":1636,"content_chars":866}
+{"ts":"2026-10-16T05:03:23.115Z","source":"Autohome NewEnergy","title":"BYD Seagull: Zweite Generation mit Lidar und 5 Sitzen","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-16T05:03:26.828Z","source":"Autohome NewEnergy","title":"BYD Seagull: Zweite Generation mit Lidar und 5 Sitzen","action":"published","translation_ok":true}
+{"ts":"2026-10-16T05:03:30.021Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":7722,"completion_tokens":3195,"cache_hit_tokens":7552,"cache_miss_tokens":170,"reasoning_chars":6503,"content_chars":3909}
+{"ts":"2026-10-16T05:03:30.023Z","source":"D1EV","title":"[QA FAILED] ADAS-Ranking China: Exeed vorn, Li Auto springt","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-16T05:03:30.039Z","source":"D1EV","title":"四维图新中标北京“双智”城市4.0房山区路侧感知项目","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:30.049Z","source":"D1EV","title":"官宣落地曼彻斯特，小马智行欧洲扩张进入新节奏","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:30.063Z","source":"D1EV","title":"何小鹏在巴黎汽车峰会分享XPENG AI ENGINEERING，小鹏开放智能汽车与物理AI合作","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:30.074Z","source":"D1EV","title":"9月汽车经销商库存系数达1.68，环比同比双双走高","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:30.087Z","source":"D1EV","title":"乘联分会：10月前11天乘用车零售45.9万辆，同比下降24%","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:30.099Z","source":"D1EV","title":"上市近半年，极氪8X登顶30-50万混动SUV累计销量第一","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:30.885Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4047,"completion_tokens":2449,"cache_hit_tokens":2944,"cache_miss_tokens":1103,"reasoning_chars":3855,"content_chars":3447}
+{"ts":"2026-10-16T05:03:30.926Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1406,"completion_tokens":1756,"reasoning_chars":5373,"content_chars":781}
+{"ts":"2026-10-16T05:03:30.927Z","source":"ChooseAuto","title":"GAC Trumpchi Yue 7: Gratis-Paket im Wert von 670 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-16T05:03:32.884Z","source":"ChooseAuto","title":"GAC Trumpchi Yue 7: Gratis-Paket im Wert von 670 €","action":"published","translation_ok":true}
+{"ts":"2026-10-16T05:03:38.276Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3566,"completion_tokens":1735,"cache_hit_tokens":2816,"cache_miss_tokens":750,"reasoning_chars":3559,"content_chars":2125}
+{"ts":"2026-10-16T05:03:44.412Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3814,"completion_tokens":2178,"cache_hit_tokens":3584,"cache_miss_tokens":230,"reasoning_chars":4454,"content_chars":3147}
+{"ts":"2026-10-16T05:03:44.413Z","source":"D1EV","title":"[QA FAILED] IM Motors sucht Zulieferer für Fahrwerk der neuen LS6","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-16T05:03:45.753Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1410,"completion_tokens":1031,"reasoning_chars":2336,"content_chars":1083}
+{"ts":"2026-10-16T05:03:45.753Z","source":"Autohome NewEnergy","title":"Tank 700 Langversion: 5,45 m und zwei Plug-in-Hybride","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-16T05:03:50.055Z","source":"Autohome NewEnergy","title":"Tank 700 Langversion: 5,45 m und zwei Plug-in-Hybride","action":"published","translation_ok":true}
+{"ts":"2026-10-16T05:03:50.063Z","source":"Autohome NewEnergy","title":"零跑全新SUV谍照","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:50.070Z","source":"Autohome NewEnergy","title":"长安猎手K70将上市","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:03:50.911Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4219,"completion_tokens":2655,"cache_hit_tokens":2816,"cache_miss_tokens":1403,"reasoning_chars":5638,"content_chars":4449}
+{"ts":"2026-10-16T05:03:54.376Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":1897,"completion_tokens":4096,"reasoning_chars":11485,"content_chars":1351}
+{"ts":"2026-10-16T05:03:54.376Z","source":"CarNewsChina","title":"XPeng Mona L05: Vorverkauf ab ca. 21.700 € in China","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-16T05:04:00.304Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1979,"completion_tokens":1412,"reasoning_chars":2199,"content_chars":2726}
+{"ts":"2026-10-16T05:04:00.304Z","source":"ChooseAuto","title":"Tesla Roadster: Kaltgas-Sprung ist kein Flugauto","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-16T05:04:02.264Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3471,"completion_tokens":1751,"cache_hit_tokens":3328,"cache_miss_tokens":143,"reasoning_chars":3514,"content_chars":2636}
+{"ts":"2026-10-16T05:04:12.133Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5111,"completion_tokens":3540,"cache_hit_tokens":2816,"cache_miss_tokens":2295,"reasoning_chars":6843,"content_chars":3740}
+{"ts":"2026-10-16T05:04:17.285Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1968,"completion_tokens":814,"reasoning_chars":1689,"content_chars":703}
+{"ts":"2026-10-16T05:04:17.285Z","source":"CarNewsChina","title":"XPeng Mona L05: Vorverkauf ab 21.700 € in China gestartet","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-16T05:04:21.540Z","source":"CarNewsChina","title":"Xpeng opens pre-sales for Mona L05 EV and EREV SUV in China, starting from 25,300 USD","action":"error","translation_ok":false}
+{"ts":"2026-10-16T05:04:21.552Z","source":"CarNewsChina","title":"Lynk & Co brings the 07 GT station wagon to Europe","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:04:21.567Z","source":"CarNewsChina","title":"MG’s IM LS9 full-size SUV to get advanced ADAS and semi-hidden door handles","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:04:26.558Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":1511,"completion_tokens":4096,"reasoning_chars":12281,"content_chars":730}
+{"ts":"2026-10-16T05:04:26.558Z","source":"Autohome NewEnergy","title":"Bentley Bentayga X: Offroad-Variante mit 650 PS gesichtet","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-16T05:04:42.047Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5617,"completion_tokens":7120,"cache_hit_tokens":2816,"cache_miss_tokens":2801,"reasoning_chars":20402,"content_chars":4494}
+{"ts":"2026-10-16T05:05:02.851Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4282,"completion_tokens":5908,"cache_hit_tokens":2816,"cache_miss_tokens":1466,"reasoning_chars":16604,"content_chars":4149}
+{"ts":"2026-10-16T05:05:08.687Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":2055,"completion_tokens":4096,"reasoning_chars":12558,"content_chars":1841}
+{"ts":"2026-10-16T05:05:08.688Z","source":"ChooseAuto","title":"Tesla Roadster: Zehn Kaltgas-Düsen für kurze Sprünge","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-16T05:05:09.001Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1921,"completion_tokens":924,"reasoning_chars":2265,"content_chars":907}
+{"ts":"2026-10-16T05:05:09.002Z","source":"Autohome NewEnergy","title":"Bentley Bentayga X: 650-PS-Offroader gegen Chinas Luxus-SUVs","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-16T05:05:12.113Z","source":"Autohome NewEnergy","title":"Bentley Bentayga X: 650-PS-Offroader gegen Chinas Luxus-SUVs","action":"published","translation_ok":true}
+{"ts":"2026-10-16T05:05:12.122Z","source":"Autohome NewEnergy","title":"新奥迪A6 allroad首发","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:05:29.429Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3559,"completion_tokens":2828,"cache_hit_tokens":2816,"cache_miss_tokens":743,"reasoning_chars":4656,"content_chars":3707}
+{"ts":"2026-10-16T05:05:34.421Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5346,"completion_tokens":4181,"cache_hit_tokens":2816,"cache_miss_tokens":2530,"reasoning_chars":9683,"content_chars":5607}
+{"ts":"2026-10-16T05:05:36.218Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1913,"completion_tokens":1130,"reasoning_chars":2499,"content_chars":844}
+{"ts":"2026-10-16T05:05:36.218Z","source":"Autohome NewEnergy","title":"Roewe Jiayue 07: EREV-SUV startet ab 17.600 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-16T05:05:38.408Z","source":"Autohome NewEnergy","title":"Roewe Jiayue 07: EREV-SUV startet ab 17.600 €","action":"published","translation_ok":true}
+{"ts":"2026-10-16T05:05:38.416Z","source":"Autohome NewEnergy","title":"新沃尔沃XC60实车亮相","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-16T05:05:41.168Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2321,"completion_tokens":888,"reasoning_chars":2355,"content_chars":868}
+{"ts":"2026-10-16T05:05:41.168Z","source":"ChooseAuto","title":"Tesla Roadster: Zehn Kaltgas-Düsen, aber kein Flugauto","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-16T05:05:41.959Z","source":"ChooseAuto","title":"Tesla Roadster: Zehn Kaltgas-Düsen, aber kein Flugauto","action":"published","translation_ok":true}
+{"ts":"2026-10-16T05:06:12.291Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5879,"completion_tokens":5218,"cache_hit_tokens":2816,"cache_miss_tokens":3063,"reasoning_chars":8837,"content_chars":6872}
+{"ts":"2026-10-16T05:06:25.335Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2952,"completion_tokens":2314,"reasoning_chars":6201,"content_chars":1344}
+{"ts":"2026-10-16T05:06:25.335Z","source":"ChooseAuto","title":"XPeng MONA L05: Großer E-SUV ab ca. 21.700 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-16T05:06:27.786Z","source":"ChooseAuto","title":"XPeng MONA L05: Großer E-SUV ab ca. 21.700 €","action":"published","translation_ok":true}
+{"ts":"2026-10-16T05:06:42.144Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3457,"completion_tokens":2048,"cache_hit_tokens":2816,"cache_miss_tokens":641,"reasoning_chars":5192,"content_chars":2777}
+{"ts":"2026-10-16T05:06:59.515Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1503,"completion_tokens":3255,"reasoning_chars":8377,"content_chars":2624}
+{"ts":"2026-10-16T05:06:59.515Z","source":"ChooseAuto","title":"Porsche Mission S: Achtzylinder-Konzept über dem 911","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-16T05:07:14.083Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4771,"completion_tokens":2266,"cache_hit_tokens":2816,"cache_miss_tokens":1955,"reasoning_chars":4763,"content_chars":3763}
+{"ts":"2026-10-16T05:07:14.083Z","source":"ChooseAuto","title":"Porsche Mission S: Achtzylinder-Studie über dem 911","action":"draft_qa_failed_retranslation","translation_ok":true}
+{"ts":"2026-10-16T05:07:14.084Z","source":"ChooseAuto","title":"Porsche Mission S: Achtzylinder-Konzept über dem 911","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-16T05:07:23.226Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3669,"completion_tokens":1271,"cache_hit_tokens":2816,"cache_miss_tokens":853,"reasoning_chars":1658,"content_chars":2865}
+{"ts":"2026-10-16T05:07:33.282Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1537,"completion_tokens":1592,"reasoning_chars":4999,"content_chars":761}
+{"ts":"2026-10-16T05:07:33.282Z","source":"ChooseAuto","title":"TSMC meldet Rekordzahlen — Auto-Chips bleiben knapp","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-16T05:07:33.283Z","source":"ChooseAuto","title":"TSMC meldet Rekordzahlen — Auto-Chips bleiben knapp","action":"published","translation_ok":true}
+{"ts":"2026-10-16T05:07:40.835Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3343,"completion_tokens":1216,"cache_hit_tokens":2816,"cache_miss_tokens":527,"reasoning_chars":1568,"content_chars":2432}
+{"ts":"2026-10-16T05:07:40.835Z","source":"ChooseAuto","title":"[QA FAILED] Elektro-Kipper in China: Absatz springt um 88 Prozent","action":"draft_qa_failed","translation_ok":true}
