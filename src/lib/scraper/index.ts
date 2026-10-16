@@ -5,6 +5,7 @@ import { resolve, join } from 'path'
 import type { Article, ScraperOptions, ScraperResult, ProcessedArticles, SourceName } from '../article'
 import { generateSlug, estimateReadTime, toISODateString, sanitizeDescription, truncateText } from '../article'
 import { loadFingerprints, saveFingerprints, computeFingerprint, rebuildFingerprintsFromDisk } from './dedup'
+import { buildPublishedUrlIndex, isAlreadyPublishedUrl, recordPublishedUrl, isUrlDedupEnabled, type PublishedUrlIndex } from './url-dedup'
 import { dedupeBatchTitles, findCrossDayDuplicates, loadRecentPublishedTitles } from './title-dedup'
 import { scrapeAutohome } from './sources/autohome'
 import { scrapeIfeng } from './sources/ifeng'
@@ -222,7 +223,8 @@ function extractTags(content: string, brand?: string): string[] {
 async function processSource(
   sourceKey: string,
   scraperFn: ScraperFn,
-  fingerprints: ProcessedArticles
+  fingerprints: ProcessedArticles,
+  urlIndex: PublishedUrlIndex | null
 ): Promise<ScraperResult> {
   const sourceName = SOURCE_NAMES[sourceKey]
   const result: ScraperResult = {
@@ -266,6 +268,15 @@ async function processSource(
         console.log(`[${sourceName}] Fatal API error (insufficient balance) — stopping this source`)
         logRun(sourceName, '', 'api_insufficient_balance', false)
         break
+      }
+
+      // 源 URL 身份去重（翻译前）：同一源 URL 重新翻译发布永远是冗余，
+      // 而不同文章的 URL 必然不同 → 稳定且零误杀，比源文内容哈希更早拦掉重抓稿。
+      // 次序：先 URL 后内容哈希（SHA-256 逻辑不变，仅在其之前多一道 URL 关）。
+      if (urlIndex && isAlreadyPublishedUrl(article.originalUrl, urlIndex)) {
+        console.log(`[Dedup] URL already published: ${article.originalUrl}`)
+        logRun(sourceName, article.title, 'skipped_dupe_url')
+        continue
       }
 
       // Check for duplicate
@@ -478,6 +489,10 @@ async function processSource(
 
         console.log(`[${sourceName}] Saved: ${filename.split('/').pop()}`)
         logRun(sourceName, translatedArticle.title, 'published')
+
+        // 写入侧：把刚发布的源 URL 记入内存索引（与下面 SHA-256 写入侧对称），
+        // 使同一轮里被另一个 source 抓到的同 URL 后续也能命中。纯内存，不落盘。
+        if (urlIndex) recordPublishedUrl(article.originalUrl, urlIndex)
       } catch (error) {
         const errorMsg = error instanceof Error ? error.message : String(error)
         result.errors.push(`Failed to save ${article.title}: ${errorMsg}`)
@@ -506,6 +521,27 @@ export async function scrapeAll(options: ScraperOptions = {}): Promise<void> {
 
   const fingerprints = loadFingerprints()
   resetFatalApiError() // 每轮干净开始（P1-7）
+
+  // 源 URL 身份去重：流水线启动时扫描 content/posts/ 的 frontmatter 构建一次。
+  // 不依赖 processed_articles.json，也不写任何新的持久化状态文件。
+  let urlIndex: PublishedUrlIndex | null = null
+  if (isUrlDedupEnabled()) {
+    const t0 = Date.now()
+    urlIndex = buildPublishedUrlIndex()
+    const s = urlIndex.stats
+    console.log(
+      `[Dedup] URL index built from content/posts: ${s.files} files scanned, ` +
+        `${s.withUrl} with original_url (${s.inlineStyle} inline / ${s.blockStyle} block-scalar), ` +
+        `${s.withoutUrl} without, ${s.distinctUrls} distinct canonical URLs, ` +
+        `${s.redundantPosts} redundant re-publishes, ${Date.now() - t0}ms`
+    )
+  } else {
+    console.log(
+      '[Dedup] URL dedup DISABLED (DEDUP_URL_ENABLED=0) — no index built; ' +
+        'source-URL re-publishes will NOT be skipped'
+    )
+  }
+
   const results: ScraperResult[] = []
 
   const sourcesToRun = options.sources?.length
@@ -521,7 +557,7 @@ export async function scrapeAll(options: ScraperOptions = {}): Promise<void> {
       console.error(`Unknown source: ${sourceKey}`)
       return null
     }
-    return processSource(sourceKey, scraperFn, fingerprints)
+    return processSource(sourceKey, scraperFn, fingerprints, urlIndex)
   })
 
   const partialResults = await Promise.all(promises)
