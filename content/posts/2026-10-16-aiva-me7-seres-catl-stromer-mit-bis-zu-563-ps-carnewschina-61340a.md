@@ -55,12 +55,7 @@ Für deutsche Autofahrer ist der Aiva ME7 vorerst ein Blick in die Zukunft: Das 
 
 ---
 
-![Bild](/images/aiva-me7-seres-catl-stromer-mit-bis-zu-563-ps-carnewschina-61340a-img2.webp)
 
-![Bild](/images/aiva-me7-seres-catl-stromer-mit-bis-zu-563-ps-carnewschina-61340a-img3.webp)
 
-![Bild](/images/aiva-me7-seres-catl-stromer-mit-bis-zu-563-ps-carnewschina-61340a-img4.webp)
 
-![Bild](/images/aiva-me7-seres-catl-stromer-mit-bis-zu-563-ps-carnewschina-61340a-img5.webp)
 
-![Bild](/images/aiva-me7-seres-catl-stromer-mit-bis-zu-563-ps-carnewschina-61340a-img6.webp)

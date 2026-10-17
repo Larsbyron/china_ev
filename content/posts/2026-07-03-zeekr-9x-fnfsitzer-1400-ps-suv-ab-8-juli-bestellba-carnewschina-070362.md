@@ -44,12 +44,7 @@ Der Zeekr 9X ist noch nicht in Deutschland erhältlich. Eine Europa-Expansion is
 
 ---
 
-![Bild](/images/zeekr-9x-fnfsitzer-1400-ps-suv-ab-8-juli-bestellba-carnewschina-070362-img2.webp)
 
-![Bild](/images/zeekr-9x-fnfsitzer-1400-ps-suv-ab-8-juli-bestellba-carnewschina-070362-img3.webp)
 
-![Bild](/images/zeekr-9x-fnfsitzer-1400-ps-suv-ab-8-juli-bestellba-carnewschina-070362-img4.webp)
 
-![Bild](/images/zeekr-9x-fnfsitzer-1400-ps-suv-ab-8-juli-bestellba-carnewschina-070362-img5.webp)
 
-![Bild](/images/zeekr-9x-fnfsitzer-1400-ps-suv-ab-8-juli-bestellba-carnewschina-070362-img6.webp)

@@ -56,12 +56,7 @@ Bei der Fahrassistenz setzt Volkswagen auf Lidar und den Horizon-Robotics-Chip J
 
 ---
 
-![Bild](/images/vw-id-aura-t6-china-start-ab-16600-mit-660-km-carnewschina-98d0b1-img2.webp)
 
-![Bild](/images/vw-id-aura-t6-china-start-ab-16600-mit-660-km-carnewschina-98d0b1-img3.webp)
 
-![Bild](/images/vw-id-aura-t6-china-start-ab-16600-mit-660-km-carnewschina-98d0b1-img4.webp)
 
-![Bild](/images/vw-id-aura-t6-china-start-ab-16600-mit-660-km-carnewschina-98d0b1-img5.webp)
 
-![Bild](/images/vw-id-aura-t6-china-start-ab-16600-mit-660-km-carnewschina-98d0b1-img6.webp)

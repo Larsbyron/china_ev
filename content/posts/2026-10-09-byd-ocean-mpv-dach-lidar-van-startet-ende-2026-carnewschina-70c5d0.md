@@ -57,12 +57,7 @@ BYD ist seit 2022 auf dem deutschen Markt aktiv und baut sein Händlernetz konti
 
 ---
 
-![Bild](/images/byd-ocean-mpv-dach-lidar-van-startet-ende-2026-carnewschina-70c5d0-img2.webp)
 
-![Bild](/images/byd-ocean-mpv-dach-lidar-van-startet-ende-2026-carnewschina-70c5d0-img3.webp)
 
-![Bild](/images/byd-ocean-mpv-dach-lidar-van-startet-ende-2026-carnewschina-70c5d0-img4.webp)
 
-![Bild](/images/byd-ocean-mpv-dach-lidar-van-startet-ende-2026-carnewschina-70c5d0-img5.webp)
 
-![Bild](/images/byd-ocean-mpv-dach-lidar-van-startet-ende-2026-carnewschina-70c5d0-img6.webp)

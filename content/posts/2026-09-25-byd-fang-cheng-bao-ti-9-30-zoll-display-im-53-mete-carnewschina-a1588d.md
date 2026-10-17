@@ -57,12 +57,7 @@ Aktuelle Modelle in Deutschland: **Atto 2, Atto 3, Dolphin, Seal, Sealion 7, Han
 
 ---
 
-![Bild](/images/byd-fang-cheng-bao-ti-9-30-zoll-display-im-53-mete-carnewschina-a1588d-img2.webp)
 
-![Bild](/images/byd-fang-cheng-bao-ti-9-30-zoll-display-im-53-mete-carnewschina-a1588d-img3.webp)
 
-![Bild](/images/byd-fang-cheng-bao-ti-9-30-zoll-display-im-53-mete-carnewschina-a1588d-img4.webp)
 
-![Bild](/images/byd-fang-cheng-bao-ti-9-30-zoll-display-im-53-mete-carnewschina-a1588d-img5.webp)
 
-![Bild](/images/byd-fang-cheng-bao-ti-9-30-zoll-display-im-53-mete-carnewschina-a1588d-img6.webp)

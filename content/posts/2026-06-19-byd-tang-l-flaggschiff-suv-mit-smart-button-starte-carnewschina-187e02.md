@@ -53,12 +53,7 @@ Der BYD Tang L ist derzeit ausschließlich in China erhältlich. Ein Marktstart 
 
 ---
 
-![Bild](/images/byd-tang-l-flaggschiff-suv-mit-smart-button-starte-carnewschina-187e02-img2.webp)
 
-![Bild](/images/byd-tang-l-flaggschiff-suv-mit-smart-button-starte-carnewschina-187e02-img3.webp)
 
-![Bild](/images/byd-tang-l-flaggschiff-suv-mit-smart-button-starte-carnewschina-187e02-img4.webp)
 
-![Bild](/images/byd-tang-l-flaggschiff-suv-mit-smart-button-starte-carnewschina-187e02-img5.webp)
 
-![Bild](/images/byd-tang-l-flaggschiff-suv-mit-smart-button-starte-carnewschina-187e02-img6.webp)

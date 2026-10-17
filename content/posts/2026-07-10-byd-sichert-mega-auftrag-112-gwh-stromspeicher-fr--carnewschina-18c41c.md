@@ -50,10 +50,6 @@ BYD ist seit 2022 auf dem deutschen Markt aktiv und baut sein Händlernetz konti
 
 ---
 
-![Bild](/images/byd-sichert-mega-auftrag-112-gwh-stromspeicher-fr-carnewschina-18c41c-img2.webp)
 
-![Bild](/images/byd-sichert-mega-auftrag-112-gwh-stromspeicher-fr-carnewschina-18c41c-img3.webp)
 
-![Bild](/images/byd-sichert-mega-auftrag-112-gwh-stromspeicher-fr-carnewschina-18c41c-img4.webp)
 
-![Bild](/images/byd-sichert-mega-auftrag-112-gwh-stromspeicher-fr-carnewschina-18c41c-img5.webp)

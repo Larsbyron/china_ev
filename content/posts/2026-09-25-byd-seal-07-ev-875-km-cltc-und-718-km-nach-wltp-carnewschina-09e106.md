@@ -60,12 +60,7 @@ Ein Europa- oder Deutschland-Start des neuen Seal 07 EV ist bislang nicht offizi
 
 ---
 
-![Bild](/images/byd-seal-07-ev-875-km-cltc-und-718-km-nach-wltp-carnewschina-09e106-img2.webp)
 
-![Bild](/images/byd-seal-07-ev-875-km-cltc-und-718-km-nach-wltp-carnewschina-09e106-img3.webp)
 
-![Bild](/images/byd-seal-07-ev-875-km-cltc-und-718-km-nach-wltp-carnewschina-09e106-img4.webp)
 
-![Bild](/images/byd-seal-07-ev-875-km-cltc-und-718-km-nach-wltp-carnewschina-09e106-img5.webp)
 
-![Bild](/images/byd-seal-07-ev-875-km-cltc-und-718-km-nach-wltp-carnewschina-09e106-img6.webp)

@@ -63,10 +63,6 @@ BYD ist in Deutschland bereits mit einem Händlernetz vertreten. Die erste 1.500
 
 ---
 
-![Bild](/images/byd-baut-15mwnetz-6682-lader-in-china-erster-in-de-carnewschina-02f6b3-img2.webp)
 
-![Bild](/images/byd-baut-15mwnetz-6682-lader-in-china-erster-in-de-carnewschina-02f6b3-img3.webp)
 
-![Bild](/images/byd-baut-15mwnetz-6682-lader-in-china-erster-in-de-carnewschina-02f6b3-img4.webp)
 
-![Bild](/images/byd-baut-15mwnetz-6682-lader-in-china-erster-in-de-carnewschina-02f6b3-img5.webp)

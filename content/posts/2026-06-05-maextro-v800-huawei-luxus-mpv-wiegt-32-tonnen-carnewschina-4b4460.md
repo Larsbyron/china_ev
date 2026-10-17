@@ -48,12 +48,7 @@ In Deutschland nicht erhältlich. Der chinesische Markt zeigt einen generellen T
 
 ---
 
-![Bild](/images/maextro-v800-huawei-luxus-mpv-wiegt-32-tonnen-carnewschina-4b4460-img2.webp)
 
-![Bild](/images/maextro-v800-huawei-luxus-mpv-wiegt-32-tonnen-carnewschina-4b4460-img3.webp)
 
-![Bild](/images/maextro-v800-huawei-luxus-mpv-wiegt-32-tonnen-carnewschina-4b4460-img4.webp)
 
-![Bild](/images/maextro-v800-huawei-luxus-mpv-wiegt-32-tonnen-carnewschina-4b4460-img5.webp)
 
-![Bild](/images/maextro-v800-huawei-luxus-mpv-wiegt-32-tonnen-carnewschina-4b4460-img6.webp)

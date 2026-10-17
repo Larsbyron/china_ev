@@ -58,12 +58,7 @@ Volvo plant den XC70 PHEV ab 2026 in über 70 Märkten, darunter Europa, anzubie
 
 ---
 
-![Bild](/images/volvo-xc70-phev-212-km-e-reichweite-ab-34500-carnewschina-f5585a-img2.webp)
 
-![Bild](/images/volvo-xc70-phev-212-km-e-reichweite-ab-34500-carnewschina-f5585a-img3.webp)
 
-![Bild](/images/volvo-xc70-phev-212-km-e-reichweite-ab-34500-carnewschina-f5585a-img4.webp)
 
-![Bild](/images/volvo-xc70-phev-212-km-e-reichweite-ab-34500-carnewschina-f5585a-img5.webp)
 
-![Bild](/images/volvo-xc70-phev-212-km-e-reichweite-ab-34500-carnewschina-f5585a-img6.webp)

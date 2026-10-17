@@ -58,10 +58,6 @@ BYD ist seit 2022 auf dem deutschen Markt aktiv und baut sein Händlernetz konti
 
 ---
 
-![Bild](/images/byd-verkauft-im-juni-403472-fahrzeuge-rekord-fr-de-carnewschina-b384d4-img2.webp)
 
-![Bild](/images/byd-verkauft-im-juni-403472-fahrzeuge-rekord-fr-de-carnewschina-b384d4-img3.webp)
 
-![Bild](/images/byd-verkauft-im-juni-403472-fahrzeuge-rekord-fr-de-carnewschina-b384d4-img4.webp)
 
-![Bild](/images/byd-verkauft-im-juni-403472-fahrzeuge-rekord-fr-de-carnewschina-b384d4-img5.webp)

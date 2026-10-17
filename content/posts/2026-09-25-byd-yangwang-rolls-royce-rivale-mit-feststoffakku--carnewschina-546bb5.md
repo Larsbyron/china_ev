@@ -53,12 +53,7 @@ BYD ist seit 2022 auf dem deutschen Markt aktiv und baut sein Händlernetz konti
 
 ---
 
-![Bild](/images/byd-yangwang-rolls-royce-rivale-mit-feststoffakku-carnewschina-546bb5-img2.webp)
 
-![Bild](/images/byd-yangwang-rolls-royce-rivale-mit-feststoffakku-carnewschina-546bb5-img3.webp)
 
-![Bild](/images/byd-yangwang-rolls-royce-rivale-mit-feststoffakku-carnewschina-546bb5-img4.webp)
 
-![Bild](/images/byd-yangwang-rolls-royce-rivale-mit-feststoffakku-carnewschina-546bb5-img5.webp)
 
-![Bild](/images/byd-yangwang-rolls-royce-rivale-mit-feststoffakku-carnewschina-546bb5-img6.webp)

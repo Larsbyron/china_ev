@@ -46,12 +46,7 @@ BYD ist seit 2022 auf dem deutschen Markt aktiv und baut sein Händlernetz konti
 
 ---
 
-![Bild](/images/byd-und-geely-e-autos-als-mobile-kraftwerke-in-chi-carnewschina-eb39d6-img2.webp)
 
-![Bild](/images/byd-und-geely-e-autos-als-mobile-kraftwerke-in-chi-carnewschina-eb39d6-img3.webp)
 
-![Bild](/images/byd-und-geely-e-autos-als-mobile-kraftwerke-in-chi-carnewschina-eb39d6-img4.webp)
 
-![Bild](/images/byd-und-geely-e-autos-als-mobile-kraftwerke-in-chi-carnewschina-eb39d6-img5.webp)
 
-![Bild](/images/byd-und-geely-e-autos-als-mobile-kraftwerke-in-chi-carnewschina-eb39d6-img6.webp)

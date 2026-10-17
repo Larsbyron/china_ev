@@ -47,12 +47,7 @@ Leapmotor International (Joint Venture mit Stellantis) vertreibt seit Ende 2024 
 
 ---
 
-![Bild](/images/leapmotor-d99-erev-minivan-mit-480-km-reichweite-carnewschina-8b04e7-img2.webp)
 
-![Bild](/images/leapmotor-d99-erev-minivan-mit-480-km-reichweite-carnewschina-8b04e7-img3.webp)
 
-![Bild](/images/leapmotor-d99-erev-minivan-mit-480-km-reichweite-carnewschina-8b04e7-img4.webp)
 
-![Bild](/images/leapmotor-d99-erev-minivan-mit-480-km-reichweite-carnewschina-8b04e7-img5.webp)
 
-![Bild](/images/leapmotor-d99-erev-minivan-mit-480-km-reichweite-carnewschina-8b04e7-img6.webp)

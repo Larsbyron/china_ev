@@ -54,12 +54,7 @@ BYD ist in Deutschland mit Modellen wie Atto 3, Seal und Dolphin vertreten. Der 
 
 ---
 
-![Bild](/images/byd-linghui-m9-hybrid-van-ab-ca-19300-euro-carnewschina-968760-img2.webp)
 
-![Bild](/images/byd-linghui-m9-hybrid-van-ab-ca-19300-euro-carnewschina-968760-img3.webp)
 
-![Bild](/images/byd-linghui-m9-hybrid-van-ab-ca-19300-euro-carnewschina-968760-img4.webp)
 
-![Bild](/images/byd-linghui-m9-hybrid-van-ab-ca-19300-euro-carnewschina-968760-img5.webp)
 
-![Bild](/images/byd-linghui-m9-hybrid-van-ab-ca-19300-euro-carnewschina-968760-img6.webp)

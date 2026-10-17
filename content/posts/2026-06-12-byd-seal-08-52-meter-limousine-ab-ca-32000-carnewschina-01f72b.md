@@ -68,12 +68,7 @@ Der Seal 08 ist bislang nur für den chinesischen Markt angekündigt. Ein Markts
 
 ---
 
-![Bild](/images/byd-seal-08-52-meter-limousine-ab-ca-32000-carnewschina-01f72b-img2.webp)
 
-![Bild](/images/byd-seal-08-52-meter-limousine-ab-ca-32000-carnewschina-01f72b-img3.webp)
 
-![Bild](/images/byd-seal-08-52-meter-limousine-ab-ca-32000-carnewschina-01f72b-img4.webp)
 
-![Bild](/images/byd-seal-08-52-meter-limousine-ab-ca-32000-carnewschina-01f72b-img5.webp)
 
-![Bild](/images/byd-seal-08-52-meter-limousine-ab-ca-32000-carnewschina-01f72b-img6.webp)

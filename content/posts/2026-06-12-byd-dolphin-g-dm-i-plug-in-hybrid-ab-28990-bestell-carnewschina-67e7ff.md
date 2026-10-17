@@ -51,12 +51,7 @@ Das Modell ist ab sofort in Deutschland bestellbar. Auslieferungen starten im He
 
 ---
 
-![Bild](/images/byd-dolphin-g-dm-i-plug-in-hybrid-ab-28990-bestell-carnewschina-67e7ff-img2.webp)
 
-![Bild](/images/byd-dolphin-g-dm-i-plug-in-hybrid-ab-28990-bestell-carnewschina-67e7ff-img3.webp)
 
-![Bild](/images/byd-dolphin-g-dm-i-plug-in-hybrid-ab-28990-bestell-carnewschina-67e7ff-img4.webp)
 
-![Bild](/images/byd-dolphin-g-dm-i-plug-in-hybrid-ab-28990-bestell-carnewschina-67e7ff-img5.webp)
 
-![Bild](/images/byd-dolphin-g-dm-i-plug-in-hybrid-ab-28990-bestell-carnewschina-67e7ff-img6.webp)

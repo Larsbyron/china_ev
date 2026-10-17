@@ -48,12 +48,7 @@ Chery plant mit der Marke Omoda eine Expansion nach Europa.
 
 ---
 
-![Bild](/images/chery-jv-senkt-evoque-l-preis-um-29400-carnewschina-d8fb14-img2.webp)
 
-![Bild](/images/chery-jv-senkt-evoque-l-preis-um-29400-carnewschina-d8fb14-img3.webp)
 
-![Bild](/images/chery-jv-senkt-evoque-l-preis-um-29400-carnewschina-d8fb14-img4.webp)
 
-![Bild](/images/chery-jv-senkt-evoque-l-preis-um-29400-carnewschina-d8fb14-img5.webp)
 
-![Bild](/images/chery-jv-senkt-evoque-l-preis-um-29400-carnewschina-d8fb14-img6.webp)

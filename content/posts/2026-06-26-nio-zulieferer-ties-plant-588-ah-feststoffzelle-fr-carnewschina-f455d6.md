@@ -37,10 +37,6 @@ NIO ist mit seinen Modellen ET5, ET7, EL7 und dem ES8 in Deutschland erhältlich
 
 ---
 
-![Bild](/images/nio-zulieferer-ties-plant-588-ah-feststoffzelle-fr-carnewschina-f455d6-img2.webp)
 
-![Bild](/images/nio-zulieferer-ties-plant-588-ah-feststoffzelle-fr-carnewschina-f455d6-img3.webp)
 
-![Bild](/images/nio-zulieferer-ties-plant-588-ah-feststoffzelle-fr-carnewschina-f455d6-img4.webp)
 
-![Bild](/images/nio-zulieferer-ties-plant-588-ah-feststoffzelle-fr-carnewschina-f455d6-img5.webp)

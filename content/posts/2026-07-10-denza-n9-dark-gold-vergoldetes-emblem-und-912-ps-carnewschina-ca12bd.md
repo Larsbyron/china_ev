@@ -41,12 +41,7 @@ Denza (腾势) ist eine Submarke von BYD und aktuell nicht in Deutschland erhäl
 
 ---
 
-![Bild](/images/denza-n9-dark-gold-vergoldetes-emblem-und-912-ps-carnewschina-ca12bd-img2.webp)
 
-![Bild](/images/denza-n9-dark-gold-vergoldetes-emblem-und-912-ps-carnewschina-ca12bd-img3.webp)
 
-![Bild](/images/denza-n9-dark-gold-vergoldetes-emblem-und-912-ps-carnewschina-ca12bd-img4.webp)
 
-![Bild](/images/denza-n9-dark-gold-vergoldetes-emblem-und-912-ps-carnewschina-ca12bd-img5.webp)
 
-![Bild](/images/denza-n9-dark-gold-vergoldetes-emblem-und-912-ps-carnewschina-ca12bd-img6.webp)

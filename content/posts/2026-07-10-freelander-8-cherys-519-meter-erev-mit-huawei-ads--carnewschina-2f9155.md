@@ -37,12 +37,7 @@ Der Freelander 8 ist zunächst exklusiv für den chinesischen Markt bestimmt. Ei
 
 ---
 
-![Bild](/images/freelander-8-cherys-519-meter-erev-mit-huawei-ads-carnewschina-2f9155-img2.webp)
 
-![Bild](/images/freelander-8-cherys-519-meter-erev-mit-huawei-ads-carnewschina-2f9155-img3.webp)
 
-![Bild](/images/freelander-8-cherys-519-meter-erev-mit-huawei-ads-carnewschina-2f9155-img4.webp)
 
-![Bild](/images/freelander-8-cherys-519-meter-erev-mit-huawei-ads-carnewschina-2f9155-img5.webp)
 
-![Bild](/images/freelander-8-cherys-519-meter-erev-mit-huawei-ads-carnewschina-2f9155-img6.webp)

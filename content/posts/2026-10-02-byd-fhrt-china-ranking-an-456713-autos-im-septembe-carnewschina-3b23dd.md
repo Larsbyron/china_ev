@@ -80,8 +80,5 @@ BYD ist seit 2022 auf dem deutschen Markt aktiv und baut sein Händlernetz konti
 
 ---
 
-![Bild](/images/byd-fhrt-china-ranking-an-456713-autos-im-septembe-carnewschina-3b23dd-img2.webp)
 
-![Bild](/images/byd-fhrt-china-ranking-an-456713-autos-im-septembe-carnewschina-3b23dd-img3.webp)
 
-![Bild](/images/byd-fhrt-china-ranking-an-456713-autos-im-septembe-carnewschina-3b23dd-img4.webp)

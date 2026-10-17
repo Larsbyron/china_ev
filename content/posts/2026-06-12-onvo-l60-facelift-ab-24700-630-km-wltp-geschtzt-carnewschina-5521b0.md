@@ -57,12 +57,7 @@ Der Onvo L60 ist bisher ausschließlich in China erhältlich. Ein Marktstart in 
 
 ---
 
-![Bild](/images/onvo-l60-facelift-ab-24700-630-km-wltp-geschtzt-carnewschina-5521b0-img2.webp)
 
-![Bild](/images/onvo-l60-facelift-ab-24700-630-km-wltp-geschtzt-carnewschina-5521b0-img3.webp)
 
-![Bild](/images/onvo-l60-facelift-ab-24700-630-km-wltp-geschtzt-carnewschina-5521b0-img4.webp)
 
-![Bild](/images/onvo-l60-facelift-ab-24700-630-km-wltp-geschtzt-carnewschina-5521b0-img5.webp)
 
-![Bild](/images/onvo-l60-facelift-ab-24700-630-km-wltp-geschtzt-carnewschina-5521b0-img6.webp)

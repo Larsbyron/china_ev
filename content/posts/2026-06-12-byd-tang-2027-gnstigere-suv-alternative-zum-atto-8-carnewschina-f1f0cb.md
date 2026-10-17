@@ -55,12 +55,7 @@ BYD ist seit 2022 auf dem deutschen Markt aktiv und baut sein Händlernetz konti
 
 ---
 
-![Bild](/images/byd-tang-2027-gnstigere-suv-alternative-zum-atto-8-carnewschina-f1f0cb-img2.webp)
 
-![Bild](/images/byd-tang-2027-gnstigere-suv-alternative-zum-atto-8-carnewschina-f1f0cb-img3.webp)
 
-![Bild](/images/byd-tang-2027-gnstigere-suv-alternative-zum-atto-8-carnewschina-f1f0cb-img4.webp)
 
-![Bild](/images/byd-tang-2027-gnstigere-suv-alternative-zum-atto-8-carnewschina-f1f0cb-img5.webp)
 
-![Bild](/images/byd-tang-2027-gnstigere-suv-alternative-zum-atto-8-carnewschina-f1f0cb-img6.webp)

@@ -67,12 +67,7 @@ BYD ist seit 2022 auf dem deutschen Markt aktiv und baut sein Händlernetz konti
 
 ---
 
-![Bild](/images/byd-seagull-2-gen-421-m-127-ps-420-km-cltc-carnewschina-fb0310-img2.webp)
 
-![Bild](/images/byd-seagull-2-gen-421-m-127-ps-420-km-cltc-carnewschina-fb0310-img3.webp)
 
-![Bild](/images/byd-seagull-2-gen-421-m-127-ps-420-km-cltc-carnewschina-fb0310-img4.webp)
 
-![Bild](/images/byd-seagull-2-gen-421-m-127-ps-420-km-cltc-carnewschina-fb0310-img5.webp)
 
-![Bild](/images/byd-seagull-2-gen-421-m-127-ps-420-km-cltc-carnewschina-fb0310-img6.webp)

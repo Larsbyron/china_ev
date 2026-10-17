@@ -62,12 +62,7 @@ Der iCar V27 selbst — außerhalb Chinas als iCaur V27 unterwegs — ist bislan
 
 ---
 
-![Bild](/images/chery-icaur-v27-449-ps-erev-suv-ab-24300-carnewschina-dcc6df-img2.webp)
 
-![Bild](/images/chery-icaur-v27-449-ps-erev-suv-ab-24300-carnewschina-dcc6df-img3.webp)
 
-![Bild](/images/chery-icaur-v27-449-ps-erev-suv-ab-24300-carnewschina-dcc6df-img4.webp)
 
-![Bild](/images/chery-icaur-v27-449-ps-erev-suv-ab-24300-carnewschina-dcc6df-img5.webp)
 
-![Bild](/images/chery-icaur-v27-449-ps-erev-suv-ab-24300-carnewschina-dcc6df-img6.webp)

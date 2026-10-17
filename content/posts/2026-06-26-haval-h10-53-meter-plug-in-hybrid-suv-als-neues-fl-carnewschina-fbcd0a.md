@@ -45,12 +45,7 @@ Zu diesem Hersteller liegen uns aktuell keine gesicherten Informationen über ei
 
 ---
 
-![Bild](/images/haval-h10-53-meter-plug-in-hybrid-suv-als-neues-fl-carnewschina-fbcd0a-img2.webp)
 
-![Bild](/images/haval-h10-53-meter-plug-in-hybrid-suv-als-neues-fl-carnewschina-fbcd0a-img3.webp)
 
-![Bild](/images/haval-h10-53-meter-plug-in-hybrid-suv-als-neues-fl-carnewschina-fbcd0a-img4.webp)
 
-![Bild](/images/haval-h10-53-meter-plug-in-hybrid-suv-als-neues-fl-carnewschina-fbcd0a-img5.webp)
 
-![Bild](/images/haval-h10-53-meter-plug-in-hybrid-suv-als-neues-fl-carnewschina-fbcd0a-img6.webp)

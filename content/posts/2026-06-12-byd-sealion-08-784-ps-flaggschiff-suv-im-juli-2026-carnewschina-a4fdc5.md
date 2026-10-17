@@ -50,12 +50,7 @@ Der Sealion 08 ist bisher nicht für den deutschen Markt bestätigt. Eine Europa
 
 ---
 
-![Bild](/images/byd-sealion-08-784-ps-flaggschiff-suv-im-juli-2026-carnewschina-a4fdc5-img2.webp)
 
-![Bild](/images/byd-sealion-08-784-ps-flaggschiff-suv-im-juli-2026-carnewschina-a4fdc5-img3.webp)
 
-![Bild](/images/byd-sealion-08-784-ps-flaggschiff-suv-im-juli-2026-carnewschina-a4fdc5-img4.webp)
 
-![Bild](/images/byd-sealion-08-784-ps-flaggschiff-suv-im-juli-2026-carnewschina-a4fdc5-img5.webp)
 
-![Bild](/images/byd-sealion-08-784-ps-flaggschiff-suv-im-juli-2026-carnewschina-a4fdc5-img6.webp)

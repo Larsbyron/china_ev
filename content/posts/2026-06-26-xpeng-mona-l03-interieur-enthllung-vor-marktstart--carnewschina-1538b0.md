@@ -49,12 +49,7 @@ XPeng ist bereits in mehreren nordeuropäischen Ländern wie Norwegen, Schweden,
 
 ---
 
-![Bild](/images/xpeng-mona-l03-interieur-enthllung-vor-marktstart-carnewschina-1538b0-img2.webp)
 
-![Bild](/images/xpeng-mona-l03-interieur-enthllung-vor-marktstart-carnewschina-1538b0-img3.webp)
 
-![Bild](/images/xpeng-mona-l03-interieur-enthllung-vor-marktstart-carnewschina-1538b0-img4.webp)
 
-![Bild](/images/xpeng-mona-l03-interieur-enthllung-vor-marktstart-carnewschina-1538b0-img5.webp)
 
-![Bild](/images/xpeng-mona-l03-interieur-enthllung-vor-marktstart-carnewschina-1538b0-img6.webp)

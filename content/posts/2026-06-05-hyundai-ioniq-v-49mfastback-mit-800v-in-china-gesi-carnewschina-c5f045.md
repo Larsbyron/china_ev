@@ -43,12 +43,7 @@ Hyundai kämpft in China weiter mit rückläufigen Verkaufszahlen – im April 2
 
 ---
 
-![Bild](/images/hyundai-ioniq-v-49mfastback-mit-800v-in-china-gesi-carnewschina-c5f045-img2.webp)
 
-![Bild](/images/hyundai-ioniq-v-49mfastback-mit-800v-in-china-gesi-carnewschina-c5f045-img3.webp)
 
-![Bild](/images/hyundai-ioniq-v-49mfastback-mit-800v-in-china-gesi-carnewschina-c5f045-img4.webp)
 
-![Bild](/images/hyundai-ioniq-v-49mfastback-mit-800v-in-china-gesi-carnewschina-c5f045-img5.webp)
 
-![Bild](/images/hyundai-ioniq-v-49mfastback-mit-800v-in-china-gesi-carnewschina-c5f045-img6.webp)

@@ -39,10 +39,6 @@ Leapmotor ist seit Herbst 2024 in Deutschland erhältlich. Die Marke wird über 
 
 ---
 
-![Bild](/images/leapmotor-auslieferungen-steigen-im-mai-um-81-carnewschina-2f1899-img2.webp)
 
-![Bild](/images/leapmotor-auslieferungen-steigen-im-mai-um-81-carnewschina-2f1899-img3.webp)
 
-![Bild](/images/leapmotor-auslieferungen-steigen-im-mai-um-81-carnewschina-2f1899-img4.webp)
 
-![Bild](/images/leapmotor-auslieferungen-steigen-im-mai-um-81-carnewschina-2f1899-img5.webp)

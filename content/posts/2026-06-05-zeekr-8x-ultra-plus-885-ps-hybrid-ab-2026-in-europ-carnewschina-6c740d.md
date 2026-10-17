@@ -51,12 +51,7 @@ Zeekr ist als Marke der Geely-Gruppe in ausgewählten EU-Ländern (Schweden, Nie
 
 ---
 
-![Bild](/images/zeekr-8x-ultra-plus-885-ps-hybrid-ab-2026-in-europ-carnewschina-6c740d-img2.webp)
 
-![Bild](/images/zeekr-8x-ultra-plus-885-ps-hybrid-ab-2026-in-europ-carnewschina-6c740d-img3.webp)
 
-![Bild](/images/zeekr-8x-ultra-plus-885-ps-hybrid-ab-2026-in-europ-carnewschina-6c740d-img4.webp)
 
-![Bild](/images/zeekr-8x-ultra-plus-885-ps-hybrid-ab-2026-in-europ-carnewschina-6c740d-img5.webp)
 
-![Bild](/images/zeekr-8x-ultra-plus-885-ps-hybrid-ab-2026-in-europ-carnewschina-6c740d-img6.webp)

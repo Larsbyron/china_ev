@@ -47,8 +47,5 @@ Geely ist in ausgewählte EU-Märkte erhältlich, jedoch noch nicht offiziell in
 
 ---
 
-![Bild](/images/geely-startet-2027-in-kanada-quote-statt-100-straf-carnewschina-471e31-img2.webp)
 
-![Bild](/images/geely-startet-2027-in-kanada-quote-statt-100-straf-carnewschina-471e31-img3.webp)
 
-![Bild](/images/geely-startet-2027-in-kanada-quote-statt-100-straf-carnewschina-471e31-img4.webp)

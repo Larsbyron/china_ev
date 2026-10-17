@@ -42,12 +42,7 @@ Der Great Han wurde für den europäischen Markt noch nicht offiziell bestätigt
 
 ---
 
-![Bild](/images/byd-great-han-764-ps-flaggschiff-mit-ber-1000-km-r-carnewschina-6f3832-img2.webp)
 
-![Bild](/images/byd-great-han-764-ps-flaggschiff-mit-ber-1000-km-r-carnewschina-6f3832-img3.webp)
 
-![Bild](/images/byd-great-han-764-ps-flaggschiff-mit-ber-1000-km-r-carnewschina-6f3832-img4.webp)
 
-![Bild](/images/byd-great-han-764-ps-flaggschiff-mit-ber-1000-km-r-carnewschina-6f3832-img5.webp)
 
-![Bild](/images/byd-great-han-764-ps-flaggschiff-mit-ber-1000-km-r-carnewschina-6f3832-img6.webp)
