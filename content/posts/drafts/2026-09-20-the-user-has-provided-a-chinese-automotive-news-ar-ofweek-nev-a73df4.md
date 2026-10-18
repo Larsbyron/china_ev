@@ -8,7 +8,7 @@ category: "news"
 
 brands: ["Li Auto"]
 tags: ["Sicherheit"]
-draft: false
+draft: true
 original_url: "https://nev.ofweek.com/2026-08/ART-77015-8330-30700339.html"
 read_time_minutes: 21
 primaryTopic: "software-assistenz-autonomes-fahren"

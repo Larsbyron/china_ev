@@ -8,7 +8,7 @@ category: "news"
 
 brands: ["BAW", "Ruisheng"]
 tags: ["Reichweite", "Ladestation"]
-draft: false
+draft: true
 original_url: "https://nev.ofweek.com/2026-08/ART-71008-8330-30699646.html"
 read_time_minutes: 10
 primaryTopic: "modelle-marktstarts"

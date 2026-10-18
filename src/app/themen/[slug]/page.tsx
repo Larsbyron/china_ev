@@ -23,10 +23,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!isValidTopicSlug(slug)) return {}
   const topic = TOPIC_BY_SLUG[slug]
   return {
-    title: `${topic.label} — China EV News`,
-    description: topic.description,
+    title: topic.seoTitle ?? `${topic.label} — China EV News`,
+    description: topic.seoDescription ?? topic.description,
     alternates: {
       canonical: canonicalUrl(`/themen/${slug}/`),
+    },
+    openGraph: {
+      title: topic.seoTitle ?? topic.label,
+      description: topic.seoDescription ?? topic.description,
     },
   }
 }

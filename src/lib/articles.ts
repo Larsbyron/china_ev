@@ -180,6 +180,10 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
   if (!fs.existsSync(filePath)) return null
   const article = parseMarkdownFile(filePath)
   if (!article) return null
+  // Drafts must never be reachable: getAllArticles() hides them from listings, but the
+  // detail route reads the file directly — without this guard a `draft: true` file that
+  // still lives in content/posts stays publicly served at its URL.
+  if (article.draft) return null
 
   // Convert markdown content to HTML via remark/rehype pipeline
   const htmlContent = await markdownToHtml(article.content)
