@@ -30862,3 +30862,84 @@
 {"ts":"2026-10-19T16:26:28.174Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1489,"completion_tokens":1477,"reasoning_chars":4282,"content_chars":499}
 {"ts":"2026-10-19T16:26:28.174Z","source":"D1EV","title":"Tesla-Autopilot übersieht Reifen — Front hebt bei 105 km/h ab","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-10-19T16:26:29.675Z","source":"D1EV","title":"Tesla-Autopilot übersieht Reifen — Front hebt bei 105 km/h ab","action":"published","translation_ok":true}
+{"ts":"2026-10-19T21:22:59.547Z","source":"Autohome NewEnergy","title":"全新比亚迪海鸥/家越07领衔 本周新车预告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:22:59.555Z","source":"Autohome NewEnergy","title":"猛士X700将上市","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:22:59.563Z","source":"Autohome NewEnergy","title":"红旗G919将上市","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:22:59.572Z","source":"Autohome NewEnergy","title":"零跑A10s正式上市","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:22:59.586Z","source":"Autohome NewEnergy","title":"新日产NV200谍照","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:22:59.594Z","source":"Autohome NewEnergy","title":"赛力斯赛豆ME7申报图","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:22:59.602Z","source":"Autohome NewEnergy","title":"新奔驰纯电C300L申报图","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:00.275Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:00.288Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:00.297Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:00.317Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:00.329Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:00.343Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:00.357Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:00.374Z","source":"OFweek NEV","title":"意外不！6月17款燃油车销量过万","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:09.058Z","source":"Sina","title":"岚图梦想家9入藏北京汽车博物馆","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:09.074Z","source":"Sina","title":"李传海：银河战舰700是越野2.0时代","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:09.084Z","source":"Sina","title":"2026巴黎车展：吉利汽车集团携多款车型亮相","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:09.095Z","source":"Sina","title":"不在华卖车的雷诺，两年后要和中国品牌比肩","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:09.110Z","source":"Sina","title":"长安高层换防背后 两级治理进入新阶段","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:09.124Z","source":"Sina","title":"独家专访宝马M范梅尔：宝马M不追千匹，也不为圈速造车","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:09.136Z","source":"Sina","title":"大众前三季度在华交付新车137万辆 继续稳居市场前三","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:09.147Z","source":"Sina","title":"第六代动力电池沈阳正式投产下线 宝马新世代电动产品蓄势起航","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:10.386Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4012,"completion_tokens":2452,"cache_hit_tokens":2688,"cache_miss_tokens":1324,"reasoning_chars":3951,"content_chars":3677}
+{"ts":"2026-10-19T21:23:14.718Z","source":"ChooseAuto","title":"中国设计文脉相承，岚图梦想家9入藏北京汽车博物馆","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-19T21:23:14.729Z","source":"ChooseAuto","title":"星瑞L PLUS之后，合资的最后颜面也快没了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:14.745Z","source":"ChooseAuto","title":"渗透率突破67%！淘汰燃油车的不是技术，是市场逻辑","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:17.130Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":7985,"completion_tokens":1980,"cache_hit_tokens":7808,"cache_miss_tokens":177,"reasoning_chars":1504,"content_chars":5112}
+{"ts":"2026-10-19T21:23:18.948Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1854,"completion_tokens":1584,"reasoning_chars":4280,"content_chars":631}
+{"ts":"2026-10-19T21:23:18.949Z","source":"CarNewsChina","title":"Xiaomi SU9 LUX: Flaggschiff-Sedan über 5,2 Meter geplant","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-19T21:23:20.552Z","source":"CarNewsChina","title":"Xiaomi SU9 LUX: Flaggschiff-Sedan über 5,2 Meter geplant","action":"published","translation_ok":true}
+{"ts":"2026-10-19T21:23:20.572Z","source":"CarNewsChina","title":"BYD FCB Bao 8 drives on three wheels with wheel clamp attached on public street","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:30.635Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3875,"completion_tokens":3030,"cache_hit_tokens":3712,"cache_miss_tokens":163,"reasoning_chars":5020,"content_chars":3780}
+{"ts":"2026-10-19T21:23:30.637Z","source":"ChooseAuto","title":"[QA FAILED] WEY Gaoshan 8 HEV: 5-Meter-MPV ab ca. 35.300 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-19T21:23:30.657Z","source":"ChooseAuto","title":"0首付0息、智驾无忧、电池无忧……智己汽车提前开启双十一购车风暴","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:30.673Z","source":"ChooseAuto","title":"历史性时刻！岚图梦想家9成为首款入藏汽车博物馆高端MPV","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:30.685Z","source":"ChooseAuto","title":"精品小车变天之后，这三家谁能成为经典？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:30.698Z","source":"ChooseAuto","title":"花高价买的激光雷达，为什么没拦住车辆冲出路面？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:30.995Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4553,"completion_tokens":1769,"cache_hit_tokens":4352,"cache_miss_tokens":201,"reasoning_chars":1783,"content_chars":4037}
+{"ts":"2026-10-19T21:23:30.996Z","source":"CarNewsChina","title":"[QA FAILED] Chery Omoda 5: 8.878 Autos im Achsen-Rückruf","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-19T21:23:31.014Z","source":"CarNewsChina","title":"Next-gen BYD Han listed with 520 kW AWD and 270 km/h top speed","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:31.037Z","source":"CarNewsChina","title":"Nio’s Firefly upgrades lineup with new 60kWh battery model launching October 23, report says","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:31.059Z","source":"CarNewsChina","title":"Next-Gen BYD Tang EV AWD listed with 691 hp dual motors and 250 km/h top speed","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:31.076Z","source":"CarNewsChina","title":"BYD Racco launches in first market outside Japan at 34,615 USD","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:31.095Z","source":"CarNewsChina","title":"Seres-CATL’s first joint model Aiva ME7 appears in regulatory filings","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:23:47.445Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4367,"completion_tokens":6269,"cache_hit_tokens":2688,"cache_miss_tokens":1679,"reasoning_chars":12945,"content_chars":7094}
+{"ts":"2026-10-19T21:24:04.195Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":4139,"completion_tokens":4096,"reasoning_chars":14584,"content_chars":0}
+{"ts":"2026-10-19T21:24:25.429Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":4139,"completion_tokens":4096,"reasoning_chars":14708,"content_chars":0}
+{"ts":"2026-10-19T21:24:44.649Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":4139,"completion_tokens":4096,"reasoning_chars":14602,"content_chars":0}
+{"ts":"2026-10-19T21:25:07.779Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":4139,"completion_tokens":4096,"reasoning_chars":10000,"content_chars":2894}
+{"ts":"2026-10-19T21:25:07.779Z","source":"D1EV","title":"Chinas Fahrassistenz: Spitze schafft 150 km ohne Eingriff","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-19T21:25:38.181Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":10829,"completion_tokens":6106,"cache_hit_tokens":2816,"cache_miss_tokens":8013,"reasoning_chars":11434,"content_chars":7147}
+{"ts":"2026-10-19T21:25:38.182Z","source":"D1EV","title":"Chinas Fahrassistenz: 150 km MPCI – Tesla als Maßstab","action":"draft_qa_failed_retranslation","translation_ok":true}
+{"ts":"2026-10-19T21:25:38.183Z","source":"D1EV","title":"Chinas Fahrassistenz: Spitze schafft 150 km ohne Eingriff","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-19T21:25:38.198Z","source":"D1EV","title":"出口得太多、船不够用了！官方确认：比亚迪又买10艘滚装船","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:25:38.210Z","source":"D1EV","title":"小鹏MONA的销量神话能复用到L05身上吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:25:38.223Z","source":"D1EV","title":"加入换电生态！华为引望与宁德时代、时代电服合作","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-19T21:26:01.127Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3457,"completion_tokens":4764,"cache_hit_tokens":3323,"cache_miss_tokens":134,"reasoning_chars":14935,"content_chars":2041}
+{"ts":"2026-10-19T21:26:08.609Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1279,"completion_tokens":1277,"reasoning_chars":2160,"content_chars":2171}
+{"ts":"2026-10-19T21:26:08.609Z","source":"D1EV","title":"Voyah Dreamer 9: Rechtslenker startet in Hongkong","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-19T21:26:25.068Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4576,"completion_tokens":3223,"cache_hit_tokens":2816,"cache_miss_tokens":1760,"reasoning_chars":8131,"content_chars":2420}
+{"ts":"2026-10-19T21:26:35.066Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1479,"completion_tokens":1836,"reasoning_chars":5501,"content_chars":816}
+{"ts":"2026-10-19T21:26:35.067Z","source":"D1EV","title":"Voyah Dreamer 9: 650 km Reichweite, Start in Hongkong","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-19T21:26:37.140Z","source":"D1EV","title":"Voyah Dreamer 9: 650 km Reichweite, Start in Hongkong","action":"published","translation_ok":true}
+{"ts":"2026-10-19T21:27:05.623Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3681,"completion_tokens":6516,"cache_hit_tokens":3456,"cache_miss_tokens":225,"reasoning_chars":17002,"content_chars":3534}
+{"ts":"2026-10-19T21:27:21.868Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1831,"completion_tokens":3384,"reasoning_chars":7380,"content_chars":2479}
+{"ts":"2026-10-19T21:27:21.869Z","source":"D1EV","title":"Foxconn kauft 50 % der Mitsubishi-Electric-Autosparte","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-19T21:27:40.346Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5113,"completion_tokens":4238,"cache_hit_tokens":2816,"cache_miss_tokens":2297,"reasoning_chars":9153,"content_chars":3987}
+{"ts":"2026-10-19T21:27:51.562Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1872,"completion_tokens":2384,"reasoning_chars":6728,"content_chars":840}
+{"ts":"2026-10-19T21:27:51.563Z","source":"D1EV","title":"Foxconn kauft Mitsubishi-Electric-Zulieferer für 620 Mio. €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-19T21:27:52.429Z","source":"D1EV","title":"Foxconn kauft Mitsubishi-Electric-Zulieferer für 620 Mio. €","action":"published","translation_ok":true}
+{"ts":"2026-10-19T21:28:05.464Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3583,"completion_tokens":2401,"cache_hit_tokens":3328,"cache_miss_tokens":255,"reasoning_chars":4526,"content_chars":3673}
+{"ts":"2026-10-19T21:28:17.655Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1764,"completion_tokens":2335,"reasoning_chars":5582,"content_chars":2460}
+{"ts":"2026-10-19T21:28:17.655Z","source":"D1EV","title":"Kanada: 42 % der EV-Käufer warten auf chinesische Autos","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-19T21:28:30.138Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4931,"completion_tokens":2398,"cache_hit_tokens":2816,"cache_miss_tokens":2115,"reasoning_chars":3617,"content_chars":4687}
+{"ts":"2026-10-19T21:28:43.096Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2030,"completion_tokens":2534,"reasoning_chars":5829,"content_chars":2969}
+{"ts":"2026-10-19T21:28:43.096Z","source":"D1EV","title":"Kanada: 42 % warten auf Chinesen-EVs – Tesla füllt Quote","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-19T21:29:02.966Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5096,"completion_tokens":4254,"cache_hit_tokens":2816,"cache_miss_tokens":2280,"reasoning_chars":10892,"content_chars":4187}
+{"ts":"2026-10-19T21:29:02.967Z","source":"D1EV","title":"Kanada: 42 % warten auf China-EVs – Tesla füllt Quote","action":"draft_qa_failed_retranslation","translation_ok":true}
+{"ts":"2026-10-19T21:29:02.967Z","source":"D1EV","title":"Kanada: 42 % warten auf Chinesen-EVs – Tesla füllt Quote","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-19T21:29:02.981Z","source":"D1EV","title":"特斯拉AP功能不认识轮胎 高速上径直碾过致车身起飞","action":"skipped_dupe_url","translation_ok":true}
