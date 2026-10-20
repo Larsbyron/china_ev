@@ -66,13 +66,24 @@ export async function POST(req: NextRequest) {
     // ③ per-IP daily quota — over limit: 204 but do NOT record
     const allowed = await bumpIpQuota(ipHash, day, DAILY_IP_LIMIT)
     if (!allowed) {
+      // Visible in the function log: distinguishes "quota dropped it" from
+      // "the visitor never clicked".
+      console.warn('[affiliate-click] quota exceeded', slot, day)
       return new Response(null, { status: 204 })
     }
 
     // ④ record
     await recordClick(slot as string, day)
-  } catch {
-    // KV failure must never surface as 500 — swallow and report success-free 204
+  } catch (error) {
+    // KV failure must never surface as 500 — but it must not be invisible
+    // either: without this log a lost click looks identical to a click that
+    // never happened (measured 4 of 7 requests lost on 2026-10-13).
+    console.error(
+      '[affiliate-click] record failed',
+      slot,
+      day,
+      error instanceof Error ? error.message : String(error)
+    )
     return new Response(null, { status: 204 })
   }
 

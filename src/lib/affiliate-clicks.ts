@@ -34,15 +34,43 @@ export function currentDay(now: Date = new Date()): string {
   return new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Berlin' }).format(now)
 }
 
-/** Increment both counters (total + per-day) and (re)set their TTL. */
+/**
+ * Increment both counters (total + per-day) and (re)set their TTL.
+ *
+ * Each write is retried once: a silent single-`incr` failure is invisible to
+ * the caller (the API route always answers 204), and on 2026-10-13 four of
+ * seven requests that reached the route left no counter behind — the loss was
+ * only visible as `affil:ip:*` keys without matching `affil:click:*` keys.
+ * Failures now rethrow so the route can log them instead of swallowing.
+ */
 export async function recordClick(slotId: string, day: string): Promise<void> {
   const total = totalKey(slotId)
   const perDay = dayKey(day, slotId)
 
-  await kv.incr(total)
-  await kv.expire(total, TTL_SECONDS)
-  await kv.incr(perDay)
-  await kv.expire(perDay, TTL_SECONDS)
+  await incrWithRetry(total)
+  await incrWithRetry(perDay)
+  // TTL is best-effort: a missing expire only extends retention, it never
+  // loses a click, so it must not fail the whole record.
+  await Promise.all([
+    kv.expire(total, TTL_SECONDS).catch(() => {}),
+    kv.expire(perDay, TTL_SECONDS).catch(() => {}),
+  ])
+}
+
+async function incrWithRetry(key: string, attempts = 2): Promise<void> {
+  let lastError: unknown
+  for (let attempt = 0; attempt < attempts; attempt += 1) {
+    try {
+      await kv.incr(key)
+      return
+    } catch (error) {
+      lastError = error
+      if (attempt + 1 < attempts) {
+        await new Promise((resolve) => setTimeout(resolve, 120))
+      }
+    }
+  }
+  throw lastError instanceof Error ? lastError : new Error(String(lastError))
 }
 
 /**
