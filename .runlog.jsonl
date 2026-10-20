@@ -31043,3 +31043,79 @@
 {"ts":"2026-10-20T14:15:20.849Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1905,"completion_tokens":2596,"reasoning_chars":6603,"content_chars":2426}
 {"ts":"2026-10-20T14:15:20.849Z","source":"CarNewsChina","title":"Geely EX2: Millionster Wagen nach zwei Jahren vom Band","action":"editorial_revision","translation_ok":true}
 {"ts":"2026-10-20T14:15:20.849Z","source":"CarNewsChina","title":"Geely EX2: Millionster Wagen nach zwei Jahren vom Band","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-20T20:19:57.480Z","source":"ChooseAuto","title":"","action":"error","translation_ok":false}
+{"ts":"2026-10-20T20:20:05.613Z","source":"CarNewsChina","title":"BYD launches all-new Seagull in China: the brand’s most affordable Flash-Charging EV under 10,000 US","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:05.691Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:05.705Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:05.724Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:05.741Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:05.755Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:05.772Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:05.797Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:05.809Z","source":"OFweek NEV","title":"意外不！6月17款燃油车销量过万","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:09.557Z","source":"D1EV","title":"岚图梦想家9入藏北京汽车博物馆：中国高端MPV迎来设计样本","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:09.570Z","source":"D1EV","title":"首销首月锁单33022台！12.99万的德系纯电SUV卖爆","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:09.588Z","source":"D1EV","title":"整车减重400公斤！国轩高科推出新一代 CTB 后背集成式重卡产品","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:15.187Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3348,"completion_tokens":1291,"cache_hit_tokens":2816,"cache_miss_tokens":532,"reasoning_chars":1106,"content_chars":3418}
+{"ts":"2026-10-20T20:20:16.097Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4173,"completion_tokens":1696,"cache_hit_tokens":2816,"cache_miss_tokens":1357,"reasoning_chars":2487,"content_chars":2875}
+{"ts":"2026-10-20T20:20:16.099Z","source":"CarNewsChina","title":"[QA FAILED] Chery steigt in E-Mopeds ein: 300-Euro-Klon mit EREV-Plan","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-20T20:20:16.115Z","source":"CarNewsChina","title":"Chery pairs 12C liquid battery cells with 400 Wh/kg solid-state technology","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:17.612Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3519,"completion_tokens":1236,"cache_hit_tokens":3328,"cache_miss_tokens":191,"reasoning_chars":1441,"content_chars":2830}
+{"ts":"2026-10-20T20:20:17.613Z","source":"D1EV","title":"[QA FAILED] Yijing X9: Dongfeng-Flaggschiff startet mit Huawei-Technik","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-20T20:20:17.629Z","source":"D1EV","title":"原生硬派越野架构量产落地，吉利银河战舰700核心零部件配套供应商一览","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:30.368Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4106,"completion_tokens":2683,"cache_hit_tokens":3968,"cache_miss_tokens":138,"reasoning_chars":4441,"content_chars":4267}
+{"ts":"2026-10-20T20:20:31.790Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4870,"completion_tokens":2668,"cache_hit_tokens":2816,"cache_miss_tokens":2054,"reasoning_chars":3848,"content_chars":4610}
+{"ts":"2026-10-20T20:20:32.049Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1692,"completion_tokens":3176,"reasoning_chars":9362,"content_chars":1667}
+{"ts":"2026-10-20T20:20:32.049Z","source":"Autohome NewEnergy","title":"Range Rover Facelift: Curved-Display im Innenraum","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-20T20:20:36.578Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2046,"completion_tokens":1240,"reasoning_chars":3138,"content_chars":785}
+{"ts":"2026-10-20T20:20:36.578Z","source":"CarNewsChina","title":"Geely EX2: Eine Million Einheiten nach zwei Jahren","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-20T20:20:37.925Z","source":"CarNewsChina","title":"Geely EX2: Eine Million Einheiten nach zwei Jahren","action":"published","translation_ok":true}
+{"ts":"2026-10-20T20:20:37.942Z","source":"CarNewsChina","title":"Aito shifts from Huawei to Bosch for European expansion","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:37.964Z","source":"CarNewsChina","title":"CATL launches “Dual-Electric Range Extender” to drive heavy-duty truck electrification","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:37.979Z","source":"CarNewsChina","title":"Xiaomi SU9 LUX name hints at new flagship sedan","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:38.003Z","source":"CarNewsChina","title":"Nio’s Firefly upgrades lineup with new 60kWh battery model launching October 23, report says","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:38.004Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":7985,"completion_tokens":3504,"cache_hit_tokens":7808,"cache_miss_tokens":177,"reasoning_chars":4827,"content_chars":5914}
+{"ts":"2026-10-20T20:20:38.950Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2132,"completion_tokens":1307,"reasoning_chars":3871,"content_chars":619}
+{"ts":"2026-10-20T20:20:38.950Z","source":"Sina","title":"Chery: 400-Wh/kg-Akku und L4-Robotaxi bis 2030","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-20T20:20:40.056Z","source":"Sina","title":"Chery: 400-Wh/kg-Akku und L4-Robotaxi bis 2030","action":"published","translation_ok":true}
+{"ts":"2026-10-20T20:20:40.071Z","source":"Sina","title":"博世创新工场与米链共创达成战略合作，共建创投孵化平台","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:40.086Z","source":"Sina","title":"ID. ERA 8X上市背后，上汽大众重建新能源竞争坐标","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:40.099Z","source":"Sina","title":"2026巴黎车展：吉利汽车集团携多款车型亮相","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:41.317Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4382,"completion_tokens":1761,"cache_hit_tokens":2816,"cache_miss_tokens":1566,"reasoning_chars":3050,"content_chars":3319}
+{"ts":"2026-10-20T20:20:41.318Z","source":"Autohome NewEnergy","title":"Range Rover Facelift: 615-PS-V8 bleibt, Curved-Display kommt","action":"draft_qa_failed_retranslation","translation_ok":true}
+{"ts":"2026-10-20T20:20:41.318Z","source":"Autohome NewEnergy","title":"Range Rover Facelift: Curved-Display im Innenraum","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-20T20:20:52.646Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3882,"completion_tokens":2166,"cache_hit_tokens":3712,"cache_miss_tokens":170,"reasoning_chars":3292,"content_chars":3720}
+{"ts":"2026-10-20T20:20:52.647Z","source":"Sina","title":"[QA FAILED] GM: 60 % E-Anteil in China, achtes Gewinnquartal in Folge","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-20T20:20:52.662Z","source":"Sina","title":"独家专访宝马M范梅尔：宝马M不追千匹，也不为圈速造车","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:52.676Z","source":"Sina","title":"宁德时代“电电增程” 推动重卡全面进入换电时代","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:20:52.691Z","source":"Sina","title":"第六代动力电池沈阳正式投产下线 宝马新世代电动产品蓄势起航","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:21:03.244Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3403,"completion_tokens":5521,"cache_hit_tokens":2816,"cache_miss_tokens":587,"reasoning_chars":15458,"content_chars":2292}
+{"ts":"2026-10-20T20:21:13.154Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1447,"completion_tokens":1852,"reasoning_chars":2961,"content_chars":2224}
+{"ts":"2026-10-20T20:21:13.154Z","source":"Autohome NewEnergy","title":"Lynk & Co 03 (2027): Erlkönigfotos zeigen Breitbau-Kit","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-20T20:21:15.366Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"length","max_tokens":8192,"prompt_tokens":4367,"completion_tokens":8192,"cache_hit_tokens":4224,"cache_miss_tokens":143,"reasoning_chars":24330,"content_chars":0}
+{"ts":"2026-10-20T20:21:15.366Z","source":"D1EV","title":"智驾天梯榜（2026年9月）","action":"draft_translate_fail","translation_ok":true}
+{"ts":"2026-10-20T20:21:15.386Z","source":"D1EV","title":"出口得太多、船不够用了！官方确认：比亚迪又买10艘滚装船","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:21:15.400Z","source":"D1EV","title":"小鹏MONA的销量神话能复用到L05身上吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-20T20:21:22.822Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4688,"completion_tokens":1730,"cache_hit_tokens":2816,"cache_miss_tokens":1872,"reasoning_chars":2539,"content_chars":2803}
+{"ts":"2026-10-20T20:21:42.172Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1594,"completion_tokens":3930,"reasoning_chars":10936,"content_chars":1922}
+{"ts":"2026-10-20T20:21:42.172Z","source":"Autohome NewEnergy","title":"Lynk & Co 03 Facelift 2027: Breitbau-Kit, 181 PS Basis","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-20T20:21:52.716Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4542,"completion_tokens":1956,"cache_hit_tokens":2816,"cache_miss_tokens":1726,"reasoning_chars":3270,"content_chars":2788}
+{"ts":"2026-10-20T20:22:00.251Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1570,"completion_tokens":1356,"reasoning_chars":2646,"content_chars":2131}
+{"ts":"2026-10-20T20:22:00.251Z","source":"Autohome NewEnergy","title":"Lynk & Co 03 Facelift 2027: Breitbau-Kit bei Tests gesichtet","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-20T20:22:00.252Z","source":"Autohome NewEnergy","title":"Lynk & Co 03 Facelift 2027: Breitbau-Kit bei Tests gesichtet","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-20T20:22:11.025Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3570,"completion_tokens":2016,"cache_hit_tokens":2816,"cache_miss_tokens":754,"reasoning_chars":2782,"content_chars":3081}
+{"ts":"2026-10-20T20:22:16.273Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1702,"completion_tokens":883,"reasoning_chars":1735,"content_chars":896}
+{"ts":"2026-10-20T20:22:16.273Z","source":"Autohome NewEnergy","title":"Tank 500 (2027): 635-kW-Offroader startet in China","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-20T20:22:18.259Z","source":"Autohome NewEnergy","title":"Tank 500 (2027): 635-kW-Offroader startet in China","action":"published","translation_ok":true}
+{"ts":"2026-10-20T20:22:32.593Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3832,"completion_tokens":2752,"cache_hit_tokens":2816,"cache_miss_tokens":1016,"reasoning_chars":3465,"content_chars":4098}
+{"ts":"2026-10-20T20:22:38.375Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2129,"completion_tokens":1228,"reasoning_chars":2178,"content_chars":1571}
+{"ts":"2026-10-20T20:22:38.375Z","source":"Autohome NewEnergy","title":"iCAR V25: EREV-SUV ab ca. 17.900 € im Vorverkauf","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-20T20:22:55.476Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4984,"completion_tokens":3545,"cache_hit_tokens":2816,"cache_miss_tokens":2168,"reasoning_chars":5359,"content_chars":4933}
+{"ts":"2026-10-20T20:22:59.875Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2380,"completion_tokens":873,"reasoning_chars":1668,"content_chars":916}
+{"ts":"2026-10-20T20:22:59.875Z","source":"Autohome NewEnergy","title":"iCAR V25: EREV-SUV ab 17.900 € mit 210 km E-Reichweite","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-20T20:23:01.439Z","source":"Autohome NewEnergy","title":"iCAR V25: EREV-SUV ab 17.900 € mit 210 km E-Reichweite","action":"published","translation_ok":true}
+{"ts":"2026-10-20T20:23:14.694Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3599,"completion_tokens":2215,"cache_hit_tokens":2816,"cache_miss_tokens":783,"reasoning_chars":3834,"content_chars":3271}
+{"ts":"2026-10-20T20:23:24.279Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1786,"completion_tokens":1991,"reasoning_chars":4857,"content_chars":1864}
+{"ts":"2026-10-20T20:23:24.280Z","source":"Autohome NewEnergy","title":"Changan Q07: Plug-in-SUV mit Lidar ab 17.900 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-20T20:23:26.296Z","source":"Autohome NewEnergy","title":"Changan Q07: Plug-in-SUV mit Lidar ab 17.900 €","action":"published","translation_ok":true}
+{"ts":"2026-10-20T20:23:26.306Z","source":"Autohome NewEnergy","title":"新日产NV200谍照","action":"skipped_dupe_url","translation_ok":true}
