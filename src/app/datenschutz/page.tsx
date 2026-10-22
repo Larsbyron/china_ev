@@ -117,12 +117,34 @@ export default function DatenschutzPage() {
           Endgerät), um Anzeigen anzuzeigen und auszuwerten. Dabei können unter
           anderem Ihre IP-Adresse, Angaben zu Browser und Gerät sowie Ihr
           Nutzungsverhalten verarbeitet und an Google übertragen werden. Die
-          Einbindung erfolgt nur auf Grundlage Ihrer Einwilligung nach Art. 6
-          Abs. 1 lit. a DSGVO; diese Einwilligung können Sie jederzeit mit Wirkung
-          für die Zukunft widerrufen. Weitere Informationen finden Sie in der{' '}
+          Einbindung zu Zwecken personalisierter Werbung erfolgt auf Grundlage
+          Ihrer Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO; diese Einwilligung
+          können Sie jederzeit mit Wirkung für die Zukunft widerrufen. Weitere
+          Informationen finden Sie in der{' '}
           <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">
             Datenschutzerklärung von Google
           </a>.
+        </p>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Für die Einholung Ihrer Einwilligung setzen wir die von Google
+          bereitgestellte, nach IAB TCF zertifizierte Consent-Management-Plattform
+          („Funding Choices“, CMP-ID 300) ein. Solange Sie keine Wahl getroffen
+          haben, fordern wir keine Anzeigen an. Wenn Sie die Verwendung von
+          Cookies für personalisierte Werbung ablehnen, können dennoch begrenzte,
+          nicht personalisierte Anzeigen ausgeliefert werden („Limited Ads“);
+          Rechtsgrundlage hierfür ist unser berechtigtes Interesse an der
+          Finanzierung dieses Angebots nach Art. 6 Abs. 1 lit. f DSGVO in
+          Verbindung mit § 25 Abs. 2 TTDSG, dem Sie nach Art. 21 DSGVO
+          widersprechen können. Sie können Ihre Einwilligung jederzeit mit
+          Wirkung für die Zukunft ändern oder widerrufen – über den Link
+          „Datenschutz-Einstellungen“ in der Fußzeile jeder Seite öffnet sich das
+          Auswahlfenster erneut. Sollte sich dieses Fenster bei Ihnen nicht
+          öffnen (etwa weil ein Werbeblocker die Skripte von Google unterbindet),
+          können Sie personalisierte Werbung jederzeit über die{' '}
+          <a href="https://myadcenter.google.com/" target="_blank" rel="noopener noreferrer">
+            Google-Anzeigeneinstellungen
+          </a>{' '}
+          deaktivieren.
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>

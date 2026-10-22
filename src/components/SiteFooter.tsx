@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import ConsentSettingsLink from './ConsentSettingsLink'
 import styles from './SiteFooter.module.css'
 
 const brandLinks = [
@@ -64,6 +65,7 @@ export default function SiteFooter() {
                     {link.label}
                   </Link>
                 ))}
+                <ConsentSettingsLink className={styles.consentButton} />
               </div>
             </div>
           </div>
