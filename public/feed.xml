@@ -5,7 +5,7 @@
     <link>https://china-autonews.de/</link>
     <description>Die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng und weiteren Marken.</description>
     <language>de</language>
-    <lastBuildDate>Thu, 22 Oct 2026 23:30:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:42:27 GMT</lastBuildDate>
     <atom:link href="https://china-autonews.de/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chinesisches Auto nach Deutschland importieren: Was es 2026 wirklich kostet</title>
@@ -15,6 +15,25 @@
       <pubDate>Fri, 23 Oct 2026 05:10:00 GMT</pubDate>
       <category>E-AUTOS Redaktion</category>
       <enclosure url="https://china-autonews.de/images/china-auto-import-kosten-deutschland-2026.png" type="image/webp" length="0" />
+    </item>
+    <item>
+      <title>1,44-MW-Lader: Chery fordert BYD im Lade-Wettrennen heraus</title>
+      <link>https://china-autonews.de/articles/2026-10-22-144-mw-lader-chery-fordert-byd-im-lade-wettrennen--carnewschina-5f028c/</link>
+      <guid isPermaLink="true">https://china-autonews.de/articles/2026-10-22-144-mw-lader-chery-fordert-byd-im-lade-wettrennen--carnewschina-5f028c/</guid>
+      <description>Chery stellt mit Volt-dragon ein Ladesystem mit 1,44 MW vor: 500 km Reichweite in fünf Minuten. Damit tritt der Hersteller gegen BYD, Geely und Huawei an.</description>
+      <pubDate>Thu, 22 Oct 2026 23:27:08 GMT</pubDate>
+      <category>CarNewsChina</category>
+      <category>BYD</category>
+      <enclosure url="https://china-autonews.de/images/144-mw-lader-chery-fordert-byd-im-lade-wettrennen-carnewschina-5f028c.webp" type="image/webp" length="0" />
+    </item>
+    <item>
+      <title>Zhang Jun: Erster chinesischer Chef von Audi China</title>
+      <link>https://china-autonews.de/articles/2026-10-22-zhang-jun-erster-chinesischer-chef-von-audi-china-sina-9c7b79/</link>
+      <guid isPermaLink="true">https://china-autonews.de/articles/2026-10-22-zhang-jun-erster-chinesischer-chef-von-audi-china-sina-9c7b79/</guid>
+      <description>Chery-Manager Zhang Jun wechselt zu Audi China und übernimmt dort zum 1. November 2026 als erster Chinese die Führung der Chinasparte des Ingolstädter Herstellers.</description>
+      <pubDate>Thu, 22 Oct 2026 23:26:59 GMT</pubDate>
+      <category>Sina</category>
+      <category>Chery</category>
     </item>
     <item>
       <title>CheryMind: Chery will 2030 100.000 Robotaxis betreiben</title>
