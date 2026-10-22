@@ -1,6 +1,9 @@
 import { z } from 'zod'
 
-const SOURCE_NAMES = ['Autohome', 'Autohome NewEnergy', 'Ifeng', 'Sina', 'PCauto', 'CnEVPost', 'Electrek', 'OFweek NEV', 'ChooseAuto', 'D1EV', 'CarNewsChina', 'electrive', 'ADAC', 'MERICS', 'Reuters', 'Bruegel', 'Europäische Kommission', 'Euronews', 'CGTN', 'Bloomberg', 'CEPR', 'CER'] as const
+const SOURCE_NAMES = ['Autohome', 'Autohome NewEnergy', 'Ifeng', 'Sina', 'PCauto', 'CnEVPost', 'Electrek', 'OFweek NEV', 'ChooseAuto', 'D1EV', 'CarNewsChina', 'electrive', 'ADAC', 'MERICS', 'Reuters', 'Bruegel', 'Europäische Kommission', 'Euronews', 'CGTN', 'Bloomberg', 'CEPR', 'CER', 'E-AUTOS Redaktion'] as const
+
+/** Eigene Ratgeber-/Originaltexte: kein fremder Quellartikel → kein „Quelle"-Link. */
+export const ORIGINAL_SOURCE_NAME = 'E-AUTOS Redaktion'
 
 const TOPIC_SLUGS = [
   'modelle-marktstarts',

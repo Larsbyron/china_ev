@@ -282,8 +282,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 {/* Reactions */}
                 <ReactionPanel slug={article.slug} />
 
-                {/* Source Link */}
-                {article.original_url && (
+                {/* Source Link — nur bei übersetzten Artikeln. Eigene Ratgeber
+                    (source = 'E-AUTOS Redaktion') haben keinen fremden
+                    Quellartikel, ein „Quelle"-Link wäre dort irreführend. */}
+                {article.original_url && article.source !== 'E-AUTOS Redaktion' && (
                   <div className={styles.sourceLink}>
                     <a
                       href={article.original_url}

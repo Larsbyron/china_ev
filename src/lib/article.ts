@@ -18,7 +18,7 @@ export interface Article {
   marketRelevance?: MarketRelevance
 }
 
-export type SourceName = 'Autohome' | 'Ifeng' | 'Sina' | 'PCauto' | 'Autohome NewEnergy' | 'OFweek NEV' | 'ChooseAuto' | 'D1EV' | 'CarNewsChina'
+export type SourceName = 'Autohome' | 'Ifeng' | 'Sina' | 'PCauto' | 'Autohome NewEnergy' | 'OFweek NEV' | 'ChooseAuto' | 'D1EV' | 'CarNewsChina' | 'E-AUTOS Redaktion'
 
 export interface ArticleFrontmatter {
   title: string
