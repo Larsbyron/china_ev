@@ -21,6 +21,12 @@ import { lookupBrand } from '../translator/brand-glossary'
 import { runQualityCheck, formatQualityReport } from '../translator/quality-check'
 import { editorialReview, MAX_RETRANSLATION_ATTEMPTS } from '../translator/editorial-review'
 import { downloadAndSaveImage } from '../images'
+import {
+  createPublishQuota,
+  resolveMaxArticlesPerRun,
+  tryAcquirePublishSlot,
+  type PublishQuota,
+} from './publish-quota'
 
 const RUNLOG_FILE = resolve(process.cwd(), '.runlog.jsonl')
 const CONTENT_DIR = resolve(process.cwd(), 'content/posts')
@@ -224,7 +230,8 @@ async function processSource(
   sourceKey: string,
   scraperFn: ScraperFn,
   fingerprints: ProcessedArticles,
-  urlIndex: PublishedUrlIndex | null
+  urlIndex: PublishedUrlIndex | null,
+  quota: PublishQuota
 ): Promise<ScraperResult> {
   const sourceName = SOURCE_NAMES[sourceKey]
   const result: ScraperResult = {
@@ -286,6 +293,17 @@ async function processSource(
         console.log(`[${sourceName}] Duplicate: ${article.title.slice(0, 40)}...`)
         logRun(sourceName, article.title, 'skipped_dupe')
         continue
+      }
+
+      // 每轮总量配额（2026-10-23）：占额度的时点在**去重判完之后、翻译开始之前** ——
+      // 被去重拦下的候选本来就不花 token，不该吃掉额度。额度按「进入翻译」计，
+      // 不按「发布成功」计（失败篇的翻译/QA/审校调用已经发生，退还额度等于没闸）。
+      if (!tryAcquirePublishSlot(quota)) {
+        console.log(
+          `[Quota] limit ${quota.limit}/run reached — stopping ${sourceName} before translating "${article.title.slice(0, 40)}..."`
+        )
+        logRun(sourceName, article.title, 'skipped_quota')
+        break
       }
 
       // Translate to German
@@ -550,6 +568,15 @@ export async function scrapeAll(options: ScraperOptions = {}): Promise<void> {
 
   console.log(`\nRunning ${sourcesToRun.length} sources: ${sourcesToRun.join(', ')}`)
 
+  // 每轮总量闸（2026-10-23）：所有源共享同一个令牌池，先到先得。
+  // 上限来源 = 显式 options.maxArticles > env MAX_ARTICLES_PER_RUN > 默认 3。
+  const quota = createPublishQuota(options.maxArticles ?? resolveMaxArticlesPerRun())
+  console.log(
+    `[Quota] max ${quota.limit} article(s) per run (source: ${
+      options.maxArticles !== undefined ? '--max flag' : 'MAX_ARTICLES_PER_RUN env / default'
+    }) — extra candidates are dropped, not queued`
+  )
+
   // Run all sources in parallel
   const promises = sourcesToRun.map(async (sourceKey) => {
     const scraperFn = SCRAPERS[sourceKey]
@@ -557,7 +584,7 @@ export async function scrapeAll(options: ScraperOptions = {}): Promise<void> {
       console.error(`Unknown source: ${sourceKey}`)
       return null
     }
-    return processSource(sourceKey, scraperFn, fingerprints, urlIndex)
+    return processSource(sourceKey, scraperFn, fingerprints, urlIndex, quota)
   })
 
   const partialResults = await Promise.all(promises)
@@ -582,6 +609,9 @@ export async function scrapeAll(options: ScraperOptions = {}): Promise<void> {
     console.log(`  ${result.source}: ${result.articles.length} articles ${status}`)
   }
   console.log(`Total fingerprints: ${Object.keys(fingerprints).length}`)
+  console.log(
+    `[Quota] translated ${quota.used}/${quota.limit} slot(s), ${quota.blocked} candidate(s) cut by the per-run cap`
+  )
   console.log('='.repeat(60))
 }
 

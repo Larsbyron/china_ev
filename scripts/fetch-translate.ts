@@ -23,6 +23,8 @@ interface CliFlags {
   source?: string
   weekly?: boolean
   rebuildFingerprints?: boolean
+  /** 每轮最多进入翻译的篇数（默认 3） */
+  maxArticles?: number
 }
 
 function parseArgs(): CliFlags {
@@ -34,6 +36,14 @@ function parseArgs(): CliFlags {
 
     if (arg === '--source' && i + 1 < args.length) {
       flags.source = args[i + 1]
+      i++
+    } else if (arg === '--max' && i + 1 < args.length) {
+      const parsed = Number.parseInt(args[i + 1], 10)
+      if (Number.isFinite(parsed) && parsed > 0) {
+        flags.maxArticles = parsed
+      } else {
+        console.error(`Warning: ignoring invalid --max value "${args[i + 1]}" (falling back to default)`)
+      }
       i++
     } else if (arg === '--weekly') {
       flags.weekly = true
@@ -69,7 +79,7 @@ async function main() {
     if (flags.weekly) {
       console.log('Running weekly Top 5 pipeline...')
       // Weekly pipeline will call scrapeAll with a weekly flag
-      await scrapeAll({ weekly: true })
+      await scrapeAll({ weekly: true, maxArticles: flags.maxArticles })
       console.log('Weekly Top 5 articles fetched and translated.')
       return
     }
@@ -81,14 +91,14 @@ async function main() {
         process.exit(1)
       }
       console.log(`Fetching from source: ${flags.source}`)
-      await scrapeAll({ sources: [flags.source] })
+      await scrapeAll({ sources: [flags.source], maxArticles: flags.maxArticles })
       console.log(`Articles from ${flags.source} fetched and translated.`)
       return
     }
 
     // Default: daily run
     console.log('Running daily fetch pipeline...')
-    await scrapeAll({})
+    await scrapeAll({ maxArticles: flags.maxArticles })
     console.log('Daily articles fetched and translated.')
   } catch (error) {
     console.error('Pipeline failed:', error)

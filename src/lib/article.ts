@@ -47,6 +47,8 @@ export interface ProcessedArticles {
 export interface ScraperOptions {
   sources?: string[]
   weekly?: boolean
+  /** 每轮最多进入翻译的篇数（默认 3；见 scraper/publish-quota.ts） */
+  maxArticles?: number
 }
 
 export interface ScraperResult {
