@@ -134,7 +134,7 @@ export default function DatenschutzPage() {
           nicht personalisierte Anzeigen ausgeliefert werden („Limited Ads“);
           Rechtsgrundlage hierfür ist unser berechtigtes Interesse an der
           Finanzierung dieses Angebots nach Art. 6 Abs. 1 lit. f DSGVO in
-          Verbindung mit § 25 Abs. 2 TTDSG, dem Sie nach Art. 21 DSGVO
+          Verbindung mit § 25 Abs. 2 TDDDG, dem Sie nach Art. 21 DSGVO
           widersprechen können. Sie können Ihre Einwilligung jederzeit mit
           Wirkung für die Zukunft ändern oder widerrufen – über den Link
           „Datenschutz-Einstellungen“ in der Fußzeile jeder Seite öffnet sich das
