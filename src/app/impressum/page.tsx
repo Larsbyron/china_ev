@@ -17,7 +17,7 @@ export default function ImpressumPage() {
         <h1 style={{ fontSize: '2rem', marginBottom: '1.5rem' }}>Impressum</h1>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
-          Angaben gemäß § 5 TMG
+          Angaben gemäß § 5 DDG
         </h2>
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
           Loghan GmbH<br />
@@ -27,7 +27,7 @@ export default function ImpressumPage() {
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
-          Geschäftsführer
+          Vertreten durch den Geschäftsführer
         </h2>
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
           Zhinai Liu
@@ -37,34 +37,45 @@ export default function ImpressumPage() {
           Registereintrag
         </h2>
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
-          Registergericht: Amtsgericht Neuss<br />
+          Handelsregister: Amtsgericht Neuss<br />
           Registernummer: HRB 21826
+        </p>
+
+        <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
+          Umsatzsteuer-Identifikationsnummer
+        </h2>
+        <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
+          Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:
+          DE345173693
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
           Kontakt
         </h2>
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
+          Telefon: +49 179 7337425<br />
           E-Mail: l.bai@loghan.de
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
-          Redaktionell verantwortlich
+          Redaktionell verantwortlich gemäß § 18 Abs. 2 MStV
         </h2>
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
           Zhinai Liu<br />
-          Forsthaus 22, D-40883 Ratingen
+          Forsthaus 22, 40883 Ratingen
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
           Haftung für Inhalte
         </h2>
         <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
-          Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf
-          diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis
-          10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte
-          oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu
-          forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+          Als Diensteanbieter sind wir für eigene Inhalte auf diesen Seiten nach
+          den allgemeinen Gesetzen verantwortlich. Nach § 7 Abs. 1 DDG in
+          Verbindung mit Artikeln 4 bis 8 der Verordnung (EU) 2022/2065 (Gesetz
+          über digitale Dienste) sind wir als Diensteanbieter nicht verpflichtet,
+          übermittelte oder gespeicherte fremde Informationen zu überwachen oder
+          nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit
+          hinweisen.
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
