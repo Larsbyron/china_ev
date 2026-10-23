@@ -31679,3 +31679,46 @@
 {"ts":"2026-10-23T14:09:11.560Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-10-23T14:09:11.577Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-10-23T14:09:11.595Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:23:21.541Z","source":"D1EV","title":"重磅揭晓丨2026盖世汽车第八届金辑奖-中国汽车产业影响力人物","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-23T16:23:21.541Z","source":"D1EV","title":"重磅揭晓 | 2026盖世汽车第八届金辑奖—最具成长价值企业","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-23T16:23:21.551Z","source":"D1EV","title":"现实面前，理想只能自研","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-23T16:23:26.205Z","source":"Sina","title":"奇瑞高管张俊加盟奥迪中国 将出任奥迪中国首位中方总裁","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:23:26.226Z","source":"Sina","title":"奇瑞展望瑶光2035战略 紫微芯片发布 加速向全球智能科技公司进化","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:23:26.241Z","source":"Sina","title":"不在华卖车的雷诺，两年后要和中国品牌比肩","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:23:26.255Z","source":"Sina","title":"长安高层换防背后 两级治理进入新阶段","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:23:26.274Z","source":"Sina","title":"华为靳玉志：自动驾驶对安全的要求更高","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-23T16:23:31.939Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":8192,"prompt_tokens":4035,"completion_tokens":2886,"cache_hit_tokens":0,"cache_miss_tokens":4035,"reasoning_chars":5560,"content_chars":3191}
+{"ts":"2026-10-23T16:23:32.079Z","source":"ChooseAuto","title":"风神 L8 + 正式上市，12.99 万起，15 万内唯一 700TOPS 算力智驾 SUV","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-23T16:23:32.079Z","source":"ChooseAuto","title":"15万以内唯一700TOPS算力智驾 风神L8+限时置换价12.99万起","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-23T16:23:32.099Z","source":"ChooseAuto","title":"中大型方盒子星钽5X预售价不到14万元——北汽渴望一次大胜","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-23T16:23:41.695Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":8192,"prompt_tokens":3894,"completion_tokens":2923,"cache_hit_tokens":2816,"cache_miss_tokens":1078,"reasoning_chars":4737,"content_chars":4277}
+{"ts":"2026-10-23T16:23:55.363Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1727,"completion_tokens":3870,"reasoning_chars":13052,"content_chars":338}
+{"ts":"2026-10-23T16:23:55.363Z","source":"CarNewsChina","title":"XPeng Mona L05 EREV: 21.700 € und 1.194 km Reichweite","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-23T16:23:57.768Z","source":"CarNewsChina","title":"XPeng Mona L05 EREV: 21.700 € und 1.194 km Reichweite","action":"published","translation_ok":true}
+{"ts":"2026-10-23T16:23:57.791Z","source":"CarNewsChina","title":"BYD’s Denza N8 EV opens reservations on October 26 ahead of November launch","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:23:57.811Z","source":"CarNewsChina","title":"Europeans discovered used EVs from China, price 40% under MSRP, CEVM says","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:23:57.838Z","source":"CarNewsChina","title":"Chery Jaguar Land Rover’s Freelander 8 large five-seater SUV set for October 31 delivery in China","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:23:57.859Z","source":"CarNewsChina","title":"BYD unvails second-gen Seal 07 interior with 20-speaker Devialet audio","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-23T16:23:58.467Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2002,"completion_tokens":2837,"reasoning_chars":7911,"content_chars":1840}
+{"ts":"2026-10-23T16:23:58.468Z","source":"OFweek NEV","title":"Tank 500 (2027): V6-Offroader startet ab 44.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-23T16:24:00.320Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":8192,"prompt_tokens":6363,"completion_tokens":7160,"cache_hit_tokens":2688,"cache_miss_tokens":3675,"reasoning_chars":12838,"content_chars":7209}
+{"ts":"2026-10-23T16:24:12.571Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":3098,"completion_tokens":2094,"reasoning_chars":4274,"content_chars":2209}
+{"ts":"2026-10-23T16:24:12.571Z","source":"Autohome NewEnergy","title":"Geely Xingyuan: 44.275 Einheiten – Chinas Top-Limousine","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-23T16:24:15.683Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":8192,"prompt_tokens":5064,"completion_tokens":2863,"cache_hit_tokens":2688,"cache_miss_tokens":2376,"reasoning_chars":3837,"content_chars":5068}
+{"ts":"2026-10-23T16:24:37.939Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2205,"completion_tokens":3641,"reasoning_chars":11186,"content_chars":1469}
+{"ts":"2026-10-23T16:24:37.940Z","source":"OFweek NEV","title":"Tank 500 (2027): V6-Offroader startet ab 44.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-23T16:24:54.735Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"length","max_tokens":8192,"prompt_tokens":7722,"completion_tokens":8192,"cache_hit_tokens":2816,"cache_miss_tokens":4906,"reasoning_chars":23429,"content_chars":0}
+{"ts":"2026-10-23T16:24:54.736Z","source":"Autohome NewEnergy","title":"Geely Xingyuan: 44.275 Einheiten – Chinas Top-Limousine","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-23T16:24:54.747Z","source":"Autohome NewEnergy","title":"新比亚迪海豹07内饰","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-23T16:25:01.078Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":8192,"prompt_tokens":4965,"completion_tokens":3805,"cache_hit_tokens":2816,"cache_miss_tokens":2149,"reasoning_chars":7214,"content_chars":4951}
+{"ts":"2026-10-23T16:25:25.051Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":2181,"completion_tokens":4096,"reasoning_chars":12491,"content_chars":1360}
+{"ts":"2026-10-23T16:25:25.052Z","source":"OFweek NEV","title":"Tank 500 (2027): V6-Offroader startet in China ab 44.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-23T16:25:25.052Z","source":"OFweek NEV","title":"Tank 500 (2027): V6-Offroader startet in China ab 44.800 €","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-23T16:25:25.067Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:25:25.084Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:25:25.098Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:25:25.117Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:25:25.133Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:25:25.150Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:25:25.167Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T16:25:25.276Z","source":"weekly","title":"Top 5 KW 43","action":"weekly_published","translation_ok":true}
