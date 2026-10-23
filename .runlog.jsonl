@@ -31722,3 +31722,48 @@
 {"ts":"2026-10-23T16:25:25.150Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-10-23T16:25:25.167Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-10-23T16:25:25.276Z","source":"weekly","title":"Top 5 KW 43","action":"weekly_published","translation_ok":true}
+{"ts":"2026-10-23T20:15:07.220Z","source":"CarNewsChina","title":"Xpeng Mona L05 EREV showcased 1,194 km of mixed range in real conditions","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:15:07.248Z","source":"CarNewsChina","title":"BYD’s Denza N8 EV opens reservations on October 26 ahead of November launch","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:15:07.270Z","source":"CarNewsChina","title":"Europeans discovered used EVs from China, price 40% under MSRP, CEVM says","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:15:07.303Z","source":"CarNewsChina","title":"Chery Jaguar Land Rover’s Freelander 8 large five-seater SUV set for October 31 delivery in China","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:15:12.507Z","source":"D1EV","title":"重磅揭晓丨2026盖世汽车第八届金辑奖-中国汽车产业影响力人物","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-23T20:15:12.507Z","source":"D1EV","title":"重磅揭晓 | 2026盖世汽车第八届金辑奖—最具成长价值企业","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-23T20:15:12.517Z","source":"D1EV","title":"现实面前，理想只能自研","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-23T20:15:13.219Z","source":"Sina","title":"奇瑞高管张俊加盟奥迪中国 将出任奥迪中国首位中方总裁","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:15:13.238Z","source":"Sina","title":"通用汽车第三季度净收入500亿美元 在华连续八个季度盈利","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:15:13.252Z","source":"Sina","title":"华为靳玉志：自动驾驶对安全的要求更高","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-23T20:15:19.663Z","source":"ChooseAuto","title":"风神 L8 + 正式上市，12.99 万起，15 万内唯一 700TOPS 算力智驾 SUV","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-23T20:15:19.682Z","source":"ChooseAuto","title":"700TOPS算力满血上车！东风风神L8+把高阶智驾打到15万级","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-23T20:15:21.806Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3894,"completion_tokens":1684,"cache_hit_tokens":3712,"cache_miss_tokens":182,"reasoning_chars":911,"content_chars":4503}
+{"ts":"2026-10-23T20:15:23.488Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4086,"completion_tokens":2609,"cache_hit_tokens":2816,"cache_miss_tokens":1270,"reasoning_chars":4242,"content_chars":4128}
+{"ts":"2026-10-23T20:15:34.392Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":6363,"completion_tokens":4544,"cache_hit_tokens":2816,"cache_miss_tokens":3547,"reasoning_chars":5840,"content_chars":7144}
+{"ts":"2026-10-23T20:15:37.234Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2075,"completion_tokens":2640,"reasoning_chars":6311,"content_chars":2651}
+{"ts":"2026-10-23T20:15:37.235Z","source":"OFweek NEV","title":"Tank 500 (2027): V6-Offroader ab 44.800 € überarbeitet","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-23T20:15:46.214Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":1999,"completion_tokens":4095,"reasoning_chars":14259,"content_chars":0}
+{"ts":"2026-10-23T20:15:53.174Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":3073,"completion_tokens":3719,"reasoning_chars":8568,"content_chars":2929}
+{"ts":"2026-10-23T20:15:53.174Z","source":"Autohome NewEnergy","title":"China-Sedan-Ranking: Neun von zehn sind E-Autos","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-23T20:15:55.840Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5392,"completion_tokens":3231,"cache_hit_tokens":2816,"cache_miss_tokens":2576,"reasoning_chars":6478,"content_chars":4146}
+{"ts":"2026-10-23T20:15:59.328Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1999,"completion_tokens":2334,"reasoning_chars":6569,"content_chars":691}
+{"ts":"2026-10-23T20:15:59.328Z","source":"CarNewsChina","title":"BYD Seal 07: Devialet-Sound und 875 km Reichweite","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-23T20:16:02.322Z","source":"CarNewsChina","title":"BYD Seal 07: Devialet-Sound und 875 km Reichweite","action":"published","translation_ok":true}
+{"ts":"2026-10-23T20:16:02.344Z","source":"CarNewsChina","title":"BYD Yangwang’s 5.5-meter flagship limousine spied ahead of UAE debut","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-23T20:16:04.508Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1992,"completion_tokens":1484,"reasoning_chars":2755,"content_chars":1894}
+{"ts":"2026-10-23T20:16:04.508Z","source":"OFweek NEV","title":"Tank 500 (2027): V6-Offroader ab ca. 44.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-23T20:16:16.816Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5161,"completion_tokens":1939,"cache_hit_tokens":2816,"cache_miss_tokens":2345,"reasoning_chars":2103,"content_chars":3826}
+{"ts":"2026-10-23T20:16:29.616Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1920,"completion_tokens":2067,"reasoning_chars":5365,"content_chars":1854}
+{"ts":"2026-10-23T20:16:29.617Z","source":"OFweek NEV","title":"Tank 500 (2027): V6-Offroader startet ab 44.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-23T20:16:29.618Z","source":"OFweek NEV","title":"Tank 500 (2027): V6-Offroader startet ab 44.800 €","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-23T20:16:29.634Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:16:29.650Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:16:29.664Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:16:29.684Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:16:29.700Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:16:29.717Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:16:29.734Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-23T20:16:32.692Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"length","max_tokens":8192,"prompt_tokens":7976,"completion_tokens":8192,"cache_hit_tokens":2816,"cache_miss_tokens":5160,"reasoning_chars":16582,"content_chars":6855}
+{"ts":"2026-10-23T20:16:42.362Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":3146,"completion_tokens":1482,"reasoning_chars":56,"content_chars":4339}
+{"ts":"2026-10-23T20:16:42.362Z","source":"Autohome NewEnergy","title":"VW Lavida letzter Verbrenner: China-Top-10 im September","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-23T20:17:24.313Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"length","max_tokens":8192,"prompt_tokens":8462,"completion_tokens":8192,"cache_hit_tokens":2816,"cache_miss_tokens":5646,"reasoning_chars":21692,"content_chars":1590}
+{"ts":"2026-10-23T20:17:24.313Z","source":"Autohome NewEnergy","title":"VW Lavida 14.425: Letzter Verbrenner in Chinas Top 10","action":"draft_qa_failed_retranslation","translation_ok":true}
+{"ts":"2026-10-23T20:17:24.314Z","source":"Autohome NewEnergy","title":"VW Lavida letzter Verbrenner: China-Top-10 im September","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-23T20:17:24.325Z","source":"Autohome NewEnergy","title":"新比亚迪海豹07内饰","action":"skipped_quota","translation_ok":true}
