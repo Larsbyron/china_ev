@@ -19,7 +19,10 @@ const NEWS_NS = 'http://www.google.com/schemas/sitemap-news/0.9'
 const SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 
 export function escapeXml(value: string): string {
-  return value
+  // 先去 XML 1.0 禁止字符（U+0000–U+0008 / U+000B / U+000C / U+000E–U+001F）：
+  // 只要有一个标题带上这种字符，整份 sitemap 都会变成不可解析的 XML。
+  const cleaned = value.replace(/[\x00-\x08\x0B\x0C\x0E-\x1F]/g, '')
+  return cleaned
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
@@ -38,8 +41,9 @@ export function selectNewsArticles(
 ): ArticleMeta[] {
   const nowMs = now.getTime()
   const sinceMs = nowMs - windowHours * 3600 * 1000
-  // 允许未来 24h 内的日期（时区/CI 时钟偏差），超过则视为脏数据
-  const maxMs = nowMs + 24 * 3600 * 1000
+  // 只容忍 5 分钟的未来偏差（CI 时钟/时区）；更大的「未来日期」是脏数据，丢掉
+  // —— Google 明确不接受 news:publication_date 在未来。
+  const maxMs = nowMs + 5 * 60 * 1000
 
   return articles
     .filter((a) => !a.draft)

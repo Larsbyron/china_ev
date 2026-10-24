@@ -78,4 +78,18 @@ describe('news-sitemap / buildNewsSitemap', () => {
   it('escapeXml covers all five predefined entities', () => {
     expect(escapeXml(`&<>"'`)).toBe('&amp;&lt;&gt;&quot;&apos;')
   })
+
+  it('escapeXml strips XML-1.0-illegal control characters', () => {
+    expect(escapeXml('a\u0000b\u0008c\u001fd')).toBe('abcd')
+    // 结果必须能被真解析器解析
+    const xml = buildNewsSitemap([article({ title: 'Titel\u0000mit Steuerzeichen' })], url, NOW)
+    expect(xml).not.toContain('\u0000')
+  })
+
+  it('drops articles dated more than 5 minutes in the future', () => {
+    const future = article({ slug: 'zukunft', date: '2026-10-25T06:00:00.000Z' })
+    const justNow = article({ slug: 'jetzt', date: '2026-10-24T06:02:00.000Z' })
+    const selected = selectNewsArticles([future, justNow], NOW)
+    expect(selected.map((a) => a.slug)).toEqual(['jetzt'])
+  })
 })
