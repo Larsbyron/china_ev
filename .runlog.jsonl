@@ -31767,3 +31767,42 @@
 {"ts":"2026-10-23T20:17:24.313Z","source":"Autohome NewEnergy","title":"VW Lavida 14.425: Letzter Verbrenner in Chinas Top 10","action":"draft_qa_failed_retranslation","translation_ok":true}
 {"ts":"2026-10-23T20:17:24.314Z","source":"Autohome NewEnergy","title":"VW Lavida letzter Verbrenner: China-Top-10 im September","action":"draft_editorial_rejected","translation_ok":true}
 {"ts":"2026-10-23T20:17:24.325Z","source":"Autohome NewEnergy","title":"新比亚迪海豹07内饰","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-24T13:11:02.689Z","source":"D1EV","title":"重磅揭晓丨2026盖世汽车第八届金辑奖-中国汽车产业影响力人物","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-24T13:11:02.689Z","source":"D1EV","title":"重磅揭晓 | 2026盖世汽车第八届金辑奖—最具成长价值企业","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-24T13:11:02.707Z","source":"D1EV","title":"2026 WICV｜“京津冀产业协同发展论坛”成功举办","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-24T13:11:03.057Z","source":"Sina","title":"奇瑞高管张俊加盟奥迪中国 将出任奥迪中国首位中方总裁","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:11:03.077Z","source":"Sina","title":"博世创新工场与米链共创达成战略合作，共建创投孵化平台","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:11:03.092Z","source":"Sina","title":"奇瑞展望瑶光2035战略 紫微芯片发布 加速向全球智能科技公司进化","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:11:03.107Z","source":"Sina","title":"第六代动力电池沈阳正式投产下线 宝马新世代电动产品蓄势起航","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:11:03.126Z","source":"Sina","title":"宁德时代“电电增程” 推动重卡全面进入换电时代","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:11:03.139Z","source":"Sina","title":"华为靳玉志：自动驾驶对安全的要求更高","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-24T13:11:07.764Z","source":"ChooseAuto","title":"大众安徽旗下智能美学纯电轿跑与众09正式上市","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-24T13:11:07.764Z","source":"ChooseAuto","title":"预售价13.99万起 北汽星钽5X把智慧和温柔塞进方盒子","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-24T13:11:07.784Z","source":"ChooseAuto","title":"16.99万元起，与众09正式上市！这款GT轿跑的亮点真不少？","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-24T13:11:11.113Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3894,"completion_tokens":1341,"cache_hit_tokens":3712,"cache_miss_tokens":182,"reasoning_chars":568,"content_chars":3845}
+{"ts":"2026-10-24T13:11:11.813Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3980,"completion_tokens":2275,"cache_hit_tokens":2816,"cache_miss_tokens":1164,"reasoning_chars":3585,"content_chars":3475}
+{"ts":"2026-10-24T13:11:14.370Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3953,"completion_tokens":1976,"cache_hit_tokens":2816,"cache_miss_tokens":1137,"reasoning_chars":2521,"content_chars":3418}
+{"ts":"2026-10-24T13:11:20.508Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1816,"completion_tokens":918,"reasoning_chars":2037,"content_chars":676}
+{"ts":"2026-10-24T13:11:20.509Z","source":"Autohome NewEnergy","title":"Tank 500 (2027): 360-PS-V6 ab umgerechnet 42.900 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-24T13:11:22.494Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1867,"completion_tokens":1702,"reasoning_chars":4411,"content_chars":909}
+{"ts":"2026-10-24T13:11:22.495Z","source":"CarNewsChina","title":"VW ID. Unyx 09: 5C-Ladung, 755 km, ab ca. 23.000 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-24T13:11:22.889Z","source":"CarNewsChina","title":"VW ID. Unyx 09: 5C-Ladung, 755 km, ab ca. 23.000 €","action":"published","translation_ok":true}
+{"ts":"2026-10-24T13:11:22.910Z","source":"CarNewsChina","title":"Chery Chairman apologises after Omoda 5 axle failure in Malaysia","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-24T13:11:23.042Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1871,"completion_tokens":1971,"reasoning_chars":5262,"content_chars":1692}
+{"ts":"2026-10-24T13:11:23.042Z","source":"OFweek NEV","title":"Tank 500 Modelljahr 2027: V6-Hardcore-SUV ab 44.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-24T13:11:23.377Z","source":"Autohome NewEnergy","title":"Tank 500 (2027): 360-PS-V6 ab umgerechnet 42.900 €","action":"published","translation_ok":true}
+{"ts":"2026-10-24T13:11:23.389Z","source":"Autohome NewEnergy","title":"新比亚迪海豹07内饰","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-24T13:11:44.656Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5058,"completion_tokens":3133,"cache_hit_tokens":2816,"cache_miss_tokens":2242,"reasoning_chars":4875,"content_chars":5083}
+{"ts":"2026-10-24T13:11:56.674Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2255,"completion_tokens":1771,"reasoning_chars":4180,"content_chars":2148}
+{"ts":"2026-10-24T13:11:56.674Z","source":"OFweek NEV","title":"Tank 500 Facelift: V6-Offroader ab ca. 44.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-24T13:12:20.367Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5142,"completion_tokens":3780,"cache_hit_tokens":2816,"cache_miss_tokens":2326,"reasoning_chars":9992,"content_chars":2386}
+{"ts":"2026-10-24T13:12:32.234Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1459,"completion_tokens":1920,"reasoning_chars":3706,"content_chars":2921}
+{"ts":"2026-10-24T13:12:32.235Z","source":"OFweek NEV","title":"Tank 500 (2027): V6-Offroader ab 44.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-24T13:12:32.235Z","source":"OFweek NEV","title":"Tank 500 (2027): V6-Offroader ab 44.800 €","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-24T13:12:32.251Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:12:32.270Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:12:32.284Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:12:32.304Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:12:32.322Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:12:32.341Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-24T13:12:32.360Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
