@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { AUTHOR } from '@/lib/author'
@@ -54,16 +55,27 @@ export default function AboutPage() {
         </p>
 
         <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
-          Alle Artikel werden aus vertrauenswürdigen englischsprachigen Quellen
-          wie CnEVPost und Electrek übersetzt und für ein deutschsprachiges
-          Publikum aufbereitet.
+          Die meisten Artikel sind Übersetzungen aus chinesischen und
+          englischsprachigen Fachmedien. Die Erstübersetzung entsteht mit einem
+          KI-Sprachmodell und wird vor der Veröffentlichung automatisiert geprüft.
+          Jeder Artikel nennt seine Quelle und trägt den Hinweis „KI-gestützte
+          Übersetzung“. Wie das im Einzelnen funktioniert, steht unter{' '}
+          <Link href="/redaktion/" className={styles.mailLink}>Redaktion &amp; Transparenz</Link>.
         </p>
 
         <h2 style={{ fontSize: '1.5rem', marginTop: '2rem', marginBottom: '1rem' }}>Redaktion</h2>
         <p style={{ lineHeight: 1.7 }}>
           <strong>{AUTHOR.name}</strong> — {AUTHOR.role}
         </p>
-        <p style={{ marginTop: '0.5rem', lineHeight: 1.7 }}>{AUTHOR.bio}</p>
+        <p style={{ marginTop: '0.5rem', lineHeight: 1.7 }}>
+          {AUTHOR.bio} Verantwortlich im Sinne des § 18 Abs. 2 MStV ist die im
+          Impressum genannte Person.
+        </p>
+        <p style={{ marginTop: '0.5rem', lineHeight: 1.7 }}>
+          <Link href="/redaktion/" className={styles.mailLink}>
+            Arbeitsweise, KI-Kennzeichnung, Korrekturen und Finanzierung
+          </Link>
+        </p>
 
         <h2 style={{ fontSize: '1.5rem', marginTop: '2rem', marginBottom: '1rem' }}>Kontakt</h2>
         <p style={{ lineHeight: 1.7 }}>

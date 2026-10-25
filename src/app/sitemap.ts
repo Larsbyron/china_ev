@@ -16,6 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: canonicalUrl('/deutschland/'), lastModified: now, changeFrequency: 'daily', priority: 0.8 },
     { url: canonicalUrl('/brands/'), lastModified: now, changeFrequency: 'weekly', priority: 0.7 },
     { url: canonicalUrl('/weekly/'), lastModified: now, changeFrequency: 'weekly', priority: 0.6 },
+    { url: canonicalUrl('/redaktion/'), lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
     { url: canonicalUrl('/about/'), lastModified: now, changeFrequency: 'monthly', priority: 0.4 },
   ]
 

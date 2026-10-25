@@ -1,10 +1,14 @@
 /**
  * Site-wide editorial byline.
- * Direction B: a fixed pen name with an honest, non-fabricated bio — used for
- * article author schema (E-E-A-T), bylines, and the About page.
+ * "Lars Bergmann" is an editorial pseudonym, disclosed on /redaktion/ and in the
+ * bio below. Never invent a CV, employer, award or membership for this name —
+ * the bio describes the desk, not a person.
  */
 export const AUTHOR = {
   name: 'Lars Bergmann',
-  role: 'Redakteur',
-  bio: 'Redakteur bei E-AUTOS mit Fokus auf den chinesischen Elektroauto-Markt und dessen Bedeutung für deutsche Käufer.',
+  role: 'Redaktion',
+  pseudonym: true,
+  /** Deep link used by bylines, JSON-LD `author.url` and OG metadata. */
+  url: '/redaktion/#lars-bergmann',
+  bio: 'Redaktionspseudonym von E-AUTOS für die Berichterstattung über den chinesischen Elektroauto-Markt und seine Bedeutung für deutsche Käufer.',
 } as const

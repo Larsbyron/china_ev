@@ -4,6 +4,8 @@ import './global.css'
 import { Analytics } from '@vercel/analytics/react'
 import ThemeProvider from '@/components/ThemeProvider'
 import { SITE_URL } from '@/lib/site'
+import { AUTHOR } from '@/lib/author'
+import { PUBLISHER } from '@/lib/redaktion'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -28,7 +30,7 @@ export const metadata: Metadata = {
   },
   description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News. Tägliche kuratierte Nachrichten zu BYD, NIO, XPeng, Li Auto, MG und weiteren chinesischen E-Auto-Marken.',
   keywords: ['China EV', 'Elektroauto', 'BYD', 'NIO', 'XPeng', 'Li Auto', 'MG', 'E-Auto', 'Deutschland', 'chinesische Autos'],
-  authors: [{ name: 'Lars Bergmann' }],
+  authors: [{ name: AUTHOR.name, url: `${SITE_URL}${AUTHOR.url}` }],
   openGraph: {
     type: 'website',
     locale: 'de_DE',
@@ -109,6 +111,15 @@ export default function RootLayout({
               },
               description: 'Die vertrauenswürdige deutschsprachige Quelle für China-EV-News.',
               inLanguage: 'de',
+              /* Editorische Leitlinien — Google News/Discover Transparenz-Signal. */
+              publishingPrinciples: `${SITE_URL}/redaktion/`,
+              contactPoint: {
+                '@type': 'ContactPoint',
+                contactType: 'Redaktion',
+                email: PUBLISHER.email,
+                url: `${SITE_URL}/redaktion/`,
+                availableLanguage: ['de'],
+              },
             }),
           }}
         />

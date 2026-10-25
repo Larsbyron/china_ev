@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 
@@ -63,6 +64,13 @@ export default function ImpressumPage() {
         <p style={{ marginBottom: '0.5rem', lineHeight: 1.7 }}>
           Zhinai Liu<br />
           Forsthaus 22, 40883 Ratingen
+        </p>
+
+        <p style={{ marginTop: '0.5rem', lineHeight: 1.7 }}>
+          Redaktionelle Leitlinien, KI-Kennzeichnung und Korrekturweg:{' '}
+          <Link href="/redaktion/" style={{ color: 'var(--color-accent-green)' }}>
+            Redaktion &amp; Transparenz
+          </Link>
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>

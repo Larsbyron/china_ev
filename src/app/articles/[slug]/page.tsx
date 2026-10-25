@@ -21,6 +21,7 @@ import {
 import type { ArticleMeta } from '@/lib/articles'
 import { TOPIC_BY_SLUG } from '@/lib/topics'
 import { AUTHOR } from '@/lib/author'
+import { AI_LABEL } from '@/lib/redaktion'
 import FallbackImage from '@/components/FallbackImage'
 import StatusBadge from '@/components/StatusBadge'
 import { buildAbsoluteImageUrl } from '@/lib/images'
@@ -87,6 +88,15 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   const siteUrl = SITE_URL
 
+  // Own guides carry a self-referencing `original_url` and no foreign source —
+  // never emit `isBasedOn` pointing at the article itself.
+  const externalSourceUrl =
+    article.original_url &&
+    article.source !== 'E-AUTOS Redaktion' &&
+    article.original_url !== canonicalUrl(`/articles/${article.slug}/`)
+      ? article.original_url
+      : null
+
   // AdSense slot IDs come from the AdSense UI (Vercel env, build-time inlined).
   // Both empty ⇒ AdUnit renders nothing and the page output is unchanged.
   const adSlotInArticle = process.env.NEXT_PUBLIC_ADSENSE_SLOT_IN_ARTICLE ?? ''
@@ -139,9 +149,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               dateModified: article.date,
               author: {
                 '@type': 'Person',
+                '@id': `${siteUrl}${AUTHOR.url}`,
                 name: AUTHOR.name,
                 description: AUTHOR.bio,
-                url: `${siteUrl}/about/`,
+                url: `${siteUrl}${AUTHOR.url}`,
               },
               publisher: {
                 '@type': 'Organization',
@@ -160,6 +171,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               articleSection: 'Elektroautos aus China',
               inLanguage: 'de-DE',
               isAccessibleForFree: true,
+              /* Transparenz: redaktionelle Leitlinien + Quelltext (Google News). */
+              publishingPrinciples: `${siteUrl}/redaktion/`,
+              ...(externalSourceUrl ? { isBasedOn: externalSourceUrl } : {}),
               ...(article.brand ? {
                 about: { '@type': 'Vehicle', manufacturer: article.brand },
               } : {}),
@@ -199,7 +213,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 )}
                 <span className={styles.source}>{article.source}</span>
                 <span className={styles.source}>
-                  Von <Link href="/about/" rel="author">{AUTHOR.name}</Link>
+                  Von <Link href="/redaktion/#lars-bergmann" rel="author">{AUTHOR.name}</Link>
                 </span>
                 <time className={styles.date} dateTime={article.date}>
                   {formatDate(article.date)}
@@ -213,6 +227,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
               {article.description && (
                 <p className={styles.description}>{article.description}</p>
+              )}
+
+              {/* Per-article AI disclosure — own guides (source = 'E-AUTOS
+                  Redaktion') are not translations and carry no label. */}
+              {article.source !== 'E-AUTOS Redaktion' && (
+                <p className={styles.aiNote}>
+                  <Link href="/redaktion/#ki">{AI_LABEL}</Link> aus {article.source}
+                </p>
               )}
             </div>
           </header>

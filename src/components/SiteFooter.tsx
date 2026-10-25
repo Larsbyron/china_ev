@@ -12,6 +12,8 @@ const brandLinks = [
 ]
 
 const legalLinks = [
+  { href: '/redaktion', label: 'Redaktion' },
+  { href: '/about', label: 'Über uns' },
   { href: '/impressum', label: 'Impressum' },
   { href: '/datenschutz', label: 'Datenschutz' },
   { href: '/feed.xml', label: 'RSS' },
