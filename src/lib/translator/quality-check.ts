@@ -291,6 +291,44 @@ function checkInDeutschlandSection(content: string): QualityCheckItem {
   return { name: '本地化模块', passed: true, severity: 'error', message: '' }
 }
 
+/**
+ * 德媒口吻检测：拦截"通稿腔/译文腔"
+ * 命中越多，说明越像机器翻译而不是德语编辑部改写的稿子
+ */
+function checkGermanEditorialVoice(content: string): QualityCheckItem {
+  const patterns: Array<[RegExp, string]> = [
+    [/wie chinesische Medien[^.]{0,30}/i, 'wie chinesische Medien …'],
+    [/\bes wird berichtet\b/i, 'es wird berichtet'],
+    [/laut (dem )?(Hersteller|Unternehmen|Konzern)\b/i, 'laut Hersteller/Unternehmen'],
+    [/(kündigte|gab bekannt|teilte mit),? dass/i, 'kündigte an/gab bekannt, dass'],
+    [/\bin diesem Zusammenhang\b/i, 'in diesem Zusammenhang'],
+    [/\bim Rahmen (von|des)\b/i, 'im Rahmen von'],
+    [/\brevolution(är|iert)\b/i, 'revolutionär'],
+    [/\bbahnbrechend\b/i, 'bahnbrechend'],
+    [/\bwegweisend\b/i, 'wegweisend'],
+    [/\batemberaubend\b/i, 'atemberaubend'],
+    [/\bMeilenstein\b/i, 'Meilenstein'],
+    [/\bGame-?Changer\b/i, 'Game-Changer'],
+    [/\bsetzt neue Maßstäbe\b/i, 'setzt neue Maßstäbe'],
+    [/\bnicht nur [^.]{0,40} sondern auch\b/i, 'nicht nur … sondern auch'],
+    [/\bhinsichtlich\b/i, 'hinsichtlich'],
+  ]
+  const hits: string[] = []
+  for (const [re, label] of patterns) if (re.test(content)) hits.push(label)
+  if (hits.length >= 3) {
+    return {
+      name: '德媒口吻',
+      passed: false,
+      severity: 'error',
+      message: `通稿腔/译文腔过多（${hits.length} 类）：${hits.slice(0, 5).join('、')}`,
+    }
+  }
+  if (hits.length > 0) {
+    return { name: '德媒口吻', passed: true, severity: 'error', message: `轻微译文腔：${hits.join('、')}` }
+  }
+  return { name: '德媒口吻', passed: true, severity: 'error', message: '' }
+}
+
 // ============================================================================
 // 主入口
 // ============================================================================
@@ -335,6 +373,7 @@ export function runQualityCheck(input: QualityCheckInput): QualityCheckOutput {
     checkCurrencyConverted(cleanedContent, originalContent),
     checkRangeStandard(cleanedContent, originalContent),
     checkInDeutschlandSection(cleanedContent),
+    checkGermanEditorialVoice(cleanedContent),
   ]
 
   const errors = checks.filter((c) => c.severity === 'error' && !c.passed)

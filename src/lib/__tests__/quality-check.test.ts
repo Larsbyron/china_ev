@@ -181,6 +181,23 @@ describe('runQualityCheck', () => {
     const rangeCheck = result.checks.find((c) => c.name === '续航标准标注')
     expect(rangeCheck?.passed).toBe(false)
   })
+
+  it('拦截通稿腔/译文腔（≥3 类）', () => {
+    const result = runQualityCheck(makeInput({
+      content: 'Der Hersteller gab bekannt, dass der Seal revolutionär ist. Laut Hersteller ist er bahnbrechend. In diesem Zusammenhang setzt er neue Maßstäbe.\n\n## In Deutschland\n\nBYD ist bereits auf dem deutschen Markt vertreten und baut das Händlernetz weiter aus, der Seal soll 2026 folgen.',
+    }))
+    const voiceCheck = result.checks.find((c) => c.name === '德媒口吻')
+    expect(voiceCheck?.passed).toBe(false)
+    expect(result.passed).toBe(false)
+  })
+
+  it('德媒改写稿不触发口吻拦截', () => {
+    const result = runQualityCheck(makeInput({
+      content: 'BYD startet den Seal in China ab umgerechnet 24.300 € — rund 4.000 € unter einem VW ID.7. Die Reichweite liegt bei 700 km (CLTC), also etwa 595 km (WLTP-Schätzwert).\n\nDamit liegt der Wagen auf Augenhöhe mit einem Tesla Model 3 Long Range. Eine EU-Typgenehmigung ist bislang nicht bestätigt.\n\n## In Deutschland\n\nBYD ist bereits auf dem deutschen Markt vertreten, der Seal soll 2026 folgen. Europapreise nennt der Hersteller nicht.',
+    }))
+    const voiceCheck = result.checks.find((c) => c.name === '德媒口吻')
+    expect(voiceCheck?.passed).toBe(true)
+  })
 })
 
 describe('formatQualityReport', () => {
