@@ -31850,3 +31850,49 @@
 {"ts":"2026-10-24T19:20:21.279Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-10-24T19:20:21.298Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-10-24T19:20:21.316Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:37:14.140Z","source":"Autohome","title":"","action":"error","translation_ok":false}
+{"ts":"2026-10-25T13:37:14.143Z","source":"Autohome NewEnergy","title":"","action":"error","translation_ok":false}
+{"ts":"2026-10-25T13:37:29.215Z","source":"D1EV","title":"重磅揭晓丨2026盖世汽车第八届金辑奖-中国汽车产业影响力人物","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-25T13:37:29.215Z","source":"D1EV","title":"重磅揭晓 | 2026盖世汽车第八届金辑奖—最具成长价值企业","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-25T13:37:32.608Z","source":"Sina","title":"奇瑞高管张俊加盟奥迪中国 将出任奥迪中国首位中方总裁","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:37:32.620Z","source":"Sina","title":"长安高层换防背后 两级治理进入新阶段","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:37:32.641Z","source":"Sina","title":"博世创新工场与米链共创达成战略合作，共建创投孵化平台","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:37:32.655Z","source":"Sina","title":"宁德时代“电电增程” 推动重卡全面进入换电时代","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:37:32.669Z","source":"Sina","title":"华为靳玉志：自动驾驶对安全的要求更高","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-25T13:37:36.202Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4295,"completion_tokens":1682,"cache_hit_tokens":2816,"cache_miss_tokens":1479,"reasoning_chars":2111,"content_chars":3128}
+{"ts":"2026-10-25T13:37:36.206Z","source":"CarNewsChina","title":"[QA FAILED] Geely Emgrand 2027: 120 PS für umgerechnet 7.700 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-25T13:37:36.221Z","source":"CarNewsChina","title":"Chery Chairman apologises after Omoda 5 axle failure in Malaysia","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-25T13:37:41.253Z","source":"ChooseAuto","title":"限时焕新价20.98万元起，智能越野方盒子猛士X700上市","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-25T13:37:41.254Z","source":"ChooseAuto","title":"携所爱 赴山海！限时焕新价20.98万元起，猛士X700上市即交付，开启智能越野新生活","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-25T13:37:41.254Z","source":"ChooseAuto","title":"限时焕新价20.98万元起 猛士X700上市即交付 开启智能越野新生活","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-25T13:37:41.270Z","source":"ChooseAuto","title":"全新吉利银河E5区域媒体暨用户试驾会济南站圆满启幕","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-25T13:37:47.798Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":3894,"completion_tokens":3369,"cache_hit_tokens":3712,"cache_miss_tokens":182,"reasoning_chars":6397,"content_chars":3991}
+{"ts":"2026-10-25T13:37:48.027Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":4516,"completion_tokens":2625,"cache_hit_tokens":2816,"cache_miss_tokens":1700,"reasoning_chars":5100,"content_chars":4508}
+{"ts":"2026-10-25T13:38:03.298Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":1942,"completion_tokens":2615,"reasoning_chars":5906,"content_chars":2687}
+{"ts":"2026-10-25T13:38:03.299Z","source":"OFweek NEV","title":"Tank 500 Facelift: V6-Offroader ab ca. 44.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-25T13:38:11.744Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":1974,"completion_tokens":4096,"reasoning_chars":14085,"content_chars":249}
+{"ts":"2026-10-25T13:38:11.744Z","source":"D1EV","title":"12 Firmen, 200 Gäste: China schmiedet E-Auto-Cluster","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-25T13:38:33.541Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5143,"completion_tokens":3020,"cache_hit_tokens":2816,"cache_miss_tokens":2327,"reasoning_chars":5019,"content_chars":5065}
+{"ts":"2026-10-25T13:38:35.238Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5399,"completion_tokens":5040,"cache_hit_tokens":2816,"cache_miss_tokens":2583,"reasoning_chars":9021,"content_chars":5590}
+{"ts":"2026-10-25T13:38:48.463Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2102,"completion_tokens":2646,"reasoning_chars":6751,"content_chars":1980}
+{"ts":"2026-10-25T13:38:48.463Z","source":"D1EV","title":"Peking, Tianjin, Hebei bauen gemeinsamen EV-Cluster","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-25T13:38:56.869Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":2476,"completion_tokens":4096,"reasoning_chars":13642,"content_chars":0}
+{"ts":"2026-10-25T13:39:09.737Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5668,"completion_tokens":3391,"cache_hit_tokens":2816,"cache_miss_tokens":2852,"reasoning_chars":6604,"content_chars":4792}
+{"ts":"2026-10-25T13:39:13.253Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2476,"completion_tokens":2605,"reasoning_chars":7798,"content_chars":1400}
+{"ts":"2026-10-25T13:39:13.253Z","source":"OFweek NEV","title":"Tank 500 (2027): 408-PS-PHEV-Offroader startet in China","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-25T13:39:22.257Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2033,"completion_tokens":2161,"reasoning_chars":4839,"content_chars":1986}
+{"ts":"2026-10-25T13:39:22.258Z","source":"D1EV","title":"BAIC, Xiaomi, Li Auto: 12 Projekte für Nordchina-EV-Cluster","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-25T13:39:22.259Z","source":"D1EV","title":"BAIC, Xiaomi, Li Auto: 12 Projekte für Nordchina-EV-Cluster","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-25T13:39:22.273Z","source":"D1EV","title":"现实面前，理想只能自研","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-25T13:39:31.913Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":8192,"prompt_tokens":5039,"completion_tokens":2472,"cache_hit_tokens":2816,"cache_miss_tokens":2223,"reasoning_chars":2114,"content_chars":6444}
+{"ts":"2026-10-25T13:39:57.306Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":4096,"prompt_tokens":2627,"completion_tokens":4096,"reasoning_chars":14485,"content_chars":0}
+{"ts":"2026-10-25T13:40:12.483Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":4096,"prompt_tokens":2627,"completion_tokens":2298,"reasoning_chars":7421,"content_chars":872}
+{"ts":"2026-10-25T13:40:12.483Z","source":"OFweek NEV","title":"Tank 500 Facelift 2027: 354-PS-V6 ab ca. 44.800 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-25T13:40:13.854Z","source":"OFweek NEV","title":"Tank 500 Facelift 2027: 354-PS-V6 ab ca. 44.800 €","action":"published","translation_ok":true}
+{"ts":"2026-10-25T13:40:13.869Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:40:13.886Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:40:13.899Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:40:13.918Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:40:13.934Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:40:13.950Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-25T13:40:13.968Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
