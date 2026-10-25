@@ -153,9 +153,11 @@ export default function RedaktionPage() {
           <p className={styles.p}>
             Die Erstübersetzung eines Fachbeitrags entsteht mit einem KI-Sprachmodell.
             Es handelt sich um eine Übertragung, nicht um eine eigene Recherche:
-            Zahlen, Zitate und Einschätzungen stammen aus der Quelle, nicht von uns.
-            Wir fügen keine Beträge, Reichweiten oder Leistungsdaten hinzu, die im
-            Original nicht stehen.
+            Zahlen und Zitate stammen aus der Quelle. Ergänzt wird ein kurzer,
+            ebenfalls KI-generierter Abschnitt „In Deutschland“, der die
+            Marktbedeutung einordnet – auch er ist keine eigene Recherche. Wir fügen
+            keine Beträge, Reichweiten oder Leistungsdaten hinzu, die im Original
+            nicht stehen.
           </p>
           <p className={styles.p}>
             Originaltexte sind in der Regel englisch oder chinesisch. Beim Übertragen
@@ -164,31 +166,33 @@ export default function RedaktionPage() {
             uns – siehe <a className={styles.link} href="#korrekturen">Korrekturen &amp; Kontakt</a>.
           </p>
 
-          <h3 className={styles.h3}>Redaktionelle Prüfung</h3>
+          <h3 className={styles.h3}>Automatisierte Prüfung</h3>
           <p className={styles.p}>
             Vor der Veröffentlichung läuft jeder übersetzte Text durch eine
-            automatisierte Qualitätsprüfung und eine ebenfalls automatisierte
-            redaktionelle Bewertung. Geprüft werden unter anderem:
+            automatisierte Qualitätsprüfung (fest definierte Regeln) und eine
+            ebenfalls automatisierte redaktionelle Bewertung durch ein Sprachmodell.
+            Geprüft werden unter anderem:
           </p>
           <ul className={styles.list}>
             <li className={styles.listItem}>
-              Marken- und Modellschreibweise anhand eines festen Glossars
+              Sprachqualität: keine chinesischen Schriftzeichen, keine
+              Übersetzungsreste, keine Platzhalter im deutschen Text
             </li>
             <li className={styles.listItem}>
-              Zahlen, Einheiten und Umrechnungen – Yuan in Euro, Reichweiten immer mit
-              dem zugehörigen Prüfzyklus (CLTC oder WLTP)
+              Markenname: der Markenname aus der Quelle muss im deutschen Text
+              vorkommen
             </li>
             <li className={styles.listItem}>
-              deutsche Fachbegriffe: Reichweite, Ladeleistung, Batteriekapazität,
-              Zellchemie
+              Preise: Yuan-Betrag und Euro-Umrechnung mit festem Richtkurs
             </li>
             <li className={styles.listItem}>
-              Sprachqualität: keine chinesischen Schriftzeichen im deutschen Text,
-              keine Übersetzungsreste, keine leeren Platzhalter
+              Reichweiten nur mit dem zugehörigen Prüfzyklus (CLTC oder WLTP)
             </li>
             <li className={styles.listItem}>
-              Aufbau: Zwischenüberschriften, kurze Absätze, einleitender Absatz mit den
-              wichtigsten Fakten
+              Länge von Titel, Beschreibung und Text im Verhältnis zum Original
+            </li>
+            <li className={styles.listItem}>
+              Vollständigkeit: der Abschnitt „In Deutschland“ muss vorhanden sein
             </li>
           </ul>
           <p className={styles.p}>
@@ -209,9 +213,10 @@ export default function RedaktionPage() {
           </p>
           <p className={styles.p}>
             Was KI bei uns nicht macht: Sie führt keine Interviews, erstellt keine
-            Testurteile, vergibt keine Bewertungen und verfasst keine Kommentare.
-            Beiträge mit der Quellenangabe „E-AUTOS Redaktion“ entstehen redaktionell
-            und tragen den KI-Hinweis nicht.
+            Testurteile, vergibt keine Bewertungen und verfasst keine Kommentare. Auch
+            eigene Ratgeber ohne fremde Vorlage – gekennzeichnet mit „E-AUTOS
+            Redaktion“ – entstehen mit KI-Unterstützung; sie tragen den Hinweis
+            „KI-gestützte Erstellung“.
           </p>
           <p className={styles.note}>
             Rechtlicher Hintergrund: Artikel 50 Absatz 4 der Verordnung (EU) 2024/1689
@@ -239,18 +244,19 @@ export default function RedaktionPage() {
               Hersteller-Pressemappen als einziger Grundlage einer Meldung.
             </li>
             <li className={styles.listItem}>
-              <strong>Glossar.</strong> Marken und Modelle werden einheitlich
-              geschrieben – von Atto 3 bis Zeekr 7X, mit deutscher Modellbezeichnung
-              dort, wo es eine gibt.
+              <strong>Glossar.</strong> Marken und Modelle werden über ein festes
+              Marken-Glossar einheitlich übertragen – von Atto 3 bis Zeekr 7X; geprüft
+              wird zusätzlich, dass der Markenname im deutschen Text vorkommt.
             </li>
             <li className={styles.listItem}>
-              <strong>Zahlen.</strong> Preise rechnen wir von Yuan in Euro um (Kurs zum
-              Redaktionszeitpunkt, gerundet). Reichweiten nennen den Prüfzyklus, weil
-              CLTC- und WLTP-Werte nicht vergleichbar sind.
+              <strong>Zahlen.</strong> Preise rechnen wir von Yuan in Euro um – mit
+              einem festen Richtkurs, der Yuan-Betrag steht jeweils in Klammern.
+              Reichweiten nennen den Prüfzyklus, weil CLTC- und WLTP-Werte nicht
+              vergleichbar sind.
             </li>
             <li className={styles.listItem}>
-              <strong>Kennzeichnung.</strong> Quelle, Datum, Lesezeit und – bei
-              Übersetzungen – der KI-Hinweis stehen an jedem Artikel.
+              <strong>Kennzeichnung.</strong> Quelle, Datum, Lesezeit und der
+              KI-Hinweis stehen an jedem Artikel.
             </li>
           </ol>
           <p className={styles.p}>
@@ -308,9 +314,9 @@ export default function RedaktionPage() {
             {PUBLISHER.vatId}.
           </p>
           <p className={styles.p}>
-            Die redaktionelle Verantwortung umfasst die Entscheidung darüber, welche
-            Inhalte erscheinen, welchen Umfang sie haben und wann sie korrigiert,
-            gesperrt oder gelöscht werden. Alle Pflichtangaben stehen im{' '}
+            Die redaktionelle Verantwortung umfasst die Leitlinien, nach denen Inhalte
+            ausgewählt und veröffentlicht werden, sowie die Entscheidung über
+            Korrekturen, Sperrungen und Löschungen. Alle Pflichtangaben stehen im{' '}
             <Link className={styles.link} href="/impressum/">Impressum</Link>.
           </p>
         </section>
@@ -344,8 +350,9 @@ export default function RedaktionPage() {
           <p className={styles.p}>
             Ratgeber und Einordnungen ohne fremde Vorlage – etwa unsere Übersicht zu
             den Kosten eines Auto-Imports aus China – erscheinen unter der
-            Quellenangabe „E-AUTOS Redaktion“. Sie entstehen in der Redaktion und
-            werden vor der Veröffentlichung geprüft.
+            Quellenangabe „E-AUTOS Redaktion“. Sie entstehen mit KI-Unterstützung und
+            werden vor der Veröffentlichung automatisiert geprüft; sie tragen den
+            Hinweis „KI-gestützte Erstellung“.
           </p>
         </section>
 
@@ -358,10 +365,11 @@ export default function RedaktionPage() {
 
           <h3 className={styles.h3}>Google AdSense</h3>
           <p className={styles.p}>
-            Die Anzeigenflächen sind mit „Anzeigen“ gekennzeichnet und liegen außerhalb
-            des redaktionellen Textes. Wir verkaufen keine Platzierung innerhalb eines
-            Artikels, und Anzeigenkunden erhalten keine Zusage über Inhalte,
-            Reihenfolge oder Bewertung von Artikeln.
+            Die Anzeigenflächen sind mit „Anzeigen“ gekennzeichnet: die In-Article-
+            Anzeige steht zwischen zwei Absätzen (nie innerhalb eines Absatzes), die
+            Bottom-Anzeige unter dem Artikeltext. Wir verkaufen keine Platzierung
+            innerhalb eines Absatzes, und Anzeigenkunden erhalten keine Zusage über
+            Inhalte, Reihenfolge oder Bewertung von Artikeln.
           </p>
 
           <h3 className={styles.h3}>Amazon-Partnerprogramm</h3>

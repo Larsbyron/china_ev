@@ -21,7 +21,8 @@ import {
 import type { ArticleMeta } from '@/lib/articles'
 import { TOPIC_BY_SLUG } from '@/lib/topics'
 import { AUTHOR } from '@/lib/author'
-import { AI_LABEL } from '@/lib/redaktion'
+import { AI_LABEL, AI_LABEL_ORIGINAL } from '@/lib/redaktion'
+import { ORIGINAL_SOURCE_NAME } from '@/lib/schemas'
 import FallbackImage from '@/components/FallbackImage'
 import StatusBadge from '@/components/StatusBadge'
 import { buildAbsoluteImageUrl } from '@/lib/images'
@@ -229,13 +230,20 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 <p className={styles.description}>{article.description}</p>
               )}
 
-              {/* Per-article AI disclosure — own guides (source = 'E-AUTOS
-                  Redaktion') are not translations and carry no label. */}
-              {article.source !== 'E-AUTOS Redaktion' && (
-                <p className={styles.aiNote}>
-                  <Link href="/redaktion/#ki">{AI_LABEL}</Link> aus {article.source}
-                </p>
-              )}
+              {/* Per-article AI disclosure — translations name the source,
+                  own guides are marked as AI-assisted. */}
+              <p className={styles.aiNote} data-pagefind-ignore>
+                {article.source === ORIGINAL_SOURCE_NAME ? (
+                  <>
+                    <Link href="/redaktion/#ki">{AI_LABEL_ORIGINAL}</Link> · E-AUTOS
+                    Redaktion
+                  </>
+                ) : (
+                  <>
+                    <Link href="/redaktion/#ki">{AI_LABEL}</Link> aus {article.source}
+                  </>
+                )}
+              </p>
             </div>
           </header>
 

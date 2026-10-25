@@ -58,8 +58,9 @@ export default function AboutPage() {
           Die meisten Artikel sind Übersetzungen aus chinesischen und
           englischsprachigen Fachmedien. Die Erstübersetzung entsteht mit einem
           KI-Sprachmodell und wird vor der Veröffentlichung automatisiert geprüft.
-          Jeder Artikel nennt seine Quelle und trägt den Hinweis „KI-gestützte
-          Übersetzung“. Wie das im Einzelnen funktioniert, steht unter{' '}
+          Jeder Artikel nennt seine Quelle. Übersetzte Artikel tragen den Hinweis
+          „KI-gestützte Übersetzung“, eigene Ratgeber den Hinweis „KI-gestützte
+          Erstellung“. Wie das im Einzelnen funktioniert, steht unter{' '}
           <Link href="/redaktion/" className={styles.mailLink}>Redaktion &amp; Transparenz</Link>.
         </p>
 

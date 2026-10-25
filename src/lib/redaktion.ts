@@ -27,6 +27,9 @@ export const EDITORIAL_RESPONSIBLE_LEGAL_BASIS = '§ 18 Abs. 2 MStV'
 /** Shown under the headline of every translated article. */
 export const AI_LABEL = 'KI-gestützte Übersetzung'
 
+/** Shown under the headline of our own (non-translated) guides. */
+export const AI_LABEL_ORIGINAL = 'KI-gestützte Erstellung'
+
 export const AI_DISCLOSURE_TEXT =
   'Die Erstübersetzung dieses Artikels entsteht mit einem KI-Sprachmodell und wird vor der Veröffentlichung automatisiert geprüft. Quelle und Originalbeitrag sind am Artikelende verlinkt.'
 
@@ -42,6 +45,6 @@ export const SOURCES = [
   'Autohome NewEnergy',
   'D1EV',
   'OFweek NEV',
-  'Sina Auto',
+  'Sina',
   'ChooseAuto',
 ] as const
