@@ -31980,3 +31980,40 @@
 {"ts":"2026-10-26T05:41:44.836Z","source":"D1EV","title":"Li Auto baut Batterien selbst – 510 Mio. € Verlust","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-10-26T05:41:46.737Z","source":"D1EV","title":"Li Auto baut Batterien selbst – 510 Mio. € Verlust","action":"published","translation_ok":true}
 {"ts":"2026-10-26T05:41:46.750Z","source":"D1EV","title":"中国高阶智驾爆款车型TOP20（2026年9月）","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-26T15:57:13.992Z","source":"Autohome NewEnergy","title":"全新秦PLUS/新款理想i6等领衔 本周新车预告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:14.308Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:14.316Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:14.326Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:14.333Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:14.350Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:14.359Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:14.369Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:14.387Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:18.171Z","source":"D1EV","title":"欧冶半导体与睿驰达成战略合作","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-26T15:57:27.382Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4513,"completion_tokens":2132,"cache_hit_tokens":3840,"cache_miss_tokens":673,"reasoning_chars":3475,"content_chars":3036}
+{"ts":"2026-10-26T15:57:28.153Z","source":"Sina","title":"奇瑞高管张俊加盟奥迪中国 将出任奥迪中国首位中方总裁","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:28.164Z","source":"Sina","title":"博世创新工场与米链共创达成战略合作，共建创投孵化平台","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:28.174Z","source":"Sina","title":"岚图梦想家9入藏北京汽车博物馆 右舵版将登陆香港市场","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-26T15:57:28.182Z","source":"Sina","title":"华为靳玉志：自动驾驶对安全的要求更高","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-26T15:57:32.947Z","source":"ChooseAuto","title":"智擎相伴 动静皆出色｜全新第四代博越 L 区域上市暨交付派对合肥站圆满落幕","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-26T15:57:34.076Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4945,"completion_tokens":3222,"cache_hit_tokens":3840,"cache_miss_tokens":1105,"reasoning_chars":7024,"content_chars":2925}
+{"ts":"2026-10-26T15:57:36.949Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1706,"completion_tokens":1560,"reasoning_chars":4334,"content_chars":681}
+{"ts":"2026-10-26T15:57:36.949Z","source":"Autohome NewEnergy","title":"Chery Fengyun A9: EREV-Limousine ab ca. 15.300 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-26T15:57:39.335Z","source":"Autohome NewEnergy","title":"Chery Fengyun A9: EREV-Limousine ab ca. 15.300 €","action":"published","translation_ok":true}
+{"ts":"2026-10-26T15:57:39.341Z","source":"Autohome NewEnergy","title":"新福特锐界L将上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-26T15:57:42.967Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1615,"completion_tokens":1709,"reasoning_chars":4002,"content_chars":982}
+{"ts":"2026-10-26T15:57:42.967Z","source":"CarNewsChina","title":"Svolt startet Serienfertigung von 100-kWh-Semi-Solid-Akku","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-26T15:57:43.007Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":7918,"completion_tokens":3811,"cache_hit_tokens":3840,"cache_miss_tokens":4078,"reasoning_chars":6522,"content_chars":5825}
+{"ts":"2026-10-26T15:57:45.729Z","source":"CarNewsChina","title":"Svolt startet Serienfertigung von 100-kWh-Semi-Solid-Akku","action":"published","translation_ok":true}
+{"ts":"2026-10-26T15:57:45.751Z","source":"CarNewsChina","title":"Volkswagen’s 11,900 USD Jetta M6 EV is a hit in China, gets 10,000 orders in 19 hours","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-26T15:57:57.954Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2404,"completion_tokens":2707,"reasoning_chars":6505,"content_chars":2461}
+{"ts":"2026-10-26T15:57:57.954Z","source":"D1EV","title":"Stadtpilot in China: 498.000 Neuwagen, Huawei verliert","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-26T15:58:41.001Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":9258,"completion_tokens":8190,"cache_hit_tokens":3840,"cache_miss_tokens":5418,"reasoning_chars":18006,"content_chars":7051}
+{"ts":"2026-10-26T15:59:03.672Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2890,"completion_tokens":4124,"reasoning_chars":10425,"content_chars":2524}
+{"ts":"2026-10-26T15:59:03.672Z","source":"D1EV","title":"China: 30 % Stadtpilot-Quote, Momenta überholt Huawei","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-26T16:00:31.079Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"length","max_tokens":16384,"prompt_tokens":9336,"completion_tokens":16384,"cache_hit_tokens":3840,"cache_miss_tokens":5496,"reasoning_chars":50305,"content_chars":2622}
+{"ts":"2026-10-26T16:01:14.132Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":32768,"prompt_tokens":9336,"completion_tokens":8400,"cache_hit_tokens":9088,"cache_miss_tokens":248,"reasoning_chars":21802,"content_chars":5564}
+{"ts":"2026-10-26T16:01:34.279Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2305,"completion_tokens":3679,"reasoning_chars":11032,"content_chars":1329}
+{"ts":"2026-10-26T16:01:34.279Z","source":"D1EV","title":"Stadtpilot in China: 30 % Quote, Momenta im September vorn","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-26T16:01:37.240Z","source":"D1EV","title":"Stadtpilot in China: 30 % Quote, Momenta im September vorn","action":"published","translation_ok":true}
+{"ts":"2026-10-26T16:01:37.254Z","source":"D1EV","title":"北汽全新品牌星钽发布，首款车型星钽5X开启预售13.99万元起","action":"skipped_quota","translation_ok":true}
