@@ -7,6 +7,7 @@
  */
 
 import { appendRunLog } from '../runlog'
+import { TruncatedResponseError } from './truncation'
 
 // ============================================================================
 // Types
@@ -27,6 +28,12 @@ export interface EditorialReviewResult {
   averageScore: number
   /** 五维评分与 ===URTEIL=== 是否都成功解析；false = 模型输出不可用（不等于译文有问题） */
   parseOk: boolean
+  /**
+   * 复审输出被截断（finish_reason=length）。截断不是译文问题，也不等于复审服务不可用，
+   * 所以它既不套 EDITORIAL_ON_UNAVAILABLE 的 approve 回退，也不该触发「按反馈重翻」。
+   * 调用方据此只重跑复审，仍截断就落草稿。
+   */
+  truncated?: boolean
 }
 
 // ============================================================================
@@ -151,19 +158,39 @@ async function callEditorialAPI(
 
   const url = `${DEEPSEEK_BASE_URL}/chat/completions`
 
-  const body = JSON.stringify({
-    model: REVIEW_MODEL,
-    // 2048 太紧：思考 token 也计入 max_tokens，实测把预算吃满导致返回空/不可解析
-    max_tokens: Number(process.env.EDITORIAL_MAX_TOKENS ?? 4096),
-    temperature: 0.2,
-    // 默认降档：DeepSeek 系列默认开启思考且默认 effort=high；实测 67% 的复审输出不可解析。
-    // 不设 EDITORIAL_REASONING_EFFORT 即用 low（要回滚可设为 high）。
-    reasoning_effort: process.env.EDITORIAL_REASONING_EFFORT ?? 'low',
-    messages: [
-      { role: 'system', content: EDITORIAL_SYSTEM_PROMPT },
-      { role: 'user', content: userPrompt },
-    ],
-  })
+  // 预算：4096 常被思考吃满，7d 实测 editorial 阶段截断 21.7%（48/221 次调用）。
+  // 常规 8192、翻倍重试 16384；都可用环境变量覆盖。提高预算零成本（按实际用量计费）。
+  // ⚠️ 必须 clamp：DeepSeek 硬上限 393216（2026-10-26 实测 393216 → 200、393217 → 400）。
+  // 若不 clamp，运维把 EDITORIAL_MAX_TOKENS 调到 300000 会让重试变 600000 → HTTP 400 →
+  // 落进下面的通用 catch → onUnavailable 默认 approve = **静默关掉质量门**。
+  const MAX_TOKENS_CEILING = 393216
+  const readBudget = (raw: string | undefined, fallback: number): number => {
+    const n = Number(raw)
+    // 注意：fallback 也必须过 clamp —— 默认重试预算 2×393216 已超上限，
+    // 只 clamp 环境变量而放过 fallback，就等于在默认路径上留了同一个洞。
+    const base = Number.isFinite(n) && n > 0 ? Math.floor(n) : fallback
+    return Math.min(base, MAX_TOKENS_CEILING)
+  }
+  const baseMaxTokens = readBudget(process.env.EDITORIAL_MAX_TOKENS, 8192)
+  const retryMaxTokens = readBudget(
+    process.env.EDITORIAL_MAX_TOKENS_RETRY,
+    Math.max(baseMaxTokens * 2, 16384)
+  )
+
+  const buildBody = (maxTokens: number) =>
+    JSON.stringify({
+      model: REVIEW_MODEL,
+      // 思考 token 也计入 max_tokens，预算太紧会先被思考吃满再返回空/不可解析
+      max_tokens: maxTokens,
+      temperature: 0.2,
+      // 默认降档：DeepSeek 系列默认开启思考且默认 effort=high；实测 67% 的复审输出不可解析。
+      // 不设 EDITORIAL_REASONING_EFFORT 即用 low（要回滚可设为 high）。
+      reasoning_effort: process.env.EDITORIAL_REASONING_EFFORT ?? 'low',
+      messages: [
+        { role: 'system', content: EDITORIAL_SYSTEM_PROMPT },
+        { role: 'user', content: userPrompt },
+      ],
+    })
 
   const headers = {
     'Content-Type': 'application/json',
@@ -173,10 +200,15 @@ async function callEditorialAPI(
   // Retry with backoff
   const delays = [1000, 2000, 4000]
   let lastError: Error | null = null
+  // 截断走独立通道：只允许一次翻倍预算的重试，用完立即退出循环。
+  // 若交给外层 attempt 循环处理，它会在同一预算上再烧 3 次 —— 而截断调用的
+  // completion_tokens 恰好等于 max_tokens，同预算重发必然再截断。
+  let maxTokens = baseMaxTokens
+  let escalated = false
 
   for (let attempt = 0; attempt <= delays.length; attempt++) {
     try {
-      const response = await fetch(url, { method: 'POST', headers, body, signal })
+      const response = await fetch(url, { method: 'POST', headers, body: buildBody(maxTokens), signal })
 
       if (response.status === 429 && attempt < delays.length) {
         await new Promise(r => setTimeout(r, delays[attempt]))
@@ -199,12 +231,25 @@ async function callEditorialAPI(
         model: REVIEW_MODEL,
         phase: 'editorial',
         finish_reason: finishReason ?? null,
-        max_tokens: Number(process.env.EDITORIAL_MAX_TOKENS ?? 4096),
+        max_tokens: maxTokens,
         prompt_tokens: data?.usage?.prompt_tokens ?? null,
         completion_tokens: data?.usage?.completion_tokens ?? null,
         reasoning_chars: (message?.reasoning_content ?? '').length,
         content_chars: (content ?? '').length,
       })
+
+      // finish_reason=length 一律当失败（在空内容检查之前）：实测 43% 的截断调用仍带
+      // 非空 content，半截评分表/半截 feedback 会被解析成「五维默认 3 分 + 空反馈」，
+      // 或更糟 —— 被 on_unavailable 当成 approve。
+      if (finishReason === 'length') {
+        throw new TruncatedResponseError(
+          `Truncated editorial response (max_tokens=${maxTokens}, ` +
+            `completion_tokens=${data?.usage?.completion_tokens ?? 'unknown'}, ` +
+            `reasoning_chars=${message?.reasoning_content?.length ?? 0}, ` +
+            `content_chars=${content?.length ?? 0})`,
+          maxTokens
+        )
+      }
 
       // 不再回退 reasoning_content：思考预算被吃满时那是不完整的思维链，
       // 拿它去解析只会得到「五维默认 3 分 + 空反馈」，再触发无意义的重翻。
@@ -218,6 +263,18 @@ async function callEditorialAPI(
       return content.trim()
     } catch (err) {
       lastError = err instanceof Error ? err : new Error(String(err))
+
+      // 截断不是瞬态错误：第一次截断换翻倍预算重试，第二次就退出循环，
+      // 绝不回到同预算的 attempt 分支上重复烧钱。
+      if (lastError instanceof TruncatedResponseError) {
+        if (!escalated && retryMaxTokens > maxTokens) {
+          escalated = true
+          maxTokens = retryMaxTokens
+          continue
+        }
+        break
+      }
+
       if (attempt < delays.length && !signal?.aborted) {
         await new Promise(r => setTimeout(r, delays[attempt]))
         continue
@@ -299,21 +356,33 @@ Prüfe diesen Artikel nach den 5 Kriterien. Gib Bewertung, Urteil und Feedback.`
     return parsed
   } catch (err) {
     const msg = err instanceof Error ? err.message : 'Unknown editorial review error'
-    console.error(`[Editorial] Review failed: ${msg} — onUnavailable=${onUnavailable}`)
+    // 截断的复审输出**不能**走 parse-fail 的 approve 回退 —— 那等于发布一条未审的稿子。
+    // EDITORIAL_ON_UNAVAILABLE 只覆盖「复审服务不可用」；截断已在翻倍预算下重试过一次，
+    // 到这里只能是失败：approved 恒为 false，交给调用方去复核或落草稿。
+    const truncated = err instanceof TruncatedResponseError
+    const approved = truncated ? false : unavailableApproved
+    console.error(
+      `[Editorial] Review failed: ${msg} — onUnavailable=${onUnavailable}` +
+        (truncated ? ' (truncated → always blocked, never auto-approved)' : '')
+    )
     appendRunLog({
       kind: 'editorial',
       model: REVIEW_MODEL,
       parse_ok: null,
       error: msg,
-      on_unavailable: onUnavailable,
-      approved: unavailableApproved,
+      truncated,
+      on_unavailable: truncated ? 'truncation' : onUnavailable,
+      approved,
     })
     return {
-      approved: unavailableApproved,
+      approved,
       scores: { translationQuality: 3, newsValue: 3, titleAppeal: 3, structure: 3, factCheck: 3 },
-      feedback: `Review API error (${unavailableApproved ? 'auto-approved' : 'blocked'}): ${msg}`,
+      feedback: truncated
+        ? `Review output truncated after one escalated retry — not approved: ${msg}`
+        : `Review API error (${unavailableApproved ? 'auto-approved' : 'blocked'}): ${msg}`,
       averageScore: 3,
       parseOk: false,
+      ...(truncated ? { truncated: true } : {}),
     }
   }
 }

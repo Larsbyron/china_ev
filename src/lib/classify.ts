@@ -109,8 +109,11 @@ export async function classifyArticle(
     headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${apiKey}` },
     body: JSON.stringify({
       model: CLASSIFY_MODEL,
-      max_tokens: 1024,
+      max_tokens: 2048,
       temperature: 0.1,
+      // 分类只需要挑标签，思考纯属浪费预算：不设档位时 DeepSeek 用默认 high，
+      // 1024 预算常被思考吃满（finish_reason=length），输出被截在半截。
+      reasoning_effort: 'low',
       messages: [
         { role: 'system', content: CLASSIFY_SYSTEM },
         { role: 'user', content: buildClassifyPrompt(title, content) },
@@ -126,5 +129,13 @@ export async function classifyArticle(
   // 不再回退 reasoning_content（与 translator/index.ts 一致）：思维链不是结果，
   // 拿它去解析会得出错误分类。content 为空时交给 parseClassification 处理空串。
   const raw: string = data?.choices?.[0]?.message?.content ?? ''
+  // finish_reason 只记录不抛错：本函数在日报流水线里是「宁可分类不准也不能中断」的一环，
+  // 静默回退是刻意保留的；但截断必须留痕，否则永远看不见。
+  const finishReason: string | undefined = data?.choices?.[0]?.finish_reason
+  if (finishReason && finishReason !== 'stop') {
+    console.warn(
+      `[classify] finish_reason=${finishReason} (max_tokens=2048, content_chars=${raw.length}) — using partial/default parse`
+    )
+  }
   return parseClassification(raw)
 }

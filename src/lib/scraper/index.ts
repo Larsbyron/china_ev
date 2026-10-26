@@ -396,6 +396,8 @@ async function processSource(
         // === 责任编辑审核 ===
         let editorialPassed = false
         let editorialFeedback = ''
+        // 截断后的复审重跑只给一次：截断是复审侧故障，不是译文缺陷，不该消耗重翻次数
+        let truncationRecheckDone = false
         let currentTitle = translatedArticle.title
         let currentContent = translatedArticle.content
         let currentDescription = translatedArticle.description || ''
@@ -411,11 +413,28 @@ async function processSource(
 
           console.log(`[${sourceName}] Editorial review (attempt ${attempt + 1}): avg=${review.averageScore.toFixed(1)} ${review.approved ? 'APPROVE' : 'REVISION'}`)
 
-          logRun(sourceName, currentTitle, review.approved ? 'editorial_approved' : 'editorial_revision')
+          // 截断的复审结果是「服务故障」而不是「编辑意见」：不计入 revision 指标，
+          // 否则截断会被算成译文被退回，监控时会误判产量损失的原因。
+          if (!review.truncated) {
+            logRun(sourceName, currentTitle, review.approved ? 'editorial_approved' : 'editorial_revision')
+          }
 
           if (review.approved) {
             editorialPassed = true
             translatedArticle = { ...translatedArticle, title: currentTitle, content: currentContent, description: currentDescription }
+            break
+          }
+
+          // 复审被截断 ≠ 译文有问题：editorialReview 已把它判成 approved:false
+          //（不走 EDITORIAL_ON_UNAVAILABLE 的 approve 回退），这里也不该把「截断」
+          // 当作编辑意见去重翻整篇 —— 只重跑一次复审，仍截断就落草稿。
+          if (review.truncated) {
+            if (!truncationRecheckDone) {
+              truncationRecheckDone = true
+              console.log(`[${sourceName}] Editorial review truncated output — re-running review only (no re-translation)`)
+              logRun(sourceName, currentTitle, 'editorial_truncated_retry')
+              continue
+            }
             break
           }
 

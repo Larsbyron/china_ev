@@ -14,6 +14,7 @@ import {
 } from './prompts'
 import { lookupBrand, buildInDeutschlandSection, ensureModuleHeading } from './brand-glossary'
 import { buildRevisionPrompt } from './editorial-review'
+import { TruncatedResponseError } from './truncation'
 import { appendRunLog } from '../runlog'
 
 /**
@@ -63,7 +64,11 @@ const DEEPSEEK_BASE_URL = 'https://api.deepseek.com'
 const API_KEY = process.env.DEEPSEEK_API_KEY
 
 const MODEL = 'deepseek-flash'
-const MAX_TOKENS = 8192
+// DeepSeek 实际上限 393216（2026-10-26 实测 probe：393216 → 200，393217 → 400），
+// 而 8192 常被思考吃满（7d 实测 translate 阶段截断 5.2%，被截断的调用吃掉 16.8% 的总 token）。
+// 提高预算零成本（按实际用量计费，不用不花钱），并保留一次翻倍重试兜住长文。
+const MAX_TOKENS = 16384
+const MAX_TOKENS_RETRY = 32768
 const TEMPERATURE = 0.3
 
 // 思考档位灰度（2026-09-23 起）：埋点实测输出 token 里约 80% 是思考过程，
@@ -171,9 +176,33 @@ function splitIntoChunks(text: string): TextChunk[] {
 // DeepSeek API (OpenAI-compatible)
 // ============================================================================
 
+/**
+ * 对外入口：一次正常的调用；只有一种情况会换预算重发 —— 截断。
+ * 网络错误 / 429 退避 / 402 欠费的处理仍在下面的单次实现里，原样保留。
+ */
 async function callDeepSeekAPI(
   systemPrompt: string,
   userPrompt: string,
+  signal?: AbortSignal,
+  maxTokens: number = MAX_TOKENS
+): Promise<string> {
+  try {
+    return await callDeepSeekAPIAttempt(systemPrompt, userPrompt, maxTokens, signal)
+  } catch (err) {
+    // 截断只重试一次，且必须换更大的预算：实测被截断的调用 completion_tokens 恰好等于
+    // max_tokens，同预算重试必然再次截断，只是多烧一次钱。
+    // 已经用上重试预算还截断 → 直接抛给调用方（translateArticle 的 catch 会只废掉这一篇）。
+    if (err instanceof TruncatedResponseError && maxTokens < MAX_TOKENS_RETRY) {
+      return await callDeepSeekAPIAttempt(systemPrompt, userPrompt, MAX_TOKENS_RETRY, signal)
+    }
+    throw err
+  }
+}
+
+async function callDeepSeekAPIAttempt(
+  systemPrompt: string,
+  userPrompt: string,
+  maxTokens: number,
   signal?: AbortSignal
 ): Promise<string> {
   if (!API_KEY || API_KEY.trim().length === 0) {
@@ -184,7 +213,7 @@ async function callDeepSeekAPI(
 
   const body = JSON.stringify({
     model: MODEL,
-    max_tokens: MAX_TOKENS,
+    max_tokens: maxTokens,
     temperature: TEMPERATURE,
     // 思考档位：不带该字段 = 保持 DeepSeek 默认（thinking 开、effort high）。
     // 注意 temperature 在思考模式下被静默忽略，降档后它才真正生效（0.3）。
@@ -243,7 +272,7 @@ async function callDeepSeekAPI(
     phase: 'translate',
     reasoning_effort: EFFORT_ACTIVE ? REASONING_EFFORT : null,
     finish_reason: finishReason ?? null,
-    max_tokens: MAX_TOKENS,
+    max_tokens: maxTokens,
     prompt_tokens: data?.usage?.prompt_tokens ?? null,
     completion_tokens: data?.usage?.completion_tokens ?? null,
     cache_hit_tokens: data?.usage?.prompt_cache_hit_tokens ?? null,
@@ -251,6 +280,18 @@ async function callDeepSeekAPI(
     reasoning_chars: (message?.reasoning_content ?? '').length,
     content_chars: (content ?? '').length,
   })
+
+  // finish_reason=length 一律当失败：7d 实测 43% 的截断调用仍带非空 content，
+  // 半截译文会静默流进 QA/重翻/发布，比空响应危险得多。必须在空内容检查之前拦下。
+  if (finishReason === 'length') {
+    throw new TruncatedResponseError(
+      `Truncated response from DeepSeek API (max_tokens=${maxTokens}, ` +
+        `completion_tokens=${data?.usage?.completion_tokens ?? 'unknown'}, ` +
+        `reasoning_chars=${message?.reasoning_content?.length ?? 0}, ` +
+        `content_chars=${content?.length ?? 0})`,
+      maxTokens
+    )
+  }
 
   // 不再回退 reasoning_content（P1-3，等价于 revert b3d2b71）：
   // 思考模式下 max_tokens 被推理耗尽时，reasoning_content 是一段不完整的思维链，
@@ -529,3 +570,4 @@ export async function translateBatch(
 }
 
 export type { TextChunk }
+export { TruncatedResponseError }
