@@ -32164,3 +32164,42 @@
 {"ts":"2026-10-28T15:49:09.508Z","source":"Autohome NewEnergy","title":"AITO M8 Facelift: ab 49.900 € mit 800 Volt und L3-Technik","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-10-28T15:49:12.256Z","source":"Autohome NewEnergy","title":"AITO M8 Facelift: ab 49.900 € mit 800 Volt und L3-Technik","action":"published","translation_ok":true}
 {"ts":"2026-10-28T15:49:12.261Z","source":"Autohome NewEnergy","title":"哈弗猛龙HEV将上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-28T21:32:53.006Z","source":"CarNewsChina","title":"EV battery safety proven the hard way: An Epicland X9 battery remains intact after severe collision ","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:53.028Z","source":"CarNewsChina","title":"GWM’s Svolt began mass production of 100 kWh semi-solid batteries","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:53.983Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:53.995Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:54.012Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:54.022Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:54.038Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:54.053Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:54.074Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:54.090Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:55.813Z","source":"Autohome NewEnergy","title":"预售38.98万起 新款问界M8将上市","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:32:58.115Z","source":"D1EV","title":"浩瀚能源吉利智充创新产品全面亮相2026 SAECCE","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T21:33:02.422Z","source":"Sina","title":"92%综合得分率 岚图泰山获C-NCAP五星+认证","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-28T21:33:05.393Z","source":"ChooseAuto","title":"立足南京辐射华东 2027年中国（南京）国际智慧农业展览会抢占智慧农业市场新高地","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-28T21:33:05.393Z","source":"ChooseAuto","title":"500余家企业同台亮相 2027南京智慧农业展览会铸就行业标杆实力","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-28T21:33:05.413Z","source":"ChooseAuto","title":"3.99万元起，奔腾小马五门版“为爱开门”：小车，也能很精致","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-28T21:33:10.791Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4393,"completion_tokens":2288,"cache_hit_tokens":3840,"cache_miss_tokens":553,"reasoning_chars":4323,"content_chars":3049}
+{"ts":"2026-10-28T21:33:12.858Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5338,"completion_tokens":3242,"cache_hit_tokens":3968,"cache_miss_tokens":1370,"reasoning_chars":5325,"content_chars":4478}
+{"ts":"2026-10-28T21:33:27.094Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2197,"completion_tokens":2303,"reasoning_chars":6227,"content_chars":869}
+{"ts":"2026-10-28T21:33:27.095Z","source":"CarNewsChina","title":"BYD Denza N8: 1.193 PS und 1.003 km Reichweite","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-28T21:33:27.454Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1692,"completion_tokens":2943,"reasoning_chars":7470,"content_chars":2232}
+{"ts":"2026-10-28T21:33:27.454Z","source":"Autohome NewEnergy","title":"Haval Menglong HEV wird GWM H7 — Europa-Start ab 40.000 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-28T21:33:29.079Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4452,"completion_tokens":6404,"cache_hit_tokens":3840,"cache_miss_tokens":612,"reasoning_chars":17472,"content_chars":2209}
+{"ts":"2026-10-28T21:33:31.036Z","source":"CarNewsChina","title":"BYD Denza N8: 1.193 PS und 1.003 km Reichweite","action":"published","translation_ok":true}
+{"ts":"2026-10-28T21:33:31.057Z","source":"CarNewsChina","title":"BYD opens blind orders for second-generation Seal 07, with LiDAR and 2,960 mm wheelbase","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-28T21:33:42.238Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5763,"completion_tokens":2543,"cache_hit_tokens":3840,"cache_miss_tokens":1923,"reasoning_chars":5327,"content_chars":3058}
+{"ts":"2026-10-28T21:34:01.864Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1716,"completion_tokens":3687,"reasoning_chars":10488,"content_chars":1547}
+{"ts":"2026-10-28T21:34:01.864Z","source":"Autohome NewEnergy","title":"GWM H7: Great Walls Boxen-SUV startet ab 40.000 € in Italien","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-28T21:34:03.621Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1368,"completion_tokens":6050,"reasoning_chars":20732,"content_chars":1725}
+{"ts":"2026-10-28T21:34:03.621Z","source":"D1EV","title":"Mercedes-Benz: Umsatz sinkt 4,4 %, Prognose gesenkt","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-28T21:34:21.568Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5506,"completion_tokens":2540,"cache_hit_tokens":3840,"cache_miss_tokens":1666,"reasoning_chars":4004,"content_chars":4883}
+{"ts":"2026-10-28T21:34:21.569Z","source":"D1EV","title":"Mercedes unter Druck: China-Preiskampf halbiert Pkw-Gewinn","action":"draft_qa_failed_retranslation","translation_ok":true}
+{"ts":"2026-10-28T21:34:21.570Z","source":"D1EV","title":"Mercedes-Benz: Umsatz sinkt 4,4 %, Prognose gesenkt","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-28T21:34:21.582Z","source":"D1EV","title":"联合电子区域控制器（Zone ECU）新平台批产","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-28T21:34:24.941Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5524,"completion_tokens":4772,"cache_hit_tokens":3840,"cache_miss_tokens":1684,"reasoning_chars":11955,"content_chars":2929}
+{"ts":"2026-10-28T21:35:05.075Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1665,"completion_tokens":7168,"reasoning_chars":21964,"content_chars":2585}
+{"ts":"2026-10-28T21:35:05.076Z","source":"Autohome NewEnergy","title":"GWM H7: Kantiger SUV startet ab 40.000 € in Italien","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-28T21:35:05.076Z","source":"Autohome NewEnergy","title":"GWM H7: Kantiger SUV startet ab 40.000 € in Italien","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-28T21:35:05.086Z","source":"Autohome NewEnergy","title":"全新宝马X5 M谍照","action":"skipped_quota","translation_ok":true}
