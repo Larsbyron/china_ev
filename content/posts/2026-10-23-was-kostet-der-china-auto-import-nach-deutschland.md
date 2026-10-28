@@ -193,7 +193,7 @@ Unterm Strich: Wer 5.000 Euro sparen will, muss bereit sein, im Garantiefall sel
 - **Einfuhranmeldung** vorbereiten: Warennummer 8703 80 10 10, Kaufrechnung, Frachtdokumente, Zahlungsnachweis.
 - **Prüfstelle** vorab fragen, ob sie Vollgutachten für Importfahrzeuge macht.
 
-**Anzeige** – Ladezubehör, das bei importierten Elektroautos oft nicht dabei ist: [Typ-2-Ladekabel und Wallbox bei Amazon.de (Anzeige)](https://www.amazon.de/s?k=typ+2+ladekabel+11kw+wallbox&tag=byronbai-21&ascsubtag=cev-ratgeber-import).
+**Anzeige** – Ladezubehör, das bei importierten Elektroautos oft nicht dabei ist: [Typ-2-Ladekabel und Wallbox bei Amazon.de (Anzeige)](/zubehoer/laden/).
 
 ## Importanfrage: wenn Sie die Abwicklung nicht selbst machen wollen
 

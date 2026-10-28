@@ -2,8 +2,10 @@ import { describe, expect, test } from 'vitest'
 import {
   AMAZON_STORE_ID,
   AFFILIATE_SLOTS,
+  affiliateRedirectPath,
   buildAffiliateUrl,
   isKnownSlot,
+  resolveAffiliateRedirect,
 } from '../affiliate'
 
 describe('AFFILIATE_SLOTS', () => {
@@ -55,5 +57,59 @@ describe('isKnownSlot', () => {
     expect(isKnownSlot(undefined)).toBe(false)
     expect(isKnownSlot(42)).toBe(false)
     expect(isKnownSlot({})).toBe(false)
+  })
+})
+
+describe('affiliateRedirectPath', () => {
+  test('is a same-site path with trailing slash (trailingSlash: true)', () => {
+    for (const slot of AFFILIATE_SLOTS) {
+      const path = affiliateRedirectPath(slot.id)
+      expect(path).toBe(`/zubehoer/${slot.id}/`)
+      expect(path.startsWith('/')).toBe(true)
+      expect(path).not.toContain('http')
+    }
+  })
+
+  test('does not use cloaking paths that filter lists block', () => {
+    for (const slot of AFFILIATE_SLOTS) {
+      const path = affiliateRedirectPath(slot.id)
+      expect(path).not.toMatch(/^\/(go|out|ref|redirect|link)\//)
+    }
+  })
+})
+
+describe('resolveAffiliateRedirect', () => {
+  test('resolves every configured slot to its Amazon URL', () => {
+    for (const slot of AFFILIATE_SLOTS) {
+      expect(resolveAffiliateRedirect(slot.id)).toBe(buildAffiliateUrl(slot))
+    }
+  })
+
+  test('returns null for anything that is not a known slot id', () => {
+    expect(resolveAffiliateRedirect('does-not-exist')).toBeNull()
+    expect(resolveAffiliateRedirect('')).toBeNull()
+    expect(resolveAffiliateRedirect(null)).toBeNull()
+    expect(resolveAffiliateRedirect(undefined)).toBeNull()
+    expect(resolveAffiliateRedirect(42)).toBeNull()
+    expect(resolveAffiliateRedirect({ slot: 'laden' })).toBeNull()
+  })
+
+  test('cannot be used as an open redirect (host stays amazon.de)', () => {
+    // Path traversal / absolute URLs in the slot id must not resolve at all.
+    for (const attack of [
+      'https://evil.example',
+      '//evil.example',
+      '../laden',
+      'laden/../../evil',
+      'laden?tag=evil-21',
+    ]) {
+      expect(resolveAffiliateRedirect(attack)).toBeNull()
+    }
+    for (const slot of AFFILIATE_SLOTS) {
+      const url = new URL(resolveAffiliateRedirect(slot.id) as string)
+      expect(url.hostname).toBe('www.amazon.de')
+      expect(url.searchParams.get('tag')).toBe(AMAZON_STORE_ID)
+      expect(url.searchParams.get('ascsubtag')).toBe(`cev-zubehoer-${slot.id}`)
+    }
   })
 })

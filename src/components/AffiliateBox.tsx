@@ -1,22 +1,15 @@
-'use client'
-
-import { AFFILIATE_SLOTS, buildAffiliateUrl } from '@/lib/affiliate'
+import { AFFILIATE_SLOTS, affiliateRedirectPath } from '@/lib/affiliate'
 import styles from './AffiliateBox.module.css'
 
-function trackClick(slotId: string) {
-  // Fire-and-forget. Never block navigation, never surface an error to the user.
-  try {
-    fetch('/api/affiliate-click', {
-      method: 'POST',
-      keepalive: true,
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ slot: slotId }),
-    }).catch(() => {})
-  } catch {
-    // ignore
-  }
-}
-
+/**
+ * Amazon affiliate box.
+ *
+ * Links point at our own `/zubehoer/<slot>/` hop instead of amazon.de: the
+ * server counts the click there and then redirects (302). That replaced the
+ * old client-side `fetch` beacon, which missed clicks made before hydration
+ * and clicks from visitors without JS (Amazon counted 13 clicks where our
+ * counter saw 7 within the same week).
+ */
 export default function AffiliateBox() {
   return (
     <aside
@@ -34,10 +27,9 @@ export default function AffiliateBox() {
           <li key={slot.id} className={styles.item}>
             <a
               className={styles.link}
-              href={buildAffiliateUrl(slot)}
+              href={affiliateRedirectPath(slot.id)}
               target="_blank"
               rel="sponsored noopener noreferrer"
-              onClick={() => trackClick(slot.id)}
             >
               {slot.label}
             </a>

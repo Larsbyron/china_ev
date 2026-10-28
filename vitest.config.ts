@@ -10,6 +10,8 @@ export default defineConfig({
   },
   test: {
     environment: 'node',
-    include: ['src/lib/**/*.test.ts'],
+    // Collect tests anywhere under src/ (lib unit tests + app-router route
+    // handler tests). Default excludes keep node_modules and .next out.
+    include: ['src/**/*.test.ts'],
   },
 })

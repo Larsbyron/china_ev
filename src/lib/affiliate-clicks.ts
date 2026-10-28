@@ -47,8 +47,9 @@ export async function recordClick(slotId: string, day: string): Promise<void> {
   const total = totalKey(slotId)
   const perDay = dayKey(day, slotId)
 
-  await incrWithRetry(total)
-  await incrWithRetry(perDay)
+  // Both counters are independent: run them concurrently so one click costs
+  // three KV round-trips (ip quota + one pipeline) instead of four to five.
+  await Promise.all([incrWithRetry(total), incrWithRetry(perDay)])
   // TTL is best-effort: a missing expire only extends retention, it never
   // loses a click, so it must not fail the whole record.
   await Promise.all([
@@ -58,11 +59,15 @@ export async function recordClick(slotId: string, day: string): Promise<void> {
 }
 
 async function incrWithRetry(key: string, attempts = 2): Promise<void> {
+  await incrCountWithRetry(key, attempts)
+}
+
+/** Same retry policy, but returns the new counter value (needed for quotas). */
+async function incrCountWithRetry(key: string, attempts = 2): Promise<number> {
   let lastError: unknown
   for (let attempt = 0; attempt < attempts; attempt += 1) {
     try {
-      await kv.incr(key)
-      return
+      return await kv.incr(key)
     } catch (error) {
       lastError = error
       if (attempt + 1 < attempts) {
@@ -84,9 +89,10 @@ export async function bumpIpQuota(
   limit: number
 ): Promise<boolean> {
   const key = ipQuotaKey(ipHash, day)
-  const count = await kv.incr(key)
+  const count = await incrCountWithRetry(key)
   if (count === 1) {
-    await kv.expire(key, TTL_SECONDS)
+    // best-effort: a missing TTL only keeps the key longer
+    await kv.expire(key, TTL_SECONDS).catch(() => {})
   }
   return count <= limit
 }
