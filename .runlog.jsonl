@@ -32133,3 +32133,34 @@
 {"ts":"2026-10-27T21:10:06.288Z","source":"CarNewsChina","title":"Fang Cheng Bao Ti 9: 544-PS-SUV startet am 15. November","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-10-27T21:10:12.034Z","source":"CarNewsChina","title":"Fang Cheng Bao Ti 9: 544-PS-SUV startet am 15. November","action":"published","translation_ok":true}
 {"ts":"2026-10-27T21:10:12.046Z","source":"CarNewsChina","title":"Megawatt Flash Charger disabled with chains in China as BYD vows to crack down on misuse","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-28T15:48:22.729Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T15:48:22.735Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T15:48:22.743Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T15:48:22.750Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T15:48:22.760Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T15:48:22.767Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T15:48:22.776Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T15:48:22.784Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T15:48:27.081Z","source":"ChooseAuto","title":"立足南京辐射华东 2027年中国（南京）国际智慧农业展览会抢占智慧农业市场新高地","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-28T15:48:27.081Z","source":"ChooseAuto","title":"500余家企业同台亮相 2027南京智慧农业展览会铸就行业标杆实力","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-28T15:48:27.088Z","source":"ChooseAuto","title":"3.99万元起，奔腾小马五门版“为爱开门”：小车，也能很精致","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-28T15:48:31.779Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4925,"completion_tokens":1649,"cache_hit_tokens":3840,"cache_miss_tokens":1085,"reasoning_chars":2311,"content_chars":3180}
+{"ts":"2026-10-28T15:48:32.490Z","source":"Sina","title":"92%综合得分率 岚图泰山获C-NCAP五星+认证","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-28T15:48:33.087Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4660,"completion_tokens":1689,"cache_hit_tokens":3840,"cache_miss_tokens":820,"reasoning_chars":2005,"content_chars":3484}
+{"ts":"2026-10-28T15:48:37.525Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4478,"completion_tokens":1604,"cache_hit_tokens":3840,"cache_miss_tokens":638,"reasoning_chars":2428,"content_chars":2809}
+{"ts":"2026-10-28T15:48:43.889Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1534,"completion_tokens":1064,"reasoning_chars":2712,"content_chars":700}
+{"ts":"2026-10-28T15:48:43.890Z","source":"D1EV","title":"Geely zeigt 2,2-MW-Lader und Roboter-Ladesäule","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-28T15:48:45.780Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1659,"completion_tokens":2410,"reasoning_chars":7773,"content_chars":898}
+{"ts":"2026-10-28T15:48:45.781Z","source":"CarNewsChina","title":"Epicland X9: Batterie bleibt nach Brand unbeschädigt","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-28T15:48:46.864Z","source":"D1EV","title":"Geely zeigt 2,2-MW-Lader und Roboter-Ladesäule","action":"published","translation_ok":true}
+{"ts":"2026-10-28T15:48:46.874Z","source":"D1EV","title":"梅赛德斯-奔驰Q3营收同比下降4.4%，调整后息税前利润降15%","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-28T15:48:49.673Z","source":"CarNewsChina","title":"Epicland X9: Batterie bleibt nach Brand unbeschädigt","action":"published","translation_ok":true}
+{"ts":"2026-10-28T15:48:49.683Z","source":"CarNewsChina","title":"GWM’s Svolt began mass production of 100 kWh semi-solid batteries","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-28T15:48:49.696Z","source":"CarNewsChina","title":"BYD’s new Denza N8 EV pre-orders open in China: 1,003 km CLTC range,  1,193 hp and Flash Charging","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-28T15:48:50.000Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1819,"completion_tokens":3225,"reasoning_chars":9451,"content_chars":1256}
+{"ts":"2026-10-28T15:48:50.000Z","source":"Autohome NewEnergy","title":"AITO M8: 5,19-Meter-SUV ab 49.900 € mit 1.435 km Reichweite","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-28T15:49:04.358Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5712,"completion_tokens":2643,"cache_hit_tokens":3840,"cache_miss_tokens":1872,"reasoning_chars":4224,"content_chars":3943}
+{"ts":"2026-10-28T15:49:09.508Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2008,"completion_tokens":843,"reasoning_chars":1702,"content_chars":779}
+{"ts":"2026-10-28T15:49:09.508Z","source":"Autohome NewEnergy","title":"AITO M8 Facelift: ab 49.900 € mit 800 Volt und L3-Technik","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-28T15:49:12.256Z","source":"Autohome NewEnergy","title":"AITO M8 Facelift: ab 49.900 € mit 800 Volt und L3-Technik","action":"published","translation_ok":true}
+{"ts":"2026-10-28T15:49:12.261Z","source":"Autohome NewEnergy","title":"哈弗猛龙HEV将上市","action":"skipped_quota","translation_ok":true}
