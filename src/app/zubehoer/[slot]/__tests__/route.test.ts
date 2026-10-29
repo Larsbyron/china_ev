@@ -54,8 +54,25 @@ function ctx(slot: string): { params: Promise<{ slot: string }> } {
   return { params: Promise.resolve({ slot }) }
 }
 
-/** A click as a real browser sends it. */
-const NAVIGATION = { 'sec-fetch-dest': 'document' }
+/**
+ * A click as a real browser sends it: Chrome/Safari/Firefox all attach the
+ * three Sec-Fetch headers to a top-level link navigation from our own page.
+ */
+const NAVIGATION = {
+  'sec-fetch-mode': 'navigate',
+  'sec-fetch-dest': 'document',
+  'sec-fetch-site': 'same-origin',
+}
+
+/** The 302 contract: independent of whether the request was counted. */
+function expectRedirect(res: Response, slot: string) {
+  expect(res.status).toBe(302)
+  expect(res.headers.get('location')).toBe(
+    buildAffiliateUrl(slotById(slot) as NonNullable<ReturnType<typeof slotById>>)
+  )
+  expect(res.headers.get('cache-control')).toContain('no-store')
+  expect(res.headers.get('x-robots-tag')).toBe('noindex, nofollow')
+}
 
 beforeEach(() => {
   vi.clearAllMocks()
@@ -110,7 +127,7 @@ describe('GET /zubehoer/[slot] — counting', () => {
   test('a navigation click is counted exactly once, with the Berlin day', async () => {
     const res = await GET(
       makeRequest('dashcam', {
-        'sec-fetch-dest': 'document',
+        ...NAVIGATION,
         'x-forwarded-for': `${IP}, 10.0.0.1`,
       }),
       ctx('dashcam')
@@ -125,11 +142,98 @@ describe('GET /zubehoer/[slot] — counting', () => {
     expect(bumpIpQuotaMock).toHaveBeenCalledWith(`sha:${IP}`, DAY, 30)
   })
 
-  test('a request without Sec-Fetch-Dest still counts (older clients, curl)', async () => {
+  test('a crawler-style request without Sec-Fetch-* and without Referer redirects but is not counted', async () => {
+    // The 2026-10-28 inflation: 41 "clicks" over 158 page views, split evenly
+    // over three slots — a crawler following every /zubehoer/ link on a page.
+    // It sends neither Sec-Fetch-* nor a useful Referer.
     const res = await GET(makeRequest('reifen'), ctx('reifen'))
 
-    expect(res.status).toBe(302)
+    // The redirect is unconditional — the verdict only ever gates counting.
+    expectRedirect(res, 'reifen')
+    expect(recordClickMock).not.toHaveBeenCalled()
+    expect(bumpIpQuotaMock).not.toHaveBeenCalled()
+  })
+
+  test('same-site (www./subdomain) and cross-site (share link) navigations are counted', async () => {
+    // Real clicks that are not same-origin must not be lost: `www.` vs apex is
+    // same-site, a share link from a forum is cross-site. Both still carry
+    // mode:navigate + dest:document, which no plain crawler forges.
+    for (const site of ['same-site', 'cross-site']) {
+      vi.clearAllMocks()
+      bumpIpQuotaMock.mockResolvedValue(true)
+      recordClickMock.mockResolvedValue(undefined)
+
+      const res = await GET(
+        makeRequest('laden', { ...NAVIGATION, 'sec-fetch-site': site }),
+        ctx('laden')
+      )
+
+      expectRedirect(res, 'laden')
+      expect(recordClickMock).toHaveBeenCalledTimes(1)
+    }
+  })
+
+  test('sec-fetch-site: none (typed URL, bookmark, Googlebot direct crawl) is not counted', async () => {
+    const res = await GET(
+      makeRequest('dashcam', { ...NAVIGATION, 'sec-fetch-site': 'none' }),
+      ctx('dashcam')
+    )
+
+    expectRedirect(res, 'dashcam')
+    expect(recordClickMock).not.toHaveBeenCalled()
+  })
+
+  test('a navigation missing Sec-Fetch-Site but carrying our Referer is counted', async () => {
+    const res = await GET(
+      makeRequest('dashcam', {
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-dest': 'document',
+        referer: 'https://china-autonews.de/ratgeber/dashcam-test/',
+      }),
+      ctx('dashcam')
+    )
+
+    expectRedirect(res, 'dashcam')
     expect(recordClickMock).toHaveBeenCalledTimes(1)
+  })
+
+  test('no Sec-Fetch-* at all — even with our own Referer — is not counted', async () => {
+    // A header the attacker fully controls (Referer) is not proof of a browser:
+    // every current browser adds Sec-Fetch-*, so its absence outweighs it.
+    const res = await GET(
+      makeRequest('reifen', { referer: 'https://china-autonews.de/ratgeber/' }),
+      ctx('reifen')
+    )
+
+    expectRedirect(res, 'reifen')
+    expect(recordClickMock).not.toHaveBeenCalled()
+  })
+
+  test('a forged cross-site Referer without Sec-Fetch-Site is not counted', async () => {
+    const res = await GET(
+      makeRequest('reifen', {
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-dest': 'document',
+        referer: 'https://spam.example/',
+      }),
+      ctx('reifen')
+    )
+
+    expectRedirect(res, 'reifen')
+    expect(recordClickMock).not.toHaveBeenCalled()
+  })
+
+  test('a non-browser fetch (mode: cors / no-cors, dest: empty) is not counted', async () => {
+    for (const headers of [
+      { 'sec-fetch-mode': 'cors', 'sec-fetch-dest': 'empty', 'sec-fetch-site': 'cross-site' },
+      { 'sec-fetch-mode': 'no-cors', 'sec-fetch-dest': 'image', 'sec-fetch-site': 'cross-site' },
+    ]) {
+      vi.clearAllMocks()
+      const res = await GET(makeRequest('laden', headers), ctx('laden'))
+
+      expectRedirect(res, 'laden')
+      expect(recordClickMock).not.toHaveBeenCalled()
+    }
   })
 
   test('<img src="/zubehoer/…"> is redirected but not counted', async () => {
@@ -139,10 +243,7 @@ describe('GET /zubehoer/[slot] — counting', () => {
     )
 
     // Still redirects — the hop stays harmless for non-navigation requests.
-    expect(res.status).toBe(302)
-    expect(res.headers.get('location')).toBe(
-      buildAffiliateUrl(slotById('laden') as NonNullable<ReturnType<typeof slotById>>)
-    )
+    expectRedirect(res, 'laden')
     // But it must not inflate the click counter.
     expect(recordClickMock).not.toHaveBeenCalled()
     expect(bumpIpQuotaMock).not.toHaveBeenCalled()
