@@ -32233,3 +32233,35 @@
 {"ts":"2026-10-29T15:57:08.689Z","source":"CarNewsChina","title":"XPeng Mona L05: Crossover ab 18.500 € im Vorverkauf","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-10-29T15:57:12.444Z","source":"CarNewsChina","title":"XPeng Mona L05: Crossover ab 18.500 € im Vorverkauf","action":"published","translation_ok":true}
 {"ts":"2026-10-29T15:57:12.462Z","source":"CarNewsChina","title":"Second-gen BYD Seagull completed 140 km/h tire blowout test","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-29T21:38:21.537Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:38:21.550Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:38:21.564Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:38:21.579Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:38:21.592Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:38:21.604Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:38:21.619Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:38:21.634Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:38:21.967Z","source":"CarNewsChina","title":"Xpeng Mona L05 launched in China at 21,720 USD","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:38:22.100Z","source":"Autohome NewEnergy","title":"路虎史上第一款轿车？揽胜GT更多信息曝光","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:38:27.427Z","source":"Sina","title":"92%综合得分率 岚图泰山获C-NCAP五星+认证","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-29T21:38:28.110Z","source":"ChooseAuto","title":"小鹏MONA L05正式上市，活力四射的产品","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-29T21:38:28.110Z","source":"ChooseAuto","title":"智己LS8 NEO纯电：24.98万买全线控底盘值不值？","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-29T21:38:28.127Z","source":"ChooseAuto","title":"限时价13.98万元起，MONA L05正式上市，全维产品力一步到位","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-29T21:38:34.507Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4404,"completion_tokens":1714,"cache_hit_tokens":3840,"cache_miss_tokens":564,"reasoning_chars":3047,"content_chars":2975}
+{"ts":"2026-10-29T21:38:37.455Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5049,"completion_tokens":2591,"cache_hit_tokens":3968,"cache_miss_tokens":1081,"reasoning_chars":4347,"content_chars":4189}
+{"ts":"2026-10-29T21:38:39.166Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5699,"completion_tokens":2140,"cache_hit_tokens":5504,"cache_miss_tokens":195,"reasoning_chars":2685,"content_chars":3746}
+{"ts":"2026-10-29T21:38:51.212Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1566,"completion_tokens":2825,"reasoning_chars":7077,"content_chars":2388}
+{"ts":"2026-10-29T21:38:51.213Z","source":"Autohome NewEnergy","title":"Honda Accord Facelift: Neue Optik, neuer Hybrid ab 2027","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-29T21:38:56.820Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1942,"completion_tokens":3165,"reasoning_chars":8299,"content_chars":536}
+{"ts":"2026-10-29T21:38:56.821Z","source":"D1EV","title":"Changan Hunter K70: Range-Extender-Pickup ab 24.700 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-29T21:38:58.818Z","source":"D1EV","title":"Changan Hunter K70: Range-Extender-Pickup ab 24.700 €","action":"published","translation_ok":true}
+{"ts":"2026-10-29T21:38:58.831Z","source":"D1EV","title":"福特上调全年盈利指引 瞄准2029年8%利润率目标","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-29T21:39:01.078Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2011,"completion_tokens":4217,"reasoning_chars":12883,"content_chars":1071}
+{"ts":"2026-10-29T21:39:01.078Z","source":"CarNewsChina","title":"BYD Seagull: Reifenplatzer bei 140 km/h ohne Ausbruch","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-29T21:39:03.288Z","source":"CarNewsChina","title":"BYD Seagull: Reifenplatzer bei 140 km/h ohne Ausbruch","action":"published","translation_ok":true}
+{"ts":"2026-10-29T21:39:03.304Z","source":"CarNewsChina","title":"BYD teases Yangwang Altior high-end sedan to rival Rolls-Royce","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T21:39:03.320Z","source":"CarNewsChina","title":"GWM releases new Wey Lanshan as a luxury version of the Haval H10","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-29T21:39:10.510Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5663,"completion_tokens":3510,"cache_hit_tokens":3840,"cache_miss_tokens":1823,"reasoning_chars":7400,"content_chars":3701}
+{"ts":"2026-10-29T21:39:10.511Z","source":"Autohome NewEnergy","title":"Honda Accord Facelift: Hybrid-Start 2027, ab 23.000 €","action":"draft_qa_failed_retranslation","translation_ok":true}
+{"ts":"2026-10-29T21:39:10.512Z","source":"Autohome NewEnergy","title":"Honda Accord Facelift: Neue Optik, neuer Hybrid ab 2027","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-29T21:39:10.521Z","source":"Autohome NewEnergy","title":"哈弗猛龙HEV将上市","action":"skipped_quota","translation_ok":true}
