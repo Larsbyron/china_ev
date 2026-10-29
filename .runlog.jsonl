@@ -32203,3 +32203,33 @@
 {"ts":"2026-10-28T21:35:05.076Z","source":"Autohome NewEnergy","title":"GWM H7: Kantiger SUV startet ab 40.000 € in Italien","action":"editorial_revision","translation_ok":true}
 {"ts":"2026-10-28T21:35:05.076Z","source":"Autohome NewEnergy","title":"GWM H7: Kantiger SUV startet ab 40.000 € in Italien","action":"draft_editorial_rejected","translation_ok":true}
 {"ts":"2026-10-28T21:35:05.086Z","source":"Autohome NewEnergy","title":"全新宝马X5 M谍照","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-29T15:56:15.228Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T15:56:15.245Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T15:56:15.258Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T15:56:15.268Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T15:56:15.285Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T15:56:15.297Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T15:56:15.319Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T15:56:15.331Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-29T15:56:18.207Z","source":"ChooseAuto","title":"好看、 好开、 高配置！ MONA L05重磅上市， 限时价13.98万元起","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-29T15:56:18.207Z","source":"ChooseAuto","title":"智己LS8 NEO纯电：24.98万买全线控底盘值不值？","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-29T15:56:18.207Z","source":"ChooseAuto","title":"24.98万元起，上汽集团x宁德时代严选，智己LS8 NEO纯电开启预售","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-29T15:56:18.207Z","source":"ChooseAuto","title":"更大更美更强 第三代秦PLUS DM-i上市限时7.69万元起","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-10-29T15:56:18.228Z","source":"ChooseAuto","title":"限时价13.98万元起，MONA L05正式上市，全维产品力一步到位","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-29T15:56:23.102Z","source":"Sina","title":"92%综合得分率 岚图泰山获C-NCAP五星+认证","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-29T15:56:24.003Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5467,"completion_tokens":2072,"cache_hit_tokens":3968,"cache_miss_tokens":1499,"reasoning_chars":1988,"content_chars":4012}
+{"ts":"2026-10-29T15:56:27.873Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5699,"completion_tokens":1656,"cache_hit_tokens":3840,"cache_miss_tokens":1859,"reasoning_chars":1480,"content_chars":3502}
+{"ts":"2026-10-29T15:56:27.876Z","source":"D1EV","title":"[QA FAILED] Changan Hunter K70: 260-kW-Offroad-Pickup ab 24.700 €","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-29T15:56:27.890Z","source":"D1EV","title":"福特上调全年盈利指引 瞄准2029年8%利润率目标","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-29T15:56:33.907Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4550,"completion_tokens":2702,"cache_hit_tokens":3840,"cache_miss_tokens":710,"reasoning_chars":6453,"content_chars":3267}
+{"ts":"2026-10-29T15:56:39.460Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2062,"completion_tokens":2730,"reasoning_chars":6763,"content_chars":1910}
+{"ts":"2026-10-29T15:56:39.461Z","source":"CarNewsChina","title":"XPeng Mona L05: 4,9-Meter-SUV ab 18.500 € gestartet","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-29T15:56:40.490Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1650,"completion_tokens":1040,"reasoning_chars":2464,"content_chars":924}
+{"ts":"2026-10-29T15:56:40.491Z","source":"Autohome NewEnergy","title":"Range Rover GT: Elektro-GT mit 118-kWh-Akku und 850 Volt","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-29T15:56:42.688Z","source":"Autohome NewEnergy","title":"Range Rover GT: Elektro-GT mit 118-kWh-Akku und 850 Volt","action":"published","translation_ok":true}
+{"ts":"2026-10-29T15:56:42.699Z","source":"Autohome NewEnergy","title":"本田雅阁中期改款","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-29T15:56:57.398Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6694,"completion_tokens":3545,"cache_hit_tokens":3840,"cache_miss_tokens":2854,"reasoning_chars":6380,"content_chars":4090}
+{"ts":"2026-10-29T15:57:08.688Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2079,"completion_tokens":2061,"reasoning_chars":5941,"content_chars":536}
+{"ts":"2026-10-29T15:57:08.689Z","source":"CarNewsChina","title":"XPeng Mona L05: Crossover ab 18.500 € im Vorverkauf","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-29T15:57:12.444Z","source":"CarNewsChina","title":"XPeng Mona L05: Crossover ab 18.500 € im Vorverkauf","action":"published","translation_ok":true}
+{"ts":"2026-10-29T15:57:12.462Z","source":"CarNewsChina","title":"Second-gen BYD Seagull completed 140 km/h tire blowout test","action":"skipped_quota","translation_ok":true}
