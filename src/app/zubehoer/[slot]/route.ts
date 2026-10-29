@@ -60,14 +60,17 @@ function isOwnReferer(referer: string | null): boolean {
  *
  * Requests with no Sec-Fetch-* headers are NOT counted — the exact opposite of
  * the rule this file shipped with, which counted them "so we do not lose older
- * clients". Measured on 2026-10-28: 41 counted clicks (dashcam 13 / laden 17 /
- * reifen 11) against 96 visitors / 158 page views, i.e. 26 % of all page views
- * "clicked" an affiliate link, split almost evenly across the three slots —
- * the shape of a crawler following all three links in every article, not of
- * humans. The beacon this route replaced saw 0–2/day in the same period
- * because crawlers do not run JS. Old comment's premise was wrong: a client
- * that sends no Sec-Fetch-* headers is overwhelmingly a bot, and the few real
- * ones are worth less than the inflated numbers.
+ * clients". Measured 2026-10-28, the first day this route counted: 41 counted
+ * clicks (dashcam 13 / laden 17 / reifen 11) against 96 visitors / 158 page
+ * views from Vercel Analytics — 26 % of page views "clicking" an affiliate
+ * link, which no human population does. The beacon this route replaced saw
+ * 0–2/day over the same traffic because crawlers do not run JS. (The three
+ * slots being within 1.5× of each other is consistent with a crawler following
+ * every link, but is NOT proof: the position pattern alone also fits humans —
+ * the magnitude is the argument.) The old comment's premise was wrong: a
+ * client sending no Sec-Fetch-* headers is overwhelmingly a bot, and the few
+ * real ones (WebKit before 16.4, i.e. before March 2023) are worth less than
+ * inflated numbers that cannot serve as a denominator.
  *
  * `site: none` is excluded too: it marks a URL typed/bookmarked directly — and
  * it is what Googlebot sends when it crawls the redirect URL. A forged triple
@@ -85,9 +88,10 @@ function isBrowserNavigation(req: NextRequest): boolean {
   if (site === 'same-origin' || site === 'same-site' || site === 'cross-site') {
     return true
   }
-  // Some privacy setups strip Sec-Fetch-Site; a same-site Referer still
-  // proves a browser was on one of our pages (referrer-policy stripping the
-  // Referer does not affect sec-fetch-site, so this path is a fallback only).
+  // Fallback for a client that sends mode/dest but no site (some privacy
+  // setups). Limited: AffiliateBox links carry rel="noreferrer", so this path
+  // can only ever rescue a markdown link click. Do not treat it as a second
+  // line of defence — if all three headers are missing we return false above.
   return isOwnReferer(req.headers.get('referer'))
 }
 
@@ -104,6 +108,7 @@ export async function GET(req: NextRequest, { params }: RouteParams) {
 
   if (isBrowserNavigation(req)) {
     const day = currentDay()
+    let finished = false
     try {
       await Promise.race([
         (async () => {
@@ -116,11 +121,21 @@ export async function GET(req: NextRequest, { params }: RouteParams) {
             // Visible in the function log: distinguishes "quota dropped it"
             // from "the visitor never clicked".
             console.warn('[affiliate-redirect] quota exceeded', slot, day)
+            finished = true
             return
           }
           await recordClick(slot, day)
+          finished = true
         })(),
-        new Promise((resolve) => setTimeout(resolve, COUNT_TIMEOUT_MS)),
+        new Promise((resolve) =>
+          setTimeout(() => {
+            // A slow KV and a traffic dip must not look alike in the ledger.
+            if (!finished) {
+              console.warn('[affiliate-redirect] count timeout', slot, day)
+            }
+            resolve(undefined)
+          }, COUNT_TIMEOUT_MS)
+        ),
       ])
     } catch (error) {
       // A KV problem must never cost the visitor the click (or the

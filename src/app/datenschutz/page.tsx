@@ -129,18 +129,23 @@ export default function DatenschutzPage() {
           Für die Einholung Ihrer Einwilligung setzen wir die von Google
           bereitgestellte, nach IAB TCF zertifizierte Consent-Management-Plattform
           („Funding Choices“, CMP-ID 300) ein. Solange Sie keine Wahl getroffen
-          haben, fordern wir keine Anzeigen an. Wenn Sie die Verwendung von
-          Cookies für personalisierte Werbung ablehnen, können dennoch begrenzte,
-          nicht personalisierte Anzeigen ausgeliefert werden („Limited Ads“);
-          Rechtsgrundlage hierfür ist unser berechtigtes Interesse an der
-          Finanzierung dieses Angebots nach Art. 6 Abs. 1 lit. f DSGVO in
-          Verbindung mit § 25 Abs. 2 TDDDG, dem Sie nach Art. 21 DSGVO
-          widersprechen können. Sie können Ihre Einwilligung jederzeit mit
-          Wirkung für die Zukunft ändern oder widerrufen – über den Link
+          haben, werden über unsere Seiten keine Anzeigen ausgeliefert. Wenn Sie
+          die Verwendung von Cookies für personalisierte Werbung ablehnen,
+          können Ihnen dennoch nicht personalisierte Anzeigen ausgeliefert
+          werden. Rechtsgrundlage der Datenverarbeitung ist insoweit unser
+          berechtigtes Interesse an der Finanzierung dieses Angebots nach Art. 6
+          Abs. 1 lit. f DSGVO, dem Sie nach Art. 21 DSGVO widersprechen können;
+          das Speichern und Abrufen von Informationen auf Ihrem Endgerät stützen
+          wir auf Ihre Einwilligung nach § 25 Abs. 1 TDDDG oder, soweit
+          technisch unbedingt erforderlich, auf die Ausnahme nach § 25 Abs. 2
+          TDDDG. Sie können Ihre Einwilligung jederzeit mit Wirkung für die
+          Zukunft ändern oder widerrufen – über den Link
           „Datenschutz-Einstellungen“ in der Fußzeile jeder Seite öffnet sich das
           Auswahlfenster erneut. Sollte sich dieses Fenster bei Ihnen nicht
           öffnen (etwa weil ein Werbeblocker die Skripte von Google unterbindet),
-          können Sie personalisierte Werbung jederzeit über die{' '}
+          können Sie Ihre Einwilligung auch per E-Mail an die im Impressum
+          genannte Adresse widerrufen. Die Personalisierung von Werbeanzeigen in
+          Ihrem Google-Konto können Sie zudem jederzeit über die{' '}
           <a href="https://myadcenter.google.com/" target="_blank" rel="noopener noreferrer">
             Google-Anzeigeneinstellungen
           </a>{' '}
@@ -153,9 +158,15 @@ export default function DatenschutzPage() {
         <p style={{ lineHeight: 1.7 }}>
           Zur Reichweitenmessung setzen wir Plausible Analytics (Plausible
           Insights OÜ, Estland) sowie Vercel Web Analytics ein. Beide Dienste
-          arbeiten ohne Cookies und setzen keine Kennungen auf Ihrem Endgerät. Es
-          werden keine personenbezogenen Daten gespeichert und keine Nutzerprofile
-          gebildet; die erfassten Angaben sind aggregiert und anonymisiert.
+          arbeiten ohne Cookies und setzen keine Kennungen auf Ihrem Endgerät. Zur
+          Erkennung wiederkehrender Besucher wird aus IP-Adresse, User-Agent und
+          einem täglich wechselnden Salt ein Hashwert gebildet, der spätestens
+          nach 24 Stunden verfällt; IP-Adresse und User-Agent werden nicht
+          dauerhaft gespeichert. Die Auswertung erfolgt aggregiert, ein
+          dauerhafter Personenbezug wird nicht hergestellt. Rechtsgrundlage ist
+          unser berechtigtes Interesse an einer datensparsamen Reichweitenmessung
+          nach Art. 6 Abs. 1 lit. f DSGVO; dieser Verarbeitung können Sie nach
+          Art. 21 DSGVO widersprechen.
         </p>
       </main>
 
