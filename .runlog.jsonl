@@ -32300,3 +32300,34 @@
 {"ts":"2026-10-30T15:43:25.279Z","source":"D1EV","title":"Ford erwartet 9,8–10,2 Mrd. € — BYD-Druck wächst","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-10-30T15:43:29.252Z","source":"D1EV","title":"Ford erwartet 9,8–10,2 Mrd. € — BYD-Druck wächst","action":"published","translation_ok":true}
 {"ts":"2026-10-30T15:43:29.263Z","source":"D1EV","title":"精进电动北美新电驱系统批量投产，配套美国新客户","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T17:40:27.720Z","source":"Autohome NewEnergy","title":"新款奔驰E级/纯电E级将于2027年首发","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:29.951Z","source":"CarNewsChina","title":"2nd-gen BYD Seal 07 reaches dealers ahead of Nov 5 launch","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:30.013Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:30.022Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:30.034Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:30.046Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:30.057Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:30.068Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:30.081Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:30.093Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:34.349Z","source":"D1EV","title":"​全球首款增程越野皮卡 长安猎手K70上市19.29万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:34.366Z","source":"D1EV","title":"福特上调全年盈利指引 瞄准2029年8%利润率目标","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:40:38.117Z","source":"Sina","title":"奇瑞汽车发布前三季度财报 营收2412.34亿元，同比增长12.29%","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T17:40:43.589Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":5163,"completion_tokens":2070,"cache_hit_tokens":3840,"cache_miss_tokens":1323,"reasoning_chars":3615,"content_chars":3733}
+{"ts":"2026-10-30T17:40:47.273Z","source":"ChooseAuto","title":"最会赚钱的理想汽车，为什么开始“补课”了","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T17:40:54.874Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":4596,"completion_tokens":4920,"cache_hit_tokens":0,"cache_miss_tokens":4596,"reasoning_chars":11757,"content_chars":3063}
+{"ts":"2026-10-30T17:40:55.573Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":4527,"completion_tokens":3653,"cache_hit_tokens":3840,"cache_miss_tokens":687,"reasoning_chars":9093,"content_chars":2649}
+{"ts":"2026-10-30T17:40:57.585Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1827,"completion_tokens":2775,"reasoning_chars":9087,"content_chars":648}
+{"ts":"2026-10-30T17:40:57.585Z","source":"CarNewsChina","title":"Chery Tiggo 2: null Sterne im Latin-NCAP-Crashtest","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-30T17:40:59.826Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1500,"completion_tokens":671,"reasoning_chars":1656,"content_chars":626}
+{"ts":"2026-10-30T17:40:59.826Z","source":"D1EV","title":"Jing-Jin Electric liefert 150-kW-Antrieb für US-Pickup","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-30T17:41:00.597Z","source":"CarNewsChina","title":"Chery Tiggo 2: null Sterne im Latin-NCAP-Crashtest","action":"published","translation_ok":true}
+{"ts":"2026-10-30T17:41:00.610Z","source":"CarNewsChina","title":"Second-gen BYD Seagull completed 140 km/h tire blowout test","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T17:41:00.626Z","source":"CarNewsChina","title":"3rd-gen BYD Tang EV arrives at dealers with 691 hp and dual-chamber air suspension","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T17:41:02.217Z","source":"D1EV","title":"Jing-Jin Electric liefert 150-kW-Antrieb für US-Pickup","action":"published","translation_ok":true}
+{"ts":"2026-10-30T17:41:02.227Z","source":"D1EV","title":"巴斯夫三季度销售额同比增14%，上调全年核心盈利预期","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T17:41:05.404Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1698,"completion_tokens":2091,"reasoning_chars":5097,"content_chars":517}
+{"ts":"2026-10-30T17:41:05.405Z","source":"Autohome NewEnergy","title":"Dongfeng eπ007: 675 km CLTC ab 14.800 € in China","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-30T17:41:08.075Z","source":"Autohome NewEnergy","title":"Dongfeng eπ007: 675 km CLTC ab 14.800 € in China","action":"published","translation_ok":true}
+{"ts":"2026-10-30T17:41:08.084Z","source":"Autohome NewEnergy","title":"领克900L实车亮相","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T17:41:08.192Z","source":"weekly","title":"Top 5 KW 44","action":"weekly_published","translation_ok":true}
