@@ -32331,3 +32331,44 @@
 {"ts":"2026-10-30T17:41:08.075Z","source":"Autohome NewEnergy","title":"Dongfeng eπ007: 675 km CLTC ab 14.800 € in China","action":"published","translation_ok":true}
 {"ts":"2026-10-30T17:41:08.084Z","source":"Autohome NewEnergy","title":"领克900L实车亮相","action":"skipped_quota","translation_ok":true}
 {"ts":"2026-10-30T17:41:08.192Z","source":"weekly","title":"Top 5 KW 44","action":"weekly_published","translation_ok":true}
+{"ts":"2026-10-30T21:24:20.424Z","source":"OFweek NEV","title":"","action":"error","translation_ok":false}
+{"ts":"2026-10-30T21:24:22.280Z","source":"CarNewsChina","title":"2nd-gen BYD Seal 07 reaches dealers ahead of Nov 5 launch","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T21:24:22.303Z","source":"CarNewsChina","title":"Chery Tiggo 2 awarded zero-star rating in latest Latin NCAP safety assessment","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T21:24:22.314Z","source":"CarNewsChina","title":"Second-gen BYD Seagull completed 140 km/h tire blowout test","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T21:24:24.304Z","source":"Autohome NewEnergy","title":"新款奔驰E级/纯电E级将于2027年首发","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T21:24:24.310Z","source":"Autohome NewEnergy","title":"东风奕派007上市","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T21:24:27.369Z","source":"D1EV","title":"​全球首款增程越野皮卡 长安猎手K70上市19.29万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T21:24:27.383Z","source":"D1EV","title":"福特上调全年盈利指引 瞄准2029年8%利润率目标","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T21:24:27.392Z","source":"D1EV","title":"精进电动北美新电驱系统批量投产，配套美国新客户","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T21:24:27.842Z","source":"Sina","title":"奇瑞汽车发布前三季度财报 营收2412.34亿元，同比增长12.29%","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T21:24:34.230Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4542,"completion_tokens":1521,"cache_hit_tokens":3840,"cache_miss_tokens":702,"reasoning_chars":1360,"content_chars":3176}
+{"ts":"2026-10-30T21:24:39.391Z","source":"ChooseAuto","title":"最会赚钱的理想汽车，为什么开始“补课”了","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T21:24:41.671Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4774,"completion_tokens":2149,"cache_hit_tokens":3840,"cache_miss_tokens":934,"reasoning_chars":2555,"content_chars":4407}
+{"ts":"2026-10-30T21:24:43.944Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5583,"completion_tokens":3559,"cache_hit_tokens":3968,"cache_miss_tokens":1615,"reasoning_chars":6549,"content_chars":5438}
+{"ts":"2026-10-30T21:24:51.901Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2110,"completion_tokens":1742,"reasoning_chars":2817,"content_chars":2626}
+{"ts":"2026-10-30T21:24:51.902Z","source":"D1EV","title":"BASF hebt Prognose auf 7,4 bis 7,8 Mrd. € Kern-EBITDA an","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-30T21:24:59.686Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1780,"completion_tokens":4955,"reasoning_chars":14511,"content_chars":1546}
+{"ts":"2026-10-30T21:24:59.686Z","source":"Autohome NewEnergy","title":"Lynk & Co 900L: 5,28-Meter-SUV mit 430 km E-Reichweite","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-30T21:25:18.648Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5668,"completion_tokens":3298,"cache_hit_tokens":3840,"cache_miss_tokens":1828,"reasoning_chars":6737,"content_chars":3950}
+{"ts":"2026-10-30T21:25:19.463Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2338,"completion_tokens":6444,"reasoning_chars":20011,"content_chars":2066}
+{"ts":"2026-10-30T21:25:19.463Z","source":"CarNewsChina","title":"BYD Tang EV: 691 PS und 850 km für die dritte Generation","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-30T21:25:24.267Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6303,"completion_tokens":5675,"cache_hit_tokens":3840,"cache_miss_tokens":2463,"reasoning_chars":13786,"content_chars":4590}
+{"ts":"2026-10-30T21:25:33.434Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1990,"completion_tokens":2795,"reasoning_chars":7485,"content_chars":648}
+{"ts":"2026-10-30T21:25:33.434Z","source":"Autohome NewEnergy","title":"Lynk & Co 900L: Siebensitzer mit 430 km E-Reichweite","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-30T21:25:34.930Z","source":"Autohome NewEnergy","title":"Lynk & Co 900L: Siebensitzer mit 430 km E-Reichweite","action":"published","translation_ok":true}
+{"ts":"2026-10-30T21:25:34.938Z","source":"Autohome NewEnergy","title":"AMG GLC 53 4MATIC+上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T21:25:47.952Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6855,"completion_tokens":5160,"cache_hit_tokens":3840,"cache_miss_tokens":3015,"reasoning_chars":9731,"content_chars":5772}
+{"ts":"2026-10-30T21:25:51.319Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2210,"completion_tokens":4972,"reasoning_chars":13622,"content_chars":2526}
+{"ts":"2026-10-30T21:25:51.319Z","source":"D1EV","title":"BASF: 401 Mio. € weniger Capex — Zhanjiang fast fertig","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-30T21:26:18.147Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2506,"completion_tokens":5362,"reasoning_chars":17367,"content_chars":1889}
+{"ts":"2026-10-30T21:26:18.148Z","source":"CarNewsChina","title":"BYD Tang EV: 700 PS und 850 km für ca. 28.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-30T21:26:25.240Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6264,"completion_tokens":6564,"cache_hit_tokens":3840,"cache_miss_tokens":2424,"reasoning_chars":15041,"content_chars":4681}
+{"ts":"2026-10-30T21:26:34.927Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6770,"completion_tokens":2979,"cache_hit_tokens":3840,"cache_miss_tokens":2930,"reasoning_chars":4160,"content_chars":4939}
+{"ts":"2026-10-30T21:26:49.963Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2258,"completion_tokens":2857,"reasoning_chars":8210,"content_chars":844}
+{"ts":"2026-10-30T21:26:49.963Z","source":"CarNewsChina","title":"BYD Tang EV: 700 PS, 850 km CLTC – Händlerpreis ab 28.800 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-30T21:26:52.380Z","source":"CarNewsChina","title":"BYD Tang EV: 700 PS, 850 km CLTC – Händlerpreis ab 28.800 €","action":"published","translation_ok":true}
+{"ts":"2026-10-30T21:26:52.390Z","source":"CarNewsChina","title":"Changan’s Deepal applied for an in-car foot bath patent","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T21:26:59.283Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2246,"completion_tokens":6256,"reasoning_chars":17481,"content_chars":2002}
+{"ts":"2026-10-30T21:26:59.283Z","source":"D1EV","title":"BASF kürzt Invest in Zhanjiang-Kathodenwerk um 401 Mio. €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-30T21:26:59.284Z","source":"D1EV","title":"BASF kürzt Invest in Zhanjiang-Kathodenwerk um 401 Mio. €","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-30T21:26:59.294Z","source":"D1EV","title":"伟世通第三季度净销售额9.7亿美元","action":"skipped_quota","translation_ok":true}
