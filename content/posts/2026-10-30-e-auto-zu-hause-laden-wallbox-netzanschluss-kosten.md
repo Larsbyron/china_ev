@@ -1,6 +1,6 @@
 ---
 title: "Chinesisches E-Auto zu Hause laden: Wallbox, Netzanschluss und was das 2026 kostet"
-date: 2026-10-30T06:45:00.000Z
+date: 2026-10-30T05:30:00.000Z
 description: "GB/T oder Typ 2, Meldung nach § 19 NAV, Schieflastgrenze, Installation und Förderung: was beim Laden eines importierten China-E-Autos in Deutschland gilt (Stand 30.10.2026)."
 source: "E-AUTOS Redaktion"
 image: "/images/e-auto-zu-hause-laden-wallbox-2026.png"
