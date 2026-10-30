@@ -32265,3 +32265,38 @@
 {"ts":"2026-10-29T21:39:10.511Z","source":"Autohome NewEnergy","title":"Honda Accord Facelift: Hybrid-Start 2027, ab 23.000 €","action":"draft_qa_failed_retranslation","translation_ok":true}
 {"ts":"2026-10-29T21:39:10.512Z","source":"Autohome NewEnergy","title":"Honda Accord Facelift: Neue Optik, neuer Hybrid ab 2027","action":"draft_editorial_rejected","translation_ok":true}
 {"ts":"2026-10-29T21:39:10.521Z","source":"Autohome NewEnergy","title":"哈弗猛龙HEV将上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T15:41:21.684Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T15:41:21.694Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T15:41:21.709Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T15:41:21.717Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T15:41:21.730Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T15:41:21.741Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T15:41:21.753Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T15:41:21.765Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T15:41:25.606Z","source":"D1EV","title":"​全球首款增程越野皮卡 长安猎手K70上市19.29万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-30T15:41:32.125Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4435,"completion_tokens":1631,"cache_hit_tokens":3840,"cache_miss_tokens":595,"reasoning_chars":2426,"content_chars":3549}
+{"ts":"2026-10-30T15:41:32.578Z","source":"Sina","title":"奇瑞汽车发布前三季度财报 营收2412.34亿元，同比增长12.29%","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T15:41:40.472Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1700,"completion_tokens":1317,"reasoning_chars":3817,"content_chars":680}
+{"ts":"2026-10-30T15:41:40.473Z","source":"Autohome NewEnergy","title":"Mercedes E-Klasse: Neu 2027, Elektro-Version ersetzt EQE","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-30T15:41:40.601Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4477,"completion_tokens":2365,"cache_hit_tokens":3840,"cache_miss_tokens":637,"reasoning_chars":3508,"content_chars":3531}
+{"ts":"2026-10-30T15:41:43.338Z","source":"ChooseAuto","title":"2026武汉车展盛大开幕 东风汽车携旗下全品牌矩阵参展","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T15:41:43.340Z","source":"Autohome NewEnergy","title":"Mercedes E-Klasse: Neu 2027, Elektro-Version ersetzt EQE","action":"published","translation_ok":true}
+{"ts":"2026-10-30T15:41:43.346Z","source":"Autohome NewEnergy","title":"东风奕派007上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T15:41:48.069Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5190,"completion_tokens":4949,"cache_hit_tokens":3968,"cache_miss_tokens":1222,"reasoning_chars":11131,"content_chars":4103}
+{"ts":"2026-10-30T15:41:59.131Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1839,"completion_tokens":3378,"reasoning_chars":9928,"content_chars":1945}
+{"ts":"2026-10-30T15:41:59.132Z","source":"D1EV","title":"Ford hebt Prognose an — 8 Prozent Marge bis 2029","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-30T15:42:06.792Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2033,"completion_tokens":3459,"reasoning_chars":8718,"content_chars":1888}
+{"ts":"2026-10-30T15:42:06.792Z","source":"CarNewsChina","title":"BYD Seal 07: 875 km CLTC, 402 PS, Start am 5. November","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-30T15:42:19.039Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5708,"completion_tokens":3254,"cache_hit_tokens":3840,"cache_miss_tokens":1868,"reasoning_chars":7568,"content_chars":3639}
+{"ts":"2026-10-30T15:42:37.359Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6471,"completion_tokens":6766,"cache_hit_tokens":3840,"cache_miss_tokens":2631,"reasoning_chars":15817,"content_chars":3935}
+{"ts":"2026-10-30T15:42:44.492Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1779,"completion_tokens":4476,"reasoning_chars":11598,"content_chars":2245}
+{"ts":"2026-10-30T15:42:44.492Z","source":"D1EV","title":"Ford hebt Prognose auf 10,2 Mrd. € — Druck durch BYD wächst","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-30T15:42:45.646Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2010,"completion_tokens":1324,"reasoning_chars":3462,"content_chars":460}
+{"ts":"2026-10-30T15:42:45.646Z","source":"CarNewsChina","title":"BYD Seal 07: 408 PS, 875 km, Marktstart 5. November","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-30T15:42:51.517Z","source":"CarNewsChina","title":"BYD Seal 07: 408 PS, 875 km, Marktstart 5. November","action":"published","translation_ok":true}
+{"ts":"2026-10-30T15:42:51.540Z","source":"CarNewsChina","title":"Chery Tiggo 2 awarded zero-star rating in latest Latin NCAP safety assessment","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-30T15:43:14.755Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5834,"completion_tokens":5741,"cache_hit_tokens":3840,"cache_miss_tokens":1994,"reasoning_chars":15247,"content_chars":3340}
+{"ts":"2026-10-30T15:43:25.279Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1740,"completion_tokens":1775,"reasoning_chars":5380,"content_chars":652}
+{"ts":"2026-10-30T15:43:25.279Z","source":"D1EV","title":"Ford erwartet 9,8–10,2 Mrd. € — BYD-Druck wächst","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-30T15:43:29.252Z","source":"D1EV","title":"Ford erwartet 9,8–10,2 Mrd. € — BYD-Druck wächst","action":"published","translation_ok":true}
+{"ts":"2026-10-30T15:43:29.263Z","source":"D1EV","title":"精进电动北美新电驱系统批量投产，配套美国新客户","action":"skipped_quota","translation_ok":true}
