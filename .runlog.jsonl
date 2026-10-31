@@ -32412,3 +32412,39 @@
 {"ts":"2026-10-31T15:13:06.431Z","source":"D1EV","title":"BASF: 14 Prozent Umsatzplus — Preise belasten Zellhersteller","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-10-31T15:13:07.910Z","source":"D1EV","title":"BASF: 14 Prozent Umsatzplus — Preise belasten Zellhersteller","action":"published","translation_ok":true}
 {"ts":"2026-10-31T15:13:07.916Z","source":"D1EV","title":"伟世通第三季度净销售额9.7亿美元","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-31T20:25:40.925Z","source":"OFweek NEV","title":"","action":"error","translation_ok":false}
+{"ts":"2026-10-31T20:25:42.604Z","source":"Autohome NewEnergy","title":"雷克萨斯官宣首款国产车型将于2027年发布","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:25:47.447Z","source":"D1EV","title":"​全球首款增程越野皮卡 长安猎手K70上市19.29万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:25:47.456Z","source":"D1EV","title":"福特上调全年盈利指引 瞄准2029年8%利润率目标","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:25:47.465Z","source":"D1EV","title":"精进电动北美新电驱系统批量投产，配套美国新客户","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:25:47.472Z","source":"D1EV","title":"巴斯夫三季度销售额同比增14%，上调全年核心盈利预期","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:25:47.486Z","source":"D1EV","title":"伟世通第三季度净销售额9.7亿美元","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-31T20:25:53.203Z","source":"ChooseAuto","title":"王传福荣获饶斌奖 以技术破局 书写中国汽车自强之路","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-31T20:25:55.349Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4844,"completion_tokens":1726,"cache_hit_tokens":3840,"cache_miss_tokens":1004,"reasoning_chars":2429,"content_chars":3068}
+{"ts":"2026-10-31T20:25:59.299Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5765,"completion_tokens":1670,"cache_hit_tokens":3840,"cache_miss_tokens":1925,"reasoning_chars":738,"content_chars":4156}
+{"ts":"2026-10-31T20:26:02.574Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5206,"completion_tokens":3589,"cache_hit_tokens":4992,"cache_miss_tokens":214,"reasoning_chars":8698,"content_chars":3065}
+{"ts":"2026-10-31T20:26:02.577Z","source":"CarNewsChina","title":"[QA FAILED] Xiaomi SU7 Ultra: 1.526 PS, DRS-Flügel, Start 2027","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-10-31T20:26:02.594Z","source":"CarNewsChina","title":"Chery Tiggo 2 awarded zero-star rating in latest Latin NCAP safety assessment","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:26:02.606Z","source":"CarNewsChina","title":"2nd-gen BYD Seal 07 reaches dealers ahead of Nov 5 launch","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:26:02.621Z","source":"CarNewsChina","title":"3rd-gen BYD Tang EV arrives at dealers with 691 hp and dual-chamber air suspension","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:26:02.635Z","source":"CarNewsChina","title":"Lexus to launch first China-made electric SUV in 2027 at Shanghai plant","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-31T20:26:15.909Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1958,"completion_tokens":3301,"reasoning_chars":7718,"content_chars":1937}
+{"ts":"2026-10-31T20:26:15.909Z","source":"Sina","title":"Chery steigert Umsatz auf 30,9 Mrd. € – Gewinn stagniert","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-31T20:26:16.359Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1660,"completion_tokens":3323,"reasoning_chars":9605,"content_chars":2149}
+{"ts":"2026-10-31T20:26:16.360Z","source":"Autohome NewEnergy","title":"Audi Q9: 5,31-Meter-Flaggschiff debütiert in China","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-31T20:26:40.468Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":7064,"completion_tokens":4549,"cache_hit_tokens":3840,"cache_miss_tokens":3224,"reasoning_chars":7326,"content_chars":6217}
+{"ts":"2026-10-31T20:26:45.522Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6127,"completion_tokens":5351,"cache_hit_tokens":3840,"cache_miss_tokens":2287,"reasoning_chars":15060,"content_chars":3665}
+{"ts":"2026-10-31T20:26:51.617Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2592,"completion_tokens":2038,"reasoning_chars":4859,"content_chars":1379}
+{"ts":"2026-10-31T20:26:51.617Z","source":"Sina","title":"Chery steigert Umsatz auf 30,9 Mrd. € – Marge bleibt dünn","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-31T20:26:53.633Z","source":"Sina","title":"Chery steigert Umsatz auf 30,9 Mrd. € – Marge bleibt dünn","action":"published","translation_ok":true}
+{"ts":"2026-10-31T20:26:53.645Z","source":"Sina","title":"奇瑞展望瑶光2035战略 紫微芯片发布 加速向全球智能科技公司进化","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:26:53.655Z","source":"Sina","title":"岚图梦想家9入藏北京汽车博物馆 右舵版将登陆香港市场","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:26:53.665Z","source":"Sina","title":"ID. ERA 8X上市背后，上汽大众重建新能源竞争坐标","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T20:26:53.673Z","source":"Sina","title":"华为靳玉志：自动驾驶对安全的要求更高","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-31T20:27:02.318Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1818,"completion_tokens":2862,"reasoning_chars":8490,"content_chars":1664}
+{"ts":"2026-10-31T20:27:02.318Z","source":"Autohome NewEnergy","title":"Audi Q9: 5,31-Meter-SUV erstmals in China gesichtet","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-31T20:27:28.340Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5953,"completion_tokens":4066,"cache_hit_tokens":3840,"cache_miss_tokens":2113,"reasoning_chars":9889,"content_chars":4107}
+{"ts":"2026-10-31T20:28:01.765Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1956,"completion_tokens":6171,"reasoning_chars":19115,"content_chars":1464}
+{"ts":"2026-10-31T20:28:01.765Z","source":"Autohome NewEnergy","title":"Audi Q9: 5,31-Meter-Verbrenner-SUV in China gesichtet","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-31T20:28:01.766Z","source":"Autohome NewEnergy","title":"Audi Q9: 5,31-Meter-Verbrenner-SUV in China gesichtet","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-31T20:28:01.773Z","source":"Autohome NewEnergy","title":"享界V8车型信息","action":"skipped_quota","translation_ok":true}
