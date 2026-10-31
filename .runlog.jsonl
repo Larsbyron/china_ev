@@ -32372,3 +32372,43 @@
 {"ts":"2026-10-30T21:26:59.283Z","source":"D1EV","title":"BASF kürzt Invest in Zhanjiang-Kathodenwerk um 401 Mio. €","action":"editorial_revision","translation_ok":true}
 {"ts":"2026-10-30T21:26:59.284Z","source":"D1EV","title":"BASF kürzt Invest in Zhanjiang-Kathodenwerk um 401 Mio. €","action":"draft_editorial_rejected","translation_ok":true}
 {"ts":"2026-10-30T21:26:59.294Z","source":"D1EV","title":"伟世通第三季度净销售额9.7亿美元","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-31T15:10:56.324Z","source":"Autohome","title":"","action":"error","translation_ok":false}
+{"ts":"2026-10-31T15:10:57.775Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:10:57.781Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:10:57.788Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:10:57.798Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:10:57.805Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:10:57.811Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:10:57.818Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:10:57.826Z","source":"OFweek NEV","title":"大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:11:02.193Z","source":"D1EV","title":"​全球首款增程越野皮卡 长安猎手K70上市19.29万元起","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:11:02.199Z","source":"D1EV","title":"福特上调全年盈利指引 瞄准2029年8%利润率目标","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:11:02.204Z","source":"D1EV","title":"精进电动北美新电驱系统批量投产，配套美国新客户","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:11:06.127Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4318,"completion_tokens":1090,"cache_hit_tokens":3840,"cache_miss_tokens":478,"reasoning_chars":856,"content_chars":2451}
+{"ts":"2026-10-31T15:11:06.340Z","source":"Sina","title":"奇瑞汽车发布前三季度财报 营收2412.34亿元，同比增长12.29%","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-31T15:11:12.968Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1369,"completion_tokens":1045,"reasoning_chars":3003,"content_chars":659}
+{"ts":"2026-10-31T15:11:12.969Z","source":"Autohome NewEnergy","title":"Lexus startet 2027 mit China-Fertigung in Shanghai","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-31T15:11:15.853Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5206,"completion_tokens":3040,"cache_hit_tokens":3840,"cache_miss_tokens":1366,"reasoning_chars":6936,"content_chars":3741}
+{"ts":"2026-10-31T15:11:16.151Z","source":"Autohome NewEnergy","title":"Lexus startet 2027 mit China-Fertigung in Shanghai","action":"published","translation_ok":true}
+{"ts":"2026-10-31T15:11:16.155Z","source":"Autohome NewEnergy","title":"奥迪Q9实车亮相","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-31T15:11:16.220Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4774,"completion_tokens":2136,"cache_hit_tokens":4608,"cache_miss_tokens":166,"reasoning_chars":2741,"content_chars":4243}
+{"ts":"2026-10-31T15:11:17.100Z","source":"ChooseAuto","title":"“老登”风波之后，小鹏MONA L05靠什么让年轻人掏钱？","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-31T15:11:37.327Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1964,"completion_tokens":3476,"reasoning_chars":9516,"content_chars":2863}
+{"ts":"2026-10-31T15:11:37.327Z","source":"D1EV","title":"BASF steigert Umsatz um 14 Prozent und hebt Prognose an","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-31T15:11:38.739Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1849,"completion_tokens":4079,"reasoning_chars":10723,"content_chars":2067}
+{"ts":"2026-10-31T15:11:38.739Z","source":"CarNewsChina","title":"Xiaomi SU7 Ultra: Ring-Test mit Münchner Kennzeichen","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-31T15:11:48.250Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6523,"completion_tokens":1696,"cache_hit_tokens":3840,"cache_miss_tokens":2683,"reasoning_chars":1962,"content_chars":3321}
+{"ts":"2026-10-31T15:11:48.250Z","source":"CarNewsChina","title":"Xiaomi SU7 Ultra: 1.548 PS am Ring mit deutschem Kennzeichen","action":"draft_qa_failed_retranslation","translation_ok":true}
+{"ts":"2026-10-31T15:11:48.251Z","source":"CarNewsChina","title":"Xiaomi SU7 Ultra: Ring-Test mit Münchner Kennzeichen","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-10-31T15:11:48.260Z","source":"CarNewsChina","title":"Chery Tiggo 2 awarded zero-star rating in latest Latin NCAP safety assessment","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:11:48.272Z","source":"CarNewsChina","title":"2nd-gen BYD Seal 07 reaches dealers ahead of Nov 5 launch","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:11:48.283Z","source":"CarNewsChina","title":"3rd-gen BYD Tang EV arrives at dealers with 691 hp and dual-chamber air suspension","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-10-31T15:11:48.292Z","source":"CarNewsChina","title":"Lexus to launch first China-made electric SUV in 2027 at Shanghai plant","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-10-31T15:12:03.789Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6144,"completion_tokens":4146,"cache_hit_tokens":3840,"cache_miss_tokens":2304,"reasoning_chars":9503,"content_chars":5243}
+{"ts":"2026-10-31T15:12:35.431Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2190,"completion_tokens":5003,"reasoning_chars":16001,"content_chars":2583}
+{"ts":"2026-10-31T15:12:35.432Z","source":"D1EV","title":"BASF: Chinas E-Auto-Geschäft stützt 14 Prozent Umsatzplus","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-10-31T15:12:57.415Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6051,"completion_tokens":3328,"cache_hit_tokens":3840,"cache_miss_tokens":2211,"reasoning_chars":6340,"content_chars":4243}
+{"ts":"2026-10-31T15:13:06.431Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1927,"completion_tokens":1503,"reasoning_chars":3513,"content_chars":1178}
+{"ts":"2026-10-31T15:13:06.431Z","source":"D1EV","title":"BASF: 14 Prozent Umsatzplus — Preise belasten Zellhersteller","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-10-31T15:13:07.910Z","source":"D1EV","title":"BASF: 14 Prozent Umsatzplus — Preise belasten Zellhersteller","action":"published","translation_ok":true}
+{"ts":"2026-10-31T15:13:07.916Z","source":"D1EV","title":"伟世通第三季度净销售额9.7亿美元","action":"skipped_quota","translation_ok":true}
