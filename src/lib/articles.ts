@@ -96,7 +96,9 @@ function resolveImage(image: string | null | undefined): string | null {
   return IMAGE_MANIFEST.has(image) ? image : null
 }
 
-function parseMarkdownFile(filePath: string): Article | null {
+// Exported for tests: exercises the same gray-matter + zod path as getAllArticles,
+// so a malformed frontmatter field fails a test instead of silently 404ing a page.
+export function parseMarkdownFile(filePath: string): Article | null {
   try {
     const fileName = path.basename(filePath, '.md')
     const rawContent = fs.readFileSync(filePath, 'utf-8')

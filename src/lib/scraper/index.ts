@@ -4,6 +4,7 @@ import { writeFileSync, appendFileSync, existsSync, mkdirSync, readdirSync, read
 import { resolve, join } from 'path'
 import type { Article, ScraperOptions, ScraperResult, ProcessedArticles, SourceName } from '../article'
 import { generateSlug, estimateReadTime, toISODateString, sanitizeDescription, truncateText } from '../article'
+import { buildWeeklyDigestMarkdown } from '../weekly-digest'
 import { loadFingerprints, saveFingerprints, computeFingerprint, rebuildFingerprintsFromDisk } from './dedup'
 import { buildPublishedUrlIndex, isAlreadyPublishedUrl, recordPublishedUrl, isUrlDedupEnabled, type PublishedUrlIndex } from './url-dedup'
 import { dedupeBatchTitles, findCrossDayDuplicates, loadRecentPublishedTitles } from './title-dedup'
@@ -708,35 +709,18 @@ export async function buildWeeklyTop5(): Promise<void> {
   const top5 = articles.slice(0, 5)
 
   // Generate weekly article
-  const isoWeek = getISOWeek(new Date())
-  const year = new Date().getFullYear()
+  const now = new Date()
+  const dateISO = now.toISOString()
+  const isoWeek = getISOWeek(now)
+  const year = now.getFullYear()
 
-  let body = `# Top 5 chinesische E-Autos diese Woche\n\n`
-  body += `*KW ${isoWeek}, ${new Date().toLocaleDateString('de-DE')}*\n\n`
-
-  for (let i = 0; i < top5.length; i++) {
-    const art = top5[i]
-    const dateStr = new Date(art.date).toLocaleDateString('de-DE')
-    const linkStr = art.url ? `[Quelle](${art.url})` : ''
-    body += `${i + 1}. **${art.title}** — ${art.source} (${dateStr}) ${linkStr}\n`
-  }
-
-  body += '\n---\n*Kuratiert aus den besten chinesischen E-Auto-Nachrichten der Woche.*'
-
-  const frontmatter = `---
-title: "Top 5 chinesische E-Autos diese Woche"
-date: ${new Date().toISOString()}
-description: "Die fünf wichtigsten chinesischen E-Auto-Nachrichten dieser Woche"
-source: "Weekly"
-category: "weekly"
-tags: ["Top 5", "China", "E-Auto"]
-draft: false
----
-
-`
+  // Frontmatter lives in @/lib/weekly-digest so it stays schema-valid and is
+  // covered by tests (a hand-written block here previously produced invalid
+  // `source: "Weekly"` and broke the article route).
+  const markdown = buildWeeklyDigestMarkdown({ isoWeek, year, dateISO, items: top5 })
 
   const filename = resolve(CONTENT_DIR, `weekly-top5-${year}-W${String(isoWeek).padStart(2, '0')}.md`)
-  writeFileSync(filename, frontmatter + body, 'utf-8')
+  writeFileSync(filename, markdown, 'utf-8')
 
   console.log(`Weekly Top 5 saved: ${filename}`)
   logRun('weekly', `Top 5 KW ${isoWeek}`, 'weekly_published')
