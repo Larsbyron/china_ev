@@ -1,14 +1,20 @@
 ---
-title: "Top 5 chinesische E-Autos diese Woche"
+title: "Top 5 chinesische E-Autos – KW 44/2026"
 date: 2026-10-30T17:41:08.192Z
-description: "Die fünf wichtigsten chinesischen E-Auto-Nachrichten dieser Woche"
-source: "Weekly"
+description: "Die fünf wichtigsten chinesischen E-Auto-Nachrichten der KW 44/2026 im Rückblick"
+source: "E-AUTOS Redaktion"
 category: "weekly"
-tags: ["Top 5", "China", "E-Auto"]
+tags: ["Top 5", "China", "E-Auto", "Wochenrückblick"]
 draft: false
+original_url: "https://china-autonews.de/weekly/"
+brands: []
+primaryTopic: "modelle-marktstarts"
+secondaryTopics: ["preise-rabatte-wettbewerb", "markt-absatz-zulassungen"]
+marketRelevance: "china_only"
+confidence: 0.9
 ---
 
-# Top 5 chinesische E-Autos diese Woche
+# Top 5 chinesische E-Autos – KW 44/2026
 
 *KW 44, 30.10.2026*
 

@@ -1,4 +1,5 @@
-import { ORIGINAL_SOURCE_NAME } from './schemas'
+import matter from 'gray-matter'
+import { ORIGINAL_SOURCE_NAME, articleFrontmatterSchema } from './schemas'
 
 /**
  * Frontmatter + Markdown generator for the automated weekly Top-5 digest
@@ -99,4 +100,23 @@ function buildWeeklyDigestBody({ isoWeek, year, dateISO, items }: WeeklyDigestIn
 /** Complete digest file content (frontmatter + body), ready to write to disk. */
 export function buildWeeklyDigestMarkdown(input: WeeklyDigestInput): string {
   return buildWeeklyDigestFrontmatter(input) + buildWeeklyDigestBody(input)
+}
+
+/**
+ * Runtime gate for the scraper: CI generates the digest file *after* the test
+ * suite already ran, so a broken generator only turns the pipeline red on the
+ * NEXT run (2026-11-01: weekly-top5-2026-W44.md shipped with `source: "Weekly"`
+ * and no `original_url` because the local checkout never saw the CI-written
+ * file at fix time). Validate before writing: an invalid digest is worse than
+ * no digest, because its page 404s while still sitting in content/posts.
+ *
+ * Returns an empty array when the Markdown would pass
+ * articleFrontmatterSchema, otherwise one string per schema issue.
+ */
+export function validateWeeklyDigestMarkdown(markdown: string): string[] {
+  const parsed = articleFrontmatterSchema.safeParse(matter(markdown).data)
+  if (parsed.success) return []
+  return parsed.error.issues.map(
+    (issue) => `${issue.path.join('.') || '(root)'}: ${issue.message}`,
+  )
 }

@@ -4,7 +4,7 @@ import { writeFileSync, appendFileSync, existsSync, mkdirSync, readdirSync, read
 import { resolve, join } from 'path'
 import type { Article, ScraperOptions, ScraperResult, ProcessedArticles, SourceName } from '../article'
 import { generateSlug, estimateReadTime, toISODateString, sanitizeDescription, truncateText } from '../article'
-import { buildWeeklyDigestMarkdown } from '../weekly-digest'
+import { buildWeeklyDigestMarkdown, validateWeeklyDigestMarkdown } from '../weekly-digest'
 import { loadFingerprints, saveFingerprints, computeFingerprint, rebuildFingerprintsFromDisk } from './dedup'
 import { buildPublishedUrlIndex, isAlreadyPublishedUrl, recordPublishedUrl, isUrlDedupEnabled, type PublishedUrlIndex } from './url-dedup'
 import { dedupeBatchTitles, findCrossDayDuplicates, loadRecentPublishedTitles } from './title-dedup'
@@ -718,6 +718,16 @@ export async function buildWeeklyTop5(): Promise<void> {
   // covered by tests (a hand-written block here previously produced invalid
   // `source: "Weekly"` and broke the article route).
   const markdown = buildWeeklyDigestMarkdown({ isoWeek, year, dateISO, items: top5 })
+
+  // A digest that fails the schema still gets written, 404s on its own URL and
+  // silently breaks the next CI run (the test suite runs before this file
+  // exists). Refuse to write it instead.
+  const digestIssues = validateWeeklyDigestMarkdown(markdown)
+  if (digestIssues.length > 0) {
+    console.error(`Weekly Top 5 frontmatter invalid, not writing: ${digestIssues.join('; ')}`)
+    logRun('weekly', `Top 5 KW ${isoWeek}`, 'error')
+    return
+  }
 
   const filename = resolve(CONTENT_DIR, `weekly-top5-${year}-W${String(isoWeek).padStart(2, '0')}.md`)
   writeFileSync(filename, markdown, 'utf-8')

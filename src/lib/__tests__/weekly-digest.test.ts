@@ -9,6 +9,7 @@ import {
   WEEKLY_DIGEST_URL,
   buildWeeklyDigestFrontmatter,
   buildWeeklyDigestMarkdown,
+  validateWeeklyDigestMarkdown,
   weeklyDigestTitle,
   type WeeklyDigestTopItem,
 } from '../weekly-digest'
@@ -94,6 +95,41 @@ describe('weekly digest Markdown', () => {
     expect(weeklyDigestTitle(20, 2026)).not.toBe(weeklyDigestTitle(21, 2026))
     expect(weeklyDigestTitle(20, 2026)).not.toBe(weeklyDigestTitle(20, 2027))
     expect(weeklyDigestTitle(20, 2026)).toBe('Top 5 chinesische E-Autos – KW 20/2026')
+  })
+})
+
+/**
+ * Runtime gate used by the scraper before it writes the digest file. Kept in
+ * the same module as the generator so the gate cannot drift from the schema.
+ */
+describe('validateWeeklyDigestMarkdown', () => {
+  it('accepts what the generator produces', () => {
+    const markdown = buildWeeklyDigestMarkdown({
+      isoWeek: 44,
+      year: 2026,
+      dateISO: '2026-10-30T17:41:08.192Z',
+      items: SAMPLE_ITEMS,
+    })
+    expect(validateWeeklyDigestMarkdown(markdown)).toEqual([])
+  })
+
+  it('rejects the legacy hand-written frontmatter that shipped as W44', () => {
+    const legacy = `---
+title: "Top 5 chinesische E-Autos diese Woche"
+date: 2026-10-30T17:41:08.192Z
+description: "Die fünf wichtigsten chinesischen E-Auto-Nachrichten dieser Woche"
+source: "Weekly"
+category: "weekly"
+tags: ["Top 5", "China", "E-Auto"]
+draft: false
+---
+
+# Top 5 chinesische E-Autos diese Woche
+`
+    const issues = validateWeeklyDigestMarkdown(legacy)
+    expect(issues.length).toBeGreaterThan(0)
+    expect(issues.join('; ')).toContain('source')
+    expect(issues.join('; ')).toContain('original_url')
   })
 })
 
