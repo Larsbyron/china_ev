@@ -32529,3 +32529,33 @@
 {"ts":"2026-11-01T21:02:23.209Z","source":"D1EV","title":"XPeng wächst auf 83 Märkte – Deutschland außen vor","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-11-01T21:02:25.643Z","source":"D1EV","title":"XPeng wächst auf 83 Märkte – Deutschland außen vor","action":"published","translation_ok":true}
 {"ts":"2026-11-01T21:02:25.650Z","source":"D1EV","title":"怕起火，忧掉电？智己探厂宁德时代，公开拆解电池焦虑","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-02T19:17:46.269Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-02T19:17:46.277Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-02T19:17:46.284Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-02T19:17:46.291Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-02T19:17:46.299Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-02T19:17:46.305Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-02T19:17:46.319Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-02T19:17:46.328Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-02T19:17:51.709Z","source":"ChooseAuto","title":"激光雷达、闪充、云辇-M齐上车：第二代海豹07将于11月5日正式上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-02T19:17:56.834Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5469,"completion_tokens":1990,"cache_hit_tokens":3840,"cache_miss_tokens":1629,"reasoning_chars":2209,"content_chars":3978}
+{"ts":"2026-11-02T19:17:56.838Z","source":"CarNewsChina","title":"[QA FAILED] Feststoffbatterie: Sunwoda testet Polymer-Zellen, CATL 2027","action":"draft_qa_failed","translation_ok":true}
+{"ts":"2026-11-02T19:17:56.849Z","source":"CarNewsChina","title":"BYD’s FCB crosses 600,000 sales as GM acknowledges delivery bottlenecks ahead of Ti 9 launch","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-02T19:18:10.671Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":4970,"completion_tokens":4167,"cache_hit_tokens":3840,"cache_miss_tokens":1130,"reasoning_chars":9104,"content_chars":4173}
+{"ts":"2026-11-02T19:18:13.861Z","source":"Sina","title":"吉利汽车10月销量310183辆 环比增长6%","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-02T19:18:13.861Z","source":"Sina","title":"蔚来10月交付新车34246台","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-02T19:18:13.861Z","source":"Sina","title":"广汽丰田10月终端销量达到53022台","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-02T19:18:13.874Z","source":"Sina","title":"吉利汽车10月销量310183辆 环比增长6%","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-02T19:18:25.422Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6480,"completion_tokens":7244,"cache_hit_tokens":3968,"cache_miss_tokens":2512,"reasoning_chars":13922,"content_chars":6460}
+{"ts":"2026-11-02T19:18:30.344Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2025,"completion_tokens":3657,"reasoning_chars":9454,"content_chars":2721}
+{"ts":"2026-11-02T19:18:30.345Z","source":"Autohome NewEnergy","title":"BYD Seal 07 und smart #2: Neue Modelle in China","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-02T19:19:04.538Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6569,"completion_tokens":6664,"cache_hit_tokens":3840,"cache_miss_tokens":2729,"reasoning_chars":14512,"content_chars":5911}
+{"ts":"2026-11-02T19:19:07.660Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":8192,"prompt_tokens":2664,"completion_tokens":8192,"reasoning_chars":27619,"content_chars":0}
+{"ts":"2026-11-02T19:19:18.118Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2716,"completion_tokens":2351,"reasoning_chars":5950,"content_chars":1415}
+{"ts":"2026-11-02T19:19:18.118Z","source":"Autohome NewEnergy","title":"BYD Seal 07 mit 245 km E-Reichweite, smart #2 ab 14.500 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-02T19:19:21.010Z","source":"Autohome NewEnergy","title":"BYD Seal 07 mit 245 km E-Reichweite, smart #2 ab 14.500 €","action":"published","translation_ok":true}
+{"ts":"2026-11-02T19:19:21.015Z","source":"Autohome NewEnergy","title":"埃安Ray7将上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-02T19:19:51.182Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":16384,"prompt_tokens":2664,"completion_tokens":8565,"reasoning_chars":28065,"content_chars":654}
+{"ts":"2026-11-02T19:19:51.183Z","source":"D1EV","title":"BYD: 490.200 Einheiten im Oktober — nur Export wächst","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-02T19:19:53.615Z","source":"D1EV","title":"BYD: 490.200 Einheiten im Oktober — nur Export wächst","action":"published","translation_ok":true}
+{"ts":"2026-11-02T19:19:53.624Z","source":"D1EV","title":"2026年9月燃油车型/新能源车型销量榜：新能源前三竞争激烈，吉利缤越领跑燃油车市场丨盖世汽车研究院","action":"skipped_quota","translation_ok":true}
