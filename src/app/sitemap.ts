@@ -2,11 +2,12 @@ import type { MetadataRoute } from 'next'
 import { getAllArticles, getAllBrands } from '@/lib/articles'
 import { TOPICS } from '@/lib/topics'
 import { canonicalUrl } from '@/lib/site'
+import { MODEL_MERGES } from '@/lib/model-merges'
 
 export const dynamic = 'force-static'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const articles = getAllArticles().filter((a) => !a.noindex)
+  const articles = getAllArticles().filter((a) => !a.noindex && !MODEL_MERGES[a.slug])
   const now = new Date().toISOString()
 
   const staticPages: MetadataRoute.Sitemap = [

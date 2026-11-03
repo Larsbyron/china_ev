@@ -1,10 +1,19 @@
 import type { NextConfig } from 'next'
+import { MODEL_MERGES } from './src/lib/model-merges'
 
 const nextConfig: NextConfig = {
   images: {
     unoptimized: true
   },
   trailingSlash: true,
+  async redirects() {
+    // 2026-11-03 车型合并：每个旧 slug 301 到该车型主篇（见 src/lib/model-merges.ts）。
+    // 两种 source 都写，避免 trailingSlash 归一化后多一跳。
+    return Object.entries(MODEL_MERGES).flatMap(([from, to]) => [
+      { source: `/articles/${from}`, destination: `/articles/${to}/`, statusCode: 301 as const },
+      { source: `/articles/${from}/`, destination: `/articles/${to}/`, statusCode: 301 as const },
+    ])
+  },
   experimental: {
     outputFileTracingExcludes: {
       '*': [
