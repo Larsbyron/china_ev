@@ -1,0 +1,55 @@
+/* Contextual guide CTA — same left-rule motif as the /redaktion/ .note block,
+   plus a tinted background so it reads as a callout rather than body copy. */
+.box {
+  border-left: var(--accent-line-width) solid var(--color-accent-green);
+  background: var(--color-bg-secondary);
+  border-radius: 8px;
+  padding: var(--space-5) var(--space-6);
+  /* Both sides space-8: keeps the CTA visually separated from the in-article
+     ad unit above it (and from the body text below). */
+  margin: var(--space-8) 0;
+}
+
+.label {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-accent-green);
+  margin-bottom: var(--space-2);
+}
+
+.title {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-2);
+}
+
+.text {
+  font-size: var(--text-sm);
+  line-height: 1.6;
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-3);
+}
+
+.more {
+  font-size: var(--text-sm);
+}
+
+.link {
+  color: var(--color-accent-green);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: opacity var(--duration-fast) var(--ease-out);
+}
+
+.link:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 640px) {
+  .box {
+    padding: var(--space-4) var(--space-5);
+  }
+}

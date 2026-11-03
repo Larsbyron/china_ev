@@ -8,7 +8,9 @@ import ShareButtons from '@/components/ShareButtons'
 import ReactionPanel from '@/components/ReactionPanel'
 import AffiliateBox from '@/components/AffiliateBox'
 import AdUnit from '@/components/AdUnit'
+import GuideCta from '@/components/GuideCta'
 import { splitArticleHtml } from '@/lib/article-ad-split'
+import { GUIDE_CTA_CUT_AFTER, guideForArticle } from '@/lib/guide-cta'
 import ArticleListItem from '@/components/ArticleListItem'
 import {
   getAllArticles,
@@ -103,6 +105,19 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const adSlotInArticle = process.env.NEXT_PUBLIC_ADSENSE_SLOT_IN_ARTICLE ?? ''
   const adSlotBottom = process.env.NEXT_PUBLIC_ADSENSE_SLOT_BOTTOM ?? ''
   const adParts = adSlotInArticle ? splitArticleHtml(article.content) : null
+
+  // Contextual link to the import-cost guide (src/lib/guide-cta.ts).
+  // Cut after the 3rd root-level paragraph, i.e. one paragraph below the
+  // in-article unit, so the ad's document position never changes.
+  const guide = guideForArticle(article)
+  const ctaParts = guide
+    ? adParts
+      ? splitArticleHtml(adParts.after, GUIDE_CTA_CUT_AFTER - 2)
+      : splitArticleHtml(article.content, GUIDE_CTA_CUT_AFTER)
+    : null
+  // Guide and parts in one binding: the render below needs no non-null
+  // assertion, and a failed second split simply means "no CTA".
+  const cta = guide && ctaParts ? { guide, parts: ctaParts } : null
 
   // Related articles: same brand + same topic + same DE status (E2)
   const seenSlugs = new Set([slug])
@@ -272,9 +287,35 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       dangerouslySetInnerHTML={{ __html: adParts.before }}
                     />
                     <AdUnit slot={adSlotInArticle} variant="in-article" />
+                    {cta ? (
+                      <>
+                        <div
+                          className="article-content"
+                          dangerouslySetInnerHTML={{ __html: cta.parts.before }}
+                        />
+                        <GuideCta data={cta.guide} />
+                        <div
+                          className="article-content"
+                          dangerouslySetInnerHTML={{ __html: cta.parts.after }}
+                        />
+                      </>
+                    ) : (
+                      <div
+                        className="article-content"
+                        dangerouslySetInnerHTML={{ __html: adParts.after }}
+                      />
+                    )}
+                  </>
+                ) : cta ? (
+                  <>
                     <div
                       className="article-content"
-                      dangerouslySetInnerHTML={{ __html: adParts.after }}
+                      dangerouslySetInnerHTML={{ __html: cta.parts.before }}
+                    />
+                    <GuideCta data={cta.guide} />
+                    <div
+                      className="article-content"
+                      dangerouslySetInnerHTML={{ __html: cta.parts.after }}
                     />
                   </>
                 ) : (
