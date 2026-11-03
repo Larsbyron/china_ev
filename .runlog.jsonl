@@ -32559,3 +32559,28 @@
 {"ts":"2026-11-02T19:19:51.183Z","source":"D1EV","title":"BYD: 490.200 Einheiten im Oktober — nur Export wächst","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-11-02T19:19:53.615Z","source":"D1EV","title":"BYD: 490.200 Einheiten im Oktober — nur Export wächst","action":"published","translation_ok":true}
 {"ts":"2026-11-02T19:19:53.624Z","source":"D1EV","title":"2026年9月燃油车型/新能源车型销量榜：新能源前三竞争激烈，吉利缤越领跑燃油车市场丨盖世汽车研究院","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-03T16:54:00.565Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T16:54:00.575Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T16:54:00.582Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T16:54:00.588Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T16:54:00.596Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T16:54:00.602Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T16:54:00.610Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T16:54:00.617Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T16:54:03.858Z","source":"Autohome NewEnergy","title":"全新比亚迪唐/方程豹钛9领衔 11月新车前瞻","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-03T16:54:05.786Z","source":"D1EV","title":"没有“银十”的十月，被出海填平","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T16:54:05.793Z","source":"D1EV","title":"2026年9月燃油车型/新能源车型销量榜：新能源前三竞争激烈，吉利缤越领跑燃油车市场丨盖世汽车研究院","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-03T16:54:10.943Z","source":"ChooseAuto","title":"吉利银河星耀6 EF上市，开启甲醇混动时代","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T16:54:10.954Z","source":"ChooseAuto","title":"银河星耀6 E-fuel上市限时焕新价7.68万元起，赋能用户美好生活","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-03T16:54:23.049Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5155,"completion_tokens":4007,"cache_hit_tokens":3840,"cache_miss_tokens":1315,"reasoning_chars":8030,"content_chars":3649}
+{"ts":"2026-11-03T16:54:36.604Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1921,"completion_tokens":2399,"reasoning_chars":4218,"content_chars":2906}
+{"ts":"2026-11-03T16:54:36.605Z","source":"CarNewsChina","title":"Geely Starshine 6 EF: Methanol-Hybrid ab 9.800 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-03T16:54:39.097Z","source":"Sina","title":"吉利汽车10月销量310183辆 环比增长6%","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T16:54:39.097Z","source":"Sina","title":"蔚来10月交付新车34246台","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T16:54:39.097Z","source":"Sina","title":"广汽丰田10月终端销量达到53022台","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T16:54:39.104Z","source":"Sina","title":"吉利汽车10月销量310183辆 环比增长6%","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-03T16:55:23.193Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6833,"completion_tokens":10599,"cache_hit_tokens":3840,"cache_miss_tokens":2993,"reasoning_chars":28930,"content_chars":3421}
+{"ts":"2026-11-03T16:55:36.121Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1903,"completion_tokens":2516,"reasoning_chars":7517,"content_chars":754}
+{"ts":"2026-11-03T16:55:36.121Z","source":"CarNewsChina","title":"Geely Starshine 6 EF: Methanol-PHEV, 1.880 km weit","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-03T16:55:39.388Z","source":"CarNewsChina","title":"Geely Starshine 6 EF: Methanol-PHEV, 1.880 km weit","action":"published","translation_ok":true}
+{"ts":"2026-11-03T16:55:39.399Z","source":"CarNewsChina","title":"BYD’s FCB crosses 600,000 sales as GM acknowledges delivery bottlenecks ahead of Ti 9 launch","action":"skipped_quota","translation_ok":true}
