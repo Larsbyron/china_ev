@@ -1,71 +1,68 @@
 ---
-title: "Leapmotor C10 Facelift 2027: 660 km Reichweite für ca. 15.700 €"
+title: "Leapmotor C10 in Deutschland: Preise, Reichweiten und Varianten im Überblick"
 date: 2026-06-12T06:29:17.210Z
-description: "Leapmotor rüstet den Mittelklasse-SUV C10 auf: Neues Gesicht, 800-Volt-Architektur, 230 kW und bis zu 660 km CLTC-Reichweite. Der Preis in China startet bei ca. 15.700 € (ca. 122.800 Yuan) – ein echtes Schnäppchen."
-source: "Autohome NewEnergy"
+description: "C10 Pro, ProMax 800 V, AWD oder Hybrid EV: die offiziellen Preise und WLTP-Daten für Deutschland (Preisliste Stand 1. Oktober 2026) – alle Zahlen aus der Herstellerpreisliste, ohne Schätzwerte."
+source: "E-AUTOS Redaktion"
 image: "/images/leapmotor-c10-facelift-2027-660-km-reichweite-fr-c-autohome-newenergy-da69c2.webp"
 category: "news"
 brand: "Leapmotor"
 brands: ["Leapmotor"]
-tags: ["Leapmotor", "Batterie", "Reichweite", "Zoll"]
+tags: ["Leapmotor", "C10", "Preise", "Reichweite", "Ratgeber"]
 draft: false
-original_url: "http://www.autohome.com.cn/news/202606/1314967.html"
-read_time_minutes: 4
+original_url: "https://china-autonews.de/articles/2026-06-12-leapmotor-c10-facelift-2027-660-km-reichweite-fr-c-autohome-newenergy-da69c2/"
+read_time_minutes: 7
 primaryTopic: "modelle-marktstarts"
-marketRelevance: "eu_planned"
+secondaryTopics: ["preise-rabatte-wettbewerb"]
+marketRelevance: "de_available"
+noindex: false
 ---
 
-# Leapmotor C10 Facelift 2027: 660 km Reichweite für ca. 15.700 €
+# Leapmotor C10 in Deutschland: Preise, Reichweiten und Varianten
 
-Der chinesische Hersteller Leapmotor (零跑) spendiert seinem Erfolgsmodell C10 ein tiefgreifendes Facelift. Pünktlich zum chinesischen Marktstart am 16. Juni präsentiert sich der Mittelklasse-SUV mit überarbeiteter Front, neuer 800-Volt-Architektur und deutlich mehr Reichweite. Die Preise für den heimischen Markt beginnen bei ca. 15.700 € (ca. 122.800 Yuan)* – ein echtes Schnäppchen im chinesischen Wettbewerb.
+Der Leapmotor C10 ist ein 4,73 Meter langer Familien-SUV, den Leapmotor in Deutschland sowohl als reines Elektroauto (BEV) als auch als Range-Extender-Hybrid („Hybrid EV") anbietet. Die offizielle Preisliste des Herstellers (Stand 1. Oktober 2026) beginnt bei 38.600 Euro. Alle Preise in diesem Artikel sind unverbindliche Preisempfehlungen inklusive 19 Prozent Mehrwertsteuer, zuzüglich Überführungs- und Zulassungskosten [2].
 
-## Von 12 auf 28.000 Yuan – was hat sich getan?
+## Die Preise im Überblick
 
-Der Leapmotor C10 war seit seiner Einführung 2024 ein Verkaufsschlager und gehört zu den meistverkauften Modellen der chinesischen EV-Startups. Das Facelift (Modelljahr 2027) greift tief ins Regal: Neben der neuen Front mit markantem „geteiltem Taglicht“ wächst die Länge um 10 mm auf 4.749 mm (Radstand 2.825 mm). Neu sind außerdem 18- oder 20-Zoll-Felgen, die Farbe „Yunjin-Gold“ und ein aktiver Kühlergrill.
+- **C10 Pro (BEV, 69,9 kWh), Life:** 38.600 €
+- **C10 Pro (BEV, 69,9 kWh), Design:** 40.100 €
+- **C10 Hybrid EV (28,4 kWh), Life:** 38.600 €
+- **C10 Hybrid EV (28,4 kWh), Design:** 40.100 €
+- **C10 ProMax 800 V (BEV, 81,9 kWh), Design:** 42.900 €
+- **C10 ProMax 800 V AWD (BEV, 81,9 kWh), Design:** 45.900 €
 
-Im Innenraum setzt Leapmotor auf noch mehr Luxus: Ein 17,3-Zoll-3K-Touchscreen (vorher 14,6 Zoll mit 2,5K) und ein 60-Zoll-AR-Head-up-Display ersetzen den bisherigen 10,25-Zoll-Instrumentenschirm. Der 8,8-Zoll-Instrumentenbildschirm bleibt schmal. Die Mittelkonsole wurde überarbeitet, das Soundsystem auf bis zu 18 Lautsprecher (inklusive Kopfstützen-Lautsprecher) aufgestockt. Highlight: Serienmäßige Nullschwerkraft-Vordersitze mit Heizung, Lüftung und 10-Punkt-Massage – eine Klasse, die selbst in der 20.000-Euro-Klasse in China selten ist.
+Zwischen Pro und ProMax liegen bei gleicher Ausstattungslinie rechnerisch 2.800 Euro. Der Allradantrieb kostet gegenüber dem heckgetriebenen ProMax weitere 3.000 Euro.
 
-## Technische Daten: Mehr Power, größere Reichweite – klare Vergleichbarkeit
+## Drei Antriebswege, drei Charaktere
 
-Der Leapmotor C10 bleibt als reiner Stromer (BEV) und als Range-Extender (EREV) erhältlich. Die wichtigsten Kennwerte im Vergleich:
+**C10 Pro (Heckantrieb).** 69,9 kWh LFP-Akku, 165 kW (224 PS), 360 Nm, WLTP-Reichweite 430 km (innerstädtisch 594 km), kombinierter Verbrauch 18,3 kWh/100 km. 0–100 km/h in 7,5 Sekunden, Spitze 180 km/h. Gleichstrom lädt mit bis zu 120 kW (30–80 Prozent in 24 Minuten), Wechselstrom dreiphasig mit 11 kW [2].
 
-**EREV (Range-Extender):**
-- Systemleistung: 200 kW (vorher 170 kW)
-- 0–100 km/h: 7,3 s (vorher 7,68 s)
-- Elektrische Reichweite: 290 km (CLTC) – entspricht ca. 247 km (WLTP-Schätzwert)
-- Gesamtreichweite: 1.300 km (CLTC)
-- Ladesystem: 400 Volt, 3C-Schnellladung
+**C10 ProMax 800 V (Heckantrieb).** 81,9 kWh, 220 kW (299 PS), 360 Nm, 510 km WLTP (innerstädtisch 723 km), 18,0 kWh/100 km. 0–100 km/h in 6,8 Sekunden, Spitze 190 km/h. DC-Leistung 180 kW, 30–80 Prozent in 22 Minuten [2].
 
-**BEV (rein elektrisch):**
-- Leistung: 230 kW (bislang gab es zwei Varianten: 170 kW im Basismodell und 220 kW im Topmodell des Vorgängers)
-- 0–100 km/h: 6,0 s (bislang 7,29 s für die 170-kW-Version, 5,9 s für die 220-kW-Version)
-- Reichweite: 660 km (CLTC) – entspricht ca. 561 km (WLTP-Schätzwert)* (bislang 530 km bzw. 605 km CLTC)
-- Ladesystem: 800 Volt, 30–80 % in 16 Minuten
+**C10 ProMax AWD.** 420 kW (571 PS), 655 Nm, 460 km WLTP (innerstädtisch 628 km), 19,6 kWh/100 km. 0–100 km/h in 5,0 Sekunden, Spitze 190 km/h. Ebenfalls 180 kW DC, 22 Minuten von 30 auf 80 Prozent [2].
 
-*Hinweis: Preise beziehen sich auf den chinesischen Markt und können in Europa abweichen. CLTC (chinesischer Verbrauchszyklus, typischerweise 10–15 % höher als WLTP).
+**C10 Hybrid EV.** 28,4 kWh Akku plus Benziner mit 65 kW, Elektromotor 162 kW (220 PS), 360 Nm. Elektrische WLTP-Reichweite 124 km, kombinierte Reichweite 986 km. Verbrauch gewichtet 16,1 kWh plus 1,7 Liter auf 100 km; mit entladener Batterie 6,3 Liter. CO₂ 38 g/km. 0–100 km/h in 7,8 Sekunden, Spitze 180 km/h. DC 65 kW (30–80 Prozent in 18 Minuten), AC einphasig 6,6 kW [2].
 
-## Neue Plattform und Fahrwerk
+## Platz, Gewicht und Anhängelast
 
-Der C10 basiert auf der neuen LEAP 3.5-Architektur. Serienmäßig ist nun ein FSD-Variodämpfer (Frequency Selective Damping) an Bord, der sich automatisch an die Straßenverhältnisse anpasst – ein deutlicher Fortschritt im Fahrkomfort. Die Vorderachse bleibt mit MacPherson-Federbeinen, hinten kommt eine Fünflenker-Aufhängung. Zudem ist ein LMC (Integrated Motion Control) System integriert, das bei Reifenplatzerkennung, Rutschpartien oder Notausweichmanövern eingreift.
+Der C10 misst 4.739 × 1.900 × 1.680 mm bei 2.825 mm Radstand. Der Kofferraum fasst 435 bis 580 Liter, bei umgeklappter Rücksitzbank 1.090 bis 1.600 Liter; vorne gibt es zusätzlich einen 30-Liter-Frunk. Die gebremste Anhängelast liegt bei 1.500 kg, ungebremst bei 750 kg, die Stützlast bei 60 kg [2].
 
-## Marktposition und Wettbewerb
+Die Hybrid-Version hat einen etwas kleineren Kofferraum (390–535 Liter, umgeklappt 1.040–1.555 Liter) und wiegt 2.025 kg leer. Der ProMax AWD wiegt 2.264 kg [2].
 
-Leapmotor verfolgt eine klare Strategie: maximale Ausstattung zum günstigen Preis – ähnlich wie BYD mit seinen selbst entwickelten Komponenten. Der C10 konkurriert in China mit dem BYD Sealion 06, Song Ultra (Einstiegsvarianten), Geely Galaxy M7 und Deepal S05. Dank der großen Batterie (im BEV 660 km CLTC) und der umfangreichen Serienausstattung (z. B. 17,3-Zoll-Display, 14 Lautsprecher, beheizte Vordersitze, elektrische Liegefunktion) setzt er neue Maßstäbe in der Preisklasse um 15.000 €.
+## Garantie
 
-Im Mai 2025 verkaufte Leapmotor insgesamt 81.569 Fahrzeuge und ist damit das meistverkaufte chinesische EV-Startup. Der C10 trägt maßgeblich zu diesem Erfolg bei.
+Leapmotor gibt vier Jahre oder 100.000 km Fahrzeuggarantie (je nachdem, was zuerst eintritt) und acht Jahre oder 160.000 km auf die Antriebsbatterie. Eine Leistungsminderung der Batterie von bis zu 20 Prozent innerhalb dieses Zeitraums liegt laut Garantiebedingungen im Toleranzbereich der üblichen Abnutzung [2].
 
-## Ausstattungsvarianten: Nur zwei Versionen
+## Welche Variante für wen sinnvoll ist
 
-Leapmotor vereinfacht das Angebot auf zwei Ausstattungslinien:
-- **Zhixiang Edition (Smart Edition):** Serienmäßig mit 660 km CLTC (BEV) bzw. 290 km elektrischer Reichweite (EREV), FSD-Fahrwerk, 17,3-Zoll-3K-Display, 14 Lautsprecher, beheizte und belüftete Vordersitze mit Massage, 360°-Kamera, ACC und Parkassistent.
-- **Laser Radar Edition:** Zusätzlich Lidar und 8650-Chip für Navigations-Assistent (Stadt- und Autobahnpilot), 60-Zoll-AR-HUD, 18-Lautsprecher-System, PM2.5-Filter.
+Wer den C10 vor allem als Familienauto mit überschaubarem Budget sucht, kommt mit dem Pro hin: 430 km WLTP und 120 kW Ladeleistung sind für den Alltag ausreichend, 24 Minuten von 30 auf 80 Prozent liegen im üblichen Rahmen dieser Klasse. Der ProMax kostet 2.800 Euro mehr und bringt 80 km mehr Reichweite sowie 60 kW mehr Ladeleistung – relevant vor allem für Vielfahrer. Der AWD ist mit 571 PS und 5,0 Sekunden auf 100 km/h die Performance-Variante, kostet aber 3.000 Euro Aufpreis und verliert 50 km Reichweite.
 
-Der Einstiegspreis liegt je nach Version zwischen ca. 15.700 € und 18.300 € in China. Die Laser-Radar-Version wird voraussichtlich bei ca. 17.000 € starten.
+Der Hybrid EV richtet sich an Haushalte ohne eigene Wallbox: 124 km elektrisch reichen für den Alltag, für längere Strecken kommt der Benziner hinzu. Er lädt allerdings nur mit 6,6 kW wechselstromseitig und 65 kW gleichstromseitig.
 
-## Ausblick
+## Zur Datenlage
 
-Das Facelift des Leapmotor C10 zeigt, wie chinesische Hersteller ihre Modelle jährlich aufwerten – mit jeder Menge neuer Technik zum unschlagbaren Preis. Ob der C10 auch nach Europa kommt, ist noch nicht offiziell bestätigt, aber Leapmotor arbeitet mit Stellantis zusammen, und ein Europa-Start ab 2026/2027 gilt als wahrscheinlich.
+Alle technischen Angaben und Preise stammen aus der offiziellen Leapmotor-Preisliste für Deutschland (Stand 1. Oktober 2026) sowie der deutschen Modellseite des Herstellers. Wir nennen bewusst keine Zulassungszahlen für den C10, weil uns dafür die KBA-Modellstatistik im Original nicht vorliegt. Händlerpreise, Aktionen und Lieferzeiten können von den hier genannten unverbindlichen Preisempfehlungen abweichen.
 
----
+## Quellen
 
-Leapmotor ist in Deutschland noch nicht offiziell erhältlich. Der Hersteller hat jedoch eine Kooperation mit Stellantis und plant die Expansion nach Europa. Ein Marktstart des C10 in Deutschland wird ab 2026/2027 erwartet, ein konkreter Termin steht noch aus.
+1. Leapmotor Deutschland, Modellseite C10, abgerufen am 3. November 2026: https://www.leapmotor.net/de-de/modelle/c10
+2. Leapmotor, Preisliste C10 MY27, Stand 1. Oktober 2026 (Dateiversion 16.10.2026): https://www.leapmotor.net/docs/default-source/c10---documents/preisliste-leapmotor-c10-my27-d-20261001-v20261016.pdf
