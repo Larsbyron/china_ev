@@ -32584,3 +32584,30 @@
 {"ts":"2026-11-03T16:55:36.121Z","source":"CarNewsChina","title":"Geely Starshine 6 EF: Methanol-PHEV, 1.880 km weit","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-11-03T16:55:39.388Z","source":"CarNewsChina","title":"Geely Starshine 6 EF: Methanol-PHEV, 1.880 km weit","action":"published","translation_ok":true}
 {"ts":"2026-11-03T16:55:39.399Z","source":"CarNewsChina","title":"BYD’s FCB crosses 600,000 sales as GM acknowledges delivery bottlenecks ahead of Ti 9 launch","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-03T22:14:55.620Z","source":"CarNewsChina","title":"Geely Emgrand L EM-i sedan got methanol version for 11,550 USD in China","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T22:14:56.660Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T22:14:56.664Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T22:14:56.668Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T22:14:56.675Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T22:14:56.679Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T22:14:56.682Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T22:14:56.687Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T22:14:56.691Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T22:14:56.961Z","source":"Autohome NewEnergy","title":"奇瑞集团10月销量","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T22:14:56.965Z","source":"Autohome NewEnergy","title":"全新比亚迪唐/方程豹钛9领衔 11月新车前瞻","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-03T22:15:00.907Z","source":"D1EV","title":"没有“银十”的十月，被出海填平","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-03T22:15:00.917Z","source":"D1EV","title":"2026年9月燃油车型/新能源车型销量榜：新能源前三竞争激烈，吉利缤越领跑燃油车市场丨盖世汽车研究院","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-03T22:15:07.164Z","source":"ChooseAuto","title":"吉利银河星耀6 EF上市，开启甲醇混动时代","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T22:15:07.169Z","source":"ChooseAuto","title":"银河星耀6 E-fuel上市限时焕新价7.68万元起，赋能用户美好生活","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-03T22:15:15.180Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5172,"completion_tokens":3216,"cache_hit_tokens":3968,"cache_miss_tokens":1204,"reasoning_chars":6457,"content_chars":3831}
+{"ts":"2026-11-03T22:15:26.597Z","source":"Sina","title":"吉利汽车10月销量310183辆 环比增长6%","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T22:15:26.597Z","source":"Sina","title":"蔚来10月交付新车34246台","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T22:15:26.597Z","source":"Sina","title":"广汽丰田10月终端销量达到53022台","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-03T22:15:26.603Z","source":"Sina","title":"吉利汽车10月销量310183辆 环比增长6%","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-03T22:15:33.754Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1945,"completion_tokens":3022,"reasoning_chars":5729,"content_chars":3649}
+{"ts":"2026-11-03T22:15:33.755Z","source":"CarNewsChina","title":"BYD Fang Cheng Bao: 600.000 Verkäufe, Ti 9 ab 51.200 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-03T22:15:58.112Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6974,"completion_tokens":4471,"cache_hit_tokens":3840,"cache_miss_tokens":3134,"reasoning_chars":9460,"content_chars":4534}
+{"ts":"2026-11-03T22:16:15.382Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2158,"completion_tokens":3012,"reasoning_chars":9830,"content_chars":665}
+{"ts":"2026-11-03T22:16:15.382Z","source":"CarNewsChina","title":"BYD Fang Cheng Bao: 600.000 Verkäufe, Ti 9 ab 51.200 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-03T22:16:17.049Z","source":"CarNewsChina","title":"BYD Fang Cheng Bao: 600.000 Verkäufe, Ti 9 ab 51.200 €","action":"published","translation_ok":true}
+{"ts":"2026-11-03T22:16:17.055Z","source":"CarNewsChina","title":"China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237","action":"skipped_quota","translation_ok":true}
