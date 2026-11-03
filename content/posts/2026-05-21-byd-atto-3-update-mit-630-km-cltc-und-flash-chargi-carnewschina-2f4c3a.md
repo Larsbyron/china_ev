@@ -40,7 +40,7 @@ BYD (比亚迪) hat am 21. Mai 2026 die dritte Generation des Atto 3 in China vo
 
 Die vier Versionen unterscheiden sich vor allem durch ihre Batteriegröße und Reichweite:
 
-- **540KM Leading**: 540 km (CLTC – chinesischer Verbrauchszyklus, typischerweise 10–15 % höher als WLTP; entspricht ca. 460 km WLTP-Schätzwert) – 119.900 Yuan (ca. 15.300 €)
+- **540KM Leading**: 540 km (CLTC – chinesischer Verbrauchszyklus, typischerweise 15–25 % höher als WLTP; entspricht ca. 460 km WLTP-Schätzwert) – 119.900 Yuan (ca. 15.300 €)
 - **540KM Beyond**: 540 km CLTC (ca. 460 km WLTP) – 129.900 Yuan (ca. 16.600 €)
 - **630KM Beyond**: 630 km CLTC (ca. 540 km WLTP) – 142.900 Yuan (ca. 18.300 €)
 - **630KM Excellence**: 630 km CLTC (ca. 540 km WLTP) – 149.900 Yuan (ca. 19.200 €)
