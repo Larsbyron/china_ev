@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Lotus Type 135: V8-Hybrid mit über 1.000 PS kommt 2028'
 date: 2026-05-14T00:06:13.482Z
 description: >-

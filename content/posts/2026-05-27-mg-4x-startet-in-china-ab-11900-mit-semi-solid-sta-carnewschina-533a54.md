@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: MG 4X startet in China ab 11.900 € mit Semi-Solid-State-Batterie
 date: 2026-05-27T20:09:38.583Z
 description: >-

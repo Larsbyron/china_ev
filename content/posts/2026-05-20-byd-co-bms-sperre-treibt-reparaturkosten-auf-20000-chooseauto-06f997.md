@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BYD & Co.: BMS-Sperre treibt Reparaturkosten auf 20.000 €'
 date: 2026-05-20T06:07:45.457Z
 description: >-

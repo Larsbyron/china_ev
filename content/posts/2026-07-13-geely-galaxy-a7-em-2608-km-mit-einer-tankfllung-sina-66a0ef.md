@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Geely Galaxy A7 EM: 2.608 km mit einer Tankfüllung"
 date: 2026-07-13T12:29:18.482Z
 description: "Der Plug-in-Hybrid stellte einen Guinness-Rekord auf: 2.608 km ohne Nachladen oder Tanken. Die offizielle Reichweite liegt bei 2.150 km (CLTC). Das Modell ist nur in China erhältlich."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Denza Z9 GT: 10.000 Auslieferungen in 2,5 Monaten'
 date: 2026-05-28T13:50:45.015Z
 description: >-

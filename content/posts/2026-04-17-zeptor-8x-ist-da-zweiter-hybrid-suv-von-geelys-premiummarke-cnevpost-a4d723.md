@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Zeekr 8X startet: Das zweite Hybrid-SUV von Geelys Premiummarke'
 date: 2026-04-17T16:00:00.000Z
 description: >-

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Mercedes GLC EV startet in China – ab 44.700 €"
 date: 2026-06-05T19:50:01.676Z
 description: "Mercedes-Benz eröffnet Vorverkauf für den elektrischen GLC in China. Der SUV auf MB.EA-Plattform startet ab ca. 44.700 €, bietet bis zu 600 km (WLTP) Reichweite und modernste Technik – ein Europa-Start ist noch offen."

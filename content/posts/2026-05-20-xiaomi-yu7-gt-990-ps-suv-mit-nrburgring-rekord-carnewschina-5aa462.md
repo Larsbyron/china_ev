@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Xiaomi YU7 GT: 990-PS-SUV mit Nürburgring-Rekord'
 date: 2026-05-20T20:10:25.905Z
 description: >-

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'MG 07: Coupé-Limousine mit Elektro und Hybrid ab 19.200 €'
 date: 2026-05-09T23:49:45.502Z
 description: >-

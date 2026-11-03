@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Maextro S800: Luxus-E-Auto startet ab 128.000 €"
 date: 2026-06-10T20:20:38.800Z
 description: "Der von JAC und Huawei gebaute Maextro S800 kostet in China ab ca. 128.000 €. Über 18.500 Auslieferungen in acht Monaten – Rekord für chinesische Premium-Elektrolimousinen."

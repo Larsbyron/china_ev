@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Chery-JLR eröffnet Freelander-Entwicklungszentrum in Suzhou"
 date: 2026-06-01T15:53:13.181Z
 description: "Chery und Jaguar Land Rover haben ihr gemeinsames Forschungsinstitut für die Marke Freelander (神行者) in Suzhou eröffnet. Das Zentrum soll die Entwicklung von Luxus-SUVs mit E-Antrieb vorantreiben – der erste Serien-SUV Freelander 8 wird für 2025 erwartet."

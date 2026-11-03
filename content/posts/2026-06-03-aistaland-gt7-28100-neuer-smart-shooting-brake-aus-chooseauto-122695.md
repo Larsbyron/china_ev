@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "AISTALAND GT7: 28.100 € – neuer Smart-Shooting-Brake aus China"
 date: 2026-06-03T14:26:53.519Z
 description: "AISTALAND (启境), Joint Venture von Huawei und GAC, startet die GT7-Vorverkäufe. Der elektrische Shooting Brake bietet ab 21,99 万元 ausgefeilte Technik – von 800-V-Architektur bis Heim-Autopilot."

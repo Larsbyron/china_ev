@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Lynk & Co 08 EM-P: Neue Variante ab 24.200 € in China"
 date: 2026-06-03T06:52:20.457Z
 description: "Lynk & Co bringt in China den 08 EM-P Max mit 230 km elektrischer Reichweite (CLTC) zum Einstiegspreis von ca. 24.200 €. Die neue Einstiegsvariante richtet sich an Familien und bietet erstmals den großen Akku im günstigeren Paket."

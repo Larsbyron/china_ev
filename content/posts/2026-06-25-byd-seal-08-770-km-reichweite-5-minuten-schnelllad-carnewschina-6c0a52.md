@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Seal 08: 770 km Reichweite, 5-Minuten-Schnellladung"
 date: 2026-06-25T12:16:35.956Z
 description: "BYD enthüllt Interieur des Seal 08. Die elektrische Flaggschiff-Limousine bietet 900 km CLTC-Reichweite (ca. 770 km WLTP) und lädt in 5 Minuten für 400 km nach. Marktstart in China am 2. Juli."

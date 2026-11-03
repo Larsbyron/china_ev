@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi YU7: Fünf Varianten von 29.900 bis 49.900 €"
 date: 2026-06-15T15:41:48.583Z
 description: "Xiaomi erweitert die YU7-Familie auf fünf Modelle: Standard, Long Range (25,35 Mio. Yuan), Pro, Max und GT. Die Preise starten bei ca. 29.900 € (CLTC: 643 km). Der GT ist das Topmodell."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD: 100.000 E-Autos in Großbritannien"
 date: 2026-06-18T12:49:21.281Z
 description: "BYD hat in Großbritannien das 100.000ste E-Fahrzeug ausgeliefert und als schnellster ausländischer Hersteller einen Marktanteil von 5 % erreicht – nach nur drei Jahren."

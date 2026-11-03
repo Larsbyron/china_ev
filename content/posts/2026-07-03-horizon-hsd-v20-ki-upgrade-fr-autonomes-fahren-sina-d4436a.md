@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Horizon HSD V2.0: KI-Upgrade für autonomes Fahren"
 date: 2026-07-03T05:54:53.293Z
 description: "Horizon Robotics aktualisiert sein Fahrassistenzsystem HSD auf Version 2.0. Weltmodell und Reinforcement Learning verbessern End-to-End-Fähigkeiten – iCAR V27 erhält erstes OTA-Update."

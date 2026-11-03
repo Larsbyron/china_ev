@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Toyota bZ3X: 90 % chinesische Teile – Huawei & CATL liefern zu"
 date: 2026-06-10T12:55:47.479Z
 description: "Toyota setzt bei seinen E-Autos auf chinesische Technologie: Der bZ3X besteht zu 90 % aus Komponenten lokaler Zulieferer. So gelangen Huawei, CATL und Momenta via Toyota nach Indien – und stärken den indischen E-Markt."

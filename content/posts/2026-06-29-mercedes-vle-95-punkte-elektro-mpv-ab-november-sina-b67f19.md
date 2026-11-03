@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Mercedes VLE: 95-Punkte-Elektro-MPV ab November"
 date: 2026-06-29T06:39:15.984Z
 description: "Mercedes bringt den vollelektrischen VLE als luxuriösen Privat-MPV auf den Markt. Mit 800 Liter Kofferraum, flachem Boden und MB.OS startet die Neuentwicklung im November 2025 in Fuzhou – zeitgleich in Europa."

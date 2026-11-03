@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BoYin HeChuang: Bosch-JV mit BYD-Know-how sammelt 38,4 Mio. €'
 date: 2026-05-16T11:05:09.407Z
 description: >-

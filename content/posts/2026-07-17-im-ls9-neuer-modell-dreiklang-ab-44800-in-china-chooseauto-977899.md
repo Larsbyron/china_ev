@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "IM LS9: Neuer Modell-Dreiklang ab 44.800 € in China"
 date: 2026-07-17T04:58:54.537Z
 description: "IM bringt den LS9 auf den heimischen Markt. Das SUV setzt auf „neue drei Komponenten“: Steer-by-Wire, High-End-LiDAR und 800-Volt-Plattform. Preis ab ca. 44.800 €."

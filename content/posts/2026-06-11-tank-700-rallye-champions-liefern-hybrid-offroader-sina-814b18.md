@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Tank 700: Rallye-Champions liefern Hybrid-Offroader aus"
 date: 2026-06-11T13:58:19.488Z
 description: "Der neue Tank 700 Hi4-T startet in China mit Prominenz aus der Taklimakan-Rallye. Der Plug-in-Hybrid mit 524 PS und VLA-KI bereitet sich auf die Dakar 2027 vor – ein Europamarkt ist nicht in Sicht."

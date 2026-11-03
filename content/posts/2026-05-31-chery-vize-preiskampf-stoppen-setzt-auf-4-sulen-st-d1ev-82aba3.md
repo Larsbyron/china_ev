@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Chery-Vize: Preiskampf stoppen – setzt auf 4-Säulen-Strategie"
 date: 2026-05-31T19:08:36.448Z
 description: "Chery-Vizepräsident Wang Lang fordert auf der Future Vehicle Pioneer Conference ein Ende des Preiskampfs und mehr Fokus auf Qualität, Sicherheit und Markenwert. Konkrete Beispiele: jährliche Milliarden-Investitionen in F&E und der C-NCAP-Sieg des Tiggo 8 Pro Max."

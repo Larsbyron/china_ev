@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Arcfox Beta S3: Einstieg ab 7.700 € mit Akkutausch'
 date: 2026-05-23T19:11:58.701Z
 description: >-

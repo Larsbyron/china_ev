@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'WEY V9X ab 44.800 €: 1700 km Reichweite, 4,9 s auf 100'
 date: 2026-05-19T06:07:56.257Z
 description: >-

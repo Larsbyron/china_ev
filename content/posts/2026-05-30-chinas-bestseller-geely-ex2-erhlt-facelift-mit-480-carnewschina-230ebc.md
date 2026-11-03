@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Chinas Bestseller Geely EX2 erhält Facelift mit 480 km Reichweite"
 date: 2026-05-30T05:46:09.344Z
 description: "Der meistverkaufte Stromer Chinas, der Geely EX2 (Geome Xingyuan), kommt mit überarbeitetem Design und bis zu 480 km CLTC-Reichweite. Die Preise in China starten bei umgerechnet ca. 7.900 €. Ein Europa-Start ist noch nicht bestätigt."

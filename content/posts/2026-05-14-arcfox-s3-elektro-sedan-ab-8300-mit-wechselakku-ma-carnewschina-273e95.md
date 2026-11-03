@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Arcfox S3: Elektro-Sedan ab 8.300 € mit Wechselakku – Marktstart Mai 2026'
 date: 2026-05-14T01:13:15.918Z
 description: >-

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Smart #6 EHD: Mercedes und Geely starten Vorverkauf des größten Modells'
 date: 2026-04-24T14:00:00.000Z
 description: >-

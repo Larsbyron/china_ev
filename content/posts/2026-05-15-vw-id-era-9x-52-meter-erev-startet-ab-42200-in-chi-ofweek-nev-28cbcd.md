@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'VW ID. ERA 9X: 5,2-Meter-EREV startet ab 42.200 € in China'
 date: 2026-05-15T06:15:25.782Z
 description: >-

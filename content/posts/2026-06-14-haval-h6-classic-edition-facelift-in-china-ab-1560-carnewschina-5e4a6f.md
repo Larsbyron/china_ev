@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Haval H6 Classic Edition: Facelift in China ab 15.600 €"
 date: 2026-06-14T11:53:40.021Z
 description: "GWM Haval bringt die überarbeitete H6 Classic Edition am 15. Juni 2026 in China. Der 1,5-Liter-Turbo-Benziner (181 PS) erhält einen größeren 14,6-Zoll-Bildschirm. Preis ab ca. 15.600 € – doch die Verkaufszahlen sind eingebrochen."

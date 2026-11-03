@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: >-
   Li Auto L9 Livis: Premium-SUV mit hauseigenem Chip und über 1.500 km
   Reichweite

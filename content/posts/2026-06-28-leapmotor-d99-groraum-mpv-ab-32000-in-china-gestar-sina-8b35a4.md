@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Leapmotor D99: Großraum-MPV ab 32.000 € in China gestartet"
 date: 2026-06-28T11:45:21.837Z
 description: "Leapmotor bringt mit dem D99 ein Luxus-MPV auf den Markt, das als elektrifizierte Alternative zum Toyota Alphard antritt. Preise starten bei ca. 32.000 €, der Siebensitzer ist als BEV und EREV verfügbar. Ein Europa-Start ist noch nicht bestätigt."

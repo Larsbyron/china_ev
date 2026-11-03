@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Aion i60 530: Kompakt-SUV mit 450 km Reichweite ab 13.300 €"
 date: 2026-06-10T12:54:30.857Z
 description: "Aion bringt den i60 530 „Ningde Edition“ mit 64,6-kWh-Akku von CATL. Preis in China ab ca. 13.300 €, Reichweite 530 km (CLTC), Schnellladung 5 Min. für 170 km (WLTP). Europapläne laufen."

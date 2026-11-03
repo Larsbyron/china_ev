@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD und Sinopec: 20.000 Flash-Charging-Stationen bis Ende 2026"
 date: 2026-06-05T19:46:07.078Z
 description: "BYD und Sinopec bauen 20.000 ultraschnelle Ladestationen in China. Die zweite Blade-Batterie lädt von 10 auf 70 % in fünf Minuten. Die Kooperation schafft ein vernetztes Energie-Ökosystem."

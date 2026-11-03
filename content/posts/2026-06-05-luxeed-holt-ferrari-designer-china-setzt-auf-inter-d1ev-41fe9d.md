@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Luxeed holt Ferrari-Designer: China setzt auf internationale Star-Designer"
 date: 2026-06-05T12:36:36.224Z
 description: "Luxeed (智界) verpflichtet einen ehemaligen Ferrari-Chefdesigner. Auch BMW, Aston Martin und Bentley sind als Toptalente-Quelle für chinesische Marken im Gespräch. Ein Branchentrend."

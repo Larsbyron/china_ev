@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'VW ID. ERA 9X: Flaggschiff-SUV ab 42.200 € mit 406 km'
 date: 2026-05-19T06:22:25.095Z
 description: >-

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD & Co.: Preiserhöhungen um bis zu 640 € – Bodenbildung in Sicht?"
 date: 2026-07-11T11:02:29.022Z
 description: "BYD und 14 weitere Hersteller heben in China Preise an: Das ADAS-Paket „God's Eye' kostet 270 € mehr, einzelne Modelle verteuern sich um bis zu 640 €. Signal für ein Ende der Rabattschlacht?"

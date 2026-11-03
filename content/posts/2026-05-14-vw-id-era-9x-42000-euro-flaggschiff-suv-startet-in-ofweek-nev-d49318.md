@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'VW ID. ERA 9X: 42.000-Euro-Flaggschiff-SUV startet in China'
 date: 2026-05-14T01:23:09.663Z
 description: >-

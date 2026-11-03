@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'XPeng Mona L03: Neuer SUV unter dem Budget-Label eingereicht'
 date: 2026-04-09T14:20:00.000Z
 description: >-

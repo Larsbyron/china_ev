@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Mengshi M817: Serienantrieb siegt bei Wüstenrallye"
 date: 2026-06-05T06:16:52.069Z
 description: "Der chinesische Geländewagen Mengshi M817 gewann mit serienmäßigem Antrieb eine Etappe der extremen Taklamakan-Rallye. Die zugrundeliegende Mach-Antriebsplattform von Zhixin Technology beweist damit ihre Alltagstauglichkeit."

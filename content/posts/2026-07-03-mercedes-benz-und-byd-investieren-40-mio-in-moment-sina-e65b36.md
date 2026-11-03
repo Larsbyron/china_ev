@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Mercedes-Benz und BYD investieren 40 Mio. $ in Momenta-IPO"
 date: 2026-07-03T05:56:08.772Z
 description: "Das chinesische KI-Startup Momenta geht an die Hongkonger Börse. Mercedes-Benz und BYD beteiligen sich als Cornerstone-Investoren mit 40 Mio. Dollar – ein starkes Signal für die strategische Zusammenarbeit bei autonomen Fahrsystemen."

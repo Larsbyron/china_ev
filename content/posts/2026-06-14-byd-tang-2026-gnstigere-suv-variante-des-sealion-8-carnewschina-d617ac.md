@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Tang (2026): Günstigere SUV-Variante des Sealion 8 gesichtet"
 date: 2026-06-14T11:51:55.186Z
 description: "Der nächste BYD Tang wird als Einstiegs-SUV getestet. Mit Design und Technik des Sealion 8 (Atto 8) soll er günstiger sein. Ein Europa-Export als Atto 7 ist denkbar."

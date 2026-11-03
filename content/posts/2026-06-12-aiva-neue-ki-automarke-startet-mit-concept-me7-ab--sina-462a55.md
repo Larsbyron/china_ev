@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "AIVA: Neue KI-Automarke startet mit Concept ME7 ab 2026"
 date: 2026-06-12T11:47:48.143Z
 description: "AIVA (赛豆科技) präsentiert in Peking den Origin Concept und kündigt das Serienmodell ME7 für 2026 an. Die Marke setzt auf KI als Kern des Fahrzeugs – Preise ab ca. 25.600 Euro."

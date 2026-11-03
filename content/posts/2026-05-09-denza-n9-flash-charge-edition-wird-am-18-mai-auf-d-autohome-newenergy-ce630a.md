@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: >-
   Denza N9 Flash-Charge Edition wird am 18. Mai auf den Markt kommen –
   Vorbestellpreis 45-50 Millionen Yuan

@@ -56,6 +56,9 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   return {
     title: article.title,
     description: article.description,
+    // 2026-11-03 noindex 试点：只对 frontmatter noindex:true 的文章输出，
+    // 不写这个字段时展开为空对象，metadata 与改动前完全一致。
+    ...(article.noindex ? { robots: 'noindex, follow' } : {}),
     alternates: {
       canonical: articleUrl,
     },

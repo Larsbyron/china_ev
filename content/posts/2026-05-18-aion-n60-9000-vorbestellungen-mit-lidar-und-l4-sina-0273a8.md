@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Aion N60: 9.000 Vorbestellungen mit Lidar und L4'
 date: 2026-05-18T06:11:08.088Z
 description: >-

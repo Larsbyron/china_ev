@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "XPeng MONA L03: 20 Lautsprecher ab 12.800 €"
 date: 2026-07-16T05:01:31.102Z
 description: "Chinesische Hersteller statten immer mehr Modelle unter 15.000 € mit hochwertigen Audiosystemen aus. XPengs MONA L03 bringt 20 Lautsprecher mit 7.1.4-Panoramasound ab ca. 12.800 €. Auch Leapmotor und Starlight ziehen mit."

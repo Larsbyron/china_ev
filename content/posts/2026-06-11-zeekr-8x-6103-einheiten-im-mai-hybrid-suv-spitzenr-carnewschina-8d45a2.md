@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Zeekr 8X: 6.103 Einheiten im Mai – Hybrid-SUV-Spitzenreiter"
 date: 2026-06-11T06:56:43.135Z
 description: "Der Zeekr 8X von Geely erobert mit 6.103 verkauften Einheiten das Premium-Hybrid-SUV-Segment in China. Der Plug-in-Hybrid bietet bis zu 1.381 PS und rein elektrische Reichweiten bis zu 328 km (CLTC). Eine Europa-Expansion ist für das dritte Quartal 2026 angekündigt."

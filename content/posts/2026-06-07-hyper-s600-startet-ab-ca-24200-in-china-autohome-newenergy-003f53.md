@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Hyper S600 startet ab ca. 24.200 € in China"
 date: 2026-06-07T06:17:46.898Z
 description: "Der neue Hyper S600 von GACs Premiummarke ist als Coupé-SUV in China bestellbar. Das Modell bietet rein elektrisch 660 km (CLTC) oder als Range-Extender bis zu 230 km elektrische Reichweite. Ein Europa-Start ist nicht bekannt."

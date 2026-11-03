@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi N90: EREV-SUV mit 1.500 km Reichweite"
 date: 2026-07-11T11:03:51.786Z
 description: "Xiaomi zeigt erste Teasers des Sky Nomad N90 – eines 5,3 Meter langen EREV-SUV mit drehbaren Vordersitzen. Das XXL-Modell kombiniert SUV-Karosserie mit Van-ähnlichem Raumgefühl und soll im Sommer 2026 in China vorgestellt werden."

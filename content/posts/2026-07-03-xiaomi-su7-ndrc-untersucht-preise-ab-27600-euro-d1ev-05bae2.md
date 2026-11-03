@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi SU7: NDRC untersucht Preise – ab 27.600 Euro"
 date: 2026-07-03T05:48:13.358Z
 description: "Die chinesische Preisbehörde NDRC hat Xiaomi besucht, um die Preise des SU7 zu prüfen. Das E-Auto startet in China ab ca. 27.600 € und erzielt monatlich über 10.000 Auslieferungen."

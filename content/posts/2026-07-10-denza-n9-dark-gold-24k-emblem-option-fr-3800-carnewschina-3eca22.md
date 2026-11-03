@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Denza N9 Dark Gold: 24k-Emblem-Option für 3.800 €"
 date: 2026-07-10T06:08:05.788Z
 description: "BYD-Tochter Denza legt vom N9-PHEV eine Dark-Gold-Sonderedition auf. Highlight ist ein Frontemblem aus 24-karätigem Gold – zeitlich befristet kostenlos für die Topversion. Der 912-PS-SUV bleibt ein China-Modell."

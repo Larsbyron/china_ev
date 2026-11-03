@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi YU7 GT: Erste autonome Nordschleifen-Runde in 10:29 min"
 date: 2026-06-24T19:28:53.541Z
 description: "Xiaomi YU7 GT absolviert auf der Nürburgring-Nordschleife eine vollständig autonome Runde in 10:29,483 Minuten – Weltpremiere für autonomes Fahren auf der legendären Rennstrecke."

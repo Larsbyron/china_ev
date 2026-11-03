@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi Sky Nomad N90: Riesen-SUV mit drehbaren Sitzen"
 date: 2026-07-09T19:32:15.093Z
 description: "Xiaomi gibt erste Einblicke in den Sky Nomad N90, ein 5,3 m langes EREV-SUV mit 180° drehbaren Vordersitzen und variablem Innenraum. Der Marktstart in China wird für 2026 erwartet."

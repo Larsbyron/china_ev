@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "MG 07: Produktionsstart des 650-km-Stromers"
 date: 2026-07-05T19:12:36.583Z
 description: "Die erste MG 07 Limousine läuft in Zhengzhou vom Band. Der 176-kW-Stromer bringt CLTC-Reichweiten bis 650 km und startet in China ab ca. 19.200 €. Marktstart in Europa ungewiss."

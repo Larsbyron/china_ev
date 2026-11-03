@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'AISTALAND GT7: 900 km Reichweite – Shooting Brake mit Huawei-Technik'
 date: 2026-05-14T01:11:07.030Z
 description: >-

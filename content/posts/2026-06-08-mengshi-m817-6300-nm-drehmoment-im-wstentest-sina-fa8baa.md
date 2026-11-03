@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Mengshi M817: 6.300 Nm Drehmoment im Wüstentest"
 date: 2026-06-08T06:36:27.051Z
 description: "Der Dongfeng Mengshi M817 Hybrid besteht die 8.000-km-Taklimakan-Rallye mit Serientechnik. Die Mach-Plattform von Zhixin Technology liefert bis zu 6.300 Nm Raddrehmoment und einen Wirkungsgrad von knapp 90 % (WLTC)."

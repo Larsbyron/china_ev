@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Atto 3: 30.000 Orders in Woche 1 ab 15.300 €"
 date: 2026-06-03T06:47:58.957Z
 description: "Der neue BYD Atto 3 startet in China ab ca. 15.300 € und sammelt 30.000 Bestellungen in der ersten Woche. Bis zu 630 km CLTC (ca. 540 km WLTP) Reichweite und Flash-Charging – Europa-Start noch offen."

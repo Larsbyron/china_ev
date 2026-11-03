@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Li Auto eröffnet Europa-Zentrale in Braunschweig mit VW-Pilotprojekt
 date: 2026-05-28T13:43:25.000Z
 description: >-

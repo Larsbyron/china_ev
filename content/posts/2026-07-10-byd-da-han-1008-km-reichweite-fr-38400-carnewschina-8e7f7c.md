@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Da Han: 1.008 km Reichweite für 38.400 €"
 date: 2026-07-10T12:23:03.256Z
 description: "Der neue BYD Flaggschiff-Sedan Da Han wurde in China gesichtet. Mit bis zu 1.008 km Reichweite (CLTC) und 9-Minuten-Ladung startet er zu Preisen um 38.400 € – ein reiner China-Markt."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Fangchengbao: 35.607 Einheiten im Juni (+88 %)"
 date: 2026-07-06T06:29:13.853Z
 description: "Die BYD-Tochter Fangchengbao verkauft im Juni 35.607 Fahrzeuge – ein Plus von 88,4 %. Der Ti7 Hybrid bleibt das Zugpferd mit über 19.000 Einheiten. Der Durchschnittspreis liegt bei ca. 28.700 €."

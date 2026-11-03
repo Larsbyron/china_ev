@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Lotus Focus2030: Hybrid statt rein elektrisch"
 date: 2026-06-05T11:38:00.002Z
 description: "Lotus setzt künftig auf Verbrenner, Hybrid und BEV – aber keine reinen E-Sportwagen mehr. Mit Emira 420, Eletre X und Type 135 bis 2030. Gewinnschwelle: 30.000 Einheiten."

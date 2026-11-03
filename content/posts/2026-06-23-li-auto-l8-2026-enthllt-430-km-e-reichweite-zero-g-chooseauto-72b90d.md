@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Li Auto L8 (2026) enthüllt: 430 km E-Reichweite & Zero-Gravity-Sitze"
 date: 2026-06-23T06:03:49.202Z
 description: "Li Auto bringt den überarbeiteten L8 auf den Markt. Der Fünfsitzer bietet vier Zero-Gravity-Sitze und 430 km elektrische Reichweite (CLTC). Marktstart in China am 23. Juni 2026."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Zeekr 9X Fünfsitzer: 1.400‑PS‑SUV startet am 8. Juli"
 date: 2026-07-03T05:48:32.252Z
 description: "Zeekr bringt eine fünfsitzige Version des 9X in China an den Start. Der 1.400 PS starke Plug‑in‑Hybrid soll ab Ende 2026 nach Europa kommen."

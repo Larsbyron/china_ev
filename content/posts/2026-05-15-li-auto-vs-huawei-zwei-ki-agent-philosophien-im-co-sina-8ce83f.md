@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Li Auto vs. Huawei: Zwei KI-Agent-Philosophien im Cockpit'
 date: 2026-05-15T19:26:19.742Z
 description: >-

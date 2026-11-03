@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Hyptec S600: China-Start ab ca. 23.000 €"
 date: 2026-06-17T07:08:14.493Z
 description: "Hyptec S600 startet in China zum Einführungspreis ab ca. 23.000 €. Das Sport-SUV bietet 4,3 s auf 100 km/h, Luftfederung und Lidar serienmäßig. Reichweite bis 660 km (CLTC). Europa-Start ungewiss."

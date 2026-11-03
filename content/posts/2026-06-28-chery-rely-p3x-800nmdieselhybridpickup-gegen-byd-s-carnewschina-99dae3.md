@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Chery Rely P3X: 800‑Nm‑Diesel‑Hybrid‑Pickup gegen BYD Shark"
 date: 2026-06-28T06:16:00.112Z
 description: "Chery zeigt den Rely P3X, einen Diesel‑Plug‑in‑Hybrid‑Pickup mit 350 kW und 800 Nm. Das 2,5‑Liter‑Twin‑Turbo‑Modell tritt gegen den BYD Shark an und startet im 4. Quartal 2026. Die Exportversion heißt Chery Stockman."

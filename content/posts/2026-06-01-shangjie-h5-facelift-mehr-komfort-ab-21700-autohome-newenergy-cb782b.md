@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Shangjie H5 Facelift: Mehr Komfort ab 21.700 €"
 date: 2026-06-01T15:53:41.323Z
 description: "Das Joint Venture von SAIC und Huawei bringt das Facelift des Mittelklasse-SUV H5. Mit verbesserten Sitzen und Assistenz startet der Vorverkauf in China ab ca. 21.700 €."

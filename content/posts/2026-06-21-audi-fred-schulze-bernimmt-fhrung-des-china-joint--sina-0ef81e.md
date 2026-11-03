@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "AUDI: Fred Schulze übernimmt Führung des China-Joint Ventures"
 date: 2026-06-21T19:25:26.417Z
 description: "Nach Markteinführung von zwei Modellen übergibt Fermin Soneira im Juli 2026 an den Produktionsexperten Fred Schulze. Der langjährige VW-Manager soll die Marke AUDI in China weiterentwickeln."

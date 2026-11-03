@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "GAC Aion legt zu: 33.140 Verkäufe im Mai – Fokus auf Europa-Modell Aion Y"
 date: 2026-06-12T06:31:04.881Z
 description: "GAC Aion (广汽埃安) meldet für Mai 2024 einen Absatz von 33.140 Fahrzeugen (+23,8 %). Das kompakte E-SUV Aion Y gilt als Kandidat für den europäischen Markt."

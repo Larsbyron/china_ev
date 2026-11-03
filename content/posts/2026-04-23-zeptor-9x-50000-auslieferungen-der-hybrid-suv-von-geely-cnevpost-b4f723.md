@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Zeekr 9X: Geelys Hybrid-Flaggschiff überschreitet 50.000er-Marke'
 date: 2026-04-23T09:00:00.000Z
 description: >-

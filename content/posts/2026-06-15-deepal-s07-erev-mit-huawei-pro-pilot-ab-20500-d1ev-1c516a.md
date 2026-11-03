@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Deepal S07 EREV mit Huawei Pro-Pilot ab 20.500 €"
 date: 2026-06-15T15:40:12.784Z
 description: "Der neue Deepal S07 als Range-Extender startet in China ab 20.500 €. Er ist mit Huaweis ADS Pro ausgestattet – 27 Sensoren, City NCA und Kollisionsvermeidung CAS 4.0."

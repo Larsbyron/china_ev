@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Tank 300 Hybrid: ab 33.300 € mit 761 PS und 1.122 km Reichweite"
 date: 2026-07-06T19:49:34.244Z
 description: "Die neue Generation des chinesischen Kult-SUV Tank 300 startet in den Vorverkauf. Zwei Hybridvarianten mit bis zu 761 PS und 1.122 km Reichweite (CLTC) – ab ca. 33.300 €."

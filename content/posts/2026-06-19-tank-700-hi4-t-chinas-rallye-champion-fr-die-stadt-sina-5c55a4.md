@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Tank 700 Hi4-T: Chinas Rallye-Champion für die Stadt"
 date: 2026-06-19T19:38:41.895Z
 description: "Tank bringt den 700 Hi4-T als Sieger der Taklimakan-Rallye auf die Bühne. Das Luxus-SUV kombiniert VLA-KI-Assistent mit Komfort für den Alltag – und hat bereits die Rallye Dakar 2027 im Visier."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Seal 08: 900 km Reichweite und vier Interieur-Farben"
 date: 2026-06-25T06:02:44.834Z
 description: "BYD enthüllt den Innenraum des Seal 08: Vier Farbthemen, 900 km CLTC-Reichweite (ca. 770 km WLTP) und Flash Charging (400 km in 5 Minuten). Marktstart in China am 2. Juli."

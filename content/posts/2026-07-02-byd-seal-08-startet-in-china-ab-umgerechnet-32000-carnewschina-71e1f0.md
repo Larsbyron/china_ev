@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Seal 08 startet in China ab umgerechnet 32.000 €"
 date: 2026-07-02T12:09:10.950Z
 description: "Der BYD Seal 08 rollt im Juli vom Band, doch die Nachfrage übersteigt die Batterieproduktion. BYD skaliert die Fertigung der Blade Battery 2.0 hoch. Der Preis in China: ca. 32.000 €."

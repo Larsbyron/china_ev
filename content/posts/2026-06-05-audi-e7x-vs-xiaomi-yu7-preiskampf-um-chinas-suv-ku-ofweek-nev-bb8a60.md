@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Audi E7X vs. Xiaomi YU7: Preiskampf um Chinas SUV-Käufer"
 date: 2026-06-05T12:41:51.383Z
 description: "Mit dem E7X (ab ca. 37.100 €) und YU7 (ab ca. 32.400 €) liefern sich Audi und Xiaomi einen Schlagabtausch im 30.000-Euro-Segment. Ein Zeichen für den Wandel im chinesischen Markt."

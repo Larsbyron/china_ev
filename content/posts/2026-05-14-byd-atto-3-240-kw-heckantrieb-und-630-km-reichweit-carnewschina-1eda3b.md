@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BYD Atto 3: 240-kW-Heckantrieb und 630 km Reichweite'
 date: 2026-05-14T00:05:24.900Z
 description: >-

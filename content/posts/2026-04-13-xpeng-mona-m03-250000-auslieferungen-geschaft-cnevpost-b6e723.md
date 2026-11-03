@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'XPeng Mona M03: 250.000 Auslieferungen seit Marktstart'
 date: 2026-04-13T12:00:00.000Z
 description: >-

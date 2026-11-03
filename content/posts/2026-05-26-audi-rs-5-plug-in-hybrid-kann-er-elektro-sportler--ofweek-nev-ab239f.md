@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Audi RS 5 Plug-in-Hybrid: Kann er Elektro-Sportler schlagen?'
 date: 2026-05-26T20:11:59.046Z
 description: >-

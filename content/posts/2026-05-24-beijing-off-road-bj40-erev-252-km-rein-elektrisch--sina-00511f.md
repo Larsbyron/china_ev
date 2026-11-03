@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Beijing Off-Road BJ40 EREV: 252 km rein elektrisch ab Mai'
 date: 2026-05-24T11:26:03.037Z
 description: >-

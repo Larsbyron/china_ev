@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "CATL, BYD, Panasonic: 1,9 Mrd. € für KI-Stromspeicher"
 date: 2026-06-18T06:47:24.049Z
 description: "Chinesische Batterieriesen lenken ihre Fertigung auf Energiespeicher für KI-Rechenzentren. CATL, BYD und Panasonic investieren Milliarden – ein neuer Milliardenmarkt entsteht."

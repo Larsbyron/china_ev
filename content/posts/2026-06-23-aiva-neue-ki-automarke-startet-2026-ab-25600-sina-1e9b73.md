@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "AIVA: Neue KI-Automarke startet 2026 ab 25.600 €"
 date: 2026-06-23T06:06:04.984Z
 description: "Saidoo Technology stellt die Marke AIVA mit Concept Origin vor. Das erste Serienmodell AIVA ME7 kommt noch 2026 ab ca. 25.600 €. Partner sind Seres, CATL und ByteDance-Tochter Volcano Engine."

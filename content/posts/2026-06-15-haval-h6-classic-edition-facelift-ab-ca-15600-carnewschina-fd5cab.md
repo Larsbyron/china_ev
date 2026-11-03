@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Haval H6 Classic Edition: Facelift ab ca. 15.600 €"
 date: 2026-06-15T15:42:38.080Z
 description: "Great Wall Motor verpasst seinem Bestseller Haval H6 ein Facelift. Die „Classic Edition' startet am 15. Juni 2026 in China mit größerem Display und modernerem Infotainment – zu einem Einstiegspreis umgerechnet ab ca. 15.600 €."

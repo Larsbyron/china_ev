@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Audi E7X vs. Xiaomi YU7: Premium-Herausforderer ab 37.100 €"
 date: 2026-06-12T06:38:25.257Z
 description: "Audi stellt den E7X ab 37.100 € dem Xiaomi YU7 entgegen. Während Audi auf klassische Fahrdynamik setzt, trumpft Xiaomi mit 835 km CLTC-Reichweite auf. Ein Vergleich zweier Welten im chinesischen 30.000-Euro-SUV-Segment."

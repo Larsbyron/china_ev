@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Beijing BJ40 EREV: 252 km rein elektrisch, Start 21. Mai'
 date: 2026-05-21T12:46:54.827Z
 description: >-

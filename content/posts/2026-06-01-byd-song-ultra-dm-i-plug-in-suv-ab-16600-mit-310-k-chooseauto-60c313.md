@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Song Ultra DM-i: Plug-in-SUV ab 16.600 € mit 310 km E-Reichweite"
 date: 2026-06-01T21:26:45.770Z
 description: "BYD bringt den Song Ultra DM-i als Plug-in-Hybrid-SUV in China auf den Markt. Das Modell bietet 310 km rein elektrische Reichweite (CLTC) und startet ab ca. 16.600 €. Optional ist das Lidar-Fahrassistenzsystem „God’s Eye B“ erhältlich."

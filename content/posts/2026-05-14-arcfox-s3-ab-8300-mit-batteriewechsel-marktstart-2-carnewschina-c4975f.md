@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Arcfox S3: Ab 8.300 € mit Batteriewechsel – Marktstart 22. Mai'
 date: 2026-05-14T00:09:24.553Z
 description: >-

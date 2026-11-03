@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Mercedes & BYD investieren 40 Mio. USD in Momenta-IPO"
 date: 2026-07-03T12:09:57.472Z
 description: "Mercedes-Benz und BYD beteiligen sich mit rund 36,8 Mio. Euro als Ankerinvestoren am Börsengang des KI-Startups Momenta in Hongkong. Das Unternehmen liefert Fahrassistenzsysteme für beide Autoriesen und plant ein Robotaxi-Projekt in Abu Dhabi."

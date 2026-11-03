@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Mercedes-Benz: Neuer E-GLC ab 44.700 € mit 600 km Reichweite"
 date: 2026-06-07T19:12:08.202Z
 description: "Der neue Mercedes-Benz GLC (纯电GLC) geht in China in Vorverkauf – ab 44.700 €. 800-Volt-Architektur, 703 km CLTC (ca. 600 km WLTP), 39,1-Zoll-MBUX-Überbildschirm. Europastart noch offen."

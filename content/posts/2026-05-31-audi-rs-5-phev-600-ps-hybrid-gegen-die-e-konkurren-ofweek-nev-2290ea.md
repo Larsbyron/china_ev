@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Audi RS 5 PHEV: 600 PS Hybrid gegen die E-Konkurrenz"
 date: 2026-05-31T19:15:15.855Z
 description: "Audi legt den RS 5 als Plug-in-Hybrid neu auf – 2,9-Liter-V6 mit E-Motor und über 600 PS Systemleistung. Der Sportback trotzt dem Elektrotrend, startet voraussichtlich 2025."

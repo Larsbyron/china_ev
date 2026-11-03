@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Mercedes EQC: Elektro-GLC startet in China ab 44.700 €"
 date: 2026-06-08T06:35:23.780Z
 description: "Mercedes-Benz hat den Vorverkauf für den neuen vollelektrischen GLC (EQC) in China gestartet. Das Mittelklasse-SUV auf MB.EA-Plattform bietet bis zu 703 km CLTC-Reichweite und 800-Volt-Technik. Erste Auslieferungen erfolgen zeitnah."

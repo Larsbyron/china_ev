@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BYD Yuan Plus: Dritte Generation mit Blitzladung und 630 km Reichweite'
 date: 2026-04-24T10:00:00.000Z
 description: >-

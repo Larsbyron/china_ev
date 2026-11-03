@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "GWM Ora 6: 201 PS starker Käfer-Klon mit neuem Namen"
 date: 2026-07-12T11:09:41.923Z
 description: "Great Wall Motors rüstet den elektrischen Kleinen auf: Der Ora Ballet Cat erhält einen 201-PS-Motor und wird zum Ora 6 umbenannt. Verkaufsstart in China – Europa bleibt ungewiss."

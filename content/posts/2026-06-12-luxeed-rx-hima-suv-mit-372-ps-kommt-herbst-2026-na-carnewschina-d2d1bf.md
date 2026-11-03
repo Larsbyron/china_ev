@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Luxeed RX: HIMA-SUV mit 372 PS kommt Herbst 2026 nach China"
 date: 2026-06-12T06:35:49.446Z
 description: "Huawei und Chery enthüllen den Luxeed RX – ein SUV mit bis zu 372 PS und vier Lidar-Sensoren. Ein Design-Streit mit Ferrari überschattet den Start."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Luxeed V9: Luxus-MPV ab ca. 49.900 € ausgeliefert"
 date: 2026-06-08T06:33:58.764Z
 description: "Das Luxeed V9, ein luxuriöses MPV von Huawei und Chery, startet in China seine Auslieferung. In 21 Tagen über 18.000 Bestellungen, Preis ab ca. 49.900 €."

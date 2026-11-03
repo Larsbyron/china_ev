@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'XPeng GX: Vorverkauf des Flaggschiff-SUV startet bei 399.800 Yuan'
 date: 2026-04-15T10:00:00.000Z
 description: >-

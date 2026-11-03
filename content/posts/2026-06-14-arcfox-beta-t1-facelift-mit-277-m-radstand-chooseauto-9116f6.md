@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Arcfox Beta T1: Facelift mit 2,77 m Radstand"
 date: 2026-06-14T06:31:26.256Z
 description: "Arcfox bringt den Beta T1 als überarbeitete Version des T1. Neue durchgehende LED-Leuchten, mehr Platz und Komfortfeatures. Marktstart in China am 16. Juni 2026."

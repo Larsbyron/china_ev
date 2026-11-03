@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Mengshi M817: 800-Volt-Hybrid besteht Wüsten-Rallye"
 date: 2026-06-10T06:31:09.608Z
 description: "Dongfengs Ma-he-Antriebsplattform mit 800V und Axialflussmotor bestand die Taklimakan-Rallye. Die Technik könnte in künftigen Europa-Modellen zum Einsatz kommen."

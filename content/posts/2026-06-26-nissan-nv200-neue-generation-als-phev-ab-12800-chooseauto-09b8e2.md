@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Nissan NV200: Neue Generation als PHEV ab 12.800 €"
 date: 2026-06-26T12:08:13.775Z
 description: "Der neue Nissan NV200 kommt als Plug-in-Hybrid mit Allradoption nach China. Der praktische Kastenwagen erhält modernes Design, großen Bildschirm und elektrische Schiebetüren. Marktstart: Ende 2026."

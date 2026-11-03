@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Great Han: 764 PS und 1.008 km Reichweite"
 date: 2026-06-11T06:53:32.405Z
 description: "Die 5,3 Meter lange Flaggschiff-Limousine von BYD kommt in China noch 2026. Mit bis zu 764 PS und über 1.000 km CLTC-Reichweite soll der Great Han das Oberklasse-Segment aufmischen."

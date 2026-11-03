@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Volkswagen ID.Polo: Der Klassiker wird elektrisch'
 date: 2026-05-04T07:00:00.000Z
 description: >-

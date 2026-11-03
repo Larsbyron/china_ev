@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Deepal will 2025 100.000 Autos nach Europa exportieren
 date: 2026-05-25T19:27:19.434Z
 description: >-

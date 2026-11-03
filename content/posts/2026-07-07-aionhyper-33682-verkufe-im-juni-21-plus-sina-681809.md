@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Aion/Hyper: 33.682 Verkäufe im Juni – 21 % Plus"
 date: 2026-07-07T12:34:46.077Z
 description: "Aion (广汽埃安) und Hyper (昊铂) melden 33.682 Auslieferungen im Juni – 21 % mehr als im Vorjahr. Im ersten Halbjahr 2025 wurden 174.938 Fahrzeuge abgesetzt, ein Plus von 15 %. Der Hersteller profitiert von einer schlankeren Organisation und breiter Modellpalette."

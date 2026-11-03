@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "MHERO M817: Überarbeiteter Offroad-Hybrid ab 47.400 €"
 date: 2026-06-18T20:15:37.586Z
 description: "Der chinesische Offroad-Spezialist MHERO (Dongfeng) bringt den überarbeiteten M817 am 27. Juni auf den Markt. Der Plug-in-Hybrid startet bei umgerechnet 47.400 €. Technikpartner ist Huawei – allerdings nur für Fahrassistenz und Cockpit."

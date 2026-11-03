@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Seal 08: 694‑PS‑Flaggschiff ab 32.000 €"
 date: 2026-06-21T12:09:05.909Z
 description: "Der BYD Seal 08 kommt am 2. Juli 2026 in China auf den Markt. Die Flaggschiff-Limousine bietet 694 PS, 785 km CLTC-Reichweite und startet ab ca. 32.000 €. Ein Europa-Start ist noch nicht bestätigt."

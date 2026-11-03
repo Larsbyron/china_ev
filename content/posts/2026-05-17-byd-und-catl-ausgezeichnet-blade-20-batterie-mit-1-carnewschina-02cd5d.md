@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BYD und CATL ausgezeichnet: Blade-2.0-Batterie mit 1.218 km CLTC-Reichweite'
 date: 2026-05-17T19:04:10.665Z
 description: >-

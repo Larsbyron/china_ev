@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi YU7: Standard ab 29.900 €, GT als Aushängeschild"
 date: 2026-06-14T11:51:47.823Z
 description: "Xiaomi erweitert die YU7-Familie auf fünf Modelle. Das 643-km-Standardmodell kostet in China ab 29.900 € – deutlich günstiger als Tesla Model Y. Der GT mit 49.900 € bleibt ein Nischenmodell."

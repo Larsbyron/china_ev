@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Exeed ES 2027: ab 24.300 € mit 860 km Reichweite"
 date: 2026-06-12T12:50:44.230Z
 description: "EXEED (星途) eröffnet den Vorverkauf für den 2027er ES, ein elektrisches Sportcoupé ab ca. 24.300 €. Mit bis zu 860 km CLTC (ca. 731 km WLTP) und 4-Sekunden-Sprint. Europa-Start offen."

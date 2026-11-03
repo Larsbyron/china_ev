@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi YU7 GT: 990-PS-SUV startet Auslieferung in China"
 date: 2026-06-01T06:51:57.213Z
 description: "Der neue Xiaomi YU7 GT wird in China an erste Kunden ausgeliefert – ein 990-PS-SUV mit Sprintwerten eines Supersportwagens, ab ca. 49.900 €."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Tang: Neue Generation als günstiger Sealion-8-Ableger"
 date: 2026-06-12T20:02:56.660Z
 description: "BYD testet den nächsten Tang in China. Er wird als preiswertere Variante des Sealion 8 (Atto 8) positioniert und könnte als Atto 7 nach Europa kommen."

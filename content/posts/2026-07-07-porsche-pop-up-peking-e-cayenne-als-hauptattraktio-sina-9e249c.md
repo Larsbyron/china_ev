@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Porsche-Pop-up Peking: E-Cayenne als Hauptattraktion"
 date: 2026-07-07T12:31:03.879Z
 description: "Porsche eröffnet temporäres Brand-Erlebnis in Peking. Der rein elektrische Cayenne Turbo Coupé steht im Fokus – ergänzt um Design und Sonderwunsch-Konfiguration. Kein direkter Europabezug, aber Einblick in Chinas Markenstrategie."

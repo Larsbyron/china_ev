@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Aion: 33.140 Fahrzeuge im Mai – 23,8 % Wachstum"
 date: 2026-06-05T12:39:15.564Z
 description: "Aion (广汽埃安) meldet 33.140 Verkäufe im Mai – ein Plus von 23,8 %. Die chinesische Marke baut ihr Europageschäft aus, ein Deutschland-Start ist noch nicht terminiert."

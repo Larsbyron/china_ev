@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'NIO ES8: 110.000 Auslieferungen – Firefly bleibt Einzelmodell'
 date: 2026-05-19T06:02:51.073Z
 description: >-

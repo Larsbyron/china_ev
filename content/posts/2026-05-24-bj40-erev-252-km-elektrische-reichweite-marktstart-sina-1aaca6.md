@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BJ40 EREV: 252 km elektrische Reichweite, Marktstart 21. Mai'
 date: 2026-05-24T19:07:39.504Z
 description: >-

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Freelander 8: Chery-JLR-SUV mit 46-Zoll-8K-Display"
 date: 2026-07-11T10:59:46.104Z
 description: "Chery Jaguar Land Rover enthüllt das Cockpit des Freelander 8 mit einem 46,3 Zoll großen 8K-Panoramabildschirm. Das sechssitzige Luxus-SUV startet in der zweiten Jahreshälfte 2026 in China und setzt auf Huawei-Fahrassistenz."

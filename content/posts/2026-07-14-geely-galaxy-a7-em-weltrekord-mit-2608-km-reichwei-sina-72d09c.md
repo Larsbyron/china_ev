@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Geely Galaxy A7 EM: Weltrekord mit 2.608 km Reichweite"
 date: 2026-07-14T04:46:20.932Z
 description: "Geelys Hybrid-Limousine Galaxy A7 EM fuhr 2.608 km ohne Nachladen – Guinness-Weltrekord. Mit 235 km E-Reichweite (CLTC) und 2-Liter-Verbrauch. In China erhältlich, in Deutschland noch nicht."

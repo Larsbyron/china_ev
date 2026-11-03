@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Onvo L60 Facelift: Ab 24.700 €, 630 km (WLTP-geschätzt)"
 date: 2026-06-12T11:51:22.522Z
 description: "Der überarbeitete Onvo L60 startet in China mit Lidar, 900‑V‑Architektur und geschätzter Reichweite bis zu 630 km (WLTP). Preise ab 24.700 € (Vollkauf) oder ab 17.400 € (Batterie‑Leasing)."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi YU7: Fünf Versionen zwischen 29.900 und 49.900 Euro"
 date: 2026-06-26T12:12:06.503Z
 description: "Xiaomi komplettiert die vollelektrische YU7-Baureihe für China. Fünf Modelle vom Standard bis zum GT-Spitzenmodell – Preise zwischen 29.900 und 49.900 Euro. Der Standard trifft mit 643 km (CLTC) auf das Tesla Model Y."

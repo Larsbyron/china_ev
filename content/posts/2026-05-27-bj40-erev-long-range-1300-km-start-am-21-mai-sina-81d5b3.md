@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BJ40 EREV Long Range: 1.300 km, Start am 21. Mai'
 date: 2026-05-27T06:14:09.906Z
 description: >-

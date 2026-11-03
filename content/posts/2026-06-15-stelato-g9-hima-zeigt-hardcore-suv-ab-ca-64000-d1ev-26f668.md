@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Stelato G9: HIMA zeigt Hardcore-SUV ab ca. 64.000 €"
 date: 2026-06-15T20:53:11.670Z
 description: "HIMA (Harmony Intelligent Mobility Alliance) enthüllt die Stelato G9 – ein luxuriöses Offroad-SUV mit 800-Volt-Technik und zwei Antriebsoptionen. Der Marktstart in China ist für das dritte Quartal 2026 geplant."

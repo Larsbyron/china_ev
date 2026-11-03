@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Panasonic kontert BYD & CATL mit 1,9 Mrd. € für Speicher"
 date: 2026-06-18T12:48:30.105Z
 description: "Chinesische Batteriehersteller wie CATL und BYD drängen in den Energiespeichermarkt für KI-Rechenzentren. Panasonic investiert 1,9 Mrd. € in nordamerikanische Produktion. Ein neuer Industriekampf entbrennt."

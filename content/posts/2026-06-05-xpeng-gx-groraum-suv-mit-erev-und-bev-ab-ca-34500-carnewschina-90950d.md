@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "XPeng GX: Großraum-SUV mit EREV und BEV ab ca. 34.500 €"
 date: 2026-06-05T06:16:24.094Z
 description: "Der neue XPeng GX erzielt über 1.000 Vorbestellungen aus Übersee, vor allem aus dem Nahen Osten. Der vollelektrische und Range-Extender-SUV startet in China ab ca. 34.500 € mit bis zu 750 km CLTC-Reichweite."

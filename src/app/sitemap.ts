@@ -6,7 +6,7 @@ import { canonicalUrl } from '@/lib/site'
 export const dynamic = 'force-static'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const articles = getAllArticles()
+  const articles = getAllArticles().filter((a) => !a.noindex)
   const now = new Date().toISOString()
 
   const staticPages: MetadataRoute.Sitemap = [

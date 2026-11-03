@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi YU7: Standardversion ab 29.900 € wird Bestseller"
 date: 2026-06-07T19:11:36.855Z
 description: "Mit fünf Varianten von 29.900 bis 49.900 € startet Xiaomis YU7-Familie. Laut Analyse verfehlt der GT (38.990 €) die Mehrheit, die Basisversion mit 643 km CLTC lockt die Massen."

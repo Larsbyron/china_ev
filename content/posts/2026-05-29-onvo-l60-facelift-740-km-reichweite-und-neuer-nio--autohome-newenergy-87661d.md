@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Onvo L60 Facelift: 740 km Reichweite und neuer NIO-Chip'
 date: 2026-05-29T12:46:15.292Z
 description: >-

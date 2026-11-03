@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "AIVA ME7: KI-Limousine aus China für 2026 ab 25.600 €"
 date: 2026-06-13T06:15:33.396Z
 description: "Saidao Technology präsentierte in Peking die KI-Marke AIVA mit Concept Car und erstem Serienmodell ME7 für 2026. Partner sind ByteDance, CATL und Seres. Technische Daten fehlen noch."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi YU7 GT: Auslieferung gestartet – 990 PS ab 49.900 €"
 date: 2026-05-30T05:46:58.288Z
 description: "Xiaomi hat die ersten YU7 GT an Kunden übergeben. Das 990-PS-SUV breakt den Nürburgring-Rekord und kostet in China ab ca. 49.900 € – für Europa nicht geplant."

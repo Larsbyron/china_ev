@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BYD Fang Cheng Bao: Erste Limousine feiert auf der Peking Mobil World Debüt'
 date: 2026-04-14T10:30:00.000Z
 description: >-

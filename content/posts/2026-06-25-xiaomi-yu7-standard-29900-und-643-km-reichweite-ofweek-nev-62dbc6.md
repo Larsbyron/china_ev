@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi YU7 Standard: 29.900 € und 643 km Reichweite"
 date: 2026-06-25T19:52:56.897Z
 description: "Xiaomi präsentiert fünf YU7-Varianten. Der günstige Standard (ab ca. 29.900 €) bietet 643 km CLTC-Reichweite und wird zum Bestseller – der GT bleibt nur Showcar."

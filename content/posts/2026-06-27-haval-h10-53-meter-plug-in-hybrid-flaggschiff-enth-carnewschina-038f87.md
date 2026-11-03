@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Haval H10: 5,3-Meter-Plug-in-Hybrid-Flaggschiff enthüllt"
 date: 2026-06-27T19:08:11.705Z
 description: "Haval (Great Wall Motor) präsentiert das Top-SUV H10 mit Plug-in-Hybridantrieb und bis zu 180 km elektrischer Reichweite (CLTC). Das 5,3 Meter lange Modell soll die Trendwende für die Marke einleiten."

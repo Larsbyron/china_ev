@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Fangchengbao: Juni-Absatz steigt um 88 % auf 35.607 Einheiten"
 date: 2026-07-13T05:38:56.982Z
 description: "BYD-Tochter Fangchengbao verkauft im Juni 35.607 Fahrzeuge – 88 % mehr als im Vorjahr. Der durchschnittliche Transaktionspreis liegt bei rund 28.700 €. Treiber sind die Modelle Titan 7 und Titan 3."

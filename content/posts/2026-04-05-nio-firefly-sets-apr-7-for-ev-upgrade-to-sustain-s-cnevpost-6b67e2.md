@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: >-
   Nio Firefly setzt auf 7. April für EV-Upgrade zur Aufrechterhaltung des
   Verkaufschwungs

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BAIC BJ40 EREV: 1.300 km Reichweite, Marktstart am 21. Mai'
 date: 2026-05-29T11:35:28.916Z
 description: >-

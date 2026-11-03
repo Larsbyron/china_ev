@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Da Han: 1.008 km Reichweite – Flaggschiff gesichtet"
 date: 2026-07-09T06:10:27.182Z
 description: "Das neue BYD-Flaggschiff Da Han wurde in China ohne Tarnung gesichtet. Mit bis zu 1.008 km CLTC-Reichweite und 764 PS im AWD-Modell zielt es auf die Oberklasse."

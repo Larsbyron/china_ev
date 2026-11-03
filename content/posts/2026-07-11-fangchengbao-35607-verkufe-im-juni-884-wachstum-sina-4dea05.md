@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Fangchengbao: 35.607 Verkäufe im Juni – +88,4 % Wachstum"
 date: 2026-07-11T11:05:13.275Z
 description: "Der BYD-Ableger Fangchengbao verkaufte im Juni 35.607 Einheiten (+88,4 %). Der Ti 7 (Hybrid) führt mit 19.165 Verkäufen, der Durchschnittspreis beträgt ca. 28.700 €."

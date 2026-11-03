@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'XPeng GX: Neues Flaggschiff-SUV mit 750 km Reichweite und L4-Technik'
 date: 2026-04-24T11:00:00.000Z
 description: >-

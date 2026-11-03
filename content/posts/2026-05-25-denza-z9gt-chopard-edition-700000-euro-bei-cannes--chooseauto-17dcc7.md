@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Denza Z9GT Chopard Edition: 700.000 Euro bei Cannes-Auktion'
 date: 2026-05-25T19:22:02.725Z
 description: >-

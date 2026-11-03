@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Maextro V800: Huawei-Luxus-MPV wiegt 3,2 Tonnen"
 date: 2026-06-05T11:31:41.552Z
 description: "Chinesische Neuwagen werden immer schwerer: 392 kg mehr in zwölf Jahren. Huaweis Maextro V800 bringt 3,2 Tonnen auf die Waage – ein Symbol des Trends. EU-Start nicht geplant."

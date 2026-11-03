@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi YU7: Fünf Versionen von 29.900 bis 49.900 €"
 date: 2026-06-08T06:36:04.295Z
 description: "Xiaomi (小米) bringt den YU7 in fünf Varianten auf den Markt. Der günstigste Standardeinstieg startet bei 29.900 € und bietet 643 km CLTC. Der GT als Topmodell unterbietet die Erwartungen."

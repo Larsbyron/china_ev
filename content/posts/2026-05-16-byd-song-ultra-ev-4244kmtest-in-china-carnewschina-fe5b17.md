@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BYD Song Ultra EV: 4.244‑km‑Test in China'
 date: 2026-05-16T11:06:41.384Z
 description: >-

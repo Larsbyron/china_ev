@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Qijing GX7: Geräumiges SUV mit 20-Sekunden-Liegefunktion"
 date: 2026-06-27T05:51:35.422Z
 description: "Qijing (启境) enthüllt das zweite Modell GX7 – ein fünfsitziges Großraum-SUV mit elektrischer Liegefunktion in 20 Sekunden. Der 3.070 mm Radstand ermöglicht viel Platz. Marktstart in China, Europa-Expansion offen."

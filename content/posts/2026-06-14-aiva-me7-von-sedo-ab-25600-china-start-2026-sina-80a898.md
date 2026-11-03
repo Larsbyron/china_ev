@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "AIVA ME7 von Sedo ab 25.600 €: China-Start 2026"
 date: 2026-06-14T11:56:32.837Z
 description: "Sedo Technology gründet die KI-Automarke AIVA. Das erste Serienmodell ME7 soll Ende 2026 in China ab ca. 25.600 € auf den Markt kommen. Partnerschaften mit ByteDance und CATL."

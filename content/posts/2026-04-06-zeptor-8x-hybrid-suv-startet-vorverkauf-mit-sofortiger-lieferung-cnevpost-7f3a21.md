@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Zeekr 8X: Geelys Premium-Marke startet Vorverkauf des Hybrid-SUVs'
 date: 2026-04-06T08:30:00.000Z
 description: >-

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Hongqi H9 PHEV: 145-kW-Hybrid-Limousine vorgestellt"
 date: 2026-06-12T11:48:10.626Z
 description: "Der neue Hongqi H9 PHEV (Plug-in-Hybrid) wurde in chinesischen Behördenunterlagen gesichtet. Die Luxuslimousine kombiniert einen 2,0‑Liter‑Turbo mit E-Motor und bietet optional Lidar. Ein Europa-Start ist nicht geplant."

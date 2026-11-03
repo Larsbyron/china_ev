@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Audi RS 5 PHEV: V6-Biturbo mit 130-kW-E-Motor kommt'
 date: 2026-05-28T20:28:17.039Z
 description: >-

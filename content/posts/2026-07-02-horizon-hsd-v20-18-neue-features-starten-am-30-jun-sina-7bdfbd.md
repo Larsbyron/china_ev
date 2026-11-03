@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Horizon HSD V2.0: 18 neue Features starten am 30. Juni im iCAR V27"
 date: 2026-07-02T12:10:55.264Z
 description: "Horizon Robotics veröffentlicht das bislang größte OTA‑Update für sein Fahrassistenzsystem HSD. V2.0 bringt 18 neue Funktionen, basiert auf Weltmodell und Reinforcement Learning. Der iCAR V27 erhält das Update ab 30. Juni 2025."

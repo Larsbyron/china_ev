@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Lynk & Co 07GT: MagneRide-Kombi ab 21.200 €"
 date: 2026-07-03T10:45:12.820Z
 description: "Lynk & Co bringt den 07GT als Hochleistungs-Kombi mit MagneRide-Fahrwerk. Preis in China: ab ca. 21.200 €. Limitierte Edition sofort ausverkauft. Marktstart in China."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "AIVA: Neue KI-Automarke startet ab 25.600 €"
 date: 2026-06-11T06:46:54.492Z
 description: "Die chinesische Marke AIVA präsentiert mit dem Konzept AIVA Origin Concept und dem Serienmodell AIVA ME7 ihre Vision eines KI-definierten Autos. Preislich ab ca. 25.600 €."

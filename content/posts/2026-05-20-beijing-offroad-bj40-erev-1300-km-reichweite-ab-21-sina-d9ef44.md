@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Beijing Off‑road BJ40 EREV: 1.300 km Reichweite ab 21. Mai'
 date: 2026-05-20T20:05:53.063Z
 description: >-

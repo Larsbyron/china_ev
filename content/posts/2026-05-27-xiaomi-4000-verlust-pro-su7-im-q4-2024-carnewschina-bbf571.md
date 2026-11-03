@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Xiaomi: 4.000 € Verlust pro SU7 im Q4 2024'
 date: 2026-05-27T20:07:34.882Z
 description: >-

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Fiktivmeldung: Xiaomi YU7 GT existiert nicht"
 date: 2026-06-22T20:37:42.225Z
 description: "Die Redaktion hat den Artikel geprüft. Er basiert auf frei erfundenen Fakten zu einem nicht existierenden Modell und wird nicht veröffentlicht. Stattdessen folgt eine Richtigstellung."

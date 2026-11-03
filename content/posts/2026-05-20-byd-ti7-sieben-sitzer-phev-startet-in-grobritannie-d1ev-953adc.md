@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BYD Ti7: Sieben-Sitzer-PHEV startet in Großbritannien'
 date: 2026-05-20T20:07:57.554Z
 description: >-

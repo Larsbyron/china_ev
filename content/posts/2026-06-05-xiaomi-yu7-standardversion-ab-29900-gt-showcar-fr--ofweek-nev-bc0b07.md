@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi YU7: Standardversion ab 29.900 €, GT-Showcar für 49.900 €"
 date: 2026-06-05T19:45:29.186Z
 description: "Xiaomi (小米) komplettiert die YU7-Baureihe mit fünf Versionen. Die Standardvariante kostet umgerechnet ab 29.900 € und bietet 643 km CLTC-Reichweite – der GT ist mit 49.900 € das teure Spitzenmodell für die Schaufenster."

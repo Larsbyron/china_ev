@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Chery & JLR: 1.300 Entwickler für neue Freelander-SUVs"
 date: 2026-06-01T06:49:36.851Z
 description: "Chery und Jaguar Land Rover eröffnen in Suzhou ein Forschungszentrum für die Luxus-EV-Marke Freelander. Der erste SUV Freelander 8 kommt 2025. Das Team wächst auf über 1.300 Ingenieure."

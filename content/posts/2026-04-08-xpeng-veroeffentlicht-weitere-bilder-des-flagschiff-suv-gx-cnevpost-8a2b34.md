@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'XPeng GX: Neue Bilder zeigen Luxus-SUV mit Range-Rover-Proportionen'
 date: 2026-04-08T10:15:00.000Z
 description: >-

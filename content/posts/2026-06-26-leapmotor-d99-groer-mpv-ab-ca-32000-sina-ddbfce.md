@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Leapmotor D99: Großer MPV ab ca. 32.000 €"
 date: 2026-06-26T06:04:52.629Z
 description: "Der Leapmotor D99 startet in China als BEV oder Range-Extender ab ca. 32.000 € (ca. 249.800 Yuan). Mit 5,3 m Länge, 700 km CLTC-Reichweite und Luxusausstattung zielt er auf den Toyota Alphard."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Qijing GT7: GAC-Huawei Shooting Brake ab 26.900 €"
 date: 2026-06-28T11:46:09.559Z
 description: "Das Joint Venture von GAC und Huawei eröffnet das erste Kundencenter in Hefei. Der GT7 Shooting Brake startet in drei Varianten zu Preisen ab ca. 26.900 €. Technische Daten stehen noch aus."

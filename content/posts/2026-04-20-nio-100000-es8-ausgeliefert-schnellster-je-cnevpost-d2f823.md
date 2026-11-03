@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Nio ES8: 100.000 Einheiten in Rekordzeit ausgeliefert'
 date: 2026-04-20T08:00:00.000Z
 description: >-

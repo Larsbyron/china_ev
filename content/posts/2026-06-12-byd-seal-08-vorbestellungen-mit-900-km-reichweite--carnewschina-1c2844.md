@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Seal 08: Vorbestellungen mit 900 km Reichweite gestartet"
 date: 2026-06-12T06:28:01.778Z
 description: "Das BYD-Flaggschiff Seal 08 geht in China in die Vorbestellung. Die Elektroversion bietet bis zu 900 km CLTC (ca. 770 km WLTP), 3,3 s auf 100 km/h und 800-Volt-Technik. Ein Europa-Start ist nicht absehbar."

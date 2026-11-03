@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "XPeng Mona L03 mit 650 km CLTC-Reichweite vorgestellt"
 date: 2026-06-30T12:07:05.155Z
 description: "XPeng Mona L03: Kompaktes Crossover-SUV mit bis zu 650 km CLTC-Reichweite startet in China. BEV- und EREV-Versionen. Europa-Expansion geplant."

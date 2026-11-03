@@ -40,6 +40,9 @@ export const articleFrontmatterSchema = z.object({
   brands: z.array(z.string()).default([]),
   tags: z.array(z.string()).default([]),
   draft: z.boolean().default(false),
+  // 2026-11-03 noindex 试点：默认不写 → 行为与之前完全一致。
+  // 只对 frontmatter 显式 noindex: true 的文章生效（文章页 meta + sitemap 排除）。
+  noindex: z.boolean().optional(),
   original_url: z.string().url({ message: 'original_url must be a valid URL' }),
   read_time_minutes: z.number().int().min(1).optional(),
   ev_model: z.string().optional(),

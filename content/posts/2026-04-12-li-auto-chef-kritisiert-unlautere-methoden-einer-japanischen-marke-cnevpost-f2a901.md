@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Li Auto Chef wirft japanischer Marke organkierte Online-Attacken vor
 date: 2026-04-12T18:00:00.000Z
 description: >-

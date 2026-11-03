@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Aistaland GT7: 768 PS und 900 km Reichweite ab 28.100 €"
 date: 2026-05-31T11:33:59.548Z
 description: "Der Aistaland GT7, ein Joint Venture von GAC und Huawei, startet in China ab ca. 28.100 €. Das Elektro-Shooting-Brake bietet bis zu 768 PS, 900 km CLTC-Reichweite und L3-Autonomie-Hardware – über 10.000 Vorbestellungen in fünf Stunden."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "GWM Wey V8X: 724 PS starkes Elektro-SUV für China"
 date: 2026-07-12T11:07:23.514Z
 description: "GWM hat das große vollelektrische SUV Wey V8X zur Zulassung angemeldet. Der Fünfsitzer bietet 724 PS, Allradantrieb und einen Lidar auf dem Dach – ein neuer Angriff im chinesischen Premium-BEV-Segment."

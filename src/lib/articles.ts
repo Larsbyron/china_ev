@@ -19,6 +19,7 @@ export interface Article {
   brands: string[]
   tags: string[]
   draft: boolean
+  noindex?: boolean
   original_url: string
   read_time_minutes: number
   ev_model?: string
@@ -41,6 +42,7 @@ export interface ArticleMeta {
   brands: string[]
   tags: string[]
   draft: boolean
+  noindex?: boolean
   original_url: string
   read_time_minutes: number
   ev_model?: string
@@ -134,6 +136,7 @@ export function parseMarkdownFile(filePath: string): Article | null {
       brands,
       tags: validated.tags,
       draft: validated.draft,
+      noindex: validated.noindex ?? false,
       original_url: validated.original_url,
       read_time_minutes: validated.read_time_minutes ?? calculateReadTime(content),
       ev_model: validated.ev_model,

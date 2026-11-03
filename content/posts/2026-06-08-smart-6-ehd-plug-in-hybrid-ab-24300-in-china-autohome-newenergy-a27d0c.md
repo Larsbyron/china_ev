@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "smart #6 EHD: Plug-in-Hybrid ab 24.300 € in China"
 date: 2026-06-08T06:31:06.330Z
 description: "Der smart #6 EHD (Plug-in-Hybrid) startet als Coupé-Limousine in China. Mit 320 kW Systemleistung und bis zu 285 km elektrischer Reichweite (CLTC) lockt er ab ca. 24.300 €."

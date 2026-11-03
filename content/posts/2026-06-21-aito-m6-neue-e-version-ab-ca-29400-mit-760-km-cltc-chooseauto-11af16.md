@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "AITO M6: Neue E-Version ab ca. 29.400 € mit 760 km CLTC"
 date: 2026-06-21T12:12:30.044Z
 description: "AITO bringt den M6 als reine Elektroversion ab ca. 29.400 € auf den Markt. Mit 800‑Volt-Plattform, Huawei‑Fahrassistenz und bis zu 760 km CLTC (ca. 646 km WLTP) spricht er junge Käufer an."

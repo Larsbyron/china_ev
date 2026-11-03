@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi Sky Nomad N90: Riesen-EREV-SUV mit Zelt ab 25.600 €"
 date: 2026-06-22T15:16:02.310Z
 description: "Xiaomi launcht Submarke Sky Nomad. Erstes Modell N90 ist ein vollgroßes EREV-SUV mit Dachzelt, über 1.500 km Reichweite und Preis ab ca. 25.600 € in China."

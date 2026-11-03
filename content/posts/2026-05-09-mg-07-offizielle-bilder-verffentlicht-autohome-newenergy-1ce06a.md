@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: MG 07 Offizielle Bilder veröffentlicht
 date: 2026-05-09T23:12:45.500Z
 description: >-

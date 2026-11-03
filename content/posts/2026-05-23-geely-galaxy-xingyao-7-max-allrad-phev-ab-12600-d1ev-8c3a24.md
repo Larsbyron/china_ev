@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Geely Galaxy Xingyao 7 MAX: Allrad-PHEV ab 12.600 €'
 date: 2026-05-23T19:02:32.382Z
 description: >-

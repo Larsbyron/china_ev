@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD baut mit Sinopec 20.000 Blitzladestationen"
 date: 2026-06-06T05:51:22.188Z
 description: "BYD (比亚迪) und Sinopec (中国石化) bündeln ihre Kräfte für ein ultraschnelles Ladenetz. Die zweite Generation der Blade-Batterie lädt in fünf Minuten von 10 auf 70 Prozent – bis Jahresende sollen 20.000 Stationen entstehen."

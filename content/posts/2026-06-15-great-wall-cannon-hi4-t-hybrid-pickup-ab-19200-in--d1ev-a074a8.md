@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Great Wall Cannon Hi4-T: Hybrid-Pickup ab 19.200 € in China"
 date: 2026-06-15T15:45:21.557Z
 description: "Great Wall bringt den Cannon Hi4-T als Plug-in-Hybrid-Pickup auf den chinesischen Markt. Der 310 kW starke Pickup ab ca. 19.200 € bietet bis zu 947 km WLTC-Reichweite und soll die typischen Schwächen von E-Pickups lösen."

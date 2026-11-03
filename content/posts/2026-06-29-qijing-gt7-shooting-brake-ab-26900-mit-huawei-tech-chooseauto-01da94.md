@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Qijing GT7: Shooting Brake ab 26.900 € mit Huawei-Technik"
 date: 2026-06-29T19:49:41.457Z
 description: "Der Qijing GT7 feierte am 26. Juni 2026 in Hangzhou Premiere – erstes Gemeinschaftsmodell von GAC und Huawei. Einstiegspreis: 209.900 Yuan (ca. 26.900 €). Serienmäßig mit adaptivem Fahrwerk und L3-Assistenz."

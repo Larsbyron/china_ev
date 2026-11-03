@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Dongfeng: 400-kW-Brennstoffzelle für 49-Tonner enthüllt'
 date: 2026-05-28T20:14:30.353Z
 description: >-

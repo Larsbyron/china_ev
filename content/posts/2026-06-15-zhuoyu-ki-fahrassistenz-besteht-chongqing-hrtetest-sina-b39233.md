@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Zhuoyu: KI-Fahrassistenz besteht Chongqing-Härtetest ohne lokale Daten"
 date: 2026-06-15T15:48:17.279Z
 description: "Zhuoyu Technology hat sein natives multimodales KI-Modell ohne lokale Anpassung in Chongqing getestet. Der MPV WenDao V9 wird erstmals mit Zhuoyus Cockpit-Fusion ausgestattet. Europa-Start für 2027 geplant."

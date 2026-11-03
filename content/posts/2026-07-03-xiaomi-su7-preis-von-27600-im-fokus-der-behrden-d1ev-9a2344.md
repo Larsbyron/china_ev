@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Xiaomi SU7: Preis von 27.600 € im Fokus der Behörden"
 date: 2026-07-03T10:39:24.961Z
 description: "Die chinesische Preisbehörde hat Xiaomi zu Preisstrategien bei E-Autos und Smartphones befragt. Ziel ist eine faire Wettbewerbsordnung im überhitzten Markt. Xiaomis Einstieg mit dem SU7 ab ca. 27.600 € hatte den Preiskampf weiter angeheizt."

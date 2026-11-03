@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'BJ40 EREV: 252 km elektrisch, 1.300 km gesamt'
 date: 2026-05-22T12:20:11.631Z
 description: >-

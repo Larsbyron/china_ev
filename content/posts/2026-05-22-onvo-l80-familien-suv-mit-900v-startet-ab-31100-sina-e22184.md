@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Onvo L80: Familien-SUV mit 900V startet ab 31.100 €'
 date: 2026-05-22T12:26:58.715Z
 description: >-

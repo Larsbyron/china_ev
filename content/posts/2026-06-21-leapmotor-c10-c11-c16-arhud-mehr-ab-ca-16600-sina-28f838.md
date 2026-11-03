@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Leapmotor C10, C11, C16: ARHUD & mehr ab ca. 16.600 €"
 date: 2026-06-21T06:54:34.471Z
 description: "Leapmotor aktualisiert die C-Serie mit ARHUD, größerem Display und Zero-Gravity-Sitzen – Preise bleiben stabil. Die Modelle C10, C11, C16 sind in China und Europa (NL, FR, BE) erhältlich, Deutschland folgt."

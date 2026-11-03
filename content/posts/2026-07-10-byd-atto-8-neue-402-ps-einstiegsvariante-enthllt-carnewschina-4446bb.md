@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Atto 8: Neue 402-PS-Einstiegsvariante enthüllt"
 date: 2026-07-10T19:24:09.075Z
 description: "BYD hat eine günstigere Einmotor-Version des großen Elektro-SUV Atto 8 (Tang L) registriert. Mit 300 kW (402 PS), LFP-Akku und 250 km/h Spitze soll sie neue Käufer anlocken. Die Karosserie ist 16 mm schmaler als die Topversion."

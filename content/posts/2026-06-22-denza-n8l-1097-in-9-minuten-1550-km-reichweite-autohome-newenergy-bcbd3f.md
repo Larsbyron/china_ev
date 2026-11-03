@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Denza N8L: 10–97 % in 9 Minuten, 1550 km Reichweite"
 date: 2026-06-22T20:38:07.236Z
 description: "Der Denza N8L Flash Charge kommt am 23. Juni 2025 in China auf den Markt. Der Plug-in-Hybrid lädt in 9 Minuten von 10 auf 97 % und bietet eine kombinierte Reichweite von 1.550 km (CLTC). Preis: ab ca. 44.800 €."

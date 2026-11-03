@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Peking Auto Show 2026: 9er-Flaggschiffe von BYD, Li Auto & Co."
 date: 2026-06-05T11:40:00.423Z
 description: "Auf der Peking Auto Show 2026 stellen sechs chinesische Marken ihre 9er-Flaggschiffe vor. Die Preise reichen von ca. 28.100 € (BYD D19) bis ca. 84.200 € (Luxeed ES9). Ein Europa-Start ist nicht geplant."

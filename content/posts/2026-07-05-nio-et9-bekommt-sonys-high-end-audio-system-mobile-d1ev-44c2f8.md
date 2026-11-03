@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "NIO ET9 bekommt Sonys High-End-Audio-System „Mobile ES“"
 date: 2026-07-05T06:01:12.031Z
 description: "Sony kündigt auf der Shanghai-Messe sein Premium-Car-Audio „Mobile ES“ an – erstmals verbaut im NIO ET9. Das System verspricht Hi-Res-Sound und aktive Geräuschunterdrückung ab 2026."

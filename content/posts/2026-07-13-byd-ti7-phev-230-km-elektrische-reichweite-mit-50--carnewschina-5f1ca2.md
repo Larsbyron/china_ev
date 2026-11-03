@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Ti7 PHEV: 230 km elektrische Reichweite mit 50-kWh-Akku"
 date: 2026-07-13T12:34:14.848Z
 description: "Der BYD Ti7 PHEV bekommt eine 50-kWh-LFP-Batterie für 230 km WLTC-Reichweite. Die Langstreckenvariante ist in China homologiert und kostet ab ca. 23.000 €."

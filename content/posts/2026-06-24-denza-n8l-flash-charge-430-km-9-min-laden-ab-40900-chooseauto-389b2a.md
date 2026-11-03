@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Denza N8L Flash Charge: 430 km, 9 Min. Laden, ab 40.900 €"
 date: 2026-06-24T06:02:10.679Z
 description: "Der neue Denza N8L Flash Charge startet in China ab ca. 40.900 €. Der Plug-in-Hybrid bietet 430 km rein elektrische Reichweite (CLTC) und soll in neun Minuten vollgeladen sein. Ein Europa-Start ist denkbar, aber nicht terminiert."

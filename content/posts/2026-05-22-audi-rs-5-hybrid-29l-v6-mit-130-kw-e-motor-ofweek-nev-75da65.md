@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Audi RS 5 Hybrid: 2,9l V6 mit 130-kW-E-Motor'
 date: 2026-05-22T12:23:21.993Z
 description: >-

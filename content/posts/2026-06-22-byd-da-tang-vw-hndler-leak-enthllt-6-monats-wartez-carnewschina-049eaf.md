@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BYD Da Tang: VW-Händler-Leak enthüllt 6-Monats-Wartezeit"
 date: 2026-06-22T15:19:36.852Z
 description: "Ein durchgesickertes VW-Händler-Training zeigt gezielte Verkaufsstrategien gegen BYDs Da Tang. Der Range-Extender mit 130 kWh Blade-Batterie erzeugt eine monatliche Nachfrage von 2,6 GWh – Lieferengpass bremst Produktion."

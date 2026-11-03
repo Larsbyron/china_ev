@@ -46,7 +46,7 @@ export function selectNewsArticles(
   const maxMs = nowMs + 5 * 60 * 1000
 
   return articles
-    .filter((a) => !a.draft)
+    .filter((a) => !a.draft && !a.noindex)
     .map((a) => ({ article: a, ts: Date.parse(a.date) }))
     .filter((x) => Number.isFinite(x.ts) && x.ts >= sinceMs && x.ts <= maxMs)
     .sort((a, b) => b.ts - a.ts)

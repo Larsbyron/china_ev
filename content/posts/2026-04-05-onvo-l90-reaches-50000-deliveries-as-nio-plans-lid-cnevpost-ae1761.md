@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'Onvo L90 erreicht 50.000 Auslieferungen, während Nio ein LiDAR-Upgrade plant'
 date: 2026-04-05T14:05:31.013Z
 description: >-

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Geely EX5: 166 PS mehr und Lidar für das Kompakt-SUV"
 date: 2026-06-11T14:03:06.035Z
 description: "Das überarbeitete Geely EX5 erhält einen deutlich stärkeren Elektromotor (329 PS) und erstmals einen Lidar-Sensor. Die Auslieferungen in China starteten 2025. Ein Europa-Start ist geplant."
