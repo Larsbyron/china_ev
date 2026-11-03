@@ -1,6 +1,7 @@
 ---
 title: "Leapmotor C10 in Deutschland: Preise, Reichweiten und Varianten im Überblick"
 date: 2026-06-12T06:29:17.210Z
+updated: 2026-11-03T00:00:00.000Z
 description: "C10 Pro, ProMax 800 V, AWD oder Hybrid EV: die offiziellen Preise und WLTP-Daten für Deutschland (Preisliste Stand 1. Oktober 2026) – alle Zahlen aus der Herstellerpreisliste, ohne Schätzwerte."
 source: "E-AUTOS Redaktion"
 image: "/images/leapmotor-c10-facelift-2027-660-km-reichweite-fr-c-autohome-newenergy-da69c2.webp"

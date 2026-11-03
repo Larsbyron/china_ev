@@ -165,7 +165,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               description: article.description,
               image: article.image ? [buildAbsoluteImageUrl(article.image, siteUrl)] : [],
               datePublished: article.date,
-              dateModified: article.date,
+              dateModified: article.updated ?? article.date,
               author: {
                 '@type': 'Person',
                 '@id': `${siteUrl}${AUTHOR.url}`,
@@ -237,6 +237,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 <time className={styles.date} dateTime={article.date}>
                   {formatDate(article.date)}
                 </time>
+                {article.updated && (
+                  <span className={styles.date}>
+                    Zuletzt aktualisiert: <time dateTime={article.updated}>{formatDate(article.updated)}</time>
+                  </span>
+                )}
                 <span className={styles.readTime}>
                   {article.read_time_minutes} Min. Lesezeit
                 </span>

@@ -40,6 +40,11 @@ export const articleFrontmatterSchema = z.object({
   brands: z.array(z.string()).default([]),
   tags: z.array(z.string()).default([]),
   draft: z.boolean().default(false),
+  // 2026-11-03 内容重写用：原发布日期不变，另记最后更新时间。
+  updated: z
+    .union([z.string(), z.date()])
+    .transform((v) => (v instanceof Date ? v.toISOString() : v))
+    .optional(),
   // 2026-11-03 noindex 试点：默认不写 → 行为与之前完全一致。
   // 只对 frontmatter 显式 noindex: true 的文章生效（文章页 meta + sitemap 排除）。
   noindex: z.boolean().optional(),
