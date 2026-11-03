@@ -44,9 +44,10 @@ jobs:
           # 回滚：删这一行（或设 high）。
           # 每轮最多 3 篇（2026-10-23 老大定）：站点已有 3,200+ 篇近重复机器翻译稿，
           # GSC 实测 28 天 1 点击 / 369 曝光 → 瓶颈是曝光与内容独特性，不是产量。
-          # 代码默认也是 3（src/lib/scraper/publish-quota.ts），这里写明是为了让限制可见、
-          # 且改动不需要动代码。要放开就改这个数字，别删。
-          MAX_ARTICLES_PER_RUN: '3'
+          # 2026-11-03 老大拍板：降到「每天 3 篇」（3 次 workflow × 每轮 1 篇），
+          # 理由：GSC 28d 仅 2 点击 / 142 曝光，1,877 页「已发现未编入索引」，
+          # 继续堆量只会加大索引负债。产能转原创。回滚 = 把 '1' 改回 '3'。
+          MAX_ARTICLES_PER_RUN: '1'
           TRANSLATION_REASONING_EFFORT: low
         run: npx tsx scripts/fetch-translate.ts
 
