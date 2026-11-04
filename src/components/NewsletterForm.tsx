@@ -40,7 +40,7 @@ export default function NewsletterForm() {
   if (status === 'success') {
     return (
       <div className={styles.success} role="status">
-        Danke fuer deine Anmeldung! Du erhaelst bald eine Bestaetigung.
+        Fast geschafft: Wir haben dir eine Bestätigungsmail geschickt. Bitte klicke auf den Link darin — erst dann bist du angemeldet.
       </div>
     )
   }

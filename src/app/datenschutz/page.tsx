@@ -168,6 +168,31 @@ export default function DatenschutzPage() {
           nach Art. 6 Abs. 1 lit. f DSGVO; dieser Verarbeitung können Sie nach
           Art. 21 DSGVO widersprechen.
         </p>
+        <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
+          10. Newsletter
+        </h2>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Wenn Sie unseren Newsletter abonnieren, verarbeiten wir Ihre
+          E-Mail-Adresse zum Zweck des Versands. Die Anmeldung erfolgt im
+          Double-Opt-in-Verfahren: Sie erhalten zunächst eine Bestätigungsmail;
+          erst nach Klick auf den darin enthaltenen Link wird Ihre Adresse in
+          unsere Empfängerliste aufgenommen. Ohne Bestätigung löschen wir die
+          Adresse nach 48 Stunden. Rechtsgrundlage ist Ihre Einwilligung nach
+          Art. 6 Abs. 1 lit. a DSGVO. Sie können diese Einwilligung jederzeit
+          mit Wirkung für die Zukunft widerrufen – über den Abmeldelink in jeder
+          Newsletter-E-Mail oder per E-Mail an die im Impressum genannte
+          Adresse.
+        </p>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Für den Versand nutzen wir den Dienst Resend (Resend, Inc., USA) als
+          Auftragsverarbeiter; dabei wird Ihre E-Mail-Adresse an Resend
+          übermittelt. Die Übermittlung in die USA erfolgt nach Angaben des
+          Anbieters auf Grundlage der Standardvertragsklauseln nach Art. 46
+          Abs. 2 DSGVO. Weitere Informationen finden Sie in der{' '}
+          <a href="https://resend.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">
+            Datenschutzerklärung von Resend
+          </a>.
+        </p>
       </main>
 
       <SiteFooter />
