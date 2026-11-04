@@ -24,8 +24,8 @@ Der chinesische Hersteller Zeekr (极氪) erweitert sein Flaggschiff‑SUV 9X um
 
 - Maße (L/B/H): 5.239 / 2.029 / 1.819 mm, Radstand 3.169 mm (32 mm länger, 75 mm breiter, 4 mm niedriger als ein Mercedes‑Benz GLS)
 - Antrieb: Plug‑in‑Hybrid (PHEV) mit 2,0‑Liter‑Turbobenziner und zwei E‑Motoren, Systemleistung 660 kW (897 PS), 0–100 km/h in 3,9 s
-- Batterieoptionen: 55 kWh (300 km CLTC – ca. 255 km WLTP‑Schätzwert) oder 70 kWh (380 km CLTC – ca. 323 km WLTP)
-- Topversion (Tri‑Motor): 1.030 kW (1.400 PS), 0–100 km/h in 3,1 s, elektrische Reichweite 355 km (CLTC – ca. 302 km WLTP)
+- Batterieoptionen: 55 kWh (300 km CLTC) oder 70 kWh (380 km CLTC) – nicht direkt mit WLTP vergleichbar
+- Topversion (Tri‑Motor): 1.030 kW (1.400 PS), 0–100 km/h in 3,1 s, elektrische Reichweite 355 km (CLTC, nicht direkt mit WLTP vergleichbar)
 - Serienausstattung: G‑ASD H9 Fahrassistenzsystem (1.400 TOPS), aktive 48‑Volt‑Wankstabilisierung, Zweikammer‑Luftfederung
 
 ## Marktposition und Europapläne
@@ -35,7 +35,7 @@ Zeekr gibt an, dass der 9X das Premium‑SUV‑Segment in China sieben Monate in
 Eine Europa‑Expansion ist fest eingeplant: Das Modell soll bis Ende 2026 auch in Europa auf den Markt kommen.
 
 *Hinweis: Preise beziehen sich auf den chinesischen Markt und können in Europa abweichen.*  
-*Hinweis: CLTC (chinesischer Verbrauchszyklus, typischerweise 10–15 % höher als WLTP)*
+*Hinweis: CLTC (chinesischer Verbrauchszyklus) liegt je nach Fahrzeug typischerweise 15–25 % über WLTP; die Werte sind nicht direkt vergleichbar, ein pauschaler Umrechnungsfaktor ist nicht belastbar.*
 
 ---
 

@@ -66,7 +66,7 @@ Der Magazin deckt ab:
 2. **Nachrichtenwert**: Enthält der Artikel genügend konkrete Informationen (Zahlen, Daten, Fakten)? Ist er für deutsche Autofahrer relevant? Verdient er Veröffentlichung?
 3. **Titelattraktivität**: Enthält der Titel Markenname + konkreten Wert (Preis, Reichweite, PS, Datum)? Ist er ≤ 60 Zeichen? Neu formuliert statt direkt übersetzt?
 4. **Struktur & Layout**: Sinnvolle Absätze (2-4 Sätze)? H2-Zwischenüberschriften alle ~3 Absätze? Technische Specs als Liste? 5W-Erstabsatz?
-5. **Faktenprüfung**: Preisumrechnung korrekt (1 元 = 0,128 €, auf 100 € gerundet)? CLTC-Reichweite mit Hinweis versehen? Keine offensichtlichen Zahlenfehler?
+5. **Faktenprüfung**: Preisumrechnung korrekt (1 元 = 0,128 €, auf 100 € gerundet)? CLTC-Wert wörtlich genannt und **nicht** in WLTP umgerechnet? Keine offensichtlichen Zahlenfehler?
 
 ## BEWERTUNGSREGELN
 - Jedes Kriterium 1 (mangelhaft) bis 5 (hervorragend)

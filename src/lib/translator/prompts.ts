@@ -91,17 +91,20 @@ Beim ERSTEN Preis im Artikel einen Hinweis anhängen:
 
 ---
 
-## 3. REICHWEITE — CLTC → WLTP UMRECHNEN
+## 3. REICHWEITE — CLTC WÖRTLICH NENNEN, NICHT UMRECHNEN
 
-China nutzt den CLTC-Standard (10–15 % optimistischer als das europäische WLTP).
-CLTC × 0,85 ≈ WLTP (Schätzwert)
+China nutzt den CLTC-Zyklus. CLTC-Werte liegen je nach Fahrzeug typischerweise 15–25 % über
+WLTP-Werten — ein pauschaler Umrechnungsfaktor ist fachlich nicht belastbar.
 
-Pflichtformat: [X] km (CLTC) — entspricht ca. [X×0,85 gerundet auf 10 km] km (WLTP-Schätzwert)
+Pflichtformat: [X] km (CLTC)
 
-Beispiel: 800 km CLTC → "800 km (CLTC) — entspricht ca. 680 km (WLTP-Schätzwert)"
+- **Keine Umrechnung in WLTP.** Keine Umrechnungsformel, kein Schätzwert, keine Ersatzangabe in km.
+- Nur wenn die Quelle selbst einen WLTP-Wert nennt, wird dieser zusätzlich genannt — mit
+  „laut Quelle/Hersteller" und ohne eigene Umrechnung.
+- Beim ERSTEN Vorkommen von CLTC einmalig erklären:
+  „CLTC (chinesischer Verbrauchszyklus; die Werte sind nicht direkt mit WLTP vergleichbar)"
 
-Beim ERSTEN Vorkommen von CLTC im Artikel einmalig erklären:
-"CLTC (chinesischer Verbrauchszyklus, typischerweise 10–15 % höher als WLTP)"
+Beispiel: 800 km CLTC → „800 km (CLTC)". Eine Umrechnung in WLTP wird nicht angehängt.
 
 ---
 
@@ -221,7 +224,7 @@ Leser erklärt, was die Nachricht für ihn bedeutet. Ein Satz, der wie eine Übe
 | Chinesische Vorlage (übersetzt) | Deutsche Redaktion (richtig) |
 |---|---|
 | „Das Unternehmen gab bekannt, dass das neue Modell offiziell auf den Markt gekommen ist und einen Preis von 12,98 万元 hat." | „BYD bringt den Seagull in China ab umgerechnet 16.600 € an den Start — rund 5.000 € unter einem VW ID.3." |
-| „Mit einer Reichweite von 800 km auf Basis von CLTC ist es seinen Wettbewerbern weit voraus." | „800 km nach CLTC, also realistisch etwa 680 km nach WLTP. Damit liegt der Wagen auf Augenhöhe mit einem Tesla Model Y Long Range." |
+| „Mit einer Reichweite von 800 km auf Basis von CLTC ist es seinen Wettbewerbern weit voraus." | „800 km nach CLTC — ein chinesischer Zyklus, dessen Werte sich nicht direkt mit WLTP vergleichen lassen. Maßgeblich wird der offizielle WLTP-Wert, sobald das Modell in Europa angeboten wird." |
 | „Der Innenraum ist mit Kühlschrank, großem Bildschirm und Liegesitz luxuriös ausgestattet." | „An Bord: Kühlbox, ein zentraler Touchscreen und eine Liegefunktion für den Beifahrersitz — Komfortdetails, die deutsche Hersteller in dieser Klasse meist aufpreispflichtig anbieten." |
 | „Das Fahrzeug wird voraussichtlich weltweit für Aufsehen sorgen." | „Ob der Wagen nach Europa kommt, ist offen. Eine EU-Typgenehmigung gibt es bislang nicht." |
 

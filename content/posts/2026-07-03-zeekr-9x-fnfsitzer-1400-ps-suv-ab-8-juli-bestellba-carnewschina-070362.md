@@ -25,14 +25,14 @@ Zeekr (极氪) bringt eine fünfsitzige Version seines Flaggschiffs 9X auf den M
 
 Der 9X ist ein Full-Size-SUV mit 5.239 mm Länge, 2.029 mm Breite und 1.819 mm Höhe bei einem Radstand von 3.169 mm. Damit ist er 32 mm länger, 75 mm breiter und 4 mm flacher als ein Mercedes-Benz GLS. Serienmäßig kommt ein Plug-in-Hybrid (PHEV) mit einem 2‑Liter-Verbrenner und zwei E‑Motoren zum Einsatz. Die Systemleistung beträgt 660 kW (885 PS). Der Sprint von 0 auf 100 km/h gelingt in 3,9 Sekunden. Zwei Batterieoptionen stehen zur Wahl:
 
-- 55 kWh – rein elektrische Reichweite 300 km (CLTC) – entspricht ca. 255 km (WLTP-Schätzwert)
-- 70 kWh – rein elektrische Reichweite 380 km (CLTC) – entspricht ca. 323 km (WLTP-Schätzwert)
+- 55 kWh – rein elektrische Reichweite 300 km (CLTC)
+- 70 kWh – rein elektrische Reichweite 380 km (CLTC)
 
-*Anmerkung: CLTC ist der chinesische Verbrauchszyklus, der typischerweise 10–15 % höher liegt als das europäische WLTP.*
+*Anmerkung: CLTC ist der chinesische Verbrauchszyklus. Er liegt je nach Fahrzeug typischerweise 15–25 % über dem europäischen WLTP; die Werte sind deshalb nicht direkt mit WLTP-Angaben vergleichbar. Ein pauschaler Umrechnungsfaktor ist nicht belastbar – wir nennen hier bewusst keinen WLTP-Schätzwert.*
 
 ## Spitzenversion: Tri-Motor mit 1.400 PS
 
-Die Topversion des 9X setzt auf einen Tri-Motor-Antrieb mit 1.030 kW (1.400 PS). Damit sprintet der 2,7‑Tonner in 3,1 Sekunden auf 100 km/h und schafft 355 km rein elektrisch (CLTC) – ca. 302 km (WLTP). Weitere Highlights sind das Fahrassistenzsystem G‑ASD H9 mit 1.400 TOPS Rechenleistung, eine aktive 48V‑Wankstabilisierung und eine Zweikammer‑Luftfederung. Optisch unterscheidet sich die fünfsitzige Variante laut Zeekr kaum von der sechssitzigen Basis.
+Die Topversion des 9X setzt auf einen Tri-Motor-Antrieb mit 1.030 kW (1.400 PS). Damit sprintet der 2,7‑Tonner in 3,1 Sekunden auf 100 km/h und schafft 355 km rein elektrisch (CLTC, nicht direkt mit WLTP vergleichbar). Weitere Highlights sind das Fahrassistenzsystem G‑ASD H9 mit 1.400 TOPS Rechenleistung, eine aktive 48V‑Wankstabilisierung und eine Zweikammer‑Luftfederung. Optisch unterscheidet sich die fünfsitzige Variante laut Zeekr kaum von der sechssitzigen Basis.
 
 ## Konkurrenz im Segment der großen Fünfsitzer – Europa-Perspektive
 
