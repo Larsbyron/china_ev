@@ -32639,3 +32639,30 @@
 {"ts":"2026-11-04T16:58:18.503Z","source":"CarNewsChina","title":"Buick Electra GS: PHEV-Limousine ab 12.800 € für China","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-11-04T16:58:20.201Z","source":"CarNewsChina","title":"Buick Electra GS: PHEV-Limousine ab 12.800 € für China","action":"published","translation_ok":true}
 {"ts":"2026-11-04T16:58:20.210Z","source":"CarNewsChina","title":"Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-04T22:30:22.567Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T22:30:22.571Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T22:30:22.577Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T22:30:22.580Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T22:30:22.584Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T22:30:22.587Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T22:30:22.591Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T22:30:22.595Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T22:30:23.393Z","source":"Autohome NewEnergy","title":"全新国产宝马3系长轴距版申报图曝光","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-04T22:30:25.497Z","source":"ChooseAuto","title":"8.99 万拿下方盒子！捷途全新自由者 7，家用、户外两头抓","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T22:30:25.497Z","source":"ChooseAuto","title":"阅己悦家越自由丨全球家用大方盒全新自由者7上市，限时焕新价8.99万元起","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T22:30:25.497Z","source":"ChooseAuto","title":"阅己悦家越自由 捷途自由者7解锁普通人的山野出行梦","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T22:30:25.501Z","source":"ChooseAuto","title":"自由者系再添猛将，全新自由者7限时焕新价8.99万元起！","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-04T22:30:26.479Z","source":"D1EV","title":"法拉利上调2026年全年业绩指引 第三季度业绩超预期","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T22:30:26.481Z","source":"D1EV","title":"增程“井喷”、纯电向千伏平台跃迁 ——“中国心”2026年度十佳新能源汽车动力系统实车测试高邮开测","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-04T22:30:35.891Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5677,"completion_tokens":2728,"cache_hit_tokens":3840,"cache_miss_tokens":1837,"reasoning_chars":3354,"content_chars":4696}
+{"ts":"2026-11-04T22:30:52.650Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2297,"completion_tokens":3185,"reasoning_chars":7479,"content_chars":2171}
+{"ts":"2026-11-04T22:30:52.650Z","source":"CarNewsChina","title":"Jetour T1: Chery-SUV ab 11.500 € mit 150 km E-Reichweite","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-04T22:30:53.193Z","source":"Sina","title":"大众汽车集团（中国）携七款重磅车型及最新技术成果亮相进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T22:30:53.193Z","source":"Sina","title":"蔚来10月交付新车34246台","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T22:30:53.193Z","source":"Sina","title":"吉利汽车10月销量310183辆 环比增长6%","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T22:30:53.198Z","source":"Sina","title":"大众汽车集团（中国）携七款重磅车型及最新技术成果亮相进博会","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-04T22:31:17.259Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":7120,"completion_tokens":5022,"cache_hit_tokens":3968,"cache_miss_tokens":3152,"reasoning_chars":9657,"content_chars":4614}
+{"ts":"2026-11-04T22:31:25.242Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2276,"completion_tokens":1602,"reasoning_chars":3550,"content_chars":943}
+{"ts":"2026-11-04T22:31:25.242Z","source":"CarNewsChina","title":"Chery Jetour T1: ab 14.600 €, 150 km (CLTC) E-Reichweite","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-04T22:31:28.412Z","source":"CarNewsChina","title":"Chery Jetour T1: ab 14.600 €, 150 km (CLTC) E-Reichweite","action":"published","translation_ok":true}
+{"ts":"2026-11-04T22:31:28.419Z","source":"CarNewsChina","title":"Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize","action":"skipped_quota","translation_ok":true}
