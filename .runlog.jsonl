@@ -32611,3 +32611,31 @@
 {"ts":"2026-11-03T22:16:15.382Z","source":"CarNewsChina","title":"BYD Fang Cheng Bao: 600.000 Verkäufe, Ti 9 ab 51.200 €","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-11-03T22:16:17.049Z","source":"CarNewsChina","title":"BYD Fang Cheng Bao: 600.000 Verkäufe, Ti 9 ab 51.200 €","action":"published","translation_ok":true}
 {"ts":"2026-11-03T22:16:17.055Z","source":"CarNewsChina","title":"China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-04T16:57:23.279Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T16:57:23.287Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T16:57:23.293Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T16:57:23.299Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T16:57:23.306Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T16:57:23.316Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T16:57:23.322Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T16:57:23.328Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-04T16:57:24.814Z","source":"Autohome NewEnergy","title":"全新国产宝马3系长轴距版申报图曝光","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-04T16:57:27.228Z","source":"D1EV","title":"法拉利上调2026年全年业绩指引 第三季度业绩超预期","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T16:57:27.233Z","source":"D1EV","title":"增程“井喷”、纯电向千伏平台跃迁 ——“中国心”2026年度十佳新能源汽车动力系统实车测试高邮开测","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-04T16:57:32.453Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5200,"completion_tokens":1362,"cache_hit_tokens":1152,"cache_miss_tokens":4048,"reasoning_chars":1552,"content_chars":2988}
+{"ts":"2026-11-04T16:57:33.151Z","source":"ChooseAuto","title":"8.99 万拿下方盒子！捷途全新自由者 7，家用、户外两头抓","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T16:57:33.151Z","source":"ChooseAuto","title":"阅己悦家越自由 捷途自由者7解锁普通人的山野出行梦","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T16:57:33.152Z","source":"ChooseAuto","title":"自由者系再添新成员，全新自由者7上市8.99万起享8重礼","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T16:57:33.152Z","source":"ChooseAuto","title":"上市限时焕新价7.68万元起！银河星耀6 E-fuel刷新主流A级家轿价值标准","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T16:57:33.158Z","source":"ChooseAuto","title":"阅己悦家越自由丨全球家用大方盒全新自由者7上市，限时焕新价8.99万元起","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-04T16:57:53.152Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1649,"completion_tokens":3772,"reasoning_chars":10147,"content_chars":2317}
+{"ts":"2026-11-04T16:57:53.153Z","source":"CarNewsChina","title":"Buick Electra GS: GM startet Plug-in-Hybrid-Limousine in China","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-04T16:57:58.517Z","source":"Sina","title":"大众汽车集团（中国）携七款重磅车型及最新技术成果亮相进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T16:57:58.517Z","source":"Sina","title":"吉利汽车10月销量310183辆 环比增长6%","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T16:57:58.517Z","source":"Sina","title":"蔚来10月交付新车34246台","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-04T16:57:58.523Z","source":"Sina","title":"大众汽车集团（中国）携七款重磅车型及最新技术成果亮相进博会","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-04T16:58:10.581Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6566,"completion_tokens":3394,"cache_hit_tokens":3840,"cache_miss_tokens":2726,"reasoning_chars":7684,"content_chars":3530}
+{"ts":"2026-11-04T16:58:18.503Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1809,"completion_tokens":1270,"reasoning_chars":3901,"content_chars":702}
+{"ts":"2026-11-04T16:58:18.503Z","source":"CarNewsChina","title":"Buick Electra GS: PHEV-Limousine ab 12.800 € für China","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-04T16:58:20.201Z","source":"CarNewsChina","title":"Buick Electra GS: PHEV-Limousine ab 12.800 € für China","action":"published","translation_ok":true}
+{"ts":"2026-11-04T16:58:20.210Z","source":"CarNewsChina","title":"Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize","action":"skipped_quota","translation_ok":true}
