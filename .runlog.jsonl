@@ -32666,3 +32666,32 @@
 {"ts":"2026-11-04T22:31:25.242Z","source":"CarNewsChina","title":"Chery Jetour T1: ab 14.600 €, 150 km (CLTC) E-Reichweite","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-11-04T22:31:28.412Z","source":"CarNewsChina","title":"Chery Jetour T1: ab 14.600 €, 150 km (CLTC) E-Reichweite","action":"published","translation_ok":true}
 {"ts":"2026-11-04T22:31:28.419Z","source":"CarNewsChina","title":"Nio’s 925V motor packs 19 kW/kg and doubles as a 200 kW charger to take top engineering prize","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-05T17:12:24.872Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-05T17:12:24.883Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-05T17:12:24.888Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-05T17:12:24.892Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-05T17:12:24.898Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-05T17:12:24.902Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-05T17:12:24.910Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-05T17:12:24.915Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-05T17:12:27.087Z","source":"Autohome NewEnergy","title":"新款极氪7X开启预售","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-05T17:12:30.628Z","source":"ChooseAuto","title":"搭载百万级超跑同源磁流变悬架：第二代海豹07上市，超级置换价13.59万起","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-05T17:12:30.628Z","source":"ChooseAuto","title":"C级全享座驾 比亚迪第二代海豹07上市 超级置换价13.59万元起","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-05T17:12:30.628Z","source":"ChooseAuto","title":"首搭百万级悬架 比亚迪第二代海豹07上市 超级置换价13.59万元起","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-05T17:12:30.634Z","source":"ChooseAuto","title":"C级全享座驾 比亚迪第二代海豹07上市 超级置换价13.59万元起","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-05T17:12:32.800Z","source":"D1EV","title":"智驾大赛积分榜（2026年10月）","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-05T17:12:39.125Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5678,"completion_tokens":2952,"cache_hit_tokens":3840,"cache_miss_tokens":1838,"reasoning_chars":3391,"content_chars":4821}
+{"ts":"2026-11-05T17:12:40.140Z","source":"Sina","title":"宝马集团携新世代成果亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-05T17:12:40.140Z","source":"Sina","title":"通用汽车携凯迪拉克品牌亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-05T17:12:40.141Z","source":"Sina","title":"蔚来ES8成为第九届进博会VIP官方指定用车","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-05T17:12:40.146Z","source":"Sina","title":"奥迪创新技术中心开业：AUDI迈向AI定义汽车时代","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-05T17:12:51.633Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2270,"completion_tokens":2026,"reasoning_chars":2990,"content_chars":2834}
+{"ts":"2026-11-05T17:12:51.634Z","source":"CarNewsChina","title":"BYD Seal 07 startet ab 17.900 € mit 775 km CLTC","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-05T17:13:14.335Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":7222,"completion_tokens":4257,"cache_hit_tokens":3968,"cache_miss_tokens":3254,"reasoning_chars":8277,"content_chars":5435}
+{"ts":"2026-11-05T17:13:34.800Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2473,"completion_tokens":3611,"reasoning_chars":8371,"content_chars":2917}
+{"ts":"2026-11-05T17:13:34.800Z","source":"CarNewsChina","title":"BYD Seal 07 EV: 775 km CLTC ab umgerechnet 19.200 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-05T17:14:05.275Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":7226,"completion_tokens":6053,"cache_hit_tokens":3968,"cache_miss_tokens":3258,"reasoning_chars":13508,"content_chars":5184}
+{"ts":"2026-11-05T17:14:41.502Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2439,"completion_tokens":6646,"reasoning_chars":18853,"content_chars":3739}
+{"ts":"2026-11-05T17:14:41.503Z","source":"CarNewsChina","title":"BYD Seal 07 EV: 775 km CLTC für ca. 19.200 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-05T17:14:41.505Z","source":"CarNewsChina","title":"BYD Seal 07 EV: 775 km CLTC für ca. 19.200 €","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-11-05T17:14:41.514Z","source":"CarNewsChina","title":"GAC’s 99.03% efficient Quark 2.0 drive takes first prize in China’s 2026 engineering awards","action":"skipped_quota","translation_ok":true}
