@@ -74,7 +74,8 @@ export default function DatenschutzPage() {
           Datenschutz bei Vercel finden Sie in der{' '}
           <a href="https://vercel.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">
             Datenschutzerklärung von Vercel
-          </a>.
+          </a>{' '}
+          (Einzelheiten zur Übermittlung in die USA unter Ziffer 11).
         </p>
 
         <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
@@ -126,26 +127,57 @@ export default function DatenschutzPage() {
           </a>.
         </p>
         <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Für Anzeigen aus dem AdSense-Programm handeln Sie und Google nach den
+          Google Ads Controller-Controller Data Protection Terms als
+          voneinander unabhängige Verantwortliche; Google ist insoweit nicht
+          unser Auftragsverarbeiter. Wie Google Informationen aus Websites
+          verarbeitet, die seine Dienste nutzen, beschreibt Google unter{' '}
+          <a href="https://business.safety.google/privacy/" target="_blank" rel="noopener noreferrer">
+            business.safety.google/privacy
+          </a>.
+        </p>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
           Für die Einholung Ihrer Einwilligung setzen wir die von Google
           bereitgestellte, nach IAB TCF zertifizierte Consent-Management-Plattform
-          („Funding Choices“, CMP-ID 300) ein. Solange Sie keine Wahl getroffen
-          haben, werden über unsere Seiten keine Anzeigen ausgeliefert. Wenn Sie
-          die Verwendung von Cookies für personalisierte Werbung ablehnen,
-          können Ihnen dennoch nicht personalisierte Anzeigen ausgeliefert
-          werden. Rechtsgrundlage der Datenverarbeitung ist insoweit unser
-          berechtigtes Interesse an der Finanzierung dieses Angebots nach Art. 6
-          Abs. 1 lit. f DSGVO, dem Sie nach Art. 21 DSGVO widersprechen können;
-          das Speichern und Abrufen von Informationen auf Ihrem Endgerät stützen
-          wir auf Ihre Einwilligung nach § 25 Abs. 1 TDDDG oder, soweit
-          technisch unbedingt erforderlich, auf die Ausnahme nach § 25 Abs. 2
-          TDDDG. Sie können Ihre Einwilligung jederzeit mit Wirkung für die
-          Zukunft ändern oder widerrufen – über den Link
-          „Datenschutz-Einstellungen“ in der Fußzeile jeder Seite öffnet sich das
-          Auswahlfenster erneut. Sollte sich dieses Fenster bei Ihnen nicht
-          öffnen (etwa weil ein Werbeblocker die Skripte von Google unterbindet),
-          können Sie Ihre Einwilligung auch per E-Mail an die im Impressum
-          genannte Adresse widerrufen. Die Personalisierung von Werbeanzeigen in
-          Ihrem Google-Konto können Sie zudem jederzeit über die{' '}
+          („Datenschutz und Mitteilungen“, früher „Funding Choices“, CMP-ID 300)
+          ein. Solange Sie keine Wahl getroffen haben, werden über unsere Seiten
+          keine Anzeigen ausgeliefert. Wenn Sie die Verwendung von Cookies für
+          personalisierte Werbung ablehnen, können Ihnen dennoch nicht
+          personalisierte Anzeigen mit eingeschränktem Targeting ausgeliefert
+          werden. Diese richten sich nicht nach Ihrem früheren Verhalten,
+          sondern nach Kontextsignalen wie einer groben geografischen Zuordnung.
+          Nach Angaben von Google werden dabei aber weiterhin Cookies oder
+          vergleichbare Kennungen eingesetzt – insbesondere zur Begrenzung der
+          Anzeigenhäufigkeit (Frequency Capping) und für aggregierte
+          Werbeberichte –, und für diese Verwendung verlangt Google im EWR eine
+          Einwilligung.
+        </p>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Das Speichern von Informationen auf Ihrem Endgerät und das Auslesen
+          daraus im Zusammenhang mit AdSense erfolgt auf Grundlage Ihrer
+          Einwilligung nach § 25 Abs. 1 TDDDG. Soweit Anzeigen ausgeliefert
+          werden, stützen wir die damit verbundene Verarbeitung auf Ihre
+          Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO; soweit keine
+          Einwilligung vorliegt, auf unser berechtigtes Interesse an der
+          Finanzierung dieses Angebots nach Art. 6 Abs. 1 lit. f DSGVO, dem Sie
+          nach Art. 21 DSGVO widersprechen können.
+        </p>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Unabhängig von der Werbeeinwilligung speichern wir Ihre gewählte
+          Darstellung (hell/dunkel) und die Kennzeichnung bereits reagierter
+          Artikel im lokalen Speicher Ihres Browsers. Dies ist für die von Ihnen
+          ausdrücklich gewünschte Funktion unbedingt erforderlich und daher nach
+          § 25 Abs. 2 Nr. 2 TDDDG einwilligungsfrei.
+        </p>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft
+          ändern oder widerrufen – über den Link „Datenschutz-Einstellungen“ in
+          der Fußzeile jeder Seite öffnet sich das Auswahlfenster erneut. Sollte
+          sich dieses Fenster bei Ihnen nicht öffnen (etwa weil ein Werbeblocker
+          die Skripte von Google unterbindet), können Sie Ihre Einwilligung auch
+          per E-Mail an die im Impressum genannte Adresse widerrufen. Die
+          Personalisierung von Werbeanzeigen in Ihrem Google-Konto können Sie
+          zudem jederzeit über die{' '}
           <a href="https://myadcenter.google.com/" target="_blank" rel="noopener noreferrer">
             Google-Anzeigeneinstellungen
           </a>{' '}
@@ -184,14 +216,80 @@ export default function DatenschutzPage() {
           Adresse.
         </p>
         <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
-          Für den Versand nutzen wir den Dienst Resend (Resend, Inc., USA) als
-          Auftragsverarbeiter; dabei wird Ihre E-Mail-Adresse an Resend
-          übermittelt. Die Übermittlung in die USA erfolgt nach Angaben des
-          Anbieters auf Grundlage der Standardvertragsklauseln nach Art. 46
-          Abs. 2 DSGVO. Weitere Informationen finden Sie in der{' '}
+          Für den Versand nutzen wir den Dienst Resend, betrieben von der Plus
+          Five Five, Inc. (USA), als Auftragsverarbeiter; dabei wird Ihre
+          E-Mail-Adresse an Resend übermittelt. Die Übermittlung in die USA
+          erfolgt nach Angaben des Anbieters auf Grundlage der
+          Standardvertragsklauseln nach Art. 46 Abs. 2 DSGVO sowie des EU-US
+          Data Privacy Framework einschließlich der UK-Erweiterung. Weitere
+          Informationen finden Sie in der{' '}
           <a href="https://resend.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">
             Datenschutzerklärung von Resend
           </a>.
+        </p>
+
+        <h2 style={{ fontSize: '1.25rem', marginTop: '1.5rem', marginBottom: '0.75rem' }}>
+          11. Übermittlung von Daten in Drittländer
+        </h2>
+        <p style={{ marginBottom: '1rem', lineHeight: 1.7 }}>
+          Einige der von uns eingesetzten Dienstleister verarbeiten Daten
+          außerhalb der EU beziehungsweise des EWR, insbesondere in den USA. Die
+          Übermittlung erfolgt vorrangig auf Grundlage eines
+          Angemessenheitsbeschlusses der EU-Kommission nach Art. 45 DSGVO
+          (EU-US Data Privacy Framework), soweit der jeweilige Anbieter
+          zertifiziert ist, und im Übrigen auf Grundlage von
+          Standardvertragsklauseln nach Art. 46 Abs. 2 DSGVO. Im Einzelnen:
+        </p>
+        <ul style={{ marginBottom: '1rem', lineHeight: 1.7, paddingLeft: '1.5rem' }}>
+          <li>
+            <strong>Google Ireland Limited / Google LLC (USA)</strong> für
+            AdSense: nach Angaben von Google seit dem 1. September 2023 auf
+            Grundlage des EU-US Data Privacy Framework; soweit dieses nicht
+            greift oder nicht mehr in Anspruch genommen wird, auf Grundlage der
+            Standardvertragsklauseln.
+          </li>
+          <li>
+            <strong>Vercel Inc. (USA)</strong> für Hosting und Vercel Web
+            Analytics: Standardvertragsklauseln gemäß dem Data Processing
+            Addendum von Vercel, das für Kunden der Pro- und Enterprise-Pläne
+            gilt; Vercel gibt zusätzlich eine eigene Zertifizierung nach dem
+            EU-US Data Privacy Framework an. Die Verarbeitung erfolgt
+            hauptsächlich in den USA. Für die im Rahmen von Vercel Web
+            Analytics anfallenden, aggregierten Nutzungsdaten ist Vercel nach
+            seinen eigenen Bedingungen selbst Verantwortlicher.
+          </li>
+          <li>
+            <strong>Upstash, Inc. (USA)</strong> als Betreiber der Datenbank, in
+            der die unter Ziffer 7 genannten Klick-Zähler liegen; wir beziehen
+            sie über die Vercel-Marketplace-Integration „Upstash for Redis“. Die
+            Daten werden in der Region Frankfurt am Main (EU) gespeichert; eine
+            Übermittlung in die USA erfolgt nur im Rahmen von Support- und
+            Wartungszugriffen, gestützt auf das EU-US Data Privacy Framework,
+            hilfsweise auf Standardvertragsklauseln.
+          </li>
+          <li>
+            <strong>Plus Five Five, Inc. („Resend“, USA)</strong> für den
+            Newsletter-Versand: nach Angaben des Anbieters
+            Standardvertragsklauseln; die Zertifizierung nach dem EU-US Data
+            Privacy Framework einschließlich der UK-Erweiterung ergibt sich aus
+            der Liste des US-Handelsministeriums.
+          </li>
+          <li>
+            <strong>Plausible Insights OÜ (Estland)</strong> verarbeitet und
+            speichert die unter Ziffer 9 beschriebene Reichweitenmessung
+            innerhalb der EU; eine Übermittlung in ein Drittland findet insoweit
+            nicht statt.
+          </li>
+        </ul>
+        <p style={{ lineHeight: 1.7 }}>
+          Mit den Dienstleistern, die als Auftragsverarbeiter für uns tätig
+          sind (Vercel, Resend, Plausible und Upstash), bestehen Verträge zur
+          Auftragsverarbeitung nach Art. 28 DSGVO. Eine über die genannten
+          Empfänger hinausgehende Übermittlung personenbezogener Daten durch uns
+          an Dritte oder ein Verkauf von Daten findet nicht statt. Soweit Google
+          Daten als eigenständiger Verantwortlicher an Werbepartner weitergibt,
+          richtet sich dies nach der Datenschutzerklärung von Google; die
+          beteiligten Partner sind im Einwilligungsdialog ausgewiesen.
         </p>
       </main>
 
