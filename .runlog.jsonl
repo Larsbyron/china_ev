@@ -32695,3 +32695,23 @@
 {"ts":"2026-11-05T17:14:41.503Z","source":"CarNewsChina","title":"BYD Seal 07 EV: 775 km CLTC für ca. 19.200 €","action":"editorial_revision","translation_ok":true}
 {"ts":"2026-11-05T17:14:41.505Z","source":"CarNewsChina","title":"BYD Seal 07 EV: 775 km CLTC für ca. 19.200 €","action":"draft_editorial_rejected","translation_ok":true}
 {"ts":"2026-11-05T17:14:41.514Z","source":"CarNewsChina","title":"GAC’s 99.03% efficient Quark 2.0 drive takes first prize in China’s 2026 engineering awards","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T16:39:21.530Z","source":"Autohome NewEnergy","title":"被“参数”绑架的中国车 利润率只剩1.4%？","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T16:39:22.015Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-06T16:39:22.019Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T16:39:22.022Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T16:39:22.025Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T16:39:22.029Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T16:39:22.032Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T16:39:22.039Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T16:39:22.042Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T16:39:27.105Z","source":"D1EV","title":"智驾大赛积分榜（2026年10月）","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T16:39:34.386Z","source":"Sina","title":"蔚来ES8成为第九届进博会VIP官方指定用车","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-06T16:39:34.387Z","source":"Sina","title":"通用汽车携凯迪拉克品牌亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-06T16:39:34.387Z","source":"Sina","title":"宝马集团携新世代成果亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-06T16:39:34.391Z","source":"Sina","title":"仰望U9X阿布扎比打破量产车公路极速世界纪录 跑出503.17km/h最高时速","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T16:39:40.517Z","source":"ChooseAuto","title":"503.17km/h，仰望 U9 Xtreme再破全球汽车极速纪录","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T16:39:40.876Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5157,"completion_tokens":2971,"cache_hit_tokens":3968,"cache_miss_tokens":1189,"reasoning_chars":5445,"content_chars":4475}
+{"ts":"2026-11-06T16:39:56.284Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2103,"completion_tokens":2588,"reasoning_chars":7817,"content_chars":839}
+{"ts":"2026-11-06T16:39:56.284Z","source":"CarNewsChina","title":"Chery ruft 53.882 Tiggo 5x und Omoda in China zurück","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-06T16:39:57.562Z","source":"CarNewsChina","title":"Chery ruft 53.882 Tiggo 5x und Omoda in China zurück","action":"published","translation_ok":true}
+{"ts":"2026-11-06T16:39:57.568Z","source":"CarNewsChina","title":"Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike","action":"skipped_quota","translation_ok":true}
