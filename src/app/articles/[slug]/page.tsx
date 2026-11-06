@@ -193,8 +193,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               /* Transparenz: redaktionelle Leitlinien + Quelltext (Google News). */
               publishingPrinciples: `${siteUrl}/redaktion/`,
               ...(externalSourceUrl ? { isBasedOn: externalSourceUrl } : {}),
+              /* Nur die Marke als Thema – bewusst KEIN Product/Vehicle-Node:
+                 Google liest Vehicle als Product-Subtyp und verlangt dann
+                 name + offers/review/aggregateRating. Preise/Noten haben wir
+                 nicht verlässlich, ein halber Product-Node erzeugt nur
+                 Search-Console-Fehler (WNC-10030322, 11-04). */
               ...(article.brand ? {
-                about: { '@type': 'Vehicle', manufacturer: article.brand },
+                about: { '@type': 'Brand', name: article.brand },
               } : {}),
             }),
           }}
