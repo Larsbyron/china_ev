@@ -32715,3 +32715,38 @@
 {"ts":"2026-11-06T16:39:56.284Z","source":"CarNewsChina","title":"Chery ruft 53.882 Tiggo 5x und Omoda in China zurück","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-11-06T16:39:57.562Z","source":"CarNewsChina","title":"Chery ruft 53.882 Tiggo 5x und Omoda in China zurück","action":"published","translation_ok":true}
 {"ts":"2026-11-06T16:39:57.568Z","source":"CarNewsChina","title":"Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T18:50:20.331Z","source":"CarNewsChina","title":"Chery recalls 53,882 vehicles in China after Omoda 5 rear axle detaches in Malaysia","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T18:50:22.340Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-06T18:50:22.343Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T18:50:22.346Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T18:50:22.348Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T18:50:22.350Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T18:50:22.353Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T18:50:22.356Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T18:50:22.359Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T18:50:29.867Z","source":"Sina","title":"宝马集团携新世代成果亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-06T18:50:29.867Z","source":"Sina","title":"蔚来ES8成为第九届进博会VIP官方指定用车","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-06T18:50:29.870Z","source":"Sina","title":"仰望U9X阿布扎比打破量产车公路极速世界纪录 跑出503.17km/h最高时速","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T18:50:37.038Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":5192,"completion_tokens":2496,"cache_hit_tokens":0,"cache_miss_tokens":5192,"reasoning_chars":5043,"content_chars":3193}
+{"ts":"2026-11-06T18:50:37.935Z","source":"ChooseAuto","title":"吉利星愿现象级速度解读，两年热卖百万辆，STAR限定系列再下一城","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T18:50:48.929Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":5482,"completion_tokens":3675,"cache_hit_tokens":3968,"cache_miss_tokens":1514,"reasoning_chars":7870,"content_chars":5581}
+{"ts":"2026-11-06T18:50:49.357Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1632,"completion_tokens":2113,"reasoning_chars":5389,"content_chars":1771}
+{"ts":"2026-11-06T18:50:49.357Z","source":"CarNewsChina","title":"Huawei: HarmonyOS-Cockpit im E-Dreirad ab 1.300 €","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-06T18:51:06.596Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2263,"completion_tokens":2865,"reasoning_chars":5807,"content_chars":2668}
+{"ts":"2026-11-06T18:51:06.596Z","source":"Autohome NewEnergy","title":"Chinas Autoindustrie: Nur 1,4 Prozent Gewinnmarge","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-06T18:51:06.718Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":6376,"completion_tokens":2820,"cache_hit_tokens":3840,"cache_miss_tokens":2536,"reasoning_chars":6080,"content_chars":3728}
+{"ts":"2026-11-06T18:51:07.579Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":9254,"completion_tokens":6220,"cache_hit_tokens":3840,"cache_miss_tokens":5414,"reasoning_chars":12399,"content_chars":6737}
+{"ts":"2026-11-06T18:51:14.068Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1789,"completion_tokens":1105,"reasoning_chars":2796,"content_chars":783}
+{"ts":"2026-11-06T18:51:14.068Z","source":"CarNewsChina","title":"Huawei-Cockpit im Dreirad: Vergleichsmodelle für 1.300 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-06T18:51:16.215Z","source":"CarNewsChina","title":"Huawei-Cockpit im Dreirad: Vergleichsmodelle für 1.300 €","action":"published","translation_ok":true}
+{"ts":"2026-11-06T18:51:16.220Z","source":"CarNewsChina","title":"Chery’s Audi-look Arrizo 7 sedan enters production with 1,700 km hybrid range","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T18:51:20.007Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2657,"completion_tokens":1906,"reasoning_chars":5780,"content_chars":670}
+{"ts":"2026-11-06T18:51:20.007Z","source":"D1EV","title":"Aion vorn: 96,86 Punkte im chinesischen ADAS-Ranking","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-06T18:51:22.436Z","source":"D1EV","title":"Aion vorn: 96,86 Punkte im chinesischen ADAS-Ranking","action":"published","translation_ok":true}
+{"ts":"2026-11-06T18:51:22.440Z","source":"D1EV","title":"驭势科技亮相CeMAT 2026，L4级无人驾驶牵引车实现跨设备协同作业","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T18:52:12.128Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":6882,"completion_tokens":10743,"cache_hit_tokens":3968,"cache_miss_tokens":2914,"reasoning_chars":29734,"content_chars":7548}
+{"ts":"2026-11-06T18:52:44.350Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2834,"completion_tokens":6177,"reasoning_chars":19250,"content_chars":412}
+{"ts":"2026-11-06T18:52:44.350Z","source":"Autohome NewEnergy","title":"BYD & Co.: Nur 1,4 Prozent Gewinnmarge im September","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-06T18:52:47.272Z","source":"Autohome NewEnergy","title":"BYD & Co.: Nur 1,4 Prozent Gewinnmarge im September","action":"published","translation_ok":true}
+{"ts":"2026-11-06T18:52:47.274Z","source":"Autohome NewEnergy","title":"新款领克08 EM-P上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T18:52:47.368Z","source":"weekly","title":"Top 5 KW 45","action":"weekly_published","translation_ok":true}
