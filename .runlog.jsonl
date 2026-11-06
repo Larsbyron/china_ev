@@ -32750,3 +32750,33 @@
 {"ts":"2026-11-06T18:52:47.272Z","source":"Autohome NewEnergy","title":"BYD & Co.: Nur 1,4 Prozent Gewinnmarge im September","action":"published","translation_ok":true}
 {"ts":"2026-11-06T18:52:47.274Z","source":"Autohome NewEnergy","title":"新款领克08 EM-P上市","action":"skipped_quota","translation_ok":true}
 {"ts":"2026-11-06T18:52:47.368Z","source":"weekly","title":"Top 5 KW 45","action":"weekly_published","translation_ok":true}
+{"ts":"2026-11-06T21:58:47.038Z","source":"CarNewsChina","title":"Chery recalls 53,882 vehicles in China after Omoda 5 rear axle detaches in Malaysia","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:47.041Z","source":"CarNewsChina","title":"Huawei enters China’s three-wheeled market, brings HIMA smart cockpit tech to 1500 USD e-trike","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:48.279Z","source":"Autohome NewEnergy","title":"被“参数”绑架的中国车 利润率只剩1.4%？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:48.280Z","source":"Autohome NewEnergy","title":"新款领克08 EM-P上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T21:58:48.382Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-06T21:58:48.384Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:48.387Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:48.388Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:48.393Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:48.395Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:48.397Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:48.399Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:56.358Z","source":"D1EV","title":"智驾大赛积分榜（2026年10月）","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T21:58:56.360Z","source":"D1EV","title":"驭势科技亮相CeMAT 2026，L4级无人驾驶牵引车实现跨设备协同作业","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T21:59:01.736Z","source":"Sina","title":"通用汽车携凯迪拉克品牌亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-06T21:59:01.736Z","source":"Sina","title":"宝马集团携新世代成果亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-06T21:59:01.741Z","source":"Sina","title":"仰望U9X阿布扎比打破量产车公路极速世界纪录 跑出503.17km/h最高时速","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T21:59:04.878Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5354,"completion_tokens":2856,"cache_hit_tokens":3968,"cache_miss_tokens":1386,"reasoning_chars":4677,"content_chars":3912}
+{"ts":"2026-11-06T21:59:06.849Z","source":"ChooseAuto","title":"吉利星愿现象级速度解读，两年热卖百万辆，STAR限定系列再下一城","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-06T21:59:31.594Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1964,"completion_tokens":5121,"reasoning_chars":13443,"content_chars":2594}
+{"ts":"2026-11-06T21:59:31.595Z","source":"CarNewsChina","title":"Chery Arrizo 7 startet in China als 1.700-km-Hybrid","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-06T21:59:41.716Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6904,"completion_tokens":1598,"cache_hit_tokens":3968,"cache_miss_tokens":2936,"reasoning_chars":1414,"content_chars":3621}
+{"ts":"2026-11-06T22:00:21.420Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1906,"completion_tokens":6581,"reasoning_chars":21272,"content_chars":1233}
+{"ts":"2026-11-06T22:00:21.420Z","source":"CarNewsChina","title":"Chery Arrizo 7: 1.700 km Reichweite im Plug-in-Hybrid","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-06T22:00:37.289Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6444,"completion_tokens":2552,"cache_hit_tokens":3968,"cache_miss_tokens":2476,"reasoning_chars":3702,"content_chars":4385}
+{"ts":"2026-11-06T22:00:49.552Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2124,"completion_tokens":1978,"reasoning_chars":4061,"content_chars":2378}
+{"ts":"2026-11-06T22:00:49.552Z","source":"CarNewsChina","title":"Chery Arrizo 7: 1.700 km Hybrid-Reichweite ab Q4 2026","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-06T22:00:49.553Z","source":"CarNewsChina","title":"Chery Arrizo 7: 1.700 km Hybrid-Reichweite ab Q4 2026","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-11-06T22:00:49.556Z","source":"CarNewsChina","title":"Chery’s Jetour T1 launches in China from 12,500 USD with Deepseek and 150 km electric range","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-06T22:00:49.560Z","source":"CarNewsChina","title":"BYD Seagull loses rear wheel after divider strike in Indonesia, drawing quality scrutiny","action":"skipped_quota","translation_ok":true}
