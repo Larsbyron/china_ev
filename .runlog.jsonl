@@ -32780,3 +32780,23 @@
 {"ts":"2026-11-06T22:00:49.553Z","source":"CarNewsChina","title":"Chery Arrizo 7: 1.700 km Hybrid-Reichweite ab Q4 2026","action":"draft_editorial_rejected","translation_ok":true}
 {"ts":"2026-11-06T22:00:49.556Z","source":"CarNewsChina","title":"Chery’s Jetour T1 launches in China from 12,500 USD with Deepseek and 150 km electric range","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-11-06T22:00:49.560Z","source":"CarNewsChina","title":"BYD Seagull loses rear wheel after divider strike in Indonesia, drawing quality scrutiny","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-07T15:31:14.561Z","source":"Autohome NewEnergy","title":"价格战蔓延到海外，中国车企为何先慌了？","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-07T15:31:14.598Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-07T15:31:14.600Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-07T15:31:14.602Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-07T15:31:14.605Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-07T15:31:14.608Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-07T15:31:14.610Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-07T15:31:14.613Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-07T15:31:14.617Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-07T15:31:19.052Z","source":"D1EV","title":"2026年1-9月中国乘用车出口到哪了：俄罗斯、巴西领跑整体市场，覆盖多种动力类型丨盖世汽车研究院","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-07T15:31:19.054Z","source":"D1EV","title":"125台公交车退役电池卖了300万元：溢价超119%","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-07T15:31:25.629Z","source":"Sina","title":"宝马集团携新世代成果亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-07T15:31:25.629Z","source":"Sina","title":"通用汽车携凯迪拉克品牌亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-07T15:31:25.632Z","source":"Sina","title":"仰望U9X阿布扎比打破量产车公路极速世界纪录 跑出503.17km/h最高时速","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-07T15:31:32.001Z","source":"ChooseAuto","title":"大器鼎成，仰望鼎曜超豪华行政旗舰轿车全球首发","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-07T15:31:36.818Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5460,"completion_tokens":3598,"cache_hit_tokens":3968,"cache_miss_tokens":1492,"reasoning_chars":6869,"content_chars":4503}
+{"ts":"2026-11-07T15:31:45.596Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2118,"completion_tokens":1401,"reasoning_chars":3740,"content_chars":720}
+{"ts":"2026-11-07T15:31:45.597Z","source":"CarNewsChina","title":"BYD Yangwang Altior: 5,5-Meter-Luxusliner mit Coach-Türen","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-07T15:31:50.422Z","source":"CarNewsChina","title":"BYD Yangwang Altior: 5,5-Meter-Luxusliner mit Coach-Türen","action":"published","translation_ok":true}
+{"ts":"2026-11-07T15:31:50.427Z","source":"CarNewsChina","title":"BYD’s Yangwang U9 Xtreme becomes first production car to top 500 km/h","action":"skipped_quota","translation_ok":true}
