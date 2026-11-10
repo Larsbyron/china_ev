@@ -32915,3 +32915,27 @@
 {"ts":"2026-11-10T16:52:46.096Z","source":"CarNewsChina","title":"Xiaomi Skynomad: 27.147 Verkäufe im ersten Monat","action":"published","translation_ok":true}
 {"ts":"2026-11-10T16:52:46.101Z","source":"CarNewsChina","title":"BYD offices raided over allegations Ti 7 SUV copied the Land Rover Defender","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-11-10T16:52:46.106Z","source":"CarNewsChina","title":"BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-10T22:11:42.367Z","source":"CarNewsChina","title":"BYD’s Denza D9 MPV gets a long wheelbase model, patent images reveal","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-10T22:11:43.851Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-10T22:11:43.858Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-10T22:11:43.862Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-10T22:11:43.865Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-10T22:11:43.868Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-10T22:11:43.871Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe","translation_ok":true}
+{"ts":"2026-11-10T22:11:43.874Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-10T22:11:43.878Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-10T22:11:48.288Z","source":"D1EV","title":"8.99万的德系插混轿车卖爆！大众ID. ERA 5S细分市场登顶","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-10T22:11:50.062Z","source":"Sina","title":"宝马集团携新世代成果亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-10T22:11:50.062Z","source":"Sina","title":"通用汽车携凯迪拉克品牌亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-10T22:11:50.066Z","source":"Sina","title":"仰望U9X阿布扎比打破量产车公路极速世界纪录 跑出503.17km/h最高时速","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-10T22:11:54.135Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6197,"completion_tokens":1889,"cache_hit_tokens":3840,"cache_miss_tokens":2357,"reasoning_chars":2445,"content_chars":3218}
+{"ts":"2026-11-10T22:12:05.253Z","source":"ChooseAuto","title":"发现你的皇冠：一汽丰田2027款皇冠承耀而来","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-10T22:12:05.254Z","source":"ChooseAuto","title":"发现你的皇冠：一汽丰田2027款皇冠承耀而来","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-10T22:12:05.258Z","source":"ChooseAuto","title":"长城汽车重返欧洲：一座旧工厂，能否装下新的全球化？","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-10T22:12:09.418Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1738,"completion_tokens":2506,"reasoning_chars":4913,"content_chars":2907}
+{"ts":"2026-11-10T22:12:09.419Z","source":"Autohome NewEnergy","title":"Denza N8: 890-PS-SUV startet am 12. November","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-10T22:12:33.598Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":7813,"completion_tokens":4891,"cache_hit_tokens":3968,"cache_miss_tokens":3845,"reasoning_chars":10107,"content_chars":4316}
+{"ts":"2026-11-10T22:12:52.382Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2122,"completion_tokens":3620,"reasoning_chars":10880,"content_chars":758}
+{"ts":"2026-11-10T22:12:52.383Z","source":"Autohome NewEnergy","title":"Denza N8: 1.210-PS-SUV startet am 12. November","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-10T22:12:56.099Z","source":"Autohome NewEnergy","title":"Denza N8: 1.210-PS-SUV startet am 12. November","action":"published","translation_ok":true}
+{"ts":"2026-11-10T22:12:56.102Z","source":"Autohome NewEnergy","title":"腾势D9L专利图曝光","action":"skipped_quota","translation_ok":true}
