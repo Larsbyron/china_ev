@@ -32967,3 +32967,27 @@
 {"ts":"2026-11-11T17:00:58.222Z","source":"CarNewsChina","title":"Lynk & Co 900L: Siebensitzer-Hybrid mit 70-kWh-Akku","action":"draft_editorial_rejected","translation_ok":true}
 {"ts":"2026-11-11T17:00:58.225Z","source":"CarNewsChina","title":"BYD offices raided over allegations Ti 7 SUV copied the Land Rover Defender","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-11-11T17:00:58.230Z","source":"CarNewsChina","title":"BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-11T23:25:20.839Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-11T23:25:20.844Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-11T23:25:20.846Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-11T23:25:20.848Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-11T23:25:20.851Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-11T23:25:20.853Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe","translation_ok":true}
+{"ts":"2026-11-11T23:25:20.856Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-11T23:25:20.858Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-11T23:25:20.867Z","source":"Autohome NewEnergy","title":"售34.98-45.58万元 新款奔驰GLC上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-11T23:25:23.953Z","source":"D1EV","title":"8.99万的德系插混轿车卖爆！大众ID. ERA 5S细分市场登顶","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-11T23:25:27.619Z","source":"ChooseAuto","title":"比亚迪史上最小的车型！专利已申请，网友：卖3万续航300就能火","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-11T23:25:33.820Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5269,"completion_tokens":2489,"cache_hit_tokens":5120,"cache_miss_tokens":149,"reasoning_chars":4224,"content_chars":3523}
+{"ts":"2026-11-11T23:25:33.925Z","source":"Sina","title":"蔚来ES8成为第九届进博会VIP官方指定用车","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-11T23:25:33.925Z","source":"Sina","title":"宝马集团携新世代成果亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-11T23:25:33.925Z","source":"Sina","title":"通用汽车携凯迪拉克品牌亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-11T23:25:33.927Z","source":"Sina","title":"神龙科技与火山引擎达成全面战略合作","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-11T23:25:45.279Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1824,"completion_tokens":1966,"reasoning_chars":4491,"content_chars":2058}
+{"ts":"2026-11-11T23:25:45.280Z","source":"CarNewsChina","title":"Lynk & Co 900L: Siebensitzer-PHEV mit 70-kWh-Akku","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-11T23:26:06.713Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6495,"completion_tokens":3859,"cache_hit_tokens":3968,"cache_miss_tokens":2527,"reasoning_chars":9036,"content_chars":3992}
+{"ts":"2026-11-11T23:26:17.169Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1961,"completion_tokens":1677,"reasoning_chars":4651,"content_chars":1062}
+{"ts":"2026-11-11T23:26:17.170Z","source":"CarNewsChina","title":"Lynk & Co 900L: Siebensitzer-PHEV mit 70-kWh-Akku","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-11T23:26:19.895Z","source":"CarNewsChina","title":"Lynk & Co 900L: Siebensitzer-PHEV mit 70-kWh-Akku","action":"published","translation_ok":true}
+{"ts":"2026-11-11T23:26:19.901Z","source":"CarNewsChina","title":"BYD offices raided over allegations Ti 7 SUV copied the Land Rover Defender","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-11T23:26:19.906Z","source":"CarNewsChina","title":"BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]","action":"skipped_quota","translation_ok":true}
