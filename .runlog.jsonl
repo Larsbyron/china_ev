@@ -32991,3 +32991,28 @@
 {"ts":"2026-11-11T23:26:19.895Z","source":"CarNewsChina","title":"Lynk & Co 900L: Siebensitzer-PHEV mit 70-kWh-Akku","action":"published","translation_ok":true}
 {"ts":"2026-11-11T23:26:19.901Z","source":"CarNewsChina","title":"BYD offices raided over allegations Ti 7 SUV copied the Land Rover Defender","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-11-11T23:26:19.906Z","source":"CarNewsChina","title":"BYD debuts 1,000 kW robotic EV charger with fully automated plug-in in UAE [Video]","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-12T17:26:32.886Z","source":"CarNewsChina","title":"Xpeng strengthens its Central Europe presence as L03 and G9L reach Czechia","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-12T17:26:33.273Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-12T17:26:33.278Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-12T17:26:33.280Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-12T17:26:33.283Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-12T17:26:33.285Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-12T17:26:33.288Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe","translation_ok":true}
+{"ts":"2026-11-12T17:26:33.291Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-12T17:26:33.294Z","source":"OFweek NEV","title":"基于锐胜王牌M7纯电版改装，卖26.8万的vala pro能入手吗？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-12T17:26:37.266Z","source":"D1EV","title":"聚焦全球场景 共促协同创新 | 2026 CCTA充换电技术大会在津召开","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-12T17:26:41.672Z","source":"Sina","title":"蔚来ES8成为第九届进博会VIP官方指定用车","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-12T17:26:41.675Z","source":"Sina","title":"奥迪中国双高管架构落地：张俊任总裁、穆鸿远任COO","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-12T17:26:44.475Z","source":"ChooseAuto","title":"科技新境宽五座SUV，售价26.99万起，腾势N8正式上市","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-12T17:26:44.477Z","source":"ChooseAuto","title":"无需用户支付个性溢价——自由者7要动的是整片十万级SUV的“蛋糕”","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-12T17:26:45.643Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5477,"completion_tokens":1998,"cache_hit_tokens":3840,"cache_miss_tokens":1637,"reasoning_chars":2654,"content_chars":3510}
+{"ts":"2026-11-12T17:27:02.038Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1808,"completion_tokens":3119,"reasoning_chars":6958,"content_chars":2653}
+{"ts":"2026-11-12T17:27:02.039Z","source":"Autohome NewEnergy","title":"Geely Xingyue L PLUS: Hybrid-SUV ab 20.200 € mit Laserradar","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-12T17:27:32.026Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6978,"completion_tokens":6644,"cache_hit_tokens":3968,"cache_miss_tokens":3010,"reasoning_chars":16440,"content_chars":4152}
+{"ts":"2026-11-12T17:27:44.680Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2029,"completion_tokens":2400,"reasoning_chars":6181,"content_chars":2005}
+{"ts":"2026-11-12T17:27:44.680Z","source":"Autohome NewEnergy","title":"Geely Xingyue L PLUS: Hybrid-SUV ab 20.200 € mit Laserradar","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-12T17:27:59.405Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6782,"completion_tokens":2520,"cache_hit_tokens":3968,"cache_miss_tokens":2814,"reasoning_chars":3631,"content_chars":4053}
+{"ts":"2026-11-12T17:28:35.294Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2003,"completion_tokens":7736,"reasoning_chars":22031,"content_chars":2597}
+{"ts":"2026-11-12T17:28:35.295Z","source":"Autohome NewEnergy","title":"Geely Xingyue L PLUS: ab 20.200 € mit 740 Liter Kofferraum","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-12T17:28:35.297Z","source":"Autohome NewEnergy","title":"Geely Xingyue L PLUS: ab 20.200 € mit 740 Liter Kofferraum","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-11-12T17:28:35.300Z","source":"Autohome NewEnergy","title":"2027款风云T11上市","action":"skipped_quota","translation_ok":true}
