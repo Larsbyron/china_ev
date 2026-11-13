@@ -22,7 +22,7 @@ const ENDPOINT = 'https://api.indexnow.org/indexnow'
 const BATCH = 2000
 const POSTS_DIR = path.join(process.cwd(), 'content', 'posts')
 
-const STATIC_PATHS = ['/', '/articles/', '/themen/', '/deutschland/', '/brands/', '/weekly/']
+const STATIC_PATHS = ['/', '/articles/', '/themen/', '/deutschland/', '/kaufen/', '/brands/', '/weekly/']
 
 type Args = { limit: number | null; dryRun: boolean }
 

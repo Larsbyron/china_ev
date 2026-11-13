@@ -122,6 +122,14 @@ export default function SiteHeader() {
           </Link>
 
           <Link
+            href="/kaufen"
+            className={`${styles.navLink} ${isActive('/kaufen') ? styles.navLinkActive : ''}`}
+            aria-current={isActive('/kaufen') ? 'page' : undefined}
+          >
+            Kaufen
+          </Link>
+
+          <Link
             href="/brands"
             className={`${styles.navLink} ${isActive('/brands') ? styles.navLinkActive : ''}`}
             aria-current={isActive('/brands') ? 'page' : undefined}
@@ -192,6 +200,9 @@ export default function SiteHeader() {
           <Link href="/deutschland" className={`${styles.mobileNavLink} ${isActive('/deutschland') ? styles.mobileNavActive : ''}`}>
             <span className={styles.deBadge} aria-hidden="true">DE</span>
             In Deutschland
+          </Link>
+          <Link href="/kaufen" className={`${styles.mobileNavLink} ${isActive('/kaufen') ? styles.mobileNavActive : ''}`}>
+            Kaufen
           </Link>
           <Link href="/brands" className={`${styles.mobileNavLink} ${isActive('/brands') ? styles.mobileNavActive : ''}`}>Marken</Link>
           <Link href="/weekly" className={`${styles.mobileNavLink} ${isActive('/weekly') ? styles.mobileNavActive : ''}`}>Weekly</Link>
