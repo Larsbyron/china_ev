@@ -33016,3 +33016,16 @@
 {"ts":"2026-11-12T17:28:35.295Z","source":"Autohome NewEnergy","title":"Geely Xingyue L PLUS: ab 20.200 € mit 740 Liter Kofferraum","action":"editorial_revision","translation_ok":true}
 {"ts":"2026-11-12T17:28:35.297Z","source":"Autohome NewEnergy","title":"Geely Xingyue L PLUS: ab 20.200 € mit 740 Liter Kofferraum","action":"draft_editorial_rejected","translation_ok":true}
 {"ts":"2026-11-12T17:28:35.300Z","source":"Autohome NewEnergy","title":"2027款风云T11上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T17:00:40.573Z","source":"ChooseAuto","title":"","action":"error","translation_ok":false}
+{"ts":"2026-11-13T17:00:47.561Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-13T17:00:47.565Z","source":"OFweek NEV","title":"26.99万元起！腾势N8正式上市，重塑35万级豪华大五座SUV价值标杆","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T17:00:49.437Z","source":"Autohome NewEnergy","title":"星越L PLUS正式开启预售 先享价15.77万起","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T17:00:52.638Z","source":"D1EV","title":"聚焦全球场景 共促协同创新 | 2026 CCTA充换电技术大会在津召开","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T17:00:55.363Z","source":"Sina","title":"蔚来ES8成为第九届进博会VIP官方指定用车","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-13T17:00:55.363Z","source":"Sina","title":"宝马集团携新世代成果亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-13T17:00:55.365Z","source":"Sina","title":"新能源矩阵扩充，NISMO正式引入 NISSAN DAY开启品牌进阶","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T17:01:00.988Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5322,"completion_tokens":2526,"cache_hit_tokens":3968,"cache_miss_tokens":1354,"reasoning_chars":4328,"content_chars":3441}
+{"ts":"2026-11-13T17:01:07.931Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":1859,"completion_tokens":1351,"reasoning_chars":3346,"content_chars":794}
+{"ts":"2026-11-13T17:01:07.931Z","source":"CarNewsChina","title":"Arcfox Beta T1: Wechselakku-Stadtflitzer ab 6.700 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-13T17:01:14.728Z","source":"CarNewsChina","title":"Arcfox Beta T1: Wechselakku-Stadtflitzer ab 6.700 €","action":"published","translation_ok":true}
+{"ts":"2026-11-13T17:01:14.732Z","source":"CarNewsChina","title":"Dutch court orders Jaguar Land Rover to destroy seized BYD Ti 7 files or face 553,850 USD penalty","action":"skipped_quota","translation_ok":true}
