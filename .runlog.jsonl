@@ -33029,3 +33029,40 @@
 {"ts":"2026-11-13T17:01:07.931Z","source":"CarNewsChina","title":"Arcfox Beta T1: Wechselakku-Stadtflitzer ab 6.700 €","action":"editorial_approved","translation_ok":true}
 {"ts":"2026-11-13T17:01:14.728Z","source":"CarNewsChina","title":"Arcfox Beta T1: Wechselakku-Stadtflitzer ab 6.700 €","action":"published","translation_ok":true}
 {"ts":"2026-11-13T17:01:14.732Z","source":"CarNewsChina","title":"Dutch court orders Jaguar Land Rover to destroy seized BYD Ti 7 files or face 553,850 USD penalty","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T19:09:18.647Z","source":"CarNewsChina","title":"Arcfox launches new battery-swappable Beta S3 and Beta T1 models","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-13T19:09:20.915Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-13T19:09:24.542Z","source":"D1EV","title":"聚焦全球场景 共促协同创新 | 2026 CCTA充换电技术大会在津召开","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T19:09:26.230Z","source":"Sina","title":"通用汽车携凯迪拉克品牌亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-13T19:09:26.230Z","source":"Sina","title":"宝马集团携新世代成果亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-13T19:09:26.232Z","source":"Sina","title":"新能源矩阵扩充，NISMO正式引入 NISSAN DAY开启品牌进阶","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T19:09:34.626Z","source":"ChooseAuto","title":"极狐贝塔T1换电版上市：5.2万元起，贝塔S3新增激光换电版","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-13T19:09:34.626Z","source":"ChooseAuto","title":"宽适人生，豪华新境！腾势 N8 上市，26.99 万元起","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-13T19:09:34.628Z","source":"ChooseAuto","title":"预售价冲击市场 东风日产NX7 12.99万元起售","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T19:09:41.049Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":5344,"completion_tokens":3605,"cache_hit_tokens":3840,"cache_miss_tokens":1504,"reasoning_chars":6709,"content_chars":4172}
+{"ts":"2026-11-13T19:09:41.108Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":5707,"completion_tokens":4251,"cache_hit_tokens":0,"cache_miss_tokens":5707,"reasoning_chars":8957,"content_chars":5188}
+{"ts":"2026-11-13T19:09:51.839Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":5492,"completion_tokens":5316,"cache_hit_tokens":3840,"cache_miss_tokens":1652,"reasoning_chars":12465,"content_chars":4598}
+{"ts":"2026-11-13T19:09:59.005Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2138,"completion_tokens":1219,"reasoning_chars":2614,"content_chars":732}
+{"ts":"2026-11-13T19:09:59.006Z","source":"Autohome NewEnergy","title":"Geely Xingyue L PLUS: 5-Meter-SUV ab 20.200 €","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-13T19:10:00.177Z","source":"Autohome NewEnergy","title":"Geely Xingyue L PLUS: 5-Meter-SUV ab 20.200 €","action":"published","translation_ok":true}
+{"ts":"2026-11-13T19:10:00.179Z","source":"Autohome NewEnergy","title":"日产Z Nismo国内首发","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T19:10:01.899Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2064,"completion_tokens":3900,"reasoning_chars":8488,"content_chars":3543}
+{"ts":"2026-11-13T19:10:01.900Z","source":"OFweek NEV","title":"Denza N8 startet in China ab 34.500 € mit 1003 km CLTC","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-13T19:10:04.888Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2268,"completion_tokens":4590,"reasoning_chars":13426,"content_chars":1248}
+{"ts":"2026-11-13T19:10:04.888Z","source":"CarNewsChina","title":"BYD Ti 7: JLR muss Beweise löschen – 500.000 € Strafe","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-13T19:10:39.416Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":6654,"completion_tokens":7220,"cache_hit_tokens":3968,"cache_miss_tokens":2686,"reasoning_chars":18219,"content_chars":5482}
+{"ts":"2026-11-13T19:10:53.519Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":null,"finish_reason":"stop","max_tokens":16384,"prompt_tokens":7109,"completion_tokens":10182,"cache_hit_tokens":3840,"cache_miss_tokens":3269,"reasoning_chars":25626,"content_chars":5351}
+{"ts":"2026-11-13T19:11:00.825Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2445,"completion_tokens":1404,"reasoning_chars":2988,"content_chars":1132}
+{"ts":"2026-11-13T19:11:00.826Z","source":"OFweek NEV","title":"Denza N8: Fünfsitzer ab 34.500 € mit 2,98 s auf 100","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-13T19:11:09.555Z","source":"OFweek NEV","title":"Denza N8: Fünfsitzer ab 34.500 € mit 2,98 s auf 100","action":"published","translation_ok":true}
+{"ts":"2026-11-13T19:11:09.558Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-13T19:11:09.560Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-13T19:11:09.562Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-13T19:11:09.564Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-13T19:11:09.567Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe","translation_ok":true}
+{"ts":"2026-11-13T19:11:09.569Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-13T19:11:24.651Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"length","max_tokens":8192,"prompt_tokens":2370,"completion_tokens":8192,"reasoning_chars":29931,"content_chars":0}
+{"ts":"2026-11-13T19:11:50.849Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":16384,"prompt_tokens":2370,"completion_tokens":5004,"reasoning_chars":16680,"content_chars":672}
+{"ts":"2026-11-13T19:11:50.849Z","source":"CarNewsChina","title":"BYD Ti 7: JLR droht 500.000 € Zwangsgeld","action":"editorial_approved","translation_ok":true}
+{"ts":"2026-11-13T19:11:53.432Z","source":"CarNewsChina","title":"BYD Ti 7: JLR droht 500.000 € Zwangsgeld","action":"published","translation_ok":true}
+{"ts":"2026-11-13T19:11:53.436Z","source":"CarNewsChina","title":"Jetour’s first BEV: The TX to open pre-sales on November 16 with 550 km CLTC range","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-13T19:11:53.550Z","source":"weekly","title":"Top 5 KW 46","action":"weekly_published","translation_ok":true}
