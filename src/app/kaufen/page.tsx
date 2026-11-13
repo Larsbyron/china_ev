@@ -131,9 +131,10 @@ export default function KaufenPage() {
               <table className={styles.table}>
                 <caption className={styles.tableCaption}>
                   Unverbindliche Preisempfehlungen inkl. 19 % MwSt., zzgl. Überführung und
-                  Zulassung. Bei Leapmotor und BYD stammen die Preise aus den Preislisten, WLTP
-                  und Batteriekapazität aus den Broschüren; beim Zeekr 7X ist der Preis ein
-                  modellweiter Einstiegspreis ohne Variantenzuordnung.
+                  Zulassung. Bei BYD stammen die Preise aus der Preisliste, WLTP-Reichweite und
+                  Batteriekapazität aus den Broschüren; bei Leapmotor stehen beide Angaben in der
+                  Preisliste. Beim Zeekr 7X ist der Preis ein modellweiter Einstiegspreis ohne
+                  Variantenzuordnung.
                 </caption>
                 <thead>
                   <tr>
