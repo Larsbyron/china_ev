@@ -1,6 +1,6 @@
 ---
 title: "BYD 2026 in Deutschland: Alle E-Bonus-Angebote – und wer die beworbenen Preise wirklich bekommt"
-date: 2026-11-14T09:00:00.000Z
+date: 2026-11-13T22:30:00.000Z
 description: "BYD bewirbt zehn Modelle mit Aktionspreisen bis zu 21.000 Euro unter Liste. Die Zahlen setzen den BYD E-Bonus und die maximale staatliche Förderung voraus – Letztere ist an Einkommen und Kinderzahl gebunden. Alle Listenpreise, alle Aktionen, und was am Ende wirklich zu zahlen ist."
 source: "E-AUTOS Redaktion"
 image: "/images/byd-angebote-2026-deutschland.webp"
