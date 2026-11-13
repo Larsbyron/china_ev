@@ -54,3 +54,27 @@ jobs:
           fi
 
           echo "Content validation passed."
+
+  # 新文章/改稿 push 后立即通知 Bing 系索引（Bing/DuckDuckGo/Ecosia/Yahoo 共用 Bing 索引）。
+  # 之前只有 Daily Pipeline 会提交，手动写或手改的文章要等下一次定时任务才被推送。
+  # 只提交最近 15 条；失败不阻断。
+  indexnow:
+    runs-on: ubuntu-latest
+    needs: quality
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Submit recent URLs to IndexNow
+        continue-on-error: true
+        run: npx tsx scripts/indexnow.ts --limit 15
