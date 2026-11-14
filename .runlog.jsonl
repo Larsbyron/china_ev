@@ -33089,3 +33089,29 @@
 {"ts":"2026-11-13T22:32:00.623Z","source":"CarNewsChina","title":"Jetour TX: Cherys Elektro-SUV startet mit 550 km CLTC","action":"published","translation_ok":true}
 {"ts":"2026-11-13T22:32:00.627Z","source":"CarNewsChina","title":"Lynk & Co unveils seven-seat 900L PHEV flagship with 70 kWh battery","action":"skipped_dupe_url","translation_ok":true}
 {"ts":"2026-11-13T22:32:00.632Z","source":"CarNewsChina","title":"BYD Seal 07 performs autonomous emergency steering at 130 km/h to avoid collision [VIDEO]","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-14T15:39:29.119Z","source":"OFweek NEV","title":"【Xauto智驾榜】小米澎程N70 HyperOS1.18.3城区评测报告","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-14T15:39:29.122Z","source":"OFweek NEV","title":"26.99万元起！腾势N8正式上市，重塑35万级豪华大五座SUV价值标杆","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-14T15:39:29.123Z","source":"OFweek NEV","title":"【Xauto智驾榜】理想L9 Livis OTA9.1.0城区评测报告","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-14T15:39:29.125Z","source":"OFweek NEV","title":"预算35万买豪华硬派SUV，2027款坦克500值不值得入手？","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-14T15:39:29.126Z","source":"OFweek NEV","title":"2027款长安启源A06上市，这些缺点能接受就果断入手","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-14T15:39:29.128Z","source":"OFweek NEV","title":"30万元级“大湾区揽胜”，小鹏GX到底值不值得买？｜节点试驾","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-14T15:39:29.129Z","source":"OFweek NEV","title":"在网友看来，小鹏G9L的价格还是高了","action":"skipped_dupe","translation_ok":true}
+{"ts":"2026-11-14T15:39:29.131Z","source":"OFweek NEV","title":"华为乾崑 ADS 5 相比ADS 4 提升在哪里？城区少接管了，还敢压着线走","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-14T15:39:29.327Z","source":"Autohome NewEnergy","title":"奕境X9纯电版将首发","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-14T15:39:32.155Z","source":"D1EV","title":"聚焦全球场景 共促协同创新 | 2026 CCTA充换电技术大会在津召开","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-14T15:39:42.569Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":5633,"completion_tokens":2592,"cache_hit_tokens":3968,"cache_miss_tokens":1665,"reasoning_chars":3638,"content_chars":4582}
+{"ts":"2026-11-14T15:39:44.265Z","source":"Sina","title":"通用汽车携凯迪拉克品牌亮相第九届进博会","action":"skipped_title_dupe","translation_ok":true}
+{"ts":"2026-11-14T15:39:44.267Z","source":"Sina","title":"新能源矩阵扩充，NISMO正式引入 NISSAN DAY开启品牌进阶","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-14T15:39:46.058Z","source":"ChooseAuto","title":"37.98万起，鸿蒙智行家庭智慧旗舰SUV问界新M8正式上市","action":"skipped_quota","translation_ok":true}
+{"ts":"2026-11-14T15:39:57.552Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2176,"completion_tokens":3309,"reasoning_chars":8464,"content_chars":2482}
+{"ts":"2026-11-14T15:39:57.553Z","source":"CarNewsChina","title":"BYD Seagull ab 8.400 €: Neuauflage mit Heckantrieb","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-14T15:40:15.826Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6956,"completion_tokens":3564,"cache_hit_tokens":3968,"cache_miss_tokens":2988,"reasoning_chars":6320,"content_chars":4774}
+{"ts":"2026-11-14T15:40:41.946Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2201,"completion_tokens":5044,"reasoning_chars":14292,"content_chars":2342}
+{"ts":"2026-11-14T15:40:41.946Z","source":"CarNewsChina","title":"BYD Seagull: Fünfsitzer ab 8.400 € unter Druck von Geely","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-14T15:40:58.590Z","kind":"llm","model":"deepseek-flash","phase":"translate","reasoning_effort":"low","finish_reason":"stop","max_tokens":16384,"prompt_tokens":6973,"completion_tokens":3208,"cache_hit_tokens":3968,"cache_miss_tokens":3005,"reasoning_chars":5314,"content_chars":4583}
+{"ts":"2026-11-14T15:41:24.097Z","kind":"llm","model":"deepseek-flash","phase":"editorial","finish_reason":"stop","max_tokens":8192,"prompt_tokens":2182,"completion_tokens":5172,"reasoning_chars":15675,"content_chars":1315}
+{"ts":"2026-11-14T15:41:24.098Z","source":"CarNewsChina","title":"BYD Seagull ab 8.400 € — Geely EX2 zieht davon","action":"editorial_revision","translation_ok":true}
+{"ts":"2026-11-14T15:41:24.099Z","source":"CarNewsChina","title":"BYD Seagull ab 8.400 € — Geely EX2 zieht davon","action":"draft_editorial_rejected","translation_ok":true}
+{"ts":"2026-11-14T15:41:24.103Z","source":"CarNewsChina","title":"Dutch court orders Jaguar Land Rover to destroy seized BYD Ti 7 files or face 553,850 USD penalty","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-14T15:41:24.105Z","source":"CarNewsChina","title":"Jetour’s first BEV: The TX to open pre-sales on November 16 with 550 km CLTC range","action":"skipped_dupe_url","translation_ok":true}
+{"ts":"2026-11-14T15:41:24.108Z","source":"CarNewsChina","title":"BYD’s Denza N8 EV launches in China: up to 1,003 km all-electric range, starting from 40,300 USD","action":"skipped_quota","translation_ok":true}
